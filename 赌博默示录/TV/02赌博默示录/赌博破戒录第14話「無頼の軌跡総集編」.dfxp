@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="0t" end="0t" region="bottomCenter" style="s1" xml:id="subtitle0">-----------------</p>
+<p begin="0t" end="0t" region="bottomCenter" style="s1" xml:id="subtitle1">----------------</p>
+<p begin="0t" end="0t" region="bottomCenter" style="s1" xml:id="subtitle2">----------------------</p>
+<p begin="12500000t" end="55500000t" region="bottomCenter" style="s1" xml:id="subtitle3"><font face="方正大标宋_GBK" size="72" color="#c00612"><b><i>{\an5}雪酷</i></b></font></p>
+<p begin="12500000t" end="55500000t" region="bottomCenter" style="s1" xml:id="subtitle4"><font face="方正大标宋_GBK" size="72" color="#000000"><b><i>{\an5}雪酷</i></b></font></p>
+<p begin="12500000t" end="55500000t" region="bottomCenter" style="s1" xml:id="subtitle5"><font face="方正大标宋_GBK" size="22" color="#eaecf0"><b><i>{\an5}字幕组</i></b></font></p>
+<p begin="20900000t" end="55500000t" region="bottomCenter" style="s1" xml:id="subtitle6"><font face="方正大标宋_GBK" size="62" color="#000000"><b>{\an5}）</b></font></p>
+<p begin="654800000t" end="680200000t" region="bottomCenter" style="s1" xml:id="subtitle7"><font face="方正准圆_GBK" size="30"><b>{\an8}本字幕由雪酷字幕组制作 仅供交流 若您喜欢请支持购买正版</b></font></p>
+<p begin="654800000t" end="709200000t" region="bottomCenter" style="s1" xml:id="subtitle8"><font face="方正准圆_GBK" size="30"><b>{\an8}翻译：最爱炮姐   后期：蝦條不脆</b></font></p>
+<p begin="680200000t" end="709200000t" region="bottomCenter" style="s1" xml:id="subtitle9"><font face="方正准圆_GBK" size="30"><b>{\an8}对字幕制作有任何建议 欢迎至雪酷论坛(http://bbs.sc-ol.com/)参与讨论</b></font></p>
+<p begin="743300000t" end="760900000t" region="bottomCenter" style="s1" xml:id="subtitle10">为什么就是不中啊</p>
+<p begin="796200000t" end="809500000t" region="bottomCenter" style="s1" xml:id="subtitle11">我靠谁踢的啊</p>
+<p begin="810100000t" end="818400000t" region="bottomCenter" style="s1" xml:id="subtitle12">不妙</p>
+<p begin="829000000t" end="864000000t" region="bottomCenter" style="s1" xml:id="subtitle13"><font face="方正准圆_GBK" size="40"><b>{\an5}无赖的经历</b></font></p>
+<p begin="829000000t" end="864000000t" region="bottomCenter" style="s1" xml:id="subtitle14"><font face="方正准圆_GBK" size="40"><b>{\an5}<font size="30">（总集篇）</font></b></font></p>
+<p begin="854400000t" end="910100000t" region="bottomCenter" style="s1" xml:id="subtitle15">每天混日子的平凡男子开司</p>
+<p begin="914800000t" end="953400000t" region="bottomCenter" style="s1" xml:id="subtitle16">而那个男人 第三次出现在了这位开司的面前</p>
+<p begin="954200000t" end="970200000t" region="bottomCenter" style="s1" xml:id="subtitle17">远藤</p>
+<p begin="976100000t" end="997500000t" region="bottomCenter" style="s1" xml:id="subtitle18">妈的 这个人渣</p>
+<p begin="1029100000t" end="1073600000t" region="bottomCenter" style="s1" xml:id="subtitle19">因为自身的负债 经过无良高利贷远藤之手</p>
+<p begin="1074600000t" end="1094800000t" region="bottomCenter" style="s1" xml:id="subtitle20">开司被送去了地下</p>
+<p begin="1123800000t" end="1154700000t" region="bottomCenter" style="s1" xml:id="subtitle21">连在哪里都不知道 地底深处</p>
+<p begin="1159300000t" end="1187000000t" region="bottomCenter" style="s1" xml:id="subtitle22">亡灵栖息的强制劳动设施</p>
+<p begin="1195300000t" end="1214900000t" region="bottomCenter" style="s1" xml:id="subtitle23">不可能逃离的地下要塞</p>
+<p begin="1221600000t" end="1261900000t" region="bottomCenter" style="s1" xml:id="subtitle24">开司不得不在这个完全和地上隔离的地下社会</p>
+<p begin="1264500000t" end="1292800000t" region="bottomCenter" style="s1" xml:id="subtitle25">持续工作15年</p>
+<p begin="1331800000t" end="1366800000t" region="bottomCenter" style="s1" xml:id="subtitle26">唯一的希望就是「一日外出券」</p>
+<p begin="1380800000t" end="1392800000t" region="bottomCenter" style="s1" xml:id="subtitle27">可是</p>
+<p begin="1397700000t" end="1452200000t" region="bottomCenter" style="s1" xml:id="subtitle28">开司在难以形容的粗重工作和压抑的生活中</p>
+<p begin="1458800000t" end="1503700000t" region="bottomCenter" style="s1" xml:id="subtitle29">简简单单地就败在了班长的三寸不烂之舌之下</p>
+<p begin="1518300000t" end="1548700000t" region="bottomCenter" style="s1" xml:id="subtitle30">在这个极端缺少娱乐的地下社会</p>
+<p begin="1553000000t" end="1579400000t" region="bottomCenter" style="s1" xml:id="subtitle31">连小小的诱惑也十分强烈</p>
+<p begin="1589600000t" end="1614300000t" region="bottomCenter" style="s1" xml:id="subtitle32">一旦尝过之后就会无法抗拒</p>
+<p begin="1620400000t" end="1656800000t" region="bottomCenter" style="s1" xml:id="subtitle33">没错 即使心里明白也无法阻止的欲求</p>
+<p begin="1658800000t" end="1675300000t" region="bottomCenter" style="s1" xml:id="subtitle34">无法抑制的欲望</p>
+<p begin="1698600000t" end="1735100000t" region="bottomCenter" style="s1" xml:id="subtitle35">回过神来时 开司已经掉到了底部的底部</p>
+<p begin="1743600000t" end="1778500000t" region="bottomCenter" style="s1" xml:id="subtitle36">地狱的最深处</p>
+<p begin="1840600000t" end="1878000000t" region="bottomCenter" style="s1" xml:id="subtitle37">随后 班长大槻开始了下一步</p>
+<p begin="1887500000t" end="1895100000t" region="bottomCenter" style="s1" xml:id="subtitle38">借贷？</p>
+<p begin="1900800000t" end="1930700000t" region="bottomCenter" style="s1" xml:id="subtitle39">就是预先支付薪水 我来做担保</p>
+<p begin="1935400000t" end="1954700000t" region="bottomCenter" style="s1" xml:id="subtitle40">但是如果这么做的话…</p>
+<p begin="1960100000t" end="2002600000t" region="bottomCenter" style="s1" xml:id="subtitle41">大槻提议预支薪水 这是…</p>
+<p begin="2005900000t" end="2050400000t" region="bottomCenter" style="s1" xml:id="subtitle42">别急 不够的份你来补上不就行了</p>
+<p begin="2055000000t" end="2093100000t" region="bottomCenter" style="s1" xml:id="subtitle43">传闻你相当有一手呢</p>
+<p begin="2097800000t" end="2137700000t" region="bottomCenter" style="s1" xml:id="subtitle44">怎么样 今晚用这玩意来「复活」</p>
+<p begin="2198300000t" end="2232000000t" region="bottomCenter" style="s1" xml:id="subtitle45">在地底的深处 恶魔发来了邀请</p>
+<p begin="2234700000t" end="2249400000t" region="bottomCenter" style="s1" xml:id="subtitle46">骰子赌博</p>
+<p begin="2253000000t" end="2271300000t" region="bottomCenter" style="s1" xml:id="subtitle47">多人比大小</p>
+<p begin="2305200000t" end="2340100000t" region="bottomCenter" style="s1" xml:id="subtitle48">地下掷骰子有特殊规则</p>
+<p begin="2361400000t" end="2404100000t" region="bottomCenter" style="s1" xml:id="subtitle49">不管庄家是几点 都是大的一方获胜</p>
+<p begin="2419100000t" end="2468200000t" region="bottomCenter" style="s1" xml:id="subtitle50">还有 不想当庄家的可以不当 可以无视</p>
+<p begin="2476800000t" end="2517500000t" region="bottomCenter" style="s1" xml:id="subtitle51">即使坐庄 也只有两次</p>
+<p begin="2532100000t" end="2575600000t" region="bottomCenter" style="s1" xml:id="subtitle52">还有押注上限是两万倍利卡</p>
+<p begin="2587600000t" end="2609900000t" region="bottomCenter" style="s1" xml:id="subtitle53">差不多开始吧</p>
+<p begin="2613100000t" end="2647300000t" region="bottomCenter" style="s1" xml:id="subtitle54">然而 在开司首次坐庄之时</p>
+<p begin="2651600000t" end="2671900000t" region="bottomCenter" style="s1" xml:id="subtitle55">为了给开司的首次庄家讨个好彩头</p>
+<p begin="2674500000t" end="2696600000t" region="bottomCenter" style="s1" xml:id="subtitle56">押个大注当红包吧</p>
+<p begin="2714200000t" end="2723400000t" region="bottomCenter" style="s1" xml:id="subtitle57">两万倍利卡？</p>
+<p begin="2732800000t" end="2745000000t" region="bottomCenter" style="s1" xml:id="subtitle58">那我也来</p>
+<p begin="2750600000t" end="2777100000t" region="bottomCenter" style="s1" xml:id="subtitle59">押注的金额皆是上限两万</p>
+<p begin="2809700000t" end="2818900000t" region="bottomCenter" style="s1" xml:id="subtitle60">这些家伙</p>
+<p begin="2825900000t" end="2858200000t" region="bottomCenter" style="s1" xml:id="subtitle61">就在等这一刻吗 等着我坐庄</p>
+<p begin="2865700000t" end="2885000000t" region="bottomCenter" style="s1" xml:id="subtitle62">下套的班长大槻</p>
+<p begin="2897800000t" end="2906900000t" region="bottomCenter" style="s1" xml:id="subtitle63">石和</p>
+<p begin="2916900000t" end="2937800000t" region="bottomCenter" style="s1" xml:id="subtitle64">456 翻两倍</p>
+<p begin="2938900000t" end="2950400000t" region="bottomCenter" style="s1" xml:id="subtitle65">好耶</p>
+<p begin="3039100000t" end="3067500000t" region="bottomCenter" style="s1" xml:id="subtitle66">大槻 全色5 赢三倍</p>
+<p begin="3071400000t" end="3091200000t" region="bottomCenter" style="s1" xml:id="subtitle67">这 这不可能</p>
+<p begin="3094900000t" end="3131100000t" region="bottomCenter" style="s1" xml:id="subtitle68">开司 不好意思 你破产了</p>
+<p begin="3147100000t" end="3165300000t" region="bottomCenter" style="s1" xml:id="subtitle69">开司昏厥</p>
+<p begin="3171100000t" end="3221900000t" region="bottomCenter" style="s1" xml:id="subtitle70">在地底深处的深处 还是朝着负债地狱突入</p>
+<p begin="3246200000t" end="3306000000t" region="bottomCenter" style="s1" xml:id="subtitle71">后来发现 三好把自己参加的掷骰子出的点数全部记录下来了</p>
+<p begin="3312700000t" end="3335900000t" region="bottomCenter" style="s1" xml:id="subtitle72">开司看到班长大槻的点数记录之后</p>
+<p begin="3338600000t" end="3356700000t" region="bottomCenter" style="s1" xml:id="subtitle73">产生了一个疑惑</p>
+<p begin="3364800000t" end="3388600000t" region="bottomCenter" style="s1" xml:id="subtitle74">那就是 出老千</p>
+<p begin="3392600000t" end="3407000000t" region="bottomCenter" style="s1" xml:id="subtitle75">冷不丁的说什么呢混账</p>
+<p begin="3411700000t" end="3421800000t" region="bottomCenter" style="s1" xml:id="subtitle76">开司兄</p>
+<p begin="3431900000t" end="3449200000t" region="bottomCenter" style="s1" xml:id="subtitle77">就算在这里也还是败者组吗</p>
+<p begin="3468200000t" end="3498600000t" region="bottomCenter" style="s1" xml:id="subtitle78">开司开始说服45组的5人</p>
+<p begin="3503900000t" end="3527600000t" region="bottomCenter" style="s1" xml:id="subtitle79">他们都是从大槻那里预支薪水</p>
+<p begin="3529000000t" end="3592700000t" region="bottomCenter" style="s1" xml:id="subtitle80">导致薪水只有4万5千 所以大家鄙视地称之为45组</p>
+<p begin="3601900000t" end="3633000000t" region="bottomCenter" style="s1" xml:id="subtitle81">这样可不行 要全力以赴</p>
+<p begin="3635800000t" end="3667900000t" region="bottomCenter" style="s1" xml:id="subtitle82">用我们所能达到的最大力量</p>
+<p begin="3673100000t" end="3710400000t" region="bottomCenter" style="s1" xml:id="subtitle83">来吧 差不多该赢一把了吧</p>
+<p begin="3715300000t" end="3746800000t" region="bottomCenter" style="s1" xml:id="subtitle84">开司为了能全力对抗大槻</p>
+<p begin="3748300000t" end="3773000000t" region="bottomCenter" style="s1" xml:id="subtitle85">宣言道直到拿到正规薪水9万为止</p>
+<p begin="3776200000t" end="3819800000t" region="bottomCenter" style="s1" xml:id="subtitle86">用六人手头的6万来撑过三个月</p>
+<p begin="3837700000t" end="3862300000t" region="bottomCenter" style="s1" xml:id="subtitle87">站起来 获得胜利吧</p>
+<p begin="3884900000t" end="3907600000t" region="bottomCenter" style="s1" xml:id="subtitle88">45组 集结</p>
+<p begin="3917700000t" end="3941700000t" region="bottomCenter" style="s1" xml:id="subtitle89">败家犬之中的败者组</p>
+<p begin="3947200000t" end="3971500000t" region="bottomCenter" style="s1" xml:id="subtitle90">这些身处底层中的底层的男人们</p>
+<p begin="3973300000t" end="3996700000t" region="bottomCenter" style="s1" xml:id="subtitle91">现在将手叠在一起站了起来</p>
+<p begin="4018200000t" end="4036800000t" region="bottomCenter" style="s1" xml:id="subtitle92">为了打倒大槻！！</p>
+<p begin="4054900000t" end="4110400000t" region="bottomCenter" style="s1" xml:id="subtitle93">但是班长集团一次又一次找碴 阴险地刁难</p>
+<p begin="4110600000t" end="4121300000t" region="bottomCenter" style="s1" xml:id="subtitle94">太过分了</p>
+<p begin="4146200000t" end="4209500000t" region="bottomCenter" style="s1" xml:id="subtitle95">但是他选择忍耐忍耐 再忍耐</p>
+<p begin="4225100000t" end="4241300000t" region="bottomCenter" style="s1" xml:id="subtitle96">然后在三个月后</p>
+<p begin="4298700000t" end="4307300000t" region="bottomCenter" style="s1" xml:id="subtitle97">终于到手了</p>
+<p begin="4311600000t" end="4343200000t" region="bottomCenter" style="s1" xml:id="subtitle98">正规薪水 9万1千倍利卡</p>
+<p begin="4363100000t" end="4405000000t" region="bottomCenter" style="s1" xml:id="subtitle99">大决战 决胜负之日来到了</p>
+<p begin="4442900000t" end="4454300000t" region="bottomCenter" style="s1" xml:id="subtitle100">这样好吗</p>
+<p begin="4457300000t" end="4484700000t" region="bottomCenter" style="s1" xml:id="subtitle101">我要是过去就不只是玩玩而已了</p>
+<p begin="4493100000t" end="4520900000t" region="bottomCenter" style="s1" xml:id="subtitle102">我会超过上限的</p>
+<p begin="4551700000t" end="4583500000t" region="bottomCenter" style="s1" xml:id="subtitle103">接受这点也是班长的职责</p>
+<p begin="4588000000t" end="4602000000t" region="bottomCenter" style="s1" xml:id="subtitle104">来吧 开司</p>
+<p begin="4608700000t" end="4623600000t" region="bottomCenter" style="s1" xml:id="subtitle105">我接受！</p>
+<p begin="4664000000t" end="4681300000t" region="bottomCenter" style="s1" xml:id="subtitle106">超越极限</p>
+<p begin="4733000000t" end="4762100000t" region="bottomCenter" style="s1" xml:id="subtitle107">开司赌上性命的战斗</p>
+<p begin="4787100000t" end="4804900000t" region="bottomCenter" style="s1" xml:id="subtitle108">开始了！！</p>
+<p begin="4835800000t" end="4876400000t" region="bottomCenter" style="s1" xml:id="subtitle109">在大槻轮到坐庄时 开司决定放手一搏</p>
+<p begin="4877200000t" end="4885200000t" region="bottomCenter" style="s1" xml:id="subtitle110">现在</p>
+<p begin="4898400000t" end="4908900000t" region="bottomCenter" style="s1" xml:id="subtitle111">就是现在</p>
+<p begin="4917700000t" end="4925100000t" region="bottomCenter" style="s1" xml:id="subtitle112">集合</p>
+<p begin="5023100000t" end="5068800000t" region="bottomCenter" style="s1" xml:id="subtitle113">45组的五人 每人都押了全部财产9万1千</p>
+<p begin="5072300000t" end="5104600000t" region="bottomCenter" style="s1" xml:id="subtitle114">加上开司押的 合计50万7千</p>
+<p begin="5115600000t" end="5150100000t" region="bottomCenter" style="s1" xml:id="subtitle115">只能让人认为是疯狂之举 MAX的一注</p>
+<p begin="5224700000t" end="5277600000t" region="bottomCenter" style="s1" xml:id="subtitle116">对开司有所戒备 第一第二掷都没有用456骰子的大槻</p>
+<p begin="5288800000t" end="5295700000t" region="bottomCenter" style="s1" xml:id="subtitle117">出动了</p>
+<p begin="5309200000t" end="5337000000t" region="bottomCenter" style="s1" xml:id="subtitle118">魔法456骰子</p>
+<p begin="5342300000t" end="5359700000t" region="bottomCenter" style="s1" xml:id="subtitle119">合并</p>
+<p begin="5380700000t" end="5417800000t" region="bottomCenter" style="s1" xml:id="subtitle120">判断开司没有看破老千手法的第三掷</p>
+<p begin="5500300000t" end="5512500000t" region="bottomCenter" style="s1" xml:id="subtitle121">遗恨之战</p>
+<p begin="5514800000t" end="5557800000t" region="bottomCenter" style="s1" xml:id="subtitle122">开司VS班长大槻 这场因缘之战</p>
+<p begin="5565900000t" end="5610300000t" region="bottomCenter" style="s1" xml:id="subtitle123">班长的花色将会决定其结果 还有几秒</p>
+<p begin="5630700000t" end="5642600000t" region="bottomCenter" style="s1" xml:id="subtitle124">这时</p>
+<p begin="5668300000t" end="5722300000t" region="bottomCenter" style="s1" xml:id="subtitle125">伸进去了 开司将手伸入了神的时间</p>
+<p begin="5775000000t" end="5828100000t" region="bottomCenter" style="s1" xml:id="subtitle126">开司终于将班长大槻的常胜秘诀大白于天下</p>
+<p begin="5844000000t" end="5856400000t" region="bottomCenter" style="s1" xml:id="subtitle127">痛痛痛</p>
+<p begin="5862700000t" end="5894900000t" region="bottomCenter" style="s1" xml:id="subtitle128">听好了 这些家伙们出老千了</p>
+<p begin="5895500000t" end="5900800000t" region="bottomCenter" style="s1" xml:id="subtitle129">什…</p>
+<p begin="5906500000t" end="5920200000t" region="bottomCenter" style="s1" xml:id="subtitle130">你说什么呢</p>
+<p begin="5926600000t" end="5939000000t" region="bottomCenter" style="s1" xml:id="subtitle131">别胡说八道了</p>
+<p begin="5948700000t" end="5972000000t" region="bottomCenter" style="s1" xml:id="subtitle132">还给我 你这小子</p>
+<p begin="5977700000t" end="6004100000t" region="bottomCenter" style="s1" xml:id="subtitle133">饶不了你 我饶不了你</p>
+<p begin="6012200000t" end="6025600000t" region="bottomCenter" style="s1" xml:id="subtitle134">住手 大槻</p>
+<p begin="6050600000t" end="6065400000t" region="bottomCenter" style="s1" xml:id="subtitle135">我们来检查吧</p>
+<p begin="6073700000t" end="6108100000t" region="bottomCenter" style="s1" xml:id="subtitle136">随后 其他班的班长介入此事</p>
+<p begin="6111400000t" end="6167100000t" region="bottomCenter" style="s1" xml:id="subtitle137">也证明了那是只有456的456作弊骰子</p>
+<p begin="6178200000t" end="6208500000t" region="bottomCenter" style="s1" xml:id="subtitle138">其机关在众目睽睽之下曝光</p>
+<p begin="6228100000t" end="6251200000t" region="bottomCenter" style="s1" xml:id="subtitle139">这个是什么时候开始用的</p>
+<p begin="6254600000t" end="6285600000t" region="bottomCenter" style="s1" xml:id="subtitle140">这还用说嘛 刚才是第一次用</p>
+<p begin="6289000000t" end="6329500000t" region="bottomCenter" style="s1" xml:id="subtitle141">而且本来今天也没有打算用</p>
+<p begin="6332900000t" end="6351500000t" region="bottomCenter" style="s1" xml:id="subtitle142">拼命寻找退路</p>
+<p begin="6356900000t" end="6399400000t" region="bottomCenter" style="s1" xml:id="subtitle143">然后 大槻的脑中闪现出了突破口</p>
+<p begin="6403900000t" end="6425000000t" region="bottomCenter" style="s1" xml:id="subtitle144">构建起自身的「理」</p>
+<p begin="6445700000t" end="6468200000t" region="bottomCenter" style="s1" xml:id="subtitle145">开司抢走碗时</p>
+<p begin="6478300000t" end="6525900000t" region="bottomCenter" style="s1" xml:id="subtitle146">骰子还在转 花色还没出来呢</p>
+<p begin="6528400000t" end="6566100000t" region="bottomCenter" style="s1" xml:id="subtitle147">也就是说 这局胜负还未定</p>
+<p begin="6573700000t" end="6590400000t" region="bottomCenter" style="s1" xml:id="subtitle148">没有成立</p>
+<p begin="6595900000t" end="6616300000t" region="bottomCenter" style="s1" xml:id="subtitle149">所以根本没有老千什么的</p>
+<p begin="6622600000t" end="6633600000t" region="bottomCenter" style="s1" xml:id="subtitle150">不成立</p>
+<p begin="6636500000t" end="6649400000t" region="bottomCenter" style="s1" xml:id="subtitle151">不算</p>
+<p begin="6650200000t" end="6663800000t" region="bottomCenter" style="s1" xml:id="subtitle152">不算</p>
+<p begin="6668400000t" end="6686800000t" region="bottomCenter" style="s1" xml:id="subtitle153">不算数啊</p>
+<p begin="6689600000t" end="6703400000t" region="bottomCenter" style="s1" xml:id="subtitle154">开什么玩笑</p>
+<p begin="6712500000t" end="6733200000t" region="bottomCenter" style="s1" xml:id="subtitle155">重来什么的就算了吧</p>
+<p begin="6739300000t" end="6747400000t" region="bottomCenter" style="s1" xml:id="subtitle156">但是</p>
+<p begin="6751500000t" end="6764700000t" region="bottomCenter" style="s1" xml:id="subtitle157">但是？</p>
+<p begin="6770800000t" end="6799500000t" region="bottomCenter" style="s1" xml:id="subtitle158">我倒是可以考虑一下「继续」</p>
+<p begin="6824000000t" end="6886400000t" region="bottomCenter" style="s1" xml:id="subtitle159">作为出老千的惩罚 大槻的花色定为4继续比赛</p>
+<p begin="6886700000t" end="6919400000t" region="bottomCenter" style="s1" xml:id="subtitle160">虽然条件很苛刻</p>
+<p begin="6928300000t" end="6941900000t" region="bottomCenter" style="s1" xml:id="subtitle161">不过别无他法</p>
+<p begin="6964400000t" end="6972600000t" region="bottomCenter" style="s1" xml:id="subtitle162">很好</p>
+<p begin="6972900000t" end="7008900000t" region="bottomCenter" style="s1" xml:id="subtitle163">随后 开司的反击开始了</p>
+<p begin="7014300000t" end="7024000000t" region="bottomCenter" style="s1" xml:id="subtitle164">接招吧</p>
+<p begin="7084700000t" end="7108100000t" region="bottomCenter" style="s1" xml:id="subtitle165">什…</p>
+<p begin="7108600000t" end="7133700000t" region="bottomCenter" style="s1" xml:id="subtitle166">全色1 赢五倍</p>
+<p begin="7136100000t" end="7169500000t" region="bottomCenter" style="s1" xml:id="subtitle167">1 1 1！？</p>
+<p begin="7172500000t" end="7194800000t" region="bottomCenter" style="s1" xml:id="subtitle168">6个面全是1啊</p>
+<p begin="7195800000t" end="7207400000t" region="bottomCenter" style="s1" xml:id="subtitle169">1 1 1</p>
+<p begin="7214500000t" end="7234700000t" region="bottomCenter" style="s1" xml:id="subtitle170">我这边也准备了</p>
+<p begin="7237800000t" end="7269000000t" region="bottomCenter" style="s1" xml:id="subtitle171">白痴 这种玩意怎么可能算数啊</p>
+<p begin="7290000000t" end="7303500000t" region="bottomCenter" style="s1" xml:id="subtitle172">我应该确认过了</p>
+<p begin="7306800000t" end="7352200000t" region="bottomCenter" style="s1" xml:id="subtitle173">「像你们一样 用事先准备好的特殊骰子」</p>
+<p begin="7355900000t" end="7386900000t" region="bottomCenter" style="s1" xml:id="subtitle174">不行 这种歪理怎么可能成立啊</p>
+<p begin="7387900000t" end="7397500000t" region="bottomCenter" style="s1" xml:id="subtitle175">蛮不讲理</p>
+<p begin="7403600000t" end="7435000000t" region="bottomCenter" style="s1" xml:id="subtitle176">之后 三好他们45组也继开司之后</p>
+<p begin="7438900000t" end="7459000000t" region="bottomCenter" style="s1" xml:id="subtitle177">上吧 不用客气</p>
+<p begin="7466200000t" end="7473600000t" region="bottomCenter" style="s1" xml:id="subtitle178">是</p>
+<p begin="7508700000t" end="7517200000t" region="bottomCenter" style="s1" xml:id="subtitle179">全色1</p>
+<p begin="7529900000t" end="7540800000t" region="bottomCenter" style="s1" xml:id="subtitle180">全色1</p>
+<p begin="7554500000t" end="7565800000t" region="bottomCenter" style="s1" xml:id="subtitle181">全色1</p>
+<p begin="7578300000t" end="7592200000t" region="bottomCenter" style="s1" xml:id="subtitle182">全色1！</p>
+<p begin="7602400000t" end="7618400000t" region="bottomCenter" style="s1" xml:id="subtitle183">全色1！！</p>
+<p begin="7624000000t" end="7643400000t" region="bottomCenter" style="s1" xml:id="subtitle184">连续6次全色1</p>
+<p begin="7681000000t" end="7692100000t" region="bottomCenter" style="s1" xml:id="subtitle185">翻五倍</p>
+<p begin="7697200000t" end="7743900000t" region="bottomCenter" style="s1" xml:id="subtitle186">开司他们45组 进账了253万5千</p>
+<p begin="7753200000t" end="7786200000t" region="bottomCenter" style="s1" xml:id="subtitle187">意志消沉 打算离去的大槻</p>
+<p begin="7798700000t" end="7838000000t" region="bottomCenter" style="s1" xml:id="subtitle188">可是 开司阻止了他</p>
+<p begin="7843900000t" end="7854000000t" region="bottomCenter" style="s1" xml:id="subtitle189">坐下</p>
+<p begin="7861000000t" end="7890300000t" region="bottomCenter" style="s1" xml:id="subtitle190">再当一次庄家 我们「继续」</p>
+<p begin="7910000000t" end="7923500000t" region="bottomCenter" style="s1" xml:id="subtitle191">再一次…</p>
+<p begin="7924300000t" end="7971400000t" region="bottomCenter" style="s1" xml:id="subtitle192">那里堆积的是总额304万2千</p>
+<p begin="7985300000t" end="8011000000t" region="bottomCenter" style="s1" xml:id="subtitle193">这个男人 黑崎义裕</p>
+<p begin="8012800000t" end="8055400000t" region="bottomCenter" style="s1" xml:id="subtitle194">在利根川失势之后 成为帝爱集团NO.2的人物</p>
+<p begin="8066000000t" end="8117200000t" region="bottomCenter" style="s1" xml:id="subtitle195">由于黑崎来做裁判 大槻不得不用普通骰子来决胜负</p>
+<p begin="8129100000t" end="8163200000t" region="bottomCenter" style="s1" xml:id="subtitle196">大槻祈祷 能够掷出可以平手的 奇迹一般的全色1</p>
+<p begin="8182700000t" end="8226500000t" region="bottomCenter" style="s1" xml:id="subtitle197">不过这种好事一般是不会发生的</p>
+<p begin="8236600000t" end="8249700000t" region="bottomCenter" style="s1" xml:id="subtitle198">花色是3</p>
+<p begin="8265200000t" end="8278800000t" region="bottomCenter" style="s1" xml:id="subtitle199">然后全部吐了出来</p>
+<p begin="8283000000t" end="8318700000t" region="bottomCenter" style="s1" xml:id="subtitle200">把至今为止用肮脏手段搞来的钱 几乎所有</p>
+<p begin="8327400000t" end="8359300000t" region="bottomCenter" style="s1" xml:id="subtitle201">开司他们赢得了相当于180万日元</p>
+<p begin="8361100000t" end="8394300000t" region="bottomCenter" style="s1" xml:id="subtitle202">一口气获得了地下三年份的薪水</p>
+<p begin="8426400000t" end="8458800000t" region="bottomCenter" style="s1" xml:id="subtitle203">成功脱离地狱的开司</p>
+<p begin="8465900000t" end="8502200000t" region="bottomCenter" style="s1" xml:id="subtitle204">能够逗留在地上的时间 20天</p>
+<p begin="8508400000t" end="8526400000t" region="bottomCenter" style="s1" xml:id="subtitle205">480小时</p>
+<p begin="8539900000t" end="8590700000t" region="bottomCenter" style="s1" xml:id="subtitle206">在这段时间内 要把包含了5个留在地下的45组的欠债</p>
+<p begin="8594600000t" end="8628800000t" region="bottomCenter" style="s1" xml:id="subtitle207">6075万赚到手不可</p>
+<p begin="8634300000t" end="8664200000t" region="bottomCenter" style="s1" xml:id="subtitle208">托付给开司的本金只有区区80万</p>
+<p begin="8686600000t" end="8748200000t" region="bottomCenter" style="s1" xml:id="subtitle209">出现在到处寻找起死回生的赚钱之法的开司面前的是</p>
+<p begin="8751600000t" end="8765000000t" region="bottomCenter" style="s1" xml:id="subtitle210">坂崎</p>
+<p begin="8807800000t" end="8842800000t" region="bottomCenter" style="s1" xml:id="subtitle211">跟着坂崎所到达的地下赌场中</p>
+<p begin="8846000000t" end="8869300000t" region="bottomCenter" style="s1" xml:id="subtitle212">开司遇到的是…</p>
+<p begin="8873800000t" end="8884900000t" region="bottomCenter" style="s1" xml:id="subtitle213">那是什么玩意</p>
+<p begin="8896100000t" end="8945600000t" region="bottomCenter" style="s1" xml:id="subtitle214">是这里的焦点柏青哥机 地下柏青哥之王 顶点</p>
+<p begin="8956500000t" end="9009100000t" region="bottomCenter" style="s1" xml:id="subtitle215">千倍台 一个弹珠4000日元的柏青哥</p>
+<p begin="9011800000t" end="9031100000t" region="bottomCenter" style="s1" xml:id="subtitle216">只要能中 就有五亿六亿</p>
+<p begin="9040300000t" end="9060700000t" region="bottomCenter" style="s1" xml:id="subtitle217">究极的怪兽机</p>
+<p begin="9064200000t" end="9090500000t" region="bottomCenter" style="s1" xml:id="subtitle218">沼泽 吃人沼泽</p>
+<p begin="9101000000t" end="9109900000t" region="bottomCenter" style="s1" xml:id="subtitle219">利根川</p>
+<p begin="9118000000t" end="9129600000t" region="bottomCenter" style="s1" xml:id="subtitle220">兵藤</p>
+<p begin="9134700000t" end="9183700000t" region="bottomCenter" style="s1" xml:id="subtitle221">据坂崎所说 只有那两人是成功攻略沼泽的「达成者」</p>
+<p begin="9187200000t" end="9223300000t" region="bottomCenter" style="s1" xml:id="subtitle222">何等恶缘啊 这里也是你们的巢穴吗</p>
+<p begin="9236600000t" end="9278900000t" region="bottomCenter" style="s1" xml:id="subtitle223">于是开司决定帮助坂崎挑战沼泽</p>
+<p begin="9289300000t" end="9315100000t" region="bottomCenter" style="s1" xml:id="subtitle224">沼泽有三道难关</p>
+<p begin="9327700000t" end="9353900000t" region="bottomCenter" style="s1" xml:id="subtitle225">第一关是 钉子林</p>
+<p begin="9367900000t" end="9385300000t" region="bottomCenter" style="s1" xml:id="subtitle226">而这就是第二关</p>
+<p begin="9395000000t" end="9436000000t" region="bottomCenter" style="s1" xml:id="subtitle227">把守在圆盘前 不停弹开弹珠的 反复无常的守卫</p>
+<p begin="9452000000t" end="9468300000t" region="bottomCenter" style="s1" xml:id="subtitle228">棘手的调皮鬼</p>
+<p begin="9497500000t" end="9535200000t" region="bottomCenter" style="s1" xml:id="subtitle229">而第三关则是这台沼泽的精华所在</p>
+<p begin="9536300000t" end="9562200000t" region="bottomCenter" style="s1" xml:id="subtitle230">难以攻下的最终堡垒</p>
+<p begin="9565100000t" end="9578500000t" region="bottomCenter" style="s1" xml:id="subtitle231">三层圆盘</p>
+<p begin="9596100000t" end="9640900000t" region="bottomCenter" style="s1" xml:id="subtitle232">而坂崎攻略沼泽的秘密兵器就是</p>
+<p begin="9664900000t" end="9701000000t" region="bottomCenter" style="s1" xml:id="subtitle233">挖空底部 塞进磁铁的作弊啤酒</p>
+<p begin="9729600000t" end="9740700000t" region="bottomCenter" style="s1" xml:id="subtitle234">来啦来啦来啦</p>
+<p begin="9745200000t" end="9767600000t" region="bottomCenter" style="s1" xml:id="subtitle235">第三层了 上啊</p>
+<p begin="9806800000t" end="9842600000t" region="bottomCenter" style="s1" xml:id="subtitle236">很好 发动 磁铁啤酒</p>
+<p begin="9845700000t" end="9885800000t" region="bottomCenter" style="s1" xml:id="subtitle237">改变吧 改变轨迹将我引导至…</p>
+<p begin="9887100000t" end="9907300000t" region="bottomCenter" style="s1" xml:id="subtitle238">通向胜利的大道</p>
+<p begin="9942200000t" end="9996800000t" region="bottomCenter" style="s1" xml:id="subtitle239">然而知道坂崎所得到的所有情报都是赌场撒下的饵时</p>
+<p begin="9997800000t" end="10012900000t" region="bottomCenter" style="s1" xml:id="subtitle240">开司愕然</p>
+<p begin="10021000000t" end="10031100000t" region="bottomCenter" style="s1" xml:id="subtitle241">什 什么</p>
+<p begin="10044500000t" end="10060500000t" region="bottomCenter" style="s1" xml:id="subtitle242">不妙 全暴露了</p>
+<p begin="10062400000t" end="10080600000t" region="bottomCenter" style="s1" xml:id="subtitle243">敌人全都知道</p>
+<p begin="10092800000t" end="10139600000t" region="bottomCenter" style="s1" xml:id="subtitle244">而坂崎那边很快就用完了两千万</p>
+<p begin="10155400000t" end="10195300000t" region="bottomCenter" style="s1" xml:id="subtitle245">白痴 还有什么能来得及啊</p>
+<p begin="10197500000t" end="10222900000t" region="bottomCenter" style="s1" xml:id="subtitle246">我说过 那笔钱就是一切</p>
+<p begin="10226500000t" end="10268000000t" region="bottomCenter" style="s1" xml:id="subtitle247">那笔钱就是我的未来 我的所有希望啊</p>
+<p begin="10282600000t" end="10317800000t" region="bottomCenter" style="s1" xml:id="subtitle248">必须要夺回来 无论如何也要…</p>
+<p begin="10329300000t" end="10351700000t" region="bottomCenter" style="s1" xml:id="subtitle249">再次开始 坂崎</p>
+<p begin="10359600000t" end="10381500000t" region="bottomCenter" style="s1" xml:id="subtitle250">全部财产2000万全部用完</p>
+<p begin="10383490000t" end="10404400000t" region="bottomCenter" style="s1" xml:id="subtitle251">终于开始动用他人的钱</p>
+<p begin="10408690000t" end="10439800000t" region="bottomCenter" style="s1" xml:id="subtitle252">紧急筹措来的赃款 3000万</p>
+<p begin="10449700000t" end="10488300000t" region="bottomCenter" style="s1" xml:id="subtitle253">然后向着超越极限的疯狂世界</p>
+<p begin="10490400000t" end="10511200000t" region="bottomCenter" style="s1" xml:id="subtitle254">…魔鬼的领域突入</p>
+<p begin="10531600000t" end="10556800000t" region="bottomCenter" style="s1" xml:id="subtitle255">拜托了 进去吧</p>
+<p begin="10575000000t" end="10593800000t" region="bottomCenter" style="s1" xml:id="subtitle256">赐予我吧</p>
+<p begin="10602300000t" end="10650600000t" region="bottomCenter" style="s1" xml:id="subtitle257">再一次将那段生活 时光赐予我吧</p>
+<p begin="10660800000t" end="10699400000t" region="bottomCenter" style="s1" xml:id="subtitle258">神啊 神啊 神啊</p>
+<p begin="10699700000t" end="10717000000t" region="bottomCenter" style="s1" xml:id="subtitle259">只要现在能吸过来</p>
+<p begin="10718200000t" end="10730300000t" region="bottomCenter" style="s1" xml:id="subtitle260">就能赢</p>
+<p begin="10737500000t" end="10756400000t" region="bottomCenter" style="s1" xml:id="subtitle261">上啊 给我进去</p>
+<p begin="10905100000t" end="10912200000t" region="bottomCenter" style="s1" xml:id="subtitle262">大叔</p>
+<p begin="10920400000t" end="10927400000t" region="bottomCenter" style="s1" xml:id="subtitle263">大叔</p>
+<p begin="10969200000t" end="10975700000t" region="bottomCenter" style="s1" xml:id="subtitle264">大叔</p>
+<p begin="11016000000t" end="11051500000t" region="bottomCenter" style="s1" xml:id="subtitle265">您的朋友不要紧吧 开司先生</p>
+<p begin="11053000000t" end="11087500000t" region="bottomCenter" style="s1" xml:id="subtitle266">帝爱的年轻精英 店长一条</p>
+<p begin="11097200000t" end="11118900000t" region="bottomCenter" style="s1" xml:id="subtitle267">对开司他们来说简直是糟到极点</p>
+<p begin="11124400000t" end="11146300000t" region="bottomCenter" style="s1" xml:id="subtitle268">糟到极点的发展</p>
+<p begin="11158200000t" end="11206600000t" region="bottomCenter" style="s1" xml:id="subtitle269">这天坂崎手中剩下的仅仅只有638万</p>
+<p begin="11210700000t" end="11249100000t" region="bottomCenter" style="s1" xml:id="subtitle270">才两个多小时就输了足足4362万</p>
+<p begin="11249400000t" end="11289600000t" region="bottomCenter" style="s1" xml:id="subtitle271">妈的 全部都是诱饵</p>
+<p begin="11294000000t" end="11330400000t" region="bottomCenter" style="s1" xml:id="subtitle272">钉距调整预定表 一切的一切</p>
+<p begin="11334000000t" end="11360900000t" region="bottomCenter" style="s1" xml:id="subtitle273">不甘心 我好不甘心啊</p>
+<p begin="11383200000t" end="11435800000t" region="bottomCenter" style="s1" xml:id="subtitle274">可是第二天 来到赌场的开司得到了上天的启示</p>
+<p begin="11468500000t" end="11522900000t" region="bottomCenter" style="s1" xml:id="subtitle275">开司的感性 直觉渐渐觉醒 得到了意料之外的情报</p>
+<p begin="11537400000t" end="11553700000t" region="bottomCenter" style="s1" xml:id="subtitle276">开司掌握了</p>
+<p begin="11562600000t" end="11585900000t" region="bottomCenter" style="s1" xml:id="subtitle277">吃人沼泽的突破口</p>
+<p begin="11594200000t" end="11611000000t" region="bottomCenter" style="s1" xml:id="subtitle278">攻略的入口</p>
+<p begin="11615300000t" end="11628300000t" region="bottomCenter" style="s1" xml:id="subtitle279">可以突破</p>
+<p begin="11693700000t" end="11733300000t" region="bottomCenter" style="s1" xml:id="subtitle280">如何是好 我今后该如何是好啊</p>
+<p begin="11739200000t" end="11754600000t" region="bottomCenter" style="s1" xml:id="subtitle281">别去期盼奇迹</p>
+<p begin="11765300000t" end="11787100000t" region="bottomCenter" style="s1" xml:id="subtitle282">飞奔到札幌赛马场的开司</p>
+<p begin="11789400000t" end="11824700000t" region="bottomCenter" style="s1" xml:id="subtitle283">对坂崎说明了攻略沼泽的手法 并加以说服</p>
+<p begin="11829900000t" end="11842800000t" region="bottomCenter" style="s1" xml:id="subtitle284">我已经有胜算了</p>
+<p begin="11849700000t" end="11861800000t" region="bottomCenter" style="s1" xml:id="subtitle285">攻略沼泽</p>
+<p begin="11873400000t" end="11895000000t" region="bottomCenter" style="s1" xml:id="subtitle286">攻略沼泽？</p>
+<p begin="11925700000t" end="11950100000t" region="bottomCenter" style="s1" xml:id="subtitle287">好久不见了呢 远藤老兄</p>
+<p begin="11970400000t" end="11981500000t" region="bottomCenter" style="s1" xml:id="subtitle288">开司</p>
+<p begin="11988100000t" end="12048600000t" region="bottomCenter" style="s1" xml:id="subtitle289">第二天 开司居然到了那个不良高利贷的面前</p>
+<p begin="12052500000t" end="12104800000t" region="bottomCenter" style="s1" xml:id="subtitle290">远藤因无法偿还帝爱的借款 正被逼入绝境</p>
+<p begin="12125900000t" end="12137900000t" region="bottomCenter" style="s1" xml:id="subtitle291">在这上面签名</p>
+<p begin="12146300000t" end="12181500000t" region="bottomCenter" style="s1" xml:id="subtitle292">现金五百万 三只乌鸦的借据</p>
+<p begin="12200400000t" end="12240200000t" region="bottomCenter" style="s1" xml:id="subtitle293">最终 开司说服远藤</p>
+<p begin="12270300000t" end="12287100000t" region="bottomCenter" style="s1" xml:id="subtitle294">拿去吧 五百万</p>
+<p begin="12293700000t" end="12310500000t" region="bottomCenter" style="s1" xml:id="subtitle295">成功拉他入伙</p>
+<p begin="12314900000t" end="12345600000t" region="bottomCenter" style="s1" xml:id="subtitle296">很好 大叔 大干一场吧</p>
+<p begin="12355200000t" end="12377800000t" region="bottomCenter" style="s1" xml:id="subtitle297">离远藤老兄出场还有一段时间</p>
+<p begin="12387800000t" end="12405400000t" region="bottomCenter" style="s1" xml:id="subtitle298">我们今晚就要行动</p>
+<p begin="12431100000t" end="12442500000t" region="bottomCenter" style="s1" xml:id="subtitle299">我明白</p>
+<p begin="12462100000t" end="12474700000t" region="bottomCenter" style="s1" xml:id="subtitle300">我明白</p>
+<p begin="12496300000t" end="12530900000t" region="bottomCenter" style="s1" xml:id="subtitle301">男子汉坂崎</p>
+<p begin="12534800000t" end="12587800000t" region="bottomCenter" style="s1" xml:id="subtitle302">一生一次大闹一场</p>
+<p begin="12635400000t" end="12698900000t" region="bottomCenter" style="s1" xml:id="subtitle303">拼了 开路 首先由我来开路</p>
+<p begin="12726000000t" end="12744300000t" region="bottomCenter" style="s1" xml:id="subtitle304">拜托你了 大叔</p>
+<p begin="12747500000t" end="12767000000t" region="bottomCenter" style="s1" xml:id="subtitle305">绝不允许失败</p>
+<p begin="12773700000t" end="12793400000t" region="bottomCenter" style="s1" xml:id="subtitle306">逆转胜利的布局</p>
+<p begin="12797800000t" end="12819800000t" region="bottomCenter" style="s1" xml:id="subtitle307">第二回合的锣声敲响了</p>
+<p begin="12824400000t" end="12834200000t" region="bottomCenter" style="s1" xml:id="subtitle308">敲响了</p>
+</div>
+</body>
+</tt>

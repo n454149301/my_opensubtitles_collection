@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="654800000t" end="678200000t" region="bottomCenter" style="s1" xml:id="subtitle0"><font face="方正准圆_GBK" size="28"><b>{\an8}本字幕由雪酷字幕组制作 仅供交流 若您喜欢请支持购买正版</b></font></p>
+<p begin="654800000t" end="707200000t" region="bottomCenter" style="s1" xml:id="subtitle1"><font face="方正准圆_GBK" size="28"><b>{\an8}翻译：最爱炮姐   后期：蝦條不脆</b></font></p>
+<p begin="678200000t" end="707200000t" region="bottomCenter" style="s1" xml:id="subtitle2"><font face="方正准圆_GBK" size="28"><b>{\an8}对字幕制作有任何建议 欢迎至雪酷论坛(http://bbs.sc-ol.com/)参与讨论</b></font></p>
+<p begin="722400000t" end="767500000t" region="bottomCenter" style="s1" xml:id="subtitle3">突然阻挡在开司面前的究极之壁</p>
+<p begin="786400000t" end="799800000t" region="bottomCenter" style="s1" xml:id="subtitle4">风壁</p>
+<p begin="806700000t" end="827700000t" region="bottomCenter" style="s1" xml:id="subtitle5">开司 败北</p>
+<p begin="837100000t" end="871400000t" region="bottomCenter" style="s1" xml:id="subtitle6"><font face="方正准圆_GBK" size="40"><b>{\an5}怨恨之泪</b></font></p>
+<p begin="877300000t" end="894300000t" region="bottomCenter" style="s1" xml:id="subtitle7">开 开司</p>
+<p begin="1013100000t" end="1024400000t" region="bottomCenter" style="s1" xml:id="subtitle8">该走了</p>
+<p begin="1028600000t" end="1034100000t" region="bottomCenter" style="s1" xml:id="subtitle9">别碰我</p>
+<p begin="1038300000t" end="1059400000t" region="bottomCenter" style="s1" xml:id="subtitle10">等等 先等等</p>
+<p begin="1070900000t" end="1084500000t" region="bottomCenter" style="s1" xml:id="subtitle11">我还有钱</p>
+<p begin="1099700000t" end="1135000000t" region="bottomCenter" style="s1" xml:id="subtitle12">出地下时拿的80万</p>
+<p begin="1143100000t" end="1170200000t" region="bottomCenter" style="s1" xml:id="subtitle13">稍微用了一点 还有72万</p>
+<p begin="1198500000t" end="1228300000t" region="bottomCenter" style="s1" xml:id="subtitle14">用这些钱还能再打吧 用这个</p>
+<p begin="1275600000t" end="1287400000t" region="bottomCenter" style="s1" xml:id="subtitle15">你干嘛</p>
+<p begin="1312700000t" end="1350600000t" region="bottomCenter" style="s1" xml:id="subtitle16">不行不行 不能打 就凭这点零钱</p>
+<p begin="1355200000t" end="1378700000t" region="bottomCenter" style="s1" xml:id="subtitle17">沼泽的弹珠卡最少也要三百万</p>
+<p begin="1387100000t" end="1405800000t" region="bottomCenter" style="s1" xml:id="subtitle18">就通融一下吧…</p>
+<p begin="1415800000t" end="1422300000t" region="bottomCenter" style="s1" xml:id="subtitle19">稍微卖我一点</p>
+<p begin="1454100000t" end="1471200000t" region="bottomCenter" style="s1" xml:id="subtitle20">不行不行</p>
+<p begin="1479000000t" end="1493300000t" region="bottomCenter" style="s1" xml:id="subtitle21">请回吧</p>
+<p begin="1502600000t" end="1515700000t" region="bottomCenter" style="s1" xml:id="subtitle22">一条</p>
+<p begin="1575600000t" end="1626100000t" region="bottomCenter" style="s1" xml:id="subtitle23">谁来救救我 借…借我点钱吧</p>
+<p begin="1629700000t" end="1654800000t" region="bottomCenter" style="s1" xml:id="subtitle24">只差一点 我只差一点了啊</p>
+<p begin="1659700000t" end="1683000000t" region="bottomCenter" style="s1" xml:id="subtitle25">差一点就能攻下沼泽了啊</p>
+<p begin="1688400000t" end="1699500000t" region="bottomCenter" style="s1" xml:id="subtitle26">你们应该明白才对啊</p>
+<p begin="1702700000t" end="1724400000t" region="bottomCenter" style="s1" xml:id="subtitle27">谁 谁都行 借我</p>
+<p begin="1729400000t" end="1753800000t" region="bottomCenter" style="s1" xml:id="subtitle28">把钱押在我身上啊</p>
+<p begin="1759600000t" end="1778500000t" region="bottomCenter" style="s1" xml:id="subtitle29">押我拼一拼啊</p>
+<p begin="1785000000t" end="1824800000t" region="bottomCenter" style="s1" xml:id="subtitle30">快来人 押我拼一拼啊啊啊</p>
+<p begin="1829300000t" end="1855900000t" region="bottomCenter" style="s1" xml:id="subtitle31">开司兄 开司兄</p>
+<p begin="1891200000t" end="1906000000t" region="bottomCenter" style="s1" xml:id="subtitle32">结束了</p>
+<p begin="2027500000t" end="2072300000t" region="bottomCenter" style="s1" xml:id="subtitle33">谁来 押我拼一拼啊 快来啊</p>
+<p begin="2116900000t" end="2128700000t" region="bottomCenter" style="s1" xml:id="subtitle34">白痴</p>
+<p begin="2151400000t" end="2193900000t" region="bottomCenter" style="s1" xml:id="subtitle35">谁会把钱借给你啊</p>
+<p begin="2196900000t" end="2234100000t" region="bottomCenter" style="s1" xml:id="subtitle36">借给你这种败者 丧家犬</p>
+<p begin="2244600000t" end="2267600000t" region="bottomCenter" style="s1" xml:id="subtitle37">你已经输了</p>
+<p begin="2273900000t" end="2297800000t" region="bottomCenter" style="s1" xml:id="subtitle38">垃圾 破产 你已经破产了</p>
+<p begin="2306100000t" end="2327500000t" region="bottomCenter" style="s1" xml:id="subtitle39">破产</p>
+<p begin="2469200000t" end="2479900000t" region="bottomCenter" style="s1" xml:id="subtitle40">是谁</p>
+<p begin="2499300000t" end="2511800000t" region="bottomCenter" style="s1" xml:id="subtitle41">一条老弟</p>
+<p begin="2534500000t" end="2556500000t" region="bottomCenter" style="s1" xml:id="subtitle42">你真是个冷酷的人</p>
+<p begin="2567000000t" end="2574200000t" region="bottomCenter" style="s1" xml:id="subtitle43">这声音是…</p>
+<p begin="2581700000t" end="2588800000t" region="bottomCenter" style="s1" xml:id="subtitle44">什么</p>
+<p begin="2603100000t" end="2652200000t" region="bottomCenter" style="s1" xml:id="subtitle45">仅有的钱 自己的棺材本</p>
+<p begin="2665300000t" end="2710600000t" region="bottomCenter" style="s1" xml:id="subtitle46">对那个人来说 就像是生命的烛光</p>
+<p begin="2748300000t" end="2769400000t" region="bottomCenter" style="s1" xml:id="subtitle47">正是他活下去的希望啊</p>
+<p begin="2775700000t" end="2811700000t" region="bottomCenter" style="s1" xml:id="subtitle48">而你 却一直都在剥夺</p>
+<p begin="2818300000t" end="2842400000t" region="bottomCenter" style="s1" xml:id="subtitle49">用这台怪物 残忍地…</p>
+<p begin="2851500000t" end="2872300000t" region="bottomCenter" style="s1" xml:id="subtitle50">这是赌博的结果 是正当的结…</p>
+<p begin="2873000000t" end="2883900000t" region="bottomCenter" style="s1" xml:id="subtitle51">不是正当的</p>
+<p begin="2893800000t" end="2945100000t" region="bottomCenter" style="s1" xml:id="subtitle52">这台机器 就算把它倒过来打也是一毛不拔</p>
+<p begin="2951200000t" end="3001100000t" region="bottomCenter" style="s1" xml:id="subtitle53">它就是那么一台恶魔机 你应该最清楚不过了</p>
+<p begin="3035700000t" end="3046400000t" region="bottomCenter" style="s1" xml:id="subtitle54">有几十人…</p>
+<p begin="3071000000t" end="3113300000t" region="bottomCenter" style="s1" xml:id="subtitle55">不对 包括他们的亲朋好友</p>
+<p begin="3125000000t" end="3154400000t" region="bottomCenter" style="s1" xml:id="subtitle56">有上百个人</p>
+<p begin="3164600000t" end="3203100000t" region="bottomCenter" style="s1" xml:id="subtitle57">都因为这台吃人沼泽断绝了最后的希望</p>
+<p begin="3215500000t" end="3227300000t" region="bottomCenter" style="s1" xml:id="subtitle58">死去了</p>
+<p begin="3244500000t" end="3271700000t" region="bottomCenter" style="s1" xml:id="subtitle59">自杀 自杀啊</p>
+<p begin="3278700000t" end="3301700000t" region="bottomCenter" style="s1" xml:id="subtitle60">我 我管他那么多啊</p>
+<p begin="3312700000t" end="3364100000t" region="bottomCenter" style="s1" xml:id="subtitle61">在这里堆积的弹珠 那一颗一颗</p>
+<p begin="3372700000t" end="3388800000t" region="bottomCenter" style="s1" xml:id="subtitle62">就像是眼泪</p>
+<p begin="3397900000t" end="3463400000t" region="bottomCenter" style="s1" xml:id="subtitle63">那些亡者们流下的悔恨 怨恨的眼泪</p>
+<p begin="3472900000t" end="3489000000t" region="bottomCenter" style="s1" xml:id="subtitle64">结晶</p>
+<p begin="3505500000t" end="3536500000t" region="bottomCenter" style="s1" xml:id="subtitle65">真是罪孽深重 越想越…</p>
+<p begin="3564800000t" end="3582000000t" region="bottomCenter" style="s1" xml:id="subtitle66">简直罪该万死</p>
+<p begin="3599300000t" end="3608800000t" region="bottomCenter" style="s1" xml:id="subtitle67">开司</p>
+<p begin="3617400000t" end="3648800000t" region="bottomCenter" style="s1" xml:id="subtitle68">这场胜负并不只是事关我们</p>
+<p begin="3655000000t" end="3701200000t" region="bottomCenter" style="s1" xml:id="subtitle69">因为这台沼泽破产而死去的人们</p>
+<p begin="3713300000t" end="3750500000t" region="bottomCenter" style="s1" xml:id="subtitle70">这也是替他们出一口气的战斗啊</p>
+<p begin="3758400000t" end="3771500000t" region="bottomCenter" style="s1" xml:id="subtitle71">一定要赢</p>
+<p begin="3792400000t" end="3818400000t" region="bottomCenter" style="s1" xml:id="subtitle72">无论如何也要赢</p>
+<p begin="3833500000t" end="3851400000t" region="bottomCenter" style="s1" xml:id="subtitle73">为此我才拿来了</p>
+<p begin="3877800000t" end="3931200000t" region="bottomCenter" style="s1" xml:id="subtitle74">刚才扔在地上的是一千万 这里还有一千万</p>
+<p begin="3941500000t" end="3957100000t" region="bottomCenter" style="s1" xml:id="subtitle75">一共两千万</p>
+<p begin="3970400000t" end="3992600000t" region="bottomCenter" style="s1" xml:id="subtitle76">开司 用这些钱</p>
+<p begin="3999400000t" end="4018600000t" region="bottomCenter" style="s1" xml:id="subtitle77">替大家报仇！</p>
+<p begin="4029800000t" end="4073000000t" region="bottomCenter" style="s1" xml:id="subtitle78">这些恶魔们用不正当手段囤积起来的掠夺金</p>
+<p begin="4078100000t" end="4108500000t" region="bottomCenter" style="s1" xml:id="subtitle79">给我让他们一点不剩地吐出来！</p>
+<p begin="4125800000t" end="4135600000t" region="bottomCenter" style="s1" xml:id="subtitle80">大叔</p>
+<p begin="4146300000t" end="4171900000t" region="bottomCenter" style="s1" xml:id="subtitle81">大叔 大叔</p>
+<p begin="4189400000t" end="4216400000t" region="bottomCenter" style="s1" xml:id="subtitle82">你们想压到什么时候啊 放开</p>
+<p begin="4223000000t" end="4251200000t" region="bottomCenter" style="s1" xml:id="subtitle83">要钱的话 就在这里</p>
+<p begin="4268800000t" end="4290100000t" region="bottomCenter" style="s1" xml:id="subtitle84">这下没意见了吧 一条</p>
+<p begin="4346200000t" end="4368900000t" region="bottomCenter" style="s1" xml:id="subtitle85">没错吧 一条</p>
+<p begin="4394400000t" end="4402400000t" region="bottomCenter" style="s1" xml:id="subtitle86">开司</p>
+<p begin="4408100000t" end="4415500000t" region="bottomCenter" style="s1" xml:id="subtitle87">远藤老兄</p>
+<p begin="4417500000t" end="4426500000t" region="bottomCenter" style="s1" xml:id="subtitle88">开司</p>
+<p begin="4479800000t" end="4507500000t" region="bottomCenter" style="s1" xml:id="subtitle89">大叔 真是一着起死回生的妙招呀</p>
+<p begin="4520700000t" end="4551800000t" region="bottomCenter" style="s1" xml:id="subtitle90">这些钱 是从那里拿来的吧</p>
+<p begin="4562200000t" end="4592700000t" region="bottomCenter" style="s1" xml:id="subtitle91">没错 社长出差</p>
+<p begin="4596800000t" end="4645000000t" region="bottomCenter" style="s1" xml:id="subtitle92">而且今天周日公司放假 真走运</p>
+<p begin="4650900000t" end="4670400000t" region="bottomCenter" style="s1" xml:id="subtitle93">得意洋洋个什么劲呀</p>
+<p begin="4676100000t" end="4711500000t" region="bottomCenter" style="s1" xml:id="subtitle94">一次也就算了居然连续两次…真是个不敢恭维的警卫啊</p>
+<p begin="4715500000t" end="4771200000t" region="bottomCenter" style="s1" xml:id="subtitle95">说什么呢 只是借用一下而已 及时还回去就没问题了</p>
+<p begin="4786200000t" end="4810700000t" region="bottomCenter" style="s1" xml:id="subtitle96">真是 完全正确</p>
+<p begin="4821900000t" end="4859100000t" region="bottomCenter" style="s1" xml:id="subtitle97">正是起死回生 绝境中的开司</p>
+<p begin="4861200000t" end="4869300000t" region="bottomCenter" style="s1" xml:id="subtitle98"><font face="方正准圆_GBK" size="28"><b>{\an8}请</b></font></p>
+<p begin="4870400000t" end="4899500000t" region="bottomCenter" style="s1" xml:id="subtitle99">从地狱的深渊中 生还！</p>
+<p begin="4911100000t" end="4925800000t" region="bottomCenter" style="s1" xml:id="subtitle100">你说的没错</p>
+<p begin="4946600000t" end="4954200000t" region="bottomCenter" style="s1" xml:id="subtitle101">开司兄</p>
+<p begin="4963500000t" end="4981900000t" region="bottomCenter" style="s1" xml:id="subtitle102">没错 还没有结束</p>
+<p begin="4988800000t" end="4996400000t" region="bottomCenter" style="s1" xml:id="subtitle103">加油</p>
+<p begin="4998000000t" end="5007700000t" region="bottomCenter" style="s1" xml:id="subtitle104">别放弃</p>
+<p begin="5036900000t" end="5045700000t" region="bottomCenter" style="s1" xml:id="subtitle105">上啊</p>
+<p begin="5088000000t" end="5106800000t" region="bottomCenter" style="s1" xml:id="subtitle106">没错 要赢</p>
+<p begin="5121500000t" end="5134000000t" region="bottomCenter" style="s1" xml:id="subtitle107">赢了就没问题了</p>
+<p begin="5146900000t" end="5171200000t" region="bottomCenter" style="s1" xml:id="subtitle108">赢了一切都可以变成正确的</p>
+<p begin="5179400000t" end="5194700000t" region="bottomCenter" style="s1" xml:id="subtitle109">都可以完美解决</p>
+<p begin="5236300000t" end="5246100000t" region="bottomCenter" style="s1" xml:id="subtitle110">我要赢</p>
+<p begin="5269100000t" end="5276500000t" region="bottomCenter" style="s1" xml:id="subtitle111">我…</p>
+<p begin="5291400000t" end="5299700000t" region="bottomCenter" style="s1" xml:id="subtitle112">要赢</p>
+<p begin="5355600000t" end="5373700000t" region="bottomCenter" style="s1" xml:id="subtitle113">我要赢</p>
+<p begin="5396600000t" end="5433200000t" region="bottomCenter" style="s1" xml:id="subtitle114">就算再怎么不幸 再怎么不受幸运女神的眷顾</p>
+<p begin="5440600000t" end="5464300000t" region="bottomCenter" style="s1" xml:id="subtitle115">也绝不放弃 我会扭转乾坤</p>
+<p begin="5470600000t" end="5542000000t" region="bottomCenter" style="s1" xml:id="subtitle116">将最坏的命运 境遇 一切的障碍 不公正 不满</p>
+<p begin="5563500000t" end="5578200000t" region="bottomCenter" style="s1" xml:id="subtitle117">压倒一切</p>
+<p begin="5592300000t" end="5609600000t" region="bottomCenter" style="s1" xml:id="subtitle118">最终获胜！！</p>
+<p begin="5678400000t" end="5688500000t" region="bottomCenter" style="s1" xml:id="subtitle119">这也是当然的</p>
+<p begin="5696800000t" end="5721000000t" region="bottomCenter" style="s1" xml:id="subtitle120">因为我就是为此而活着</p>
+<p begin="5740100000t" end="5746900000t" region="bottomCenter" style="s1" xml:id="subtitle121">胜利</p>
+<p begin="5764800000t" end="5786100000t" region="bottomCenter" style="s1" xml:id="subtitle122">胜利 是为了能活下去</p>
+<p begin="5791700000t" end="5810900000t" region="bottomCenter" style="s1" xml:id="subtitle123">活下去 是为了能进一步的胜利</p>
+<p begin="5833300000t" end="5864400000t" region="bottomCenter" style="s1" xml:id="subtitle124">胜负 再开</p>
+<p begin="5976900000t" end="5986500000t" region="bottomCenter" style="s1" xml:id="subtitle125">要越过</p>
+<p begin="6004700000t" end="6022800000t" region="bottomCenter" style="s1" xml:id="subtitle126">阻挡在我人生道路前的…</p>
+<p begin="6035700000t" end="6048500000t" region="bottomCenter" style="s1" xml:id="subtitle127">这份绝望</p>
+<p begin="6063200000t" end="6130400000t" region="bottomCenter" style="s1" xml:id="subtitle128">摁住我 勒住我 阻挡我 压住我的障碍</p>
+<p begin="6173900000t" end="6219000000t" region="bottomCenter" style="s1" xml:id="subtitle129">想要毁灭 封杀我未来的这座高山</p>
+<p begin="6252100000t" end="6261000000t" region="bottomCenter" style="s1" xml:id="subtitle130">要越过去</p>
+<p begin="6270300000t" end="6278000000t" region="bottomCenter" style="s1" xml:id="subtitle131">上啊</p>
+<p begin="6315300000t" end="6340200000t" region="bottomCenter" style="s1" xml:id="subtitle132">山顶已经近在咫尺</p>
+<p begin="6368900000t" end="6388400000t" region="bottomCenter" style="s1" xml:id="subtitle133">近在眼前</p>
+<p begin="6430300000t" end="6440200000t" region="bottomCenter" style="s1" xml:id="subtitle134">冲啊</p>
+<p begin="6444400000t" end="6449800000t" region="bottomCenter" style="s1" xml:id="subtitle135">冲啊</p>
+<p begin="6451800000t" end="6462900000t" region="bottomCenter" style="s1" xml:id="subtitle136">冲啊</p>
+<p begin="6532700000t" end="6562800000t" region="bottomCenter" style="s1" xml:id="subtitle137">拜托了 拜托了 拜托了</p>
+<p begin="6578500000t" end="6586200000t" region="bottomCenter" style="s1" xml:id="subtitle138">喂 你看</p>
+<p begin="6591400000t" end="6602600000t" region="bottomCenter" style="s1" xml:id="subtitle139">这是怎么回事</p>
+<p begin="6608300000t" end="6623000000t" region="bottomCenter" style="s1" xml:id="subtitle140">好厉害</p>
+<p begin="6669700000t" end="6682200000t" region="bottomCenter" style="s1" xml:id="subtitle141">异样的光景</p>
+<p begin="6696200000t" end="6738300000t" region="bottomCenter" style="s1" xml:id="subtitle142">不断送入第三层的弹珠</p>
+<p begin="6746300000t" end="6772400000t" region="bottomCenter" style="s1" xml:id="subtitle143">产生出了异样的光景</p>
+<p begin="6778900000t" end="6813400000t" region="bottomCenter" style="s1" xml:id="subtitle144">铺天盖地的弹珠 弹珠 弹珠</p>
+<p begin="6821000000t" end="6846900000t" region="bottomCenter" style="s1" xml:id="subtitle145">很好 已经没必要去期待什么跳跃了</p>
+<p begin="6849700000t" end="6874200000t" region="bottomCenter" style="s1" xml:id="subtitle146">硬挤 给我硬挤进去</p>
+<p begin="6878800000t" end="6889500000t" region="bottomCenter" style="s1" xml:id="subtitle147">挤进去</p>
+<p begin="6894000000t" end="6904700000t" region="bottomCenter" style="s1" xml:id="subtitle148">挤进去</p>
+<p begin="6953300000t" end="6995000000t" region="bottomCenter" style="s1" xml:id="subtitle149">怎么…怎么搞的啊</p>
+<p begin="7012000000t" end="7041600000t" region="bottomCenter" style="s1" xml:id="subtitle150">风壁是铁板 铁一般的防御</p>
+<p begin="7046500000t" end="7074200000t" region="bottomCenter" style="s1" xml:id="subtitle151">弹珠不管来几颗都能弹回去</p>
+<p begin="7094200000t" end="7121100000t" region="bottomCenter" style="s1" xml:id="subtitle152">就像是躲在要塞中用重机枪扫射</p>
+<p begin="7128600000t" end="7143700000t" region="bottomCenter" style="s1" xml:id="subtitle153">要塞 vs 步兵</p>
+<p begin="7151700000t" end="7174000000t" region="bottomCenter" style="s1" xml:id="subtitle154">100%能获胜</p>
+<p begin="7187900000t" end="7193200000t" region="bottomCenter" style="s1" xml:id="subtitle155">可是</p>
+<p begin="7205500000t" end="7221500000t" region="bottomCenter" style="s1" xml:id="subtitle156">面对这异常的事态</p>
+<p begin="7276900000t" end="7290600000t" region="bottomCenter" style="s1" xml:id="subtitle157">太庞大了</p>
+<p begin="7328300000t" end="7355500000t" region="bottomCenter" style="s1" xml:id="subtitle158">而且这些家伙们都不会死</p>
+<p begin="7363300000t" end="7382700000t" region="bottomCenter" style="s1" xml:id="subtitle159">是不死兵团</p>
+<p begin="7393600000t" end="7412500000t" region="bottomCenter" style="s1" xml:id="subtitle160">太荒唐了 完全在意料之外</p>
+<p begin="7420000000t" end="7445400000t" region="bottomCenter" style="s1" xml:id="subtitle161">这种事态…要是继续下去的话</p>
+<p begin="7449200000t" end="7471900000t" region="bottomCenter" style="s1" xml:id="subtitle162">就和弹珠的轨迹什么的没有半点关系</p>
+<p begin="7488000000t" end="7512800000t" region="bottomCenter" style="s1" xml:id="subtitle163">新来的弹珠推动别的弹珠</p>
+<p begin="7521100000t" end="7543900000t" region="bottomCenter" style="s1" xml:id="subtitle164">直接 直接</p>
+<p begin="7580700000t" end="7632500000t" region="bottomCenter" style="s1" xml:id="subtitle165">办不到的 这么庞大的军队凭风什么的绝对应付不了</p>
+<p begin="7889700000t" end="7906900000t" region="bottomCenter" style="s1" xml:id="subtitle166">我明白了 开司</p>
+<p begin="7916000000t" end="7934300000t" region="bottomCenter" style="s1" xml:id="subtitle167">平手 算平手吧</p>
+<p begin="7940700000t" end="7956200000t" region="bottomCenter" style="s1" xml:id="subtitle168">握手言和吧</p>
+<p begin="7964300000t" end="7977300000t" region="bottomCenter" style="s1" xml:id="subtitle169">算我放你一条生路</p>
+<p begin="7999700000t" end="8020700000t" region="bottomCenter" style="s1" xml:id="subtitle170">我特别允许…</p>
+<p begin="8021900000t" end="8029800000t" region="bottomCenter" style="s1" xml:id="subtitle171">太晚了</p>
+<p begin="8042900000t" end="8058500000t" region="bottomCenter" style="s1" xml:id="subtitle172">已经太晚了</p>
+<p begin="8077900000t" end="8087800000t" region="bottomCenter" style="s1" xml:id="subtitle173">开司</p>
+<p begin="8104100000t" end="8144800000t" region="bottomCenter" style="s1" xml:id="subtitle174">求求你了 你…你行行好…</p>
+<p begin="8145500000t" end="8152900000t" region="bottomCenter" style="s1" xml:id="subtitle175">太晚了</p>
+<p begin="8166000000t" end="8180900000t" region="bottomCenter" style="s1" xml:id="subtitle176">闪开 别靠近他</p>
+<p begin="8184000000t" end="8194100000t" region="bottomCenter" style="s1" xml:id="subtitle177">开司</p>
+<p begin="8200500000t" end="8211000000t" region="bottomCenter" style="s1" xml:id="subtitle178">闪开</p>
+<p begin="8215000000t" end="8229900000t" region="bottomCenter" style="s1" xml:id="subtitle179">开司</p>
+<p begin="8316500000t" end="8322800000t" region="bottomCenter" style="s1" xml:id="subtitle180">怎么</p>
+<p begin="8331200000t" end="8350600000t" region="bottomCenter" style="s1" xml:id="subtitle181">机子在…鸣叫</p>
+<p begin="8359700000t" end="8381600000t" region="bottomCenter" style="s1" xml:id="subtitle182">沼泽发出声音了</p>
+<p begin="8466000000t" end="8483000000t" region="bottomCenter" style="s1" xml:id="subtitle183">这是怎么回事啊</p>
+<p begin="8499300000t" end="8509900000t" region="bottomCenter" style="s1" xml:id="subtitle184">开 开司老弟</p>
+<p begin="8514600000t" end="8524300000t" region="bottomCenter" style="s1" xml:id="subtitle185">不知道</p>
+<p begin="8534000000t" end="8597500000t" region="bottomCenter" style="s1" xml:id="subtitle186">不过或许这就是这台沼泽 这个恶魔临终前的哀嚎吧</p>
+<p begin="8631800000t" end="8672600000t" region="bottomCenter" style="s1" xml:id="subtitle187">怎么了 看上去很痛苦嘛</p>
+<p begin="8678300000t" end="8698000000t" region="bottomCenter" style="s1" xml:id="subtitle188">你这恶魔</p>
+<p begin="8710700000t" end="8720400000t" region="bottomCenter" style="s1" xml:id="subtitle189">该死的恶魔</p>
+<p begin="8733600000t" end="8786300000t" region="bottomCenter" style="s1" xml:id="subtitle190">吐出来 既然那么痛苦就给我吐出来啊</p>
+<p begin="8828800000t" end="8881300000t" region="bottomCenter" style="s1" xml:id="subtitle191">你曾经吞噬的那些人们的生命</p>
+<p begin="8895300000t" end="8934000000t" region="bottomCenter" style="s1" xml:id="subtitle192">他们的希望 绝望 一切</p>
+<p begin="8946900000t" end="8962800000t" region="bottomCenter" style="s1" xml:id="subtitle193">都给老子吐出来！！</p>
+<p begin="9075000000t" end="9094800000t" region="bottomCenter" style="s1" xml:id="subtitle194">时机已成熟</p>
+<p begin="9120200000t" end="9158800000t" region="bottomCenter" style="s1" xml:id="subtitle195">饱和状态 被团团包围的中奖洞</p>
+<p begin="9165700000t" end="9178900000t" region="bottomCenter" style="s1" xml:id="subtitle196">到达了临界点</p>
+<p begin="9229000000t" end="9357200000t" region="bottomCenter" style="s1" xml:id="subtitle197">挤进去 挤进去…</p>
+<p begin="9358400000t" end="9388000000t" region="bottomCenter" style="s1" xml:id="subtitle198">不要 不要啊</p>
+<p begin="9396700000t" end="9421300000t" region="bottomCenter" style="s1" xml:id="subtitle199">求求你 住手啊</p>
+<p begin="9433400000t" end="9452700000t" region="bottomCenter" style="s1" xml:id="subtitle200">住手啊 拜托了</p>
+<p begin="9497700000t" end="9524000000t" region="bottomCenter" style="s1" xml:id="subtitle201">挤进去 宰了它</p>
+<p begin="9540300000t" end="9555700000t" region="bottomCenter" style="s1" xml:id="subtitle202">住手啊</p>
+<p begin="9575300000t" end="9597100000t" region="bottomCenter" style="s1" xml:id="subtitle203">住手 住手</p>
+<p begin="9605900000t" end="9630400000t" region="bottomCenter" style="s1" xml:id="subtitle204">住手啊啊啊啊</p>
+<p begin="9699500000t" end="9719800000t" region="bottomCenter" style="s1" xml:id="subtitle205">恶魔 你死到临头了</p>
+<p begin="9835000000t" end="9841600000t" region="bottomCenter" style="s1" xml:id="subtitle206">神啊</p>
+<p begin="9910000000t" end="9919400000t" region="bottomCenter" style="s1" xml:id="subtitle207">谢谢</p>
+<p begin="9992700000t" end="10011600000t" region="bottomCenter" style="s1" xml:id="subtitle208">谢谢您</p>
+<p begin="10709200000t" end="10727100000t" region="bottomCenter" style="s1" xml:id="subtitle209">开司老弟</p>
+<p begin="10864700000t" end="10875700000t" region="bottomCenter" style="s1" xml:id="subtitle210">进去了吧</p>
+<p begin="10895300000t" end="10905500000t" region="bottomCenter" style="s1" xml:id="subtitle211">坂崎</p>
+<p begin="10906600000t" end="10918100000t" region="bottomCenter" style="s1" xml:id="subtitle212">远藤老兄</p>
+<p begin="11023100000t" end="11049000000t" region="bottomCenter" style="s1" xml:id="subtitle213">进啦 中啦</p>
+<p begin="11055800000t" end="11087500000t" region="bottomCenter" style="s1" xml:id="subtitle214">中大奖 中大奖</p>
+<p begin="11119300000t" end="11131400000t" region="bottomCenter" style="s1" xml:id="subtitle215">中大奖</p>
+<p begin="11139300000t" end="11157900000t" region="bottomCenter" style="s1" xml:id="subtitle216">中大奖啦</p>
+<p begin="11163100000t" end="11233500000t" region="bottomCenter" style="s1" xml:id="subtitle217">开司 开司…</p>
+<p begin="11256900000t" end="11263800000t" region="bottomCenter" style="s1" xml:id="subtitle218">怎么</p>
+<p begin="11269700000t" end="11289700000t" region="bottomCenter" style="s1" xml:id="subtitle219">沼泽开始发光了</p>
+<p begin="11296600000t" end="11304200000t" region="bottomCenter" style="s1" xml:id="subtitle220">沼泽…</p>
+<p begin="11314800000t" end="11331500000t" region="bottomCenter" style="s1" xml:id="subtitle221">沼泽开始发光了</p>
+<p begin="11386500000t" end="11393700000t" region="bottomCenter" style="s1" xml:id="subtitle222">打开了</p>
+<p begin="11397900000t" end="11419500000t" region="bottomCenter" style="s1" xml:id="subtitle223">那张曾经拒绝了一切希望</p>
+<p begin="11431200000t" end="11501200000t" region="bottomCenter" style="s1" xml:id="subtitle224">抵抗 吞噬 紧闭…紧紧闭着的恶魔之口</p>
+<p begin="11655400000t" end="11701400000t" region="bottomCenter" style="s1" xml:id="subtitle225">打开了 打开了 打开了</p>
+<p begin="11709000000t" end="11726700000t" region="bottomCenter" style="s1" xml:id="subtitle226">打开了！</p>
+<p begin="11867100000t" end="11876400000t" region="bottomCenter" style="s1" xml:id="subtitle227">厉害</p>
+<p begin="11882500000t" end="11893200000t" region="bottomCenter" style="s1" xml:id="subtitle228">打开了</p>
+<p begin="11895000000t" end="11907700000t" region="bottomCenter" style="s1" xml:id="subtitle229">全部打开了</p>
+<p begin="11935200000t" end="11955100000t" region="bottomCenter" style="s1" xml:id="subtitle230">打开了 哗哗地</p>
+<p begin="11960200000t" end="11977600000t" region="bottomCenter" style="s1" xml:id="subtitle231">好惊人 正在不断进去啊</p>
+<p begin="11978600000t" end="11991500000t" region="bottomCenter" style="s1" xml:id="subtitle232">随便进啊</p>
+<p begin="11999800000t" end="12040600000t" region="bottomCenter" style="s1" xml:id="subtitle233">出来了出来了 一颗4000日元 正不断地…</p>
+<p begin="12049000000t" end="12078100000t" region="bottomCenter" style="s1" xml:id="subtitle234">至上的幸福 柏青哥玩家的梦想</p>
+<p begin="12085800000t" end="12121600000t" region="bottomCenter" style="s1" xml:id="subtitle235">大叔 拿箱子过来 快把箱子拿过来</p>
+<p begin="12130800000t" end="12138800000t" region="bottomCenter" style="s1" xml:id="subtitle236">知道了</p>
+<p begin="12162400000t" end="12185100000t" region="bottomCenter" style="s1" xml:id="subtitle237">心醉神迷 欣喜若狂</p>
+<p begin="12196200000t" end="12214000000t" region="bottomCenter" style="s1" xml:id="subtitle238">令人垂涎的至福</p>
+<p begin="12226500000t" end="12247000000t" region="bottomCenter" style="s1" xml:id="subtitle239">高高兴兴工作着的坂崎</p>
+<p begin="12255200000t" end="12269900000t" region="bottomCenter" style="s1" xml:id="subtitle240">至福的劳动</p>
+<p begin="12281400000t" end="12314300000t" region="bottomCenter" style="s1" xml:id="subtitle241">远藤 只是在一旁呆呆地看着</p>
+<p begin="12323700000t" end="12337700000t" region="bottomCenter" style="s1" xml:id="subtitle242">至福的旁观</p>
+<p begin="12348900000t" end="12367800000t" region="bottomCenter" style="s1" xml:id="subtitle243">当然 开司也处在至福之中</p>
+<p begin="12381900000t" end="12422200000t" region="bottomCenter" style="s1" xml:id="subtitle244">就像是徘徊在桃源乡之中 压倒性的至福</p>
+<p begin="12432400000t" end="12441400000t" region="bottomCenter" style="s1" xml:id="subtitle245">解放</p>
+<p begin="12452300000t" end="12468700000t" region="bottomCenter" style="s1" xml:id="subtitle246">地下也开心地手舞足蹈</p>
+<p begin="12478300000t" end="12506300000t" region="bottomCenter" style="s1" xml:id="subtitle247">嚎叫 欢喜 落泪</p>
+<p begin="12514600000t" end="12544900000t" region="bottomCenter" style="s1" xml:id="subtitle248">哽咽 感动 感谢</p>
+<p begin="12554200000t" end="12573100000t" region="bottomCenter" style="s1" xml:id="subtitle249">压倒性的感谢</p>
+<p begin="12583600000t" end="12614800000t" region="bottomCenter" style="s1" xml:id="subtitle250">经由这一次中奖 开司做到了</p>
+<p begin="12628900000t" end="12657900000t" region="bottomCenter" style="s1" xml:id="subtitle251">奇迹般地拯救了45组</p>
+<p begin="12676500000t" end="12707800000t" region="bottomCenter" style="s1" xml:id="subtitle252">老爸 就像老爸所说的</p>
+<p begin="12710400000t" end="12749400000t" region="bottomCenter" style="s1" xml:id="subtitle253">开司他…开司他…</p>
+<p begin="12812600000t" end="12832400000t" region="bottomCenter" style="s1" xml:id="subtitle254">搞了那么久</p>
+<p begin="12838900000t" end="12860200000t" region="bottomCenter" style="s1" xml:id="subtitle255">这结果是怎么回事</p>
+<p begin="12901400000t" end="12914300000t" region="bottomCenter" style="s1" xml:id="subtitle256">气死我了</p>
+<p begin="12920900000t" end="12957200000t" region="bottomCenter" style="s1" xml:id="subtitle257">那个垃圾 居然被这种人渣给打败了</p>
+<p begin="12959200000t" end="13007900000t" region="bottomCenter" style="s1" xml:id="subtitle258">废物 废到了极点 真他妈的恶心</p>
+<p begin="13018200000t" end="13040900000t" region="bottomCenter" style="s1" xml:id="subtitle259">既然如此 不用再考虑什么了</p>
+<p begin="13047200000t" end="13059100000t" region="bottomCenter" style="s1" xml:id="subtitle260">把他送去地下</p>
+<p begin="13065600000t" end="13069500000t" region="bottomCenter" style="s1" xml:id="subtitle261">是</p>
+<p begin="13073500000t" end="13112100000t" region="bottomCenter" style="s1" xml:id="subtitle262">我记得地下劳役的标准是…喂</p>
+<p begin="13115700000t" end="13168500000t" region="bottomCenter" style="s1" xml:id="subtitle263">在 那个…一千万是15年</p>
+<p begin="13177100000t" end="13235300000t" region="bottomCenter" style="s1" xml:id="subtitle264">这样啊 那他给帝爱所带来的七亿损失…</p>
+<p begin="13240900000t" end="13263600000t" region="bottomCenter" style="s1" xml:id="subtitle265">15年的70倍</p>
+<p begin="13275200000t" end="13299800000t" region="bottomCenter" style="s1" xml:id="subtitle266">该在地下待上1050年</p>
+<p begin="13305300000t" end="13320300000t" region="bottomCenter" style="s1" xml:id="subtitle267">传令下去 立刻执行</p>
+<p begin="13321500000t" end="13326600000t" region="bottomCenter" style="s1" xml:id="subtitle268">是</p>
+<p begin="13336400000t" end="13367300000t" region="bottomCenter" style="s1" xml:id="subtitle269">喂 你们还准备播到什么时候</p>
+<p begin="13372100000t" end="13393700000t" region="bottomCenter" style="s1" xml:id="subtitle270">很 很抱歉 马上就…</p>
+<p begin="13395100000t" end="13401200000t" region="bottomCenter" style="s1" xml:id="subtitle271">我去睡了</p>
+<p begin="13459800000t" end="13480400000t" region="bottomCenter" style="s1" xml:id="subtitle272">刚才松了一口气的人</p>
+<p begin="13493200000t" end="13499400000t" region="bottomCenter" style="s1" xml:id="subtitle273">不…</p>
+<p begin="13507600000t" end="13522000000t" region="bottomCenter" style="s1" xml:id="subtitle274">需要制裁</p>
+</div>
+</body>
+</tt>

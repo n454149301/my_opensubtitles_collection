@@ -1,0 +1,982 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="34700000t" end="59800000t" region="bottomCenter" style="s1" xml:id="subtitle0"><font face="方正准雅宋_GBK" size="72"><font size="90"><font color="#f6f7f4"><b>吸 血 鬼</b></font></font></font></p>
+<p begin="64800000t" end="89800000t" region="bottomCenter" style="s1" xml:id="subtitle1"><font face="方正准雅宋_GBK" size="72"><font size="90"><font color="#f6f7f4"><b>悲 剧</b></font></font></font></p>
+<p begin="94800000t" end="119800000t" region="bottomCenter" style="s1" xml:id="subtitle2"><font face="方正准雅宋_GBK" size="72"><font size="90"><font color="#f6f7f4"><b>故 事</b></font></font></font></p>
+<p begin="1131300000t" end="1133800000t" region="bottomCenter" style="s1" xml:id="subtitle3"><font face="方正准雅宋_GBK" size="72"><font size="90"><font color="#f6f7f4"><b>更 多 的 光</b></font></font></font></p>
+<p begin="2914700000t" end="2952200000t" region="bottomCenter" style="s1" xml:id="subtitle4"><font face="方正准雅宋_GBK" size="72"><font size="52"><font color="#f6f7f4"><b>吸 血 鬼 的 故 事 不 会 有 好 结 果</b></font></font></font></p>
+<p begin="2972300000t" end="3009800000t" region="bottomCenter" style="s1" xml:id="subtitle5"><font face="方正准雅宋_GBK" size="72"><font size="52"><font color="#f6f7f4"><b>最 终 会 以 大 家 的 不 幸 而 结 束</b></font></font></font></p>
+<p begin="3552400000t" end="3627100000t" region="bottomCenter" style="s1" xml:id="subtitle6"><font face="华文仿宋" size="44" color="#ec2800"><b>{\an8}本字幕由幻之×诸神×TVBT制作仅供试看使用不得将本片用于商业用途请与下载24小时之内删除<br />如果您喜欢本作品请支持购买正版一切利用本片进行商业违法的行为与字幕组无关</b></font></p>
+<p begin="3552400000t" end="3627100000t" region="bottomCenter" style="s1" xml:id="subtitle7"><font face="华文仿宋" size="44" color="#ec2800"><b>{\an8}翻译:花泽かな、马爷　校对:花泽かな、zwx　时轴:断弦、酱子、小病　片源:MGRT　压制:VCB-Sudio</b></font></p>
+<p begin="4954100000t" end="4965100000t" region="bottomCenter" style="s1" xml:id="subtitle8"><font face="HGPMinchoE" size="36"><b>えっと</b></font></p>
+<p begin="4954100000t" end="4965100000t" region="bottomCenter" style="s1" xml:id="subtitle9"><font face="方正准雅宋_GBK" size="54"><b>那个</b></font></p>
+<p begin="4972100000t" end="4995400000t" region="bottomCenter" style="s1" xml:id="subtitle10"><font face="HGPMinchoE" size="36"><b>み…見てないよ</b></font></p>
+<p begin="4972100000t" end="4995400000t" region="bottomCenter" style="s1" xml:id="subtitle11"><font face="方正准雅宋_GBK" size="54"><b>我…我可没看见哦</b></font></p>
+<p begin="5256800000t" end="5273800000t" region="bottomCenter" style="s1" xml:id="subtitle12"><font face="HGPMinchoE" size="36"><b>なんて言うかさ</b></font></p>
+<p begin="5256800000t" end="5273800000t" region="bottomCenter" style="s1" xml:id="subtitle13"><font face="方正准雅宋_GBK" size="54"><b>该怎么说呢</b></font></p>
+<p begin="5280300000t" end="5304400000t" region="bottomCenter" style="s1" xml:id="subtitle14"><font face="HGPMinchoE" size="36"><b>見られたくないものを隠すにしては</b></font></p>
+<p begin="5280300000t" end="5304400000t" region="bottomCenter" style="s1" xml:id="subtitle15"><font face="方正准雅宋_GBK" size="54"><b>想把不想被看见的东西藏起来的话</b></font></p>
+<p begin="5306800000t" end="5341800000t" region="bottomCenter" style="s1" xml:id="subtitle16"><font face="HGPMinchoE" size="36"><b>スカートって　どう考えてもセキュリティ低いよね</b></font></p>
+<p begin="5306800000t" end="5341800000t" region="bottomCenter" style="s1" xml:id="subtitle17"><font face="方正准雅宋_GBK" size="54"><b>裙子还真是没安全感</b></font></p>
+<p begin="5344700000t" end="5387200000t" region="bottomCenter" style="s1" xml:id="subtitle18"><font face="HGPMinchoE" size="36"><b>やっぱり　スパッツっていうファイアウォールが必要なのかな</b></font></p>
+<p begin="5344700000t" end="5387200000t" region="bottomCenter" style="s1" xml:id="subtitle19"><font face="方正准雅宋_GBK" size="54"><b>这么来看的话 安全裤这一防火墙还真是必不可少</b></font></p>
+<p begin="5395200000t" end="5410500000t" region="bottomCenter" style="s1" xml:id="subtitle20"><font face="HGPMinchoE" size="36"><b>さ…さあ</b></font></p>
+<p begin="5395200000t" end="5410500000t" region="bottomCenter" style="s1" xml:id="subtitle21"><font face="方正准雅宋_GBK" size="54"><b>是…是吗</b></font></p>
+<p begin="5527300000t" end="5552600000t" region="bottomCenter" style="s1" xml:id="subtitle22"><font face="HGPMinchoE" size="36"><b>じゃあ　僕はこれで</b></font></p>
+<p begin="5527300000t" end="5552600000t" region="bottomCenter" style="s1" xml:id="subtitle23"><font face="方正准雅宋_GBK" size="54"><b>那 我先走了</b></font></p>
+<p begin="5574500000t" end="5588900000t" region="bottomCenter" style="s1" xml:id="subtitle24"><font face="HGPMinchoE" size="36"><b>ちょっと待ってよ</b></font></p>
+<p begin="5574500000t" end="5588900000t" region="bottomCenter" style="s1" xml:id="subtitle25"><font face="方正准雅宋_GBK" size="54"><b>等一下嘛</b></font></p>
+<p begin="5738600000t" end="5782200000t" region="bottomCenter" style="s1" xml:id="subtitle26"><font face="HGPMinchoE" size="36"><b>やっと追いついた　歩くの速いんだね</b></font></p>
+<p begin="5738600000t" end="5782200000t" region="bottomCenter" style="s1" xml:id="subtitle27"><font face="方正准雅宋_GBK" size="54"><b>终于追上你了 你走路真快</b></font></p>
+<p begin="5795900000t" end="5807300000t" region="bottomCenter" style="s1" xml:id="subtitle28"><font face="HGPMinchoE" size="36"><b>阿良々木君</b></font></p>
+<p begin="5795900000t" end="5807300000t" region="bottomCenter" style="s1" xml:id="subtitle29"><font face="方正准雅宋_GBK" size="54"><b>阿良良木</b></font></p>
+<p begin="5889400000t" end="5912700000t" region="bottomCenter" style="s1" xml:id="subtitle30"><font face="HGPMinchoE" size="36"><b>何で僕の名前を知ってるの？</b></font></p>
+<p begin="5889400000t" end="5912700000t" region="bottomCenter" style="s1" xml:id="subtitle31"><font face="方正准雅宋_GBK" size="54"><b>你为什么会知道我的名字？</b></font></p>
+<p begin="5930000000t" end="5962400000t" region="bottomCenter" style="s1" xml:id="subtitle32"><font face="HGPMinchoE" size="36"><b>そりゃ知ってるよ　同じ学校じゃない</b></font></p>
+<p begin="5930000000t" end="5962400000t" region="bottomCenter" style="s1" xml:id="subtitle33"><font face="方正准雅宋_GBK" size="54"><b>这不是很正常吗 我们可是同学</b></font></p>
+<p begin="5983900000t" end="6003900000t" region="bottomCenter" style="s1" xml:id="subtitle34"><font face="HGPMinchoE" size="36"><b>こざとへんに可能の可</b></font></p>
+<p begin="5983900000t" end="6003900000t" region="bottomCenter" style="s1" xml:id="subtitle35"><font face="方正准雅宋_GBK" size="54"><b>姓是左耳旁加一个可能的可</b></font></p>
+<p begin="6011500000t" end="6062500000t" region="bottomCenter" style="s1" xml:id="subtitle36"><font face="HGPMinchoE" size="36"><b>良い子の良いを二つ重ねて　樹木の木と書いて　阿良々木君</b></font></p>
+<p begin="6011500000t" end="6062500000t" region="bottomCenter" style="s1" xml:id="subtitle37"><font face="方正准雅宋_GBK" size="54"><b>两个良好的良 树木的木 合起来就是阿良良木</b></font></p>
+<p begin="6066700000t" end="6113800000t" region="bottomCenter" style="s1" xml:id="subtitle38"><font face="HGPMinchoE" size="36"><b>下の名前は年月の暦で暦　だよね</b></font></p>
+<p begin="6066700000t" end="6113800000t" region="bottomCenter" style="s1" xml:id="subtitle39"><font face="方正准雅宋_GBK" size="54"><b>名字是日历的历 对吧</b></font></p>
+<p begin="6115000000t" end="6135400000t" region="bottomCenter" style="s1" xml:id="subtitle40"><font face="HGPMinchoE" size="36"><b>だから阿良々木暦君</b></font></p>
+<p begin="6115000000t" end="6135400000t" region="bottomCenter" style="s1" xml:id="subtitle41"><font face="方正准雅宋_GBK" size="54"><b>所以你是阿良良木历</b></font></p>
+<p begin="6184100000t" end="6249900000t" region="bottomCenter" style="s1" xml:id="subtitle42"><font face="HGPMinchoE" size="36"><b>お前は…　羽川だ　羽川翼だ</b></font></p>
+<p begin="6184100000t" end="6249900000t" region="bottomCenter" style="s1" xml:id="subtitle43"><font face="方正准雅宋_GBK" size="54"><b>你是… 羽川 羽川翼</b></font></p>
+<p begin="6346200000t" end="6381200000t" region="bottomCenter" style="s1" xml:id="subtitle44"><font face="HGPMinchoE" size="36"><b>すごい　私なんかの名前　知ってるなんて</b></font></p>
+<p begin="6346200000t" end="6381200000t" region="bottomCenter" style="s1" xml:id="subtitle45"><font face="方正准雅宋_GBK" size="54"><b>好厉害 居然知道我的名字</b></font></p>
+<p begin="6388800000t" end="6411600000t" region="bottomCenter" style="s1" xml:id="subtitle46"><font face="HGPMinchoE" size="36"><b>二年生一学期の期末テストで</b></font></p>
+<p begin="6388800000t" end="6411600000t" region="bottomCenter" style="s1" xml:id="subtitle47"><font face="方正准雅宋_GBK" size="54"><b>你是在高二第一学期的期末考试上</b></font></p>
+<p begin="6414200000t" end="6447400000t" region="bottomCenter" style="s1" xml:id="subtitle48"><font face="HGPMinchoE" size="36"><b>保健体育及び芸術科目まで含めた全教科で</b></font></p>
+<p begin="6414200000t" end="6447400000t" region="bottomCenter" style="s1" xml:id="subtitle49"><font face="方正准雅宋_GBK" size="54"><b>包括保健体育和艺术类科目在内的全部科目</b></font></p>
+<p begin="6451000000t" end="6489900000t" region="bottomCenter" style="s1" xml:id="subtitle50"><font face="HGPMinchoE" size="36"><b>穴埋め問題一問しか間違わなかった　羽川翼</b></font></p>
+<p begin="6451000000t" end="6489900000t" region="bottomCenter" style="s1" xml:id="subtitle51"><font face="方正准雅宋_GBK" size="54"><b>填空题部分只错一题的 羽川翼</b></font></p>
+<p begin="6501100000t" end="6549800000t" region="bottomCenter" style="s1" xml:id="subtitle52"><font face="HGPMinchoE" size="36"><b>ちょっと…　やだもう　なんでそんなことまで知ってるの？</b></font></p>
+<p begin="6501100000t" end="6549800000t" region="bottomCenter" style="s1" xml:id="subtitle53"><font face="方正准雅宋_GBK" size="54"><b>等等 怎么会… 你为什么会连这种事都一清二楚？</b></font></p>
+<p begin="6564400000t" end="6614500000t" region="bottomCenter" style="s1" xml:id="subtitle54"><font face="HGPMinchoE" size="36"><b>ひょっとして阿良々木君って　私のストーカーだったりする？</b></font></p>
+<p begin="6564400000t" end="6614500000t" region="bottomCenter" style="s1" xml:id="subtitle55"><font face="方正准雅宋_GBK" size="54"><b>难不成… 阿良良木你其实在跟踪我？</b></font></p>
+<p begin="6643400000t" end="6678300000t" region="bottomCenter" style="s1" xml:id="subtitle56"><font face="HGPMinchoE" size="36"><b>それはいくらなんでも被害妄想強すぎかな</b></font></p>
+<p begin="6643400000t" end="6678300000t" region="bottomCenter" style="s1" xml:id="subtitle57"><font face="方正准雅宋_GBK" size="54"><b>哈哈 是我被害妄想症太严重了吧</b></font></p>
+<p begin="6685500000t" end="6694000000t" region="bottomCenter" style="s1" xml:id="subtitle58"><font face="HGPMinchoE" size="36"><b>別に</b></font></p>
+<p begin="6685500000t" end="6694000000t" region="bottomCenter" style="s1" xml:id="subtitle59"><font face="方正准雅宋_GBK" size="54"><b>并没有</b></font></p>
+<p begin="6707700000t" end="6729100000t" region="bottomCenter" style="s1" xml:id="subtitle60"><font face="HGPMinchoE" size="36"><b>宇宙人の友達に聞いたんだよ</b></font></p>
+<p begin="6707700000t" end="6729100000t" region="bottomCenter" style="s1" xml:id="subtitle61"><font face="方正准雅宋_GBK" size="54"><b>我的外星人朋友告诉我的</b></font></p>
+<p begin="6729500000t" end="6756300000t" region="bottomCenter" style="s1" xml:id="subtitle62"><font face="HGPMinchoE" size="36"><b>阿良々木くん　友達いるの？</b></font></p>
+<p begin="6729500000t" end="6756300000t" region="bottomCenter" style="s1" xml:id="subtitle63"><font face="方正准雅宋_GBK" size="54"><b>阿良良木你居然有朋友？</b></font></p>
+<p begin="6784300000t" end="6815700000t" region="bottomCenter" style="s1" xml:id="subtitle64"><font face="HGPMinchoE" size="36"><b>宇宙人がいるかどうかを先にきけ</b></font></p>
+<p begin="6784300000t" end="6815700000t" region="bottomCenter" style="s1" xml:id="subtitle65"><font face="方正准雅宋_GBK" size="54"><b>你能不能先质疑下外星人的存在啊</b></font></p>
+<p begin="6817500000t" end="6858500000t" region="bottomCenter" style="s1" xml:id="subtitle66"><font face="HGPMinchoE" size="36"><b>いや　その　阿良々木くんって　いつも一人で</b></font></p>
+<p begin="6817500000t" end="6858500000t" region="bottomCenter" style="s1" xml:id="subtitle67"><font face="方正准雅宋_GBK" size="54"><b>那个嘛 是因为阿良良木你经常独自一人</b></font></p>
+<p begin="6858500000t" end="6890200000t" region="bottomCenter" style="s1" xml:id="subtitle68"><font face="HGPMinchoE" size="36"><b>孤高に暮らしているみたいなイメージがあったから</b></font></p>
+<p begin="6858500000t" end="6890200000t" region="bottomCenter" style="s1" xml:id="subtitle69"><font face="方正准雅宋_GBK" size="54"><b>所以会给人一种活得很孤傲的印象</b></font></p>
+<p begin="6960600000t" end="6994100000t" region="bottomCenter" style="s1" xml:id="subtitle70"><font face="HGPMinchoE" size="36"><b>まあ　友達がいないのはお前の言うとおりだ</b></font></p>
+<p begin="6960600000t" end="6994100000t" region="bottomCenter" style="s1" xml:id="subtitle71"><font face="方正准雅宋_GBK" size="54"><b>嗯 如你所言我的确没朋友</b></font></p>
+<p begin="7002800000t" end="7031100000t" region="bottomCenter" style="s1" xml:id="subtitle72"><font face="HGPMinchoE" size="36"><b>そんな友達がいない奴にも知られているほど</b></font></p>
+<p begin="7002800000t" end="7031100000t" region="bottomCenter" style="s1" xml:id="subtitle73"><font face="方正准雅宋_GBK" size="54"><b>而连我这种没朋友的人都知道你</b></font></p>
+<p begin="7036700000t" end="7060000000t" region="bottomCenter" style="s1" xml:id="subtitle74"><font face="HGPMinchoE" size="36"><b>お前は有名人だってことだよ</b></font></p>
+<p begin="7036700000t" end="7060000000t" region="bottomCenter" style="s1" xml:id="subtitle75"><font face="方正准雅宋_GBK" size="54"><b>正说明你真的很有名</b></font></p>
+<p begin="7065000000t" end="7086400000t" region="bottomCenter" style="s1" xml:id="subtitle76"><font face="HGPMinchoE" size="36"><b>ちょっと　やめてよ</b></font></p>
+<p begin="7065000000t" end="7086400000t" region="bottomCenter" style="s1" xml:id="subtitle77"><font face="方正准雅宋_GBK" size="54"><b>等等 别开玩笑了</b></font></p>
+<p begin="7090800000t" end="7120600000t" region="bottomCenter" style="s1" xml:id="subtitle78"><font face="HGPMinchoE" size="36"><b>そういう冗談はあまり好きじゃないの</b></font></p>
+<p begin="7090800000t" end="7120600000t" region="bottomCenter" style="s1" xml:id="subtitle79"><font face="方正准雅宋_GBK" size="54"><b>我不喜欢这种玩笑</b></font></p>
+<p begin="7190700000t" end="7213000000t" region="bottomCenter" style="s1" xml:id="subtitle80"><font face="HGPMinchoE" size="36"><b>ねえ　阿良々木君</b></font></p>
+<p begin="7190700000t" end="7213000000t" region="bottomCenter" style="s1" xml:id="subtitle81"><font face="方正准雅宋_GBK" size="54"><b>喂 阿良良木</b></font></p>
+<p begin="7271100000t" end="7304300000t" region="bottomCenter" style="s1" xml:id="subtitle82"><font face="HGPMinchoE" size="36"><b>阿良々木君は　吸血鬼って信じる？</b></font></p>
+<p begin="7271100000t" end="7304300000t" region="bottomCenter" style="s1" xml:id="subtitle83"><font face="方正准雅宋_GBK" size="54"><b>你相信这世上有吸血鬼吗</b></font></p>
+<p begin="7339600000t" end="7362800000t" region="bottomCenter" style="s1" xml:id="subtitle84"><font face="HGPMinchoE" size="36"><b>吸血鬼が　どうかしたのか</b></font></p>
+<p begin="7339600000t" end="7362800000t" region="bottomCenter" style="s1" xml:id="subtitle85"><font face="方正准雅宋_GBK" size="54"><b>吸血鬼怎么了？</b></font></p>
+<p begin="7374500000t" end="7413900000t" region="bottomCenter" style="s1" xml:id="subtitle86"><font face="HGPMinchoE" size="36"><b>最近ね　ちょっとした噂になってるんだけど</b></font></p>
+<p begin="7374500000t" end="7413900000t" region="bottomCenter" style="s1" xml:id="subtitle87"><font face="方正准雅宋_GBK" size="54"><b>其实 最近有些风言风语</b></font></p>
+<p begin="7420700000t" end="7451500000t" region="bottomCenter" style="s1" xml:id="subtitle88"><font face="HGPMinchoE" size="36"><b>今　この町に吸血鬼がいるって</b></font></p>
+<p begin="7420700000t" end="7451500000t" region="bottomCenter" style="s1" xml:id="subtitle89"><font face="方正准雅宋_GBK" size="54"><b>说这个镇子里有吸血鬼</b></font></p>
+<p begin="7456700000t" end="7488900000t" region="bottomCenter" style="s1" xml:id="subtitle90"><font face="HGPMinchoE" size="36"><b>だから夜とか　一人で出歩いちゃ駄目だって</b></font></p>
+<p begin="7456700000t" end="7488900000t" region="bottomCenter" style="s1" xml:id="subtitle91"><font face="方正准雅宋_GBK" size="54"><b>所以晚上最好别独自出门</b></font></p>
+<p begin="7496100000t" end="7537000000t" region="bottomCenter" style="s1" xml:id="subtitle92"><font face="HGPMinchoE" size="36"><b>曖昧な　しかも信憑性のない噂だな</b></font></p>
+<p begin="7496100000t" end="7537000000t" region="bottomCenter" style="s1" xml:id="subtitle93"><font face="方正准雅宋_GBK" size="54"><b>太模棱两可了 而且完全没有根据可言</b></font></p>
+<p begin="7544400000t" end="7582800000t" region="bottomCenter" style="s1" xml:id="subtitle94"><font face="HGPMinchoE" size="36"><b>金髪の　すごく綺麗な女の人で</b></font></p>
+<p begin="7544400000t" end="7582800000t" region="bottomCenter" style="s1" xml:id="subtitle95"><font face="方正准雅宋_GBK" size="54"><b>听说那是个拥有冷厉逼人双眼的</b></font></p>
+<p begin="7588600000t" end="7635600000t" region="bottomCenter" style="s1" xml:id="subtitle96"><font face="HGPMinchoE" size="36"><b>背筋が凍るくらい　冷たい眼をした吸血鬼なんだってさ</b></font></p>
+<p begin="7588600000t" end="7635600000t" region="bottomCenter" style="s1" xml:id="subtitle97"><font face="方正准雅宋_GBK" size="54"><b>金发大美女吸血鬼</b></font></p>
+<p begin="7639200000t" end="7670800000t" region="bottomCenter" style="s1" xml:id="subtitle98"><font face="HGPMinchoE" size="36"><b>それだけじゃ　吸血鬼だってわからないだろ</b></font></p>
+<p begin="7639200000t" end="7670800000t" region="bottomCenter" style="s1" xml:id="subtitle99"><font face="方正准雅宋_GBK" size="54"><b>就这点信息的话 并不能证明她是吸血鬼吧</b></font></p>
+<p begin="7679300000t" end="7716000000t" region="bottomCenter" style="s1" xml:id="subtitle100"><font face="HGPMinchoE" size="36"><b>金髪だから目立ってるだけの　一般人じゃないのか</b></font></p>
+<p begin="7679300000t" end="7716000000t" region="bottomCenter" style="s1" xml:id="subtitle101"><font face="方正准雅宋_GBK" size="54"><b>说不定只是金发太显眼 但其实只是个普通人吧</b></font></p>
+<p begin="7722700000t" end="7732500000t" region="bottomCenter" style="s1" xml:id="subtitle102"><font face="HGPMinchoE" size="36"><b>でも</b></font></p>
+<p begin="7722700000t" end="7732500000t" region="bottomCenter" style="s1" xml:id="subtitle103"><font face="方正准雅宋_GBK" size="54"><b>但是</b></font></p>
+<p begin="7733800000t" end="7776500000t" region="bottomCenter" style="s1" xml:id="subtitle104"><font face="HGPMinchoE" size="36"><b>街灯に照らされて　金髪は眩しいくらいだったのに</b></font></p>
+<p begin="7733800000t" end="7776500000t" region="bottomCenter" style="s1" xml:id="subtitle105"><font face="方正准雅宋_GBK" size="54"><b>她的金发在被路灯照射得光彩夺目时</b></font></p>
+<p begin="7783200000t" end="7798900000t" region="bottomCenter" style="s1" xml:id="subtitle106"><font face="HGPMinchoE" size="36"><b>影がなかったって</b></font></p>
+<p begin="7783200000t" end="7798900000t" region="bottomCenter" style="s1" xml:id="subtitle107"><font face="方正准雅宋_GBK" size="54"><b>地上却不见影子</b></font></p>
+<p begin="7846600000t" end="7877600000t" region="bottomCenter" style="s1" xml:id="subtitle108"><font face="HGPMinchoE" size="36"><b>しかし　まあ夜のことだし</b></font></p>
+<p begin="7846600000t" end="7877600000t" region="bottomCenter" style="s1" xml:id="subtitle109"><font face="方正准雅宋_GBK" size="54"><b>怎么说呢 毕竟是晚上</b></font></p>
+<p begin="7885100000t" end="7926300000t" region="bottomCenter" style="s1" xml:id="subtitle110"><font face="HGPMinchoE" size="36"><b>街灯に照らされていたと言っても　見間違いということもあるだろう</b></font></p>
+<p begin="7885100000t" end="7926300000t" region="bottomCenter" style="s1" xml:id="subtitle111"><font face="方正准雅宋_GBK" size="54"><b>就算被路灯照到 也很容易看错吧</b></font></p>
+<p begin="7945000000t" end="7973900000t" region="bottomCenter" style="s1" xml:id="subtitle112"><font face="HGPMinchoE" size="36"><b>馬鹿馬鹿しい噂だと　私も思う</b></font></p>
+<p begin="7945000000t" end="7973900000t" region="bottomCenter" style="s1" xml:id="subtitle113"><font face="方正准雅宋_GBK" size="54"><b>我也觉得这个传闻很荒谬</b></font></p>
+<p begin="7980500000t" end="8051700000t" region="bottomCenter" style="s1" xml:id="subtitle114"><font face="HGPMinchoE" size="36"><b>でも　私はね　吸血鬼がいるなら　会ってみたいって思うのよ</b></font></p>
+<p begin="7980500000t" end="8051700000t" region="bottomCenter" style="s1" xml:id="subtitle115"><font face="方正准雅宋_GBK" size="54"><b>但是 如果吸血鬼真的存在 我很想见上一眼</b></font></p>
+<p begin="8059600000t" end="8118000000t" region="bottomCenter" style="s1" xml:id="subtitle116"><font face="HGPMinchoE" size="36"><b>そういう　人よりも上位の存在みたいなのが　いたらいいなって</b></font></p>
+<p begin="8059600000t" end="8118000000t" region="bottomCenter" style="s1" xml:id="subtitle117"><font face="方正准雅宋_GBK" size="54"><b>因为我真的很希望世界上有这种高于人类的生物</b></font></p>
+<p begin="8122700000t" end="8157200000t" region="bottomCenter" style="s1" xml:id="subtitle118"><font face="HGPMinchoE" size="36"><b>人より上位って　神様とかか</b></font></p>
+<p begin="8122700000t" end="8157200000t" region="bottomCenter" style="s1" xml:id="subtitle119"><font face="方正准雅宋_GBK" size="54"><b>高于人类的生物… 像神一样吗</b></font></p>
+<p begin="8157200000t" end="8188300000t" region="bottomCenter" style="s1" xml:id="subtitle120"><font face="HGPMinchoE" size="36"><b>別に神様じゃなくてもいいんだけど</b></font></p>
+<p begin="8157200000t" end="8188300000t" region="bottomCenter" style="s1" xml:id="subtitle121"><font face="方正准雅宋_GBK" size="54"><b>不是神也没关系</b></font></p>
+<p begin="8229700000t" end="8264700000t" region="bottomCenter" style="s1" xml:id="subtitle122"><font face="HGPMinchoE" size="36"><b>でないと　色々報われないじゃない</b></font></p>
+<p begin="8229700000t" end="8264700000t" region="bottomCenter" style="s1" xml:id="subtitle123"><font face="方正准雅宋_GBK" size="54"><b>不然的话 付出不就没回报了吗</b></font></p>
+<p begin="8385400000t" end="8397200000t" region="bottomCenter" style="s1" xml:id="subtitle124"><font face="HGPMinchoE" size="36"><b>いけない　いけない</b></font></p>
+<p begin="8385400000t" end="8397200000t" region="bottomCenter" style="s1" xml:id="subtitle125"><font face="方正准雅宋_GBK" size="54"><b>不好不好</b></font></p>
+<p begin="8404700000t" end="8437000000t" region="bottomCenter" style="s1" xml:id="subtitle126"><font face="HGPMinchoE" size="36"><b>阿良々木くん　意外と話しやすい人なんだね</b></font></p>
+<p begin="8404700000t" end="8437000000t" region="bottomCenter" style="s1" xml:id="subtitle127"><font face="方正准雅宋_GBK" size="54"><b>没想到阿良良木你这么好沟通</b></font></p>
+<p begin="8447100000t" end="8492000000t" region="bottomCenter" style="s1" xml:id="subtitle128"><font face="HGPMinchoE" size="36"><b>口が滑って　ちょっとわけのわからないことを言っちゃったような気がするよ</b></font></p>
+<p begin="8447100000t" end="8492000000t" region="bottomCenter" style="s1" xml:id="subtitle129"><font face="方正准雅宋_GBK" size="54"><b>感觉没管住嘴 说了些莫名其妙的话</b></font></p>
+<p begin="8516300000t" end="8562800000t" region="bottomCenter" style="s1" xml:id="subtitle130"><font face="HGPMinchoE" size="36"><b>こんな話しやすい阿良々木くんに　友達がいないなんて　おかしいね</b></font></p>
+<p begin="8516300000t" end="8562800000t" region="bottomCenter" style="s1" xml:id="subtitle131"><font face="方正准雅宋_GBK" size="54"><b>你这么好沟通却没有朋友 还真奇怪啊</b></font></p>
+<p begin="8568900000t" end="8589300000t" region="bottomCenter" style="s1" xml:id="subtitle132"><font face="HGPMinchoE" size="36"><b>何で友達　作らないの？</b></font></p>
+<p begin="8568900000t" end="8589300000t" region="bottomCenter" style="s1" xml:id="subtitle133"><font face="方正准雅宋_GBK" size="54"><b>为什么不去交朋友呢</b></font></p>
+<p begin="8608300000t" end="8641500000t" region="bottomCenter" style="s1" xml:id="subtitle134"><font face="HGPMinchoE" size="36"><b>友達を作ると　人間強度が下がるから</b></font></p>
+<p begin="8608300000t" end="8641500000t" region="bottomCenter" style="s1" xml:id="subtitle135"><font face="方正准雅宋_GBK" size="54"><b>交朋友会降低人类的强度</b></font></p>
+<p begin="8674700000t" end="8700200000t" region="bottomCenter" style="s1" xml:id="subtitle136"><font face="HGPMinchoE" size="36"><b>ごめん　ちょっと意味がわからない</b></font></p>
+<p begin="8674700000t" end="8700200000t" region="bottomCenter" style="s1" xml:id="subtitle137"><font face="方正准雅宋_GBK" size="54"><b>抱歉 我没听懂你说的话</b></font></p>
+<p begin="8701500000t" end="8745800000t" region="bottomCenter" style="s1" xml:id="subtitle138"><font face="HGPMinchoE" size="36"><b>いや　だから　なんかこう　だな</b></font></p>
+<p begin="8701500000t" end="8745800000t" region="bottomCenter" style="s1" xml:id="subtitle139"><font face="方正准雅宋_GBK" size="54"><b>嗯 总之 就是这种感觉</b></font></p>
+<p begin="8753400000t" end="8793800000t" region="bottomCenter" style="s1" xml:id="subtitle140"><font face="HGPMinchoE" size="36"><b>友達がいたら　友達のことを気にしなくちゃいけないだろ</b></font></p>
+<p begin="8753400000t" end="8793800000t" region="bottomCenter" style="s1" xml:id="subtitle141"><font face="方正准雅宋_GBK" size="54"><b>如果有朋友 那就不得不在意朋友的事吧</b></font></p>
+<p begin="8799200000t" end="8827500000t" region="bottomCenter" style="s1" xml:id="subtitle142"><font face="HGPMinchoE" size="36"><b>友達が傷ついたら　自分も傷ついちゃうし</b></font></p>
+<p begin="8799200000t" end="8827500000t" region="bottomCenter" style="s1" xml:id="subtitle143"><font face="方正准雅宋_GBK" size="54"><b>如果朋友受伤了 自己也会跟着受伤</b></font></p>
+<p begin="8831500000t" end="8856400000t" region="bottomCenter" style="s1" xml:id="subtitle144"><font face="HGPMinchoE" size="36"><b>友達が悲しいと自分も悲しい</b></font></p>
+<p begin="8831500000t" end="8856400000t" region="bottomCenter" style="s1" xml:id="subtitle145"><font face="方正准雅宋_GBK" size="54"><b>朋友伤心了 自己也会伤心</b></font></p>
+<p begin="8862900000t" end="8898000000t" region="bottomCenter" style="s1" xml:id="subtitle146"><font face="HGPMinchoE" size="36"><b>言ってみれば弱点が増えるってことだと思う</b></font></p>
+<p begin="8862900000t" end="8898000000t" region="bottomCenter" style="s1" xml:id="subtitle147"><font face="方正准雅宋_GBK" size="54"><b>再进一步说的话 就是在增加自己的弱点</b></font></p>
+<p begin="8905600000t" end="8928200000t" region="bottomCenter" style="s1" xml:id="subtitle148"><font face="HGPMinchoE" size="36"><b>それは人間としての弱体化だ</b></font></p>
+<p begin="8905600000t" end="8928200000t" region="bottomCenter" style="s1" xml:id="subtitle149"><font face="方正准雅宋_GBK" size="54"><b>也就是在让自己变成弱小之人</b></font></p>
+<p begin="8948300000t" end="8986700000t" region="bottomCenter" style="s1" xml:id="subtitle150"><font face="HGPMinchoE" size="36"><b>けど　友達が楽しんでいたら自分も楽しいし</b></font></p>
+<p begin="8948300000t" end="8986700000t" region="bottomCenter" style="s1" xml:id="subtitle151"><font face="方正准雅宋_GBK" size="54"><b>但是 如果朋友开心的时候 自己也会开心</b></font></p>
+<p begin="8989400000t" end="9018800000t" region="bottomCenter" style="s1" xml:id="subtitle152"><font face="HGPMinchoE" size="36"><b>友達が嬉しいと自分も嬉しいんだから</b></font></p>
+<p begin="8989400000t" end="9018800000t" region="bottomCenter" style="s1" xml:id="subtitle153"><font face="方正准雅宋_GBK" size="54"><b>朋友高兴的时候 自己也会高兴</b></font></p>
+<p begin="9021500000t" end="9050600000t" region="bottomCenter" style="s1" xml:id="subtitle154"><font face="HGPMinchoE" size="36"><b>一概に弱くなってるわけじゃないんじゃないの？</b></font></p>
+<p begin="9021500000t" end="9050600000t" region="bottomCenter" style="s1" xml:id="subtitle155"><font face="方正准雅宋_GBK" size="54"><b>所以不能一概而论地说是在增加弱点吧</b></font></p>
+<p begin="9056100000t" end="9092200000t" region="bottomCenter" style="s1" xml:id="subtitle156"><font face="HGPMinchoE" size="36"><b>いや　友達が楽しんでいると羨ましいし</b></font></p>
+<p begin="9056100000t" end="9092200000t" region="bottomCenter" style="s1" xml:id="subtitle157"><font face="方正准雅宋_GBK" size="54"><b>不对 朋友开心的时候会很羡慕</b></font></p>
+<p begin="9094500000t" end="9118600000t" region="bottomCenter" style="s1" xml:id="subtitle158"><font face="HGPMinchoE" size="36"><b>友達が嬉しいと妬ましい</b></font></p>
+<p begin="9094500000t" end="9118600000t" region="bottomCenter" style="s1" xml:id="subtitle159"><font face="方正准雅宋_GBK" size="54"><b>朋友高兴的时候 会嫉妒</b></font></p>
+<p begin="9145300000t" end="9163300000t" region="bottomCenter" style="s1" xml:id="subtitle160"><font face="HGPMinchoE" size="36"><b>人間が小さい</b></font></p>
+<p begin="9145300000t" end="9163300000t" region="bottomCenter" style="s1" xml:id="subtitle161"><font face="方正准雅宋_GBK" size="54"><b>肚量真小</b></font></p>
+<p begin="9178200000t" end="9189000000t" region="bottomCenter" style="s1" xml:id="subtitle162"><font face="HGPMinchoE" size="36"><b>ほっとけや</b></font></p>
+<p begin="9178200000t" end="9189000000t" region="bottomCenter" style="s1" xml:id="subtitle163"><font face="方正准雅宋_GBK" size="54"><b>要你管</b></font></p>
+<p begin="9267900000t" end="9276400000t" region="bottomCenter" style="s1" xml:id="subtitle164"><font face="HGPMinchoE" size="36"><b>私</b></font></p>
+<p begin="9267900000t" end="9276400000t" region="bottomCenter" style="s1" xml:id="subtitle165"><font face="方正准雅宋_GBK" size="54"><b>我</b></font></p>
+<p begin="9290000000t" end="9315400000t" region="bottomCenter" style="s1" xml:id="subtitle166"><font face="HGPMinchoE" size="36"><b>これから図書館に行こうと思うんだけど</b></font></p>
+<p begin="9290000000t" end="9315400000t" region="bottomCenter" style="s1" xml:id="subtitle167"><font face="方正准雅宋_GBK" size="54"><b>接下来要去图书馆</b></font></p>
+<p begin="9321600000t" end="9339800000t" region="bottomCenter" style="s1" xml:id="subtitle168"><font face="HGPMinchoE" size="36"><b>阿良々木くんも一緒に行く？</b></font></p>
+<p begin="9321600000t" end="9339800000t" region="bottomCenter" style="s1" xml:id="subtitle169"><font face="方正准雅宋_GBK" size="54"><b>阿良良木你也一起来吗</b></font></p>
+<p begin="9349800000t" end="9384000000t" region="bottomCenter" style="s1" xml:id="subtitle170"><font face="HGPMinchoE" size="36"><b>なんで　図書館で何するんだよ</b></font></p>
+<p begin="9349800000t" end="9384000000t" region="bottomCenter" style="s1" xml:id="subtitle171"><font face="方正准雅宋_GBK" size="54"><b>为啥 去图书馆干嘛</b></font></p>
+<p begin="9394000000t" end="9414700000t" region="bottomCenter" style="s1" xml:id="subtitle172"><font face="HGPMinchoE" size="36"><b>そりゃ　勉強でしょう</b></font></p>
+<p begin="9394000000t" end="9414700000t" region="bottomCenter" style="s1" xml:id="subtitle173"><font face="方正准雅宋_GBK" size="54"><b>当然是去学习啊</b></font></p>
+<p begin="9424800000t" end="9438200000t" region="bottomCenter" style="s1" xml:id="subtitle174"><font face="HGPMinchoE" size="36"><b>そりゃって</b></font></p>
+<p begin="9424800000t" end="9438200000t" region="bottomCenter" style="s1" xml:id="subtitle175"><font face="方正准雅宋_GBK" size="54"><b>还当然…</b></font></p>
+<p begin="9449100000t" end="9507100000t" region="bottomCenter" style="s1" xml:id="subtitle176"><font face="HGPMinchoE" size="36"><b>生憎　僕は宿題もない春休みに　わざわざ自主的に勉強するほど</b></font></p>
+<p begin="9449100000t" end="9507100000t" region="bottomCenter" style="s1" xml:id="subtitle177"><font face="方正准雅宋_GBK" size="54"><b>真不凑巧 我可没有奇葩到在没有作业的春假里</b></font></p>
+<p begin="9507100000t" end="9519200000t" region="bottomCenter" style="s1" xml:id="subtitle178"><font face="HGPMinchoE" size="36"><b>奇特じゃないんだ</b></font></p>
+<p begin="9507100000t" end="9519200000t" region="bottomCenter" style="s1" xml:id="subtitle179"><font face="方正准雅宋_GBK" size="54"><b>还自觉主动地去学习</b></font></p>
+<p begin="9523200000t" end="9559300000t" region="bottomCenter" style="s1" xml:id="subtitle180"><font face="HGPMinchoE" size="36"><b>でも　来年はもう受験生だよ</b></font></p>
+<p begin="9523200000t" end="9559300000t" region="bottomCenter" style="s1" xml:id="subtitle181"><font face="方正准雅宋_GBK" size="54"><b>不过 你明年就是考生了</b></font></p>
+<p begin="9565200000t" end="9618400000t" region="bottomCenter" style="s1" xml:id="subtitle182"><font face="HGPMinchoE" size="36"><b>受験も何も　僕は卒業さえ危ぶまれてるんだ</b></font></p>
+<p begin="9565200000t" end="9618400000t" region="bottomCenter" style="s1" xml:id="subtitle183"><font face="方正准雅宋_GBK" size="54"><b>别提升学了 我就连能不能毕业都是问题</b></font></p>
+<p begin="9623600000t" end="9644300000t" region="bottomCenter" style="s1" xml:id="subtitle184"><font face="HGPMinchoE" size="36"><b>もう何したって間に合わないよ</b></font></p>
+<p begin="9623600000t" end="9644300000t" region="bottomCenter" style="s1" xml:id="subtitle185"><font face="方正准雅宋_GBK" size="54"><b>现在做什么都来不及了</b></font></p>
+<p begin="9689900000t" end="9715900000t" region="bottomCenter" style="s1" xml:id="subtitle186"><font face="HGPMinchoE" size="36"><b>阿良々木くん　携帯持ってる？</b></font></p>
+<p begin="9689900000t" end="9715900000t" region="bottomCenter" style="s1" xml:id="subtitle187"><font face="方正准雅宋_GBK" size="54"><b>阿良良木 你带着手机吗</b></font></p>
+<p begin="9721700000t" end="9742400000t" region="bottomCenter" style="s1" xml:id="subtitle188"><font face="HGPMinchoE" size="36"><b>そりゃ　携帯くらいは</b></font></p>
+<p begin="9721700000t" end="9742400000t" region="bottomCenter" style="s1" xml:id="subtitle189"><font face="方正准雅宋_GBK" size="54"><b>那当然…带着</b></font></p>
+<p begin="9757900000t" end="9765800000t" region="bottomCenter" style="s1" xml:id="subtitle190"><font face="HGPMinchoE" size="36"><b>貸して</b></font></p>
+<p begin="9757900000t" end="9765800000t" region="bottomCenter" style="s1" xml:id="subtitle191"><font face="方正准雅宋_GBK" size="54"><b>借我一下</b></font></p>
+<p begin="9848700000t" end="9865600000t" region="bottomCenter" style="s1" xml:id="subtitle192"><font face="HGPMinchoE" size="36"><b>ありがと　はい　返す</b></font></p>
+<p begin="9848700000t" end="9865600000t" region="bottomCenter" style="s1" xml:id="subtitle193"><font face="方正准雅宋_GBK" size="54"><b>谢谢 还给你</b></font></p>
+<p begin="10010100000t" end="10044800000t" region="bottomCenter" style="s1" xml:id="subtitle194"><font face="HGPMinchoE" size="36"><b>私の番号とメルアド　登録しといたから</b></font></p>
+<p begin="10010100000t" end="10044800000t" region="bottomCenter" style="s1" xml:id="subtitle195"><font face="方正准雅宋_GBK" size="54"><b>我的电话号码和邮件地址 都存进去了</b></font></p>
+<p begin="10082600000t" end="10119600000t" region="bottomCenter" style="s1" xml:id="subtitle196"><font face="HGPMinchoE" size="36"><b>ざーんねん　友達　できちゃったね</b></font></p>
+<p begin="10082600000t" end="10119600000t" region="bottomCenter" style="s1" xml:id="subtitle197"><font face="方正准雅宋_GBK" size="54"><b>真遗憾 还是交上朋友了</b></font></p>
+<p begin="10557300000t" end="10571600000t" region="bottomCenter" style="s1" xml:id="subtitle198"><font face="HGPMinchoE" size="36"><b>なんだあいつ？</b></font></p>
+<p begin="10557300000t" end="10571600000t" region="bottomCenter" style="s1" xml:id="subtitle199"><font face="方正准雅宋_GBK" size="54"><b>那家伙怎么回事？</b></font></p>
+<p begin="14275400000t" end="14281400000t" region="bottomCenter" style="s1" xml:id="subtitle200"><font face="HGPMinchoE" size="36"><b>うぬ…</b></font></p>
+<p begin="14275400000t" end="14281400000t" region="bottomCenter" style="s1" xml:id="subtitle201"><font face="方正准雅宋_GBK" size="54"><b>汝…</b></font></p>
+<p begin="14309800000t" end="14346200000t" region="bottomCenter" style="s1" xml:id="subtitle202"><font face="HGPMinchoE" size="36"><b>儂を　助けさせてやる</b></font></p>
+<p begin="14309800000t" end="14346200000t" region="bottomCenter" style="s1" xml:id="subtitle203"><font face="方正准雅宋_GBK" size="54"><b>快来救吾</b></font></p>
+<p begin="14363400000t" end="14378800000t" region="bottomCenter" style="s1" xml:id="subtitle204"><font face="HGPMinchoE" size="36"><b>聞こえんのか</b></font></p>
+<p begin="14363400000t" end="14378800000t" region="bottomCenter" style="s1" xml:id="subtitle205"><font face="方正准雅宋_GBK" size="54"><b>汝没听见吗</b></font></p>
+<p begin="14389800000t" end="14438700000t" region="bottomCenter" style="s1" xml:id="subtitle206"><font face="HGPMinchoE" size="36"><b>儂を助けさせてやると　そう言うておるのじゃ</b></font></p>
+<p begin="14389800000t" end="14438700000t" region="bottomCenter" style="s1" xml:id="subtitle207"><font face="方正准雅宋_GBK" size="54"><b>吾曰 快来救吾</b></font></p>
+<p begin="14496900000t" end="14513800000t" region="bottomCenter" style="s1" xml:id="subtitle208"><font face="HGPMinchoE" size="36"><b>お…おい</b></font></p>
+<p begin="14496900000t" end="14513800000t" region="bottomCenter" style="s1" xml:id="subtitle209"><font face="方正准雅宋_GBK" size="54"><b>喂</b></font></p>
+<p begin="14540800000t" end="14571000000t" region="bottomCenter" style="s1" xml:id="subtitle210"><font face="HGPMinchoE" size="36"><b>お前　大丈夫なのか</b></font></p>
+<p begin="14540800000t" end="14571000000t" region="bottomCenter" style="s1" xml:id="subtitle211"><font face="方正准雅宋_GBK" size="54"><b>你…没事吧</b></font></p>
+<p begin="14599900000t" end="14631100000t" region="bottomCenter" style="s1" xml:id="subtitle212"><font face="HGPMinchoE" size="36"><b>す…すぐに　救急車を…</b></font></p>
+<p begin="14599900000t" end="14631100000t" region="bottomCenter" style="s1" xml:id="subtitle213"><font face="方正准雅宋_GBK" size="54"><b>我…我马上叫救护车</b></font></p>
+<p begin="14812600000t" end="14851900000t" region="bottomCenter" style="s1" xml:id="subtitle214"><font face="HGPMinchoE" size="36"><b>きゅうきゅうしゃ？　そんなものはいらんわ</b></font></p>
+<p begin="14812600000t" end="14851900000t" region="bottomCenter" style="s1" xml:id="subtitle215"><font face="方正准雅宋_GBK" size="54"><b>救护车？这种玩意我不需要</b></font></p>
+<p begin="14896800000t" end="14935200000t" region="bottomCenter" style="s1" xml:id="subtitle216"><font face="HGPMinchoE" size="36"><b>じゃから　うぬの血を寄越せ</b></font></p>
+<p begin="14896800000t" end="14935200000t" region="bottomCenter" style="s1" xml:id="subtitle217"><font face="方正准雅宋_GBK" size="54"><b>所以 把汝之血给吾</b></font></p>
+<p begin="15017600000t" end="15047000000t" region="bottomCenter" style="s1" xml:id="subtitle218"><font face="HGPMinchoE" size="36"><b>阿良々木君は吸血鬼って信じる？</b></font></p>
+<p begin="15017600000t" end="15047000000t" region="bottomCenter" style="s1" xml:id="subtitle219"><font face="方正准雅宋_GBK" size="54"><b>你相信这世上有吸血鬼吗</b></font></p>
+<p begin="15056200000t" end="15087600000t" region="bottomCenter" style="s1" xml:id="subtitle220"><font face="HGPMinchoE" size="36"><b>金髪の　すごく綺麗な女の人で</b></font></p>
+<p begin="15056200000t" end="15087600000t" region="bottomCenter" style="s1" xml:id="subtitle221"><font face="方正准雅宋_GBK" size="54"><b>听说那是个拥有冷厉逼人双眼的</b></font></p>
+<p begin="15091600000t" end="15136000000t" region="bottomCenter" style="s1" xml:id="subtitle222"><font face="HGPMinchoE" size="36"><b>背筋が凍るくらい　冷たい眼をした吸血鬼なんだってさ</b></font></p>
+<p begin="15091600000t" end="15136000000t" region="bottomCenter" style="s1" xml:id="subtitle223"><font face="方正准雅宋_GBK" size="54"><b>金发大美女吸血鬼</b></font></p>
+<p begin="15146500000t" end="15197000000t" region="bottomCenter" style="s1" xml:id="subtitle224"><font face="HGPMinchoE" size="36"><b>我が名は　キスショット・アセロラオリオン・ハートアンダーブレード</b></font></p>
+<p begin="15146500000t" end="15197000000t" region="bottomCenter" style="s1" xml:id="subtitle225"><font face="方正准雅宋_GBK" size="54"><b>吾名为姬丝秀忒·雅赛劳拉莉昂·刃下心</b></font></p>
+<p begin="15205300000t" end="15245500000t" region="bottomCenter" style="s1" xml:id="subtitle226"><font face="HGPMinchoE" size="36"><b>鉄血にして熱血にして冷血の吸血鬼じゃ</b></font></p>
+<p begin="15205300000t" end="15245500000t" region="bottomCenter" style="s1" xml:id="subtitle227"><font face="方正准雅宋_GBK" size="54"><b>铁血的热血的冷血的吸血鬼</b></font></p>
+<p begin="15247000000t" end="15254500000t" region="bottomCenter" style="s1" xml:id="subtitle228"><font face="方正准雅宋_GBK" size="72"><font size="60"><font color="#f6f7f4"><b>姬丝秀忒</b></font></font></font></p>
+<p begin="15247000000t" end="15254500000t" region="bottomCenter" style="s1" xml:id="subtitle229"><font face="方正准雅宋_GBK" size="72"><font size="60"><font color="#f6f7f4"><b>雅赛劳拉莉昂</b></font></font></font></p>
+<p begin="15247000000t" end="15254500000t" region="bottomCenter" style="s1" xml:id="subtitle230"><font face="方正准雅宋_GBK" size="72"><font size="60"><font color="#f6f7f4"><b>刃下心</b></font></font></font></p>
+<p begin="15261100000t" end="15305900000t" region="bottomCenter" style="s1" xml:id="subtitle231"><font face="HGPMinchoE" size="36"><b>うぬの血を　我が肉として呑み込んでやろう</b></font></p>
+<p begin="15261100000t" end="15305900000t" region="bottomCenter" style="s1" xml:id="subtitle232"><font face="方正准雅宋_GBK" size="54"><b>吾会将汝之血作为吾之食吞下</b></font></p>
+<p begin="15311000000t" end="15352400000t" region="bottomCenter" style="s1" xml:id="subtitle233"><font face="HGPMinchoE" size="36"><b>じゃから　うぬの血を寄越せ</b></font></p>
+<p begin="15311000000t" end="15352400000t" region="bottomCenter" style="s1" xml:id="subtitle234"><font face="方正准雅宋_GBK" size="54"><b>所以 快把汝之血给吾</b></font></p>
+<p begin="15409000000t" end="15466800000t" region="bottomCenter" style="s1" xml:id="subtitle235"><font face="HGPMinchoE" size="36"><b>吸血鬼ってのは　不死身のはずじゃ　ないのかよ</b></font></p>
+<p begin="15409000000t" end="15466800000t" region="bottomCenter" style="s1" xml:id="subtitle236"><font face="方正准雅宋_GBK" size="54"><b>吸血鬼… 难道不应该是不死之身吗</b></font></p>
+<p begin="15476200000t" end="15541900000t" region="bottomCenter" style="s1" xml:id="subtitle237"><font face="HGPMinchoE" size="36"><b>血を失い過ぎた　もはや再生もできぬ　変形もできぬ</b></font></p>
+<p begin="15476200000t" end="15541900000t" region="bottomCenter" style="s1" xml:id="subtitle238"><font face="方正准雅宋_GBK" size="54"><b>吾失血过多 已无法再生和变形</b></font></p>
+<p begin="15549400000t" end="15579400000t" region="bottomCenter" style="s1" xml:id="subtitle239"><font face="HGPMinchoE" size="36"><b>このままでは　死んでしまう</b></font></p>
+<p begin="15549400000t" end="15579400000t" region="bottomCenter" style="s1" xml:id="subtitle240"><font face="方正准雅宋_GBK" size="54"><b>如此下去的话 吾必死无疑</b></font></p>
+<p begin="15641200000t" end="15703600000t" region="bottomCenter" style="s1" xml:id="subtitle241"><font face="HGPMinchoE" size="36"><b>取るに足らん人間ごときが　我が血肉となれることを光栄に思え</b></font></p>
+<p begin="15641200000t" end="15703600000t" region="bottomCenter" style="s1" xml:id="subtitle242"><font face="方正准雅宋_GBK" size="54"><b>区区人类 为能成为吾之血肉感到光荣吧</b></font></p>
+<p begin="15715100000t" end="15762000000t" region="bottomCenter" style="s1" xml:id="subtitle243"><font face="HGPMinchoE" size="36"><b>血…血って　輸血とかじゃ　駄目なのか</b></font></p>
+<p begin="15715100000t" end="15762000000t" region="bottomCenter" style="s1" xml:id="subtitle244"><font face="方正准雅宋_GBK" size="54"><b>血… 不能输血吗</b></font></p>
+<p begin="15785000000t" end="15821300000t" region="bottomCenter" style="s1" xml:id="subtitle245"><font face="HGPMinchoE" size="36"><b>ど…どれくらい　いるんだよ</b></font></p>
+<p begin="15785000000t" end="15821300000t" region="bottomCenter" style="s1" xml:id="subtitle246"><font face="方正准雅宋_GBK" size="54"><b>需…需要多少血？</b></font></p>
+<p begin="15831900000t" end="15867800000t" region="bottomCenter" style="s1" xml:id="subtitle247"><font face="HGPMinchoE" size="36"><b>とりあえず　うぬ一人分もらえれば</b></font></p>
+<p begin="15831900000t" end="15867800000t" region="bottomCenter" style="s1" xml:id="subtitle248"><font face="方正准雅宋_GBK" size="54"><b>姑且先把汝一人份的血给吾</b></font></p>
+<p begin="15867800000t" end="15885100000t" region="bottomCenter" style="s1" xml:id="subtitle249"><font face="HGPMinchoE" size="36"><b>急場は凌げる</b></font></p>
+<p begin="15867800000t" end="15885100000t" region="bottomCenter" style="s1" xml:id="subtitle250"><font face="方正准雅宋_GBK" size="54"><b>这样吾至少能度过危机</b></font></p>
+<p begin="15885600000t" end="15908800000t" region="bottomCenter" style="s1" xml:id="subtitle251"><font face="HGPMinchoE" size="36"><b>そうか　僕一人分…</b></font></p>
+<p begin="15885600000t" end="15908800000t" region="bottomCenter" style="s1" xml:id="subtitle252"><font face="方正准雅宋_GBK" size="54"><b>这样啊 我一人份的血…</b></font></p>
+<p begin="16043500000t" end="16094400000t" region="bottomCenter" style="s1" xml:id="subtitle253"><font face="HGPMinchoE" size="36"><b>どうした　血を…血を寄越せ　早く…</b></font></p>
+<p begin="16043500000t" end="16094400000t" region="bottomCenter" style="s1" xml:id="subtitle254"><font face="方正准雅宋_GBK" size="54"><b>怎么了 把血…把血给吾 快点</b></font></p>
+<p begin="16095000000t" end="16110400000t" region="bottomCenter" style="s1" xml:id="subtitle255"><font face="HGPMinchoE" size="36"><b>早くするのじゃ</b></font></p>
+<p begin="16095000000t" end="16110400000t" region="bottomCenter" style="s1" xml:id="subtitle256"><font face="方正准雅宋_GBK" size="54"><b>我叫你快点</b></font></p>
+<p begin="16131900000t" end="16159100000t" region="bottomCenter" style="s1" xml:id="subtitle257"><font face="HGPMinchoE" size="36"><b>早くするのじゃ　こののろまが</b></font></p>
+<p begin="16131900000t" end="16159100000t" region="bottomCenter" style="s1" xml:id="subtitle258"><font face="方正准雅宋_GBK" size="54"><b>汝还在磨磨蹭蹭的作甚 没脑子的东西</b></font></p>
+<p begin="16145800000t" end="16182200000t" region="bottomCenter" style="s1" xml:id="subtitle259"><font face="HGPMinchoE" size="33"><b>{\an8}大丈夫　逃げられるはずだ</b></font></p>
+<p begin="16145800000t" end="16182200000t" region="bottomCenter" style="s1" xml:id="subtitle260"><font face="方正准雅宋_GBK" size="48"><b>{\an8}没事的 应该能逃得掉</b></font></p>
+<p begin="16164600000t" end="16200500000t" region="bottomCenter" style="s1" xml:id="subtitle261"><font face="HGPMinchoE" size="36"><b>こんな栄誉が　ほかにあるのと思うのか</b></font></p>
+<p begin="16164600000t" end="16200500000t" region="bottomCenter" style="s1" xml:id="subtitle262"><font face="方正准雅宋_GBK" size="54"><b>快来为荣誉而死吧</b></font></p>
+<p begin="16200700000t" end="16215500000t" region="bottomCenter" style="s1" xml:id="subtitle263"><font face="HGPMinchoE" size="36"><b>逃げ切れるはずだ</b></font></p>
+<p begin="16200700000t" end="16215500000t" region="bottomCenter" style="s1" xml:id="subtitle264"><font face="方正准雅宋_GBK" size="54"><b>应该… 能逃得掉</b></font></p>
+<p begin="16239700000t" end="16254700000t" region="bottomCenter" style="s1" xml:id="subtitle265"><font face="方正准雅宋_GBK" size="72">跑 起 来 就 行 了。</font></p>
+<p begin="16259700000t" end="16274700000t" region="bottomCenter" style="s1" xml:id="subtitle266"><font face="方正准雅宋_GBK" size="72">只 是 这 样 、</font></p>
+<p begin="16279700000t" end="16298500000t" region="bottomCenter" style="s1" xml:id="subtitle267"><font face="方正准雅宋_GBK" size="72">这 个 事 实 无 法 否 定</font></p>
+<p begin="16341900000t" end="16350800000t" region="bottomCenter" style="s1" xml:id="subtitle268"><font face="HGPMinchoE" size="36"><b>おい</b></font></p>
+<p begin="16341900000t" end="16350800000t" region="bottomCenter" style="s1" xml:id="subtitle269"><font face="方正准雅宋_GBK" size="54"><b>喂</b></font></p>
+<p begin="16397000000t" end="16407600000t" region="bottomCenter" style="s1" xml:id="subtitle270"><font face="HGPMinchoE" size="36"><b>う…嘘じゃろう</b></font></p>
+<p begin="16397000000t" end="16407600000t" region="bottomCenter" style="s1" xml:id="subtitle271"><font face="方正准雅宋_GBK" size="54"><b>骗人的吧</b></font></p>
+<p begin="16455700000t" end="16490800000t" region="bottomCenter" style="s1" xml:id="subtitle272"><font face="HGPMinchoE" size="36"><b>助けて…　くれんのか</b></font></p>
+<p begin="16455700000t" end="16490800000t" region="bottomCenter" style="s1" xml:id="subtitle273"><font face="方正准雅宋_GBK" size="54"><b>汝… 不救吾吗</b></font></p>
+<p begin="16586800000t" end="16646400000t" region="bottomCenter" style="s1" xml:id="subtitle274"><font face="HGPMinchoE" size="36"><b>嫌だ　嫌　嫌だ　嫌だ</b></font></p>
+<p begin="16586800000t" end="16646400000t" region="bottomCenter" style="s1" xml:id="subtitle275"><font face="方正准雅宋_GBK" size="54"><b>不要 不要 不要</b></font></p>
+<p begin="16647400000t" end="16692600000t" region="bottomCenter" style="s1" xml:id="subtitle276"><font face="HGPMinchoE" size="36"><b>死にたくない　死にたくない　死にたくない</b></font></p>
+<p begin="16647400000t" end="16692600000t" region="bottomCenter" style="s1" xml:id="subtitle277"><font face="方正准雅宋_GBK" size="54"><b>吾不想死 吾不想死 吾不想死</b></font></p>
+<p begin="16693400000t" end="16727800000t" region="bottomCenter" style="s1" xml:id="subtitle278"><font face="HGPMinchoE" size="36"><b>助けて　助けて　お願い</b></font></p>
+<p begin="16693400000t" end="16727800000t" region="bottomCenter" style="s1" xml:id="subtitle279"><font face="方正准雅宋_GBK" size="54"><b>救救吾 求汝了</b></font></p>
+<p begin="16773200000t" end="16802400000t" region="bottomCenter" style="s1" xml:id="subtitle280"><font face="HGPMinchoE" size="36"><b>お願…お願いします</b></font></p>
+<p begin="16773200000t" end="16802400000t" region="bottomCenter" style="s1" xml:id="subtitle281"><font face="方正准雅宋_GBK" size="54"><b>求…求您了</b></font></p>
+<p begin="16823200000t" end="16850800000t" region="bottomCenter" style="s1" xml:id="subtitle282"><font face="HGPMinchoE" size="36"><b>嫌だ　嫌だ</b></font></p>
+<p begin="16823200000t" end="16850800000t" region="bottomCenter" style="s1" xml:id="subtitle283"><font face="方正准雅宋_GBK" size="54"><b>不要 不要</b></font></p>
+<p begin="16961300000t" end="17229700000t" region="bottomCenter" style="s1" xml:id="subtitle284"><font face="HGPMinchoE" size="36"><b>ごめんなさい　ごめんなさい　ごめんなさい　ごめんなさい</b></font></p>
+<p begin="16961300000t" end="17229700000t" region="bottomCenter" style="s1" xml:id="subtitle285"><font face="方正准雅宋_GBK" size="54"><b>对不起 对不起 对不起 对不起</b></font></p>
+<p begin="17343600000t" end="17386400000t" region="bottomCenter" style="s1" xml:id="subtitle286"><font face="HGPMinchoE" size="36"><b>ごめんなさい　ごめんなさい</b></font></p>
+<p begin="17343600000t" end="17386400000t" region="bottomCenter" style="s1" xml:id="subtitle287"><font face="方正准雅宋_GBK" size="54"><b>对不起 对不起</b></font></p>
+<p begin="17682700000t" end="17697500000t" region="bottomCenter" style="s1" xml:id="subtitle288"><font face="HGPMinchoE" size="36"><b>自分が死ぬんだ</b></font></p>
+<p begin="17682700000t" end="17697500000t" region="bottomCenter" style="s1" xml:id="subtitle289"><font face="方正准雅宋_GBK" size="54"><b>我会死的</b></font></p>
+<p begin="17722000000t" end="17744100000t" region="bottomCenter" style="s1" xml:id="subtitle290"><font face="HGPMinchoE" size="36"><b>そうでなくとも化物だ</b></font></p>
+<p begin="17722000000t" end="17744100000t" region="bottomCenter" style="s1" xml:id="subtitle291"><font face="方正准雅宋_GBK" size="54"><b>而且她是怪物</b></font></p>
+<p begin="17767600000t" end="17780500000t" region="bottomCenter" style="s1" xml:id="subtitle292"><font face="HGPMinchoE" size="36"><b>吸血鬼なんだ</b></font></p>
+<p begin="17767600000t" end="17780500000t" region="bottomCenter" style="s1" xml:id="subtitle293"><font face="方正准雅宋_GBK" size="54"><b>是吸血鬼啊</b></font></p>
+<p begin="17805500000t" end="17822300000t" region="bottomCenter" style="s1" xml:id="subtitle294"><font face="HGPMinchoE" size="36"><b>助ける必要はない</b></font></p>
+<p begin="17805500000t" end="17822300000t" region="bottomCenter" style="s1" xml:id="subtitle295"><font face="方正准雅宋_GBK" size="54"><b>没有必要出手相救</b></font></p>
+<p begin="17841400000t" end="17854600000t" region="bottomCenter" style="s1" xml:id="subtitle296"><font face="HGPMinchoE" size="36"><b>そうだろう</b></font></p>
+<p begin="17841400000t" end="17854600000t" region="bottomCenter" style="s1" xml:id="subtitle297"><font face="方正准雅宋_GBK" size="54"><b>难道不是吗</b></font></p>
+<p begin="17976100000t" end="18005900000t" region="bottomCenter" style="s1" xml:id="subtitle298"><font face="HGPMinchoE" size="36"><b>わかってんだよ　そんなことは</b></font></p>
+<p begin="17976100000t" end="18005900000t" region="bottomCenter" style="s1" xml:id="subtitle299"><font face="方正准雅宋_GBK" size="54"><b>这种事我还是明白的</b></font></p>
+<p begin="18342100000t" end="18361100000t" region="bottomCenter" style="s1" xml:id="subtitle300"><font face="HGPMinchoE" size="36"><b>諦めんな　馬鹿</b></font></p>
+<p begin="18342100000t" end="18361100000t" region="bottomCenter" style="s1" xml:id="subtitle301"><font face="方正准雅宋_GBK" size="54"><b>别轻易放弃 蠢货</b></font></p>
+<p begin="18476400000t" end="18494700000t" region="bottomCenter" style="s1" xml:id="subtitle302"><font face="HGPMinchoE" size="36"><b>い…いいの？</b></font></p>
+<p begin="18476400000t" end="18494700000t" region="bottomCenter" style="s1" xml:id="subtitle303"><font face="方正准雅宋_GBK" size="54"><b>可…可以吗</b></font></p>
+<p begin="18500000000t" end="18532900000t" region="bottomCenter" style="s1" xml:id="subtitle304"><font face="HGPMinchoE" size="36"><b>悪いに決まってんだろうが　この野郎</b></font></p>
+<p begin="18500000000t" end="18532900000t" region="bottomCenter" style="s1" xml:id="subtitle305"><font face="方正准雅宋_GBK" size="54"><b>还有别的办法救你吗 蠢货</b></font></p>
+<p begin="18559800000t" end="18583300000t" region="bottomCenter" style="s1" xml:id="subtitle306"><font face="HGPMinchoE" size="36"><b>畜生　畜生　畜生</b></font></p>
+<p begin="18559800000t" end="18583300000t" region="bottomCenter" style="s1" xml:id="subtitle307"><font face="方正准雅宋_GBK" size="54"><b>混蛋 混蛋 混蛋</b></font></p>
+<p begin="18597000000t" end="18639500000t" region="bottomCenter" style="s1" xml:id="subtitle308"><font face="HGPMinchoE" size="36"><b>なんで　どうしてこんなことになったんだ</b></font></p>
+<p begin="18597000000t" end="18639500000t" region="bottomCenter" style="s1" xml:id="subtitle309"><font face="方正准雅宋_GBK" size="54"><b>为什么 为什么会变成这样</b></font></p>
+<p begin="18725900000t" end="18763100000t" region="bottomCenter" style="s1" xml:id="subtitle310"><font face="HGPMinchoE" size="36"><b>次の人生じゃ　絶対にうまくやる</b></font></p>
+<p begin="18725900000t" end="18763100000t" region="bottomCenter" style="s1" xml:id="subtitle311"><font face="方正准雅宋_GBK" size="54"><b>下辈子 我绝对要活得精彩点</b></font></p>
+<p begin="18779800000t" end="18825800000t" region="bottomCenter" style="s1" xml:id="subtitle312"><font face="HGPMinchoE" size="36"><b>要領のいい　嫌なことは全部他人のせいにできる</b></font></p>
+<p begin="18779800000t" end="18825800000t" region="bottomCenter" style="s1" xml:id="subtitle313"><font face="方正准雅宋_GBK" size="54"><b>抓住诀窍 学会推卸责任</b></font></p>
+<p begin="18839600000t" end="18902600000t" region="bottomCenter" style="s1" xml:id="subtitle314"><font face="HGPMinchoE" size="36"><b>そんな人間に生まれ変わってやる　だから</b></font></p>
+<p begin="18839600000t" end="18902600000t" region="bottomCenter" style="s1" xml:id="subtitle315"><font face="方正准雅宋_GBK" size="54"><b>要重生为这样的人 所以</b></font></p>
+<p begin="18916600000t" end="18958800000t" region="bottomCenter" style="s1" xml:id="subtitle316"><font face="HGPMinchoE" size="36"><b>僕がお前を助けてやる　僕の血を吸え</b></font></p>
+<p begin="18916600000t" end="18958800000t" region="bottomCenter" style="s1" xml:id="subtitle317"><font face="方正准雅宋_GBK" size="54"><b>我来救你 来吸我的血吧</b></font></p>
+<p begin="18971500000t" end="19018700000t" region="bottomCenter" style="s1" xml:id="subtitle318"><font face="HGPMinchoE" size="36"><b>全部やる　一滴残らず　絞り尽くせ</b></font></p>
+<p begin="18971500000t" end="19018700000t" region="bottomCenter" style="s1" xml:id="subtitle319"><font face="方正准雅宋_GBK" size="54"><b>一滴不剩全部吸干</b></font></p>
+<p begin="19088900000t" end="19104700000t" region="bottomCenter" style="s1" xml:id="subtitle320"><font face="HGPMinchoE" size="36"><b>ありがとう</b></font></p>
+<p begin="19088900000t" end="19104700000t" region="bottomCenter" style="s1" xml:id="subtitle321"><font face="方正准雅宋_GBK" size="54"><b>谢谢</b></font></p>
+<p begin="19778300000t" end="19787300000t" region="bottomCenter" style="s1" xml:id="subtitle322"><font face="HGPMinchoE" size="36"><b>夢？</b></font></p>
+<p begin="19778300000t" end="19787300000t" region="bottomCenter" style="s1" xml:id="subtitle323"><font face="方正准雅宋_GBK" size="54"><b>是梦？</b></font></p>
+<p begin="20095900000t" end="20132500000t" region="bottomCenter" style="s1" xml:id="subtitle324"><font face="HGPMinchoE" size="36"><b>お…おい　お…起きろ</b></font></p>
+<p begin="20095900000t" end="20132500000t" region="bottomCenter" style="s1" xml:id="subtitle325"><font face="方正准雅宋_GBK" size="54"><b>喂… 喂…醒醒</b></font></p>
+<p begin="20180700000t" end="20196300000t" region="bottomCenter" style="s1" xml:id="subtitle326"><font face="HGPMinchoE" size="36"><b>あと五分</b></font></p>
+<p begin="20180700000t" end="20196300000t" region="bottomCenter" style="s1" xml:id="subtitle327"><font face="方正准雅宋_GBK" size="54"><b>再睡五分钟</b></font></p>
+<p begin="20196600000t" end="20230000000t" region="bottomCenter" style="s1" xml:id="subtitle328"><font face="HGPMinchoE" size="36"><b>だ…だから起きろって</b></font></p>
+<p begin="20196600000t" end="20230000000t" region="bottomCenter" style="s1" xml:id="subtitle329"><font face="方正准雅宋_GBK" size="54"><b>都说醒醒了</b></font></p>
+<p begin="20240900000t" end="20263200000t" region="bottomCenter" style="s1" xml:id="subtitle330"><font face="HGPMinchoE" size="36"><b>あと気分</b></font></p>
+<p begin="20240900000t" end="20263200000t" region="bottomCenter" style="s1" xml:id="subtitle331"><font face="方正准雅宋_GBK" size="54"><b>还没睡舒服</b></font></p>
+<p begin="20283000000t" end="20301700000t" region="bottomCenter" style="s1" xml:id="subtitle332"><font face="HGPMinchoE" size="36"><b>どれだけ寝る気だよ</b></font></p>
+<p begin="20283000000t" end="20301700000t" region="bottomCenter" style="s1" xml:id="subtitle333"><font face="方正准雅宋_GBK" size="54"><b>你还想睡多久啊</b></font></p>
+<p begin="20351900000t" end="20373500000t" region="bottomCenter" style="s1" xml:id="subtitle334"><font face="HGPMinchoE" size="36"><b>四十六億年くらい</b></font></p>
+<p begin="20351900000t" end="20373500000t" region="bottomCenter" style="s1" xml:id="subtitle335"><font face="方正准雅宋_GBK" size="54"><b>再睡个46亿年左右</b></font></p>
+<p begin="20395500000t" end="20422100000t" region="bottomCenter" style="s1" xml:id="subtitle336"><font face="HGPMinchoE" size="36"><b>地球がもう一個できちゃうよ</b></font></p>
+<p begin="20395500000t" end="20422100000t" region="bottomCenter" style="s1" xml:id="subtitle337"><font face="方正准雅宋_GBK" size="54"><b>地球都能多出一个了</b></font></p>
+<p begin="20485900000t" end="20503700000t" region="bottomCenter" style="s1" xml:id="subtitle338"><font face="HGPMinchoE" size="36"><b>あれから二日も経ってるのか</b></font></p>
+<p begin="20485900000t" end="20503700000t" region="bottomCenter" style="s1" xml:id="subtitle339"><font face="方正准雅宋_GBK" size="54"><b>从那以后已经过了两天吗</b></font></p>
+<p begin="20904690000t" end="20915500000t" region="bottomCenter" style="s1" xml:id="subtitle340"><font face="HGPMinchoE" size="36"><b>たわけ</b></font></p>
+<p begin="20904690000t" end="20915500000t" region="bottomCenter" style="s1" xml:id="subtitle341"><font face="方正准雅宋_GBK" size="54"><b>死白痴</b></font></p>
+<p begin="21560900000t" end="21574000000t" region="bottomCenter" style="s1" xml:id="subtitle342"><font face="HGPMinchoE" size="36"><b>まったく</b></font></p>
+<p begin="21560900000t" end="21574000000t" region="bottomCenter" style="s1" xml:id="subtitle343"><font face="方正准雅宋_GBK" size="54"><b>真是的</b></font></p>
+<p begin="21607800000t" end="21651500000t" region="bottomCenter" style="s1" xml:id="subtitle344"><font face="HGPMinchoE" size="36"><b>いきなり太陽の下に出る馬鹿がどこにおるのじゃ</b></font></p>
+<p begin="21607800000t" end="21651500000t" region="bottomCenter" style="s1" xml:id="subtitle345"><font face="方正准雅宋_GBK" size="54"><b>想都不想就往太阳底下跑的白痴真是举世无双啊</b></font></p>
+<p begin="21655900000t" end="21694800000t" region="bottomCenter" style="s1" xml:id="subtitle346"><font face="HGPMinchoE" size="36"><b>並の吸血鬼なら　一瞬で蒸発しておったぞ</b></font></p>
+<p begin="21655900000t" end="21694800000t" region="bottomCenter" style="s1" xml:id="subtitle347"><font face="方正准雅宋_GBK" size="54"><b>要是普通吸血鬼的话 可转瞬间就蒸发得无影无踪了</b></font></p>
+<p begin="21749600000t" end="21782500000t" region="bottomCenter" style="s1" xml:id="subtitle348"><font face="HGPMinchoE" size="36"><b>日のある内は二度と外に出るでないぞ</b></font></p>
+<p begin="21749600000t" end="21782500000t" region="bottomCenter" style="s1" xml:id="subtitle349"><font face="方正准雅宋_GBK" size="54"><b>千万别再出去「晒太阳」了哦</b></font></p>
+<p begin="21788400000t" end="21808800000t" region="bottomCenter" style="s1" xml:id="subtitle350"><font face="HGPMinchoE" size="36"><b>なまじ不死力があるだけに</b></font></p>
+<p begin="21788400000t" end="21808800000t" region="bottomCenter" style="s1" xml:id="subtitle351"><font face="方正准雅宋_GBK" size="54"><b>幸亏你有不死之力</b></font></p>
+<p begin="21810200000t" end="21865600000t" region="bottomCenter" style="s1" xml:id="subtitle352"><font face="HGPMinchoE" size="36"><b>焼かれ　回復し　焼かれ　回復しの　永遠の繰り返しじゃ</b></font></p>
+<p begin="21810200000t" end="21865600000t" region="bottomCenter" style="s1" xml:id="subtitle353"><font face="方正准雅宋_GBK" size="54"><b>能不断在被灼伤后又恢复</b></font></p>
+<p begin="21978600000t" end="22037200000t" region="bottomCenter" style="s1" xml:id="subtitle354"><font face="HGPMinchoE" size="36"><b>まあ　不死の吸血鬼を生きておるのだと定義すればじゃがのう</b></font></p>
+<p begin="21978600000t" end="22037200000t" region="bottomCenter" style="s1" xml:id="subtitle355"><font face="方正准雅宋_GBK" size="54"><b>不过 这么说的前提是把不死吸血鬼定义为活着</b></font></p>
+<p begin="22062500000t" end="22094800000t" region="bottomCenter" style="s1" xml:id="subtitle356"><font face="HGPMinchoE" size="36"><b>きゅうけつ…き</b></font></p>
+<p begin="22062500000t" end="22094800000t" region="bottomCenter" style="s1" xml:id="subtitle357"><font face="方正准雅宋_GBK" size="54"><b>吸血鬼…</b></font></p>
+<p begin="22097500000t" end="22125200000t" region="bottomCenter" style="s1" xml:id="subtitle358"><font face="HGPMinchoE" size="36"><b>じゃあ　お前　ひょっとして</b></font></p>
+<p begin="22097500000t" end="22125200000t" region="bottomCenter" style="s1" xml:id="subtitle359"><font face="方正准雅宋_GBK" size="54"><b>那难道说你是？</b></font></p>
+<p begin="22158700000t" end="22241700000t" region="bottomCenter" style="s1" xml:id="subtitle360"><font face="HGPMinchoE" size="36"><b>うん　いかにも　キスショット・アセロラオリオン・ハートアンダーブレードじゃ</b></font></p>
+<p begin="22158700000t" end="22241700000t" region="bottomCenter" style="s1" xml:id="subtitle361"><font face="方正准雅宋_GBK" size="54"><b>嗯 吾正是姬丝秀忒·雅赛劳拉莉昂·刃下心</b></font></p>
+<p begin="22191000000t" end="22192300000t" region="bottomCenter" style="s1" xml:id="subtitle362"><font face="方正准雅宋_GBK" size="72"><font size="80"><font color="#f6f7f4"><b>姬 丝 秀 忒</b></font></font></font></p>
+<p begin="22209800000t" end="22211100000t" region="bottomCenter" style="s1" xml:id="subtitle363"><font face="方正准雅宋_GBK" size="72"><font size="80"><font color="#f6f7f4"><b>雅 赛 劳 拉 莉 昂</b></font></font></font></p>
+<p begin="22215200000t" end="22216500000t" region="bottomCenter" style="s1" xml:id="subtitle364"><font face="方正准雅宋_GBK" size="72"><font size="80"><font color="#f6f7f4"><b>刃 下 心</b></font></font></font></p>
+<p begin="22248700000t" end="22273400000t" region="bottomCenter" style="s1" xml:id="subtitle365"><font face="HGPMinchoE" size="36"><b>ハートアンダーブレードと呼ぶがよい</b></font></p>
+<p begin="22248700000t" end="22273400000t" region="bottomCenter" style="s1" xml:id="subtitle366"><font face="方正准雅宋_GBK" size="54"><b>叫吾刃下心就行了</b></font></p>
+<p begin="22297700000t" end="22327900000t" region="bottomCenter" style="s1" xml:id="subtitle367"><font face="HGPMinchoE" size="36"><b>眷属を造るのは四百年ぶり</b></font></p>
+<p begin="22297700000t" end="22327900000t" region="bottomCenter" style="s1" xml:id="subtitle368"><font face="方正准雅宋_GBK" size="54"><b>吾已经400年没亲族了</b></font></p>
+<p begin="22327900000t" end="22379600000t" region="bottomCenter" style="s1" xml:id="subtitle369"><font face="HGPMinchoE" size="36"><b>二回目じゃったが　まあその回復力を見る限りにおいて</b></font></p>
+<p begin="22327900000t" end="22379600000t" region="bottomCenter" style="s1" xml:id="subtitle370"><font face="方正准雅宋_GBK" size="54"><b>虽然汝是第二个 不过看汝这个恢复力</b></font></p>
+<p begin="22385300000t" end="22403900000t" region="bottomCenter" style="s1" xml:id="subtitle371"><font face="HGPMinchoE" size="36"><b>うまくいったようじゃな</b></font></p>
+<p begin="22385300000t" end="22403900000t" region="bottomCenter" style="s1" xml:id="subtitle372"><font face="方正准雅宋_GBK" size="54"><b>看来是成功了</b></font></p>
+<p begin="22403900000t" end="22426100000t" region="bottomCenter" style="s1" xml:id="subtitle373"><font face="HGPMinchoE" size="36"><b>け…眷属</b></font></p>
+<p begin="22403900000t" end="22426100000t" region="bottomCenter" style="s1" xml:id="subtitle374"><font face="方正准雅宋_GBK" size="54"><b>亲…亲族</b></font></p>
+<p begin="22426100000t" end="22449800000t" region="bottomCenter" style="s1" xml:id="subtitle375"><font face="HGPMinchoE" size="36"><b>そう　ゆえに　うぬ…</b></font></p>
+<p begin="22426100000t" end="22449800000t" region="bottomCenter" style="s1" xml:id="subtitle376"><font face="方正准雅宋_GBK" size="54"><b>没错 所以汝…</b></font></p>
+<p begin="22483300000t" end="22527100000t" region="bottomCenter" style="s1" xml:id="subtitle377"><font face="HGPMinchoE" size="36"><b>そう言えば　まだうぬの名前を聞いておらんかったの</b></font></p>
+<p begin="22483300000t" end="22527100000t" region="bottomCenter" style="s1" xml:id="subtitle378"><font face="方正准雅宋_GBK" size="54"><b>说起来吾还没有问汝的名字呢</b></font></p>
+<p begin="22560500000t" end="22574700000t" region="bottomCenter" style="s1" xml:id="subtitle379"><font face="HGPMinchoE" size="36"><b>まあよいか</b></font></p>
+<p begin="22560500000t" end="22574700000t" region="bottomCenter" style="s1" xml:id="subtitle380"><font face="方正准雅宋_GBK" size="54"><b>算了</b></font></p>
+<p begin="22574700000t" end="22622200000t" region="bottomCenter" style="s1" xml:id="subtitle381"><font face="HGPMinchoE" size="36"><b>これまでの名前など　今のうぬにとっては何の意味も持たん</b></font></p>
+<p begin="22574700000t" end="22622200000t" region="bottomCenter" style="s1" xml:id="subtitle382"><font face="方正准雅宋_GBK" size="54"><b>对如今的汝而言 过去的名字毫无意义</b></font></p>
+<p begin="22632700000t" end="22650500000t" region="bottomCenter" style="s1" xml:id="subtitle383"><font face="HGPMinchoE" size="36"><b>ともかく　従僕よ</b></font></p>
+<p begin="22632700000t" end="22650500000t" region="bottomCenter" style="s1" xml:id="subtitle384"><font face="方正准雅宋_GBK" size="54"><b>更不用说汝只是吾的小随从</b></font></p>
+<p begin="22669000000t" end="22701600000t" region="bottomCenter" style="s1" xml:id="subtitle385"><font face="HGPMinchoE" size="36"><b>ようこそ　夜の世界へ</b></font></p>
+<p begin="22669000000t" end="22701600000t" region="bottomCenter" style="s1" xml:id="subtitle386"><font face="方正准雅宋_GBK" size="54"><b>欢迎来到夜之世界</b></font></p>
+<p begin="22967600000t" end="22985500000t" region="bottomCenter" style="s1" xml:id="subtitle387"><font face="HGPMinchoE" size="36"><b>ここはどこなんだ？</b></font></p>
+<p begin="22967600000t" end="22985500000t" region="bottomCenter" style="s1" xml:id="subtitle388"><font face="方正准雅宋_GBK" size="54"><b>这是什么地方？</b></font></p>
+<p begin="23041800000t" end="23074700000t" region="bottomCenter" style="s1" xml:id="subtitle389"><font face="HGPMinchoE" size="36"><b>確か　「塾」と言うものらしいぞ</b></font></p>
+<p begin="23041800000t" end="23074700000t" region="bottomCenter" style="s1" xml:id="subtitle390"><font face="方正准雅宋_GBK" size="54"><b>貌似是叫「补习班」的一个地方</b></font></p>
+<p begin="23079600000t" end="23102700000t" region="bottomCenter" style="s1" xml:id="subtitle391"><font face="HGPMinchoE" size="36"><b>数年前に潰れたようじゃが</b></font></p>
+<p begin="23079600000t" end="23102700000t" region="bottomCenter" style="s1" xml:id="subtitle392"><font face="方正准雅宋_GBK" size="54"><b>好像几年前就荒废掉了</b></font></p>
+<p begin="23102700000t" end="23122600000t" region="bottomCenter" style="s1" xml:id="subtitle393"><font face="HGPMinchoE" size="36"><b>今はただの廃墟じゃ</b></font></p>
+<p begin="23102700000t" end="23122600000t" region="bottomCenter" style="s1" xml:id="subtitle394"><font face="方正准雅宋_GBK" size="54"><b>现在只是一片废墟了</b></font></p>
+<p begin="23126500000t" end="23158400000t" region="bottomCenter" style="s1" xml:id="subtitle395"><font face="HGPMinchoE" size="36"><b>この通り　身を潜めるには便利じゃな</b></font></p>
+<p begin="23126500000t" end="23158400000t" region="bottomCenter" style="s1" xml:id="subtitle396"><font face="方正准雅宋_GBK" size="54"><b>也算是有个藏身之处了</b></font></p>
+<p begin="23181000000t" end="23207500000t" region="bottomCenter" style="s1" xml:id="subtitle397"><font face="HGPMinchoE" size="36"><b>じゃあ　キスショット　次の質問だけど</b></font></p>
+<p begin="23181000000t" end="23207500000t" region="bottomCenter" style="s1" xml:id="subtitle398"><font face="方正准雅宋_GBK" size="54"><b>那我接着问</b></font></p>
+<p begin="23207500000t" end="23219200000t" region="bottomCenter" style="s1" xml:id="subtitle399"><font face="HGPMinchoE" size="36"><b>待てい</b></font></p>
+<p begin="23207500000t" end="23219200000t" region="bottomCenter" style="s1" xml:id="subtitle400"><font face="方正准雅宋_GBK" size="54"><b>等下</b></font></p>
+<p begin="23219200000t" end="23260200000t" region="bottomCenter" style="s1" xml:id="subtitle401"><font face="HGPMinchoE" size="36"><b>儂のことはハートアンダーブレードと呼べと言ったじゃろう<br /></b></font></p>
+<p begin="23219200000t" end="23260200000t" region="bottomCenter" style="s1" xml:id="subtitle402"><font face="方正准雅宋_GBK" size="54"><b>都说了叫吾刃下心</b></font></p>
+<p begin="23260200000t" end="23276400000t" region="bottomCenter" style="s1" xml:id="subtitle403"><font face="HGPMinchoE" size="36"><b>長ったらしいだろうが</b></font></p>
+<p begin="23260200000t" end="23276400000t" region="bottomCenter" style="s1" xml:id="subtitle404"><font face="方正准雅宋_GBK" size="54"><b>太长了啊</b></font></p>
+<p begin="23283100000t" end="23303800000t" region="bottomCenter" style="s1" xml:id="subtitle405"><font face="HGPMinchoE" size="36"><b>キスショットのほうが短くていい</b></font></p>
+<p begin="23283100000t" end="23303800000t" region="bottomCenter" style="s1" xml:id="subtitle406"><font face="方正准雅宋_GBK" size="54"><b>只叫姬丝秀忒的话倒是可以 因为比较短</b></font></p>
+<p begin="23311100000t" end="23339500000t" region="bottomCenter" style="s1" xml:id="subtitle407"><font face="HGPMinchoE" size="36"><b>それとも　そう呼んじゃいけないのか</b></font></p>
+<p begin="23311100000t" end="23339500000t" region="bottomCenter" style="s1" xml:id="subtitle408"><font face="方正准雅宋_GBK" size="54"><b>还是说绝不能那么叫吗</b></font></p>
+<p begin="23360100000t" end="23393700000t" region="bottomCenter" style="s1" xml:id="subtitle409"><font face="HGPMinchoE" size="36"><b>いや　まあ　そうじゃな</b></font></p>
+<p begin="23360100000t" end="23393700000t" region="bottomCenter" style="s1" xml:id="subtitle410"><font face="方正准雅宋_GBK" size="54"><b>好吧 就这样吧</b></font></p>
+<p begin="23393700000t" end="23423500000t" region="bottomCenter" style="s1" xml:id="subtitle411"><font face="HGPMinchoE" size="36"><b>うぬがそれでよいのならばそれでよいじゃろう</b></font></p>
+<p begin="23393700000t" end="23423500000t" region="bottomCenter" style="s1" xml:id="subtitle412"><font face="方正准雅宋_GBK" size="54"><b>汝觉得可以便可</b></font></p>
+<p begin="23429900000t" end="23444600000t" region="bottomCenter" style="s1" xml:id="subtitle413"><font face="HGPMinchoE" size="36"><b>断る理由もないわ</b></font></p>
+<p begin="23429900000t" end="23444600000t" region="bottomCenter" style="s1" xml:id="subtitle414"><font face="方正准雅宋_GBK" size="54"><b>我也没有拒绝的理由</b></font></p>
+<p begin="23465600000t" end="23500900000t" region="bottomCenter" style="s1" xml:id="subtitle415"><font face="HGPMinchoE" size="36"><b>それで　次の質問とは何じゃ？</b></font></p>
+<p begin="23465600000t" end="23500900000t" region="bottomCenter" style="s1" xml:id="subtitle416"><font face="方正准雅宋_GBK" size="54"><b>那还要问什么？</b></font></p>
+<p begin="23522300000t" end="23561500000t" region="bottomCenter" style="s1" xml:id="subtitle417"><font face="HGPMinchoE" size="36"><b>えっと　僕は吸血鬼に　なったんだよな</b></font></p>
+<p begin="23522300000t" end="23561500000t" region="bottomCenter" style="s1" xml:id="subtitle418"><font face="方正准雅宋_GBK" size="54"><b>我这是变成吸血鬼了吧</b></font></p>
+<p begin="23567100000t" end="23584100000t" region="bottomCenter" style="s1" xml:id="subtitle419"><font face="HGPMinchoE" size="36"><b>当たり前じゃ</b></font></p>
+<p begin="23567100000t" end="23584100000t" region="bottomCenter" style="s1" xml:id="subtitle420"><font face="方正准雅宋_GBK" size="54"><b>那还用说</b></font></p>
+<p begin="23584100000t" end="23608800000t" region="bottomCenter" style="s1" xml:id="subtitle421"><font face="HGPMinchoE" size="36"><b>今更説明するまでもあるまい</b></font></p>
+<p begin="23584100000t" end="23608800000t" region="bottomCenter" style="s1" xml:id="subtitle422"><font face="方正准雅宋_GBK" size="54"><b>事到如今还需要吾说明吗</b></font></p>
+<p begin="23614100000t" end="23652700000t" region="bottomCenter" style="s1" xml:id="subtitle423"><font face="HGPMinchoE" size="36"><b>うぬは儂の眷属となり　従僕となったのじゃ</b></font></p>
+<p begin="23614100000t" end="23652700000t" region="bottomCenter" style="s1" xml:id="subtitle424"><font face="方正准雅宋_GBK" size="54"><b>汝已成为吾的亲族 乃吾的仆人</b></font></p>
+<p begin="23657200000t" end="23669600000t" region="bottomCenter" style="s1" xml:id="subtitle425"><font face="HGPMinchoE" size="36"><b>光栄に思え</b></font></p>
+<p begin="23657200000t" end="23669600000t" region="bottomCenter" style="s1" xml:id="subtitle426"><font face="方正准雅宋_GBK" size="54"><b>感到荣幸吧</b></font></p>
+<p begin="23677500000t" end="23691700000t" region="bottomCenter" style="s1" xml:id="subtitle427"><font face="HGPMinchoE" size="36"><b>従僕って</b></font></p>
+<p begin="23677500000t" end="23691700000t" region="bottomCenter" style="s1" xml:id="subtitle428"><font face="方正准雅宋_GBK" size="54"><b>仆人？</b></font></p>
+<p begin="23703800000t" end="23755200000t" region="bottomCenter" style="s1" xml:id="subtitle429"><font face="HGPMinchoE" size="36"><b>じゃあ　どうしてお前　そんな子供みたいな身体つきになってんだ</b></font></p>
+<p begin="23703800000t" end="23755200000t" region="bottomCenter" style="s1" xml:id="subtitle430"><font face="方正准雅宋_GBK" size="54"><b>那你为什么变成一个小女孩了啊</b></font></p>
+<p begin="23755200000t" end="23786300000t" region="bottomCenter" style="s1" xml:id="subtitle431"><font face="HGPMinchoE" size="36"><b>会ったときのお前は　もっとこう…</b></font></p>
+<p begin="23755200000t" end="23786300000t" region="bottomCenter" style="s1" xml:id="subtitle432"><font face="方正准雅宋_GBK" size="54"><b>第一次见到你的时候 你更…</b></font></p>
+<p begin="23786300000t" end="23801100000t" region="bottomCenter" style="s1" xml:id="subtitle433"><font face="HGPMinchoE" size="36"><b>大人っぽくて</b></font></p>
+<p begin="23786300000t" end="23801100000t" region="bottomCenter" style="s1" xml:id="subtitle434"><font face="方正准雅宋_GBK" size="54"><b>更成熟一些</b></font></p>
+<p begin="23813900000t" end="23837200000t" region="bottomCenter" style="s1" xml:id="subtitle435"><font face="HGPMinchoE" size="36"><b>子供っぽくて悪かったのう</b></font></p>
+<p begin="23813900000t" end="23837200000t" region="bottomCenter" style="s1" xml:id="subtitle436"><font face="方正准雅宋_GBK" size="54"><b>长成小女孩样真是抱歉了</b></font></p>
+<p begin="23837200000t" end="23860500000t" region="bottomCenter" style="s1" xml:id="subtitle437"><font face="HGPMinchoE" size="36"><b>いや　そうじゃなくて</b></font></p>
+<p begin="23837200000t" end="23860500000t" region="bottomCenter" style="s1" xml:id="subtitle438"><font face="方正准雅宋_GBK" size="54"><b>不 不是那个意思</b></font></p>
+<p begin="23860600000t" end="23875600000t" region="bottomCenter" style="s1" xml:id="subtitle439"><font face="方正准雅宋_GBK" size="72"><font size="80"><font color="#f6f7f4"><b>成 熟</b></font></font></font></p>
+<p begin="23880600000t" end="23895700000t" region="bottomCenter" style="s1" xml:id="subtitle440"><font face="方正准雅宋_GBK" size="72"><font size="80"><font color="#f6f7f4"><b>然 后 …</b></font></font></font></p>
+<p begin="23922400000t" end="23944500000t" region="bottomCenter" style="s1" xml:id="subtitle441"><font face="方正准雅宋_GBK" size="72"><font size="80"><font color="#f6f7f4"><b>手 脚 被 切 断 了</b></font></font></font></p>
+<p begin="23964300000t" end="23998500000t" region="bottomCenter" style="s1" xml:id="subtitle442"><font face="HGPMinchoE" size="36"><b>うぬの血は　絞り尽くしたがの</b></font></p>
+<p begin="23964300000t" end="23998500000t" region="bottomCenter" style="s1" xml:id="subtitle443"><font face="方正准雅宋_GBK" size="54"><b>吾是喝干了汝的血</b></font></p>
+<p begin="23998500000t" end="24027600000t" region="bottomCenter" style="s1" xml:id="subtitle444"><font face="HGPMinchoE" size="36"><b>それでは全然足りなかったのじゃ</b></font></p>
+<p begin="23998500000t" end="24027600000t" region="bottomCenter" style="s1" xml:id="subtitle445"><font face="方正准雅宋_GBK" size="54"><b>但完全不够啊</b></font></p>
+<p begin="24027600000t" end="24058500000t" region="bottomCenter" style="s1" xml:id="subtitle446"><font face="HGPMinchoE" size="36"><b>じゃからそれ相応の姿になっておる</b></font></p>
+<p begin="24027600000t" end="24058500000t" region="bottomCenter" style="s1" xml:id="subtitle447"><font face="方正准雅宋_GBK" size="54"><b>所以才变成了这副身体</b></font></p>
+<p begin="24063100000t" end="24084100000t" region="bottomCenter" style="s1" xml:id="subtitle448"><font face="HGPMinchoE" size="36"><b>これでも死なぬだけマシじゃ</b></font></p>
+<p begin="24063100000t" end="24084100000t" region="bottomCenter" style="s1" xml:id="subtitle449"><font face="方正准雅宋_GBK" size="54"><b>总比死了强</b></font></p>
+<p begin="24089000000t" end="24123900000t" region="bottomCenter" style="s1" xml:id="subtitle450"><font face="HGPMinchoE" size="36"><b>とは言え　最低限の不死身しか保てぬし</b></font></p>
+<p begin="24089000000t" end="24123900000t" region="bottomCenter" style="s1" xml:id="subtitle451"><font face="方正准雅宋_GBK" size="54"><b>话说这么说 也只能维持着最低限度的不死之身</b></font></p>
+<p begin="24123900000t" end="24160400000t" region="bottomCenter" style="s1" xml:id="subtitle452"><font face="HGPMinchoE" size="36"><b>吸血鬼としての能力のほとんどが制限されておる</b></font></p>
+<p begin="24123900000t" end="24160400000t" region="bottomCenter" style="s1" xml:id="subtitle453"><font face="方正准雅宋_GBK" size="54"><b>吸血鬼的很多能力都受到了限制</b></font></p>
+<p begin="24165800000t" end="24185800000t" region="bottomCenter" style="s1" xml:id="subtitle454"><font face="HGPMinchoE" size="36"><b>不便極まりないな</b></font></p>
+<p begin="24165800000t" end="24185800000t" region="bottomCenter" style="s1" xml:id="subtitle455"><font face="方正准雅宋_GBK" size="54"><b>真是十分的不方便</b></font></p>
+<p begin="24220100000t" end="24242500000t" region="bottomCenter" style="s1" xml:id="subtitle456"><font face="HGPMinchoE" size="36"><b>手足もこの通り</b></font></p>
+<p begin="24220100000t" end="24242500000t" region="bottomCenter" style="s1" xml:id="subtitle457"><font face="方正准雅宋_GBK" size="54"><b>手脚也是如此</b></font></p>
+<p begin="24242500000t" end="24266100000t" region="bottomCenter" style="s1" xml:id="subtitle458"><font face="HGPMinchoE" size="36"><b>形だけでも再生できたしのう</b></font></p>
+<p begin="24242500000t" end="24266100000t" region="bottomCenter" style="s1" xml:id="subtitle459"><font face="方正准雅宋_GBK" size="54"><b>虽然外壳是再生出来了</b></font></p>
+<p begin="24273400000t" end="24302600000t" region="bottomCenter" style="s1" xml:id="subtitle460"><font face="HGPMinchoE" size="36"><b>まあ　中身はスカスカなのじゃが</b></font></p>
+<p begin="24273400000t" end="24302600000t" region="bottomCenter" style="s1" xml:id="subtitle461"><font face="方正准雅宋_GBK" size="54"><b>但是里面是空的</b></font></p>
+<p begin="24306400000t" end="24340400000t" region="bottomCenter" style="s1" xml:id="subtitle462"><font face="HGPMinchoE" size="36"><b>とは言え　当面はこれで大丈夫じゃ</b></font></p>
+<p begin="24306400000t" end="24340400000t" region="bottomCenter" style="s1" xml:id="subtitle463"><font face="方正准雅宋_GBK" size="54"><b>尽管如此 暂时是没什么问题的</b></font></p>
+<p begin="24340400000t" end="24389200000t" region="bottomCenter" style="s1" xml:id="subtitle464"><font face="HGPMinchoE" size="36"><b>しかしな　そうは言っても上下関係はきっちりしておくぞ</b></font></p>
+<p begin="24340400000t" end="24389200000t" region="bottomCenter" style="s1" xml:id="subtitle465"><font face="方正准雅宋_GBK" size="54"><b>不过 上下级关系还是要确立好的</b></font></p>
+<p begin="24389200000t" end="24399700000t" region="bottomCenter" style="s1" xml:id="subtitle466"><font face="HGPMinchoE" size="36"><b>従僕</b></font></p>
+<p begin="24389200000t" end="24399700000t" region="bottomCenter" style="s1" xml:id="subtitle467"><font face="方正准雅宋_GBK" size="54"><b>吾之随从</b></font></p>
+<p begin="24405200000t" end="24459200000t" region="bottomCenter" style="s1" xml:id="subtitle468"><font face="HGPMinchoE" size="36"><b>こんなナリになっておっても　儂は五百年から生きておる吸血鬼じゃ</b></font></p>
+<p begin="24405200000t" end="24459200000t" region="bottomCenter" style="s1" xml:id="subtitle469"><font face="方正准雅宋_GBK" size="54"><b>虽然变成了这副模样 但吾好歹是活了500多年的吸血鬼</b></font></p>
+<p begin="24464300000t" end="24492200000t" region="bottomCenter" style="s1" xml:id="subtitle470"><font face="HGPMinchoE" size="36"><b>吸血鬼としては生まれたてのうぬが</b></font></p>
+<p begin="24464300000t" end="24492200000t" region="bottomCenter" style="s1" xml:id="subtitle471"><font face="方正准雅宋_GBK" size="54"><b>真要按规矩的话</b></font></p>
+<p begin="24495000000t" end="24536800000t" region="bottomCenter" style="s1" xml:id="subtitle472"><font face="HGPMinchoE" size="36"><b>本来ならば対等に口を利ける相手ではないのじゃぞ</b></font></p>
+<p begin="24495000000t" end="24536800000t" region="bottomCenter" style="s1" xml:id="subtitle473"><font face="方正准雅宋_GBK" size="54"><b>刚成为吸血鬼的汝是没资格与吾说话的</b></font></p>
+<p begin="24555600000t" end="24560900000t" region="bottomCenter" style="s1" xml:id="subtitle474"><font face="HGPMinchoE" size="36"><b>なんじゃ</b></font></p>
+<p begin="24555600000t" end="24560900000t" region="bottomCenter" style="s1" xml:id="subtitle475"><font face="方正准雅宋_GBK" size="54"><b>怎么了？</b></font></p>
+<p begin="24566400000t" end="24582200000t" region="bottomCenter" style="s1" xml:id="subtitle476"><font face="HGPMinchoE" size="36"><b>曖昧な返事じゃの</b></font></p>
+<p begin="24566400000t" end="24582200000t" region="bottomCenter" style="s1" xml:id="subtitle477"><font face="方正准雅宋_GBK" size="54"><b>回答真是暧昧</b></font></p>
+<p begin="24588400000t" end="24606500000t" region="bottomCenter" style="s1" xml:id="subtitle478"><font face="HGPMinchoE" size="36"><b>本当にわかっておるのか</b></font></p>
+<p begin="24588400000t" end="24606500000t" region="bottomCenter" style="s1" xml:id="subtitle479"><font face="方正准雅宋_GBK" size="54"><b>汝真的明白了吗</b></font></p>
+<p begin="24616200000t" end="24635500000t" region="bottomCenter" style="s1" xml:id="subtitle480"><font face="HGPMinchoE" size="36"><b>まあ　わかるけど</b></font></p>
+<p begin="24616200000t" end="24635500000t" region="bottomCenter" style="s1" xml:id="subtitle481"><font face="方正准雅宋_GBK" size="54"><b>我明白了</b></font></p>
+<p begin="24635500000t" end="24682600000t" region="bottomCenter" style="s1" xml:id="subtitle482"><font face="HGPMinchoE" size="36"><b>ならば服従の証として　儂の頭を撫でてみよ</b></font></p>
+<p begin="24635500000t" end="24682600000t" region="bottomCenter" style="s1" xml:id="subtitle483"><font face="方正准雅宋_GBK" size="54"><b>那为了证明汝已服从于吾 摸摸吾的头</b></font></p>
+<p begin="24812200000t" end="24822100000t" region="bottomCenter" style="s1" xml:id="subtitle484"><font face="HGPMinchoE" size="36"><b>まあ　よかろう</b></font></p>
+<p begin="24812200000t" end="24822100000t" region="bottomCenter" style="s1" xml:id="subtitle485"><font face="方正准雅宋_GBK" size="54"><b>很好</b></font></p>
+<p begin="24935800000t" end="24968500000t" region="bottomCenter" style="s1" xml:id="subtitle486"><font face="HGPMinchoE" size="36"><b>どうして　僕を吸血鬼にした？</b></font></p>
+<p begin="24935800000t" end="24968500000t" region="bottomCenter" style="s1" xml:id="subtitle487"><font face="方正准雅宋_GBK" size="54"><b>为什么把我变成了吸血鬼？</b></font></p>
+<p begin="24986900000t" end="25032900000t" region="bottomCenter" style="s1" xml:id="subtitle488"><font face="HGPMinchoE" size="36"><b>僕はお前に　吸い尽くされ　殺される覚悟だったんだけど</b></font></p>
+<p begin="24986900000t" end="25032900000t" region="bottomCenter" style="s1" xml:id="subtitle489"><font face="方正准雅宋_GBK" size="54"><b>本来 我已做好被你吸尽血 最终赴死的心理准备</b></font></p>
+<p begin="25045400000t" end="25070900000t" region="bottomCenter" style="s1" xml:id="subtitle490"><font face="HGPMinchoE" size="36"><b>別に　したくてしたわけではない</b></font></p>
+<p begin="25045400000t" end="25070900000t" region="bottomCenter" style="s1" xml:id="subtitle491"><font face="方正准雅宋_GBK" size="54"><b>并不是吾想把汝变成吸血鬼</b></font></p>
+<p begin="25078500000t" end="25123300000t" region="bottomCenter" style="s1" xml:id="subtitle492"><font face="HGPMinchoE" size="36"><b>吸血鬼に血を吸われれば　例外なく誰もが吸血鬼と化す</b></font></p>
+<p begin="25078500000t" end="25123300000t" region="bottomCenter" style="s1" xml:id="subtitle493"><font face="方正准雅宋_GBK" size="54"><b>但凡被吸血鬼吸过血 无一例外都会成吸血鬼</b></font></p>
+<p begin="25131000000t" end="25141600000t" region="bottomCenter" style="s1" xml:id="subtitle494"><font face="HGPMinchoE" size="36"><b>それだけのことじゃ</b></font></p>
+<p begin="25131000000t" end="25141600000t" region="bottomCenter" style="s1" xml:id="subtitle495"><font face="方正准雅宋_GBK" size="54"><b>仅此而已</b></font></p>
+<p begin="25148000000t" end="25169100000t" region="bottomCenter" style="s1" xml:id="subtitle496"><font face="HGPMinchoE" size="36"><b>そう　なのか</b></font></p>
+<p begin="25148000000t" end="25169100000t" region="bottomCenter" style="s1" xml:id="subtitle497"><font face="方正准雅宋_GBK" size="54"><b>原来是这样啊</b></font></p>
+<p begin="25178000000t" end="25216300000t" region="bottomCenter" style="s1" xml:id="subtitle498"><font face="HGPMinchoE" size="36"><b>まあ　それは儂にとっては都合のよいことよ</b></font></p>
+<p begin="25178000000t" end="25216300000t" region="bottomCenter" style="s1" xml:id="subtitle499"><font face="方正准雅宋_GBK" size="54"><b>不过 这对吾来说倒是件好事</b></font></p>
+<p begin="25227300000t" end="25259300000t" region="bottomCenter" style="s1" xml:id="subtitle500"><font face="HGPMinchoE" size="36"><b>うぬには　やってもらわねばならんことがあるからじゃ</b></font></p>
+<p begin="25227300000t" end="25259300000t" region="bottomCenter" style="s1" xml:id="subtitle501"><font face="方正准雅宋_GBK" size="54"><b>因为吾有些事要让汝去做</b></font></p>
+<p begin="25272800000t" end="25317300000t" region="bottomCenter" style="s1" xml:id="subtitle502"><font face="HGPMinchoE" size="36"><b>うぬ一人の血では　ここまでしか身体を回復できんかった</b></font></p>
+<p begin="25272800000t" end="25317300000t" region="bottomCenter" style="s1" xml:id="subtitle503"><font face="方正准雅宋_GBK" size="54"><b>仅凭汝一人的血 吾便只能恢复至此</b></font></p>
+<p begin="25327500000t" end="25353400000t" region="bottomCenter" style="s1" xml:id="subtitle504"><font face="HGPMinchoE" size="36"><b>今の儂はフルパワーからは程遠い</b></font></p>
+<p begin="25327500000t" end="25353400000t" region="bottomCenter" style="s1" xml:id="subtitle505"><font face="方正准雅宋_GBK" size="54"><b>如今的吾与最强状态相去甚远</b></font></p>
+<p begin="25358200000t" end="25395800000t" region="bottomCenter" style="s1" xml:id="subtitle506"><font face="HGPMinchoE" size="36"><b>じゃからこの先は　うぬに動いてもらわぬといかん</b></font></p>
+<p begin="25358200000t" end="25395800000t" region="bottomCenter" style="s1" xml:id="subtitle507"><font face="方正准雅宋_GBK" size="54"><b>所以接下来 有很多事要让汝去办</b></font></p>
+<p begin="25412800000t" end="25425800000t" region="bottomCenter" style="s1" xml:id="subtitle508"><font face="HGPMinchoE" size="36"><b>僕に何を？</b></font></p>
+<p begin="25412800000t" end="25425800000t" region="bottomCenter" style="s1" xml:id="subtitle509"><font face="方正准雅宋_GBK" size="54"><b>要让我做什么？</b></font></p>
+<p begin="25508200000t" end="25514200000t" region="bottomCenter" style="s1" xml:id="subtitle510"><font face="HGPMinchoE" size="36"><b>僕は</b></font></p>
+<p begin="25508200000t" end="25514200000t" region="bottomCenter" style="s1" xml:id="subtitle511"><font face="方正准雅宋_GBK" size="54"><b>我</b></font></p>
+<p begin="25545800000t" end="25552400000t" region="bottomCenter" style="s1" xml:id="subtitle512"><font face="HGPMinchoE" size="36"><b>僕は</b></font></p>
+<p begin="25545800000t" end="25552400000t" region="bottomCenter" style="s1" xml:id="subtitle513"><font face="方正准雅宋_GBK" size="54"><b>我</b></font></p>
+<p begin="25569100000t" end="25583300000t" region="bottomCenter" style="s1" xml:id="subtitle514"><font face="HGPMinchoE" size="36"><b>人間に戻れるのか</b></font></p>
+<p begin="25569100000t" end="25583300000t" region="bottomCenter" style="s1" xml:id="subtitle515"><font face="方正准雅宋_GBK" size="54"><b>我还能变成人类吗</b></font></p>
+<p begin="25625300000t" end="25631400000t" region="bottomCenter" style="s1" xml:id="subtitle516"><font face="HGPMinchoE" size="36"><b>やはり</b></font></p>
+<p begin="25625300000t" end="25631400000t" region="bottomCenter" style="s1" xml:id="subtitle517"><font face="方正准雅宋_GBK" size="54"><b>果然</b></font></p>
+<p begin="25636200000t" end="25646800000t" region="bottomCenter" style="s1" xml:id="subtitle518"><font face="HGPMinchoE" size="36"><b>そうじゃろうなあ</b></font></p>
+<p begin="25636200000t" end="25646800000t" region="bottomCenter" style="s1" xml:id="subtitle519"><font face="方正准雅宋_GBK" size="54"><b>是啊</b></font></p>
+<p begin="25650500000t" end="25671000000t" region="bottomCenter" style="s1" xml:id="subtitle520"><font face="HGPMinchoE" size="36"><b>そう言い出すと思っておったの</b></font></p>
+<p begin="25650500000t" end="25671000000t" region="bottomCenter" style="s1" xml:id="subtitle521"><font face="方正准雅宋_GBK" size="54"><b>我就猜到你会这么问</b></font></p>
+<p begin="25674000000t" end="25698400000t" region="bottomCenter" style="s1" xml:id="subtitle522"><font face="HGPMinchoE" size="36"><b>で　どうなんだよ　僕は</b></font></p>
+<p begin="25674000000t" end="25698400000t" region="bottomCenter" style="s1" xml:id="subtitle523"><font face="方正准雅宋_GBK" size="54"><b>到底能不能啊</b></font></p>
+<p begin="25698700000t" end="25706400000t" region="bottomCenter" style="s1" xml:id="subtitle524"><font face="HGPMinchoE" size="36"><b>戻れるよ</b></font></p>
+<p begin="25698700000t" end="25706400000t" region="bottomCenter" style="s1" xml:id="subtitle525"><font face="方正准雅宋_GBK" size="54"><b>能的</b></font></p>
+<p begin="25725700000t" end="25736200000t" region="bottomCenter" style="s1" xml:id="subtitle526"><font face="HGPMinchoE" size="36"><b>保証するよ</b></font></p>
+<p begin="25725700000t" end="25736200000t" region="bottomCenter" style="s1" xml:id="subtitle527"><font face="方正准雅宋_GBK" size="54"><b>我保证</b></font></p>
+<p begin="25746200000t" end="25760800000t" region="bottomCenter" style="s1" xml:id="subtitle528"><font face="HGPMinchoE" size="36"><b>儂の名にかけての</b></font></p>
+<p begin="25746200000t" end="25760800000t" region="bottomCenter" style="s1" xml:id="subtitle529"><font face="方正准雅宋_GBK" size="54"><b>赌上吾之名</b></font></p>
+<p begin="25919800000t" end="25957300000t" region="bottomCenter" style="s1" xml:id="subtitle530"><font face="方正准雅宋_GBK" size="72"><font size="60"><font color="#f6f7f4"><b>夺 走 姬 丝 秀 忒 身 体 部 位 的 三 人 的 名 字</b></font></font></font></p>
+<p begin="26030700000t" end="26073500000t" region="bottomCenter" style="s1" xml:id="subtitle531"><font face="HGPMinchoE" size="36"><b>その三名は吸血鬼退治を専門としておる者共じゃ</b></font></p>
+<p begin="26030700000t" end="26073500000t" region="bottomCenter" style="s1" xml:id="subtitle532"><font face="方正准雅宋_GBK" size="54"><b>那三个人是专门对付吸血鬼的</b></font></p>
+<p begin="26078800000t" end="26106000000t" region="bottomCenter" style="s1" xml:id="subtitle533"><font face="HGPMinchoE" size="36"><b>で　そいつらに退治されたってことか</b></font></p>
+<p begin="26078800000t" end="26106000000t" region="bottomCenter" style="s1" xml:id="subtitle534"><font face="方正准雅宋_GBK" size="54"><b>就是说你被他们打败了吗</b></font></p>
+<p begin="26108200000t" end="26123700000t" region="bottomCenter" style="s1" xml:id="subtitle535"><font face="HGPMinchoE" size="36"><b>たわけたことを吐かすな</b></font></p>
+<p begin="26108200000t" end="26123700000t" region="bottomCenter" style="s1" xml:id="subtitle536"><font face="方正准雅宋_GBK" size="54"><b>不要说这么幼稚的话</b></font></p>
+<p begin="26127600000t" end="26139700000t" region="bottomCenter" style="s1" xml:id="subtitle537"><font face="HGPMinchoE" size="36"><b>まだされてはおらん</b></font></p>
+<p begin="26127600000t" end="26139700000t" region="bottomCenter" style="s1" xml:id="subtitle538"><font face="方正准雅宋_GBK" size="54"><b>还没被打败呢</b></font></p>
+<p begin="26149000000t" end="26174200000t" region="bottomCenter" style="s1" xml:id="subtitle539"><font face="HGPMinchoE" size="36"><b>が　手足を奪われたのは痛い</b></font></p>
+<p begin="26149000000t" end="26174200000t" region="bottomCenter" style="s1" xml:id="subtitle540"><font face="方正准雅宋_GBK" size="54"><b>但是很遗憾被砍断了手脚</b></font></p>
+<p begin="26181200000t" end="26202600000t" region="bottomCenter" style="s1" xml:id="subtitle541"><font face="HGPMinchoE" size="36"><b>回復力もほとんど残っておらんし</b></font></p>
+<p begin="26181200000t" end="26202600000t" region="bottomCenter" style="s1" xml:id="subtitle542"><font face="方正准雅宋_GBK" size="54"><b>也基本丧失了恢复力</b></font></p>
+<p begin="26213800000t" end="26237700000t" region="bottomCenter" style="s1" xml:id="subtitle543"><font face="HGPMinchoE" size="36"><b>今のこの状態では　戦いようもない</b></font></p>
+<p begin="26213800000t" end="26237700000t" region="bottomCenter" style="s1" xml:id="subtitle544"><font face="方正准雅宋_GBK" size="54"><b>折让吾如今根本无法战斗</b></font></p>
+<p begin="26245500000t" end="26251300000t" region="bottomCenter" style="s1" xml:id="subtitle545"><font face="HGPMinchoE" size="36"><b>だから</b></font></p>
+<p begin="26245500000t" end="26251300000t" region="bottomCenter" style="s1" xml:id="subtitle546"><font face="方正准雅宋_GBK" size="54"><b>所以</b></font></p>
+<p begin="26270500000t" end="26292500000t" region="bottomCenter" style="s1" xml:id="subtitle547"><font face="HGPMinchoE" size="36"><b>うぬがその三名と渡り合って</b></font></p>
+<p begin="26270500000t" end="26292500000t" region="bottomCenter" style="s1" xml:id="subtitle548"><font face="方正准雅宋_GBK" size="54"><b>你去和那三个人战斗</b></font></p>
+<p begin="26297600000t" end="26329000000t" region="bottomCenter" style="s1" xml:id="subtitle549"><font face="HGPMinchoE" size="36"><b>儂の手足を取り戻してきてくれればよいのじゃ</b></font></p>
+<p begin="26297600000t" end="26329000000t" region="bottomCenter" style="s1" xml:id="subtitle550"><font face="方正准雅宋_GBK" size="54"><b>只要拿到我的手脚就可以了</b></font></p>
+<p begin="26391400000t" end="26412600000t" region="bottomCenter" style="s1" xml:id="subtitle551"><font face="HGPMinchoE" size="36"><b>よ…よいのじゃって…</b></font></p>
+<p begin="26391400000t" end="26412600000t" region="bottomCenter" style="s1" xml:id="subtitle552"><font face="方正准雅宋_GBK" size="54"><b>就可以了什么的</b></font></p>
+<p begin="26419700000t" end="26432300000t" region="bottomCenter" style="s1" xml:id="subtitle553"><font face="HGPMinchoE" size="36"><b>そんな簡単に</b></font></p>
+<p begin="26419700000t" end="26432300000t" region="bottomCenter" style="s1" xml:id="subtitle554"><font face="方正准雅宋_GBK" size="54"><b>别说得那么容易</b></font></p>
+<p begin="26440000000t" end="26493400000t" region="bottomCenter" style="s1" xml:id="subtitle555"><font face="HGPMinchoE" size="36"><b>うぬを人間に戻すためには　儂はフルパワーの状態に戻らねばならんのじゃ</b></font></p>
+<p begin="26440000000t" end="26493400000t" region="bottomCenter" style="s1" xml:id="subtitle556"><font face="方正准雅宋_GBK" size="54"><b>只有待吾彻底恢复 才有能力将汝变回人类</b></font></p>
+<p begin="26497000000t" end="26518200000t" region="bottomCenter" style="s1" xml:id="subtitle557"><font face="HGPMinchoE" size="36"><b>言ってみれば完全体にな</b></font></p>
+<p begin="26497000000t" end="26518200000t" region="bottomCenter" style="s1" xml:id="subtitle558"><font face="方正准雅宋_GBK" size="54"><b>就是说吾先要变回完全体</b></font></p>
+<p begin="26528900000t" end="26570500000t" region="bottomCenter" style="s1" xml:id="subtitle559"><font face="HGPMinchoE" size="36"><b>そのためには　あの手足は絶対に必要なのじゃ</b></font></p>
+<p begin="26528900000t" end="26570500000t" region="bottomCenter" style="s1" xml:id="subtitle560"><font face="方正准雅宋_GBK" size="54"><b>而要想让我恢复至完全体 那对手脚必不可少</b></font></p>
+<p begin="26583300000t" end="26633500000t" region="bottomCenter" style="s1" xml:id="subtitle561"><font face="HGPMinchoE" size="36"><b>で…でも　僕　戦うとか普通に無理だぜ</b></font></p>
+<p begin="26583300000t" end="26633500000t" region="bottomCenter" style="s1" xml:id="subtitle562"><font face="方正准雅宋_GBK" size="54"><b>但是我不会战斗啊</b></font></p>
+<p begin="26645200000t" end="26673200000t" region="bottomCenter" style="s1" xml:id="subtitle563"><font face="HGPMinchoE" size="36"><b>最悪　僕が退治されちゃうんじゃないのか</b></font></p>
+<p begin="26645200000t" end="26673200000t" region="bottomCenter" style="s1" xml:id="subtitle564"><font face="方正准雅宋_GBK" size="54"><b>搞不好我还会被打败</b></font></p>
+<p begin="26679600000t" end="26687400000t" region="bottomCenter" style="s1" xml:id="subtitle565"><font face="HGPMinchoE" size="36"><b>たわけ</b></font></p>
+<p begin="26679600000t" end="26687400000t" region="bottomCenter" style="s1" xml:id="subtitle566"><font face="方正准雅宋_GBK" size="54"><b>蠢货</b></font></p>
+<p begin="26692100000t" end="26727200000t" region="bottomCenter" style="s1" xml:id="subtitle567"><font face="HGPMinchoE" size="36"><b>それはうぬが人間であった頃の話じゃろうが</b></font></p>
+<p begin="26692100000t" end="26727200000t" region="bottomCenter" style="s1" xml:id="subtitle568"><font face="方正准雅宋_GBK" size="54"><b>那是汝还是人类的时候</b></font></p>
+<p begin="26732900000t" end="26754400000t" region="bottomCenter" style="s1" xml:id="subtitle569"><font face="HGPMinchoE" size="36"><b>今のうぬは我が眷属じゃ</b></font></p>
+<p begin="26732900000t" end="26754400000t" region="bottomCenter" style="s1" xml:id="subtitle570"><font face="方正准雅宋_GBK" size="54"><b>如今的汝可是吾之亲族</b></font></p>
+<p begin="26763400000t" end="26796100000t" region="bottomCenter" style="s1" xml:id="subtitle571"><font face="HGPMinchoE" size="36"><b>最低レベルにまで弱体化している今現在なら</b></font></p>
+<p begin="26763400000t" end="26796100000t" region="bottomCenter" style="s1" xml:id="subtitle572"><font face="方正准雅宋_GBK" size="54"><b>现今吾已虚弱至极</b></font></p>
+<p begin="26801400000t" end="26847300000t" region="bottomCenter" style="s1" xml:id="subtitle573"><font face="HGPMinchoE" size="36"><b>吸血鬼としては最高ランクのこの儂を殺すことさえ容易じゃわ</b></font></p>
+<p begin="26801400000t" end="26847300000t" region="bottomCenter" style="s1" xml:id="subtitle574"><font face="方正准雅宋_GBK" size="54"><b>汝想杀死吾这最强吸血鬼都是绰绰有余</b></font></p>
+<p begin="26855300000t" end="26898200000t" region="bottomCenter" style="s1" xml:id="subtitle575"><font face="HGPMinchoE" size="36"><b>つまり　お前は吸血鬼として弱いほうだって話か</b></font></p>
+<p begin="26855300000t" end="26898200000t" region="bottomCenter" style="s1" xml:id="subtitle576"><font face="方正准雅宋_GBK" size="54"><b>就是说你算是比较弱的吸血鬼了呗</b></font></p>
+<p begin="26901000000t" end="26912500000t" region="bottomCenter" style="s1" xml:id="subtitle577"><font face="HGPMinchoE" size="36"><b>違うわ</b></font></p>
+<p begin="26901000000t" end="26912500000t" region="bottomCenter" style="s1" xml:id="subtitle578"><font face="方正准雅宋_GBK" size="54"><b>不是</b></font></p>
+<p begin="27055400000t" end="27104800000t" region="bottomCenter" style="s1" xml:id="subtitle579"><font face="HGPMinchoE" size="36"><b>まあ　弱体化しているお前より　今の僕のほうが強いとしても</b></font></p>
+<p begin="27055400000t" end="27104800000t" region="bottomCenter" style="s1" xml:id="subtitle580"><font face="方正准雅宋_GBK" size="54"><b>虽说我现在比你要强</b></font></p>
+<p begin="27110200000t" end="27162900000t" region="bottomCenter" style="s1" xml:id="subtitle581"><font face="HGPMinchoE" size="36"><b>その三人は　フルパワー　完全体の状態のお前から　手足を奪ったんだろ</b></font></p>
+<p begin="27110200000t" end="27162900000t" region="bottomCenter" style="s1" xml:id="subtitle582"><font face="方正准雅宋_GBK" size="54"><b>但那三个人当你处于完全体时 依然斩断了你的手脚吧</b></font></p>
+<p begin="27172100000t" end="27180100000t" region="bottomCenter" style="s1" xml:id="subtitle583"><font face="HGPMinchoE" size="36"><b>だったら</b></font></p>
+<p begin="27172100000t" end="27180100000t" region="bottomCenter" style="s1" xml:id="subtitle584"><font face="方正准雅宋_GBK" size="54"><b>那我怎么会赢</b></font></p>
+<p begin="27184500000t" end="27214000000t" region="bottomCenter" style="s1" xml:id="subtitle585"><font face="HGPMinchoE" size="36"><b>三人がかりじゃったから不覚を取っただけじゃ</b></font></p>
+<p begin="27184500000t" end="27214000000t" region="bottomCenter" style="s1" xml:id="subtitle586"><font face="方正准雅宋_GBK" size="54"><b>他们三人一起上的 吾只是大意了而已</b></font></p>
+<p begin="27220000000t" end="27233200000t" region="bottomCenter" style="s1" xml:id="subtitle587"><font face="HGPMinchoE" size="36"><b>侮っておった</b></font></p>
+<p begin="27220000000t" end="27233200000t" region="bottomCenter" style="s1" xml:id="subtitle588"><font face="方正准雅宋_GBK" size="54"><b>太轻敌了</b></font></p>
+<p begin="27255900000t" end="27301600000t" region="bottomCenter" style="s1" xml:id="subtitle589"><font face="HGPMinchoE" size="36"><b>つまりじゃ　ひとりずつを相手にする限りにおいて</b></font></p>
+<p begin="27255900000t" end="27301600000t" region="bottomCenter" style="s1" xml:id="subtitle590"><font face="方正准雅宋_GBK" size="54"><b>也就是说 一个个单挑的话</b></font></p>
+<p begin="27301700000t" end="27325100000t" region="bottomCenter" style="s1" xml:id="subtitle591"><font face="HGPMinchoE" size="36"><b>その三人はうぬの敵ではないわ</b></font></p>
+<p begin="27301700000t" end="27325100000t" region="bottomCenter" style="s1" xml:id="subtitle592"><font face="方正准雅宋_GBK" size="54"><b>那三个人不是汝的对手</b></font></p>
+<p begin="27331300000t" end="27359400000t" region="bottomCenter" style="s1" xml:id="subtitle593"><font face="HGPMinchoE" size="36"><b>はっきり言って　楽な仕事じゃ</b></font></p>
+<p begin="27331300000t" end="27359400000t" region="bottomCenter" style="s1" xml:id="subtitle594"><font face="方正准雅宋_GBK" size="54"><b>说白了 这工作非常轻松</b></font></p>
+<p begin="28242300000t" end="28262300000t" region="bottomCenter" style="s1" xml:id="subtitle595"><font face="HGPMinchoE" size="36"><b>ど…どうすんだよ</b></font></p>
+<p begin="28242300000t" end="28262300000t" region="bottomCenter" style="s1" xml:id="subtitle596"><font face="方正准雅宋_GBK" size="54"><b>该怎么办啊</b></font></p>
+<p begin="28907100000t" end="28937800000t" region="bottomCenter" style="s1" xml:id="subtitle597"><font face="HGPMinchoE" size="36"><b>は…話し合おうとかしろよ　お前ら</b></font></p>
+<p begin="28907100000t" end="28937800000t" region="bottomCenter" style="s1" xml:id="subtitle598"><font face="方正准雅宋_GBK" size="54"><b>来…来谈谈啊</b></font></p>
+<p begin="28942100000t" end="28960200000t" region="bottomCenter" style="s1" xml:id="subtitle599"><font face="HGPMinchoE" size="36"><b>ぼ…僕は人間なんだぞ</b></font></p>
+<p begin="28942100000t" end="28960200000t" region="bottomCenter" style="s1" xml:id="subtitle600"><font face="方正准雅宋_GBK" size="54"><b>我…我曾经可是人类</b></font></p>
+<p begin="28971200000t" end="28979500000t" region="bottomCenter" style="s1" xml:id="subtitle601"><font face="HGPMinchoE" size="36"><b>お前ら</b></font></p>
+<p begin="28971200000t" end="28979500000t" region="bottomCenter" style="s1" xml:id="subtitle602"><font face="方正准雅宋_GBK" size="54"><b>你们</b></font></p>
+<p begin="28987900000t" end="29005600000t" region="bottomCenter" style="s1" xml:id="subtitle603"><font face="HGPMinchoE" size="36"><b>人殺しをする気か</b></font></p>
+<p begin="28987900000t" end="29005600000t" region="bottomCenter" style="s1" xml:id="subtitle604"><font face="方正准雅宋_GBK" size="54"><b>打算杀人吗</b></font></p>
+<p begin="29585700000t" end="29615000000t" region="bottomCenter" style="s1" xml:id="subtitle605"><font face="HGPMinchoE" size="36"><b>本当君たちは　元気いいなあ</b></font></p>
+<p begin="29585700000t" end="29615000000t" region="bottomCenter" style="s1" xml:id="subtitle606"><font face="方正准雅宋_GBK" size="54"><b>你们还真是精神啊</b></font></p>
+<p begin="29625600000t" end="29649500000t" region="bottomCenter" style="s1" xml:id="subtitle607"><font face="HGPMinchoE" size="36"><b>何かいいことでも　あったのかい</b></font></p>
+<p begin="29625600000t" end="29649500000t" region="bottomCenter" style="s1" xml:id="subtitle608"><font face="方正准雅宋_GBK" size="54"><b>有什么好事了吗</b></font></p>
+<p begin="29719600000t" end="29726200000t" region="bottomCenter" style="s1" xml:id="subtitle609"><font face="HGPMinchoE" size="36"><b>あれ？</b></font></p>
+<p begin="29719600000t" end="29726200000t" region="bottomCenter" style="s1" xml:id="subtitle610"><font face="方正准雅宋_GBK" size="54"><b>咦？</b></font></p>
+<p begin="29840500000t" end="29847800000t" region="bottomCenter" style="s1" xml:id="subtitle611"><font face="HGPMinchoE" size="36"><b>ありがとう</b></font></p>
+<p begin="29840500000t" end="29847800000t" region="bottomCenter" style="s1" xml:id="subtitle612"><font face="方正准雅宋_GBK" size="54"><b>谢谢</b></font></p>
+<p begin="29856500000t" end="29863300000t" region="bottomCenter" style="s1" xml:id="subtitle613"><font face="HGPMinchoE" size="36"><b>助かった</b></font></p>
+<p begin="29856500000t" end="29863300000t" region="bottomCenter" style="s1" xml:id="subtitle614"><font face="方正准雅宋_GBK" size="54"><b>得救了</b></font></p>
+<p begin="29876800000t" end="29887800000t" region="bottomCenter" style="s1" xml:id="subtitle615"><font face="HGPMinchoE" size="36"><b>礼なんていいよ</b></font></p>
+<p begin="29876800000t" end="29887800000t" region="bottomCenter" style="s1" xml:id="subtitle616"><font face="方正准雅宋_GBK" size="54"><b>用不着道谢</b></font></p>
+<p begin="29892400000t" end="29911600000t" region="bottomCenter" style="s1" xml:id="subtitle617"><font face="HGPMinchoE" size="36"><b>きみが一人で助かっただけさ</b></font></p>
+<p begin="29892400000t" end="29911600000t" region="bottomCenter" style="s1" xml:id="subtitle618"><font face="方正准雅宋_GBK" size="54"><b>你是自己救了自己</b></font></p>
+<p begin="29915200000t" end="29922200000t" region="bottomCenter" style="s1" xml:id="subtitle619"><font face="HGPMinchoE" size="36"><b>阿良々木くん</b></font></p>
+<p begin="29915200000t" end="29922200000t" region="bottomCenter" style="s1" xml:id="subtitle620"><font face="方正准雅宋_GBK" size="54"><b>阿良良木</b></font></p>
+<p begin="29964300000t" end="29978200000t" region="bottomCenter" style="s1" xml:id="subtitle621"><font face="HGPMinchoE" size="36"><b>そう警戒するなよ</b></font></p>
+<p begin="29964300000t" end="29978200000t" region="bottomCenter" style="s1" xml:id="subtitle622"><font face="方正准雅宋_GBK" size="54"><b>用不着那么警戒我</b></font></p>
+<p begin="30052200000t" end="30077400000t" region="bottomCenter" style="s1" xml:id="subtitle623"><font face="HGPMinchoE" size="36"><b>そんなぎらぎらした眼ェしちゃってさ</b></font></p>
+<p begin="30052200000t" end="30077400000t" region="bottomCenter" style="s1" xml:id="subtitle624"><font face="方正准雅宋_GBK" size="54"><b>眼神如此锐利</b></font></p>
+<p begin="30083000000t" end="30094400000t" region="bottomCenter" style="s1" xml:id="subtitle625"><font face="HGPMinchoE" size="36"><b>元気いいなあ</b></font></p>
+<p begin="30083000000t" end="30094400000t" region="bottomCenter" style="s1" xml:id="subtitle626"><font face="方正准雅宋_GBK" size="54"><b>真是精神啊</b></font></p>
+<p begin="30099400000t" end="30118600000t" region="bottomCenter" style="s1" xml:id="subtitle627"><font face="HGPMinchoE" size="36"><b>何かいいことでもあったのかい</b></font></p>
+<p begin="30099400000t" end="30118600000t" region="bottomCenter" style="s1" xml:id="subtitle628"><font face="方正准雅宋_GBK" size="54"><b>有什么好事了吗</b></font></p>
+<p begin="30173900000t" end="30190500000t" region="bottomCenter" style="s1" xml:id="subtitle629"><font face="HGPMinchoE" size="36"><b>まあ　とりあえず帰ろうぜ</b></font></p>
+<p begin="30173900000t" end="30190500000t" region="bottomCenter" style="s1" xml:id="subtitle630"><font face="方正准雅宋_GBK" size="54"><b>总之先回家吧</b></font></p>
+<p begin="30195100000t" end="30203800000t" region="bottomCenter" style="s1" xml:id="subtitle631"><font face="HGPMinchoE" size="36"><b>阿良々木くん</b></font></p>
+<p begin="30195100000t" end="30203800000t" region="bottomCenter" style="s1" xml:id="subtitle632"><font face="方正准雅宋_GBK" size="54"><b>阿良良木</b></font></p>
+<p begin="30212400000t" end="30222700000t" region="bottomCenter" style="s1" xml:id="subtitle633"><font face="HGPMinchoE" size="36"><b>帰ろうって</b></font></p>
+<p begin="30212400000t" end="30222700000t" region="bottomCenter" style="s1" xml:id="subtitle634"><font face="方正准雅宋_GBK" size="54"><b>什么回家啊</b></font></p>
+<p begin="30250800000t" end="30273600000t" region="bottomCenter" style="s1" xml:id="subtitle635"><font face="HGPMinchoE" size="36"><b>あの学習塾跡の廃墟だよ</b></font></p>
+<p begin="30250800000t" end="30273600000t" region="bottomCenter" style="s1" xml:id="subtitle636"><font face="方正准雅宋_GBK" size="54"><b>那个补习班的废墟啊</b></font></p>
+<p begin="30318000000t" end="30327400000t" region="bottomCenter" style="s1" xml:id="subtitle637"><font face="HGPMinchoE" size="36"><b>ちょっと待てよ</b></font></p>
+<p begin="30318000000t" end="30327400000t" region="bottomCenter" style="s1" xml:id="subtitle638"><font face="方正准雅宋_GBK" size="54"><b>等下</b></font></p>
+<p begin="30330000000t" end="30349000000t" region="bottomCenter" style="s1" xml:id="subtitle639"><font face="HGPMinchoE" size="36"><b>な…なんでそんなこと知ってんだ</b></font></p>
+<p begin="30330000000t" end="30349000000t" region="bottomCenter" style="s1" xml:id="subtitle640"><font face="方正准雅宋_GBK" size="54"><b>你…你是怎么知道的？</b></font></p>
+<p begin="30364300000t" end="30374000000t" region="bottomCenter" style="s1" xml:id="subtitle641"><font face="HGPMinchoE" size="36"><b>そりゃ知ってるよ</b></font></p>
+<p begin="30364300000t" end="30374000000t" region="bottomCenter" style="s1" xml:id="subtitle642"><font face="方正准雅宋_GBK" size="54"><b>我当然知道啦</b></font></p>
+<p begin="30382900000t" end="30423400000t" region="bottomCenter" style="s1" xml:id="subtitle643"><font face="HGPMinchoE" size="36"><b>何せ　あの子にあの場所を教えたのは僕なんだからね</b></font></p>
+<p begin="30382900000t" end="30423400000t" region="bottomCenter" style="s1" xml:id="subtitle644"><font face="方正准雅宋_GBK" size="54"><b>毕竟是我告诉她那个地方的</b></font></p>
+<p begin="30448600000t" end="30483800000t" region="bottomCenter" style="s1" xml:id="subtitle645"><font face="HGPMinchoE" size="36"><b>まあ　義を見てせざるは勇なきなりってね</b></font></p>
+<p begin="30448600000t" end="30483800000t" region="bottomCenter" style="s1" xml:id="subtitle646"><font face="方正准雅宋_GBK" size="54"><b>子曰「非其鬼而祭之 谄也 见义不为 无勇也」</b></font></p>
+<p begin="30492900000t" end="30517100000t" region="bottomCenter" style="s1" xml:id="subtitle647"><font face="HGPMinchoE" size="36"><b>あの子　ハートアンダーブレードが</b></font></p>
+<p begin="30492900000t" end="30517100000t" region="bottomCenter" style="s1" xml:id="subtitle648"><font face="方正准雅宋_GBK" size="54"><b>刃下心那孩子</b></font></p>
+<p begin="30517200000t" end="30552300000t" region="bottomCenter" style="s1" xml:id="subtitle649"><font face="HGPMinchoE" size="36"><b>きみの身体を引きずって随分困っていたみたいだからさ</b></font></p>
+<p begin="30517200000t" end="30552300000t" region="bottomCenter" style="s1" xml:id="subtitle650"><font face="方正准雅宋_GBK" size="54"><b>拖着你的身体走很不方便</b></font></p>
+<p begin="30560300000t" end="30579500000t" region="bottomCenter" style="s1" xml:id="subtitle651"><font face="HGPMinchoE" size="36"><b>いい場所を教えてあげたんだ</b></font></p>
+<p begin="30560300000t" end="30579500000t" region="bottomCenter" style="s1" xml:id="subtitle652"><font face="方正准雅宋_GBK" size="54"><b>我就告诉了她一个好地方</b></font></p>
+<p begin="30602800000t" end="30632700000t" region="bottomCenter" style="s1" xml:id="subtitle653"><font face="HGPMinchoE" size="36"><b>お前は…　何者なんだ</b></font></p>
+<p begin="30602800000t" end="30632700000t" region="bottomCenter" style="s1" xml:id="subtitle654"><font face="方正准雅宋_GBK" size="54"><b>你是什么人？</b></font></p>
+<p begin="30642700000t" end="30668800000t" region="bottomCenter" style="s1" xml:id="subtitle655"><font face="HGPMinchoE" size="36"><b>僕はただの通りすがりのおっさんだよ</b></font></p>
+<p begin="30642700000t" end="30668800000t" region="bottomCenter" style="s1" xml:id="subtitle656"><font face="方正准雅宋_GBK" size="54"><b>我只是个路过的大叔</b></font></p>
+<p begin="30710700000t" end="30723300000t" region="bottomCenter" style="s1" xml:id="subtitle657"><font face="HGPMinchoE" size="36"><b>安心しなよ</b></font></p>
+<p begin="30710700000t" end="30723300000t" region="bottomCenter" style="s1" xml:id="subtitle658"><font face="方正准雅宋_GBK" size="54"><b>放心吧</b></font></p>
+<p begin="30732100000t" end="30765000000t" region="bottomCenter" style="s1" xml:id="subtitle659"><font face="HGPMinchoE" size="36"><b>僕は吸血鬼退治の専門家とかじゃないからさ</b></font></p>
+<p begin="30732100000t" end="30765000000t" region="bottomCenter" style="s1" xml:id="subtitle660"><font face="方正准雅宋_GBK" size="54"><b>我不是专门对付吸血鬼的人</b></font></p>
+<p begin="30774900000t" end="30792400000t" region="bottomCenter" style="s1" xml:id="subtitle661"><font face="HGPMinchoE" size="36"><b>僕の専門はもっと広い</b></font></p>
+<p begin="30774900000t" end="30792400000t" region="bottomCenter" style="s1" xml:id="subtitle662"><font face="方正准雅宋_GBK" size="54"><b>我的专业领域更为宽广</b></font></p>
+<p begin="30796500000t" end="30813000000t" region="bottomCenter" style="s1" xml:id="subtitle663"><font face="HGPMinchoE" size="36"><b>手広くやらせてもらっているのさ</b></font></p>
+<p begin="30796500000t" end="30813000000t" region="bottomCenter" style="s1" xml:id="subtitle664"><font face="方正准雅宋_GBK" size="54"><b>可不单单是对付吸血鬼</b></font></p>
+<p begin="30823400000t" end="30854600000t" region="bottomCenter" style="s1" xml:id="subtitle665"><font face="HGPMinchoE" size="36"><b>まあ　自己紹介はあとでさせてもらうよ</b></font></p>
+<p begin="30823400000t" end="30854600000t" region="bottomCenter" style="s1" xml:id="subtitle666"><font face="方正准雅宋_GBK" size="54"><b>自我介绍就一会再做好了</b></font></p>
+<p begin="30893600000t" end="30901800000t" region="bottomCenter" style="s1" xml:id="subtitle667"><font face="HGPMinchoE" size="36"><b>帰ったか</b></font></p>
+<p begin="30893600000t" end="30901800000t" region="bottomCenter" style="s1" xml:id="subtitle668"><font face="方正准雅宋_GBK" size="54"><b>回来了啊</b></font></p>
+<p begin="30930600000t" end="30961700000t" region="bottomCenter" style="s1" xml:id="subtitle669"><font face="HGPMinchoE" size="36"><b>後ろの奴は　見覚えがあるな</b></font></p>
+<p begin="30930600000t" end="30961700000t" region="bottomCenter" style="s1" xml:id="subtitle670"><font face="方正准雅宋_GBK" size="54"><b>后面那家伙好像在哪见过</b></font></p>
+<p begin="30965000000t" end="30974400000t" region="bottomCenter" style="s1" xml:id="subtitle671"><font face="HGPMinchoE" size="36"><b>酷いなあ</b></font></p>
+<p begin="30965000000t" end="30974400000t" region="bottomCenter" style="s1" xml:id="subtitle672"><font face="方正准雅宋_GBK" size="54"><b>真是过分啊</b></font></p>
+<p begin="30977100000t" end="30992200000t" region="bottomCenter" style="s1" xml:id="subtitle673"><font face="HGPMinchoE" size="36"><b>その程度の認識かよ</b></font></p>
+<p begin="30977100000t" end="30992200000t" region="bottomCenter" style="s1" xml:id="subtitle674"><font face="方正准雅宋_GBK" size="54"><b>咱们就这点关系啊</b></font></p>
+<p begin="31009200000t" end="31036000000t" region="bottomCenter" style="s1" xml:id="subtitle675"><font face="HGPMinchoE" size="36"><b>それで　首尾はどうじゃった？</b></font></p>
+<p begin="31009200000t" end="31036000000t" region="bottomCenter" style="s1" xml:id="subtitle676"><font face="方正准雅宋_GBK" size="54"><b>结果怎么样？</b></font></p>
+<p begin="31128800000t" end="31141500000t" region="bottomCenter" style="s1" xml:id="subtitle677"><font face="HGPMinchoE" size="36"><b>参ったのう</b></font></p>
+<p begin="31128800000t" end="31141500000t" region="bottomCenter" style="s1" xml:id="subtitle678"><font face="方正准雅宋_GBK" size="54"><b>真是伤脑筋</b></font></p>
+<p begin="31149100000t" end="31179400000t" region="bottomCenter" style="s1" xml:id="subtitle679"><font face="HGPMinchoE" size="36"><b>あの三人　まだつるんでおるのか</b></font></p>
+<p begin="31149100000t" end="31179400000t" region="bottomCenter" style="s1" xml:id="subtitle680"><font face="方正准雅宋_GBK" size="54"><b>那三个人还在一起行动吗</b></font></p>
+<p begin="31186100000t" end="31243800000t" region="bottomCenter" style="s1" xml:id="subtitle681"><font face="HGPMinchoE" size="36"><b>とにかく　お前のフルパワーモードでも三人がかりじゃやられちまったんだろ</b></font></p>
+<p begin="31186100000t" end="31243800000t" region="bottomCenter" style="s1" xml:id="subtitle682"><font face="方正准雅宋_GBK" size="54"><b>总之 你处于完全体时也没打过那三个人吧</b></font></p>
+<p begin="31254200000t" end="31293600000t" region="bottomCenter" style="s1" xml:id="subtitle683"><font face="HGPMinchoE" size="36"><b>だったら　僕があの三人に勝てるわけがないだろう</b></font></p>
+<p begin="31254200000t" end="31293600000t" region="bottomCenter" style="s1" xml:id="subtitle684"><font face="方正准雅宋_GBK" size="54"><b>那我是根本不可能赢的</b></font></p>
+<p begin="31297700000t" end="31323000000t" region="bottomCenter" style="s1" xml:id="subtitle685"><font face="HGPMinchoE" size="36"><b>じゃから　一人ずつなら</b></font></p>
+<p begin="31297700000t" end="31323000000t" region="bottomCenter" style="s1" xml:id="subtitle686"><font face="方正准雅宋_GBK" size="54"><b>所以说 一对一的话</b></font></p>
+<p begin="31323400000t" end="31348700000t" region="bottomCenter" style="s1" xml:id="subtitle687"><font face="HGPMinchoE" size="36"><b>つるんでるんじゃ　それも無理だろ</b></font></p>
+<p begin="31323400000t" end="31348700000t" region="bottomCenter" style="s1" xml:id="subtitle688"><font face="方正准雅宋_GBK" size="54"><b>问题他们没单独行动 我有什么办法</b></font></p>
+<p begin="31357700000t" end="31390600000t" region="bottomCenter" style="s1" xml:id="subtitle689"><font face="HGPMinchoE" size="36"><b>お前は大人しくしてりゃ大丈夫だって言ってたけど</b></font></p>
+<p begin="31357700000t" end="31390600000t" region="bottomCenter" style="s1" xml:id="subtitle690"><font face="方正准雅宋_GBK" size="54"><b>虽然你说我们只要老实待着就不会有事</b></font></p>
+<p begin="31397600000t" end="31417100000t" region="bottomCenter" style="s1" xml:id="subtitle691"><font face="HGPMinchoE" size="36"><b>ここだって　いつ突き止められるか</b></font></p>
+<p begin="31397600000t" end="31417100000t" region="bottomCenter" style="s1" xml:id="subtitle692"><font face="方正准雅宋_GBK" size="54"><b>但真说不清这里哪天就被…</b></font></p>
+<p begin="31417100000t" end="31436400000t" region="bottomCenter" style="s1" xml:id="subtitle693"><font face="HGPMinchoE" size="36"><b>それについては問題ないよ</b></font></p>
+<p begin="31417100000t" end="31436400000t" region="bottomCenter" style="s1" xml:id="subtitle694"><font face="方正准雅宋_GBK" size="54"><b>这点你们不用担心</b></font></p>
+<p begin="31442800000t" end="31469900000t" region="bottomCenter" style="s1" xml:id="subtitle695"><font face="HGPMinchoE" size="36"><b>ここには　きみ達が眠ってる間に</b></font></p>
+<p begin="31442800000t" end="31469900000t" region="bottomCenter" style="s1" xml:id="subtitle696"><font face="方正准雅宋_GBK" size="54"><b>在你们睡觉的时候</b></font></p>
+<p begin="31476300000t" end="31500400000t" region="bottomCenter" style="s1" xml:id="subtitle697"><font face="HGPMinchoE" size="36"><b>こっそりと結界を張っておいてあげたからさ</b></font></p>
+<p begin="31476300000t" end="31500400000t" region="bottomCenter" style="s1" xml:id="subtitle698"><font face="方正准雅宋_GBK" size="54"><b>我悄悄地给你们张开了结界</b></font></p>
+<p begin="31511800000t" end="31519900000t" region="bottomCenter" style="s1" xml:id="subtitle699"><font face="HGPMinchoE" size="36"><b>結界</b></font></p>
+<p begin="31511800000t" end="31519900000t" region="bottomCenter" style="s1" xml:id="subtitle700"><font face="方正准雅宋_GBK" size="54"><b>结界</b></font></p>
+<p begin="31527100000t" end="31541500000t" region="bottomCenter" style="s1" xml:id="subtitle701"><font face="HGPMinchoE" size="36"><b>バリアみたいなもんか</b></font></p>
+<p begin="31527100000t" end="31541500000t" region="bottomCenter" style="s1" xml:id="subtitle702"><font face="方正准雅宋_GBK" size="54"><b>是指类似防护罩一样的东西吗</b></font></p>
+<p begin="31548900000t" end="31564800000t" region="bottomCenter" style="s1" xml:id="subtitle703"><font face="HGPMinchoE" size="36"><b>まっ　そんなようなもんだ</b></font></p>
+<p begin="31548900000t" end="31564800000t" region="bottomCenter" style="s1" xml:id="subtitle704"><font face="方正准雅宋_GBK" size="54"><b>差不多</b></font></p>
+<p begin="31581400000t" end="31612700000t" region="bottomCenter" style="s1" xml:id="subtitle705"><font face="HGPMinchoE" size="36"><b>お前　どういうつもりなんだ</b></font></p>
+<p begin="31581400000t" end="31612700000t" region="bottomCenter" style="s1" xml:id="subtitle706"><font face="方正准雅宋_GBK" size="54"><b>你打算干什么？</b></font></p>
+<p begin="31620800000t" end="31633600000t" region="bottomCenter" style="s1" xml:id="subtitle707"><font face="HGPMinchoE" size="36"><b>どうしてキスショットを</b></font></p>
+<p begin="31620800000t" end="31633600000t" region="bottomCenter" style="s1" xml:id="subtitle708"><font face="方正准雅宋_GBK" size="54"><b>为什么要帮姬丝秀忒？</b></font></p>
+<p begin="31644400000t" end="31656700000t" region="bottomCenter" style="s1" xml:id="subtitle709"><font face="HGPMinchoE" size="36"><b>僕らを助けるんだ</b></font></p>
+<p begin="31644400000t" end="31656700000t" region="bottomCenter" style="s1" xml:id="subtitle710"><font face="方正准雅宋_GBK" size="54"><b>为什么要救我们？</b></font></p>
+<p begin="31669900000t" end="31688700000t" region="bottomCenter" style="s1" xml:id="subtitle711"><font face="HGPMinchoE" size="36"><b>敵じゃないことはわかってきたけれど</b></font></p>
+<p begin="31669900000t" end="31688700000t" region="bottomCenter" style="s1" xml:id="subtitle712"><font face="方正准雅宋_GBK" size="54"><b>虽然知道我们不是敌人</b></font></p>
+<p begin="31698000000t" end="31727600000t" region="bottomCenter" style="s1" xml:id="subtitle713"><font face="HGPMinchoE" size="36"><b>僕にはお前が　味方だとは思えないのに</b></font></p>
+<p begin="31698000000t" end="31727600000t" region="bottomCenter" style="s1" xml:id="subtitle714"><font face="方正准雅宋_GBK" size="54"><b>但我也不把你当成同伴</b></font></p>
+<p begin="31782100000t" end="31797600000t" region="bottomCenter" style="s1" xml:id="subtitle715"><font face="HGPMinchoE" size="36"><b>酷いことを言うなあ</b></font></p>
+<p begin="31782100000t" end="31797600000t" region="bottomCenter" style="s1" xml:id="subtitle716"><font face="方正准雅宋_GBK" size="54"><b>真是过分啊</b></font></p>
+<p begin="31797700000t" end="31804800000t" region="bottomCenter" style="s1" xml:id="subtitle717"><font face="HGPMinchoE" size="36"><b>全く</b></font></p>
+<p begin="31797700000t" end="31804800000t" region="bottomCenter" style="s1" xml:id="subtitle718"><font face="方正准雅宋_GBK" size="54"><b>真是的</b></font></p>
+<p begin="31812200000t" end="31839800000t" region="bottomCenter" style="s1" xml:id="subtitle719"><font face="HGPMinchoE" size="36"><b>僕はね　バランスを取っているんだよ</b></font></p>
+<p begin="31812200000t" end="31839800000t" region="bottomCenter" style="s1" xml:id="subtitle720"><font face="方正准雅宋_GBK" size="54"><b>我在维持平衡</b></font></p>
+<p begin="31846800000t" end="31871600000t" region="bottomCenter" style="s1" xml:id="subtitle721"><font face="HGPMinchoE" size="36"><b>言うなら　それが僕の仕事なのさ</b></font></p>
+<p begin="31846800000t" end="31871600000t" region="bottomCenter" style="s1" xml:id="subtitle722"><font face="方正准雅宋_GBK" size="54"><b>硬要说的话 那就是我的工作</b></font></p>
+<p begin="31878800000t" end="31900000000t" region="bottomCenter" style="s1" xml:id="subtitle723"><font face="HGPMinchoE" size="36"><b>こちらとあちらの橋渡し</b></font></p>
+<p begin="31878800000t" end="31900000000t" region="bottomCenter" style="s1" xml:id="subtitle724"><font face="方正准雅宋_GBK" size="54"><b>我是连接这边和那边的桥梁</b></font></p>
+<p begin="31917400000t" end="31933200000t" region="bottomCenter" style="s1" xml:id="subtitle725"><font face="HGPMinchoE" size="36"><b>自己紹介しろよ</b></font></p>
+<p begin="31917400000t" end="31933200000t" region="bottomCenter" style="s1" xml:id="subtitle726"><font face="方正准雅宋_GBK" size="54"><b>给我自我介绍一下</b></font></p>
+<p begin="31940300000t" end="31954800000t" region="bottomCenter" style="s1" xml:id="subtitle727"><font face="HGPMinchoE" size="36"><b>後でするって言ったろ</b></font></p>
+<p begin="31940300000t" end="31954800000t" region="bottomCenter" style="s1" xml:id="subtitle728"><font face="方正准雅宋_GBK" size="54"><b>你之前说过会自我介绍的吧</b></font></p>
+<p begin="32003600000t" end="32014100000t" region="bottomCenter" style="s1" xml:id="subtitle729"><font face="HGPMinchoE" size="36"><b>忍野メメ</b></font></p>
+<p begin="32003600000t" end="32014100000t" region="bottomCenter" style="s1" xml:id="subtitle730"><font face="方正准雅宋_GBK" size="54"><b>忍野咩咩</b></font></p>
+<p begin="32025600000t" end="32042600000t" region="bottomCenter" style="s1" xml:id="subtitle731"><font face="HGPMinchoE" size="36"><b>住所不定の自由人さ</b></font></p>
+<p begin="32025600000t" end="32042600000t" region="bottomCenter" style="s1" xml:id="subtitle732"><font face="方正准雅宋_GBK" size="54"><b>四海为家的自由人</b></font></p>
+<p begin="32051500000t" end="32083400000t" region="bottomCenter" style="s1" xml:id="subtitle733"><font face="HGPMinchoE" size="36"><b>まあ　妖怪変化のオーソリティだと思ってくれりゃいい</b></font></p>
+<p begin="32051500000t" end="32083400000t" region="bottomCenter" style="s1" xml:id="subtitle734"><font face="方正准雅宋_GBK" size="54"><b>就把我当作是研究妖怪的权威者好了</b></font></p>
+<p begin="32106500000t" end="32118000000t" region="bottomCenter" style="s1" xml:id="subtitle735"><font face="HGPMinchoE" size="36"><b>あの三人と違って</b></font></p>
+<p begin="32106500000t" end="32118000000t" region="bottomCenter" style="s1" xml:id="subtitle736"><font face="方正准雅宋_GBK" size="54"><b>我和那三个人不同</b></font></p>
+<p begin="32120400000t" end="32154500000t" region="bottomCenter" style="s1" xml:id="subtitle737"><font face="HGPMinchoE" size="36"><b>妖怪退治ってのは　あんまり得意じゃないけどね</b></font></p>
+<p begin="32120400000t" end="32154500000t" region="bottomCenter" style="s1" xml:id="subtitle738"><font face="方正准雅宋_GBK" size="54"><b>不太擅长除妖</b></font></p>
+<p begin="32162000000t" end="32172700000t" region="bottomCenter" style="s1" xml:id="subtitle739"><font face="HGPMinchoE" size="36"><b>得意じゃないって</b></font></p>
+<p begin="32162000000t" end="32172700000t" region="bottomCenter" style="s1" xml:id="subtitle740"><font face="方正准雅宋_GBK" size="54"><b>不擅长是指？</b></font></p>
+<p begin="32185600000t" end="32203400000t" region="bottomCenter" style="s1" xml:id="subtitle741"><font face="HGPMinchoE" size="36"><b>もう少しありていに言うと</b></font></p>
+<p begin="32185600000t" end="32203400000t" region="bottomCenter" style="s1" xml:id="subtitle742"><font face="方正准雅宋_GBK" size="54"><b>说实话</b></font></p>
+<p begin="32209200000t" end="32221900000t" region="bottomCenter" style="s1" xml:id="subtitle743"><font face="HGPMinchoE" size="36"><b>好きじゃないんだよね</b></font></p>
+<p begin="32209200000t" end="32221900000t" region="bottomCenter" style="s1" xml:id="subtitle744"><font face="方正准雅宋_GBK" size="54"><b>是不喜欢</b></font></p>
+<p begin="32229500000t" end="32254400000t" region="bottomCenter" style="s1" xml:id="subtitle745"><font face="HGPMinchoE" size="36"><b>でも　専門じゃないのかよ</b></font></p>
+<p begin="32229500000t" end="32254400000t" region="bottomCenter" style="s1" xml:id="subtitle746"><font face="方正准雅宋_GBK" size="54"><b>但是 那不属于你的专业范畴吗</b></font></p>
+<p begin="32262600000t" end="32289000000t" region="bottomCenter" style="s1" xml:id="subtitle747"><font face="HGPMinchoE" size="36"><b>専門は　だからバランスを取ること</b></font></p>
+<p begin="32262600000t" end="32289000000t" region="bottomCenter" style="s1" xml:id="subtitle748"><font face="方正准雅宋_GBK" size="54"><b>我的专长是维持平衡</b></font></p>
+<p begin="32297500000t" end="32308900000t" region="bottomCenter" style="s1" xml:id="subtitle749"><font face="HGPMinchoE" size="36"><b>中立の立ち位置で</b></font></p>
+<p begin="32297500000t" end="32308900000t" region="bottomCenter" style="s1" xml:id="subtitle750"><font face="方正准雅宋_GBK" size="54"><b>保持中立</b></font></p>
+<p begin="32310900000t" end="32324800000t" region="bottomCenter" style="s1" xml:id="subtitle751"><font face="HGPMinchoE" size="36"><b>ネゴシエーションすること</b></font></p>
+<p begin="32310900000t" end="32324800000t" region="bottomCenter" style="s1" xml:id="subtitle752"><font face="方正准雅宋_GBK" size="54"><b>进行交涉</b></font></p>
+<p begin="32333200000t" end="32357000000t" region="bottomCenter" style="s1" xml:id="subtitle753"><font face="HGPMinchoE" size="36"><b>まあ　強いて言うなら交渉人だよ</b></font></p>
+<p begin="32333200000t" end="32357000000t" region="bottomCenter" style="s1" xml:id="subtitle754"><font face="方正准雅宋_GBK" size="54"><b>硬要说的话 我就是个中间人</b></font></p>
+<p begin="32371400000t" end="32379100000t" region="bottomCenter" style="s1" xml:id="subtitle755"><font face="HGPMinchoE" size="36"><b>交渉？</b></font></p>
+<p begin="32371400000t" end="32379100000t" region="bottomCenter" style="s1" xml:id="subtitle756"><font face="方正准雅宋_GBK" size="54"><b>交涉？</b></font></p>
+<p begin="32390000000t" end="32418800000t" region="bottomCenter" style="s1" xml:id="subtitle757"><font face="HGPMinchoE" size="36"><b>こちらとあちらの　橋渡し</b></font></p>
+<p begin="32390000000t" end="32418800000t" region="bottomCenter" style="s1" xml:id="subtitle758"><font face="方正准雅宋_GBK" size="54"><b>这边和那边的桥梁</b></font></p>
+<p begin="32438900000t" end="32451300000t" region="bottomCenter" style="s1" xml:id="subtitle759"><font face="HGPMinchoE" size="36"><b>こちらとはどこで</b></font></p>
+<p begin="32438900000t" end="32451300000t" region="bottomCenter" style="s1" xml:id="subtitle760"><font face="方正准雅宋_GBK" size="54"><b>这边是指什么？</b></font></p>
+<p begin="32458500000t" end="32469800000t" region="bottomCenter" style="s1" xml:id="subtitle761"><font face="HGPMinchoE" size="36"><b>あちらとはどこだ</b></font></p>
+<p begin="32458500000t" end="32469800000t" region="bottomCenter" style="s1" xml:id="subtitle762"><font face="方正准雅宋_GBK" size="54"><b>那边又是哪里？</b></font></p>
+<p begin="32480900000t" end="32491500000t" region="bottomCenter" style="s1" xml:id="subtitle763"><font face="HGPMinchoE" size="36"><b>こちらは人間で</b></font></p>
+<p begin="32480900000t" end="32491500000t" region="bottomCenter" style="s1" xml:id="subtitle764"><font face="方正准雅宋_GBK" size="54"><b>这边是人类</b></font></p>
+<p begin="32498400000t" end="32510900000t" region="bottomCenter" style="s1" xml:id="subtitle765"><font face="HGPMinchoE" size="36"><b>あちらは化物か</b></font></p>
+<p begin="32498400000t" end="32510900000t" region="bottomCenter" style="s1" xml:id="subtitle766"><font face="方正准雅宋_GBK" size="54"><b>那边是怪物吗</b></font></p>
+<p begin="32512200000t" end="32531000000t" region="bottomCenter" style="s1" xml:id="subtitle767"><font face="方正准雅宋_GBK" size="72"><font size="80"><font color="#f6f7f4"><b>那 现 在 的 我</b></font></font></font></p>
+<p begin="32531000000t" end="32549700000t" region="bottomCenter" style="s1" xml:id="subtitle768"><font face="方正准雅宋_GBK" size="72"><font size="80"><font color="#f6f7f4"><b>究 竟 属 于 哪 边</b></font></font></font></p>
+<p begin="32554900000t" end="32562800000t" region="bottomCenter" style="s1" xml:id="subtitle769"><font face="HGPMinchoE" size="36"><b>化物</b></font></p>
+<p begin="32554900000t" end="32562800000t" region="bottomCenter" style="s1" xml:id="subtitle770"><font face="方正准雅宋_GBK" size="54"><b>怪物</b></font></p>
+<p begin="32569500000t" end="32575700000t" region="bottomCenter" style="s1" xml:id="subtitle771"><font face="HGPMinchoE" size="36"><b>いいね</b></font></p>
+<p begin="32569500000t" end="32575700000t" region="bottomCenter" style="s1" xml:id="subtitle772"><font face="方正准雅宋_GBK" size="54"><b>真不错</b></font></p>
+<p begin="32581900000t" end="32599200000t" region="bottomCenter" style="s1" xml:id="subtitle773"><font face="HGPMinchoE" size="36"><b>僕は怪異と呼んでいるが</b></font></p>
+<p begin="32581900000t" end="32599200000t" region="bottomCenter" style="s1" xml:id="subtitle774"><font face="方正准雅宋_GBK" size="54"><b>虽然我称之为怪异</b></font></p>
+<p begin="32624100000t" end="32655600000t" region="bottomCenter" style="s1" xml:id="subtitle775"><font face="HGPMinchoE" size="36"><b>そしてその子は怪異殺しと呼ばれている</b></font></p>
+<p begin="32624100000t" end="32655600000t" region="bottomCenter" style="s1" xml:id="subtitle776"><font face="方正准雅宋_GBK" size="54"><b>然后她被称作怪异杀手</b></font></p>
+<p begin="32664200000t" end="32681500000t" region="bottomCenter" style="s1" xml:id="subtitle777"><font face="HGPMinchoE" size="36"><b>怪異からエナジードレインできる</b></font></p>
+<p begin="32664200000t" end="32681500000t" region="bottomCenter" style="s1" xml:id="subtitle778"><font face="方正准雅宋_GBK" size="54"><b>可从怪异身上获取能量</b></font></p>
+<p begin="32685100000t" end="32702800000t" region="bottomCenter" style="s1" xml:id="subtitle779"><font face="HGPMinchoE" size="36"><b>珍しいタイプの吸血鬼だ</b></font></p>
+<p begin="32685100000t" end="32702800000t" region="bottomCenter" style="s1" xml:id="subtitle780"><font face="方正准雅宋_GBK" size="54"><b>是很少见的一种吸血鬼</b></font></p>
+<p begin="32710700000t" end="32741500000t" region="bottomCenter" style="s1" xml:id="subtitle781"><font face="HGPMinchoE" size="36"><b>まあ　だからこそ有名な子なんだよね</b></font></p>
+<p begin="32710700000t" end="32741500000t" region="bottomCenter" style="s1" xml:id="subtitle782"><font face="方正准雅宋_GBK" size="54"><b>所以说 她是个名人</b></font></p>
+<p begin="32780400000t" end="32822900000t" region="bottomCenter" style="s1" xml:id="subtitle783"><font face="HGPMinchoE" size="36"><b>さっきの君達の話し合いを　なんとなく聞かせてもらっていたげれど</b></font></p>
+<p begin="32780400000t" end="32822900000t" region="bottomCenter" style="s1" xml:id="subtitle784"><font face="方正准雅宋_GBK" size="54"><b>刚才我稍微听了些你们的谈话</b></font></p>
+<p begin="32834500000t" end="32860600000t" region="bottomCenter" style="s1" xml:id="subtitle785"><font face="HGPMinchoE" size="36"><b>結構大変な事態になってるみたいじゃない</b></font></p>
+<p begin="32834500000t" end="32860600000t" region="bottomCenter" style="s1" xml:id="subtitle786"><font face="方正准雅宋_GBK" size="54"><b>结果好像很糟糕啊</b></font></p>
+<p begin="32869200000t" end="32896200000t" region="bottomCenter" style="s1" xml:id="subtitle787"><font face="HGPMinchoE" size="36"><b>まさかこんなにややこしいことが起こるとはね</b></font></p>
+<p begin="32869200000t" end="32896200000t" region="bottomCenter" style="s1" xml:id="subtitle788"><font face="方正准雅宋_GBK" size="54"><b>没想到会遇到这么麻烦的事</b></font></p>
+<p begin="32901900000t" end="32914400000t" region="bottomCenter" style="s1" xml:id="subtitle789"><font face="HGPMinchoE" size="36"><b>ややこしくなどない</b></font></p>
+<p begin="32901900000t" end="32914400000t" region="bottomCenter" style="s1" xml:id="subtitle790"><font face="方正准雅宋_GBK" size="54"><b>不麻烦</b></font></p>
+<p begin="32917800000t" end="32930000000t" region="bottomCenter" style="s1" xml:id="subtitle791"><font face="HGPMinchoE" size="36"><b>至極簡単じゃ</b></font></p>
+<p begin="32917800000t" end="32930000000t" region="bottomCenter" style="s1" xml:id="subtitle792"><font face="方正准雅宋_GBK" size="54"><b>简单到爆炸</b></font></p>
+<p begin="32936700000t" end="32983300000t" region="bottomCenter" style="s1" xml:id="subtitle793"><font face="HGPMinchoE" size="36"><b>長命の吸血鬼のスパンで見れば　そうなんだろうけどねえ</b></font></p>
+<p begin="32936700000t" end="32983300000t" region="bottomCenter" style="s1" xml:id="subtitle794"><font face="方正准雅宋_GBK" size="54"><b>对于长寿的吸血鬼来说确实如此</b></font></p>
+<p begin="32998200000t" end="33022700000t" region="bottomCenter" style="s1" xml:id="subtitle795"><font face="HGPMinchoE" size="36"><b>僕ら人間としては困ったもんだよ</b></font></p>
+<p begin="32998200000t" end="33022700000t" region="bottomCenter" style="s1" xml:id="subtitle796"><font face="方正准雅宋_GBK" size="54"><b>但对我们人类来说可是很伤脑筋的</b></font></p>
+<p begin="33029400000t" end="33045300000t" region="bottomCenter" style="s1" xml:id="subtitle797"><font face="HGPMinchoE" size="36"><b>ねえ　阿良々木くん</b></font></p>
+<p begin="33029400000t" end="33045300000t" region="bottomCenter" style="s1" xml:id="subtitle798"><font face="方正准雅宋_GBK" size="54"><b>是吧 阿良良木</b></font></p>
+<p begin="33103700000t" end="33139900000t" region="bottomCenter" style="s1" xml:id="subtitle799"><font face="HGPMinchoE" size="36"><b>それに　僕は気に入ったよ　ハートアンダーブレード</b></font></p>
+<p begin="33103700000t" end="33139900000t" region="bottomCenter" style="s1" xml:id="subtitle800"><font face="方正准雅宋_GBK" size="54"><b>刃下心 我很中意你</b></font></p>
+<p begin="33150300000t" end="33216100000t" region="bottomCenter" style="s1" xml:id="subtitle801"><font face="HGPMinchoE" size="36"><b>眷属とした阿良々木くんを　ちゃんと人間に戻してあげようというきみの心意気にね</b></font></p>
+<p begin="33150300000t" end="33216100000t" region="bottomCenter" style="s1" xml:id="subtitle802"><font face="方正准雅宋_GBK" size="54"><b>因为你想让已成自己亲族的阿良良木变回人类</b></font></p>
+<p begin="33330300000t" end="33362100000t" region="bottomCenter" style="s1" xml:id="subtitle803"><font face="HGPMinchoE" size="36"><b>何なら　僕が間に立ってあげてもいいよ</b></font></p>
+<p begin="33330300000t" end="33362100000t" region="bottomCenter" style="s1" xml:id="subtitle804"><font face="方正准雅宋_GBK" size="54"><b>其实我可以为你们调停</b></font></p>
+<p begin="33388900000t" end="33399800000t" region="bottomCenter" style="s1" xml:id="subtitle805"><font face="HGPMinchoE" size="36"><b>間に立つって</b></font></p>
+<p begin="33388900000t" end="33399800000t" region="bottomCenter" style="s1" xml:id="subtitle806"><font face="方正准雅宋_GBK" size="54"><b>调停是什么意思？</b></font></p>
+<p begin="33412400000t" end="33426400000t" region="bottomCenter" style="s1" xml:id="subtitle807"><font face="HGPMinchoE" size="36"><b>あの三人との間？</b></font></p>
+<p begin="33412400000t" end="33426400000t" region="bottomCenter" style="s1" xml:id="subtitle808"><font face="方正准雅宋_GBK" size="54"><b>你是指我们和那三人的事吗</b></font></p>
+<p begin="33435500000t" end="33445200000t" region="bottomCenter" style="s1" xml:id="subtitle809"><font face="HGPMinchoE" size="36"><b>他にないだろ</b></font></p>
+<p begin="33435500000t" end="33445200000t" region="bottomCenter" style="s1" xml:id="subtitle810"><font face="方正准雅宋_GBK" size="54"><b>除此之外还能有别的事吗</b></font></p>
+<p begin="33456400000t" end="33487600000t" region="bottomCenter" style="s1" xml:id="subtitle811"><font face="HGPMinchoE" size="36"><b>た…助けて　くれるってことか</b></font></p>
+<p begin="33456400000t" end="33487600000t" region="bottomCenter" style="s1" xml:id="subtitle812"><font face="方正准雅宋_GBK" size="54"><b>你…你要帮我们吗</b></font></p>
+<p begin="33497700000t" end="33519200000t" region="bottomCenter" style="s1" xml:id="subtitle813"><font face="HGPMinchoE" size="36"><b>助けない　力を貸すだけ</b></font></p>
+<p begin="33497700000t" end="33519200000t" region="bottomCenter" style="s1" xml:id="subtitle814"><font face="方正准雅宋_GBK" size="54"><b>不 只是借给你们力量</b></font></p>
+<p begin="33529200000t" end="33583600000t" region="bottomCenter" style="s1" xml:id="subtitle815"><font face="HGPMinchoE" size="36"><b>今のままじゃ　やっぱりちょっと　バランスが悪いような気もするからね</b></font></p>
+<p begin="33529200000t" end="33583600000t" region="bottomCenter" style="s1" xml:id="subtitle816"><font face="方正准雅宋_GBK" size="54"><b>现在总觉得有点不平衡</b></font></p>
+<p begin="33589500000t" end="33610000000t" region="bottomCenter" style="s1" xml:id="subtitle817"><font face="HGPMinchoE" size="36"><b>これじゃあいじめみたいなもんだ</b></font></p>
+<p begin="33589500000t" end="33610000000t" region="bottomCenter" style="s1" xml:id="subtitle818"><font face="方正准雅宋_GBK" size="54"><b>简直就像是在欺负弱小</b></font></p>
+<p begin="33634900000t" end="33663500000t" region="bottomCenter" style="s1" xml:id="subtitle819"><font face="HGPMinchoE" size="36"><b>でももちろん　僕も仕事だから</b></font></p>
+<p begin="33634900000t" end="33663500000t" region="bottomCenter" style="s1" xml:id="subtitle820"><font face="方正准雅宋_GBK" size="54"><b>当然这也是我的工作</b></font></p>
+<p begin="33666400000t" end="33680200000t" region="bottomCenter" style="s1" xml:id="subtitle821"><font face="HGPMinchoE" size="36"><b>ただってわけにはいかないよ</b></font></p>
+<p begin="33666400000t" end="33680200000t" region="bottomCenter" style="s1" xml:id="subtitle822"><font face="方正准雅宋_GBK" size="54"><b>不会白白帮你的</b></font></p>
+<p begin="33690900000t" end="33700400000t" region="bottomCenter" style="s1" xml:id="subtitle823"><font face="HGPMinchoE" size="36"><b>そうだな</b></font></p>
+<p begin="33690900000t" end="33700400000t" region="bottomCenter" style="s1" xml:id="subtitle824"><font face="方正准雅宋_GBK" size="54"><b>这样吧</b></font></p>
+<p begin="33718900000t" end="33735200000t" region="bottomCenter" style="s1" xml:id="subtitle825"><font face="HGPMinchoE" size="36"><b>二百万くらいでどう？</b></font></p>
+<p begin="33718900000t" end="33735200000t" region="bottomCenter" style="s1" xml:id="subtitle826"><font face="方正准雅宋_GBK" size="54"><b>200万能出得起吗</b></font></p>
+<p begin="33739400000t" end="33754500000t" region="bottomCenter" style="s1" xml:id="subtitle827"><font face="HGPMinchoE" size="36"><b>に…にひゃく</b></font></p>
+<p begin="33739400000t" end="33754500000t" region="bottomCenter" style="s1" xml:id="subtitle828"><font face="方正准雅宋_GBK" size="54"><b>200万</b></font></p>
+<p begin="33759700000t" end="33780400000t" region="bottomCenter" style="s1" xml:id="subtitle829"><font face="HGPMinchoE" size="36"><b>あるとき払いの催促なしだ</b></font></p>
+<p begin="33759700000t" end="33780400000t" region="bottomCenter" style="s1" xml:id="subtitle830"><font face="方正准雅宋_GBK" size="54"><b>等你什么时候有钱了给我就行 我不催</b></font></p>
+<p begin="33787400000t" end="33805600000t" region="bottomCenter" style="s1" xml:id="subtitle831"><font face="HGPMinchoE" size="36"><b>それくらいは要求しないと</b></font></p>
+<p begin="33787400000t" end="33805600000t" region="bottomCenter" style="s1" xml:id="subtitle832"><font face="方正准雅宋_GBK" size="54"><b>这点要求都不提的话</b></font></p>
+<p begin="33810400000t" end="33839600000t" region="bottomCenter" style="s1" xml:id="subtitle833"><font face="HGPMinchoE" size="36"><b>それはそれでバランスが取れないものでね</b></font></p>
+<p begin="33810400000t" end="33839600000t" region="bottomCenter" style="s1" xml:id="subtitle834"><font face="方正准雅宋_GBK" size="54"><b>也很不平衡你说对吧</b></font></p>
+<p begin="33848000000t" end="33871700000t" region="bottomCenter" style="s1" xml:id="subtitle835"><font face="HGPMinchoE" size="36"><b>で…でも</b></font></p>
+<p begin="33848000000t" end="33871700000t" region="bottomCenter" style="s1" xml:id="subtitle836"><font face="方正准雅宋_GBK" size="54"><b>可…可是</b></font></p>
+<p begin="33900800000t" end="33924800000t" region="bottomCenter" style="s1" xml:id="subtitle837"><font face="HGPMinchoE" size="36"><b>具体的なプランを聞こうかの</b></font></p>
+<p begin="33900800000t" end="33924800000t" region="bottomCenter" style="s1" xml:id="subtitle838"><font face="方正准雅宋_GBK" size="54"><b>快来说说汝的具体方案</b></font></p>
+<p begin="33959100000t" end="33984100000t" region="bottomCenter" style="s1" xml:id="subtitle839"><font face="HGPMinchoE" size="36"><b>交渉と言っても　容易ではあるまい</b></font></p>
+<p begin="33959100000t" end="33984100000t" region="bottomCenter" style="s1" xml:id="subtitle840"><font face="方正准雅宋_GBK" size="54"><b>虽说是交涉 但也不是那么容易的</b></font></p>
+<p begin="33991900000t" end="34019000000t" region="bottomCenter" style="s1" xml:id="subtitle841"><font face="HGPMinchoE" size="36"><b>あの三人を説得することなどできぬぞ</b></font></p>
+<p begin="33991900000t" end="34019000000t" region="bottomCenter" style="s1" xml:id="subtitle842"><font face="方正准雅宋_GBK" size="54"><b>汝是没法说服那三个人的</b></font></p>
+<p begin="34025200000t" end="34061900000t" region="bottomCenter" style="s1" xml:id="subtitle843"><font face="HGPMinchoE" size="36"><b>僕にできることは　頭を下げてお願いするだけさ</b></font></p>
+<p begin="34025200000t" end="34061900000t" region="bottomCenter" style="s1" xml:id="subtitle844"><font face="方正准雅宋_GBK" size="54"><b>我能做的就是下跪磕头</b></font></p>
+<p begin="34087100000t" end="34098600000t" region="bottomCenter" style="s1" xml:id="subtitle845"><font face="HGPMinchoE" size="36"><b>誠意を込めてね</b></font></p>
+<p begin="34087100000t" end="34098600000t" region="bottomCenter" style="s1" xml:id="subtitle846"><font face="方正准雅宋_GBK" size="54"><b>饱含诚意</b></font></p>
+<p begin="34106800000t" end="34144100000t" region="bottomCenter" style="s1" xml:id="subtitle847"><font face="HGPMinchoE" size="36"><b>お願いできないのなら危険思想に手を出すしかないけれど</b></font></p>
+<p begin="34106800000t" end="34144100000t" region="bottomCenter" style="s1" xml:id="subtitle848"><font face="方正准雅宋_GBK" size="54"><b>要是不可以的话 就只能玩硬的了</b></font></p>
+<p begin="34152400000t" end="34174000000t" region="bottomCenter" style="s1" xml:id="subtitle849"><font face="HGPMinchoE" size="36"><b>幸い　言葉が通じるのなら</b></font></p>
+<p begin="34152400000t" end="34174000000t" region="bottomCenter" style="s1" xml:id="subtitle850"><font face="方正准雅宋_GBK" size="54"><b>要是能心平气和地交流的话</b></font></p>
+<p begin="34176800000t" end="34185300000t" region="bottomCenter" style="s1" xml:id="subtitle851"><font face="HGPMinchoE" size="36"><b>ゲームができる</b></font></p>
+<p begin="34176800000t" end="34185300000t" region="bottomCenter" style="s1" xml:id="subtitle852"><font face="方正准雅宋_GBK" size="54"><b>就能玩个游戏了</b></font></p>
+<p begin="34191800000t" end="34216800000t" region="bottomCenter" style="s1" xml:id="subtitle853"><font face="HGPMinchoE" size="36"><b>ゲーム　じゃと？</b></font></p>
+<p begin="34191800000t" end="34216800000t" region="bottomCenter" style="s1" xml:id="subtitle854"><font face="方正准雅宋_GBK" size="54"><b>游戏？</b></font></p>
+<p begin="34237500000t" end="34269900000t" region="bottomCenter" style="s1" xml:id="subtitle855"><font face="HGPMinchoE" size="36"><b>まずは　あの三人をバラかすのが先だろうね</b></font></p>
+<p begin="34237500000t" end="34269900000t" region="bottomCenter" style="s1" xml:id="subtitle856"><font face="方正准雅宋_GBK" size="54"><b>首先把那三个人分开</b></font></p>
+<p begin="34276900000t" end="34307400000t" region="bottomCenter" style="s1" xml:id="subtitle857"><font face="HGPMinchoE" size="36"><b>ひとりひとりを相手にすれば　問題ないってのが</b></font></p>
+<p begin="34276900000t" end="34307400000t" region="bottomCenter" style="s1" xml:id="subtitle858"><font face="方正准雅宋_GBK" size="54"><b>一对一单挑的话就稳赢</b></font></p>
+<p begin="34313500000t" end="34345800000t" region="bottomCenter" style="s1" xml:id="subtitle859"><font face="HGPMinchoE" size="36"><b>ハートアンダーブレード　きみの読みなんだろう</b></font></p>
+<p begin="34313500000t" end="34345800000t" region="bottomCenter" style="s1" xml:id="subtitle860"><font face="方正准雅宋_GBK" size="54"><b>刃下心 你是这么说的吧</b></font></p>
+<p begin="34352500000t" end="34377600000t" region="bottomCenter" style="s1" xml:id="subtitle861"><font face="HGPMinchoE" size="36"><b>なら　それを実現させようじゃないか</b></font></p>
+<p begin="34352500000t" end="34377600000t" region="bottomCenter" style="s1" xml:id="subtitle862"><font face="方正准雅宋_GBK" size="54"><b>那就来试试吧</b></font></p>
+<p begin="34383400000t" end="34403400000t" region="bottomCenter" style="s1" xml:id="subtitle863"><font face="HGPMinchoE" size="36"><b>しかしのう　小僧よ</b></font></p>
+<p begin="34383400000t" end="34403400000t" region="bottomCenter" style="s1" xml:id="subtitle864"><font face="方正准雅宋_GBK" size="54"><b>但是啊小鬼</b></font></p>
+<p begin="34408700000t" end="34436800000t" region="bottomCenter" style="s1" xml:id="subtitle865"><font face="HGPMinchoE" size="36"><b>あの三人とどうやって交渉するのじゃ？</b></font></p>
+<p begin="34408700000t" end="34436800000t" region="bottomCenter" style="s1" xml:id="subtitle866"><font face="方正准雅宋_GBK" size="54"><b>汝要如何去和那三个人交涉？</b></font></p>
+<p begin="34441700000t" end="34463100000t" region="bottomCenter" style="s1" xml:id="subtitle867"><font face="HGPMinchoE" size="36"><b>詳しくは企業秘密だけど</b></font></p>
+<p begin="34441700000t" end="34463100000t" region="bottomCenter" style="s1" xml:id="subtitle868"><font face="方正准雅宋_GBK" size="54"><b>这是机密 我不能多说</b></font></p>
+<p begin="34472500000t" end="34494500000t" region="bottomCenter" style="s1" xml:id="subtitle869"><font face="HGPMinchoE" size="36"><b>フィールドは僕が整えてあげよう</b></font></p>
+<p begin="34472500000t" end="34494500000t" region="bottomCenter" style="s1" xml:id="subtitle870"><font face="方正准雅宋_GBK" size="54"><b>但我会为你们创造出机会</b></font></p>
+<p begin="34502600000t" end="34544000000t" region="bottomCenter" style="s1" xml:id="subtitle871"><font face="HGPMinchoE" size="36"><b>そして阿良々木くんが　彼らから手足を取り戻す</b></font></p>
+<p begin="34502600000t" end="34544000000t" region="bottomCenter" style="s1" xml:id="subtitle872"><font face="方正准雅宋_GBK" size="54"><b>然后阿良良木你去取回手脚</b></font></p>
+<p begin="34559100000t" end="34580300000t" region="bottomCenter" style="s1" xml:id="subtitle873"><font face="HGPMinchoE" size="36"><b>無事に両腕両脚を取り戻せば</b></font></p>
+<p begin="34559100000t" end="34580300000t" region="bottomCenter" style="s1" xml:id="subtitle874"><font face="方正准雅宋_GBK" size="54"><b>要是把手脚带回来的话</b></font></p>
+<p begin="34585700000t" end="34610000000t" region="bottomCenter" style="s1" xml:id="subtitle875"><font face="HGPMinchoE" size="36"><b>ハートアンダーブレードはパワーを回復できて</b></font></p>
+<p begin="34585700000t" end="34610000000t" region="bottomCenter" style="s1" xml:id="subtitle876"><font face="方正准雅宋_GBK" size="54"><b>刃下心就会恢复力量</b></font></p>
+<p begin="34613500000t" end="34661700000t" region="bottomCenter" style="s1" xml:id="subtitle877"><font face="HGPMinchoE" size="36"><b>そうすれば　阿良々木くんは無事に人間に戻れるというわけだ</b></font></p>
+<p begin="34613500000t" end="34661700000t" region="bottomCenter" style="s1" xml:id="subtitle878"><font face="方正准雅宋_GBK" size="54"><b>于是阿良良木你也就能变回人类了</b></font></p>
+<p begin="34691700000t" end="34703600000t" region="bottomCenter" style="s1" xml:id="subtitle879"><font face="HGPMinchoE" size="36"><b>おい　従僕</b></font></p>
+<p begin="34691700000t" end="34703600000t" region="bottomCenter" style="s1" xml:id="subtitle880"><font face="方正准雅宋_GBK" size="54"><b>喂 随从</b></font></p>
+<p begin="34719500000t" end="34743800000t" region="bottomCenter" style="s1" xml:id="subtitle881"><font face="HGPMinchoE" size="36"><b>儂は人間の貨幣は用意できん</b></font></p>
+<p begin="34719500000t" end="34743800000t" region="bottomCenter" style="s1" xml:id="subtitle882"><font face="方正准雅宋_GBK" size="54"><b>吾没法准备人类的货币</b></font></p>
+<p begin="34750700000t" end="34792900000t" region="bottomCenter" style="s1" xml:id="subtitle883"><font face="HGPMinchoE" size="36"><b>二百万円という借金がどの程度のものなのかもよくわからんが</b></font></p>
+<p begin="34750700000t" end="34792900000t" region="bottomCenter" style="s1" xml:id="subtitle884"><font face="方正准雅宋_GBK" size="54"><b>也不知道200万有多少</b></font></p>
+<p begin="34802500000t" end="34831800000t" region="bottomCenter" style="s1" xml:id="subtitle885"><font face="HGPMinchoE" size="36"><b>その金額をうぬは背負うことができるか</b></font></p>
+<p begin="34802500000t" end="34831800000t" region="bottomCenter" style="s1" xml:id="subtitle886"><font face="方正准雅宋_GBK" size="54"><b>汝一个人能承担起这个金额吗</b></font></p>
+<p begin="34869300000t" end="34880100000t" region="bottomCenter" style="s1" xml:id="subtitle887"><font face="HGPMinchoE" size="36"><b>心配するな</b></font></p>
+<p begin="34869300000t" end="34880100000t" region="bottomCenter" style="s1" xml:id="subtitle888"><font face="方正准雅宋_GBK" size="54"><b>别担心</b></font></p>
+<p begin="34888000000t" end="34906400000t" region="bottomCenter" style="s1" xml:id="subtitle889"><font face="HGPMinchoE" size="36"><b>この小僧のスキルは本物じゃ</b></font></p>
+<p begin="34888000000t" end="34906400000t" region="bottomCenter" style="s1" xml:id="subtitle890"><font face="方正准雅宋_GBK" size="54"><b>这小子的水平是一流的</b></font></p>
+<p begin="34916100000t" end="34948100000t" region="bottomCenter" style="s1" xml:id="subtitle891"><font face="HGPMinchoE" size="36"><b>いかに弱体化しても　それくらいのことはわかる</b></font></p>
+<p begin="34916100000t" end="34948100000t" region="bottomCenter" style="s1" xml:id="subtitle892"><font face="方正准雅宋_GBK" size="54"><b>相信我 无论吾再虚弱也能看得出来</b></font></p>
+<p begin="34974800000t" end="34990600000t" region="bottomCenter" style="s1" xml:id="subtitle893"><font face="HGPMinchoE" size="36"><b>そんな貯金はねえけど</b></font></p>
+<p begin="34974800000t" end="34990600000t" region="bottomCenter" style="s1" xml:id="subtitle894"><font face="方正准雅宋_GBK" size="54"><b>虽然我没那么多钱</b></font></p>
+<p begin="35003900000t" end="35023400000t" region="bottomCenter" style="s1" xml:id="subtitle895"><font face="HGPMinchoE" size="36"><b>あるとき払いの催促なし</b></font></p>
+<p begin="35003900000t" end="35023400000t" region="bottomCenter" style="s1" xml:id="subtitle896"><font face="方正准雅宋_GBK" size="54"><b>但要真是随时付款都行 还不催缴</b></font></p>
+<p begin="35030000000t" end="35064700000t" region="bottomCenter" style="s1" xml:id="subtitle897"><font face="HGPMinchoE" size="36"><b>ついでに保証人も担保もいらないって言うんだったら</b></font></p>
+<p begin="35030000000t" end="35064700000t" region="bottomCenter" style="s1" xml:id="subtitle898"><font face="方正准雅宋_GBK" size="54"><b>无需保证担保的话</b></font></p>
+<p begin="35081900000t" end="35092900000t" region="bottomCenter" style="s1" xml:id="subtitle899"><font face="HGPMinchoE" size="36"><b>僕が背負うよ</b></font></p>
+<p begin="35081900000t" end="35092900000t" region="bottomCenter" style="s1" xml:id="subtitle900"><font face="方正准雅宋_GBK" size="54"><b>我来承担</b></font></p>
+<p begin="35114900000t" end="35132300000t" region="bottomCenter" style="s1" xml:id="subtitle901"><font face="HGPMinchoE" size="36"><b>じゃ　決まり</b></font></p>
+<p begin="35114900000t" end="35132300000t" region="bottomCenter" style="s1" xml:id="subtitle902"><font face="方正准雅宋_GBK" size="54"><b>那就这么定了</b></font></p>
+<p begin="35147300000t" end="35155900000t" region="bottomCenter" style="s1" xml:id="subtitle903"><font face="HGPMinchoE" size="36"><b>まいどあり</b></font></p>
+<p begin="35147300000t" end="35155900000t" region="bottomCenter" style="s1" xml:id="subtitle904"><font face="方正准雅宋_GBK" size="54"><b>谢谢惠顾</b></font></p>
+<p begin="35167700000t" end="35176300000t" region="bottomCenter" style="s1" xml:id="subtitle905"><font face="HGPMinchoE" size="36"><b>なんつって</b></font></p>
+<p begin="35167700000t" end="35176300000t" region="bottomCenter" style="s1" xml:id="subtitle906"><font face="方正准雅宋_GBK" size="54"><b>开玩笑的</b></font></p>
+<p begin="37636500000t" end="37662000000t" region="bottomCenter" style="s1" xml:id="subtitle907"><font face="方正准雅宋_GBK" size="72"><font size="50"><font color="#e3e6fd"><b>姬 丝 秀 忒 · 雅 赛 劳 拉 莉 昂 · 刃 下 心</b></font></font></font></p>
+<p begin="37636800000t" end="37659800000t" region="bottomCenter" style="s1" xml:id="subtitle908"><font face="HGPMinchoE" size="36"><b>目には目　歯には歯</b></font></p>
+<p begin="37636800000t" end="37659800000t" region="bottomCenter" style="s1" xml:id="subtitle909"><font face="方正准雅宋_GBK" size="54"><b>以牙还牙 以眼还眼</b></font></p>
+<p begin="37664800000t" end="37694000000t" region="bottomCenter" style="s1" xml:id="subtitle910"><font face="HGPMinchoE" size="36"><b>吸血鬼には吸血鬼　じゃ</b></font></p>
+<p begin="37664800000t" end="37694000000t" region="bottomCenter" style="s1" xml:id="subtitle911"><font face="方正准雅宋_GBK" size="54"><b>以吸血鬼对付吸血鬼</b></font></p>
+<p begin="37702800000t" end="37714100000t" region="bottomCenter" style="s1" xml:id="subtitle912"><font face="方正准雅宋_GBK" size="72"><font size="50"><font color="#c2cbbc"><b>德 拉 曼 兹 路 基</b></font></font></font></p>
+<p begin="37705400000t" end="37722800000t" region="bottomCenter" style="s1" xml:id="subtitle913"><font face="HGPMinchoE" size="36"><b>それでは始めるとしよう</b></font></p>
+<p begin="37705400000t" end="37722800000t" region="bottomCenter" style="s1" xml:id="subtitle914"><font face="方正准雅宋_GBK" size="54"><b>那我们开始吧</b></font></p>
+<p begin="37714100000t" end="37717400000t" region="bottomCenter" style="s1" xml:id="subtitle915"><font face="方正准雅宋_GBK" size="72"><font size="43"><font face="@方正准雅宋_GBK">{\an1}<font color="#bcacc1"><b>身高超过两米的巨汉</b></font></font></font></font></p>
+<p begin="37714100000t" end="37717400000t" region="bottomCenter" style="s1" xml:id="subtitle916"><font face="方正准雅宋_GBK" size="72"><font size="43"><font face="@方正准雅宋_GBK">{\an1}<font color="#bcacc1"><b>手持两把波浪形大剑       二刀流</b></font></font></font></font></p>
+<p begin="37714100000t" end="37717400000t" region="bottomCenter" style="s1" xml:id="subtitle917"><font face="方正准雅宋_GBK" size="72"><font size="43"><font face="@方正准雅宋_GBK">{\an1}<font color="#bcacc1"><b>那把大剑貌似是焰形剑</b></font></font></font></font></p>
+<p begin="37714100000t" end="37717400000t" region="bottomCenter" style="s1" xml:id="subtitle918"><font face="方正准雅宋_GBK" size="72"><font size="43"><font face="@方正准雅宋_GBK">{\an1}<font color="#bcacc1"><b>的一种</b></font></font></font></font></p>
+<p begin="37714100000t" end="37717400000t" region="bottomCenter" style="s1" xml:id="subtitle919"><font face="方正准雅宋_GBK" size="72"><font size="43"><font face="@方正准雅宋_GBK">{\an1}<font color="#bcacc1"><b>隆起的块状肌肉 拥有结实体格的男子</b></font></font></font></font></p>
+<p begin="37714100000t" end="37717400000t" region="bottomCenter" style="s1" xml:id="subtitle920"><font face="方正准雅宋_GBK" size="72"><font size="43"><font face="@方正准雅宋_GBK">{\an1}<font color="#bcacc1"><b>固定住刘海的发箍</b></font></font></font></font></p>
+<p begin="37714100000t" end="37717400000t" region="bottomCenter" style="s1" xml:id="subtitle921"><font face="方正准雅宋_GBK" size="72"><font size="43"><font face="@方正准雅宋_GBK">{\an1}<font color="#bcacc1"><b>让人印象深刻。</b></font></font></font></font></p>
+<p begin="37714100000t" end="37717400000t" region="bottomCenter" style="s1" xml:id="subtitle922"><font face="方正准雅宋_GBK" size="72"><font size="43"><font face="@方正准雅宋_GBK">{\an1}<font color="#bcacc1"><b>是拿走了姬丝秀忒右臂的</b></font></font></font></font></p>
+<p begin="37714100000t" end="37717400000t" region="bottomCenter" style="s1" xml:id="subtitle923"><font face="方正准雅宋_GBK" size="72"><font size="43"><font face="@方正准雅宋_GBK">{\an1}<font color="#bcacc1"><b>吸血鬼猎人</b></font></font></font></font></p>
+<p begin="37714100000t" end="37717400000t" region="bottomCenter" style="s1" xml:id="subtitle924"><font face="方正准雅宋_GBK" size="72"><font size="43"><font face="@方正准雅宋_GBK">{\an1}<font color="#bcacc1"><b>（中间省略）</b></font></font></font></font></p>
+<p begin="37714100000t" end="37717400000t" region="bottomCenter" style="s1" xml:id="subtitle925"><font face="方正准雅宋_GBK" size="72"><font size="43"><font face="@方正准雅宋_GBK">{\an1}<font color="#bcacc1"><b>日期是三月三十一日</b></font></font></font></font></p>
+<p begin="37714100000t" end="37717400000t" region="bottomCenter" style="s1" xml:id="subtitle926"><font face="方正准雅宋_GBK" size="72"><font size="43"><font face="@方正准雅宋_GBK">{\an1}<font color="#bcacc1"><b>三月的最后一天</b></font></font></font></font></p>
+<p begin="37717400000t" end="37724900000t" region="bottomCenter" style="s1" xml:id="subtitle927"><font face="方正准雅宋_GBK" size="72">{\an5}<font color="#b80720">m 50 0 b 100 0 100 100 50 100 b 0 100 0 0 50 0</font></font></p>
+<p begin="37717400000t" end="37724900000t" region="bottomCenter" style="s1" xml:id="subtitle928"><font face="方正准雅宋_GBK" size="72"><font size="90"><font color="#a398dc">同为<font color="#e8b2b9">杀<font color="#a398dc">戮的吸血鬼</font></font></font></font></font></p>
+<p begin="37732400000t" end="37737400000t" region="bottomCenter" style="s1" xml:id="subtitle929"><font face="方正准雅宋_GBK" size="72"><font size="50"><font color="#8a7d7d"><b>艾 比 所 特</b></font></font></font></p>
+<p begin="37733500000t" end="37745400000t" region="bottomCenter" style="s1" xml:id="subtitle930"><font face="HGPMinchoE" size="36"><b>超ウケる</b></font></p>
+<p begin="37733500000t" end="37745400000t" region="bottomCenter" style="s1" xml:id="subtitle931"><font face="方正准雅宋_GBK" size="54"><b>真够搞笑的</b></font></p>
+<p begin="37737400000t" end="37741600000t" region="bottomCenter" style="s1" xml:id="subtitle932"><font face="方正准雅宋_GBK" size="72">{\an7}<font size="47"><font color="#cac2a8"><b>单手扛着一副形状比自己大上三倍、<font size="8"><br /><font size="47">重量是自身体重乘三次方的巨大十字架、<font size="8"><br /><font size="47">长着一对三白眼的男人。</font></font></font></font></b></font></font></font></p>
+<p begin="37737400000t" end="37741600000t" region="bottomCenter" style="s1" xml:id="subtitle933"><font face="方正准雅宋_GBK" size="72">{\an3}<font size="47"><font color="#cac2a8"><b>他是——吸血鬼猎人。<font size="8"><br /><font size="47">为了悬赏金而狩猎吸血鬼、虚无缥缈的杀手。<font size="8"><br /><font size="47">并且——他还是个。</font></font></font></font></b></font></font></font></p>
+<p begin="37741600000t" end="37750800000t" region="bottomCenter" style="s1" xml:id="subtitle934"><font face="方正准雅宋_GBK" size="72">{\an5}<font color="#b80720">m 50 0 b 100 0 100 100 50 100 b 0 100 0 0 50 0</font></font></p>
+<p begin="37741600000t" end="37750800000t" region="bottomCenter" style="s1" xml:id="subtitle935"><font face="方正准雅宋_GBK" size="72"><font size="90"><font color="#eecdcb"><b>半<font color="#dac375">人半吸血鬼</font></b></font></font></font></p>
+<p begin="37758300000t" end="37767900000t" region="bottomCenter" style="s1" xml:id="subtitle936"><font face="方正准雅宋_GBK" size="72"><font size="50"><font color="#ffc8c4"><b>奇 洛 金 卡 达</b></font></font></font></p>
+<p begin="37758400000t" end="37783600000t" region="bottomCenter" style="s1" xml:id="subtitle937"><font face="HGPMinchoE" size="36"><b>不愉快ですね</b></font></p>
+<p begin="37758400000t" end="37783600000t" region="bottomCenter" style="s1" xml:id="subtitle938"><font face="方正准雅宋_GBK" size="54"><b>真令人不愉快</b></font></p>
+<p begin="37767900000t" end="37772500000t" region="bottomCenter" style="s1" xml:id="subtitle939"><font face="方正准雅宋_GBK" size="72"><font size="53"><font color="#df94ac"><b>有一头会让人联想到刺猬的发型，神父装扮的男子，一双不知道是张是闭的眯眯眼</b></font></font></font></p>
+<p begin="37772500000t" end="37774200000t" region="bottomCenter" style="s1" xml:id="subtitle940"><font face="方正准雅宋_GBK" size="72"><font size="110"><font color="#fdcfd1">人<font size="76"><br /><font size="110">类</font></font></font></font></font></p>
+<p begin="37772500000t" end="37774200000t" region="bottomCenter" style="s1" xml:id="subtitle941"><font face="方正准雅宋_GBK" size="72"><font size="110"><font color="#fdcfd1"><b>。</b></font></font></font></p>
+<p begin="37774200000t" end="37786700000t" region="bottomCenter" style="s1" xml:id="subtitle942"><font face="方正准雅宋_GBK" size="72">{\an1}<font size="57"><font color="#ea818a"><b>否 定 怪 异 的 存 在 的</b></font></font></font></p>
+<p begin="37774200000t" end="37786700000t" region="bottomCenter" style="s1" xml:id="subtitle943"><font face="方正准雅宋_GBK" size="72">{\an1}<font size="57"><font color="#ea818a"><b>消 灭 存 在 的 怪 异 的</b></font></font></font></p>
+<p begin="37774200000t" end="37786700000t" region="bottomCenter" style="s1" xml:id="subtitle944"><font face="方正准雅宋_GBK" size="72">{\an5}<font color="#b80720">m 50 0 b 100 0 100 100 50 100 b 0 100 0 0 50 0</font></font></p>
+<p begin="37774200000t" end="37786700000t" region="bottomCenter" style="s1" xml:id="subtitle945"><font face="方正准雅宋_GBK" size="72"><font size="95"><font color="#f8ccc7">人 <font color="#c3647a">类</font></font></font></font></p>
+<p begin="37824500000t" end="37860000000t" region="bottomCenter" style="s1" xml:id="subtitle946"><font face="HGPMinchoE" size="36"><b>阿良々木くん　私に構わないで</b></font></p>
+<p begin="37824500000t" end="37860000000t" region="bottomCenter" style="s1" xml:id="subtitle947"><font face="方正准雅宋_GBK" size="54"><b>阿良良木 请不要管我</b></font></p>
+<p begin="37851300000t" end="37863400000t" region="bottomCenter" style="s1" xml:id="subtitle948"><font face="方正准雅宋_GBK" size="72"><font size="50"><font face="@方正准雅宋_GBK">{\an1}<font color="#ada8aa"><b>这家伙、是个好人</b></font></font></font></font></p>
+<p begin="37851300000t" end="37863400000t" region="bottomCenter" style="s1" xml:id="subtitle949"><font face="方正准雅宋_GBK" size="72"><font size="50"><font face="@方正准雅宋_GBK">{\an1}<font color="#ada8aa"><b>但不仅如此</b></font></font></font></font></p>
+<p begin="37851300000t" end="37863400000t" region="bottomCenter" style="s1" xml:id="subtitle950"><font face="方正准雅宋_GBK" size="72"><font size="60"><font face="@方正准雅宋_GBK">{\an1}<font color="#ada8aa"><b>还很强大</b></font></font></font></font></p>
+<p begin="37862200000t" end="37884800000t" region="bottomCenter" style="s1" xml:id="subtitle951"><font face="HGPMinchoE" size="36"><b>構わないわけないだろうが</b></font></p>
+<p begin="37862200000t" end="37884800000t" region="bottomCenter" style="s1" xml:id="subtitle952"><font face="方正准雅宋_GBK" size="54"><b>我怎么能不管啊</b></font></p>
+<p begin="37886800000t" end="37895500000t" region="bottomCenter" style="s1" xml:id="subtitle953"><font face="方正准雅宋_GBK" size="72"><font size="60"><font color="#ada8aa"><b>就在那时——我第一次</b></font></font></font></p>
+<p begin="37889100000t" end="37905300000t" region="bottomCenter" style="s1" xml:id="subtitle954"><font face="HGPMinchoE" size="36"><b>お前にも会えないんだったら</b></font></p>
+<p begin="37889100000t" end="37905300000t" region="bottomCenter" style="s1" xml:id="subtitle955"><font face="方正准雅宋_GBK" size="54"><b>要是见不到你</b></font></p>
+<p begin="37905400000t" end="37930600000t" region="bottomCenter" style="s1" xml:id="subtitle956"><font face="HGPMinchoE" size="36"><b>人間に戻ったってなんの意味もないんだよ</b></font></p>
+<p begin="37905400000t" end="37930600000t" region="bottomCenter" style="s1" xml:id="subtitle957"><font face="方正准雅宋_GBK" size="54"><b>那我还有什么必要变回人类啊</b></font></p>
+<p begin="37905500000t" end="37913000000t" region="bottomCenter" style="s1" xml:id="subtitle958"><font face="方正准雅宋_GBK" size="72"><font size="60"><font color="#ada8aa"><b>终于感到自己真正认识了羽川</b></font></font></font></p>
+<p begin="37923000000t" end="37931800000t" region="bottomCenter" style="s1" xml:id="subtitle959"><font face="方正准雅宋_GBK" size="72"><font size="60"><font color="#ada8aa"><b>没有擦肩而过 面对面相遇了</b></font></font></font></p>
+<p begin="37938400000t" end="37947000000t" region="bottomCenter" style="s1" xml:id="subtitle960"><font face="HGPMinchoE" size="36"><b>阿良々木君</b></font></p>
+<p begin="37938400000t" end="37947000000t" region="bottomCenter" style="s1" xml:id="subtitle961"><font face="方正准雅宋_GBK" size="54"><b>阿良良木</b></font></p>
+<p begin="37963500000t" end="37980700000t" region="bottomCenter" style="s1" xml:id="subtitle962"><font face="HGPMinchoE" size="36"><b>人間であることを諦めろ</b></font></p>
+<p begin="37963500000t" end="37980700000t" region="bottomCenter" style="s1" xml:id="subtitle963"><font face="方正准雅宋_GBK" size="54"><b>放弃变回人类吧</b></font></p>
+</div>
+</body>
+</tt>

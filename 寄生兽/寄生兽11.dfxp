@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="20000000t" end="40800000t" region="bottomCenter" style="s1" xml:id="subtitle0"><font face="微软雅黑" size="67"><b>不行 喝多了</b></font></p>
+<p begin="44600000t" end="60900000t" region="bottomCenter" style="s1" xml:id="subtitle1"><font face="微软雅黑" size="67"><b>那我先走了</b></font></p>
+<p begin="93800000t" end="105100000t" region="bottomCenter" style="s1" xml:id="subtitle2"><font face="微软雅黑" size="67"><b>等等啦</b></font></p>
+<p begin="106600000t" end="127600000t" region="bottomCenter" style="s1" xml:id="subtitle3"><font face="微软雅黑" size="67"><b>不要这么急着回去嘛</b></font></p>
+<p begin="140900000t" end="167200000t" region="bottomCenter" style="s1" xml:id="subtitle4"><font face="微软雅黑" size="67"><b>加藤君真是个又认真又帅气的人呢</b></font></p>
+<p begin="168500000t" end="188500000t" region="bottomCenter" style="s1" xml:id="subtitle5"><font face="微软雅黑" size="67"><b>真伤脑筋 呵呵</b></font></p>
+<p begin="189000000t" end="205600000t" region="bottomCenter" style="s1" xml:id="subtitle6"><font face="微软雅黑" size="67"><b>真是我喜欢的类型</b></font></p>
+<p begin="218900000t" end="231000000t" region="bottomCenter" style="s1" xml:id="subtitle7"><font face="微软雅黑" size="67"><b>你知道这个吗</b></font></p>
+<p begin="265600000t" end="292300000t" region="bottomCenter" style="s1" xml:id="subtitle8"><font face="微软雅黑" size="67"><b>不好意思 一下子拔了三根…</b></font></p>
+<p begin="407000000t" end="414500000t" region="bottomCenter" style="s1" xml:id="subtitle9"><font face="微软雅黑" size="67"><b>不是吧…</b></font></p>
+<p begin="427900000t" end="438700000t" region="bottomCenter" style="s1" xml:id="subtitle10"><font face="微软雅黑" size="67"><b>真伤脑筋</b></font></p>
+<p begin="584600000t" end="618100000t" region="bottomCenter" style="s1" xml:id="subtitle11"><font face="微软雅黑" size="67"><b>因为头发暴露了 来帮我一下</b></font></p>
+<p begin="623100000t" end="654800000t" region="bottomCenter" style="s1" xml:id="subtitle12"><font face="微软雅黑" size="67"><b>我不太喜欢参杂着酒精的肉啊</b></font></p>
+<p begin="752300000t" end="807800000t" region="bottomCenter" style="s1" xml:id="subtitle13"><font face="微软雅黑" size="50"><b>{\an8}You guys do not notice that we are gifted just by being humans</b></font></p>
+<p begin="752300000t" end="807800000t" region="bottomCenter" style="s1" xml:id="subtitle14"><font face="微软雅黑" size="53"><b>你们并未察觉 我们仅因为身为人类就已经获得了无上的眷顾</b></font></p>
+<p begin="807800000t" end="839900000t" region="bottomCenter" style="s1" xml:id="subtitle15"><font face="微软雅黑" size="50"><b>{\an8}We are absolute predators</b></font></p>
+<p begin="807800000t" end="839900000t" region="bottomCenter" style="s1" xml:id="subtitle16"><font face="微软雅黑" size="53"><b>我们是压倒性的捕猎者</b></font></p>
+<p begin="839900000t" end="856600000t" region="bottomCenter" style="s1" xml:id="subtitle17"><font face="微软雅黑" size="50"><b>{\an8}We do not even have any enemies</b></font></p>
+<p begin="839900000t" end="856600000t" region="bottomCenter" style="s1" xml:id="subtitle18"><font face="微软雅黑" size="53"><b>我们没有任何天敌</b></font></p>
+<p begin="856600000t" end="883300000t" region="bottomCenter" style="s1" xml:id="subtitle19"><font face="微软雅黑" size="50"><b>{\an8}We do not even have any enemies</b></font></p>
+<p begin="856600000t" end="883300000t" region="bottomCenter" style="s1" xml:id="subtitle20"><font face="微软雅黑" size="53"><b>我们没有任何天敌</b></font></p>
+<p begin="883300000t" end="909600000t" region="bottomCenter" style="s1" xml:id="subtitle21"><font face="微软雅黑" size="50"><b>{\an8}Maybe there are other animals watching us</b></font></p>
+<p begin="883300000t" end="909600000t" region="bottomCenter" style="s1" xml:id="subtitle22"><font face="微软雅黑" size="53"><b>也许暗处有异类正在窥视我们</b></font></p>
+<p begin="909600000t" end="915000000t" region="bottomCenter" style="s1" xml:id="subtitle23"><font face="微软雅黑" size="50"><b>{\an8}Maybe there are other animals watching us</b></font></p>
+<p begin="909600000t" end="915000000t" region="bottomCenter" style="s1" xml:id="subtitle24"><font face="微软雅黑" size="53"><b>也许暗处有异类正在窥视我们</b></font></p>
+<p begin="915000000t" end="962100000t" region="bottomCenter" style="s1" xml:id="subtitle25"><font face="微软雅黑" size="50"><b>{\an8}and thinking that someday "we will beat them down"</b></font></p>
+<p begin="915000000t" end="962100000t" region="bottomCenter" style="s1" xml:id="subtitle26"><font face="微软雅黑" size="53"><b>并企图有一天能将我们赶尽杀绝</b></font></p>
+<p begin="962100000t" end="995900000t" region="bottomCenter" style="s1" xml:id="subtitle27"><font face="微软雅黑" size="50"><b>{\an8}and thinking that someday "we will beat them down"</b></font></p>
+<p begin="962100000t" end="995900000t" region="bottomCenter" style="s1" xml:id="subtitle28"><font face="微软雅黑" size="53"><b>并企图有一天能将我们赶尽杀绝</b></font></p>
+<p begin="1062600000t" end="1092700000t" region="bottomCenter" style="s1" xml:id="subtitle29"><font face="微软雅黑" size="50"><b>{\an8}Oh We have the brains to think hard</b></font></p>
+<p begin="1062600000t" end="1092700000t" region="bottomCenter" style="s1" xml:id="subtitle30"><font face="微软雅黑" size="53"><b>我们有头脑去思考</b></font></p>
+<p begin="1092700000t" end="1106900000t" region="bottomCenter" style="s1" xml:id="subtitle31"><font face="微软雅黑" size="50"><b>{\an8}Wear our favorite clothes</b></font></p>
+<p begin="1092700000t" end="1106900000t" region="bottomCenter" style="s1" xml:id="subtitle32"><font face="微软雅黑" size="53"><b>可以穿喜欢的衣服</b></font></p>
+<p begin="1106900000t" end="1120600000t" region="bottomCenter" style="s1" xml:id="subtitle33"><font face="微软雅黑" size="50"><b>{\an8}Wear our favorite clothes</b></font></p>
+<p begin="1106900000t" end="1120600000t" region="bottomCenter" style="s1" xml:id="subtitle34"><font face="微软雅黑" size="53"><b>可以穿喜欢的衣服</b></font></p>
+<p begin="1120600000t" end="1157700000t" region="bottomCenter" style="s1" xml:id="subtitle35"><font face="微软雅黑" size="50"><b>{\an8}We are at no doubt human beings</b></font></p>
+<p begin="1120600000t" end="1157700000t" region="bottomCenter" style="s1" xml:id="subtitle36"><font face="微软雅黑" size="53"><b>我们无疑是人类</b></font></p>
+<p begin="1157700000t" end="1171500000t" region="bottomCenter" style="s1" xml:id="subtitle37"><font face="微软雅黑" size="50"><b>{\an8}Many small lives</b></font></p>
+<p begin="1157700000t" end="1171500000t" region="bottomCenter" style="s1" xml:id="subtitle38"><font face="微软雅黑" size="53"><b>许多渺小生灵</b></font></p>
+<p begin="1171500000t" end="1175700000t" region="bottomCenter" style="s1" xml:id="subtitle39"><font face="微软雅黑" size="50"><b>{\an8}They were born</b></font></p>
+<p begin="1171500000t" end="1175700000t" region="bottomCenter" style="s1" xml:id="subtitle40"><font face="微软雅黑" size="53"><b>它们降生于世</b></font></p>
+<p begin="1175700000t" end="1183600000t" region="bottomCenter" style="s1" xml:id="subtitle41"><font face="微软雅黑" size="50"><b>{\an8}They were born</b></font></p>
+<p begin="1175700000t" end="1183600000t" region="bottomCenter" style="s1" xml:id="subtitle42"><font face="微软雅黑" size="53"><b>它们降生于世</b></font></p>
+<p begin="1178600000t" end="1186900000t" region="bottomCenter" style="s1" xml:id="subtitle43"><font face="微软雅黑" size="50"><b>{\an8}<i>They were born</i></b></font></p>
+<p begin="1178600000t" end="1186900000t" region="bottomCenter" style="s1" xml:id="subtitle44"><font face="微软雅黑" size="53"><b>{\an3}<i>它们降生于世</i></b></font></p>
+<p begin="1183600000t" end="1186500000t" region="bottomCenter" style="s1" xml:id="subtitle45"><font face="微软雅黑" size="50"><b>{\an8}with the fate</b></font></p>
+<p begin="1183600000t" end="1186500000t" region="bottomCenter" style="s1" xml:id="subtitle46"><font face="微软雅黑" size="53"><b>就背负着</b></font></p>
+<p begin="1186500000t" end="1197400000t" region="bottomCenter" style="s1" xml:id="subtitle47"><font face="微软雅黑" size="50"><b>{\an8}with the fate</b></font></p>
+<p begin="1186500000t" end="1197400000t" region="bottomCenter" style="s1" xml:id="subtitle48"><font face="微软雅黑" size="53"><b>就背负着</b></font></p>
+<p begin="1191900000t" end="1201100000t" region="bottomCenter" style="s1" xml:id="subtitle49"><font face="微软雅黑" size="50"><b>{\an8}<i>with the fate</i></b></font></p>
+<p begin="1191900000t" end="1201100000t" region="bottomCenter" style="s1" xml:id="subtitle50"><font face="微软雅黑" size="53"><b>{\an3}<i>就背负着</i></b></font></p>
+<p begin="1197400000t" end="1204900000t" region="bottomCenter" style="s1" xml:id="subtitle51"><font face="微软雅黑" size="50"><b>{\an8}of dying for someone</b></font></p>
+<p begin="1197400000t" end="1204900000t" region="bottomCenter" style="s1" xml:id="subtitle52"><font face="微软雅黑" size="53"><b>要为某人而死去的命运</b></font></p>
+<p begin="1204900000t" end="1226600000t" region="bottomCenter" style="s1" xml:id="subtitle53"><font face="微软雅黑" size="50"><b>{\an8}of dying for someone</b></font></p>
+<p begin="1204900000t" end="1226600000t" region="bottomCenter" style="s1" xml:id="subtitle54"><font face="微软雅黑" size="53"><b>要为某人而死去的命运</b></font></p>
+<p begin="1206100000t" end="1237400000t" region="bottomCenter" style="s1" xml:id="subtitle55"><font face="微软雅黑" size="50"><b>{\an8}<i>of someone A human baby</i></b></font></p>
+<p begin="1206100000t" end="1237400000t" region="bottomCenter" style="s1" xml:id="subtitle56"><font face="微软雅黑" size="53"><b>{\an3}<i>为了某个人类婴儿</i></b></font></p>
+<p begin="1226600000t" end="1232800000t" region="bottomCenter" style="s1" xml:id="subtitle57"><font face="微软雅黑" size="50"><b>{\an8}of dying for someone</b></font></p>
+<p begin="1226600000t" end="1232800000t" region="bottomCenter" style="s1" xml:id="subtitle58"><font face="微软雅黑" size="53"><b>要为某人而死去的命运</b></font></p>
+<p begin="1232800000t" end="1251600000t" region="bottomCenter" style="s1" xml:id="subtitle59"><font face="微软雅黑" size="50"><b>{\an8}A human baby</b></font></p>
+<p begin="1232800000t" end="1251600000t" region="bottomCenter" style="s1" xml:id="subtitle60"><font face="微软雅黑" size="53"><b>人类的婴儿啊</b></font></p>
+<p begin="1251600000t" end="1281600000t" region="bottomCenter" style="s1" xml:id="subtitle61"><font face="微软雅黑" size="50"><b>{\an8}When will they find out</b></font></p>
+<p begin="1251600000t" end="1281600000t" region="bottomCenter" style="s1" xml:id="subtitle62"><font face="微软雅黑" size="53"><b>你们何时会发现</b></font></p>
+<p begin="1255800000t" end="1281600000t" region="bottomCenter" style="s1" xml:id="subtitle63"><font face="微软雅黑" size="50"><b>{\an8}<i>When will they find out the true fact yeah</i></b></font></p>
+<p begin="1255800000t" end="1281600000t" region="bottomCenter" style="s1" xml:id="subtitle64"><font face="微软雅黑" size="53"><b>{\an3}<i>你们何时会发现真相</i></b></font></p>
+<p begin="1285390000t" end="1333300000t" region="bottomCenter" style="s1" xml:id="subtitle65"><font face="微软雅黑" size="50"><b>{\an8}that at the point they were born, we are</b></font></p>
+<p begin="1285390000t" end="1333300000t" region="bottomCenter" style="s1" xml:id="subtitle66"><font face="微软雅黑" size="53"><b>在你们出生之时 我们</b></font></p>
+<p begin="1320400000t" end="1335800000t" region="bottomCenter" style="s1" xml:id="subtitle67"><font face="微软雅黑" size="50"><b>{\an8}<i>we are winners</i></b></font></p>
+<p begin="1320400000t" end="1335800000t" region="bottomCenter" style="s1" xml:id="subtitle68"><font face="微软雅黑" size="53"><b>{\an3}<i>我们就已经是胜利者</i></b></font></p>
+<p begin="1333300000t" end="1355900000t" region="bottomCenter" style="s1" xml:id="subtitle69"><font face="微软雅黑" size="50"><b>{\an8}(the)winners of Earth</b></font></p>
+<p begin="1333300000t" end="1355900000t" region="bottomCenter" style="s1" xml:id="subtitle70"><font face="微软雅黑" size="53"><b>地球的王者</b></font></p>
+<p begin="1360000000t" end="1458000000t" region="bottomCenter" style="s1" xml:id="subtitle71"><font face="微软雅黑" size="50"><b>{\an8}ああ　ひとり泣いていた　となりのきみがといかける</b></font></p>
+<p begin="1360000000t" end="1458000000t" region="bottomCenter" style="s1" xml:id="subtitle72"><font face="微软雅黑" size="53"><b>啊 一个人孤独哭泣 身旁的你向我询问</b></font></p>
+<p begin="1458000000t" end="1463000000t" region="bottomCenter" style="s1" xml:id="subtitle73"><font face="微软雅黑" size="50"><b>{\an8}ああ　ひとり泣いていた　となりのきみがといかける</b></font></p>
+<p begin="1458000000t" end="1463000000t" region="bottomCenter" style="s1" xml:id="subtitle74"><font face="微软雅黑" size="53"><b>啊 一个人孤独哭泣 身旁的你向我询问</b></font></p>
+<p begin="1467200000t" end="1539800000t" region="bottomCenter" style="s1" xml:id="subtitle75"><font face="微软雅黑" size="50"><b>{\an8}だから僕ら寄り添い生きる　煌くまで</b></font></p>
+<p begin="1467200000t" end="1539800000t" region="bottomCenter" style="s1" xml:id="subtitle76"><font face="微软雅黑" size="53"><b>所以我们相依而生 直到绽放光芒</b></font></p>
+<p begin="1539800000t" end="1549800000t" region="bottomCenter" style="s1" xml:id="subtitle77"><font face="微软雅黑" size="50"><b>{\an8}だから僕ら寄り添い生きる　煌くまで</b></font></p>
+<p begin="1539800000t" end="1549800000t" region="bottomCenter" style="s1" xml:id="subtitle78"><font face="微软雅黑" size="53"><b>所以我们相依而生 直到绽放光芒</b></font></p>
+<p begin="1541900000t" end="1561900000t" region="bottomCenter" style="s1" xml:id="subtitle79"><font face="微软雅黑" size="50"><b>{\an8}<i>For what have I been living for?</i></b></font></p>
+<p begin="1541900000t" end="1561900000t" region="bottomCenter" style="s1" xml:id="subtitle80"><font face="微软雅黑" size="53"><b>{\an3}<i>我究竟为了什么而活</i></b></font></p>
+<p begin="1549800000t" end="1553100000t" region="bottomCenter" style="s1" xml:id="subtitle81"><font face="微软雅黑" size="50"><b>{\an8}だから僕ら寄り添い生きる　煌くまで</b></font></p>
+<p begin="1549800000t" end="1553100000t" region="bottomCenter" style="s1" xml:id="subtitle82"><font face="微软雅黑" size="53"><b>所以我们相依而生 直到绽放光芒</b></font></p>
+<p begin="1553100000t" end="1561900000t" region="bottomCenter" style="s1" xml:id="subtitle83"><font face="微软雅黑" size="50"><b>{\an8}だから僕ら寄り添い生きる　煌くまで</b></font></p>
+<p begin="1553100000t" end="1561900000t" region="bottomCenter" style="s1" xml:id="subtitle84"><font face="微软雅黑" size="53"><b>所以我们相依而生 直到绽放光芒</b></font></p>
+<p begin="1561900000t" end="1564800000t" region="bottomCenter" style="s1" xml:id="subtitle85"><font face="微软雅黑" size="50"><b>{\an8}だから僕ら寄り添い生きる　煌くまで</b></font></p>
+<p begin="1561900000t" end="1564800000t" region="bottomCenter" style="s1" xml:id="subtitle86"><font face="微软雅黑" size="53"><b>所以我们相依而生 直到绽放光芒</b></font></p>
+<p begin="1561900000t" end="1574000000t" region="bottomCenter" style="s1" xml:id="subtitle87"><font face="微软雅黑" size="50"><b>{\an8}<i>When will I find out the answer?</i></b></font></p>
+<p begin="1561900000t" end="1574000000t" region="bottomCenter" style="s1" xml:id="subtitle88"><font face="微软雅黑" size="53"><b>{\an3}<i>何时才能找到答案</i></b></font></p>
+<p begin="1564800000t" end="1569800000t" region="bottomCenter" style="s1" xml:id="subtitle89"><font face="微软雅黑" size="50"><b>{\an8}だから僕ら寄り添い生きる　煌くまで</b></font></p>
+<p begin="1564800000t" end="1569800000t" region="bottomCenter" style="s1" xml:id="subtitle90"><font face="微软雅黑" size="53"><b>所以我们相依而生 直到绽放光芒</b></font></p>
+<p begin="1574000000t" end="1596900000t" region="bottomCenter" style="s1" xml:id="subtitle91"><font face="微软雅黑" size="50"><b>{\an8}<i>An answer that is only for you</i></b></font></p>
+<p begin="1574000000t" end="1596900000t" region="bottomCenter" style="s1" xml:id="subtitle92"><font face="微软雅黑" size="53"><b>{\an3}<i>一个只属于你的答案</i></b></font></p>
+<p begin="1596900000t" end="1646100000t" region="bottomCenter" style="s1" xml:id="subtitle93"><font face="微软雅黑" size="50"><b>{\an8}<i>What will myself and (the)</i></b></font></p>
+<p begin="2497000000t" end="2533200000t" region="bottomCenter" style="s1" xml:id="subtitle94"><font face="微软雅黑" size="67"><b>你是我的救命恩人</b></font></p>
+<p begin="2680700000t" end="2725000000t" region="bottomCenter" style="s1" xml:id="subtitle95"><font face="微软雅黑" size="48"><b>{\an7}<font face="微软雅黑"><font size="81"></font></font></b>stage:11<font face="仿宋"><font size="75"> 青   鸟</font></font></font></p>
+<p begin="2760100000t" end="2783100000t" region="bottomCenter" style="s1" xml:id="subtitle96"><font face="微软雅黑" size="67"><b>他竟然做出这种事</b></font></p>
+<p begin="2791400000t" end="2813500000t" region="bottomCenter" style="s1" xml:id="subtitle97"><font face="微软雅黑" size="67"><b>我和泉哪里像了</b></font></p>
+<p begin="2819800000t" end="2849800000t" region="bottomCenter" style="s1" xml:id="subtitle98"><font face="微软雅黑" size="67"><b>所以说 你所感觉到的那个东西</b></font></p>
+<p begin="2855200000t" end="2893200000t" region="bottomCenter" style="s1" xml:id="subtitle99"><font face="微软雅黑" size="67"><b>可能就是刚才那种危险的家伙发出的像电波一样的东西</b></font></p>
+<p begin="2907400000t" end="2926100000t" region="bottomCenter" style="s1" xml:id="subtitle100"><font face="微软雅黑" size="67"><b>难道 泉…</b></font></p>
+<p begin="3070000000t" end="3084200000t" region="bottomCenter" style="s1" xml:id="subtitle101"><font face="微软雅黑" size="67"><b>偷袭可不好</b></font></p>
+<p begin="3093400000t" end="3100100000t" region="bottomCenter" style="s1" xml:id="subtitle102"><font face="微软雅黑" size="67"><b>抱歉</b></font></p>
+<p begin="3127700000t" end="3153400000t" region="bottomCenter" style="s1" xml:id="subtitle103"><font face="微软雅黑" size="67"><b>要是想拔我头发的话 请随意</b></font></p>
+<p begin="3162900000t" end="3183500000t" region="bottomCenter" style="s1" xml:id="subtitle104"><font face="微软雅黑" size="67"><b>真的吗 那我不客气了</b></font></p>
+<p begin="3202700000t" end="3212300000t" region="bottomCenter" style="s1" xml:id="subtitle105"><font face="微软雅黑" size="67"><b>满意了吗</b></font></p>
+<p begin="3336100000t" end="3343600000t" region="bottomCenter" style="s1" xml:id="subtitle106"><font face="微软雅黑" size="67"><b>等等</b></font></p>
+<p begin="3369100000t" end="3397900000t" region="bottomCenter" style="s1" xml:id="subtitle107"><font face="微软雅黑" size="67"><b>之前你提醒过我要小心岛田吧</b></font></p>
+<p begin="3409000000t" end="3438300000t" region="bottomCenter" style="s1" xml:id="subtitle108"><font face="微软雅黑" size="67"><b>难道你一开始就知道岛田的真实身份吗</b></font></p>
+<p begin="3441700000t" end="3455000000t" region="bottomCenter" style="s1" xml:id="subtitle109"><font face="微软雅黑" size="67"><b>不 没有</b></font></p>
+<p begin="3462500000t" end="3501700000t" region="bottomCenter" style="s1" xml:id="subtitle110"><font face="微软雅黑" size="67"><b>说的也是 你怎么可能认识那种杀人魔</b></font></p>
+<p begin="3514200000t" end="3534700000t" region="bottomCenter" style="s1" xml:id="subtitle111"><font face="微软雅黑" size="67"><b>你怎么一脸凝重的表情</b></font></p>
+<p begin="3540900000t" end="3557600000t" region="bottomCenter" style="s1" xml:id="subtitle112"><font face="微软雅黑" size="67"><b>这个女孩是特别的</b></font></p>
+<p begin="3564500000t" end="3588500000t" region="bottomCenter" style="s1" xml:id="subtitle113"><font face="微软雅黑" size="67"><b>干脆把这一切都和她说清楚了…</b></font></p>
+<p begin="3598100000t" end="3623900000t" region="bottomCenter" style="s1" xml:id="subtitle114"><font face="微软雅黑" size="67"><b>但是 米奇现在醒着</b></font></p>
+<p begin="3636200000t" end="3674000000t" region="bottomCenter" style="s1" xml:id="subtitle115"><font face="微软雅黑" size="67"><b>新一 我知道你在想什么</b></font></p>
+<p begin="3679400000t" end="3713600000t" region="bottomCenter" style="s1" xml:id="subtitle116"><font face="微软雅黑" size="67"><b>但是那个女人 并不是我的同伴</b></font></p>
+<p begin="3733200000t" end="3744500000t" region="bottomCenter" style="s1" xml:id="subtitle117"><font face="微软雅黑" size="67"><b>你是叫加奈吧</b></font></p>
+<p begin="3814900000t" end="3858300000t" region="bottomCenter" style="s1" xml:id="subtitle118"><font face="微软雅黑" size="67"><b>你说你能通过不可思议的心灵感应感受到我的存在</b></font></p>
+<p begin="3865800000t" end="3896300000t" region="bottomCenter" style="s1" xml:id="subtitle119"><font face="微软雅黑" size="67"><b>但如果在哪里感应到了 千万不要贸然接近</b></font></p>
+<p begin="3899600000t" end="3908000000t" region="bottomCenter" style="s1" xml:id="subtitle120"><font face="微软雅黑" size="67"><b>为什么</b></font></p>
+<p begin="3911700000t" end="3940100000t" region="bottomCenter" style="s1" xml:id="subtitle121"><font face="微软雅黑" size="67"><b>过去的话 等着你的可能是怪物</b></font></p>
+<p begin="3946700000t" end="3955500000t" region="bottomCenter" style="s1" xml:id="subtitle122"><font face="微软雅黑" size="67"><b>怪物？</b></font></p>
+<p begin="3963400000t" end="3968400000t" region="bottomCenter" style="s1" xml:id="subtitle123"><font face="微软雅黑" size="67"><b>是的</b></font></p>
+<p begin="3972600000t" end="3987200000t" region="bottomCenter" style="s1" xml:id="subtitle124"><font face="微软雅黑" size="67"><b>为什么这么说呢</b></font></p>
+<p begin="3993000000t" end="4013500000t" region="bottomCenter" style="s1" xml:id="subtitle125"><font face="微软雅黑" size="67"><b>泉不是普通的人类吗</b></font></p>
+<p begin="4026000000t" end="4036000000t" region="bottomCenter" style="s1" xml:id="subtitle126"><font face="微软雅黑" size="67"><b>那是当然</b></font></p>
+<p begin="4047700000t" end="4094800000t" region="bottomCenter" style="s1" xml:id="subtitle127"><font face="微软雅黑" size="67"><b>那我要是感应到了谁 就拔他一根头发</b></font></p>
+<p begin="4098100000t" end="4116900000t" region="bottomCenter" style="s1" xml:id="subtitle128"><font face="微软雅黑" size="67"><b>然后就能知道那个人是不是怪物了</b></font></p>
+<p begin="4123200000t" end="4143600000t" region="bottomCenter" style="s1" xml:id="subtitle129"><font face="微软雅黑" size="67"><b>不行 绝对不可以这么做</b></font></p>
+<p begin="4158200000t" end="4168600000t" region="bottomCenter" style="s1" xml:id="subtitle130"><font face="微软雅黑" size="67"><b>你怎么了</b></font></p>
+<p begin="4184100000t" end="4190300000t" region="bottomCenter" style="s1" xml:id="subtitle131"><font face="微软雅黑" size="67"><b>抱歉</b></font></p>
+<p begin="4196600000t" end="4213300000t" region="bottomCenter" style="s1" xml:id="subtitle132"><font face="微软雅黑" size="67"><b>但是这样做真的很危险</b></font></p>
+<p begin="4218300000t" end="4237400000t" region="bottomCenter" style="s1" xml:id="subtitle133"><font face="微软雅黑" size="67"><b>你在担心我</b></font></p>
+<p begin="4248300000t" end="4262900000t" region="bottomCenter" style="s1" xml:id="subtitle134"><font face="微软雅黑" size="67"><b>有点开心呢</b></font></p>
+<p begin="4278800000t" end="4287500000t" region="bottomCenter" style="s1" xml:id="subtitle135"><font face="微软雅黑" size="67"><b>新一</b></font></p>
+<p begin="4305800000t" end="4321300000t" region="bottomCenter" style="s1" xml:id="subtitle136"><font face="微软雅黑" size="67"><b>我有话要和你说</b></font></p>
+<p begin="4330000000t" end="4340500000t" region="bottomCenter" style="s1" xml:id="subtitle137"><font face="微软雅黑" size="67"><b>我还有点事</b></font></p>
+<p begin="4343000000t" end="4352100000t" region="bottomCenter" style="s1" xml:id="subtitle138"><font face="微软雅黑" size="67"><b>抱歉 回头见</b></font></p>
+<p begin="4409500000t" end="4423900000t" region="bottomCenter" style="s1" xml:id="subtitle139"><font face="微软雅黑" size="67"><b>咦 你是…</b></font></p>
+<p begin="4432600000t" end="4441800000t" region="bottomCenter" style="s1" xml:id="subtitle140"><font face="微软雅黑" size="67"><b>你好</b></font></p>
+<p begin="4454300000t" end="4482300000t" region="bottomCenter" style="s1" xml:id="subtitle141"><font face="微软雅黑" size="67"><b>新一 不要再和那个女人说话了</b></font></p>
+<p begin="4487300000t" end="4500200000t" region="bottomCenter" style="s1" xml:id="subtitle142"><font face="微软雅黑" size="67"><b>这可不行</b></font></p>
+<p begin="4504100000t" end="4538200000t" region="bottomCenter" style="s1" xml:id="subtitle143"><font face="微软雅黑" size="67"><b>要是这样置若罔闻的话 她肯定会遇到危险的</b></font></p>
+<p begin="4540200000t" end="4591600000t" region="bottomCenter" style="s1" xml:id="subtitle144"><font face="微软雅黑" size="67"><b>但是 你的措辞在只言片语中就让人感到漏洞百出</b></font></p>
+<p begin="4597400000t" end="4605700000t" region="bottomCenter" style="s1" xml:id="subtitle145"><font face="微软雅黑" size="67"><b>我会小心的</b></font></p>
+<p begin="4611200000t" end="4621600000t" region="bottomCenter" style="s1" xml:id="subtitle146"><font face="微软雅黑" size="67"><b>必须小心</b></font></p>
+<p begin="4634900000t" end="4672000000t" region="bottomCenter" style="s1" xml:id="subtitle147"><font face="微软雅黑" size="67"><b>那个 突然问你这种事也许有些奇怪</b></font></p>
+<p begin="4677500000t" end="4683700000t" region="bottomCenter" style="s1" xml:id="subtitle148"><font face="微软雅黑" size="67"><b>什么</b></font></p>
+<p begin="4688300000t" end="4727100000t" region="bottomCenter" style="s1" xml:id="subtitle149"><font face="微软雅黑" size="67"><b>你不觉得 泉和以前比起来变了好多吗</b></font></p>
+<p begin="4740900000t" end="4760900000t" region="bottomCenter" style="s1" xml:id="subtitle150"><font face="微软雅黑" size="67"><b>和以前比起来…</b></font></p>
+<p begin="4768400000t" end="4790900000t" region="bottomCenter" style="s1" xml:id="subtitle151"><font face="微软雅黑" size="67"><b>就算你这么问 我也不是经常和他碰面</b></font></p>
+<p begin="4800200000t" end="4826400000t" region="bottomCenter" style="s1" xml:id="subtitle152"><font face="微软雅黑" size="67"><b>你最初遇到他的时候和现在的他比呢</b></font></p>
+<p begin="4851400000t" end="4861800000t" region="bottomCenter" style="s1" xml:id="subtitle153"><font face="微软雅黑" size="67"><b>你们吵架了吗</b></font></p>
+<p begin="4871000000t" end="4893100000t" region="bottomCenter" style="s1" xml:id="subtitle154"><font face="微软雅黑" size="67"><b>你喜欢他吧</b></font></p>
+<p begin="4901400000t" end="4924400000t" region="bottomCenter" style="s1" xml:id="subtitle155"><font face="微软雅黑" size="67"><b>总觉得他和以前有些不一样了</b></font></p>
+<p begin="4929400000t" end="4949800000t" region="bottomCenter" style="s1" xml:id="subtitle156"><font face="微软雅黑" size="67"><b>虽然说起话来又感觉好像没怎么变</b></font></p>
+<p begin="5001500000t" end="5018200000t" region="bottomCenter" style="s1" xml:id="subtitle157"><font face="微软雅黑" size="67"><b>他是我的救命恩人</b></font></p>
+<p begin="5022100000t" end="5032400000t" region="bottomCenter" style="s1" xml:id="subtitle158"><font face="微软雅黑" size="67"><b>救命恩人？</b></font></p>
+<p begin="5036600000t" end="5052400000t" region="bottomCenter" style="s1" xml:id="subtitle159"><font face="微软雅黑" size="67"><b>你也做了那样的梦吗</b></font></p>
+<p begin="5063300000t" end="5069500000t" region="bottomCenter" style="s1" xml:id="subtitle160"><font face="微软雅黑" size="67"><b>梦？</b></font></p>
+<p begin="5083300000t" end="5093300000t" region="bottomCenter" style="s1" xml:id="subtitle161"><font face="微软雅黑" size="67"><b>没什么</b></font></p>
+<p begin="5101200000t" end="5117100000t" region="bottomCenter" style="s1" xml:id="subtitle162"><font face="微软雅黑" size="67"><b>我不清楚</b></font></p>
+<p begin="5122700000t" end="5146690000t" region="bottomCenter" style="s1" xml:id="subtitle163"><font face="微软雅黑" size="67"><b>感觉一开始遇到他的时候他就是这样的</b></font></p>
+<p begin="5154600000t" end="5181690000t" region="bottomCenter" style="s1" xml:id="subtitle164"><font face="微软雅黑" size="67"><b>隐隐约约感觉他很不同于常人呢</b></font></p>
+<p begin="5236400000t" end="5271400000t" region="bottomCenter" style="s1" xml:id="subtitle165"><font face="微软雅黑" size="67"><b>总是阴沉着一张脸 可是会把他吓跑的哦</b></font></p>
+<p begin="5308100000t" end="5327300000t" region="bottomCenter" style="s1" xml:id="subtitle166"><font face="微软雅黑" size="67"><b>或许我也有机会</b></font></p>
+<p begin="5420300000t" end="5433600000t" region="bottomCenter" style="s1" xml:id="subtitle167"><font face="微软雅黑" size="67"><b>我10分钟后就回来</b></font></p>
+<p begin="5436600000t" end="5443700000t" region="bottomCenter" style="s1" xml:id="subtitle168"><font face="微软雅黑" size="67"><b>明白了</b></font></p>
+<p begin="5449600000t" end="5489500000t" region="bottomCenter" style="s1" xml:id="subtitle169"><font face="微软雅黑" size="67"><b>可是 你就不能穿得普通些吗</b></font></p>
+<p begin="5496000000t" end="5509600000t" region="bottomCenter" style="s1" xml:id="subtitle170"><font face="微软雅黑" size="67"><b>反正都会弄脏</b></font></p>
+<p begin="5578000000t" end="5587100000t" region="bottomCenter" style="s1" xml:id="subtitle171"><font face="微软雅黑" size="67"><b>有什么事吗</b></font></p>
+<p begin="5589600000t" end="5603000000t" region="bottomCenter" style="s1" xml:id="subtitle172"><font face="微软雅黑" size="67"><b>里面有几个人</b></font></p>
+<p begin="5604600000t" end="5643400000t" region="bottomCenter" style="s1" xml:id="subtitle173"><font face="微软雅黑" size="67"><b>你这家伙脑子有问题吧 趁没被打残之前赶紧滚吧</b></font></p>
+<p begin="5646400000t" end="5676400000t" region="bottomCenter" style="s1" xml:id="subtitle174"><font face="微软雅黑" size="67"><b>原来如此 黑道还真是好斗呢</b></font></p>
+<p begin="5698500000t" end="5713100000t" region="bottomCenter" style="s1" xml:id="subtitle175"><font face="微软雅黑" size="67"><b>偶尔也会有像你这样的人呢</b></font></p>
+<p begin="5716800000t" end="5768600000t" region="bottomCenter" style="s1" xml:id="subtitle176"><font face="微软雅黑" size="67"><b>自以为有了暴力团对策法的保护 黑道就不敢对普通市民动手…</b></font></p>
+<p begin="5851600000t" end="5861200000t" region="bottomCenter" style="s1" xml:id="subtitle177"><font face="微软雅黑" size="67"><b>你谁啊</b></font></p>
+<p begin="5882800000t" end="5891200000t" region="bottomCenter" style="s1" xml:id="subtitle178"><font face="微软雅黑" size="67"><b>怎 怎么了</b></font></p>
+<p begin="5934600000t" end="5947500000t" region="bottomCenter" style="s1" xml:id="subtitle179"><font face="微软雅黑" size="67"><b>这家伙是什么来头</b></font></p>
+<p begin="6387900000t" end="6407500000t" region="bottomCenter" style="s1" xml:id="subtitle180"><font face="微软雅黑" size="67"><b>怎么了 放马来啊</b></font></p>
+<p begin="6533100000t" end="6541000000t" region="bottomCenter" style="s1" xml:id="subtitle181"><font face="微软雅黑" size="67"><b>一</b></font></p>
+<p begin="6542200000t" end="6562700000t" region="bottomCenter" style="s1" xml:id="subtitle182"><font face="微软雅黑" size="67"><b>你 你这个怪物</b></font></p>
+<p begin="6668200000t" end="6674000000t" region="bottomCenter" style="s1" xml:id="subtitle183"><font face="微软雅黑" size="67"><b>二</b></font></p>
+<p begin="6733700000t" end="6744100000t" region="bottomCenter" style="s1" xml:id="subtitle184"><font face="微软雅黑" size="67"><b>得手了</b></font></p>
+<p begin="6754500000t" end="6768300000t" region="bottomCenter" style="s1" xml:id="subtitle185"><font face="微软雅黑" size="67"><b>三…吗</b></font></p>
+<p begin="6779100000t" end="6787100000t" region="bottomCenter" style="s1" xml:id="subtitle186"><font face="微软雅黑" size="67"><b>不可能</b></font></p>
+<p begin="6794200000t" end="6814200000t" region="bottomCenter" style="s1" xml:id="subtitle187"><font face="微软雅黑" size="67"><b>没能躲开的攻击有三次</b></font></p>
+<p begin="6817500000t" end="6834600000t" region="bottomCenter" style="s1" xml:id="subtitle188"><font face="微软雅黑" size="67"><b>反正 也就这样了</b></font></p>
+<p begin="6840900000t" end="6854600000t" region="bottomCenter" style="s1" xml:id="subtitle189"><font face="微软雅黑" size="67"><b>怪 怪物…</b></font></p>
+<p begin="6879300000t" end="6897200000t" region="bottomCenter" style="s1" xml:id="subtitle190"><font face="微软雅黑" size="67"><b>你 你到底是什么</b></font></p>
+<p begin="6904700000t" end="6915500000t" region="bottomCenter" style="s1" xml:id="subtitle191"><font face="微软雅黑" size="67"><b>这是实验</b></font></p>
+<p begin="6919600000t" end="6967300000t" region="bottomCenter" style="s1" xml:id="subtitle192"><font face="微软雅黑" size="67"><b>为了测试面对持刀枪的团伙 我到底能打到什么程度</b></font></p>
+<p begin="6987700000t" end="6999800000t" region="bottomCenter" style="s1" xml:id="subtitle193"><font face="微软雅黑" size="67"><b>那边发生什么了吗</b></font></p>
+<p begin="7004400000t" end="7029000000t" region="bottomCenter" style="s1" xml:id="subtitle194"><font face="微软雅黑" size="67"><b>有尸体 头都被砸烂了</b></font></p>
+<p begin="7032000000t" end="7050700000t" region="bottomCenter" style="s1" xml:id="subtitle195"><font face="微软雅黑" size="67"><b>刚才还有枪声</b></font></p>
+<p begin="7054800000t" end="7061900000t" region="bottomCenter" style="s1" xml:id="subtitle196"><font face="微软雅黑" size="67"><b>真假？</b></font></p>
+<p begin="7145400000t" end="7152000000t" region="bottomCenter" style="s1" xml:id="subtitle197"><font face="微软雅黑" size="67"><b>他跑了</b></font></p>
+<p begin="7154100000t" end="7162000000t" region="bottomCenter" style="s1" xml:id="subtitle198"><font face="微软雅黑" size="67"><b>快追</b></font></p>
+<p begin="7232900000t" end="7248800000t" region="bottomCenter" style="s1" xml:id="subtitle199"><font face="微软雅黑" size="67"><b>怎么回事 人不见了</b></font></p>
+<p begin="7253800000t" end="7272100000t" region="bottomCenter" style="s1" xml:id="subtitle200"><font face="微软雅黑" size="67"><b>真奇怪 明明是往这边跑了</b></font></p>
+<p begin="7274200000t" end="7318000000t" region="bottomCenter" style="s1" xml:id="subtitle201"><font face="微软雅黑" size="67"><b>还是算了吧 要是被卷入了黑道之间的团伙纠纷就麻烦了</b></font></p>
+<p begin="7327200000t" end="7346000000t" region="bottomCenter" style="s1" xml:id="subtitle202"><font face="微软雅黑" size="67"><b>还是先报警吧</b></font></p>
+<p begin="7355500000t" end="7370200000t" region="bottomCenter" style="s1" xml:id="subtitle203"><font face="微软雅黑" size="67"><b>已经有人报过警了吧</b></font></p>
+<p begin="7376800000t" end="7384300000t" region="bottomCenter" style="s1" xml:id="subtitle204"><font face="微软雅黑" size="67"><b>好吧</b></font></p>
+<p begin="7531600000t" end="7540700000t" region="bottomCenter" style="s1" xml:id="subtitle205"><font face="微软雅黑" size="67"><b>怎么了</b></font></p>
+<p begin="7549500000t" end="7576600000t" region="bottomCenter" style="s1" xml:id="subtitle206"><font face="微软雅黑" size="67"><b>没什么 只是感觉和刚才反差有些大</b></font></p>
+<p begin="7610000000t" end="7628800000t" region="bottomCenter" style="s1" xml:id="subtitle207"><font face="微软雅黑" size="67"><b>暴力团伙事务所内发生杀人事件</b></font></p>
+<p begin="7634000000t" end="7646300000t" region="bottomCenter" style="s1" xml:id="subtitle208"><font face="微软雅黑" size="67"><b>22人死亡</b></font></p>
+<p begin="7648800000t" end="7684600000t" region="bottomCenter" style="s1" xml:id="subtitle209"><font face="微软雅黑" size="67"><b>事务所内所有成员全部死亡</b></font></p>
+<p begin="7692100000t" end="7730100000t" region="bottomCenter" style="s1" xml:id="subtitle210"><font face="微软雅黑" size="67"><b>感觉最近接二连三地发生可怕的事件呢</b></font></p>
+<p begin="7734300000t" end="7739300000t" region="bottomCenter" style="s1" xml:id="subtitle211"><font face="微软雅黑" size="67"><b>嗯</b></font></p>
+<p begin="7744600000t" end="7757200000t" region="bottomCenter" style="s1" xml:id="subtitle212"><font face="微软雅黑" size="67"><b>寄生生物吗</b></font></p>
+<p begin="7762600000t" end="7801000000t" region="bottomCenter" style="s1" xml:id="subtitle213"><font face="微软雅黑" size="67"><b>不对 它们除了捕食应该不会这样杀人</b></font></p>
+<p begin="7844800000t" end="7885700000t" region="bottomCenter" style="s1" xml:id="subtitle214"><font face="微软雅黑" size="67"><b>另外 警视厅刚刚召开了紧急记者发布会</b></font></p>
+<p begin="7888600000t" end="7945300000t" region="bottomCenter" style="s1" xml:id="subtitle215"><font face="微软雅黑" size="67"><b>表示要将拍摄到从案发现场离开的可疑男性的监视录像公开</b></font></p>
+<p begin="8018700000t" end="8037500000t" region="bottomCenter" style="s1" xml:id="subtitle216"><font face="微软雅黑" size="67"><b>你弄出的动静可不小啊</b></font></p>
+<p begin="8041200000t" end="8070000000t" region="bottomCenter" style="s1" xml:id="subtitle217"><font face="微软雅黑" size="67"><b>是个不错的热身运动 老板</b></font></p>
+<p begin="8110200000t" end="8118000000t" region="bottomCenter" style="s1" xml:id="subtitle218"><font face="微软雅黑" size="67"><b>小泉</b></font></p>
+<p begin="8127600000t" end="8141800000t" region="bottomCenter" style="s1" xml:id="subtitle219"><font face="微软雅黑" size="67"><b>谢谢你能来</b></font></p>
+<p begin="8146400000t" end="8177600000t" region="bottomCenter" style="s1" xml:id="subtitle220"><font face="微软雅黑" size="67"><b>不 我这边才要谢谢你邀请我</b></font></p>
+<p begin="8217700000t" end="8224800000t" region="bottomCenter" style="s1" xml:id="subtitle221"><font face="微软雅黑" size="67"><b>接下来做什么</b></font></p>
+<p begin="8232700000t" end="8250600000t" region="bottomCenter" style="s1" xml:id="subtitle222"><font face="微软雅黑" size="67"><b>总之先去看场电影吧</b></font></p>
+<p begin="8387800000t" end="8425800000t" region="bottomCenter" style="s1" xml:id="subtitle223"><font face="微软雅黑" size="67"><b>我还是会经常梦到那天的事情</b></font></p>
+<p begin="8433300000t" end="8468300000t" region="bottomCenter" style="s1" xml:id="subtitle224"><font face="微软雅黑" size="67"><b>每次梦到 就算醒了以后身体也止不住颤抖</b></font></p>
+<p begin="8477500000t" end="8495900000t" region="bottomCenter" style="s1" xml:id="subtitle225"><font face="微软雅黑" size="67"><b>小泉不会有这种时候吗</b></font></p>
+<p begin="8502100000t" end="8512100000t" region="bottomCenter" style="s1" xml:id="subtitle226"><font face="微软雅黑" size="67"><b>偶尔也会</b></font></p>
+<p begin="8517600000t" end="8545900000t" region="bottomCenter" style="s1" xml:id="subtitle227"><font face="微软雅黑" size="67"><b>不过一到早晨就基本全忘了</b></font></p>
+<p begin="8553000000t" end="8563900000t" region="bottomCenter" style="s1" xml:id="subtitle228"><font face="微软雅黑" size="67"><b>真好呢</b></font></p>
+<p begin="8569700000t" end="8621000000t" region="bottomCenter" style="s1" xml:id="subtitle229"><font face="微软雅黑" size="67"><b>我做的梦都是彩色的 记得十分清楚</b></font></p>
+<p begin="8652300000t" end="8675600000t" region="bottomCenter" style="s1" xml:id="subtitle230"><font face="微软雅黑" size="67"><b>我的一个朋友曾经对我说过</b></font></p>
+<p begin="8682300000t" end="8713600000t" region="bottomCenter" style="s1" xml:id="subtitle231"><font face="微软雅黑" size="67"><b>如果把人类和猪或牛放在同一级别看待</b></font></p>
+<p begin="8723200000t" end="8767400000t" region="bottomCenter" style="s1" xml:id="subtitle232"><font face="微软雅黑" size="67"><b>这么想的话 反正人类每天都在吃动物的尸块</b></font></p>
+<p begin="8772600000t" end="8797400000t" region="bottomCenter" style="s1" xml:id="subtitle233"><font face="微软雅黑" size="67"><b>事到如今也没什么好怕的了</b></font></p>
+<p begin="8818700000t" end="8830000000t" region="bottomCenter" style="s1" xml:id="subtitle234"><font face="微软雅黑" size="67"><b>真是独特的思考方式</b></font></p>
+<p begin="8837000000t" end="8854100000t" region="bottomCenter" style="s1" xml:id="subtitle235"><font face="微软雅黑" size="67"><b>你的那个朋友是什么样的人</b></font></p>
+<p begin="8876200000t" end="8890400000t" region="bottomCenter" style="s1" xml:id="subtitle236"><font face="微软雅黑" size="67"><b>与其说是人…</b></font></p>
+<p begin="8898800000t" end="8938400000t" region="bottomCenter" style="s1" xml:id="subtitle237"><font face="微软雅黑" size="67"><b>是因为受了那个朋友的影响 小泉才变了吗</b></font></p>
+<p begin="8940300000t" end="8966300000t" region="bottomCenter" style="s1" xml:id="subtitle238"><font face="微软雅黑" size="67"><b>我觉得不是吧</b></font></p>
+<p begin="8985900000t" end="9021000000t" region="bottomCenter" style="s1" xml:id="subtitle239"><font face="微软雅黑" size="67"><b>抱歉 虽说变了点但我也没有太介意…</b></font></p>
+<p begin="9043100000t" end="9065600000t" region="bottomCenter" style="s1" xml:id="subtitle240"><font face="微软雅黑" size="67"><b>果然是从那个时候开始的吧</b></font></p>
+<p begin="9077300000t" end="9109800000t" region="bottomCenter" style="s1" xml:id="subtitle241"><font face="微软雅黑" size="67"><b>其实小泉自从那天走了以后还没有…</b></font></p>
+<p begin="9139000000t" end="9192000000t" region="bottomCenter" style="s1" xml:id="subtitle242"><font face="微软雅黑" size="67"><b>小泉 以前你父亲在旅行的时候受了伤 然后…</b></font></p>
+<p begin="9213700000t" end="9220300000t" region="bottomCenter" style="s1" xml:id="subtitle243"><font face="微软雅黑" size="67"><b>走吧</b></font></p>
+<p begin="9250800000t" end="9277100000t" region="bottomCenter" style="s1" xml:id="subtitle244"><font face="微软雅黑" size="67"><b>看来我问了不该问的事</b></font></p>
+<p begin="9373000000t" end="9383000000t" region="bottomCenter" style="s1" xml:id="subtitle245"><font face="微软雅黑" size="67"><b>好可爱</b></font></p>
+<p begin="9393000000t" end="9400500000t" region="bottomCenter" style="s1" xml:id="subtitle246"><font face="微软雅黑" size="67"><b>过来</b></font></p>
+<p begin="9480600000t" end="9491900000t" region="bottomCenter" style="s1" xml:id="subtitle247"><font face="微软雅黑" size="67"><b>是它的母亲呢</b></font></p>
+<p begin="9496800000t" end="9503500000t" region="bottomCenter" style="s1" xml:id="subtitle248"><font face="微软雅黑" size="67"><b>好像是呢</b></font></p>
+<p begin="9506900000t" end="9524400000t" region="bottomCenter" style="s1" xml:id="subtitle249"><font face="微软雅黑" size="67"><b>一对流浪狗母子？</b></font></p>
+<p begin="9531900000t" end="9554400000t" region="bottomCenter" style="s1" xml:id="subtitle250"><font face="微软雅黑" size="67"><b>看来不是 还戴着项圈呢</b></font></p>
+<p begin="9594900000t" end="9602400000t" region="bottomCenter" style="s1" xml:id="subtitle251"><font face="微软雅黑" size="67"><b>小泉？</b></font></p>
+<p begin="9620700000t" end="9655800000t" region="bottomCenter" style="s1" xml:id="subtitle252"><font face="微软雅黑" size="67"><b>今天天气真好呢 也不怎么冷</b></font></p>
+<p begin="9660800000t" end="9679100000t" region="bottomCenter" style="s1" xml:id="subtitle253"><font face="微软雅黑" size="67"><b>你像个老头一样</b></font></p>
+<p begin="9688800000t" end="9697500000t" region="bottomCenter" style="s1" xml:id="subtitle254"><font face="微软雅黑" size="67"><b>好过分啊</b></font></p>
+<p begin="9702100000t" end="9720000000t" region="bottomCenter" style="s1" xml:id="subtitle255"><font face="微软雅黑" size="67"><b>妈妈</b></font></p>
+<p begin="9726300000t" end="9760000000t" region="bottomCenter" style="s1" xml:id="subtitle256"><font face="微软雅黑" size="67"><b>妈妈 等等我啊</b></font></p>
+<p begin="9773000000t" end="9790100000t" region="bottomCenter" style="s1" xml:id="subtitle257"><font face="微软雅黑" size="67"><b>快走吧</b></font></p>
+<p begin="9813400000t" end="9821800000t" region="bottomCenter" style="s1" xml:id="subtitle258"><font face="微软雅黑" size="67"><b>快点</b></font></p>
+<p begin="9853500000t" end="9885200000t" region="bottomCenter" style="s1" xml:id="subtitle259"><font face="微软雅黑" size="67"><b>妈妈你这个笨蛋</b></font></p>
+<p begin="9887300000t" end="9896800000t" region="bottomCenter" style="s1" xml:id="subtitle260"><font face="微软雅黑" size="67"><b>为什么</b></font></p>
+<p begin="9911400000t" end="9927300000t" region="bottomCenter" style="s1" xml:id="subtitle261"><font face="微软雅黑" size="67"><b>为什么说妈妈是笨蛋</b></font></p>
+<p begin="9933600000t" end="9952300000t" region="bottomCenter" style="s1" xml:id="subtitle262"><font face="微软雅黑" size="67"><b>我最讨厌妈妈了</b></font></p>
+<p begin="9963600000t" end="9992800000t" region="bottomCenter" style="s1" xml:id="subtitle263"><font face="微软雅黑" size="67"><b>我 我也…</b></font></p>
+<p begin="10019100000t" end="10037800000t" region="bottomCenter" style="s1" xml:id="subtitle264"><font face="微软雅黑" size="67"><b>妈妈去死吧</b></font></p>
+<p begin="10125800000t" end="10140800000t" region="bottomCenter" style="s1" xml:id="subtitle265"><font face="微软雅黑" size="67"><b>我们走吧</b></font></p>
+<p begin="10176700000t" end="10185500000t" region="bottomCenter" style="s1" xml:id="subtitle266"><font face="微软雅黑" size="67"><b>小泉</b></font></p>
+<p begin="10195100000t" end="10201300000t" region="bottomCenter" style="s1" xml:id="subtitle267"><font face="微软雅黑" size="67"><b>是洞</b></font></p>
+<p begin="10209700000t" end="10222200000t" region="bottomCenter" style="s1" xml:id="subtitle268"><font face="微软雅黑" size="67"><b>被开了一个洞</b></font></p>
+<p begin="10236400000t" end="10243390000t" region="bottomCenter" style="s1" xml:id="subtitle269"><font face="微软雅黑" size="67"><b>洞？</b></font></p>
+<p begin="10261400000t" end="10279300000t" region="bottomCenter" style="s1" xml:id="subtitle270"><font face="微软雅黑" size="67"><b>你怎么了 没事吧</b></font></p>
+<p begin="10290600000t" end="10313100000t" region="bottomCenter" style="s1" xml:id="subtitle271"><font face="微软雅黑" size="67"><b>没事 只是突然有点喘不上气</b></font></p>
+<p begin="10328190000t" end="10340200000t" region="bottomCenter" style="s1" xml:id="subtitle272"><font face="微软雅黑" size="67"><b>上年纪了吧</b></font></p>
+<p begin="10349000000t" end="10381090000t" region="bottomCenter" style="s1" xml:id="subtitle273"><font face="微软雅黑" size="67"><b>别这样 真的像个老头似的</b></font></p>
+<p begin="10414000000t" end="10452800000t" region="bottomCenter" style="s1" xml:id="subtitle274"><font face="微软雅黑" size="67"><b>有时候 自己会被心如刀割般的回忆所占据</b></font></p>
+<p begin="10467400000t" end="10488300000t" region="bottomCenter" style="s1" xml:id="subtitle275"><font face="微软雅黑" size="67"><b>但是不久就自动痊愈了</b></font></p>
+<p begin="10503300000t" end="10551700000t" region="bottomCenter" style="s1" xml:id="subtitle276"><font face="微软雅黑" size="67"><b>每当这时候 我就会意识到米奇的一部分已经混入了我的心</b></font></p>
+<p begin="10571900000t" end="10599600000t" region="bottomCenter" style="s1" xml:id="subtitle277"><font face="微软雅黑" size="67"><b>但是我很喜欢她</b></font></p>
+<p begin="10613000000t" end="10624200000t" region="bottomCenter" style="s1" xml:id="subtitle278"><font face="微软雅黑" size="67"><b>想好好珍惜她</b></font></p>
+<p begin="10644300000t" end="10683900000t" region="bottomCenter" style="s1" xml:id="subtitle279"><font face="微软雅黑" size="67"><b>这一点毫无疑问 是我自己内心的感情</b></font></p>
+<p begin="10706000000t" end="10728900000t" region="bottomCenter" style="s1" xml:id="subtitle280"><font face="微软雅黑" size="67"><b>在我和她在一起的时光</b></font></p>
+<p begin="10739700000t" end="10788200000t" region="bottomCenter" style="s1" xml:id="subtitle281"><font face="微软雅黑" size="67"><b>真希望你能一直沉睡 米奇</b></font></p>
+<p begin="11014600000t" end="11021700000t" region="bottomCenter" style="s1" xml:id="subtitle282"><font face="微软雅黑" size="67"><b>那么回头见</b></font></p>
+<p begin="11111000000t" end="11145200000t" region="bottomCenter" style="s1" xml:id="subtitle283"><font face="微软雅黑" size="67"><b>你是泉新一 对吧</b></font></p>
+<p begin="11205300000t" end="11269100000t" region="bottomCenter" style="s1" xml:id="subtitle284"><font face="微软雅黑" size="67"><b>如果我们的关系能更早一些变得更好一些的话</b></font></p>
+<p begin="11292800000t" end="11364100000t" region="bottomCenter" style="s1" xml:id="subtitle285"><font face="微软雅黑" size="67"><b>那么刚才 我也就能坚信你毫无疑问就是泉新一了</b></font></p>
+<p begin="11428600000t" end="11461700000t" region="bottomCenter" style="s1" xml:id="subtitle286"><font face="微软雅黑" size="67"><b>我真傻啊 自己一开始不就明白吗</b></font></p>
+<p begin="11508900000t" end="11513000000t" region="bottomCenter" style="s1" xml:id="subtitle287"><font face="微软雅黑" size="67"><b>但是</b></font></p>
+<p begin="11612300000t" end="11632800000t" region="bottomCenter" style="s1" xml:id="subtitle288"><font face="微软雅黑" size="67"><b>为什么要特意去见她</b></font></p>
+<p begin="11634800000t" end="11673200000t" region="bottomCenter" style="s1" xml:id="subtitle289"><font face="微软雅黑" size="67"><b>别人都说是最后一个请求了 怎么可以不去</b></font></p>
+<p begin="11676500000t" end="11693200000t" region="bottomCenter" style="s1" xml:id="subtitle290"><font face="微软雅黑" size="67"><b>我无法理解</b></font></p>
+<p begin="11758100000t" end="11773700000t" region="bottomCenter" style="s1" xml:id="subtitle291"><font face="微软雅黑" size="67"><b>来得有点太早了吗</b></font></p>
+<p begin="11786200000t" end="11799600000t" region="bottomCenter" style="s1" xml:id="subtitle292"><font face="微软雅黑" size="67"><b>新一 有同类</b></font></p>
+<p begin="11808800000t" end="11841300000t" region="bottomCenter" style="s1" xml:id="subtitle293"><font face="微软雅黑" size="67"><b>而且不是一个 三… 不 五</b></font></p>
+<p begin="11845900000t" end="11859600000t" region="bottomCenter" style="s1" xml:id="subtitle294"><font face="微软雅黑" size="67"><b>到底有几只啊</b></font></p>
+<p begin="11865500000t" end="11872200000t" region="bottomCenter" style="s1" xml:id="subtitle295"><font face="微软雅黑" size="67"><b>在那边</b></font></p>
+<p begin="11880100000t" end="11921000000t" region="bottomCenter" style="s1" xml:id="subtitle296"><font face="微软雅黑" size="63"><b>{\an8}需要做出改变的是我们每个人的意识</b></font></p>
+<p begin="11927600000t" end="11959700000t" region="bottomCenter" style="s1" xml:id="subtitle297"><font face="微软雅黑" size="63"><b>{\an8}现在环境保护已发展成全球性运动</b></font></p>
+<p begin="11948500000t" end="11975200000t" region="bottomCenter" style="s1" xml:id="subtitle298"><font face="微软雅黑" size="67"><b>对方好像也察觉到我们了 但没有采取行动</b></font></p>
+<p begin="11962200000t" end="11984800000t" region="bottomCenter" style="s1" xml:id="subtitle299"><font face="微软雅黑" size="63"><b>{\an8}演变成了一种流行趋势</b></font></p>
+<p begin="11981400000t" end="12023600000t" region="bottomCenter" style="s1" xml:id="subtitle300"><font face="微软雅黑" size="67"><b>我发觉我们现在就像鬼太郎和他老爸似的</b></font></p>
+<p begin="11992000000t" end="12034800000t" region="bottomCenter" style="s1" xml:id="subtitle301"><font face="微软雅黑" size="63"><b>{\an8}但要说个人的力量真的能具体做些什么</b></font></p>
+<p begin="12038600000t" end="12056100000t" region="bottomCenter" style="s1" xml:id="subtitle302"><font face="微软雅黑" size="67"><b>距离大约60米</b></font></p>
+<p begin="12042700000t" end="12073200000t" region="bottomCenter" style="s1" xml:id="subtitle303"><font face="微软雅黑" size="63"><b>{\an8}政策又有多少能付诸于实际行动的话</b></font></p>
+<p begin="12059800000t" end="12071100000t" region="bottomCenter" style="s1" xml:id="subtitle304"><font face="微软雅黑" size="67"><b>一共八个人</b></font></p>
+<p begin="12075100000t" end="12088600000t" region="bottomCenter" style="s1" xml:id="subtitle305"><font face="微软雅黑" size="67"><b>下面有两个</b></font></p>
+<p begin="12079000000t" end="12128200000t" region="bottomCenter" style="s1" xml:id="subtitle306"><font face="微软雅黑" size="63"><b>{\an8}与冠冕堂皇的社论相反 现实情况很不尽如人意</b></font></p>
+<p begin="12091600000t" end="12124100000t" region="bottomCenter" style="s1" xml:id="subtitle307"><font face="微软雅黑" size="67"><b>上面 站在台子还是什么上面的有六个人</b></font></p>
+<p begin="12136200000t" end="12171200000t" region="bottomCenter" style="s1" xml:id="subtitle308"><font face="微软雅黑" size="63"><b>{\an8}只为了让大气少受到一点污染人们能舍弃私家车吗</b></font></p>
+<p begin="12174500000t" end="12210000000t" region="bottomCenter" style="s1" xml:id="subtitle309"><font face="微软雅黑" size="63"><b>{\an8}在现在的文明之路上走回头路难如登天</b></font></p>
+<p begin="12215000000t" end="12254600000t" region="bottomCenter" style="s1" xml:id="subtitle310"><font face="微软雅黑" size="63"><b>{\an8}但是某些领域不回归的话地球就危在旦夕</b></font></p>
+<p begin="12234200000t" end="12259200000t" region="bottomCenter" style="s1" xml:id="subtitle311"><font face="微软雅黑" size="67"><b>上面那六个人 全都是？</b></font></p>
+<p begin="12261300000t" end="12276300000t" region="bottomCenter" style="s1" xml:id="subtitle312"><font face="微软雅黑" size="67"><b>而且下面还有两人</b></font></p>
+<p begin="12264900000t" end="12310500000t" region="bottomCenter" style="s1" xml:id="subtitle313"><font face="微软雅黑" size="63"><b>{\an8}顺着惯性随波逐流是因为没有远见</b></font></p>
+<p begin="12278400000t" end="12315900000t" region="bottomCenter" style="s1" xml:id="subtitle314"><font face="微软雅黑" size="67"><b>虽然在这个距离很难辨认 但也许一对上目光就知道了</b></font></p>
+<p begin="12315500000t" end="12353100000t" region="bottomCenter" style="s1" xml:id="subtitle315"><font face="微软雅黑" size="63"><b>{\an8}虽然向人们展示悲观的未来前景 说着「以后就会变成这样」</b></font></p>
+<p begin="12355200000t" end="12388900000t" region="bottomCenter" style="s1" xml:id="subtitle316"><font face="微软雅黑" size="63"><b>{\an8}以恐吓来获得成效或许也是一种方法</b></font></p>
+<p begin="12392300000t" end="12443600000t" region="bottomCenter" style="s1" xml:id="subtitle317"><font face="微软雅黑" size="63"><b>{\an8}但我更喜欢跟人们说「这样做的话 世界就会变得如此美好」</b></font></p>
+<p begin="12417700000t" end="12426000000t" region="bottomCenter" style="s1" xml:id="subtitle318"><font face="微软雅黑" size="67"><b>被发现了吗</b></font></p>
+<p begin="12428500000t" end="12444800000t" region="bottomCenter" style="s1" xml:id="subtitle319"><font face="微软雅黑" size="67"><b>不 在这种人群里…</b></font></p>
+<p begin="12447000000t" end="12474000000t" region="bottomCenter" style="s1" xml:id="subtitle320"><font face="微软雅黑" size="63"><b>{\an8}向人们展示一个理想乡的宏图</b></font></p>
+<p begin="12447700000t" end="12457700000t" region="bottomCenter" style="s1" xml:id="subtitle321"><font face="微软雅黑" size="67"><b>已经被看到了</b></font></p>
+<p begin="12463600000t" end="12474800000t" region="bottomCenter" style="s1" xml:id="subtitle322"><font face="微软雅黑" size="67"><b>目光对上了</b></font></p>
+<p begin="12477800000t" end="12502800000t" region="bottomCenter" style="s1" xml:id="subtitle323"><font face="微软雅黑" size="67"><b>不过他们好像对我们没多大兴趣</b></font></p>
+<p begin="12479800000t" end="12532000000t" region="bottomCenter" style="s1" xml:id="subtitle324"><font face="微软雅黑" size="63"><b>{\an8}当然 这必须是一个大家都能接受的现实的计划</b></font></p>
+<p begin="12507800000t" end="12539900000t" region="bottomCenter" style="s1" xml:id="subtitle325"><font face="微软雅黑" size="67"><b>有意思的东西也都看了 总之先撤退吧</b></font></p>
+<p begin="12536300000t" end="12586600000t" region="bottomCenter" style="s1" xml:id="subtitle326"><font face="微软雅黑" size="63"><b>{\an8}这样的话 人们就不会被眼前的便利所迷惑束缚</b></font></p>
+<p begin="12542300000t" end="12549100000t" region="bottomCenter" style="s1" xml:id="subtitle327"><font face="微软雅黑" size="67"><b>好</b></font></p>
+<p begin="12568400000t" end="12588300000t" region="bottomCenter" style="s1" xml:id="subtitle328"><font face="微软雅黑" size="67"><b>寄生生物在竞选市长？</b></font></p>
+<p begin="12588600000t" end="12618300000t" region="bottomCenter" style="s1" xml:id="subtitle329"><font face="微软雅黑" size="63"><b>{\an8}敢于另辟蹊径用新方式思考问题</b></font></p>
+<p begin="12593700000t" end="12607900000t" region="bottomCenter" style="s1" xml:id="subtitle330"><font face="微软雅黑" size="67"><b>到底在想些什么</b></font></p>
+<p begin="12608300000t" end="12616700000t" region="bottomCenter" style="s1" xml:id="subtitle331"><font face="微软雅黑" size="67"><b>啊 泉</b></font></p>
+<p begin="12626200000t" end="12678400000t" region="bottomCenter" style="s1" xml:id="subtitle332"><font face="微软雅黑" size="63"><b>{\an8}或者说 能给人们思考一下这些问题的余地</b></font></p>
+<p begin="12637500000t" end="12650400000t" region="bottomCenter" style="s1" xml:id="subtitle333"><font face="微软雅黑" size="67"><b>为什么你会在这里</b></font></p>
+<p begin="12651700000t" end="12685900000t" region="bottomCenter" style="s1" xml:id="subtitle334"><font face="微软雅黑" size="67"><b>什么为什么 我就住在这一带</b></font></p>
+<p begin="12683500000t" end="12734700000t" region="bottomCenter" style="s1" xml:id="subtitle335"><font face="微软雅黑" size="63"><b>{\an8}有人可能认为 这不过是个市长竞选 说这些都是杞人忧天</b></font></p>
+<p begin="12690200000t" end="12710100000t" region="bottomCenter" style="s1" xml:id="subtitle336"><font face="微软雅黑" size="67"><b>而且不是我把你叫到这里来的吗</b></font></p>
+<p begin="12717300000t" end="12728400000t" region="bottomCenter" style="s1" xml:id="subtitle337"><font face="微软雅黑" size="67"><b>也对啊</b></font></p>
+<p begin="12737800000t" end="12757600000t" region="bottomCenter" style="s1" xml:id="subtitle338"><font face="微软雅黑" size="63"><b>{\an8}但对于环境问题</b></font></p>
+<p begin="12761500000t" end="12777200000t" region="bottomCenter" style="s1" xml:id="subtitle339"><font face="微软雅黑" size="63"><b>{\an8}眼下比起国家政策</b></font></p>
+<p begin="12777200000t" end="12837300000t" region="bottomCenter" style="s1" xml:id="subtitle340"><font face="微软雅黑" size="63"><b>{\an8}更需要的是各个市町村级政府 出台切实的治理政策…</b></font></p>
+<p begin="12809300000t" end="12819400000t" region="bottomCenter" style="s1" xml:id="subtitle341"><font face="微软雅黑" size="67"><b>这下糟了</b></font></p>
+<p begin="12854500000t" end="12959600000t" region="bottomCenter" style="s1" xml:id="subtitle342"><font face="仿宋" size="44" color="#030006"><b>{\an8}いつか君が教えてくれた あの言葉が</b></font></p>
+<p begin="12854500000t" end="12959600000t" region="bottomCenter" style="s1" xml:id="subtitle343"><font face="仿宋" size="44" color="#030006"><b>你曾告诉过我的话</b></font></p>
+<p begin="12966200000t" end="13065900000t" region="bottomCenter" style="s1" xml:id="subtitle344"><font face="仿宋" size="44" color="#030006"><b>{\an8}広い海を迷わず進む 希望になる</b></font></p>
+<p begin="12966200000t" end="13065900000t" region="bottomCenter" style="s1" xml:id="subtitle345"><font face="仿宋" size="44" color="#030006"><b>成为我在大海中坚定地前行的希望</b></font></p>
+<p begin="13071400000t" end="13164800000t" region="bottomCenter" style="s1" xml:id="subtitle346"><font face="仿宋" size="44" color="#030006"><b>{\an8}形のない答えに 戸惑う日も</b></font></p>
+<p begin="13071400000t" end="13164800000t" region="bottomCenter" style="s1" xml:id="subtitle347"><font face="仿宋" size="44" color="#030006"><b>在我迷失方向四处彷徨的日子</b></font></p>
+<p begin="13167300000t" end="13230300000t" region="bottomCenter" style="s1" xml:id="subtitle348"><font face="仿宋" size="44" color="#030006"><b>{\an8}小さな声で そっとつぶやくのさ</b></font></p>
+<p begin="13167300000t" end="13230300000t" region="bottomCenter" style="s1" xml:id="subtitle349"><font face="仿宋" size="44" color="#030006"><b>轻声呢喃</b></font></p>
+<p begin="13233200000t" end="13297400000t" region="bottomCenter" style="s1" xml:id="subtitle350"><font face="仿宋" size="44" color="#030006"><b>{\an8}君と僕に 聞こえる声で</b></font></p>
+<p begin="13233200000t" end="13297400000t" region="bottomCenter" style="s1" xml:id="subtitle351"><font face="仿宋" size="44" color="#030006"><b>用只有你我能听到的声音</b></font></p>
+<p begin="13297400000t" end="13332400000t" region="bottomCenter" style="s1" xml:id="subtitle352"><font face="仿宋" size="44" color="#030006"><b>{\an8}And it's the right time</b></font></p>
+<p begin="13297400000t" end="13332400000t" region="bottomCenter" style="s1" xml:id="subtitle353"><font face="仿宋" size="44" color="#030006"><b>And it's the right time</b></font></p>
+<p begin="13332400000t" end="13352500000t" region="bottomCenter" style="s1" xml:id="subtitle354"><font face="仿宋" size="44" color="#030006"><b>{\an8}歩き出そう</b></font></p>
+<p begin="13332400000t" end="13352500000t" region="bottomCenter" style="s1" xml:id="subtitle355"><font face="仿宋" size="44" color="#030006"><b>迈出脚步吧</b></font></p>
+<p begin="13353700000t" end="13387100000t" region="bottomCenter" style="s1" xml:id="subtitle356"><font face="仿宋" size="44" color="#030006"><b>{\an8}Yeah it's the right time</b></font></p>
+<p begin="13353700000t" end="13387100000t" region="bottomCenter" style="s1" xml:id="subtitle357"><font face="仿宋" size="44" color="#030006"><b>Yeah it's the right time</b></font></p>
+<p begin="13390400000t" end="13412100000t" region="bottomCenter" style="s1" xml:id="subtitle358"><font face="仿宋" size="44" color="#030006"><b>{\an8}恐れないで</b></font></p>
+<p begin="13390400000t" end="13412100000t" region="bottomCenter" style="s1" xml:id="subtitle359"><font face="仿宋" size="44" color="#030006"><b>不要畏惧</b></font></p>
+<p begin="13414200000t" end="13474700000t" region="bottomCenter" style="s1" xml:id="subtitle360"><font face="仿宋" size="44" color="#030006"><b>{\an8}ほら あの丘を越えた場所へ</b></font></p>
+<p begin="13414200000t" end="13474700000t" region="bottomCenter" style="s1" xml:id="subtitle361"><font face="仿宋" size="44" color="#030006"><b>来吧 让我们一起越过那座山丘</b></font></p>
+<p begin="13482200000t" end="13531800000t" region="bottomCenter" style="s1" xml:id="subtitle362"><font face="仿宋" size="44" color="#030006"><b>{\an8}共にどこまでも</b></font></p>
+<p begin="13482200000t" end="13531800000t" region="bottomCenter" style="s1" xml:id="subtitle363"><font face="仿宋" size="44" color="#030006"><b>永远相守</b></font></p>
+<p begin="13510000000t" end="13550500000t" region="bottomCenter" style="s1" xml:id="subtitle364"><font face="微软雅黑" size="50" color="#000000"><b><b><font size="48"><font face="仿宋"><font color="#000000">诸神字幕组</font></font></font></b></b></font></p>
+<p begin="13510000000t" end="13550500000t" region="bottomCenter" style="s1" xml:id="subtitle365"><font face="微软雅黑" size="50" color="#000000"><b><font face="Times New Roman"><b><i><font color="#000000">kamigami.org</font></i></b></font></b></font></p>
+<p begin="13658900000t" end="13700700000t" region="bottomCenter" style="s1" xml:id="subtitle366"><font face="微软雅黑" size="48"><b>{\an7}<font face="微软雅黑"></font></b><font color="#c22848">sta<font color="#c22848">ge<font color="#c22848">:<font color="#c22848">12   <font color="#c22848"><font color="#c22848"><font color="#c22848"><font color="#c22848"> 心<font color="#c22848"></font></font></font></font></font></font></font></font></font></font></p>
+<p begin="13659800000t" end="13686900000t" region="bottomCenter" style="s1" xml:id="subtitle367"><font face="微软雅黑" size="67"><b>下一话 「心」</b></font></p>
+</div>
+</body>
+</tt>
