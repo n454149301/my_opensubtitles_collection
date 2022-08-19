@@ -6,6 +6,7 @@ import glob
 import time
 from datetime import datetime
 
+# offset=-118500
 offset=0
 
 def str_data_to_num(str_data):
@@ -43,6 +44,7 @@ except FileExistsError:
     pass
 
 for filepath in files:
+    print("start: ", filepath)
 
     filesArray = filepath.split("/")
     fileName = filesArray[len(filesArray) - 1]

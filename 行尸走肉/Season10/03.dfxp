@@ -1,0 +1,875 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="20000000t" end="45830000t" region="bottomCenter" style="s1" xml:id="subtitle0">(时钟滴答声)</p>
+<p begin="46670000t" end="70420000t" region="bottomCenter" style="s1" xml:id="subtitle1">♪♪</p>
+<p begin="71250000t" end="135000000t" region="bottomCenter" style="s1" xml:id="subtitle2">(风车吱吱作响)</p>
+<p begin="135830000t" end="164580000t" region="bottomCenter" style="s1" xml:id="subtitle3">(计时器铃声响起)</p>
+<p begin="165420000t" end="231670000t" region="bottomCenter" style="s1" xml:id="subtitle4">♪♪</p>
+<p begin="232500000t" end="277920000t" region="bottomCenter" style="s1" xml:id="subtitle5">(药丸咯咯作响)</p>
+<p begin="278750000t" end="307500000t" region="bottomCenter" style="s1" xml:id="subtitle6">♪♪</p>
+<p begin="308330000t" end="333330000t" region="bottomCenter" style="s1" xml:id="subtitle7">(门尖叫)</p>
+<p begin="334170000t" end="358750000t" region="bottomCenter" style="s1" xml:id="subtitle8">♪♪</p>
+<p begin="359580000t" end="383750000t" region="bottomCenter" style="s1" xml:id="subtitle9">(步行者在远处咆哮)</p>
+<p begin="384580000t" end="420420000t" region="bottomCenter" style="s1" xml:id="subtitle10">♪♪</p>
+<p begin="421250000t" end="457080000t" region="bottomCenter" style="s1" xml:id="subtitle11">♪♪</p>
+<p begin="457920000t" end="479170000t" region="bottomCenter" style="s1" xml:id="subtitle12">(步行者咆哮)</p>
+<p begin="480000000t" end="491670000t" region="bottomCenter" style="s1" xml:id="subtitle13">(咆哮停止)</p>
+<p begin="492500000t" end="506670000t" region="bottomCenter" style="s1" xml:id="subtitle14">♪♪</p>
+<p begin="507500000t" end="521250000t" region="bottomCenter" style="s1" xml:id="subtitle15">驾！</p>
+<p begin="522080000t" end="547920000t" region="bottomCenter" style="s1" xml:id="subtitle16">(笑)</p>
+<p begin="548750000t" end="567920000t" region="bottomCenter" style="s1" xml:id="subtitle17">(步行者咆哮)</p>
+<p begin="568750000t" end="632500000t" region="bottomCenter" style="s1" xml:id="subtitle18">♪♪</p>
+<p begin="633330000t" end="676670000t" region="bottomCenter" style="s1" xml:id="subtitle19">♪♪</p>
+<p begin="677500000t" end="702920000t" region="bottomCenter" style="s1" xml:id="subtitle20">(行尸咆哮)</p>
+<p begin="703750000t" end="728750000t" region="bottomCenter" style="s1" xml:id="subtitle21">(咆哮停止)</p>
+<p begin="729580000t" end="750420000t" region="bottomCenter" style="s1" xml:id="subtitle22">(喘气)</p>
+<p begin="751250000t" end="770420000t" region="bottomCenter" style="s1" xml:id="subtitle23">(呻吟)</p>
+<p begin="771250000t" end="817920000t" region="bottomCenter" style="s1" xml:id="subtitle24">♪♪</p>
+<p begin="818750000t" end="865420000t" region="bottomCenter" style="s1" xml:id="subtitle25">♪♪</p>
+<p begin="866250000t" end="906250000t" region="bottomCenter" style="s1" xml:id="subtitle26">♪♪</p>
+<p begin="907080000t" end="947500000t" region="bottomCenter" style="s1" xml:id="subtitle27">♪♪</p>
+<p begin="948330000t" end="965000000t" region="bottomCenter" style="s1" xml:id="subtitle28">(步行者在远处咆哮)</p>
+<p begin="965830000t" end="986670000t" region="bottomCenter" style="s1" xml:id="subtitle29">他们一直从<br />边界的方向。</p>
+<p begin="987500000t" end="1018330000t" region="bottomCenter" style="s1" xml:id="subtitle30">只是一个常数<br />一波又一波。</p>
+<p begin="1019170000t" end="1032080000t" region="bottomCenter" style="s1" xml:id="subtitle31">就是她。</p>
+<p begin="1032920000t" end="1053750000t" region="bottomCenter" style="s1" xml:id="subtitle32">你知道你的训练。<br />封锁现场。</p>
+<p begin="1054580000t" end="1083330000t" region="bottomCenter" style="s1" xml:id="subtitle33">♪♪</p>
+<p begin="1084170000t" end="1117080000t" region="bottomCenter" style="s1" xml:id="subtitle34">(步行者在远处咆哮)</p>
+<p begin="1117920000t" end="1157500000t" region="bottomCenter" style="s1" xml:id="subtitle35">♪♪</p>
+<p begin="1158330000t" end="1197500000t" region="bottomCenter" style="s1" xml:id="subtitle36">♪♪</p>
+<p begin="1198330000t" end="1242080000t" region="bottomCenter" style="s1" xml:id="subtitle37">(步行者咆哮)</p>
+<p begin="1242920000t" end="1262920000t" region="bottomCenter" style="s1" xml:id="subtitle38">又来了！</p>
+<p begin="1263750000t" end="1277500000t" region="bottomCenter" style="s1" xml:id="subtitle39">♪♪</p>
+<p begin="1278330000t" end="1301250000t" region="bottomCenter" style="s1" xml:id="subtitle40">(模糊的叫喊声,<br />行尸咆哮)</p>
+<p begin="1312080000t" end="1327080000t" region="bottomCenter" style="s1" xml:id="subtitle41">有更多人进来了！</p>
+<p begin="1327920000t" end="1347920000t" region="bottomCenter" style="s1" xml:id="subtitle42">(模糊的叫喊声)</p>
+<p begin="1348750000t" end="1398750000t" region="bottomCenter" style="s1" xml:id="subtitle43">♪♪</p>
+<p begin="1399580000t" end="1462920000t" region="bottomCenter" style="s1" xml:id="subtitle44">(模糊的叫喊声)</p>
+<p begin="1463750000t" end="1479170000t" region="bottomCenter" style="s1" xml:id="subtitle45">(喘气)</p>
+<p begin="1480000000t" end="1505000000t" region="bottomCenter" style="s1" xml:id="subtitle46">(行尸咆哮)</p>
+<p begin="1505830000t" end="1519580000t" region="bottomCenter" style="s1" xml:id="subtitle47">(咆哮停止)</p>
+<p begin="1520420000t" end="1570830000t" region="bottomCenter" style="s1" xml:id="subtitle48">(喘气)</p>
+<p begin="1571670000t" end="1595830000t" region="bottomCenter" style="s1" xml:id="subtitle49">♪♪</p>
+<p begin="1596670000t" end="1645000000t" region="bottomCenter" style="s1" xml:id="subtitle50">(剑格格作响)</p>
+<p begin="1645830000t" end="1670000000t" region="bottomCenter" style="s1" xml:id="subtitle51">睡觉是不明智的<br />除非是安全的。</p>
+<p begin="1670830000t" end="1695000000t" region="bottomCenter" style="s1" xml:id="subtitle52">没有。</p>
+<p begin="1695830000t" end="1727920000t" region="bottomCenter" style="s1" xml:id="subtitle53">不是的。</p>
+<p begin="1747500000t" end="1770000000t" region="bottomCenter" style="s1" xml:id="subtitle54">怎么样？</p>
+<p begin="1770830000t" end="1794580000t" region="bottomCenter" style="s1" xml:id="subtitle55">“好吧”什么？</p>
+<p begin="1795420000t" end="1810420000t" region="bottomCenter" style="s1" xml:id="subtitle56">安全吗？</p>
+<p begin="1811250000t" end="1835000000t" region="bottomCenter" style="s1" xml:id="subtitle57">(对讲机点击)<br />米琼恩，收到了吗</p>
+<p begin="1835830000t" end="1864170000t" region="bottomCenter" style="s1" xml:id="subtitle58">(叹气)</p>
+<p begin="1865000000t" end="1933330000t" region="bottomCenter" style="s1" xml:id="subtitle59">♪♪</p>
+<p begin="1934170000t" end="1961670000t" region="bottomCenter" style="s1" xml:id="subtitle60">(步行者在远处咆哮)</p>
+<p begin="1962500000t" end="2011670000t" region="bottomCenter" style="s1" xml:id="subtitle61">♪♪</p>
+<p begin="2012500000t" end="2061670000t" region="bottomCenter" style="s1" xml:id="subtitle62">♪♪</p>
+<p begin="2062500000t" end="2111670000t" region="bottomCenter" style="s1" xml:id="subtitle63">♪♪</p>
+<p begin="2112500000t" end="2148750000t" region="bottomCenter" style="s1" xml:id="subtitle64">(步行者在远处咆哮)</p>
+<p begin="2149580000t" end="2198750000t" region="bottomCenter" style="s1" xml:id="subtitle65">♪♪</p>
+<p begin="2199580000t" end="2248750000t" region="bottomCenter" style="s1" xml:id="subtitle66">♪♪</p>
+<p begin="2249580000t" end="2298750000t" region="bottomCenter" style="s1" xml:id="subtitle67">♪♪</p>
+<p begin="2299580000t" end="2349170000t" region="bottomCenter" style="s1" xml:id="subtitle68">♪♪</p>
+<p begin="2350000000t" end="2399170000t" region="bottomCenter" style="s1" xml:id="subtitle69">♪♪</p>
+<p begin="2400000000t" end="2449170000t" region="bottomCenter" style="s1" xml:id="subtitle70">♪♪</p>
+<p begin="2450000000t" end="2499170000t" region="bottomCenter" style="s1" xml:id="subtitle71">♪♪</p>
+<p begin="2500000000t" end="2549170000t" region="bottomCenter" style="s1" xml:id="subtitle72">♪♪</p>
+<p begin="2550000000t" end="2588330000t" region="bottomCenter" style="s1" xml:id="subtitle73">♪♪</p>
+<p begin="2589160000t" end="2628330000t" region="bottomCenter" style="s1" xml:id="subtitle74">♪♪</p>
+<p begin="2677920000t" end="2702080000t" region="bottomCenter" style="s1" xml:id="subtitle75">多久了<br />till the next wave hits?</p>
+<p begin="2702920000t" end="2736670000t" region="bottomCenter" style="s1" xml:id="subtitle76">从北边走一小时,<br />南边来了两个。</p>
+<p begin="2737500000t" end="2759170000t" region="bottomCenter" style="s1" xml:id="subtitle77">北波更强<br />比农场狗身上的跳蚤还要好,</p>
+<p begin="2760000000t" end="2780420000t" region="bottomCenter" style="s1" xml:id="subtitle78">而是南方人的<br />更分散。</p>
+<p begin="2781250000t" end="2794580000t" region="bottomCenter" style="s1" xml:id="subtitle79">据我估计,</p>
+<p begin="2795420000t" end="2815000000t" region="bottomCenter" style="s1" xml:id="subtitle80">我们会战斗<br />再次进入黑夜。</p>
+<p begin="2815830000t" end="2830000000t" region="bottomCenter" style="s1" xml:id="subtitle81">Yeah, can't push 'em<br />太远了。</p>
+<p begin="2830830000t" end="2854170000t" region="bottomCenter" style="s1" xml:id="subtitle82">我有眼睛。</p>
+<p begin="2855000000t" end="2883330000t" region="bottomCenter" style="s1" xml:id="subtitle83">抱歉，我只是累了。</p>
+<p begin="2884170000t" end="2895420000t" region="bottomCenter" style="s1" xml:id="subtitle84">我们都是。</p>
+<p begin="2930000000t" end="2962920000t" region="bottomCenter" style="s1" xml:id="subtitle85">(昆虫鸣叫)</p>
+<p begin="2963750000t" end="2995000000t" region="bottomCenter" style="s1" xml:id="subtitle86">♪♪</p>
+<p begin="2995830000t" end="3029170000t" region="bottomCenter" style="s1" xml:id="subtitle87">嘿，小心。</p>
+<p begin="3030000000t" end="3042500000t" region="bottomCenter" style="s1" xml:id="subtitle88">♪♪</p>
+<p begin="3043330000t" end="3072080000t" region="bottomCenter" style="s1" xml:id="subtitle89">(苍蝇嗡嗡声)</p>
+<p begin="3072920000t" end="3122080000t" region="bottomCenter" style="s1" xml:id="subtitle90">♪♪</p>
+<p begin="3122920000t" end="3165830000t" region="bottomCenter" style="s1" xml:id="subtitle91">♪♪</p>
+<p begin="3166670000t" end="3188330000t" region="bottomCenter" style="s1" xml:id="subtitle92">北部边境。<br />现在。</p>
+<p begin="3189170000t" end="3212920000t" region="bottomCenter" style="s1" xml:id="subtitle93">叫你的丧尸走开。<br />不是我们。</p>
+<p begin="3213750000t" end="3225420000t" region="bottomCenter" style="s1" xml:id="subtitle94">是啊，没错。</p>
+<p begin="3226250000t" end="3240420000t" region="bottomCenter" style="s1" xml:id="subtitle95">没有。</p>
+<p begin="3241250000t" end="3253750000t" region="bottomCenter" style="s1" xml:id="subtitle96">我们。</p>
+<p begin="3254580000t" end="3268750000t" region="bottomCenter" style="s1" xml:id="subtitle97">♪♪</p>
+<p begin="3269580000t" end="3288330000t" region="bottomCenter" style="s1" xml:id="subtitle98">去边境,<br />放下武器,</p>
+<p begin="3289170000t" end="3300830000t" region="bottomCenter" style="s1" xml:id="subtitle99">等待</p>
+<p begin="3301670000t" end="3313750000t" region="bottomCenter" style="s1" xml:id="subtitle100">等什么？</p>
+<p begin="3314580000t" end="3342920000t" region="bottomCenter" style="s1" xml:id="subtitle101">她。</p>
+<p begin="3343750000t" end="3372080000t" region="bottomCenter" style="s1" xml:id="subtitle102">(苍蝇嗡嗡声)</p>
+<p begin="3372920000t" end="3409580000t" region="bottomCenter" style="s1" xml:id="subtitle103">(模糊的对话)</p>
+<p begin="3444580000t" end="3457500000t" region="bottomCenter" style="s1" xml:id="subtitle104">太好了！</p>
+<p begin="3474580000t" end="3495000000t" region="bottomCenter" style="s1" xml:id="subtitle105">这是你妈妈吗？</p>
+<p begin="3495830000t" end="3516670000t" region="bottomCenter" style="s1" xml:id="subtitle106">没有。</p>
+<p begin="3517500000t" end="3547080000t" region="bottomCenter" style="s1" xml:id="subtitle107">我不这么认为。</p>
+<p begin="3547920000t" end="3558750000t" region="bottomCenter" style="s1" xml:id="subtitle108">她想要什么<br />跟我们谈谈吗？</p>
+<p begin="3559580000t" end="3583330000t" region="bottomCenter" style="s1" xml:id="subtitle109">你进入了她的领地。</p>
+<p begin="3584170000t" end="3608330000t" region="bottomCenter" style="s1" xml:id="subtitle110">再来一次。<br />你必须为此负责。</p>
+<p begin="3609170000t" end="3625420000t" region="bottomCenter" style="s1" xml:id="subtitle111">我们不需要<br />做任何事。</p>
+<p begin="3626250000t" end="3642500000t" region="bottomCenter" style="s1" xml:id="subtitle112">我们可以不去。</p>
+<p begin="3643330000t" end="3659170000t" region="bottomCenter" style="s1" xml:id="subtitle113">这不是个好主意。</p>
+<p begin="3660000000t" end="3682500000t" region="bottomCenter" style="s1" xml:id="subtitle114">我们已经被攻击了。<br />耶！</p>
+<p begin="3683330000t" end="3707080000t" region="bottomCenter" style="s1" xml:id="subtitle115">不是她。</p>
+<p begin="3707920000t" end="3730830000t" region="bottomCenter" style="s1" xml:id="subtitle116">如果她想要你死,<br />她会派部落来。</p>
+<p begin="3731670000t" end="3760000000t" region="bottomCenter" style="s1" xml:id="subtitle117">所有的一切,<br />而不是一次只有几个浪头。</p>
+<p begin="3760830000t" end="3781670000t" region="bottomCenter" style="s1" xml:id="subtitle118">也许她在努力<br />先把我们搞垮。</p>
+<p begin="3782500000t" end="3797500000t" region="bottomCenter" style="s1" xml:id="subtitle119">或者，就像我告诉你们的那样<br />在这一切开始的时候</p>
+<p begin="3798330000t" end="3811670000t" region="bottomCenter" style="s1" xml:id="subtitle120">会面，有可能<br />有理由相信</p>
+<p begin="3812500000t" end="3828330000t" region="bottomCenter" style="s1" xml:id="subtitle121">卫星和火力..<br />我不想听</p>
+<p begin="3829170000t" end="3848750000t" region="bottomCenter" style="s1" xml:id="subtitle122">该死的卫星了,<br />尤金！</p>
+<p begin="3872500000t" end="3892080000t" region="bottomCenter" style="s1" xml:id="subtitle123">我的朋友死了<br />试图拯救你的生命</p>
+<p begin="3892920000t" end="3929580000t" region="bottomCenter" style="s1" xml:id="subtitle124">结果<br />把头插在尖刺上。</p>
+<p begin="3930420000t" end="3948750000t" region="bottomCenter" style="s1" xml:id="subtitle125">强盗想要正义！</p>
+<p begin="3949580000t" end="3964170000t" region="bottomCenter" style="s1" xml:id="subtitle126">耶！</p>
+<p begin="3965000000t" end="3980000000t" region="bottomCenter" style="s1" xml:id="subtitle127">所以我只想听你说</p>
+<p begin="3980830000t" end="3998750000t" region="bottomCenter" style="s1" xml:id="subtitle128">就是你要<br />我们十几个人</p>
+<p begin="3999580000t" end="4023330000t" region="bottomCenter" style="s1" xml:id="subtitle129">去见这些怪胎<br />在边境，我们是</p>
+<p begin="4024170000t" end="4040000000t" region="bottomCenter" style="s1" xml:id="subtitle130">我要拿下那个女主角<br />滚开！</p>
+<p begin="4040830000t" end="4059170000t" region="bottomCenter" style="s1" xml:id="subtitle131">我们切断它了！<br />(呜咽)</p>
+<p begin="4060000000t" end="4072080000t" region="bottomCenter" style="s1" xml:id="subtitle132">然后我们把<br />他们的头被钉在钉子上！</p>
+<p begin="4072920000t" end="4085830000t" region="bottomCenter" style="s1" xml:id="subtitle133">(模糊的叫喊声)</p>
+<p begin="4086670000t" end="4105830000t" region="bottomCenter" style="s1" xml:id="subtitle134">你没事吧？</p>
+<p begin="4106670000t" end="4128330000t" region="bottomCenter" style="s1" xml:id="subtitle135">是的，是的，我只是需要<br />出去透透气。</p>
+<p begin="4129170000t" end="4159580000t" region="bottomCenter" style="s1" xml:id="subtitle136">(模糊的谈话)</p>
+<p begin="4197920000t" end="4221670000t" region="bottomCenter" style="s1" xml:id="subtitle137">(说话停止)</p>
+<p begin="4222500000t" end="4258750000t" region="bottomCenter" style="s1" xml:id="subtitle138">你看到了多少行尸<br />在阿尔法的部落里吗？</p>
+<p begin="4259580000t" end="4307080000t" region="bottomCenter" style="s1" xml:id="subtitle139">成千上万。<br />啊。</p>
+<p begin="4307920000t" end="4320420000t" region="bottomCenter" style="s1" xml:id="subtitle140">那么..。</p>
+<p begin="4321250000t" end="4346250000t" region="bottomCenter" style="s1" xml:id="subtitle141">你有什么计划<br />把他们干掉？</p>
+<p begin="4379580000t" end="4399170000t" region="bottomCenter" style="s1" xml:id="subtitle142">这不是反问句。</p>
+<p begin="4400000000t" end="4420000000t" region="bottomCenter" style="s1" xml:id="subtitle143">我没有。</p>
+<p begin="4420830000t" end="4434170000t" region="bottomCenter" style="s1" xml:id="subtitle144">啊。</p>
+<p begin="4435000000t" end="4460830000t" region="bottomCenter" style="s1" xml:id="subtitle145">其他人呢？</p>
+<p begin="4476670000t" end="4518330000t" region="bottomCenter" style="s1" xml:id="subtitle146">如果她派出了部落,<br />就是这样！</p>
+<p begin="4519170000t" end="4548750000t" region="bottomCenter" style="s1" xml:id="subtitle147">现在,<br />她只想谈谈。</p>
+<p begin="4549580000t" end="4569170000t" region="bottomCenter" style="s1" xml:id="subtitle148">我们会倾听。</p>
+<p begin="4570000000t" end="4610000000t" region="bottomCenter" style="s1" xml:id="subtitle149">现在，当我们这么做的时候,<br />这里的每个人都需要集中注意力</p>
+<p begin="4610830000t" end="4640420000t" region="bottomCenter" style="s1" xml:id="subtitle150">看看会发生什么<br />从南到北。</p>
+<p begin="4641250000t" end="4667920000t" region="bottomCenter" style="s1" xml:id="subtitle151">(叹气)</p>
+<p begin="4668750000t" end="4692920000t" region="bottomCenter" style="s1" xml:id="subtitle152">我们累了。</p>
+<p begin="4693750000t" end="4722080000t" region="bottomCenter" style="s1" xml:id="subtitle153">我们很紧张。</p>
+<p begin="4722920000t" end="4757920000t" region="bottomCenter" style="s1" xml:id="subtitle154">而且情况会越来越糟<br />在情况好转之前。</p>
+<p begin="4758750000t" end="4795830000t" region="bottomCenter" style="s1" xml:id="subtitle155">但我们不会<br />完全不能接受</p>
+<p begin="4796670000t" end="4829170000t" region="bottomCenter" style="s1" xml:id="subtitle156">如果我们不团结一致。</p>
+<p begin="4830000000t" end="4842500000t" region="bottomCenter" style="s1" xml:id="subtitle157">♪♪</p>
+<p begin="4843330000t" end="4860420000t" region="bottomCenter" style="s1" xml:id="subtitle158">三个目标<br />意味着三组。</p>
+<p begin="4861250000t" end="4877080000t" region="bottomCenter" style="s1" xml:id="subtitle159">加布里尔负责</p>
+<p begin="4877920000t" end="4902500000t" region="bottomCenter" style="s1" xml:id="subtitle160">看守大门<br />来自北方的海浪。</p>
+<p begin="4903330000t" end="4922920000t" region="bottomCenter" style="s1" xml:id="subtitle161">而亚伦<br />需要一些军队</p>
+<p begin="4923750000t" end="4939580000t" region="bottomCenter" style="s1" xml:id="subtitle162">应对南方的浪潮,</p>
+<p begin="4940420000t" end="4959580000t" region="bottomCenter" style="s1" xml:id="subtitle163">分手<br />在它撞上墙之前。</p>
+<p begin="4960420000t" end="4972080000t" region="bottomCenter" style="s1" xml:id="subtitle164">(梅斯曲柄)</p>
+<p begin="4972920000t" end="5001250000t" region="bottomCenter" style="s1" xml:id="subtitle165">只剩下我们和边境了。</p>
+<p begin="5002080000t" end="5012920000t" region="bottomCenter" style="s1" xml:id="subtitle166">手无寸铁。</p>
+<p begin="5013750000t" end="5025830000t" region="bottomCenter" style="s1" xml:id="subtitle167">你真的<br />不带武器进去？</p>
+<p begin="5026670000t" end="5044580000t" region="bottomCenter" style="s1" xml:id="subtitle168">我们别无选择。</p>
+<p begin="5045420000t" end="5094580000t" region="bottomCenter" style="s1" xml:id="subtitle169">♪♪</p>
+<p begin="5095420000t" end="5124170000t" region="bottomCenter" style="s1" xml:id="subtitle170">(磁带撕裂)</p>
+<p begin="5125000000t" end="5145420000t" region="bottomCenter" style="s1" xml:id="subtitle171">(gun clicks)</p>
+<p begin="5146250000t" end="5162920000t" region="bottomCenter" style="s1" xml:id="subtitle172">(药丸咯咯作响)</p>
+<p begin="5163750000t" end="5190420000t" region="bottomCenter" style="s1" xml:id="subtitle173">♪♪</p>
+<p begin="5191250000t" end="5219170000t" region="bottomCenter" style="s1" xml:id="subtitle174">我们没事。<br />你的士兵已经不多了。</p>
+<p begin="5220420000t" end="5236250000t" region="bottomCenter" style="s1" xml:id="subtitle175">你有的那些<br />都在抗击疲劳。</p>
+<p begin="5237070000t" end="5251670000t" region="bottomCenter" style="s1" xml:id="subtitle176">尼根只有<br />一直在打扫卫生。</p>
+<p begin="5252500000t" end="5281670000t" region="bottomCenter" style="s1" xml:id="subtitle177">我说了我们没事。<br />- 嘿，呃，盖比。</p>
+<p begin="5282500000t" end="5305420000t" region="bottomCenter" style="s1" xml:id="subtitle178">我能..。</p>
+<p begin="5320830000t" end="5351670000t" region="bottomCenter" style="s1" xml:id="subtitle179">听着，伙计，如果都一样的话<br />对你来说，我宁愿留下</p>
+<p begin="5352500000t" end="5364580000t" region="bottomCenter" style="s1" xml:id="subtitle180">在这里摘西红柿<br />埋葬尸体。</p>
+<p begin="5365420000t" end="5390830000t" region="bottomCenter" style="s1" xml:id="subtitle181">他需要你<br />在外面。</p>
+<p begin="5391670000t" end="5406250000t" region="bottomCenter" style="s1" xml:id="subtitle182">是的，我需要我在这里,</p>
+<p begin="5407080000t" end="5422080000t" region="bottomCenter" style="s1" xml:id="subtitle183">尤其是像今天这样的日子。</p>
+<p begin="5422920000t" end="5442080000t" region="bottomCenter" style="s1" xml:id="subtitle184">我是说，看看周围<br />每个人的电量都达到了11,</p>
+<p begin="5442920000t" end="5454580000t" region="bottomCenter" style="s1" xml:id="subtitle185">对皮肤不满,</p>
+<p begin="5455420000t" end="5470000000t" region="bottomCenter" style="s1" xml:id="subtitle186">搅得天翻地覆<br />在一起。</p>
+<p begin="5470830000t" end="5484580000t" region="bottomCenter" style="s1" xml:id="subtitle187">我告诉过你，我不想</p>
+<p begin="5485420000t" end="5506670000t" region="bottomCenter" style="s1" xml:id="subtitle188">任何可恨的感觉<br />拿我出气。</p>
+<p begin="5507500000t" end="5526250000t" region="bottomCenter" style="s1" xml:id="subtitle189">是 Aaron。<br />他是个圣人。</p>
+<p begin="5541250000t" end="5564580000t" region="bottomCenter" style="s1" xml:id="subtitle190">听着，我只想待在这里。</p>
+<p begin="5565420000t" end="5588750000t" region="bottomCenter" style="s1" xml:id="subtitle191">你能不能<br />帮我这个忙，加布？</p>
+<p begin="5589580000t" end="5601250000t" region="bottomCenter" style="s1" xml:id="subtitle192">你可以战斗。</p>
+<p begin="5602080000t" end="5622080000t" region="bottomCenter" style="s1" xml:id="subtitle193">你们的战士不多了。</p>
+<p begin="5622920000t" end="5644170000t" region="bottomCenter" style="s1" xml:id="subtitle194">花生酱，这是果冻。</p>
+<p begin="5645000000t" end="5662500000t" region="bottomCenter" style="s1" xml:id="subtitle195">你要带他走。<br />讨论结束。</p>
+<p begin="5700000000t" end="5722920000t" region="bottomCenter" style="s1" xml:id="subtitle196">那么..。</p>
+<p begin="5723750000t" end="5746250000t" region="bottomCenter" style="s1" xml:id="subtitle197">太棒了。</p>
+<p begin="5747080000t" end="5777080000t" region="bottomCenter" style="s1" xml:id="subtitle198">好样的,<br />把树桩用起来。</p>
+<p begin="5777920000t" end="5824580000t" region="bottomCenter" style="s1" xml:id="subtitle199">♪♪</p>
+<p begin="5825420000t" end="5872080000t" region="bottomCenter" style="s1" xml:id="subtitle200">♪♪</p>
+<p begin="5872920000t" end="5888330000t" region="bottomCenter" style="s1" xml:id="subtitle201">♪♪</p>
+<p begin="5889170000t" end="5915000000t" region="bottomCenter" style="s1" xml:id="subtitle202">(门尖叫)</p>
+<p begin="5915830000t" end="5973750000t" region="bottomCenter" style="s1" xml:id="subtitle203">♪♪</p>
+<p begin="6020420000t" end="6032080000t" region="bottomCenter" style="s1" xml:id="subtitle204">(步行者咆哮)</p>
+<p begin="6032920000t" end="6047080000t" region="bottomCenter" style="s1" xml:id="subtitle205">(呼噜声)</p>
+<p begin="6065830000t" end="6081670000t" region="bottomCenter" style="s1" xml:id="subtitle206">(呼噜声)</p>
+<p begin="6092500000t" end="6109170000t" region="bottomCenter" style="s1" xml:id="subtitle207">(呼噜声)</p>
+<p begin="6120000000t" end="6137500000t" region="bottomCenter" style="s1" xml:id="subtitle208">哦。</p>
+<p begin="6138330000t" end="6165830000t" region="bottomCenter" style="s1" xml:id="subtitle209">哦，看这里。</p>
+<p begin="6166670000t" end="6186250000t" region="bottomCenter" style="s1" xml:id="subtitle210">哦，上帝。</p>
+<p begin="6187080000t" end="6207920000t" region="bottomCenter" style="s1" xml:id="subtitle211">放下枪。</p>
+<p begin="6223750000t" end="6239580000t" region="bottomCenter" style="s1" xml:id="subtitle212">来吧。</p>
+<p begin="6240420000t" end="6261670000t" region="bottomCenter" style="s1" xml:id="subtitle213">我很确定上帝<br />把这个放在这里是有原因的</p>
+<p begin="6262500000t" end="6282920000t" region="bottomCenter" style="s1" xml:id="subtitle214">帮助我，帮助你</p>
+<p begin="6283750000t" end="6300000000t" region="bottomCenter" style="s1" xml:id="subtitle215">放下。<br />我们都知道</p>
+<p begin="6300830000t" end="6318750000t" region="bottomCenter" style="s1" xml:id="subtitle216">这把扫帚<br />不行。</p>
+<p begin="6335000000t" end="6364580000t" region="bottomCenter" style="s1" xml:id="subtitle217">(叹气)</p>
+<p begin="6388330000t" end="6422500000t" region="bottomCenter" style="s1" xml:id="subtitle218">我在努力创造<br />好多了，但我没有</p>
+<p begin="6423330000t" end="6433750000t" region="bottomCenter" style="s1" xml:id="subtitle219">那个你认为..</p>
+<p begin="6434580000t" end="6445420000t" region="bottomCenter" style="s1" xml:id="subtitle220">有三个人进来了。</p>
+<p begin="6446250000t" end="6469580000t" region="bottomCenter" style="s1" xml:id="subtitle221">(步行者咆哮)</p>
+<p begin="6470830000t" end="6500000000t" region="bottomCenter" style="s1" xml:id="subtitle222">他们是你这边的。</p>
+<p begin="6500830000t" end="6522080000t" region="bottomCenter" style="s1" xml:id="subtitle223">好吧。</p>
+<p begin="6522920000t" end="6550000000t" region="bottomCenter" style="s1" xml:id="subtitle224">我这就去，老大。</p>
+<p begin="6550830000t" end="6577920000t" region="bottomCenter" style="s1" xml:id="subtitle225">(咆哮继续)</p>
+<p begin="6605000000t" end="6642920000t" region="bottomCenter" style="s1" xml:id="subtitle226">(蟋蟀鸣叫)</p>
+<p begin="6643750000t" end="6675420000t" region="bottomCenter" style="s1" xml:id="subtitle227">(剑格格作响)</p>
+<p begin="6676250000t" end="6725420000t" region="bottomCenter" style="s1" xml:id="subtitle228">♪♪</p>
+<p begin="6726250000t" end="6775420000t" region="bottomCenter" style="s1" xml:id="subtitle229">♪♪</p>
+<p begin="6776250000t" end="6822080000t" region="bottomCenter" style="s1" xml:id="subtitle230">♪♪</p>
+<p begin="6822920000t" end="6868330000t" region="bottomCenter" style="s1" xml:id="subtitle231">♪♪</p>
+<p begin="6869170000t" end="6883330000t" region="bottomCenter" style="s1" xml:id="subtitle232">♪♪</p>
+<p begin="6884170000t" end="6907920000t" region="bottomCenter" style="s1" xml:id="subtitle233">(砰的一声)</p>
+<p begin="6908750000t" end="6957920000t" region="bottomCenter" style="s1" xml:id="subtitle234">♪♪</p>
+<p begin="6958750000t" end="7007920000t" region="bottomCenter" style="s1" xml:id="subtitle235">♪♪</p>
+<p begin="7008750000t" end="7057920000t" region="bottomCenter" style="s1" xml:id="subtitle236">♪♪</p>
+<p begin="7058750000t" end="7107920000t" region="bottomCenter" style="s1" xml:id="subtitle237">♪♪</p>
+<p begin="7108750000t" end="7137500000t" region="bottomCenter" style="s1" xml:id="subtitle238">♪♪</p>
+<p begin="7138330000t" end="7150420000t" region="bottomCenter" style="s1" xml:id="subtitle239">你没事吧？</p>
+<p begin="7176250000t" end="7208330000t" region="bottomCenter" style="s1" xml:id="subtitle240">我... 需要点时间。</p>
+<p begin="7209170000t" end="7272500000t" region="bottomCenter" style="s1" xml:id="subtitle241">♪♪</p>
+<p begin="7273330000t" end="7316670000t" region="bottomCenter" style="s1" xml:id="subtitle242">(风吹)</p>
+<p begin="7317500000t" end="7366250000t" region="bottomCenter" style="s1" xml:id="subtitle243">♪♪</p>
+<p begin="7367080000t" end="7415420000t" region="bottomCenter" style="s1" xml:id="subtitle244">♪♪</p>
+<p begin="7416250000t" end="7434580000t" region="bottomCenter" style="s1" xml:id="subtitle245">(步行者咆哮)</p>
+<p begin="7435420000t" end="7450830000t" region="bottomCenter" style="s1" xml:id="subtitle246">(呼噜声)</p>
+<p begin="7451670000t" end="7482920000t" region="bottomCenter" style="s1" xml:id="subtitle247">谢谢你陪我出来。</p>
+<p begin="7483750000t" end="7507080000t" region="bottomCenter" style="s1" xml:id="subtitle248">我可以..<br />我可以玩一整晚。</p>
+<p begin="7507920000t" end="7526670000t" region="bottomCenter" style="s1" xml:id="subtitle249">(咆哮继续)</p>
+<p begin="7527500000t" end="7552920000t" region="bottomCenter" style="s1" xml:id="subtitle250">你想回去，是吗？</p>
+<p begin="7553750000t" end="7576250000t" region="bottomCenter" style="s1" xml:id="subtitle251">(咆哮继续)</p>
+<p begin="7577080000t" end="7598330000t" region="bottomCenter" style="s1" xml:id="subtitle252">我很好</p>
+<p begin="7604580000t" end="7641670000t" region="bottomCenter" style="s1" xml:id="subtitle253">(昆虫鸣叫)</p>
+<p begin="7642500000t" end="7665000000t" region="bottomCenter" style="s1" xml:id="subtitle254">小心。</p>
+<p begin="7665830000t" end="7715000000t" region="bottomCenter" style="s1" xml:id="subtitle255">♪♪</p>
+<p begin="7715830000t" end="7755420000t" region="bottomCenter" style="s1" xml:id="subtitle256">(步行者在远处咆哮)</p>
+<p begin="7756250000t" end="7808330000t" region="bottomCenter" style="s1" xml:id="subtitle257">♪♪</p>
+<p begin="7809170000t" end="7858330000t" region="bottomCenter" style="s1" xml:id="subtitle258">♪♪</p>
+<p begin="7859170000t" end="7908330000t" region="bottomCenter" style="s1" xml:id="subtitle259">♪♪</p>
+<p begin="7909170000t" end="7958330000t" region="bottomCenter" style="s1" xml:id="subtitle260">♪♪</p>
+<p begin="7959170000t" end="7996670000t" region="bottomCenter" style="s1" xml:id="subtitle261">♪♪</p>
+<p begin="7997500000t" end="8035000000t" region="bottomCenter" style="s1" xml:id="subtitle262">♪♪</p>
+<p begin="8035830000t" end="8071670000t" region="bottomCenter" style="s1" xml:id="subtitle263">只有一条规矩<br />我们的人之间。</p>
+<p begin="8072500000t" end="8094580000t" region="bottomCenter" style="s1" xml:id="subtitle264">一条定律。</p>
+<p begin="8095420000t" end="8125830000t" region="bottomCenter" style="s1" xml:id="subtitle265">待在原地别动。</p>
+<p begin="8126670000t" end="8153750000t" region="bottomCenter" style="s1" xml:id="subtitle266">但你却违抗命令。</p>
+<p begin="8154580000t" end="8199580000t" region="bottomCenter" style="s1" xml:id="subtitle267">那场大火<br />毁了你的土地。</p>
+<p begin="8200420000t" end="8223750000t" region="bottomCenter" style="s1" xml:id="subtitle268">火的本性就是燃烧。</p>
+<p begin="8224580000t" end="8256670000t" region="bottomCenter" style="s1" xml:id="subtitle269">我们与自然没有冲突。</p>
+<p begin="8257500000t" end="8273750000t" region="bottomCenter" style="s1" xml:id="subtitle270">它可能已经消失了<br />我们的一个社区。</p>
+<p begin="8274580000t" end="8302080000t" region="bottomCenter" style="s1" xml:id="subtitle271">我们不能袖手旁观<br />让这一切发生。</p>
+<p begin="8302920000t" end="8316670000t" region="bottomCenter" style="s1" xml:id="subtitle272">你能理解的。</p>
+<p begin="8317500000t" end="8343750000t" region="bottomCenter" style="s1" xml:id="subtitle273">我们穿越过一次。</p>
+<p begin="8344580000t" end="8366670000t" region="bottomCenter" style="s1" xml:id="subtitle274">三次。</p>
+<p begin="8367500000t" end="8388750000t" region="bottomCenter" style="s1" xml:id="subtitle275">♪♪</p>
+<p begin="8389580000t" end="8425830000t" region="bottomCenter" style="s1" xml:id="subtitle276">在火灾期间,<br />你走过我的土地。</p>
+<p begin="8426670000t" end="8461670000t" region="bottomCenter" style="s1" xml:id="subtitle277">在冬天的暴风雪中,<br />你走过我的土地。</p>
+<p begin="8462500000t" end="8497080000t" region="bottomCenter" style="s1" xml:id="subtitle278">在你寻找的过程中<br />沿着河,</p>
+<p begin="8497920000t" end="8524170000t" region="bottomCenter" style="s1" xml:id="subtitle279">你和那个男人<br />金属手臂走过我的土地。</p>
+<p begin="8525000000t" end="8559580000t" region="bottomCenter" style="s1" xml:id="subtitle280">已经三次了。</p>
+<p begin="8560830000t" end="8612500000t" region="bottomCenter" style="s1" xml:id="subtitle281">我们一直在监视。</p>
+<p begin="8613330000t" end="8652080000t" region="bottomCenter" style="s1" xml:id="subtitle282">♪♪</p>
+<p begin="8652920000t" end="8690000000t" region="bottomCenter" style="s1" xml:id="subtitle283">我怎么跟你说的<br />关于越过我的边境？</p>
+<p begin="8690830000t" end="8725000000t" region="bottomCenter" style="s1" xml:id="subtitle284">♪♪</p>
+<p begin="8725830000t" end="8746250000t" region="bottomCenter" style="s1" xml:id="subtitle285">(喘着粗气)</p>
+<p begin="8747080000t" end="8772080000t" region="bottomCenter" style="s1" xml:id="subtitle286">你必须受到惩罚。</p>
+<p begin="8772920000t" end="8799170000t" region="bottomCenter" style="s1" xml:id="subtitle287">(刀出鞘)</p>
+<p begin="8800000000t" end="8836250000t" region="bottomCenter" style="s1" xml:id="subtitle288">♪♪</p>
+<p begin="8837080000t" end="8872920000t" region="bottomCenter" style="s1" xml:id="subtitle289">♪♪</p>
+<p begin="8873750000t" end="8894170000t" region="bottomCenter" style="s1" xml:id="subtitle290">但是..。</p>
+<p begin="8895000000t" end="8927920000t" region="bottomCenter" style="s1" xml:id="subtitle291">我考虑的是背景。</p>
+<p begin="8928750000t" end="8966670000t" region="bottomCenter" style="s1" xml:id="subtitle292">会有的<br />这次没有流血。</p>
+<p begin="8967500000t" end="8992500000t" region="bottomCenter" style="s1" xml:id="subtitle293">那你想要什么？</p>
+<p begin="8993330000t" end="9016250000t" region="bottomCenter" style="s1" xml:id="subtitle294">陆地。</p>
+<p begin="9017080000t" end="9037500000t" region="bottomCenter" style="s1" xml:id="subtitle295">小溪<br />蜿蜒流入山谷。</p>
+<p begin="9038330000t" end="9057080000t" region="bottomCenter" style="s1" xml:id="subtitle296">就是这样<br />你们新的南部边界。</p>
+<p begin="9057920000t" end="9084170000t" region="bottomCenter" style="s1" xml:id="subtitle297">我们将标记新的边界<br />北边。</p>
+<p begin="9085000000t" end="9100420000t" region="bottomCenter" style="s1" xml:id="subtitle298">那会切断的<br />我们的狩猎场。</p>
+<p begin="9101250000t" end="9118330000t" region="bottomCenter" style="s1" xml:id="subtitle299">我们没必要站在这里<br />听听这个</p>
+<p begin="9119170000t" end="9129580000t" region="bottomCenter" style="s1" xml:id="subtitle300">卡萝尔！</p>
+<p begin="9130420000t" end="9174580000t" region="bottomCenter" style="s1" xml:id="subtitle301">“到这里”..。</p>
+<p begin="9175420000t" end="9197080000t" region="bottomCenter" style="s1" xml:id="subtitle302">什么？</p>
+<p begin="9197920000t" end="9218330000t" region="bottomCenter" style="s1" xml:id="subtitle303">♪♪</p>
+<p begin="9219170000t" end="9247500000t" region="bottomCenter" style="s1" xml:id="subtitle304">这些狗屁。<br />就是这样。</p>
+<p begin="9248330000t" end="9272920000t" region="bottomCenter" style="s1" xml:id="subtitle305">- 来吧，我们结束了，走吧。<br />我们没有。</p>
+<p begin="9273750000t" end="9324580000t" region="bottomCenter" style="s1" xml:id="subtitle306">♪♪</p>
+<p begin="9325420000t" end="9357500000t" region="bottomCenter" style="s1" xml:id="subtitle307">除了这个<br />把她的眼睛放在我的脚下。</p>
+<p begin="9358330000t" end="9407500000t" region="bottomCenter" style="s1" xml:id="subtitle308">♪♪</p>
+<p begin="9408330000t" end="9457080000t" region="bottomCenter" style="s1" xml:id="subtitle309">♪♪</p>
+<p begin="9457920000t" end="9483750000t" region="bottomCenter" style="s1" xml:id="subtitle310">你应该害怕我。</p>
+<p begin="9484580000t" end="9505000000t" region="bottomCenter" style="s1" xml:id="subtitle311">我不知道。</p>
+<p begin="9505830000t" end="9541250000t" region="bottomCenter" style="s1" xml:id="subtitle312">我看着你,<br />我什么都感觉不到。</p>
+<p begin="9542080000t" end="9561250000t" region="bottomCenter" style="s1" xml:id="subtitle313">(步行者在远处咆哮)</p>
+<p begin="9562080000t" end="9585830000t" region="bottomCenter" style="s1" xml:id="subtitle314">是吗？</p>
+<p begin="9599580000t" end="9625000000t" region="bottomCenter" style="s1" xml:id="subtitle315">那个金发男孩。</p>
+<p begin="9625830000t" end="9667080000t" region="bottomCenter" style="s1" xml:id="subtitle316">尖叫着你的名字<br />就在我们砍下他的头之前。</p>
+<p begin="9667920000t" end="9697500000t" region="bottomCenter" style="s1" xml:id="subtitle317">♪♪</p>
+<p begin="9698330000t" end="9713750000t" region="bottomCenter" style="s1" xml:id="subtitle318">(枪公鸡，枪声)</p>
+<p begin="9714580000t" end="9723750000t" region="bottomCenter" style="s1" xml:id="subtitle319">♪♪</p>
+<p begin="9724580000t" end="9763750000t" region="bottomCenter" style="s1" xml:id="subtitle320">住手，住手！</p>
+<p begin="9764580000t" end="9787500000t" region="bottomCenter" style="s1" xml:id="subtitle321">(呼噜声)<br />我道歉。</p>
+<p begin="9788330000t" end="9811250000t" region="bottomCenter" style="s1" xml:id="subtitle322">为了我的朋友。</p>
+<p begin="9812080000t" end="9829170000t" region="bottomCenter" style="s1" xml:id="subtitle323">我们没有睡觉。</p>
+<p begin="9830000000t" end="9853330000t" region="bottomCenter" style="s1" xml:id="subtitle324">你知道她失去了什么。</p>
+<p begin="9854170000t" end="9878330000t" region="bottomCenter" style="s1" xml:id="subtitle325">♪♪</p>
+<p begin="9879170000t" end="9907500000t" region="bottomCenter" style="s1" xml:id="subtitle326">我原谅你。</p>
+<p begin="9908330000t" end="9930830000t" region="bottomCenter" style="s1" xml:id="subtitle327">母亲对母亲。</p>
+<p begin="9931670000t" end="9974580000t" region="bottomCenter" style="s1" xml:id="subtitle328">♪♪</p>
+<p begin="9975420000t" end="10001670000t" region="bottomCenter" style="s1" xml:id="subtitle329">这里现在是我的地盘了。</p>
+<p begin="10002500000t" end="10023330000t" region="bottomCenter" style="s1" xml:id="subtitle330">你最好快跑。</p>
+<p begin="10024170000t" end="10037920000t" region="bottomCenter" style="s1" xml:id="subtitle331">快点，我们走。</p>
+<p begin="10038750000t" end="10056670000t" region="bottomCenter" style="s1" xml:id="subtitle332">♪♪</p>
+<p begin="10057500000t" end="10087500000t" region="bottomCenter" style="s1" xml:id="subtitle333">我们走吧。</p>
+<p begin="10088330000t" end="10105830000t" region="bottomCenter" style="s1" xml:id="subtitle334">♪♪</p>
+<p begin="10152920000t" end="10184170000t" region="bottomCenter" style="s1" xml:id="subtitle335">(蟋蟀鸣叫)</p>
+<p begin="10305410000t" end="10332080000t" region="bottomCenter" style="s1" xml:id="subtitle336">听着。</p>
+<p begin="10332910000t" end="10347500000t" region="bottomCenter" style="s1" xml:id="subtitle337">我知道<br />你面对的是..</p>
+<p begin="10348330000t" end="10362500000t" region="bottomCenter" style="s1" xml:id="subtitle338">那个贱人必须得死。</p>
+<p begin="10480410000t" end="10507920000t" region="bottomCenter" style="s1" xml:id="subtitle339">She ain't been the same<br />从她下船开始。</p>
+<p begin="10508750000t" end="10532500000t" region="bottomCenter" style="s1" xml:id="subtitle340">也许这样对她更好。</p>
+<p begin="10533330000t" end="10555830000t" region="bottomCenter" style="s1" xml:id="subtitle341">找到了一些平静，你知道吗？</p>
+<p begin="10556670000t" end="10571670000t" region="bottomCenter" style="s1" xml:id="subtitle342">嘿。</p>
+<p begin="10572500000t" end="10590830000t" region="bottomCenter" style="s1" xml:id="subtitle343">她属于我们。</p>
+<p begin="10591670000t" end="10607080000t" region="bottomCenter" style="s1" xml:id="subtitle344">她也睡不着。</p>
+<p begin="10607920000t" end="10628330000t" region="bottomCenter" style="s1" xml:id="subtitle345">她整晚都在外面<br />寻找他们。</p>
+<p begin="10658330000t" end="10684170000t" region="bottomCenter" style="s1" xml:id="subtitle346">(枪公鸡)</p>
+<p begin="10685000000t" end="10709170000t" region="bottomCenter" style="s1" xml:id="subtitle347">(树枝沙沙声)</p>
+<p begin="10710000000t" end="10733330000t" region="bottomCenter" style="s1" xml:id="subtitle348">♪♪</p>
+<p begin="10734170000t" end="10748330000t" region="bottomCenter" style="s1" xml:id="subtitle349">(枪声)</p>
+<p begin="10749170000t" end="10766670000t" region="bottomCenter" style="s1" xml:id="subtitle350">♪♪</p>
+<p begin="10767500000t" end="10790420000t" region="bottomCenter" style="s1" xml:id="subtitle351">妈的。</p>
+<p begin="10791250000t" end="10812500000t" region="bottomCenter" style="s1" xml:id="subtitle352">怎么了？<br />耳语者。</p>
+<p begin="10813330000t" end="10834170000t" region="bottomCenter" style="s1" xml:id="subtitle353">有三个。<br />开启对讲机。</p>
+<p begin="10835000000t" end="10861250000t" region="bottomCenter" style="s1" xml:id="subtitle354">分头行动，向北，向西。<br />我们去东边。</p>
+<p begin="10862080000t" end="10880420000t" region="bottomCenter" style="s1" xml:id="subtitle355">抓住他！<br />不要杀人！</p>
+<p begin="10881250000t" end="10899170000t" region="bottomCenter" style="s1" xml:id="subtitle356">(步行者咆哮)</p>
+<p begin="10900000000t" end="10916670000t" region="bottomCenter" style="s1" xml:id="subtitle357">(呼噜声)</p>
+<p begin="10917500000t" end="10944580000t" region="bottomCenter" style="s1" xml:id="subtitle358">♪♪</p>
+<p begin="10945420000t" end="10959580000t" region="bottomCenter" style="s1" xml:id="subtitle359">(呼噜声)</p>
+<p begin="10960420000t" end="10979580000t" region="bottomCenter" style="s1" xml:id="subtitle360">♪♪</p>
+<p begin="10980420000t" end="11012500000t" region="bottomCenter" style="s1" xml:id="subtitle361">(咆哮停止)</p>
+<p begin="11013330000t" end="11024580000t" region="bottomCenter" style="s1" xml:id="subtitle362">♪♪</p>
+<p begin="11025420000t" end="11036250000t" region="bottomCenter" style="s1" xml:id="subtitle363">(叹气)</p>
+<p begin="11037080000t" end="11055830000t" region="bottomCenter" style="s1" xml:id="subtitle364">(吸气急剧)</p>
+<p begin="11056670000t" end="11086670000t" region="bottomCenter" style="s1" xml:id="subtitle365">嘿，你..</p>
+<p begin="11087500000t" end="11102500000t" region="bottomCenter" style="s1" xml:id="subtitle366">我说什么来着？</p>
+<p begin="11103330000t" end="11116250000t" region="bottomCenter" style="s1" xml:id="subtitle367">(叹气)</p>
+<p begin="11117080000t" end="11132500000t" region="bottomCenter" style="s1" xml:id="subtitle368">我必须这么做。</p>
+<p begin="11133330000t" end="11160420000t" region="bottomCenter" style="s1" xml:id="subtitle369">你没看到这个吗。</p>
+<p begin="11161250000t" end="11179580000t" region="bottomCenter" style="s1" xml:id="subtitle370">(笑)</p>
+<p begin="11191250000t" end="11206670000t" region="bottomCenter" style="s1" xml:id="subtitle371">怎么，你想让我<br />上吊自杀？</p>
+<p begin="11207500000t" end="11220830000t" region="bottomCenter" style="s1" xml:id="subtitle372">绑起来。<br />我要带你回去。</p>
+<p begin="11221670000t" end="11236670000t" region="bottomCenter" style="s1" xml:id="subtitle373">带我回去？</p>
+<p begin="11237500000t" end="11257080000t" region="bottomCenter" style="s1" xml:id="subtitle374">这真是最好的消息了<br />我已经忙了一整天了！</p>
+<p begin="11257920000t" end="11291670000t" region="bottomCenter" style="s1" xml:id="subtitle375">但我不会绑起来的<br />就像战俘一样。</p>
+<p begin="11292500000t" end="11309580000t" region="bottomCenter" style="s1" xml:id="subtitle376">是的，你是。</p>
+<p begin="11319580000t" end="11342080000t" region="bottomCenter" style="s1" xml:id="subtitle377">不然呢，牛仔？</p>
+<p begin="11377920000t" end="11402500000t" region="bottomCenter" style="s1" xml:id="subtitle378">啊。</p>
+<p begin="11403330000t" end="11442500000t" region="bottomCenter" style="s1" xml:id="subtitle379">你知道我看到了什么吗？</p>
+<p begin="11443330000t" end="11485830000t" region="bottomCenter" style="s1" xml:id="subtitle380">我看到一个人<br />那是假装的。</p>
+<p begin="11500000000t" end="11520000000t" region="bottomCenter" style="s1" xml:id="subtitle381">别这样，伙计。<br />我们走吧。</p>
+<p begin="11533750000t" end="11548330000t" region="bottomCenter" style="s1" xml:id="subtitle382">啊！</p>
+<p begin="11549170000t" end="11567080000t" region="bottomCenter" style="s1" xml:id="subtitle383">天啊。</p>
+<p begin="11567920000t" end="11592920000t" region="bottomCenter" style="s1" xml:id="subtitle384">你刚刚绊倒我了吗？</p>
+<p begin="11593750000t" end="11609170000t" region="bottomCenter" style="s1" xml:id="subtitle385">怎么，你才12岁吗？</p>
+<p begin="11610000000t" end="11637080000t" region="bottomCenter" style="s1" xml:id="subtitle386">你到底有什么毛病？</p>
+<p begin="11637920000t" end="11661250000t" region="bottomCenter" style="s1" xml:id="subtitle387">我把我的脖子<br />为你们这些人建一个街区</p>
+<p begin="11662080000t" end="11674170000t" region="bottomCenter" style="s1" xml:id="subtitle388">一整天！</p>
+<p begin="11675000000t" end="11699170000t" region="bottomCenter" style="s1" xml:id="subtitle389">你根本不在乎我们。</p>
+<p begin="11700000000t" end="11737500000t" region="bottomCenter" style="s1" xml:id="subtitle390">如果你在乎，你就会离开。</p>
+<p begin="11738330000t" end="11771670000t" region="bottomCenter" style="s1" xml:id="subtitle391">这是每个人都需要的。</p>
+<p begin="11785830000t" end="11809170000t" region="bottomCenter" style="s1" xml:id="subtitle392">我也是迫不得已<br />那么。</p>
+<p begin="11835830000t" end="11861670000t" region="bottomCenter" style="s1" xml:id="subtitle393">你说什么？</p>
+<p begin="11873750000t" end="11894170000t" region="bottomCenter" style="s1" xml:id="subtitle394">不，不，不。</p>
+<p begin="11895000000t" end="11917500000t" region="bottomCenter" style="s1" xml:id="subtitle395">把门打开。</p>
+<p begin="11918330000t" end="11965830000t" region="bottomCenter" style="s1" xml:id="subtitle396">告诉我为什么我一生的挚爱<br />必须死。</p>
+<p begin="11981670000t" end="12003330000t" region="bottomCenter" style="s1" xml:id="subtitle397">好吧。</p>
+<p begin="12004170000t" end="12029580000t" region="bottomCenter" style="s1" xml:id="subtitle398">一个简单的事实。</p>
+<p begin="12030420000t" end="12065420000t" region="bottomCenter" style="s1" xml:id="subtitle399">只有一个真相<br />我的人要..</p>
+<p begin="12066250000t" end="12093330000t" region="bottomCenter" style="s1" xml:id="subtitle400">如果你不保护<br />属于你的东西,</p>
+<p begin="12094170000t" end="12127500000t" region="bottomCenter" style="s1" xml:id="subtitle401">迟早,<br />它属于别人。</p>
+<p begin="12128330000t" end="12152080000t" region="bottomCenter" style="s1" xml:id="subtitle402">你的土地也一样,<br />你的钱包,</p>
+<p begin="12152920000t" end="12177500000t" region="bottomCenter" style="s1" xml:id="subtitle403">你的家，你的国家<br />一切。</p>
+<p begin="12178330000t" end="12202920000t" region="bottomCenter" style="s1" xml:id="subtitle404">这是你作为一个男人的职责<br />来保护它。</p>
+<p begin="12203750000t" end="12229580000t" region="bottomCenter" style="s1" xml:id="subtitle405">这就是美国的故事,</p>
+<p begin="12230420000t" end="12252920000t" region="bottomCenter" style="s1" xml:id="subtitle406">那个故事<br />整个该死的世界。</p>
+<p begin="12253750000t" end="12277500000t" region="bottomCenter" style="s1" xml:id="subtitle407">什么都不是<br />改变它</p>
+<p begin="12278330000t" end="12307920000t" region="bottomCenter" style="s1" xml:id="subtitle408">你不行，我不行，谁都不行。</p>
+<p begin="12348750000t" end="12389580000t" region="bottomCenter" style="s1" xml:id="subtitle409">你是说<br />Eric 的死是我的错？</p>
+<p begin="12488750000t" end="12513750000t" region="bottomCenter" style="s1" xml:id="subtitle410">好吧..。</p>
+<p begin="12514580000t" end="12545830000t" region="bottomCenter" style="s1" xml:id="subtitle411">如果我让埃里克失望了。</p>
+<p begin="12546670000t" end="12582080000t" region="bottomCenter" style="s1" xml:id="subtitle412">那你就辜负了你的妻子。</p>
+<p begin="12582920000t" end="12597080000t" region="bottomCenter" style="s1" xml:id="subtitle413">♪♪</p>
+<p begin="12597920000t" end="12617920000t" region="bottomCenter" style="s1" xml:id="subtitle414">小心。<br />是啊。</p>
+<p begin="12618750000t" end="12641670000t" region="bottomCenter" style="s1" xml:id="subtitle415">她..。</p>
+<p begin="12642500000t" end="12676670000t" region="bottomCenter" style="s1" xml:id="subtitle416">因为恨你而死。</p>
+<p begin="12677500000t" end="12715420000t" region="bottomCenter" style="s1" xml:id="subtitle417">你永远不会<br />再见到她。</p>
+<p begin="12716250000t" end="12732500000t" region="bottomCenter" style="s1" xml:id="subtitle418">(笑)</p>
+<p begin="12733330000t" end="12763750000t" region="bottomCenter" style="s1" xml:id="subtitle419">你想说点什么吗？</p>
+<p begin="12764580000t" end="12782080000t" region="bottomCenter" style="s1" xml:id="subtitle420">是的。</p>
+<p begin="12782920000t" end="12803750000t" region="bottomCenter" style="s1" xml:id="subtitle421">在你后面。</p>
+<p begin="12804580000t" end="12856250000t" region="bottomCenter" style="s1" xml:id="subtitle422">(步行者咆哮)</p>
+<p begin="12857080000t" end="12890420000t" region="bottomCenter" style="s1" xml:id="subtitle423">(呻吟)</p>
+<p begin="12891250000t" end="12920420000t" region="bottomCenter" style="s1" xml:id="subtitle424">(咆哮停止)</p>
+<p begin="12921250000t" end="12943750000t" region="bottomCenter" style="s1" xml:id="subtitle425">(呼噜声)</p>
+<p begin="12944580000t" end="12980420000t" region="bottomCenter" style="s1" xml:id="subtitle426">(呻吟)</p>
+<p begin="12981250000t" end="13007500000t" region="bottomCenter" style="s1" xml:id="subtitle427">(吐口水)</p>
+<p begin="13008330000t" end="13041250000t" region="bottomCenter" style="s1" xml:id="subtitle428">♪♪</p>
+<p begin="13042080000t" end="13054580000t" region="bottomCenter" style="s1" xml:id="subtitle429">尼根！</p>
+<p begin="13055420000t" end="13068750000t" region="bottomCenter" style="s1" xml:id="subtitle430">尼根！</p>
+<p begin="13120420000t" end="13132500000t" region="bottomCenter" style="s1" xml:id="subtitle431">好吧。<br />我们在小溪那里见。</p>
+<p begin="13133330000t" end="13152920000t" region="bottomCenter" style="s1" xml:id="subtitle432">收到</p>
+<p begin="13153750000t" end="13175830000t" region="bottomCenter" style="s1" xml:id="subtitle433">(药丸咯咯作响)</p>
+<p begin="13197500000t" end="13222080000t" region="bottomCenter" style="s1" xml:id="subtitle434">到处都找不到他们。</p>
+<p begin="13222920000t" end="13245830000t" region="bottomCenter" style="s1" xml:id="subtitle435">没有痕迹，什么都没有。</p>
+<p begin="13261670000t" end="13280420000t" region="bottomCenter" style="s1" xml:id="subtitle436">你确定你看到三个？</p>
+<p begin="13281250000t" end="13312500000t" region="bottomCenter" style="s1" xml:id="subtitle437">是的，我确定。</p>
+<p begin="13333330000t" end="13360830000t" region="bottomCenter" style="s1" xml:id="subtitle438">卡萝尔。</p>
+<p begin="13361670000t" end="13385830000t" region="bottomCenter" style="s1" xml:id="subtitle439">你去多久了<br />吃那些药是为了什么？</p>
+<p begin="13386670000t" end="13411670000t" region="bottomCenter" style="s1" xml:id="subtitle440">自从我回来。<br />没关系。</p>
+<p begin="13412500000t" end="13440830000t" region="bottomCenter" style="s1" xml:id="subtitle441">就像咖啡一样。<br />我们不能待在外面。</p>
+<p begin="13441670000t" end="13457500000t" region="bottomCenter" style="s1" xml:id="subtitle442">好吧。</p>
+<p begin="13458330000t" end="13494580000t" region="bottomCenter" style="s1" xml:id="subtitle443">找个有围墙的地方,<br />暂时躲起来。</p>
+<p begin="13495420000t" end="13513750000t" region="bottomCenter" style="s1" xml:id="subtitle444">好好睡一觉。</p>
+<p begin="13568750000t" end="13617920000t" region="bottomCenter" style="s1" xml:id="subtitle445">♪♪</p>
+<p begin="13618750000t" end="13667920000t" region="bottomCenter" style="s1" xml:id="subtitle446">♪♪</p>
+<p begin="13668750000t" end="13698330000t" region="bottomCenter" style="s1" xml:id="subtitle447">♪♪</p>
+<p begin="13699170000t" end="13740830000t" region="bottomCenter" style="s1" xml:id="subtitle448">(玻璃嘎吱声)</p>
+<p begin="13741670000t" end="13801250000t" region="bottomCenter" style="s1" xml:id="subtitle449">♪♪</p>
+<p begin="13802080000t" end="13834580000t" region="bottomCenter" style="s1" xml:id="subtitle450">(门吱吱作响)</p>
+<p begin="13835420000t" end="13903330000t" region="bottomCenter" style="s1" xml:id="subtitle451">♪♪</p>
+<p begin="13904170000t" end="13972080000t" region="bottomCenter" style="s1" xml:id="subtitle452">♪♪</p>
+<p begin="13972920000t" end="14041250000t" region="bottomCenter" style="s1" xml:id="subtitle453">♪♪</p>
+<p begin="14042080000t" end="14075420000t" region="bottomCenter" style="s1" xml:id="subtitle454">(玻璃嘎吱声)</p>
+<p begin="14076250000t" end="14125420000t" region="bottomCenter" style="s1" xml:id="subtitle455">♪♪</p>
+<p begin="14126250000t" end="14175420000t" region="bottomCenter" style="s1" xml:id="subtitle456">♪♪</p>
+<p begin="14176250000t" end="14196670000t" region="bottomCenter" style="s1" xml:id="subtitle457">安全了。</p>
+<p begin="14197500000t" end="14227920000t" region="bottomCenter" style="s1" xml:id="subtitle458">♪♪</p>
+<p begin="14228750000t" end="14262500000t" region="bottomCenter" style="s1" xml:id="subtitle459">(书擦伤)</p>
+<p begin="14263330000t" end="14316250000t" region="bottomCenter" style="s1" xml:id="subtitle460">♪♪</p>
+<p begin="14317080000t" end="14347920000t" region="bottomCenter" style="s1" xml:id="subtitle461">(远处的嘎嘎声)</p>
+<p begin="14348750000t" end="14398330000t" region="bottomCenter" style="s1" xml:id="subtitle462">♪♪</p>
+<p begin="14399170000t" end="14448330000t" region="bottomCenter" style="s1" xml:id="subtitle463">♪♪</p>
+<p begin="14449170000t" end="14468330000t" region="bottomCenter" style="s1" xml:id="subtitle464">♪♪</p>
+<p begin="14469170000t" end="14496250000t" region="bottomCenter" style="s1" xml:id="subtitle465">嘿。<br />- (喘气)</p>
+<p begin="14497080000t" end="14511250000t" region="bottomCenter" style="s1" xml:id="subtitle466">来吧。</p>
+<p begin="14541250000t" end="14578750000t" region="bottomCenter" style="s1" xml:id="subtitle467">♪♪</p>
+<p begin="14579580000t" end="14605000000t" region="bottomCenter" style="s1" xml:id="subtitle468">(书撞击声)</p>
+<p begin="14605830000t" end="14621670000t" region="bottomCenter" style="s1" xml:id="subtitle469">你们两个,<br />下来。</p>
+<p begin="14622500000t" end="14642500000t" region="bottomCenter" style="s1" xml:id="subtitle470">抓到你了。<br />看着东边。</p>
+<p begin="14643330000t" end="14672920000t" region="bottomCenter" style="s1" xml:id="subtitle471">我来站第一班岗。<br />好吧。</p>
+<p begin="14984580000t" end="15006670000t" region="bottomCenter" style="s1" xml:id="subtitle472">♪♪</p>
+<p begin="15007500000t" end="15028330000t" region="bottomCenter" style="s1" xml:id="subtitle473">尼根！</p>
+<p begin="15029170000t" end="15078330000t" region="bottomCenter" style="s1" xml:id="subtitle474">♪♪</p>
+<p begin="15079170000t" end="15128330000t" region="bottomCenter" style="s1" xml:id="subtitle475">♪♪</p>
+<p begin="15129170000t" end="15167500000t" region="bottomCenter" style="s1" xml:id="subtitle476">(门打开，关闭)</p>
+<p begin="15168330000t" end="15210420000t" region="bottomCenter" style="s1" xml:id="subtitle477">(喘气)</p>
+<p begin="15211250000t" end="15260830000t" region="bottomCenter" style="s1" xml:id="subtitle478">♪♪</p>
+<p begin="15261670000t" end="15311670000t" region="bottomCenter" style="s1" xml:id="subtitle479">♪♪</p>
+<p begin="15399580000t" end="15415830000t" region="bottomCenter" style="s1" xml:id="subtitle480">什么？</p>
+<p begin="15416670000t" end="15442080000t" region="bottomCenter" style="s1" xml:id="subtitle481">没有，只是在想我爸爸。</p>
+<p begin="15442920000t" end="15465830000t" region="bottomCenter" style="s1" xml:id="subtitle482">他是个卡车司机。</p>
+<p begin="15466670000t" end="15490830000t" region="bottomCenter" style="s1" xml:id="subtitle483">他经常告诉我和莫尔</p>
+<p begin="15491670000t" end="15514580000t" region="bottomCenter" style="s1" xml:id="subtitle484">所有这些疯狂的故事<br />关于他的旅行。</p>
+<p begin="15515420000t" end="15551670000t" region="bottomCenter" style="s1" xml:id="subtitle485">有一次,</p>
+<p begin="15552500000t" end="15590830000t" region="bottomCenter" style="s1" xml:id="subtitle486">他飞过肯塔基州<br />在66号州际公路上,</p>
+<p begin="15591670000t" end="15611670000t" region="bottomCenter" style="s1" xml:id="subtitle487">而且<br />外面漆黑一片。</p>
+<p begin="15612500000t" end="15640830000t" region="bottomCenter" style="s1" xml:id="subtitle488">他看到了这个女孩<br />就在路边,</p>
+<p begin="15641670000t" end="15663330000t" region="bottomCenter" style="s1" xml:id="subtitle489">她好像在哭。</p>
+<p begin="15664170000t" end="15677080000t" region="bottomCenter" style="s1" xml:id="subtitle490">当他靠近时,</p>
+<p begin="15677920000t" end="15693330000t" region="bottomCenter" style="s1" xml:id="subtitle491">那个女孩走了出来<br />进入高速公路,</p>
+<p begin="15694170000t" end="15707080000t" region="bottomCenter" style="s1" xml:id="subtitle492">就在他的卡车前面。</p>
+<p begin="15729170000t" end="15772500000t" region="bottomCenter" style="s1" xml:id="subtitle493">他猛踩刹车,<br />打电话给当地警局,</p>
+<p begin="15773330000t" end="15807500000t" region="bottomCenter" style="s1" xml:id="subtitle494">出去,<br />然后去找她。</p>
+<p begin="15808330000t" end="15827920000t" region="bottomCenter" style="s1" xml:id="subtitle495">Only she ain't there.</p>
+<p begin="15828750000t" end="15860420000t" region="bottomCenter" style="s1" xml:id="subtitle496">他看起来<br />出租车下面，什么都没有。</p>
+<p begin="15861250000t" end="15885000000t" region="bottomCenter" style="s1" xml:id="subtitle497">轮胎下面，没有。</p>
+<p begin="15885830000t" end="15904170000t" region="bottomCenter" style="s1" xml:id="subtitle498">她不在。</p>
+<p begin="15905000000t" end="15942500000t" region="bottomCenter" style="s1" xml:id="subtitle499">格栅没有凹痕,<br />没有血迹，什么都没有。</p>
+<p begin="15943330000t" end="15961670000t" region="bottomCenter" style="s1" xml:id="subtitle500">这怎么可能？</p>
+<p begin="15977500000t" end="16003330000t" region="bottomCenter" style="s1" xml:id="subtitle501">根本没有什么女孩。</p>
+<p begin="16004170000t" end="16037080000t" region="bottomCenter" style="s1" xml:id="subtitle502">我爸爸<br />也没怎么睡。</p>
+<p begin="16037920000t" end="16065420000t" region="bottomCenter" style="s1" xml:id="subtitle503">有时他24小时不睡觉</p>
+<p begin="16066250000t" end="16086670000t" region="bottomCenter" style="s1" xml:id="subtitle504">只是为了逃跑。</p>
+<p begin="16087500000t" end="16127500000t" region="bottomCenter" style="s1" xml:id="subtitle505">你熬夜那么久,<br />你开始出现幻觉。</p>
+<p begin="16128330000t" end="16186250000t" region="bottomCenter" style="s1" xml:id="subtitle506">达里尔，我不是瘾君子<br />卡车司机就像..</p>
+<p begin="16214580000t" end="16246670000t" region="bottomCenter" style="s1" xml:id="subtitle507">不是说你爸爸。</p>
+<p begin="16247500000t" end="16272500000t" region="bottomCenter" style="s1" xml:id="subtitle508">对不起。</p>
+<p begin="16328330000t" end="16344580000t" region="bottomCenter" style="s1" xml:id="subtitle509">不，你说得对。</p>
+<p begin="16345420000t" end="16389580000t" region="bottomCenter" style="s1" xml:id="subtitle510">但这并不意味着我错了。</p>
+<p begin="16390420000t" end="16411670000t" region="bottomCenter" style="s1" xml:id="subtitle511">(闹钟响起)</p>
+<p begin="16412500000t" end="16436670000t" region="bottomCenter" style="s1" xml:id="subtitle512">该换班了。</p>
+<p begin="16437500000t" end="16462500000t" region="bottomCenter" style="s1" xml:id="subtitle513">- (药丸嘎嘎作响)<br />别拿那个。</p>
+<p begin="16463330000t" end="16486670000t" region="bottomCenter" style="s1" xml:id="subtitle514">你需要休息。</p>
+<p begin="16500000000t" end="16522920000t" region="bottomCenter" style="s1" xml:id="subtitle515">我做不到。</p>
+<p begin="16530420000t" end="16544170000t" region="bottomCenter" style="s1" xml:id="subtitle516">(bottle clatters)</p>
+<p begin="16545000000t" end="16568330000t" region="bottomCenter" style="s1" xml:id="subtitle517">为什么？</p>
+<p begin="16569170000t" end="16593750000t" region="bottomCenter" style="s1" xml:id="subtitle518">噩梦？</p>
+<p begin="16630830000t" end="16656670000t" region="bottomCenter" style="s1" xml:id="subtitle519">(叮当声)</p>
+<p begin="16695420000t" end="16727080000t" region="bottomCenter" style="s1" xml:id="subtitle520">♪♪</p>
+<p begin="16727920000t" end="16744170000t" region="bottomCenter" style="s1" xml:id="subtitle521">(玻璃粉碎)</p>
+<p begin="16745000000t" end="16762920000t" region="bottomCenter" style="s1" xml:id="subtitle522">(步行者咆哮)</p>
+<p begin="16763750000t" end="16799170000t" region="bottomCenter" style="s1" xml:id="subtitle523">♪♪</p>
+<p begin="16800000000t" end="16814580000t" region="bottomCenter" style="s1" xml:id="subtitle524">(哗啦声继续)</p>
+<p begin="16815420000t" end="16872080000t" region="bottomCenter" style="s1" xml:id="subtitle525">♪♪</p>
+<p begin="16872920000t" end="16930000000t" region="bottomCenter" style="s1" xml:id="subtitle526">♪♪</p>
+<p begin="16930830000t" end="16945000000t" region="bottomCenter" style="s1" xml:id="subtitle527">(敲门声)</p>
+<p begin="16945830000t" end="16976250000t" region="bottomCenter" style="s1" xml:id="subtitle528">(呼噜声)</p>
+<p begin="16977080000t" end="17044580000t" region="bottomCenter" style="s1" xml:id="subtitle529">♪♪</p>
+<p begin="17045420000t" end="17112500000t" region="bottomCenter" style="s1" xml:id="subtitle530">♪♪</p>
+<p begin="17113330000t" end="17148330000t" region="bottomCenter" style="s1" xml:id="subtitle531">(喘着粗气)</p>
+<p begin="17149170000t" end="17169170000t" region="bottomCenter" style="s1" xml:id="subtitle532">尼根？</p>
+<p begin="17170000000t" end="17189170000t" region="bottomCenter" style="s1" xml:id="subtitle533">♪♪</p>
+<p begin="17190000000t" end="17212500000t" region="bottomCenter" style="s1" xml:id="subtitle534">尼根？</p>
+<p begin="17213330000t" end="17242500000t" region="bottomCenter" style="s1" xml:id="subtitle535">(喘着粗气)</p>
+<p begin="17243330000t" end="17269170000t" region="bottomCenter" style="s1" xml:id="subtitle536">你没事吧？</p>
+<p begin="17287500000t" end="17314170000t" region="bottomCenter" style="s1" xml:id="subtitle537">是的。<br />你怎么..</p>
+<p begin="17315000000t" end="17336250000t" region="bottomCenter" style="s1" xml:id="subtitle538">你的灯亮了。</p>
+<p begin="17337080000t" end="17373750000t" region="bottomCenter" style="s1" xml:id="subtitle539">(呼噜声)</p>
+<p begin="17416670000t" end="17442500000t" region="bottomCenter" style="s1" xml:id="subtitle540">我看不见了。</p>
+<p begin="17443330000t" end="17472500000t" region="bottomCenter" style="s1" xml:id="subtitle541">花儿长出来了<br />丧尸是大猪草。</p>
+<p begin="17473330000t" end="17492080000t" region="bottomCenter" style="s1" xml:id="subtitle542">猪草？<br />真恶心。</p>
+<p begin="17492920000t" end="17518750000t" region="bottomCenter" style="s1" xml:id="subtitle543">导致皮疹，失明。</p>
+<p begin="17519580000t" end="17549580000t" region="bottomCenter" style="s1" xml:id="subtitle544">是永久性的吗？<br />有时候。</p>
+<p begin="17550420000t" end="17577080000t" region="bottomCenter" style="s1" xml:id="subtitle545">你把眼睛洗干净了？</p>
+<p begin="17577920000t" end="17600830000t" region="bottomCenter" style="s1" xml:id="subtitle546">是的，我用了..。</p>
+<p begin="17601670000t" end="17615830000t" region="bottomCenter" style="s1" xml:id="subtitle547">不见了。</p>
+<p begin="17616670000t" end="17635830000t" region="bottomCenter" style="s1" xml:id="subtitle548">口干舌燥？</p>
+<p begin="17636670000t" end="17648750000t" region="bottomCenter" style="s1" xml:id="subtitle549">是的。</p>
+<p begin="17649580000t" end="17672920000t" region="bottomCenter" style="s1" xml:id="subtitle550">(水壶盖吱吱声)</p>
+<p begin="17673750000t" end="17691670000t" region="bottomCenter" style="s1" xml:id="subtitle551">给你。</p>
+<p begin="17727500000t" end="17744170000t" region="bottomCenter" style="s1" xml:id="subtitle552">开始了。</p>
+<p begin="17745000000t" end="17763750000t" region="bottomCenter" style="s1" xml:id="subtitle553">开始了。</p>
+<p begin="17764580000t" end="17780420000t" region="bottomCenter" style="s1" xml:id="subtitle554">(呼噜声)</p>
+<p begin="17800420000t" end="17827920000t" region="bottomCenter" style="s1" xml:id="subtitle555">好吧。<br />就在这儿。</p>
+<p begin="17870830000t" end="17882920000t" region="bottomCenter" style="s1" xml:id="subtitle556">等等。</p>
+<p begin="17883750000t" end="17919170000t" region="bottomCenter" style="s1" xml:id="subtitle557">你要去哪里？</p>
+<p begin="17920000000t" end="17946670000t" region="bottomCenter" style="s1" xml:id="subtitle558">我来放哨。</p>
+<p begin="17947500000t" end="17974580000t" region="bottomCenter" style="s1" xml:id="subtitle559">We'll leave<br />早上第一件事。</p>
+<p begin="17975420000t" end="18015420000t" region="bottomCenter" style="s1" xml:id="subtitle560">我是说,<br />如果你不介意的话。</p>
+<p begin="18016250000t" end="18047080000t" region="bottomCenter" style="s1" xml:id="subtitle561">是的。</p>
+<p begin="18047920000t" end="18078330000t" region="bottomCenter" style="s1" xml:id="subtitle562">是的，没关系。</p>
+<p begin="18110830000t" end="18135830000t" region="bottomCenter" style="s1" xml:id="subtitle563">(远处的叮当声)</p>
+<p begin="18136670000t" end="18180420000t" region="bottomCenter" style="s1" xml:id="subtitle564">♪♪</p>
+<p begin="18181250000t" end="18224580000t" region="bottomCenter" style="s1" xml:id="subtitle565">♪♪</p>
+<p begin="18225420000t" end="18282500000t" region="bottomCenter" style="s1" xml:id="subtitle566">♪♪</p>
+<p begin="18283330000t" end="18307500000t" region="bottomCenter" style="s1" xml:id="subtitle567">(玻璃嘎吱声)</p>
+<p begin="18308330000t" end="18375420000t" region="bottomCenter" style="s1" xml:id="subtitle568">♪♪</p>
+<p begin="18376250000t" end="18427500000t" region="bottomCenter" style="s1" xml:id="subtitle569">♪♪</p>
+<p begin="18428330000t" end="18473750000t" region="bottomCenter" style="s1" xml:id="subtitle570">(玻璃嘎吱声)</p>
+<p begin="18474580000t" end="18493750000t" region="bottomCenter" style="s1" xml:id="subtitle571">♪♪</p>
+<p begin="18494580000t" end="18522080000t" region="bottomCenter" style="s1" xml:id="subtitle572">妈妈？</p>
+<p begin="18522920000t" end="18543750000t" region="bottomCenter" style="s1" xml:id="subtitle573">♪♪</p>
+<p begin="18544580000t" end="18563330000t" region="bottomCenter" style="s1" xml:id="subtitle574">妈妈。</p>
+<p begin="18564170000t" end="18630420000t" region="bottomCenter" style="s1" xml:id="subtitle575">♪♪</p>
+<p begin="18660000000t" end="18670420000t" region="bottomCenter" style="s1" xml:id="subtitle576">嘿。</p>
+<p begin="18671250000t" end="18680830000t" region="bottomCenter" style="s1" xml:id="subtitle577">你没事吧？</p>
+<p begin="18681670000t" end="18700000000t" region="bottomCenter" style="s1" xml:id="subtitle578">你去哪儿了？</p>
+<p begin="18700830000t" end="18717920000t" region="bottomCenter" style="s1" xml:id="subtitle579">什么？</p>
+<p begin="18718750000t" end="18730830000t" region="bottomCenter" style="s1" xml:id="subtitle580">你已经走了半个小时了。</p>
+<p begin="18731670000t" end="18747920000t" region="bottomCenter" style="s1" xml:id="subtitle581">巡逻。</p>
+<p begin="18748750000t" end="18768330000t" region="bottomCenter" style="s1" xml:id="subtitle582">我好像听到了什么。</p>
+<p begin="18790000000t" end="18812500000t" region="bottomCenter" style="s1" xml:id="subtitle583">我没事。</p>
+<p begin="18813330000t" end="18837500000t" region="bottomCenter" style="s1" xml:id="subtitle584">这不是你爸爸<br />看到鬼魂。</p>
+<p begin="18838330000t" end="18864580000t" region="bottomCenter" style="s1" xml:id="subtitle585">什么？<br />那个女孩的故事</p>
+<p begin="18865420000t" end="18882500000t" region="bottomCenter" style="s1" xml:id="subtitle586">当你爸爸<br />是个卡车司机。</p>
+<p begin="18883330000t" end="18906250000t" region="bottomCenter" style="s1" xml:id="subtitle587">我爸爸不是卡车司机。</p>
+<p begin="18907080000t" end="18941250000t" region="bottomCenter" style="s1" xml:id="subtitle588">(闹钟响起)</p>
+<p begin="18942080000t" end="18960420000t" region="bottomCenter" style="s1" xml:id="subtitle589">该换班了。</p>
+<p begin="18992920000t" end="19024580000t" region="bottomCenter" style="s1" xml:id="subtitle590">(计时器曲柄)</p>
+<p begin="19025420000t" end="19052920000t" region="bottomCenter" style="s1" xml:id="subtitle591">(药丸咯咯作响)</p>
+<p begin="19073330000t" end="19119170000t" region="bottomCenter" style="s1" xml:id="subtitle592">来吧。<br />别拿那个。</p>
+<p begin="19171250000t" end="19195420000t" region="bottomCenter" style="s1" xml:id="subtitle593">还有一个小时。</p>
+<p begin="19221250000t" end="19247920000t" region="bottomCenter" style="s1" xml:id="subtitle594">一个小时。</p>
+<p begin="19248750000t" end="19275420000t" region="bottomCenter" style="s1" xml:id="subtitle595">好吧。</p>
+<p begin="19385420000t" end="19427920000t" region="bottomCenter" style="s1" xml:id="subtitle596">♪♪</p>
+<p begin="19445000000t" end="19477500000t" region="bottomCenter" style="s1" xml:id="subtitle597">(链条嘎嘎作响)</p>
+<p begin="19478330000t" end="19527500000t" region="bottomCenter" style="s1" xml:id="subtitle598">♪♪</p>
+<p begin="19528330000t" end="19577500000t" region="bottomCenter" style="s1" xml:id="subtitle599">♪♪</p>
+<p begin="19578330000t" end="19627080000t" region="bottomCenter" style="s1" xml:id="subtitle600">♪♪</p>
+<p begin="19627920000t" end="19672080000t" region="bottomCenter" style="s1" xml:id="subtitle601">♪♪</p>
+<p begin="19672920000t" end="19702080000t" region="bottomCenter" style="s1" xml:id="subtitle602">(玻璃嘎吱声)</p>
+<p begin="19702920000t" end="19745420000t" region="bottomCenter" style="s1" xml:id="subtitle603">♪♪</p>
+<p begin="19746250000t" end="19758750000t" region="bottomCenter" style="s1" xml:id="subtitle604">(玻璃粉碎)</p>
+<p begin="19759580000t" end="19779170000t" region="bottomCenter" style="s1" xml:id="subtitle605">♪♪</p>
+<p begin="19780000000t" end="19797080000t" region="bottomCenter" style="s1" xml:id="subtitle606">(玻璃嘎吱声)</p>
+<p begin="19797920000t" end="19854580000t" region="bottomCenter" style="s1" xml:id="subtitle607">♪♪</p>
+<p begin="19855420000t" end="19883750000t" region="bottomCenter" style="s1" xml:id="subtitle608">啊！<br />(撞击声)</p>
+<p begin="19884580000t" end="19929580000t" region="bottomCenter" style="s1" xml:id="subtitle609">(绳索吱吱作响)</p>
+<p begin="19930420000t" end="19993330000t" region="bottomCenter" style="s1" xml:id="subtitle610">♪♪</p>
+<p begin="19994170000t" end="20057080000t" region="bottomCenter" style="s1" xml:id="subtitle611">♪♪</p>
+<p begin="20057920000t" end="20091250000t" region="bottomCenter" style="s1" xml:id="subtitle612">(呼噜声)</p>
+<p begin="20092080000t" end="20132080000t" region="bottomCenter" style="s1" xml:id="subtitle613">(玻璃起皱)</p>
+<p begin="20132920000t" end="20163750000t" region="bottomCenter" style="s1" xml:id="subtitle614">♪♪</p>
+<p begin="20164580000t" end="20192920000t" region="bottomCenter" style="s1" xml:id="subtitle615">(呼噜声)</p>
+<p begin="20193750000t" end="20249170000t" region="bottomCenter" style="s1" xml:id="subtitle616">♪♪</p>
+<p begin="20250000000t" end="20302500000t" region="bottomCenter" style="s1" xml:id="subtitle617">(步行者咆哮)</p>
+<p begin="20303330000t" end="20362920000t" region="bottomCenter" style="s1" xml:id="subtitle618">♪♪</p>
+<p begin="20363750000t" end="20423330000t" region="bottomCenter" style="s1" xml:id="subtitle619">♪♪</p>
+<p begin="20424170000t" end="20445420000t" region="bottomCenter" style="s1" xml:id="subtitle620">(枪声)<br />- (行尸咆哮)</p>
+<p begin="20446250000t" end="20470420000t" region="bottomCenter" style="s1" xml:id="subtitle621">♪♪</p>
+<p begin="20471250000t" end="20502500000t" region="bottomCenter" style="s1" xml:id="subtitle622">救命啊！</p>
+<p begin="20503330000t" end="20520000000t" region="bottomCenter" style="s1" xml:id="subtitle623">达里尔，救命！</p>
+<p begin="20520830000t" end="20539170000t" region="bottomCenter" style="s1" xml:id="subtitle624">(咆哮继续)</p>
+<p begin="20540000000t" end="20593330000t" region="bottomCenter" style="s1" xml:id="subtitle625">♪♪</p>
+<p begin="20594170000t" end="20613750000t" region="bottomCenter" style="s1" xml:id="subtitle626">(木吱吱作响)</p>
+<p begin="20614580000t" end="20631670000t" region="bottomCenter" style="s1" xml:id="subtitle627">♪♪</p>
+<p begin="20632500000t" end="20667080000t" region="bottomCenter" style="s1" xml:id="subtitle628">(砰的一声)</p>
+<p begin="20667920000t" end="20708750000t" region="bottomCenter" style="s1" xml:id="subtitle629">♪♪</p>
+<p begin="20709580000t" end="20750420000t" region="bottomCenter" style="s1" xml:id="subtitle630">♪♪</p>
+<p begin="20751250000t" end="20788330000t" region="bottomCenter" style="s1" xml:id="subtitle631">(闹钟响起)</p>
+<p begin="20789170000t" end="20812500000t" region="bottomCenter" style="s1" xml:id="subtitle632">(手电筒点击)</p>
+<p begin="20813330000t" end="20830830000t" region="bottomCenter" style="s1" xml:id="subtitle633">卡罗尔！</p>
+<p begin="20831670000t" end="20856670000t" region="bottomCenter" style="s1" xml:id="subtitle634">♪♪</p>
+<p begin="20907080000t" end="20929170000t" region="bottomCenter" style="s1" xml:id="subtitle635">医生！</p>
+<p begin="20930000000t" end="20946250000t" region="bottomCenter" style="s1" xml:id="subtitle636">怎么了？</p>
+<p begin="20947080000t" end="20960830000t" region="bottomCenter" style="s1" xml:id="subtitle637">她摔倒了。<br />她的手臂严重割伤。</p>
+<p begin="20961670000t" end="20974170000t" region="bottomCenter" style="s1" xml:id="subtitle638">放松。</p>
+<p begin="20994580000t" end="21025420000t" region="bottomCenter" style="s1" xml:id="subtitle639">请你们都离开。</p>
+<p begin="21026250000t" end="21054580000t" region="bottomCenter" style="s1" xml:id="subtitle640">你把碎片拿出来,</p>
+<p begin="21055420000t" end="21080830000t" region="bottomCenter" style="s1" xml:id="subtitle641">夹开伤口,<br />我就进去。</p>
+<p begin="21081670000t" end="21093750000t" region="bottomCenter" style="s1" xml:id="subtitle642">只要你一句话。</p>
+<p begin="21094580000t" end="21132080000t" region="bottomCenter" style="s1" xml:id="subtitle643">♪♪</p>
+<p begin="21132920000t" end="21165830000t" region="bottomCenter" style="s1" xml:id="subtitle644">(女人尖叫)</p>
+<p begin="21166670000t" end="21185420000t" region="bottomCenter" style="s1" xml:id="subtitle645">♪♪</p>
+<p begin="21186250000t" end="21200830000t" region="bottomCenter" style="s1" xml:id="subtitle646">很好。</p>
+<p begin="21201670000t" end="21225420000t" region="bottomCenter" style="s1" xml:id="subtitle647">(喘着粗气)</p>
+<p begin="21243750000t" end="21274580000t" region="bottomCenter" style="s1" xml:id="subtitle648">你夹住，我进去。</p>
+<p begin="21275420000t" end="21292080000t" region="bottomCenter" style="s1" xml:id="subtitle649">我没事。</p>
+<p begin="21292920000t" end="21324580000t" region="bottomCenter" style="s1" xml:id="subtitle650">你不是。</p>
+<p begin="21325420000t" end="21350830000t" region="bottomCenter" style="s1" xml:id="subtitle651">(呻吟)</p>
+<p begin="21351670000t" end="21368750000t" region="bottomCenter" style="s1" xml:id="subtitle652">嘿。</p>
+<p begin="21369580000t" end="21395420000t" region="bottomCenter" style="s1" xml:id="subtitle653">没关系。</p>
+<p begin="21396250000t" end="21428330000t" region="bottomCenter" style="s1" xml:id="subtitle654">给你。</p>
+<p begin="21429170000t" end="21454580000t" region="bottomCenter" style="s1" xml:id="subtitle655">(蟋蟀鸣叫)</p>
+<p begin="21455420000t" end="21478750000t" region="bottomCenter" style="s1" xml:id="subtitle656">(门打开)</p>
+<p begin="21479580000t" end="21494170000t" region="bottomCenter" style="s1" xml:id="subtitle657">她没事吧？</p>
+<p begin="21495000000t" end="21518330000t" region="bottomCenter" style="s1" xml:id="subtitle658">她..。</p>
+<p begin="21519170000t" end="21533330000t" region="bottomCenter" style="s1" xml:id="subtitle659">我..。</p>
+<p begin="21534170000t" end="21555000000t" region="bottomCenter" style="s1" xml:id="subtitle660">他把它弄出来了。</p>
+<p begin="21555830000t" end="21575000000t" region="bottomCenter" style="s1" xml:id="subtitle661">她已经包扎好了<br />然后像灯一样熄灭。</p>
+<p begin="21575830000t" end="21599580000t" region="bottomCenter" style="s1" xml:id="subtitle662">很好。</p>
+<p begin="21707080000t" end="21737920000t" region="bottomCenter" style="s1" xml:id="subtitle663">(鸟鸣)</p>
+<p begin="21781670000t" end="21807500000t" region="bottomCenter" style="s1" xml:id="subtitle664">你能看见我吗？</p>
+<p begin="21827920000t" end="21854580000t" region="bottomCenter" style="s1" xml:id="subtitle665">是的。</p>
+<p begin="21867920000t" end="21893750000t" region="bottomCenter" style="s1" xml:id="subtitle666">很好。</p>
+<p begin="21934170000t" end="21968330000t" region="bottomCenter" style="s1" xml:id="subtitle667">(昆虫嗡嗡声)</p>
+<p begin="22031250000t" end="22043330000t" region="bottomCenter" style="s1" xml:id="subtitle668">啊！</p>
+<p begin="22044170000t" end="22065000000t" region="bottomCenter" style="s1" xml:id="subtitle669">该死，我累了。</p>
+<p begin="22065830000t" end="22081250000t" region="bottomCenter" style="s1" xml:id="subtitle670">你应该害怕。</p>
+<p begin="22082080000t" end="22107500000t" region="bottomCenter" style="s1" xml:id="subtitle671">你很刻薄<br />像黄蜂妈妈一样。</p>
+<p begin="22108330000t" end="22125420000t" region="bottomCenter" style="s1" xml:id="subtitle672">是吗？<br />你..。</p>
+<p begin="22126250000t" end="22145420000t" region="bottomCenter" style="s1" xml:id="subtitle673">你坚强得像个..。</p>
+<p begin="22146250000t" end="22158330000t" region="bottomCenter" style="s1" xml:id="subtitle674">炖臭鼬？</p>
+<p begin="22159170000t" end="22178750000t" region="bottomCenter" style="s1" xml:id="subtitle675">蝙蝠獾？</p>
+<p begin="22179580000t" end="22196250000t" region="bottomCenter" style="s1" xml:id="subtitle676">愤怒的企鹅？</p>
+<p begin="22197080000t" end="22212500000t" region="bottomCenter" style="s1" xml:id="subtitle677">以上皆有。</p>
+<p begin="22213330000t" end="22228330000t" region="bottomCenter" style="s1" xml:id="subtitle678">(笑)</p>
+<p begin="22229170000t" end="22262080000t" region="bottomCenter" style="s1" xml:id="subtitle679">罗西塔，可可呢？<br />可能在睡觉。</p>
+<p begin="22262920000t" end="22282500000t" region="bottomCenter" style="s1" xml:id="subtitle680">我想你把我的问题搞糊涂了<br />“开拍”</p>
+<p begin="22283330000t" end="22301250000t" region="bottomCenter" style="s1" xml:id="subtitle681">在我努力的时候<br />辨别“地点”</p>
+<p begin="22302080000t" end="22316250000t" region="bottomCenter" style="s1" xml:id="subtitle682">她和芭芭拉在一起。</p>
+<p begin="22317080000t" end="22340000000t" region="bottomCenter" style="s1" xml:id="subtitle683">可以吗？<br />只是..。</p>
+<p begin="22340830000t" end="22375830000t" region="bottomCenter" style="s1" xml:id="subtitle684">那个小金块长不大<br />没有她妈妈。</p>
+<p begin="22376670000t" end="22400830000t" region="bottomCenter" style="s1" xml:id="subtitle685">我今天和你出去了<br />来保护你</p>
+<p begin="22401670000t" end="22422080000t" region="bottomCenter" style="s1" xml:id="subtitle686">因为我在乎你。<br />保护我？</p>
+<p begin="22422920000t" end="22438750000t" region="bottomCenter" style="s1" xml:id="subtitle687">我教你如何战斗。</p>
+<p begin="22462920000t" end="22479170000t" region="bottomCenter" style="s1" xml:id="subtitle688">(嘲笑)</p>
+<p begin="22480000000t" end="22497080000t" region="bottomCenter" style="s1" xml:id="subtitle689">罗西塔，我..</p>
+<p begin="22497920000t" end="22519580000t" region="bottomCenter" style="s1" xml:id="subtitle690">该死，尤金！</p>
+<p begin="22520420000t" end="22546670000t" region="bottomCenter" style="s1" xml:id="subtitle691">你和我<br />永远不会发生。</p>
+<p begin="22547500000t" end="22567920000t" region="bottomCenter" style="s1" xml:id="subtitle692">你不是可可的父亲。</p>
+<p begin="22568750000t" end="22580830000t" region="bottomCenter" style="s1" xml:id="subtitle693">我们没在一起。</p>
+<p begin="22581670000t" end="22598750000t" region="bottomCenter" style="s1" xml:id="subtitle694">你得听我说。</p>
+<p begin="22614580000t" end="22637080000t" region="bottomCenter" style="s1" xml:id="subtitle695">(叹气)</p>
+<p begin="22637920000t" end="22654580000t" region="bottomCenter" style="s1" xml:id="subtitle696">我..。</p>
+<p begin="22655420000t" end="22670000000t" region="bottomCenter" style="s1" xml:id="subtitle697">我很抱歉这么说。</p>
+<p begin="22670830000t" end="22686250000t" region="bottomCenter" style="s1" xml:id="subtitle698">我..。</p>
+<p begin="22687080000t" end="22710000000t" region="bottomCenter" style="s1" xml:id="subtitle699">我只是，太累了。</p>
+<p begin="22710830000t" end="22741250000t" region="bottomCenter" style="s1" xml:id="subtitle700">我觉得... 醉了。</p>
+<p begin="22755000000t" end="22775830000t" region="bottomCenter" style="s1" xml:id="subtitle701">(叹气)</p>
+<p begin="22776670000t" end="22800420000t" region="bottomCenter" style="s1" xml:id="subtitle702">哦，上帝。</p>
+<p begin="22816250000t" end="22843750000t" region="bottomCenter" style="s1" xml:id="subtitle703">你知道<br />用这个表达,</p>
+<p begin="22844580000t" end="22860830000t" region="bottomCenter" style="s1" xml:id="subtitle704">一个醉汉<br />说出一颗清醒的心?”</p>
+<p begin="22861670000t" end="22876250000t" region="bottomCenter" style="s1" xml:id="subtitle705">不。</p>
+<p begin="22877080000t" end="22912080000t" region="bottomCenter" style="s1" xml:id="subtitle706">在药物影响下,<br />抑制力降低了。</p>
+<p begin="22912920000t" end="22930420000t" region="bottomCenter" style="s1" xml:id="subtitle707">秘密和真相大白于天下。</p>
+<p begin="22931250000t" end="22947920000t" region="bottomCenter" style="s1" xml:id="subtitle708">一语双关。</p>
+<p begin="22948750000t" end="22968750000t" region="bottomCenter" style="s1" xml:id="subtitle709">睡眠剥夺<br />降低抑制力,</p>
+<p begin="22969580000t" end="22992080000t" region="bottomCenter" style="s1" xml:id="subtitle710">增强了冲动性<br />以类似的方式。</p>
+<p begin="22992920000t" end="23022080000t" region="bottomCenter" style="s1" xml:id="subtitle711">因此，当你说,<br />“这是不可能的”</p>
+<p begin="23022920000t" end="23048330000t" region="bottomCenter" style="s1" xml:id="subtitle712">这是未经过滤的真相<br />直接从你的心脏开始。</p>
+<p begin="23049170000t" end="23078330000t" region="bottomCenter" style="s1" xml:id="subtitle713">我一直在努力<br />告诉你这些。</p>
+<p begin="23079170000t" end="23107080000t" region="bottomCenter" style="s1" xml:id="subtitle714">我没有听。</p>
+<p begin="23121250000t" end="23144170000t" region="bottomCenter" style="s1" xml:id="subtitle715">因为我觉得,<br />也许有一天,</p>
+<p begin="23145000000t" end="23164580000t" region="bottomCenter" style="s1" xml:id="subtitle716">可能有<br />一些特别的东西</p>
+<p begin="23165420000t" end="23193330000t" region="bottomCenter" style="s1" xml:id="subtitle717">你们之间<br />也是你真诚的朋友。</p>
+<p begin="23207500000t" end="23236250000t" region="bottomCenter" style="s1" xml:id="subtitle718">但那里什么都没有。<br />从来就没有。</p>
+<p begin="23257080000t" end="23287080000t" region="bottomCenter" style="s1" xml:id="subtitle719">你觉得我们的友谊<br />什么都不是吗？</p>
+<p begin="23287920000t" end="23310000000t" region="bottomCenter" style="s1" xml:id="subtitle720">这就是你未经过滤的真相吗？</p>
+<p begin="23355830000t" end="23395000000t" region="bottomCenter" style="s1" xml:id="subtitle721">我不想吃东西<br />一勺一勺的忧伤</p>
+<p begin="23395830000t" end="23405830000t" region="bottomCenter" style="s1" xml:id="subtitle722">在你面前,</p>
+<p begin="23406670000t" end="23425000000t" region="bottomCenter" style="s1" xml:id="subtitle723">但我正处于</p>
+<p begin="23425830000t" end="23467500000t" region="bottomCenter" style="s1" xml:id="subtitle724">体验<br />清醒的毁灭性时刻。</p>
+<p begin="23483330000t" end="23498750000t" region="bottomCenter" style="s1" xml:id="subtitle725">我们的..<br />我们的友谊</p>
+<p begin="23499580000t" end="23523750000t" region="bottomCenter" style="s1" xml:id="subtitle726">前提是<br />我错误地认为,</p>
+<p begin="23524580000t" end="23554170000t" region="bottomCenter" style="s1" xml:id="subtitle727">也许有一天，我可以<br />改变主意。</p>
+<p begin="23555000000t" end="23579170000t" region="bottomCenter" style="s1" xml:id="subtitle728">你会明白的<br />我够格了</p>
+<p begin="23580000000t" end="23615830000t" region="bottomCenter" style="s1" xml:id="subtitle729">被重新规划<br />进入爱情小镇。</p>
+<p begin="23632080000t" end="23655420000t" region="bottomCenter" style="s1" xml:id="subtitle730">这算什么朋友？</p>
+<p begin="23656250000t" end="23672920000t" region="bottomCenter" style="s1" xml:id="subtitle731">对不起。</p>
+<p begin="23673750000t" end="23689170000t" region="bottomCenter" style="s1" xml:id="subtitle732">尤金。</p>
+<p begin="23690000000t" end="23703750000t" region="bottomCenter" style="s1" xml:id="subtitle733">对不起。</p>
+<p begin="23726250000t" end="23736250000t" region="bottomCenter" style="s1" xml:id="subtitle734">(门打开)</p>
+<p begin="23747080000t" end="23759580000t" region="bottomCenter" style="s1" xml:id="subtitle735">(关门声)</p>
+<p begin="23863750000t" end="23883750000t" region="bottomCenter" style="s1" xml:id="subtitle736">还没睡？</p>
+<p begin="23884580000t" end="23900420000t" region="bottomCenter" style="s1" xml:id="subtitle737">是的。</p>
+<p begin="23901250000t" end="23912080000t" region="bottomCenter" style="s1" xml:id="subtitle738">我也是。</p>
+<p begin="23912920000t" end="23946670000t" region="bottomCenter" style="s1" xml:id="subtitle739">(叹气)</p>
+<p begin="24002500000t" end="24030420000t" region="bottomCenter" style="s1" xml:id="subtitle740">你还好吗？</p>
+<p begin="24031250000t" end="24055000000t" region="bottomCenter" style="s1" xml:id="subtitle741">我应该问你这个问题。</p>
+<p begin="24055830000t" end="24075420000t" region="bottomCenter" style="s1" xml:id="subtitle742">我是个母亲。</p>
+<p begin="24076250000t" end="24104170000t" region="bottomCenter" style="s1" xml:id="subtitle743">睡眠不足<br />就是我的基本现实。</p>
+<p begin="24105000000t" end="24135000000t" region="bottomCenter" style="s1" xml:id="subtitle744">你那表情<br />在会议厅..。</p>
+<p begin="24135830000t" end="24147500000t" region="bottomCenter" style="s1" xml:id="subtitle745">(嘲笑)</p>
+<p begin="24148330000t" end="24164170000t" region="bottomCenter" style="s1" xml:id="subtitle746">我是个父亲。</p>
+<p begin="24165000000t" end="24178330000t" region="bottomCenter" style="s1" xml:id="subtitle747">(抽泣)</p>
+<p begin="24179170000t" end="24204170000t" region="bottomCenter" style="s1" xml:id="subtitle748">我只是，我累了。</p>
+<p begin="24218330000t" end="24232920000t" region="bottomCenter" style="s1" xml:id="subtitle749">累了。</p>
+<p begin="24233750000t" end="24246670000t" region="bottomCenter" style="s1" xml:id="subtitle750">是的。</p>
+<p begin="24247500000t" end="24260830000t" region="bottomCenter" style="s1" xml:id="subtitle751">好吧。</p>
+<p begin="24261670000t" end="24282920000t" region="bottomCenter" style="s1" xml:id="subtitle752">回头见？</p>
+<p begin="24283750000t" end="24309580000t" region="bottomCenter" style="s1" xml:id="subtitle753">是的。<br />我们会焕然一新的。</p>
+<p begin="24310420000t" end="24332920000t" region="bottomCenter" style="s1" xml:id="subtitle754">那是你自己的想法。</p>
+<p begin="24402500000t" end="24424580000t" region="bottomCenter" style="s1" xml:id="subtitle755">(嘲笑)</p>
+<p begin="24442500000t" end="24460420000t" region="bottomCenter" style="s1" xml:id="subtitle756">好吧，来吧，伙计。<br />- 我...-听着,</p>
+<p begin="24461250000t" end="24475420000t" region="bottomCenter" style="s1" xml:id="subtitle757">我要睡觉了。<br />哦，不，这就是原因</p>
+<p begin="24476250000t" end="24492080000t" region="bottomCenter" style="s1" xml:id="subtitle758">我带过来了。</p>
+<p begin="24492920000t" end="24507500000t" region="bottomCenter" style="s1" xml:id="subtitle759">(笑)</p>
+<p begin="24508330000t" end="24533750000t" region="bottomCenter" style="s1" xml:id="subtitle760">(液体倒)</p>
+<p begin="24534580000t" end="24567920000t" region="bottomCenter" style="s1" xml:id="subtitle761">你知道我在伊拉克看过战斗吗？</p>
+<p begin="24568750000t" end="24589170000t" region="bottomCenter" style="s1" xml:id="subtitle762">是的，我以前是野战医生。</p>
+<p begin="24590000000t" end="24620830000t" region="bottomCenter" style="s1" xml:id="subtitle763">你现在才告诉我？</p>
+<p begin="24621670000t" end="24650000000t" region="bottomCenter" style="s1" xml:id="subtitle764">我不喜欢说话<br />除非万不得已，所以..。</p>
+<p begin="24694170000t" end="24710000000t" region="bottomCenter" style="s1" xml:id="subtitle765">(玻璃叮当声)</p>
+<p begin="24710830000t" end="24740830000t" region="bottomCenter" style="s1" xml:id="subtitle766">干杯</p>
+<p begin="24756670000t" end="24781670000t" region="bottomCenter" style="s1" xml:id="subtitle767">(吸食)</p>
+<p begin="24782500000t" end="24806670000t" region="bottomCenter" style="s1" xml:id="subtitle768">(叹气)</p>
+<p begin="24823330000t" end="24842500000t" region="bottomCenter" style="s1" xml:id="subtitle769">(叹气)</p>
+<p begin="24843330000t" end="24889580000t" region="bottomCenter" style="s1" xml:id="subtitle770">你一个人进去,<br />出来就不一样了。</p>
+<p begin="24890420000t" end="24909580000t" region="bottomCenter" style="s1" xml:id="subtitle771">♪♪</p>
+<p begin="24910420000t" end="24940420000t" region="bottomCenter" style="s1" xml:id="subtitle772">我认识一个人<br />(笑)</p>
+<p begin="24941250000t" end="24962500000t" region="bottomCenter" style="s1" xml:id="subtitle773">该死，大家都认识他。</p>
+<p begin="24963330000t" end="24976250000t" region="bottomCenter" style="s1" xml:id="subtitle774">自大。</p>
+<p begin="24977080000t" end="24998750000t" region="bottomCenter" style="s1" xml:id="subtitle775">宽阔的肩膀,<br />长得像美男子的猫。</p>
+<p begin="24999580000t" end="25011250000t" region="bottomCenter" style="s1" xml:id="subtitle776">(笑)</p>
+<p begin="25012080000t" end="25039170000t" region="bottomCenter" style="s1" xml:id="subtitle777">(笑)<br />就是这家伙</p>
+<p begin="25040000000t" end="25058330000t" region="bottomCenter" style="s1" xml:id="subtitle778">永远不会破裂。</p>
+<p begin="25059170000t" end="25078330000t" region="bottomCenter" style="s1" xml:id="subtitle779">♪♪</p>
+<p begin="25079170000t" end="25103330000t" region="bottomCenter" style="s1" xml:id="subtitle780">直到他做到了。</p>
+<p begin="25104170000t" end="25118330000t" region="bottomCenter" style="s1" xml:id="subtitle781">♪♪</p>
+<p begin="25119170000t" end="25134170000t" region="bottomCenter" style="s1" xml:id="subtitle782">在 Fallujah 失去了他的小队。</p>
+<p begin="25135000000t" end="25157080000t" region="bottomCenter" style="s1" xml:id="subtitle783">自责。</p>
+<p begin="25157920000t" end="25173330000t" region="bottomCenter" style="s1" xml:id="subtitle784">♪♪</p>
+<p begin="25174170000t" end="25198330000t" region="bottomCenter" style="s1" xml:id="subtitle785">回来的时候还在发抖,<br />千里的凝视,</p>
+<p begin="25199170000t" end="25234170000t" region="bottomCenter" style="s1" xml:id="subtitle786">那些闪回,<br />进出退伍军人管理局。</p>
+<p begin="25235000000t" end="25251250000t" region="bottomCenter" style="s1" xml:id="subtitle787">他一团糟。</p>
+<p begin="25252080000t" end="25274580000t" region="bottomCenter" style="s1" xml:id="subtitle788">“曾经是”？<br />曾经？</p>
+<p begin="25275420000t" end="25302920000t" region="bottomCenter" style="s1" xml:id="subtitle789">发生了什么<br />这家伙？</p>
+<p begin="25303750000t" end="25317920000t" region="bottomCenter" style="s1" xml:id="subtitle790">♪♪</p>
+<p begin="25318750000t" end="25343750000t" region="bottomCenter" style="s1" xml:id="subtitle791">你在和他喝酒。</p>
+<p begin="25344580000t" end="25387080000t" region="bottomCenter" style="s1" xml:id="subtitle792">对不起。</p>
+<p begin="25387920000t" end="25410830000t" region="bottomCenter" style="s1" xml:id="subtitle793">(笑)<br />- “美男子模样的猫”？</p>
+<p begin="25411670000t" end="25428330000t" region="bottomCenter" style="s1" xml:id="subtitle794">哦。<br />美丽之神，宝贝。</p>
+<p begin="25429170000t" end="25445000000t" region="bottomCenter" style="s1" xml:id="subtitle795">我只是谦虚一下。</p>
+<p begin="25445830000t" end="25460830000t" region="bottomCenter" style="s1" xml:id="subtitle796">(笑)</p>
+<p begin="25461670000t" end="25498750000t" region="bottomCenter" style="s1" xml:id="subtitle797">(艾略特史密斯的<br />《44号牢房》)</p>
+<p begin="25499580000t" end="25513750000t" region="bottomCenter" style="s1" xml:id="subtitle798">早上好</p>
+<p begin="25514580000t" end="25568750000t" region="bottomCenter" style="s1" xml:id="subtitle799">我希望你感觉好些了<br /><i>baby ♪</i></p>
+<p begin="25569580000t" end="25621670000t" region="bottomCenter" style="s1" xml:id="subtitle800"><i>♪ Thinking of me</i><br />当你远去</p>
+<p begin="25635000000t" end="25653330000t" region="bottomCenter" style="s1" xml:id="subtitle801">嘿。<br />嘿。</p>
+<p begin="25654170000t" end="25702920000t" region="bottomCenter" style="s1" xml:id="subtitle802">♪数着日子<br />直到他们让你重获自由</p>
+<p begin="25703750000t" end="25737920000t" region="bottomCenter" style="s1" xml:id="subtitle803">(叹气)<br />Oh. We need jam.</p>
+<p begin="25738750000t" end="25761670000t" region="bottomCenter" style="s1" xml:id="subtitle804">可能还有一些<br />在商店里。</p>
+<p begin="25762500000t" end="25775000000t" region="bottomCenter" style="s1" xml:id="subtitle805">等一下。</p>
+<p begin="25800420000t" end="25834170000t" region="bottomCenter" style="s1" xml:id="subtitle806">这就对了。<br />谢谢。</p>
+<p begin="25849170000t" end="25873750000t" region="bottomCenter" style="s1" xml:id="subtitle807">你确定他们现在还营业吗？</p>
+<p begin="25874580000t" end="25893750000t" region="bottomCenter" style="s1" xml:id="subtitle808">(手表滴答声)</p>
+<p begin="25894580000t" end="25907500000t" region="bottomCenter" style="s1" xml:id="subtitle809">妈妈？</p>
+<p begin="25921670000t" end="25943750000t" region="bottomCenter" style="s1" xml:id="subtitle810">你要去哪里？</p>
+<p begin="25944580000t" end="25970000000t" region="bottomCenter" style="s1" xml:id="subtitle811">(滴答声)</p>
+<p begin="25985830000t" end="26035000000t" region="bottomCenter" style="s1" xml:id="subtitle812">♪♪</p>
+<p begin="26035830000t" end="26085420000t" region="bottomCenter" style="s1" xml:id="subtitle813">♪♪</p>
+<p begin="26086250000t" end="26111670000t" region="bottomCenter" style="s1" xml:id="subtitle814">♪♪</p>
+<p begin="26112500000t" end="26138330000t" region="bottomCenter" style="s1" xml:id="subtitle815">(叹气)</p>
+<p begin="26230830000t" end="26260000000t" region="bottomCenter" style="s1" xml:id="subtitle816">怎么样？</p>
+<p begin="26284580000t" end="26312500000t" region="bottomCenter" style="s1" xml:id="subtitle817">很疼。</p>
+<p begin="26326250000t" end="26342500000t" region="bottomCenter" style="s1" xml:id="subtitle818">回到这里也很痛苦。</p>
+<p begin="26343330000t" end="26355000000t" region="bottomCenter" style="s1" xml:id="subtitle819">这都是她的错。</p>
+<p begin="26355830000t" end="26371670000t" region="bottomCenter" style="s1" xml:id="subtitle820">你不该阻止我。</p>
+<p begin="26372500000t" end="26394170000t" region="bottomCenter" style="s1" xml:id="subtitle821">我们有七个人<br />在外面。</p>
+<p begin="26395000000t" end="26411250000t" region="bottomCenter" style="s1" xml:id="subtitle822">我得为他们着想。</p>
+<p begin="26412080000t" end="26424580000t" region="bottomCenter" style="s1" xml:id="subtitle823">我知道。</p>
+<p begin="26440420000t" end="26468750000t" region="bottomCenter" style="s1" xml:id="subtitle824">但我确实看到了。</p>
+<p begin="26500830000t" end="26526250000t" region="bottomCenter" style="s1" xml:id="subtitle825">只有你知道。</p>
+<p begin="26561250000t" end="26625830000t" region="bottomCenter" style="s1" xml:id="subtitle826">♪♪</p>
+<p begin="26626670000t" end="26650830000t" region="bottomCenter" style="s1" xml:id="subtitle827">安全吗？</p>
+<p begin="26651670000t" end="26665830000t" region="bottomCenter" style="s1" xml:id="subtitle828">♪♪</p>
+<p begin="26666670000t" end="26693330000t" region="bottomCenter" style="s1" xml:id="subtitle829">暂时而已。</p>
+<p begin="26694170000t" end="26743330000t" region="bottomCenter" style="s1" xml:id="subtitle830">♪♪</p>
+<p begin="26744170000t" end="26793330000t" region="bottomCenter" style="s1" xml:id="subtitle831">♪♪</p>
+<p begin="26794170000t" end="26843330000t" region="bottomCenter" style="s1" xml:id="subtitle832">♪♪</p>
+<p begin="26844170000t" end="26893330000t" region="bottomCenter" style="s1" xml:id="subtitle833">♪♪</p>
+<p begin="26894170000t" end="26952080000t" region="bottomCenter" style="s1" xml:id="subtitle834">♪♪</p>
+<p begin="26952920000t" end="26972500000t" region="bottomCenter" style="s1" xml:id="subtitle835">(门打开)</p>
+<p begin="27015420000t" end="27034580000t" region="bottomCenter" style="s1" xml:id="subtitle836">粉色很适合你。</p>
+<p begin="27035420000t" end="27061250000t" region="bottomCenter" style="s1" xml:id="subtitle837">(笑)</p>
+<p begin="27091250000t" end="27121250000t" region="bottomCenter" style="s1" xml:id="subtitle838">她不相信我。</p>
+<p begin="27199170000t" end="27224170000t" region="bottomCenter" style="s1" xml:id="subtitle839">是吗？</p>
+<p begin="27265420000t" end="27291250000t" region="bottomCenter" style="s1" xml:id="subtitle840">是的。</p>
+<p begin="27304580000t" end="27354170000t" region="bottomCenter" style="s1" xml:id="subtitle841">♪♪</p>
+<p begin="27355000000t" end="27404170000t" region="bottomCenter" style="s1" xml:id="subtitle842">♪♪</p>
+<p begin="27405000000t" end="27454170000t" region="bottomCenter" style="s1" xml:id="subtitle843">♪♪</p>
+<p begin="27455000000t" end="27504170000t" region="bottomCenter" style="s1" xml:id="subtitle844">♪♪</p>
+<p begin="27505000000t" end="27554170000t" region="bottomCenter" style="s1" xml:id="subtitle845">♪♪</p>
+<p begin="27555000000t" end="27604170000t" region="bottomCenter" style="s1" xml:id="subtitle846">♪♪</p>
+<p begin="27605000000t" end="27654170000t" region="bottomCenter" style="s1" xml:id="subtitle847">♪♪</p>
+<p begin="27655000000t" end="27704170000t" region="bottomCenter" style="s1" xml:id="subtitle848">♪♪</p>
+<p begin="27705000000t" end="27765830000t" region="bottomCenter" style="s1" xml:id="subtitle849">♪♪</p>
+<p begin="27808330000t" end="27852500000t" region="bottomCenter" style="s1" xml:id="subtitle850">♪♪</p>
+<p begin="27853330000t" end="27902500000t" region="bottomCenter" style="s1" xml:id="subtitle851">♪♪</p>
+<p begin="27903330000t" end="27952500000t" region="bottomCenter" style="s1" xml:id="subtitle852">♪♪</p>
+<p begin="27953330000t" end="28002500000t" region="bottomCenter" style="s1" xml:id="subtitle853">♪♪</p>
+<p begin="28003330000t" end="28052500000t" region="bottomCenter" style="s1" xml:id="subtitle854">♪♪</p>
+<p begin="28053330000t" end="28102500000t" region="bottomCenter" style="s1" xml:id="subtitle855">♪♪</p>
+<p begin="28103330000t" end="28148750000t" region="bottomCenter" style="s1" xml:id="subtitle856">♪♪</p>
+</div>
+</body>
+</tt>
