@@ -1,0 +1,407 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="29300000t" end="55000000t" region="bottomCenter" style="s1" xml:id="subtitle0"><font face="Trebuchet MS" size="24"><i>Huh? What the hell?</i></font></p>
+<p begin="55000000t" end="89900000t" region="bottomCenter" style="s1" xml:id="subtitle1"><font face="Trebuchet MS" size="24"><i>Why did a powered suit from<br />Yggdrasil suddenly appear?</i></font></p>
+<p begin="89900000t" end="106400000t" region="bottomCenter" style="s1" xml:id="subtitle2"><font face="Trebuchet MS" size="24"><i>Could it be a player?</i></font></p>
+<p begin="130400000t" end="167400000t" region="bottomCenter" style="s1" xml:id="subtitle3"><font face="Trebuchet MS" size="24">The Death Knight and Death Warrior<br />were destroyed so easily...</font></p>
+<p begin="172100000t" end="205200000t" region="bottomCenter" style="s1" xml:id="subtitle4"><font face="Trebuchet MS" size="24">Mm. Just as expected.</font></p>
+<p begin="254600000t" end="290000000t" region="bottomCenter" style="s1" xml:id="subtitle5"><font face="Trebuchet MS" size="24">I see. So that's why...</font></p>
+<p begin="290000000t" end="307600000t" region="bottomCenter" style="s1" xml:id="subtitle6"><font face="Trebuchet MS" size="24"><i>Huh? Cocytus?!</i></font></p>
+<p begin="307600000t" end="337600000t" region="bottomCenter" style="s1" xml:id="subtitle7"><font face="Trebuchet MS" size="24">Yes! Yes! Yes! I understand now, too!</font></p>
+<p begin="337600000t" end="393900000t" region="bottomCenter" style="s1" xml:id="subtitle8"><font face="Trebuchet MS" size="24">Lord Ains was expecting the<br />one in red armor to appear!</font></p>
+<p begin="396500000t" end="444800000t" region="bottomCenter" style="s1" xml:id="subtitle9"><font face="Trebuchet MS" size="24">He chose to send fewer soldiers in order<br />to lure the enemy out into the open!</font></p>
+<p begin="457500000t" end="484500000t" region="bottomCenter" style="s1" xml:id="subtitle10"><font face="Trebuchet MS" size="24">Excellent deduction from the<br />two of you, as expected!</font></p>
+<p begin="498200000t" end="512800000t" region="bottomCenter" style="s1" xml:id="subtitle11"><font face="Trebuchet MS" size="24">Y-Yeah.</font></p>
+<p begin="512800000t" end="536800000t" region="bottomCenter" style="s1" xml:id="subtitle12"><font face="Trebuchet MS" size="24">Hey, who is that guy?</font></p>
+<p begin="536800000t" end="595300000t" region="bottomCenter" style="s1" xml:id="subtitle13"><font face="Trebuchet MS" size="24">He's from Drop of Red, one of the<br />three adamantite teams in the Kingdom.</font></p>
+<p begin="595300000t" end="631600000t" region="bottomCenter" style="s1" xml:id="subtitle14"><font face="Trebuchet MS" size="24">It's reported that his team normally works<br />in the northern region of the Kingdom.</font></p>
+<p begin="633600000t" end="672900000t" region="bottomCenter" style="s1" xml:id="subtitle15"><font face="Trebuchet MS" size="24">S-So that's why Lord Ains set<br />a trap in this northern city!</font></p>
+<p begin="672900000t" end="707400000t" region="bottomCenter" style="s1" xml:id="subtitle16"><font face="Trebuchet MS" size="24">So, he's a fish that took the bait...</font></p>
+<p begin="720000000t" end="735500000t" region="bottomCenter" style="s1" xml:id="subtitle17"><font face="Trebuchet MS" size="24">Exactly.</font></p>
+<p begin="763100000t" end="803200000t" region="bottomCenter" style="s1" xml:id="subtitle18"><font face="Trebuchet MS" size="24">Now that you've achieved your original goal,</font></p>
+<p begin="803200000t" end="843100000t" region="bottomCenter" style="s1" xml:id="subtitle19"><font face="Trebuchet MS" size="24">we should send stronger forces to<br />that town and raze it to the ground.</font></p>
+<p begin="843100000t" end="868500000t" region="bottomCenter" style="s1" xml:id="subtitle20"><font face="Trebuchet MS" size="24">Yes, that sounds good...</font></p>
+<p begin="884300000t" end="923700000t" region="bottomCenter" style="s1" xml:id="subtitle21"><font face="Trebuchet MS" size="24">N-No, I was thinking of<br />changing the plans a bit</font></p>
+<p begin="923700000t" end="969500000t" region="bottomCenter" style="s1" xml:id="subtitle22"><font face="Trebuchet MS" size="24">and bringing the royal capital<br />to ruin immediately.</font></p>
+<p begin="972400000t" end="1022000000t" region="bottomCenter" style="s1" xml:id="subtitle23"><font face="Trebuchet MS" size="24">If that is what you wish, we will simply obey.</font></p>
+<p begin="1022000000t" end="1031500000t" region="bottomCenter" style="s1" xml:id="subtitle24"><font face="Trebuchet MS" size="24">Yes.</font></p>
+<p begin="1035800000t" end="1078500000t" region="bottomCenter" style="s1" xml:id="subtitle25"><font face="Trebuchet MS" size="24"><i>This way, I'll be able to give the people<br />in that town a chance to escape.</i></font></p>
+<p begin="1093200000t" end="1142400000t" region="bottomCenter" style="s1" xml:id="subtitle26"><font face="Trebuchet MS" size="24">Good! We will cease hiding our movements<br />and advance on the royal capital!</font></p>
+<p begin="1142400000t" end="1174700000t" region="bottomCenter" style="s1" xml:id="subtitle27"><font face="Trebuchet MS" size="24">We will annihilate every city<br />within our reach along the way.</font></p>
+<p begin="1174700000t" end="1214900000t" region="bottomCenter" style="s1" xml:id="subtitle28"><font face="Trebuchet MS" size="24">Teach them the foolishness<br />of resisting Nazarick!</font></p>
+<p begin="1214900000t" end="1223100000t" region="bottomCenter" style="s1" xml:id="subtitle29"><font face="Trebuchet MS" size="24">Yes!</font></p>
+<p begin="2183600000t" end="2211100000t" region="bottomCenter" style="s1" xml:id="subtitle30"><font face="Trebuchet MS" size="24">Your Highness,<br />Princess Renner is here to see you.</font></p>
+<p begin="2213600000t" end="2235700000t" region="bottomCenter" style="s1" xml:id="subtitle31"><font face="Trebuchet MS" size="24">I'll speak with her during dinner.</font></p>
+<p begin="2238000000t" end="2270100000t" region="bottomCenter" style="s1" xml:id="subtitle32"><font face="Trebuchet MS" size="24">She said that if she can't<br />speak with you immediately,</font></p>
+<p begin="2270100000t" end="2294500000t" region="bottomCenter" style="s1" xml:id="subtitle33"><font face="Trebuchet MS" size="24">she'll begin yelling lies mixed with truth...</font></p>
+<p begin="2304100000t" end="2330800000t" region="bottomCenter" style="s1" xml:id="subtitle34"><font face="Trebuchet MS" size="24">I understand. Let her in.</font></p>
+<p begin="2334800000t" end="2365500000t" region="bottomCenter" style="s1" xml:id="subtitle35"><font face="Trebuchet MS" size="24">But have the other two<br />with her stand outside.</font></p>
+<p begin="2374400000t" end="2387100000t" region="bottomCenter" style="s1" xml:id="subtitle36"><font face="Trebuchet MS" size="24">I understand.</font></p>
+<p begin="2404700000t" end="2414700000t" region="bottomCenter" style="s1" xml:id="subtitle37"><font face="Trebuchet MS" size="24">What is it?</font></p>
+<p begin="2417700000t" end="2442200000t" region="bottomCenter" style="s1" xml:id="subtitle38"><font face="Trebuchet MS" size="24">Is Father still alive?</font></p>
+<p begin="2449700000t" end="2492300000t" region="bottomCenter" style="s1" xml:id="subtitle39"><font face="Trebuchet MS" size="24">Hey, now. Do you think I'd kill him?</font></p>
+<p begin="2492300000t" end="2507700000t" region="bottomCenter" style="s1" xml:id="subtitle40"><font face="Trebuchet MS" size="24">At a time like this?</font></p>
+<p begin="2524000000t" end="2548800000t" region="bottomCenter" style="s1" xml:id="subtitle41"><font face="Trebuchet MS" size="24">Father is not well right now.</font></p>
+<p begin="2548800000t" end="2568600000t" region="bottomCenter" style="s1" xml:id="subtitle42"><font face="Trebuchet MS" size="24">I'm having him rest.</font></p>
+<p begin="2568600000t" end="2617690000t" region="bottomCenter" style="s1" xml:id="subtitle43"><font face="Trebuchet MS" size="24">Brother is able to detain Father even<br />without Marquis Raeven's soldiers...</font></p>
+<p begin="2617690000t" end="2638900000t" region="bottomCenter" style="s1" xml:id="subtitle44"><font face="Trebuchet MS" size="24">That means that the head of the military</font></p>
+<p begin="2638900000t" end="2662400000t" region="bottomCenter" style="s1" xml:id="subtitle45"><font face="Trebuchet MS" size="24">and the head of internal<br />affairs have taken your side.</font></p>
+<p begin="2674200000t" end="2702400000t" region="bottomCenter" style="s1" xml:id="subtitle46"><font face="Trebuchet MS" size="24">Father planned to negotiate until the end,</font></p>
+<p begin="2705500000t" end="2734600000t" region="bottomCenter" style="s1" xml:id="subtitle47"><font face="Trebuchet MS" size="24">in order to minimize our losses.</font></p>
+<p begin="2743200000t" end="2766300000t" region="bottomCenter" style="s1" xml:id="subtitle48"><font face="Trebuchet MS" size="24">I understand his feelings, but...</font></p>
+<p begin="2770000000t" end="2783200000t" region="bottomCenter" style="s1" xml:id="subtitle49"><font face="Trebuchet MS" size="24">There had been no word of</font></p>
+<p begin="2783200000t" end="2818800000t" region="bottomCenter" style="s1" xml:id="subtitle50"><font face="Trebuchet MS" size="24">the Sorcerer Kingdom invading<br />since the declaration of war.</font></p>
+<p begin="2823600000t" end="2867600000t" region="bottomCenter" style="s1" xml:id="subtitle51"><font face="Trebuchet MS" size="24">But, in reality, his army has been<br />heading north this whole time.</font></p>
+<p begin="2870100000t" end="2900000000t" region="bottomCenter" style="s1" xml:id="subtitle52"><font face="Trebuchet MS" size="24">He took over the northern border<br />near the Council State</font></p>
+<p begin="2900000000t" end="2933900000t" region="bottomCenter" style="s1" xml:id="subtitle53"><font face="Trebuchet MS" size="24">in order to prevent them<br />from sending support troops.</font></p>
+<p begin="2933900000t" end="2950200000t" region="bottomCenter" style="s1" xml:id="subtitle54"><font face="Trebuchet MS" size="24">That's right.</font></p>
+<p begin="2953700000t" end="3004000000t" region="bottomCenter" style="s1" xml:id="subtitle55"><font face="Trebuchet MS" size="24">The invaded cities were completely destroyed<br />and all the people were massacred.</font></p>
+<p begin="3011400000t" end="3024000000t" region="bottomCenter" style="s1" xml:id="subtitle56"><font face="Trebuchet MS" size="24">My sister...</font></p>
+<p begin="3024000000t" end="3055300000t" region="bottomCenter" style="s1" xml:id="subtitle57"><font face="Trebuchet MS" size="24">Please enlighten me with your brilliant mind.</font></p>
+<p begin="3062100000t" end="3105300000t" region="bottomCenter" style="s1" xml:id="subtitle58"><font face="Trebuchet MS" size="24">How have the Sorcerer Kingdom's<br />forces gone unnoticed until now?</font></p>
+<p begin="3108500000t" end="3141600000t" region="bottomCenter" style="s1" xml:id="subtitle59"><font face="Trebuchet MS" size="24">You've realized it yourself, haven't you?</font></p>
+<p begin="3152100000t" end="3184800000t" region="bottomCenter" style="s1" xml:id="subtitle60"><font face="Trebuchet MS" size="24">It's the work of the people<br />in our own kingdom.</font></p>
+<p begin="3184800000t" end="3223000000t" region="bottomCenter" style="s1" xml:id="subtitle61"><font face="Trebuchet MS" size="24">But the only person who can keep<br />this a secret so thoroughly...</font></p>
+<p begin="3223000000t" end="3240500000t" region="bottomCenter" style="s1" xml:id="subtitle62"><font face="Trebuchet MS" size="24">...is Marquis Raeven.</font></p>
+<p begin="3254700000t" end="3272200000t" region="bottomCenter" style="s1" xml:id="subtitle63"><font face="Trebuchet MS" size="24">No way! Impossible.</font></p>
+<p begin="3274500000t" end="3297200000t" region="bottomCenter" style="s1" xml:id="subtitle64"><font face="Trebuchet MS" size="24">This is Marquis Raeven's domain.</font></p>
+<p begin="3307000000t" end="3344800000t" region="bottomCenter" style="s1" xml:id="subtitle65"><font face="Trebuchet MS" size="24">That man loves his son quite dearly.</font></p>
+<p begin="3344800000t" end="3378800000t" region="bottomCenter" style="s1" xml:id="subtitle66"><font face="Trebuchet MS" size="24">Wouldn't he do it if his<br />son were taken hostage?</font></p>
+<p begin="3378800000t" end="3406100000t" region="bottomCenter" style="s1" xml:id="subtitle67"><font face="Trebuchet MS" size="24">You think they're threatening him that way?</font></p>
+<p begin="3411000000t" end="3458600000t" region="bottomCenter" style="s1" xml:id="subtitle68"><font face="Trebuchet MS" size="24">I believe that he's decided that<br />the royal family has no future.</font></p>
+<p begin="3476800000t" end="3516200000t" region="bottomCenter" style="s1" xml:id="subtitle69"><font face="Trebuchet MS" size="24">What action would you take<br />in a situation like this?</font></p>
+<p begin="3528000000t" end="3561600000t" region="bottomCenter" style="s1" xml:id="subtitle70"><font face="Trebuchet MS" size="24">If things continue according<br />to the movements on this map,</font></p>
+<p begin="3561600000t" end="3590000000t" region="bottomCenter" style="s1" xml:id="subtitle71"><font face="Trebuchet MS" size="24">there will be a decisive battle<br />at the royal capital next.</font></p>
+<p begin="3590000000t" end="3600000000t" region="bottomCenter" style="s1" xml:id="subtitle72"><font face="Trebuchet MS" size="24">Yes.</font></p>
+<p begin="3602800000t" end="3627500000t" region="bottomCenter" style="s1" xml:id="subtitle73"><font face="Trebuchet MS" size="24">Do you think we can win?</font></p>
+<p begin="3630200000t" end="3666300000t" region="bottomCenter" style="s1" xml:id="subtitle74"><font face="Trebuchet MS" size="24">It's not a matter of winning or losing.<br />We have to do it.</font></p>
+<p begin="3672800000t" end="3721200000t" region="bottomCenter" style="s1" xml:id="subtitle75"><font face="Trebuchet MS" size="24">The Sorcerer Kingdom is burning down all the<br />cities and murdering all who live in them.</font></p>
+<p begin="3721200000t" end="3749200000t" region="bottomCenter" style="s1" xml:id="subtitle76"><font face="Trebuchet MS" size="24">We can only survive by<br />gathering all the soldiers</font></p>
+<p begin="3749200000t" end="3773900000t" region="bottomCenter" style="s1" xml:id="subtitle77"><font face="Trebuchet MS" size="24">and risking everything on<br />the slim chance of victory.</font></p>
+<p begin="3776600000t" end="3794100000t" region="bottomCenter" style="s1" xml:id="subtitle78"><font face="Trebuchet MS" size="24">I'll ask the people, as well.</font></p>
+<p begin="3794100000t" end="3827700000t" region="bottomCenter" style="s1" xml:id="subtitle79"><font face="Trebuchet MS" size="24">We'll advertise the cruelty of the<br />Sorcerer Kingdom and call them to arms.</font></p>
+<p begin="3843500000t" end="3877800000t" region="bottomCenter" style="s1" xml:id="subtitle80"><font face="Trebuchet MS" size="24">Brother, you've truly become a king.</font></p>
+<p begin="3891500000t" end="3924100000t" region="bottomCenter" style="s1" xml:id="subtitle81"><font face="Trebuchet MS" size="24">Your way of thinking is correct.</font></p>
+<p begin="3924100000t" end="3951600000t" region="bottomCenter" style="s1" xml:id="subtitle82"><font face="Trebuchet MS" size="24">I'm completely useless in battle,</font></p>
+<p begin="3951600000t" end="3988600000t" region="bottomCenter" style="s1" xml:id="subtitle83"><font face="Trebuchet MS" size="24">but a member of the royal family should<br />stand on the front lines to lead the troops.</font></p>
+<p begin="3997600000t" end="4037600000t" region="bottomCenter" style="s1" xml:id="subtitle84"><font face="Trebuchet MS" size="24">Father should take care of the rest.</font></p>
+<p begin="4037600000t" end="4061700000t" region="bottomCenter" style="s1" xml:id="subtitle85"><font face="Trebuchet MS" size="24">You can escape at any time.</font></p>
+<p begin="4065500000t" end="4104700000t" region="bottomCenter" style="s1" xml:id="subtitle86"><font face="Trebuchet MS" size="24">I understand.<br />I'll do so when the time comes.</font></p>
+<p begin="4123000000t" end="4146000000t" region="bottomCenter" style="s1" xml:id="subtitle87"><font face="Trebuchet MS" size="24">What're you gonna do?</font></p>
+<p begin="4146000000t" end="4172200000t" region="bottomCenter" style="s1" xml:id="subtitle88"><font face="Trebuchet MS" size="24">I'm joining!<br />Just you wait, Sorcerer King!</font></p>
+<p begin="4172200000t" end="4185600000t" region="bottomCenter" style="s1" xml:id="subtitle89"><font face="Trebuchet MS" size="24">Hey, everyone...</font></p>
+<p begin="4185600000t" end="4220200000t" region="bottomCenter" style="s1" xml:id="subtitle90"><font face="Trebuchet MS" size="24">Only one person needs to go to<br />see the contents of the request.</font></p>
+<p begin="4220200000t" end="4234800000t" region="bottomCenter" style="s1" xml:id="subtitle91"><font face="Trebuchet MS" size="24">Why don't you guys go and get a drink?</font></p>
+<p begin="4234800000t" end="4282400000t" region="bottomCenter" style="s1" xml:id="subtitle92"><font face="Trebuchet MS" size="24">Lakyus, is there a reason<br />we can't go with you?</font></p>
+<p begin="4287600000t" end="4311800000t" region="bottomCenter" style="s1" xml:id="subtitle93"><font face="Trebuchet MS" size="24">O-O-Of course not!</font></p>
+<p begin="4311800000t" end="4342400000t" region="bottomCenter" style="s1" xml:id="subtitle94"><font face="Trebuchet MS" size="24">The Drop of Red are coming for<br />this request, aren't they?</font></p>
+<p begin="4342400000t" end="4375000000t" region="bottomCenter" style="s1" xml:id="subtitle95"><font face="Trebuchet MS" size="24">Isn't their leader, Mr. Azuth, your relative?</font></p>
+<p begin="4375000000t" end="4411200000t" region="bottomCenter" style="s1" xml:id="subtitle96"><font face="Trebuchet MS" size="24">You guys probably have a lot to<br />catch up on, right? I get you.</font></p>
+<p begin="4411200000t" end="4428800000t" region="bottomCenter" style="s1" xml:id="subtitle97"><font face="Trebuchet MS" size="24">So, you understand?! Then...</font></p>
+<p begin="4428800000t" end="4438800000t" region="bottomCenter" style="s1" xml:id="subtitle98"><font face="Trebuchet MS" size="24">That's the mystery.</font></p>
+<p begin="4438800000t" end="4445600000t" region="bottomCenter" style="s1" xml:id="subtitle99"><font face="Trebuchet MS" size="24">So strange.</font></p>
+<p begin="4445600000t" end="4451300000t" region="bottomCenter" style="s1" xml:id="subtitle100"><font face="Trebuchet MS" size="24">Huh?</font></p>
+<p begin="4451300000t" end="4501300000t" region="bottomCenter" style="s1" xml:id="subtitle101"><font face="Trebuchet MS" size="24">What kind of request requires both<br />the Drop of Red and Blue Rose?</font></p>
+<p begin="4501300000t" end="4513800000t" region="bottomCenter" style="s1" xml:id="subtitle102"><font face="Trebuchet MS" size="24">It's suspicious.</font></p>
+<p begin="4513800000t" end="4540100000t" region="bottomCenter" style="s1" xml:id="subtitle103"><font face="Trebuchet MS" size="24">Maybe it's a trap.</font></p>
+<p begin="4540100000t" end="4570100000t" region="bottomCenter" style="s1" xml:id="subtitle104"><font face="Trebuchet MS" size="24">Yes. We shouldn't act separately.</font></p>
+<p begin="4570100000t" end="4600900000t" region="bottomCenter" style="s1" xml:id="subtitle105"><font face="Trebuchet MS" size="24">And we want to meet such a famous hero.</font></p>
+<p begin="4600900000t" end="4634000000t" region="bottomCenter" style="s1" xml:id="subtitle106"><font face="Trebuchet MS" size="24">He's a relative, so it wouldn't<br />hurt to meet him at least once.</font></p>
+<p begin="4665800000t" end="4688600000t" region="bottomCenter" style="s1" xml:id="subtitle107"><font face="Trebuchet MS" size="24">This is the meeting place.</font></p>
+<p begin="4688600000t" end="4702500000t" region="bottomCenter" style="s1" xml:id="subtitle108"><font face="Trebuchet MS" size="24">Too suspicious.</font></p>
+<p begin="4702500000t" end="4721000000t" region="bottomCenter" style="s1" xml:id="subtitle109"><font face="Trebuchet MS" size="24">Someone is definitely planning something.</font></p>
+<p begin="4756600000t" end="4770300000t" region="bottomCenter" style="s1" xml:id="subtitle110"><font face="Trebuchet MS" size="24">Come on in.</font></p>
+<p begin="4809500000t" end="4825800000t" region="bottomCenter" style="s1" xml:id="subtitle111"><font face="Trebuchet MS" size="24">Um, everyone...</font></p>
+<p begin="4828800000t" end="4842400000t" region="bottomCenter" style="s1" xml:id="subtitle112"><font face="Trebuchet MS" size="24">Let me be honest.</font></p>
+<p begin="4842400000t" end="4874200000t" region="bottomCenter" style="s1" xml:id="subtitle113"><font face="Trebuchet MS" size="24">My uncle's the type of person<br />that makes most people grimace.</font></p>
+<p begin="4929700000t" end="4957200000t" region="bottomCenter" style="s1" xml:id="subtitle114"><font face="Trebuchet MS" size="24">Hey, Lakyu! Long time no see!</font></p>
+<p begin="4960800000t" end="5014800000t" region="bottomCenter" style="s1" xml:id="subtitle115"><font face="Trebuchet MS" size="24">Uncle... Can't you dress a little<br />more appropriately for this meeting?</font></p>
+<p begin="5017200000t" end="5050500000t" region="bottomCenter" style="s1" xml:id="subtitle116"><font face="Trebuchet MS" size="24">Well, now. At least we're not<br />having a meeting in bed.</font></p>
+<p begin="5050500000t" end="5066500000t" region="bottomCenter" style="s1" xml:id="subtitle117"><font face="Trebuchet MS" size="24">Does it really matter?</font></p>
+<p begin="5066500000t" end="5078600000t" region="bottomCenter" style="s1" xml:id="subtitle118"><font face="Trebuchet MS" size="24">It matters!</font></p>
+<p begin="5078600000t" end="5090900000t" region="bottomCenter" style="s1" xml:id="subtitle119"><font face="Trebuchet MS" size="24">Is that so?</font></p>
+<p begin="5090900000t" end="5109500000t" region="bottomCenter" style="s1" xml:id="subtitle120"><font face="Trebuchet MS" size="24">Aw, stop!</font></p>
+<p begin="5128800000t" end="5147890000t" region="bottomCenter" style="s1" xml:id="subtitle121"><font face="Trebuchet MS" size="24">And I heard he was a hero...</font></p>
+<p begin="5154190000t" end="5167800000t" region="bottomCenter" style="s1" xml:id="subtitle122"><font face="Trebuchet MS" size="24">Leave, women.</font></p>
+<p begin="5167800000t" end="5182500000t" region="bottomCenter" style="s1" xml:id="subtitle123"><font face="Trebuchet MS" size="24">Who's this kid?</font></p>
+<p begin="5182500000t" end="5220390000t" region="bottomCenter" style="s1" xml:id="subtitle124"><font face="Trebuchet MS" size="24">A brat who doesn't even show her face<br />shouldn't act so high and mighty!</font></p>
+<p begin="5226790000t" end="5239500000t" region="bottomCenter" style="s1" xml:id="subtitle125"><font face="Trebuchet MS" size="24">Charm Person.</font></p>
+<p begin="5258000000t" end="5273600000t" region="bottomCenter" style="s1" xml:id="subtitle126"><font face="Trebuchet MS" size="24">You're in the way. Leave.</font></p>
+<p begin="5273600000t" end="5289200000t" region="bottomCenter" style="s1" xml:id="subtitle127"><font face="Trebuchet MS" size="24">Oh, yes.</font></p>
+<p begin="5309600000t" end="5324200000t" region="bottomCenter" style="s1" xml:id="subtitle128"><font face="Trebuchet MS" size="24">Charm Person.</font></p>
+<p begin="5324200000t" end="5331400000t" region="bottomCenter" style="s1" xml:id="subtitle129"><font face="Trebuchet MS" size="24">Go.</font></p>
+<p begin="5331400000t" end="5347000000t" region="bottomCenter" style="s1" xml:id="subtitle130"><font face="Trebuchet MS" size="24">I understand.</font></p>
+<p begin="5411800000t" end="5420300000t" region="bottomCenter" style="s1" xml:id="subtitle131"><font face="Trebuchet MS" size="24">Evileye.</font></p>
+<p begin="5420300000t" end="5429400000t" region="bottomCenter" style="s1" xml:id="subtitle132"><font face="Trebuchet MS" size="24">Good job!</font></p>
+<p begin="5433100000t" end="5444300000t" region="bottomCenter" style="s1" xml:id="subtitle133"><font face="Trebuchet MS" size="24">Boss.</font></p>
+<p begin="5506000000t" end="5524400000t" region="bottomCenter" style="s1" xml:id="subtitle134"><font face="Trebuchet MS" size="24">You're on time.</font></p>
+<p begin="5662800000t" end="5676400000t" region="bottomCenter" style="s1" xml:id="subtitle135"><font face="Trebuchet MS" size="24">Hey, hey, hey...</font></p>
+<p begin="5676400000t" end="5715900000t" region="bottomCenter" style="s1" xml:id="subtitle136"><font face="Trebuchet MS" size="24">You're the last ones here and you're<br />giving off such dangerous vibes.</font></p>
+<p begin="5715900000t" end="5748400000t" region="bottomCenter" style="s1" xml:id="subtitle137"><font face="Trebuchet MS" size="24">You're pretty cocky for<br />bringing whores, old man.</font></p>
+<p begin="5748400000t" end="5778400000t" region="bottomCenter" style="s1" xml:id="subtitle138"><font face="Trebuchet MS" size="24">Hah. You're the ones who held<br />a meeting in a place like this.</font></p>
+<p begin="5780800000t" end="5807200000t" region="bottomCenter" style="s1" xml:id="subtitle139"><font face="Trebuchet MS" size="24">I just wanted to harass you guys a bit.</font></p>
+<p begin="5817200000t" end="5829900000t" region="bottomCenter" style="s1" xml:id="subtitle140"><font face="Trebuchet MS" size="24">Now, now.</font></p>
+<p begin="5829900000t" end="5854300000t" region="bottomCenter" style="s1" xml:id="subtitle141"><font face="Trebuchet MS" size="24">I would appreciate it if<br />everyone settled down.</font></p>
+<p begin="5854300000t" end="5893500000t" region="bottomCenter" style="s1" xml:id="subtitle142"><font face="Trebuchet MS" size="24">Well, Qua's the leader this time,<br />so I guess I'll listen...</font></p>
+<p begin="5905600000t" end="5926000000t" region="bottomCenter" style="s1" xml:id="subtitle143"><font face="Trebuchet MS" size="24">Let me get straight to the point.</font></p>
+<p begin="5926000000t" end="5979900000t" region="bottomCenter" style="s1" xml:id="subtitle144"><font face="Trebuchet MS" size="24">Lord Azuth Aindra and the other<br />absent members from the Drop of Red...</font></p>
+<p begin="5983700000t" end="6002600000t" region="bottomCenter" style="s1" xml:id="subtitle145"><font face="Trebuchet MS" size="24">As well as all the members from Blue Rose...</font></p>
+<p begin="6009900000t" end="6038200000t" region="bottomCenter" style="s1" xml:id="subtitle146"><font face="Trebuchet MS" size="24">We are here to scout you today.</font></p>
+<p begin="6057500000t" end="6085000000t" region="bottomCenter" style="s1" xml:id="subtitle147"><font face="Trebuchet MS" size="24">Which country are you guys from?</font></p>
+<p begin="6085000000t" end="6107500000t" region="bottomCenter" style="s1" xml:id="subtitle148"><font face="Trebuchet MS" size="24">Who cares?</font></p>
+<p begin="6107500000t" end="6111600000t" region="bottomCenter" style="s1" xml:id="subtitle149"><font face="Trebuchet MS" size="24">What?</font></p>
+<p begin="6111600000t" end="6119200000t" region="bottomCenter" style="s1" xml:id="subtitle150"><font face="Trebuchet MS" size="24">No way!</font></p>
+<p begin="6119200000t" end="6137500000t" region="bottomCenter" style="s1" xml:id="subtitle151"><font face="Trebuchet MS" size="24">Please be at ease.</font></p>
+<p begin="6137500000t" end="6163900000t" region="bottomCenter" style="s1" xml:id="subtitle152"><font face="Trebuchet MS" size="24">If we really planned to kill all of you,</font></p>
+<p begin="6163900000t" end="6195100000t" region="bottomCenter" style="s1" xml:id="subtitle153"><font face="Trebuchet MS" size="24">we wouldn't be wasting<br />time introducing ourselves.</font></p>
+<p begin="6228900000t" end="6252200000t" region="bottomCenter" style="s1" xml:id="subtitle154"><font face="Trebuchet MS" size="24">Are you people from the Theocracy?</font></p>
+<p begin="6256300000t" end="6266000000t" region="bottomCenter" style="s1" xml:id="subtitle155"><font face="Trebuchet MS" size="24">The Theocracy?!</font></p>
+<p begin="6269600000t" end="6296000000t" region="bottomCenter" style="s1" xml:id="subtitle156"><font face="Trebuchet MS" size="24">The Theocracy's elite heroic unit.</font></p>
+<p begin="6296000000t" end="6321400000t" region="bottomCenter" style="s1" xml:id="subtitle157"><font face="Trebuchet MS" size="24">The Black Scripture, was it?</font></p>
+<p begin="6326100000t" end="6369300000t" region="bottomCenter" style="s1" xml:id="subtitle158"><font face="Trebuchet MS" size="24">I heard one of you deviated<br />from the heroic path, though.</font></p>
+<p begin="6385600000t" end="6408400000t" region="bottomCenter" style="s1" xml:id="subtitle159"><font face="Trebuchet MS" size="24">It seems like you know a lot.</font></p>
+<p begin="6408400000t" end="6478200000t" region="bottomCenter" style="s1" xml:id="subtitle160"><font face="Trebuchet MS" size="24">But there are people here who are as<br />strong as me, maybe even stronger.</font></p>
+<p begin="6490400000t" end="6529100000t" region="bottomCenter" style="s1" xml:id="subtitle161"><font face="Trebuchet MS" size="24">Evileye of the Blue Rose.<br />You'd be a bit troublesome.</font></p>
+<p begin="6533900000t" end="6542900000t" region="bottomCenter" style="s1" xml:id="subtitle162"><font face="Trebuchet MS" size="24">Hmph.</font></p>
+<p begin="6548000000t" end="6556500000t" region="bottomCenter" style="s1" xml:id="subtitle163"><font face="Trebuchet MS" size="24">Hey.</font></p>
+<p begin="6561700000t" end="6589100000t" region="bottomCenter" style="s1" xml:id="subtitle164"><font face="Trebuchet MS" size="24">Theocracy's secret unit.</font></p>
+<p begin="6595500000t" end="6626800000t" region="bottomCenter" style="s1" xml:id="subtitle165"><font face="Trebuchet MS" size="24">Want to work with us to fight<br />against the Sorcerer King?</font></p>
+<p begin="6626800000t" end="6638800000t" region="bottomCenter" style="s1" xml:id="subtitle166"><font face="Trebuchet MS" size="24">I see.</font></p>
+<p begin="6638800000t" end="6664400000t" region="bottomCenter" style="s1" xml:id="subtitle167"><font face="Trebuchet MS" size="24">I understand your thoughts, Lord Azuth.</font></p>
+<p begin="6669100000t" end="6700600000t" region="bottomCenter" style="s1" xml:id="subtitle168"><font face="Trebuchet MS" size="24">And what's the answer from the Blue Rose?</font></p>
+<p begin="6715600000t" end="6737700000t" region="bottomCenter" style="s1" xml:id="subtitle169"><font face="Trebuchet MS" size="24">We won't force you by any means.</font></p>
+<p begin="6737700000t" end="6808400000t" region="bottomCenter" style="s1" xml:id="subtitle170"><font face="Trebuchet MS" size="24">We want you to truly become our allies<br />and help secure the future of mankind.</font></p>
+<p begin="6822000000t" end="6845600000t" region="bottomCenter" style="s1" xml:id="subtitle171"><font face="Trebuchet MS" size="24">I refuse. How about...</font></p>
+<p begin="6845600000t" end="6870800000t" region="bottomCenter" style="s1" xml:id="subtitle172"><font face="Trebuchet MS" size="24">Don't just speak for yourself.</font></p>
+<p begin="6870800000t" end="6901700000t" region="bottomCenter" style="s1" xml:id="subtitle173"><font face="Trebuchet MS" size="24">We all agree with Leader's decision.</font></p>
+<p begin="6901700000t" end="6910800000t" region="bottomCenter" style="s1" xml:id="subtitle174"><font face="Trebuchet MS" size="24">Yeah.</font></p>
+<p begin="6913300000t" end="6925000000t" region="bottomCenter" style="s1" xml:id="subtitle175"><font face="Trebuchet MS" size="24">I see.</font></p>
+<p begin="6925000000t" end="6947800000t" region="bottomCenter" style="s1" xml:id="subtitle176"><font face="Trebuchet MS" size="24">Looks like it'd be pointless<br />to try to convince you.</font></p>
+<p begin="6953200000t" end="7000100000t" region="bottomCenter" style="s1" xml:id="subtitle177"><font face="Trebuchet MS" size="24">We hope everyone is able to bring<br />retribution upon the Sorcerer King.</font></p>
+<p begin="7024400000t" end="7034700000t" region="bottomCenter" style="s1" xml:id="subtitle178"><font face="Trebuchet MS" size="24">So...</font></p>
+<p begin="7034700000t" end="7052100000t" region="bottomCenter" style="s1" xml:id="subtitle179"><font face="Trebuchet MS" size="24">What are you going to do, Uncle?</font></p>
+<p begin="7058000000t" end="7088100000t" region="bottomCenter" style="s1" xml:id="subtitle180"><font face="Trebuchet MS" size="24">I'll wait here for the arrival<br />of the Sorcerer King.</font></p>
+<p begin="7090300000t" end="7113400000t" region="bottomCenter" style="s1" xml:id="subtitle181"><font face="Trebuchet MS" size="24">He'll definitely make his way here.</font></p>
+<p begin="7113400000t" end="7140600000t" region="bottomCenter" style="s1" xml:id="subtitle182"><font face="Trebuchet MS" size="24">You guys won't even be able to<br />get your swords close to him.</font></p>
+<p begin="7140600000t" end="7152100000t" region="bottomCenter" style="s1" xml:id="subtitle183"><font face="Trebuchet MS" size="24">Run.</font></p>
+<p begin="7168100000t" end="7211900000t" region="bottomCenter" style="s1" xml:id="subtitle184"><font face="Trebuchet MS" size="24">Even so, we can't leave the<br />royal capital behind.</font></p>
+<p begin="7211900000t" end="7246000000t" region="bottomCenter" style="s1" xml:id="subtitle185"><font face="Trebuchet MS" size="24">If you're asking me to join you, I refuse.</font></p>
+<p begin="7246000000t" end="7267000000t" region="bottomCenter" style="s1" xml:id="subtitle186"><font face="Trebuchet MS" size="24">I'll be moving on my own.</font></p>
+<p begin="7267000000t" end="7296400000t" region="bottomCenter" style="s1" xml:id="subtitle187"><font face="Trebuchet MS" size="24">Do you think you'll be able to do anything?</font></p>
+<p begin="7296400000t" end="7328400000t" region="bottomCenter" style="s1" xml:id="subtitle188"><font face="Trebuchet MS" size="24">There's no way I can defeat him.</font></p>
+<p begin="7328400000t" end="7350200000t" region="bottomCenter" style="s1" xml:id="subtitle189"><font face="Trebuchet MS" size="24">But if I'm alone,</font></p>
+<p begin="7350200000t" end="7394600000t" region="bottomCenter" style="s1" xml:id="subtitle190"><font face="Trebuchet MS" size="24">I should be able to escape, even if the<br />Sorcerer King surrounds the entire capital.</font></p>
+<p begin="7394600000t" end="7432200000t" region="bottomCenter" style="s1" xml:id="subtitle191"><font face="Trebuchet MS" size="24">Welp, I'm going to unload<br />a bit in the other room.</font></p>
+<p begin="7450400000t" end="7478200000t" region="bottomCenter" style="s1" xml:id="subtitle192"><font face="Trebuchet MS" size="24">Sorry for the wait, kittens.</font></p>
+<p begin="7459200000t" end="7478200000t" region="bottomCenter" style="s1" xml:id="subtitle193"><font face="Trebuchet MS" size="24">Jeez! You took forever!</font></p>
+<p begin="7526900000t" end="7535700000t" region="bottomCenter" style="s1" xml:id="subtitle194"><font face="Trebuchet MS" size="24">Your Highness.</font></p>
+<p begin="7535700000t" end="7547300000t" region="bottomCenter" style="s1" xml:id="subtitle195"><font face="Trebuchet MS" size="24">I know.</font></p>
+<p begin="7634000000t" end="7693700000t" region="bottomCenter" style="s1" xml:id="subtitle196"><font face="Trebuchet MS" size="24">Lord Ains, a representative is<br />approaching from the human army.</font></p>
+<p begin="7734000000t" end="7786300000t" region="bottomCenter" style="s1" xml:id="subtitle197"><font face="Trebuchet MS" size="24">I am the crown prince of the Re-Estize Kingdom,<br />Zanac Valleon Igana Ryle Vaiself!</font></p>
+<p begin="7788900000t" end="7825600000t" region="bottomCenter" style="s1" xml:id="subtitle198"><font face="Trebuchet MS" size="24">I would like to speak with the Sorcerer King!</font></p>
+<p begin="7830100000t" end="7851400000t" region="bottomCenter" style="s1" xml:id="subtitle199"><font face="Trebuchet MS" size="24">What do you wish to do, Lord Ains?</font></p>
+<p begin="7851400000t" end="7888500000t" region="bottomCenter" style="s1" xml:id="subtitle200"><font face="Trebuchet MS" size="24">I feel there's no need to listen, unless it's<br />a messenger announcing the start of battle...</font></p>
+<p begin="7888500000t" end="7944800000t" region="bottomCenter" style="s1" xml:id="subtitle201"><font face="Trebuchet MS" size="24">If he refuses to converse with an opponent,<br />others may think him close-minded.</font></p>
+<p begin="7944800000t" end="7973500000t" region="bottomCenter" style="s1" xml:id="subtitle202"><font face="Trebuchet MS" size="24">Who cares about a rumor when<br />no one is left to spread it?</font></p>
+<p begin="7973500000t" end="7994900000t" region="bottomCenter" style="s1" xml:id="subtitle203"><font face="Trebuchet MS" size="24">Albedo. Have you forgotten?</font></p>
+<p begin="7994900000t" end="8023400000t" region="bottomCenter" style="s1" xml:id="subtitle204"><font face="Trebuchet MS" size="24">There may be someone watching from<br />afar who can speak ill of us.</font></p>
+<p begin="8023400000t" end="8042800000t" region="bottomCenter" style="s1" xml:id="subtitle205"><font face="Trebuchet MS" size="24">My apologies.</font></p>
+<p begin="8042800000t" end="8072800000t" region="bottomCenter" style="s1" xml:id="subtitle206"><font face="Trebuchet MS" size="24">Yes. Then, I will go.</font></p>
+<p begin="8072800000t" end="8095200000t" region="bottomCenter" style="s1" xml:id="subtitle207"><font face="Trebuchet MS" size="24">Lord Ains, bring guards with you.</font></p>
+<p begin="8095200000t" end="8118400000t" region="bottomCenter" style="s1" xml:id="subtitle208"><font face="Trebuchet MS" size="24">A royal came to me alone.</font></p>
+<p begin="8118400000t" end="8147700000t" region="bottomCenter" style="s1" xml:id="subtitle209"><font face="Trebuchet MS" size="24">It is only right that I return the favor.</font></p>
+<p begin="8230300000t" end="8258800000t" region="bottomCenter" style="s1" xml:id="subtitle210"><font face="Trebuchet MS" size="24">I am glad to meet you, Sorcerer King.</font></p>
+<p begin="8263300000t" end="8299800000t" region="bottomCenter" style="s1" xml:id="subtitle211"><font face="Trebuchet MS" size="24">I am Zanac Valleon Igana Ryle Vaiself.</font></p>
+<p begin="8304800000t" end="8327600000t" region="bottomCenter" style="s1" xml:id="subtitle212"><font face="Trebuchet MS" size="24">I am glad to meet you, as well.</font></p>
+<p begin="8331900000t" end="8356800000t" region="bottomCenter" style="s1" xml:id="subtitle213"><font face="Trebuchet MS" size="24">I am the Sorcerer King, Ains Ooal Gown.</font></p>
+<p begin="8368400000t" end="8381900000t" region="bottomCenter" style="s1" xml:id="subtitle214"><font face="Trebuchet MS" size="24">Will water suffice?</font></p>
+<p begin="8388200000t" end="8414800000t" region="bottomCenter" style="s1" xml:id="subtitle215"><font face="Trebuchet MS" size="24">Yes. Thank you very much, Your Majesty.</font></p>
+<p begin="8419600000t" end="8434800000t" region="bottomCenter" style="s1" xml:id="subtitle216"><font face="Trebuchet MS" size="24">I appreciate your hospitality.</font></p>
+<p begin="8437500000t" end="8479000000t" region="bottomCenter" style="s1" xml:id="subtitle217"><font face="Trebuchet MS" size="24">Now, the preparations for<br />our talk are complete.</font></p>
+<p begin="8509400000t" end="8531000000t" region="bottomCenter" style="s1" xml:id="subtitle218"><font face="Trebuchet MS" size="24">What did you wish to speak about?</font></p>
+<p begin="8531000000t" end="8566200000t" region="bottomCenter" style="s1" xml:id="subtitle219"><font face="Trebuchet MS" size="24">Shall I discuss why<br />our invasion is just?</font></p>
+<p begin="8566200000t" end="8601300000t" region="bottomCenter" style="s1" xml:id="subtitle220"><font face="Trebuchet MS" size="24">Your Majesty,<br />there's something I'd like to ask.</font></p>
+<p begin="8604700000t" end="8637500000t" region="bottomCenter" style="s1" xml:id="subtitle221"><font face="Trebuchet MS" size="24">Why are you doing something this cruel?</font></p>
+<p begin="8637500000t" end="8667400000t" region="bottomCenter" style="s1" xml:id="subtitle222"><font face="Trebuchet MS" size="24">Why won't you accept our plea of surrender?</font></p>
+<p begin="8709300000t" end="8726700000t" region="bottomCenter" style="s1" xml:id="subtitle223"><font face="Trebuchet MS" size="24">Because there is no merit to it.</font></p>
+<p begin="8726700000t" end="8740100000t" region="bottomCenter" style="s1" xml:id="subtitle224"><font face="Trebuchet MS" size="24">Merit?</font></p>
+<p begin="8740100000t" end="8771700000t" region="bottomCenter" style="s1" xml:id="subtitle225"><font face="Trebuchet MS" size="24">We will sacrifice your kingdom<br />to show the world that</font></p>
+<p begin="8771700000t" end="8822700000t" region="bottomCenter" style="s1" xml:id="subtitle226"><font face="Trebuchet MS" size="24">it is foolish to oppose<br />the Sorcerer Kingdom.</font></p>
+<p begin="8822700000t" end="8870300000t" region="bottomCenter" style="s1" xml:id="subtitle227"><font face="Trebuchet MS" size="24">To that end, we will enter your royal<br />capital after decimating your forces</font></p>
+<p begin="8870300000t" end="8900400000t" region="bottomCenter" style="s1" xml:id="subtitle228"><font face="Trebuchet MS" size="24">and turn everything into<br />a mountain of rubble.</font></p>
+<p begin="8904800000t" end="8940200000t" region="bottomCenter" style="s1" xml:id="subtitle229"><font face="Trebuchet MS" size="24">We'll leave everything like that for<br />hundreds or even thousands of years...</font></p>
+<p begin="8940200000t" end="8968800000t" region="bottomCenter" style="s1" xml:id="subtitle230"><font face="Trebuchet MS" size="24">In this way, stories about the folly<br />of going against the Sorcerer Kingdom</font></p>
+<p begin="8968800000t" end="8988600000t" region="bottomCenter" style="s1" xml:id="subtitle231"><font face="Trebuchet MS" size="24">will be passed down for all eternity.</font></p>
+<p begin="9004800000t" end="9021300000t" region="bottomCenter" style="s1" xml:id="subtitle232"><font face="Trebuchet MS" size="24">Why have you chosen to do so?</font></p>
+<p begin="9027100000t" end="9036300000t" region="bottomCenter" style="s1" xml:id="subtitle233"><font face="Trebuchet MS" size="24">What?</font></p>
+<p begin="9036300000t" end="9055300000t" region="bottomCenter" style="s1" xml:id="subtitle234"><font face="Trebuchet MS" size="24">There are other ways</font></p>
+<p begin="9058200000t" end="9095700000t" region="bottomCenter" style="s1" xml:id="subtitle235"><font face="Trebuchet MS" size="24">to have Your Majesty's prestige<br />known throughout the world.</font></p>
+<p begin="9122300000t" end="9149800000t" region="bottomCenter" style="s1" xml:id="subtitle236"><font face="Trebuchet MS" size="24">Why are your actions so close-minded?</font></p>
+<p begin="9170500000t" end="9188200000t" region="bottomCenter" style="s1" xml:id="subtitle237"><font face="Trebuchet MS" size="24">Close-minded, huh?</font></p>
+<p begin="9193900000t" end="9214200000t" region="bottomCenter" style="s1" xml:id="subtitle238"><font face="Trebuchet MS" size="24">What is your goal?</font></p>
+<p begin="9224800000t" end="9247600000t" region="bottomCenter" style="s1" xml:id="subtitle239"><font face="Trebuchet MS" size="24">My goal?</font></p>
+<p begin="9311600000t" end="9354500000t" region="bottomCenter" style="s1" xml:id="subtitle240"><font face="Trebuchet MS" size="24"><i>My comrades from Yggdrasil may<br />exist somewhere in this world.</i></font></p>
+<p begin="9360600000t" end="9380600000t" region="bottomCenter" style="s1" xml:id="subtitle241"><font face="Trebuchet MS" size="24"><i>That's what I had hoped...</i></font></p>
+<p begin="9396400000t" end="9421200000t" region="bottomCenter" style="s1" xml:id="subtitle242"><font face="Trebuchet MS" size="24">My goal...</font></p>
+<p begin="9421200000t" end="9449300000t" region="bottomCenter" style="s1" xml:id="subtitle243"><font face="Trebuchet MS" size="24">It seems simple and complicated<br />at the same time.</font></p>
+<p begin="9455100000t" end="9473500000t" region="bottomCenter" style="s1" xml:id="subtitle244"><font face="Trebuchet MS" size="24">My goal...</font></p>
+<p begin="9478600000t" end="9506300000t" region="bottomCenter" style="s1" xml:id="subtitle245"><font face="Trebuchet MS" size="24">There's only one thing I'm searching for...</font></p>
+<p begin="9512700000t" end="9528800000t" region="bottomCenter" style="s1" xml:id="subtitle246"><font face="Trebuchet MS" size="24">Happiness.</font></p>
+<p begin="9532400000t" end="9548900000t" region="bottomCenter" style="s1" xml:id="subtitle247"><font face="Trebuchet MS" size="24">Happiness?</font></p>
+<p begin="9548900000t" end="9612700000t" region="bottomCenter" style="s1" xml:id="subtitle248"><font face="Trebuchet MS" size="24">In the end, isn't the ultimate<br />goal of all creatures happiness?</font></p>
+<p begin="9612700000t" end="9647700000t" region="bottomCenter" style="s1" xml:id="subtitle249"><font face="Trebuchet MS" size="24">So, you're saying it's fine to take away the<br />happiness of others for the sake of your own?</font></p>
+<p begin="9647700000t" end="9665200000t" region="bottomCenter" style="s1" xml:id="subtitle250"><font face="Trebuchet MS" size="24">Isn't that obvious?</font></p>
+<p begin="9671000000t" end="9706900000t" region="bottomCenter" style="s1" xml:id="subtitle251"><font face="Trebuchet MS" size="24">If I can bring happiness<br />to the ones I treasure,</font></p>
+<p begin="9706900000t" end="9742800000t" region="bottomCenter" style="s1" xml:id="subtitle252"><font face="Trebuchet MS" size="24">I don't care about what<br />happens to anyone else.</font></p>
+<p begin="9745900000t" end="9776000000t" region="bottomCenter" style="s1" xml:id="subtitle253"><font face="Trebuchet MS" size="24">If your people could only achieve happiness</font></p>
+<p begin="9776000000t" end="9814100000t" region="bottomCenter" style="s1" xml:id="subtitle254"><font face="Trebuchet MS" size="24">by making the people of another<br />country suffer, what would you do?</font></p>
+<p begin="9814100000t" end="9846700000t" region="bottomCenter" style="s1" xml:id="subtitle255"><font face="Trebuchet MS" size="24">Would you tell your people<br />to give up on that happiness?</font></p>
+<p begin="9852500000t" end="9865400000t" region="bottomCenter" style="s1" xml:id="subtitle256"><font face="Trebuchet MS" size="24">That logic is too extreme!</font></p>
+<p begin="9880000000t" end="9902500000t" region="bottomCenter" style="s1" xml:id="subtitle257"><font face="Trebuchet MS" size="24">Excuse me, Your Majesty.</font></p>
+<p begin="9902500000t" end="9922700000t" region="bottomCenter" style="s1" xml:id="subtitle258"><font face="Trebuchet MS" size="24">No, I don't mind.</font></p>
+<p begin="9934200000t" end="9949500000t" region="bottomCenter" style="s1" xml:id="subtitle259"><font face="Trebuchet MS" size="24">Are you telling me that</font></p>
+<p begin="9949500000t" end="9998800000t" region="bottomCenter" style="s1" xml:id="subtitle260"><font face="Trebuchet MS" size="24">someone of Your Majesty's intelligence and<br />power had no other way to move forward?</font></p>
+<p begin="10021400000t" end="10038600000t" region="bottomCenter" style="s1" xml:id="subtitle261"><font face="Trebuchet MS" size="24">There may be other ways.</font></p>
+<p begin="10046400000t" end="10090300000t" region="bottomCenter" style="s1" xml:id="subtitle262"><font face="Trebuchet MS" size="24">However, it's better to grab a hold of<br />the chance to obtain such happiness</font></p>
+<p begin="10090300000t" end="10111500000t" region="bottomCenter" style="s1" xml:id="subtitle263"><font face="Trebuchet MS" size="24">if the opportunity to do<br />so is easily available.</font></p>
+<p begin="10117200000t" end="10154100000t" region="bottomCenter" style="s1" xml:id="subtitle264"><font face="Trebuchet MS" size="24">They say, "The goddess of<br />fortune is bald behind."</font></p>
+<p begin="10154100000t" end="10174700000t" region="bottomCenter" style="s1" xml:id="subtitle265"><font face="Trebuchet MS" size="24">What a strange goddess.</font></p>
+<p begin="10174700000t" end="10188900000t" region="bottomCenter" style="s1" xml:id="subtitle266"><font face="Trebuchet MS" size="24">Oh, pardon me.</font></p>
+<p begin="10188900000t" end="10231000000t" region="bottomCenter" style="s1" xml:id="subtitle267"><font face="Trebuchet MS" size="24">I'm not belittling the gods<br />you believe in or anything.</font></p>
+<p begin="10231000000t" end="10245400000t" region="bottomCenter" style="s1" xml:id="subtitle268"><font face="Trebuchet MS" size="24">Please forgive me.</font></p>
+<p begin="10249100000t" end="10266400000t" region="bottomCenter" style="s1" xml:id="subtitle269"><font face="Trebuchet MS" size="24">I don't mind.</font></p>
+<p begin="10266400000t" end="10292900000t" region="bottomCenter" style="s1" xml:id="subtitle270"><font face="Trebuchet MS" size="24">I don't particularly believe in them.</font></p>
+<p begin="10296400000t" end="10317200000t" region="bottomCenter" style="s1" xml:id="subtitle271"><font face="Trebuchet MS" size="24">So, that's how it is.</font></p>
+<p begin="10317200000t" end="10369200000t" region="bottomCenter" style="s1" xml:id="subtitle272"><font face="Trebuchet MS" size="24">I will have you suffer for the happiness<br />of the people I must protect.</font></p>
+<p begin="10369200000t" end="10384300000t" region="bottomCenter" style="s1" xml:id="subtitle273"><font face="Trebuchet MS" size="24">Does my answer satisfy you?</font></p>
+<p begin="10393290000t" end="10427700000t" region="bottomCenter" style="s1" xml:id="subtitle274"><font face="Trebuchet MS" size="24">Well, they say it is the<br />duty of those at the top</font></p>
+<p begin="10427700000t" end="10488100000t" region="bottomCenter" style="s1" xml:id="subtitle275"><font face="Trebuchet MS" size="24">to pursue benefits for their country<br />and bring happiness to their people.</font></p>
+<p begin="10491900000t" end="10518900000t" region="bottomCenter" style="s1" xml:id="subtitle276"><font face="Trebuchet MS" size="24">I understand your reason for<br />refusing our surrender.</font></p>
+<p begin="10523700000t" end="10548200000t" region="bottomCenter" style="s1" xml:id="subtitle277"><font face="Trebuchet MS" size="24">It seems there is nothing else I can do.</font></p>
+<p begin="10548200000t" end="10594700000t" region="bottomCenter" style="s1" xml:id="subtitle278"><font face="Trebuchet MS" size="24">Now, I guess it's my turn to question you.</font></p>
+<p begin="10601300000t" end="10612000000t" region="bottomCenter" style="s1" xml:id="subtitle279"><font face="Trebuchet MS" size="24">That's right.</font></p>
+<p begin="10614800000t" end="10657100000t" region="bottomCenter" style="s1" xml:id="subtitle280"><font face="Trebuchet MS" size="24">Who currently holds the sword<br />that Gazef Stronoff wielded?</font></p>
+<p begin="10657100000t" end="10684800000t" region="bottomCenter" style="s1" xml:id="subtitle281"><font face="Trebuchet MS" size="24">The armor you're wearing was<br />also previously worn by him.</font></p>
+<p begin="10684800000t" end="10690800000t" region="bottomCenter" style="s1" xml:id="subtitle282"><font face="Trebuchet MS" size="24">Yes.</font></p>
+<p begin="10694900000t" end="10742100000t" region="bottomCenter" style="s1" xml:id="subtitle283"><font face="Trebuchet MS" size="24">A man named Brain Unglaus is currently<br />in possession of that sword.</font></p>
+<p begin="10744300000t" end="10762800000t" region="bottomCenter" style="s1" xml:id="subtitle284"><font face="Trebuchet MS" size="24">Brain Unglaus...</font></p>
+<p begin="10770600000t" end="10804700000t" region="bottomCenter" style="s1" xml:id="subtitle285"><font face="Trebuchet MS" size="24">Oh, is that man currently here?</font></p>
+<p begin="10804700000t" end="10833500000t" region="bottomCenter" style="s1" xml:id="subtitle286"><font face="Trebuchet MS" size="24">No, he should be in the royal palace.</font></p>
+<p begin="10833500000t" end="10845500000t" region="bottomCenter" style="s1" xml:id="subtitle287"><font face="Trebuchet MS" size="24">I see.</font></p>
+<p begin="10845500000t" end="10899800000t" region="bottomCenter" style="s1" xml:id="subtitle288"><font face="Trebuchet MS" size="24">Then, it seems it doesn't matter what<br />spells I use to decimate your forces.</font></p>
+<p begin="10899800000t" end="10924700000t" region="bottomCenter" style="s1" xml:id="subtitle289"><font face="Trebuchet MS" size="24">We don't plan to lose,</font></p>
+<p begin="10924700000t" end="10964900000t" region="bottomCenter" style="s1" xml:id="subtitle290"><font face="Trebuchet MS" size="24">but I hope you use magic that will<br />kill us without much suffering.</font></p>
+<p begin="10975700000t" end="10990300000t" region="bottomCenter" style="s1" xml:id="subtitle291"><font face="Trebuchet MS" size="24">Well...</font></p>
+<p begin="10990300000t" end="11014400000t" region="bottomCenter" style="s1" xml:id="subtitle292"><font face="Trebuchet MS" size="24">We've now become acquainted with one another.</font></p>
+<p begin="11014400000t" end="11046200000t" region="bottomCenter" style="s1" xml:id="subtitle293"><font face="Trebuchet MS" size="24">I'll make sure to kill<br />you as gently as I can.</font></p>
+<p begin="11064400000t" end="11079300000t" region="bottomCenter" style="s1" xml:id="subtitle294"><font face="Trebuchet MS" size="24">I appreciate that.</font></p>
+<p begin="11114200000t" end="11136200000t" region="bottomCenter" style="s1" xml:id="subtitle295"><font face="Trebuchet MS" size="24">The drink was delicious, Your Majesty.</font></p>
+<p begin="11152100000t" end="11191400000t" region="bottomCenter" style="s1" xml:id="subtitle296"><font face="Trebuchet MS" size="24">May I ask you one last thing?</font></p>
+<p begin="11206600000t" end="11255200000t" region="bottomCenter" style="s1" xml:id="subtitle297"><font face="Trebuchet MS" size="24">Did you or perhaps one of your<br />subordinates kill my elder brother?</font></p>
+<p begin="11255200000t" end="11265600000t" region="bottomCenter" style="s1" xml:id="subtitle298"><font face="Trebuchet MS" size="24">Your brother?</font></p>
+<p begin="11276100000t" end="11303100000t" region="bottomCenter" style="s1" xml:id="subtitle299"><font face="Trebuchet MS" size="24">The deed was probably done by one of mine.</font></p>
+<p begin="11306200000t" end="11340200000t" region="bottomCenter" style="s1" xml:id="subtitle300"><font face="Trebuchet MS" size="24">I see. So he's dead, after all.</font></p>
+<p begin="11346900000t" end="11384400000t" region="bottomCenter" style="s1" xml:id="subtitle301"><font face="Trebuchet MS" size="24">Thank you for letting me know, Your Majesty.</font></p>
+<p begin="11386800000t" end="11399500000t" region="bottomCenter" style="s1" xml:id="subtitle302"><font face="Trebuchet MS" size="24">I'll take my leave.</font></p>
+<p begin="11429600000t" end="11445100000t" region="bottomCenter" style="s1" xml:id="subtitle303"><font face="Trebuchet MS" size="24">A dauntless man.</font></p>
+<p begin="11454100000t" end="11485100000t" region="bottomCenter" style="s1" xml:id="subtitle304"><font face="Trebuchet MS" size="24">That must be what true royalty is like.</font></p>
+<p begin="11549200000t" end="11572000000t" region="bottomCenter" style="s1" xml:id="subtitle305"><font face="Trebuchet MS" size="24">My goal...</font></p>
+<p begin="11572000000t" end="11597300000t" region="bottomCenter" style="s1" xml:id="subtitle306"><font face="Trebuchet MS" size="24">There's only one thing I'm searching for...</font></p>
+<p begin="11602000000t" end="11618400000t" region="bottomCenter" style="s1" xml:id="subtitle307"><font face="Trebuchet MS" size="24">Happiness.</font></p>
+<p begin="11626200000t" end="11668200000t" region="bottomCenter" style="s1" xml:id="subtitle308"><font face="Trebuchet MS" size="24"><i>Perhaps I was never fit to be a king.</i></font></p>
+<p begin="11682500000t" end="11723000000t" region="bottomCenter" style="s1" xml:id="subtitle309"><font face="Trebuchet MS" size="24"><i>I just wanted to make this<br />kingdom into a respectable one.</i></font></p>
+<p begin="11770400000t" end="11783600000t" region="bottomCenter" style="s1" xml:id="subtitle310"><font face="Trebuchet MS" size="24">Your Highness!</font></p>
+<p begin="11783600000t" end="11797500000t" region="bottomCenter" style="s1" xml:id="subtitle311"><font face="Trebuchet MS" size="24">You're safe!</font></p>
+<p begin="11797500000t" end="11813600000t" region="bottomCenter" style="s1" xml:id="subtitle312"><font face="Trebuchet MS" size="24">What did the Sorcerer King say?!</font></p>
+<p begin="11813600000t" end="11853200000t" region="bottomCenter" style="s1" xml:id="subtitle313"><font face="Trebuchet MS" size="24">The Sorcerer King plans to<br />massacre everyone in the kingdom.</font></p>
+<p begin="11853200000t" end="11878700000t" region="bottomCenter" style="s1" xml:id="subtitle314"><font face="Trebuchet MS" size="24">There was no opportunity for negotiation.</font></p>
+<p begin="11884500000t" end="11900700000t" region="bottomCenter" style="s1" xml:id="subtitle315"><font face="Trebuchet MS" size="24">Welcome back.</font></p>
+<p begin="11900700000t" end="11927500000t" region="bottomCenter" style="s1" xml:id="subtitle316"><font face="Trebuchet MS" size="24">It sounds like the talk didn't go well.</font></p>
+<p begin="11927500000t" end="11960000000t" region="bottomCenter" style="s1" xml:id="subtitle317"><font face="Trebuchet MS" size="24">In other words, the talk went as expected.</font></p>
+<p begin="11960000000t" end="11977300000t" region="bottomCenter" style="s1" xml:id="subtitle318"><font face="Trebuchet MS" size="24">I see.</font></p>
+<p begin="11977300000t" end="12008400000t" region="bottomCenter" style="s1" xml:id="subtitle319"><font face="Trebuchet MS" size="24">So, what kind of evil monster<br />was the Sorcerer King?</font></p>
+<p begin="12008400000t" end="12031200000t" region="bottomCenter" style="s1" xml:id="subtitle320"><font face="Trebuchet MS" size="24">He was surprisingly human.</font></p>
+<p begin="12031200000t" end="12036400000t" region="bottomCenter" style="s1" xml:id="subtitle321"><font face="Trebuchet MS" size="24">What?</font></p>
+<p begin="12036400000t" end="12068400000t" region="bottomCenter" style="s1" xml:id="subtitle322"><font face="Trebuchet MS" size="24">Well, he was definitely<br />a monster on the outside.</font></p>
+<p begin="12068400000t" end="12112100000t" region="bottomCenter" style="s1" xml:id="subtitle323"><font face="Trebuchet MS" size="24">But, well, he was the same as<br />any other human on the inside.</font></p>
+<p begin="12118900000t" end="12145300000t" region="bottomCenter" style="s1" xml:id="subtitle324"><font face="Trebuchet MS" size="24">So what is the plan of attack?</font></p>
+<p begin="12150200000t" end="12171500000t" region="bottomCenter" style="s1" xml:id="subtitle325"><font face="Trebuchet MS" size="24">There's no plan.</font></p>
+<p begin="12176600000t" end="12220200000t" region="bottomCenter" style="s1" xml:id="subtitle326"><font face="Trebuchet MS" size="24">We lost many of our commanders<br />and knights in the last battle.</font></p>
+<p begin="12226500000t" end="12237600000t" region="bottomCenter" style="s1" xml:id="subtitle327"><font face="Trebuchet MS" size="24">Truthfully speaking,</font></p>
+<p begin="12237600000t" end="12291600000t" region="bottomCenter" style="s1" xml:id="subtitle328"><font face="Trebuchet MS" size="24">I didn't like Stronoff, so I never thought<br />I would miss him at a time like this...</font></p>
+<p begin="12298900000t" end="12310700000t" region="bottomCenter" style="s1" xml:id="subtitle329"><font face="Trebuchet MS" size="24">You people are...</font></p>
+<p begin="12350400000t" end="12361700000t" region="bottomCenter" style="s1" xml:id="subtitle330"><font face="Trebuchet MS" size="24">King Zanac!</font></p>
+<p begin="12376400000t" end="12399200000t" region="bottomCenter" style="s1" xml:id="subtitle331"><font face="Trebuchet MS" size="24">Stand down! This is His Highness's tent!</font></p>
+<p begin="12399200000t" end="12420800000t" region="bottomCenter" style="s1" xml:id="subtitle332"><font face="Trebuchet MS" size="24"><i>A rebellion at this point and time?</i></font></p>
+<p begin="12420800000t" end="12464400000t" region="bottomCenter" style="s1" xml:id="subtitle333"><font face="Trebuchet MS" size="24"><i>No, this is just the result of<br />their desperate attempt to live...</i></font></p>
+<p begin="12471800000t" end="12488000000t" region="bottomCenter" style="s1" xml:id="subtitle334"><font face="Trebuchet MS" size="24">You lowly people! Stand down!</font></p>
+<p begin="12488000000t" end="12504800000t" region="bottomCenter" style="s1" xml:id="subtitle335"><font face="Trebuchet MS" size="24">Stop, Representative.</font></p>
+<p begin="12514300000t" end="12544400000t" region="bottomCenter" style="s1" xml:id="subtitle336"><font face="Trebuchet MS" size="24">For what reason did you enter my tent?</font></p>
+<p begin="12544400000t" end="12578100000t" region="bottomCenter" style="s1" xml:id="subtitle337"><font face="Trebuchet MS" size="24">Your Highness, please surrender.</font></p>
+<p begin="12578100000t" end="12595900000t" region="bottomCenter" style="s1" xml:id="subtitle338"><font face="Trebuchet MS" size="24">It's impossible.</font></p>
+<p begin="12595900000t" end="12639500000t" region="bottomCenter" style="s1" xml:id="subtitle339"><font face="Trebuchet MS" size="24">We can only survive if we<br />defeat the Sorcerer King.</font></p>
+<p begin="12639500000t" end="12652800000t" region="bottomCenter" style="s1" xml:id="subtitle340"><font face="Trebuchet MS" size="24">We can't win!</font></p>
+<p begin="12652800000t" end="12668200000t" region="bottomCenter" style="s1" xml:id="subtitle341"><font face="Trebuchet MS" size="24">He has an army of undead!</font></p>
+<p begin="12677600000t" end="12701200000t" region="bottomCenter" style="s1" xml:id="subtitle342"><font face="Trebuchet MS" size="24">That may be the case for you, Your Highness.</font></p>
+<p begin="12701200000t" end="12752600000t" region="bottomCenter" style="s1" xml:id="subtitle343"><font face="Trebuchet MS" size="24">But we'll exchange your life for our own!</font></p>
+<p begin="12752600000t" end="12778300000t" region="bottomCenter" style="s1" xml:id="subtitle344"><font face="Trebuchet MS" size="24">We will go and pledge our<br />allegiance to the Sorcerer King!</font></p>
+<p begin="12783400000t" end="12823400000t" region="bottomCenter" style="s1" xml:id="subtitle345"><font face="Trebuchet MS" size="24">Your Highness, please obey us quietly.</font></p>
+<p begin="12841200000t" end="12903500000t" region="bottomCenter" style="s1" xml:id="subtitle346"><font face="Trebuchet MS" size="24">As a member of the royal family,<br />I have the resolve to fight to the end.</font></p>
+<p begin="12914100000t" end="12950600000t" region="bottomCenter" style="s1" xml:id="subtitle347"><font face="Trebuchet MS" size="24">Come, if you don't fear losing your life!</font></p>
+<p begin="12974500000t" end="12986900000t" region="bottomCenter" style="s1" xml:id="subtitle348"><font face="Trebuchet MS" size="24">What's wrong?!</font></p>
+<p begin="12986900000t" end="13022200000t" region="bottomCenter" style="s1" xml:id="subtitle349"><font face="Trebuchet MS" size="24">Come and take this neck if you can!</font></p>
+<p begin="13065900000t" end="13080500000t" region="bottomCenter" style="s1" xml:id="subtitle350"><font face="Trebuchet MS" size="24">Lord Ains.</font></p>
+<p begin="13080500000t" end="13093200000t" region="bottomCenter" style="s1" xml:id="subtitle351"><font face="Trebuchet MS" size="24">What is it, Albedo?</font></p>
+<p begin="13093200000t" end="13142000000t" region="bottomCenter" style="s1" xml:id="subtitle352"><font face="Trebuchet MS" size="24">Some nobles from the Kingdom<br />wish to see the Sorcerer King.</font></p>
+<p begin="13151300000t" end="13164900000t" region="bottomCenter" style="s1" xml:id="subtitle353"><font face="Trebuchet MS" size="24">Bring them here.</font></p>
+<p begin="13179100000t" end="13239900000t" region="bottomCenter" style="s1" xml:id="subtitle354"><font face="Trebuchet MS" size="24">We are in awe of Your Majesty and<br />wish to bow down at your feet.</font></p>
+<p begin="13248400000t" end="13272200000t" region="bottomCenter" style="s1" xml:id="subtitle355"><font face="Trebuchet MS" size="24">Please accept this, Your Majesty.</font></p>
+<p begin="13393900000t" end="13414800000t" region="bottomCenter" style="s1" xml:id="subtitle356"><font face="Trebuchet MS" size="24">Bury him with respect.</font></p>
+<p begin="13439500000t" end="13474900000t" region="bottomCenter" style="s1" xml:id="subtitle357"><font face="Trebuchet MS" size="24">So, what happened to the<br />armor this man was wearing?</font></p>
+<p begin="13484700000t" end="13528500000t" region="bottomCenter" style="s1" xml:id="subtitle358"><font face="Trebuchet MS" size="24">What's wrong?<br />You can't answer Lord Ains' question?</font></p>
+<p begin="13528500000t" end="13551800000t" region="bottomCenter" style="s1" xml:id="subtitle359"><font face="Trebuchet MS" size="24">N-No! Well, about that...</font></p>
+<p begin="13551800000t" end="13581200000t" region="bottomCenter" style="s1" xml:id="subtitle360"><font face="Trebuchet MS" size="24">I believe it's with the<br />prince's corpse in his tent.</font></p>
+<p begin="13596000000t" end="13616300000t" region="bottomCenter" style="s1" xml:id="subtitle361"><font face="Trebuchet MS" size="24">I see. I understand.</font></p>
+<p begin="13620100000t" end="13643800000t" region="bottomCenter" style="s1" xml:id="subtitle362"><font face="Trebuchet MS" size="24">You all did well.</font></p>
+<p begin="13643800000t" end="13674700000t" region="bottomCenter" style="s1" xml:id="subtitle363"><font face="Trebuchet MS" size="24">I shall give you a reward<br />comparable to your efforts.</font></p>
+<p begin="13674700000t" end="13687000000t" region="bottomCenter" style="s1" xml:id="subtitle364"><font face="Trebuchet MS" size="24">What do you want?</font></p>
+<p begin="13687000000t" end="13709400000t" region="bottomCenter" style="s1" xml:id="subtitle365"><font face="Trebuchet MS" size="24">Please spare me and my family!</font></p>
+<p begin="13709400000t" end="13743900000t" region="bottomCenter" style="s1" xml:id="subtitle366"><font face="Trebuchet MS" size="24">Sorcerer King!<br />I pledge my complete allegiance to you!</font></p>
+<p begin="13736100000t" end="13751500000t" region="bottomCenter" style="s1" xml:id="subtitle367"><font face="Trebuchet MS" size="24">{\an8}I do, as well, Your Majesty!</font></p>
+<p begin="13743900000t" end="13759300000t" region="bottomCenter" style="s1" xml:id="subtitle368"><font face="Trebuchet MS" size="24">Please show mercy on us!</font></p>
+<p begin="13751500000t" end="13759300000t" region="bottomCenter" style="s1" xml:id="subtitle369"><font face="Trebuchet MS" size="24">{\an8}Me, as well!</font></p>
+<p begin="13759300000t" end="13776300000t" region="bottomCenter" style="s1" xml:id="subtitle370"><font face="Trebuchet MS" size="24">I understand. I understand.</font></p>
+<p begin="13776300000t" end="13809600000t" region="bottomCenter" style="s1" xml:id="subtitle371"><font face="Trebuchet MS" size="24">Then, I will spare you and your families.</font></p>
+<p begin="13809600000t" end="13826500000t" region="bottomCenter" style="s1" xml:id="subtitle372"><font face="Trebuchet MS" size="24">Thank you very much!</font></p>
+<p begin="13826500000t" end="13867800000t" region="bottomCenter" style="s1" xml:id="subtitle373"><font face="Trebuchet MS" size="24">Albedo, send them to Neuronist.</font></p>
+<p begin="13878300000t" end="13896500000t" region="bottomCenter" style="s1" xml:id="subtitle374"><font face="Trebuchet MS" size="24">Understood.</font></p>
+<p begin="13896500000t" end="13910600000t" region="bottomCenter" style="s1" xml:id="subtitle375"><font face="Trebuchet MS" size="24">Thank you!</font></p>
+<p begin="13910600000t" end="13931600000t" region="bottomCenter" style="s1" xml:id="subtitle376"><font face="Trebuchet MS" size="24">Long live His Majesty, the Sorcerer King!</font></p>
+<p begin="13935100000t" end="13940200000t" region="bottomCenter" style="s1" xml:id="subtitle377"><font face="Trebuchet MS" size="24">Aura.</font></p>
+<p begin="13940200000t" end="13954100000t" region="bottomCenter" style="s1" xml:id="subtitle378"><font face="Trebuchet MS" size="24">Yes, Lord Ains.</font></p>
+<p begin="13954100000t" end="14016100000t" region="bottomCenter" style="s1" xml:id="subtitle379"><font face="Trebuchet MS" size="24">Make sure to tell Neuronist not to<br />kill them unless they beg for death.</font></p>
+<p begin="14016100000t" end="14036700000t" region="bottomCenter" style="s1" xml:id="subtitle380"><font face="Trebuchet MS" size="24">I understand, Lord Ains!</font></p>
+<p begin="14060300000t" end="14107200000t" region="bottomCenter" style="s1" xml:id="subtitle381"><font face="Trebuchet MS" size="24">Even if they beg for death,<br />don't kill them too quickly.</font></p>
+<p begin="14107200000t" end="14115000000t" region="bottomCenter" style="s1" xml:id="subtitle382"><font face="Trebuchet MS" size="24">Yes!</font></p>
+<p begin="14136400000t" end="14160700000t" region="bottomCenter" style="s1" xml:id="subtitle383"><font face="Trebuchet MS" size="24">I've lost interest.</font></p>
+<p begin="14160700000t" end="14192300000t" region="bottomCenter" style="s1" xml:id="subtitle384"><font face="Trebuchet MS" size="24">Cocytus will be the commander<br />and Mare the vice-commander.</font></p>
+<p begin="14192300000t" end="14202300000t" region="bottomCenter" style="s1" xml:id="subtitle385"><font face="Trebuchet MS" size="24">Yes.</font></p>
+<p begin="14192300000t" end="14202300000t" region="bottomCenter" style="s1" xml:id="subtitle386"><font face="Trebuchet MS" size="24">Yes!</font></p>
+<p begin="14205900000t" end="14250500000t" region="bottomCenter" style="s1" xml:id="subtitle387"><font face="Trebuchet MS" size="24">I allow the two of you to<br />freely use your strength...</font></p>
+<p begin="14250500000t" end="14285400000t" region="bottomCenter" style="s1" xml:id="subtitle388"><font face="Trebuchet MS" size="24">So don't let a single one of them survive.</font></p>
+</div>
+</body>
+</tt>
