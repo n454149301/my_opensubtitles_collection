@@ -1,0 +1,979 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="0t" end="0t" region="bottomCenter" style="s1" xml:id="subtitle0">=====主题曲=====</p>
+<p begin="0t" end="0t" region="bottomCenter" style="s1" xml:id="subtitle1">=====OP=====</p>
+<p begin="0t" end="0t" region="bottomCenter" style="s1" xml:id="subtitle2">=====正文=====</p>
+<p begin="30000000t" end="60000000t" region="bottomCenter" style="s1" xml:id="subtitle3"><font face="方正准圆_GBK" size="24"><b>{\an8}本字幕仅供交流试看之用，如您喜欢本作品，请支持购买正版。<br />若因私自散布传播造成法律及相关一切问题，华盟字幕社概不负责。</b></font></p>
+<p begin="62000000t" end="92000000t" region="bottomCenter" style="s1" xml:id="subtitle4"><font face="方正准圆_GBK" size="24"><b>{\an8}翻译：=ω=猫、AB ；校对：麻里奈命D；歌词：夏天的章鱼烧、<br />麻里奈命D；后期：Orion、zipwinmax；繁化：阿爽。</b></font></p>
+<p begin="66400000t" end="92000000t" region="bottomCenter" style="s1" xml:id="subtitle5">装在桐箱里的  木乃伊的左手</p>
+<p begin="93600000t" end="136100000t" region="bottomCenter" style="s1" xml:id="subtitle6"><font face="方正准圆_GBK" size="22">{\an8}骏河小学生</font></p>
+<p begin="97600000t" end="138700000t" region="bottomCenter" style="s1" xml:id="subtitle7">神原第一次使用去世的妈妈留给她的这个东西</p>
+<p begin="141300000t" end="162700000t" region="bottomCenter" style="s1" xml:id="subtitle8">据说是在小学四年级的时候</p>
+<p begin="166100000t" end="191100000t" region="bottomCenter" style="s1" xml:id="subtitle9"><font face="方正准圆_GBK" size="22">{\an8}希望能够跑得快</font></p>
+<p begin="169200000t" end="193200000t" region="bottomCenter" style="s1" xml:id="subtitle10">我希望能够跑得快</p>
+<p begin="202700000t" end="211000000t" region="bottomCenter" style="s1" xml:id="subtitle11">那个时候</p>
+<p begin="212300000t" end="237200000t" region="bottomCenter" style="s1" xml:id="subtitle12">因父母双亡而刚转学过来的神原</p>
+<p begin="240800000t" end="249900000t" region="bottomCenter" style="s1" xml:id="subtitle13">没能融入到班级中去</p>
+<p begin="254300000t" end="276800000t" region="bottomCenter" style="s1" xml:id="subtitle14">而且由于她跑步很慢</p>
+<p begin="279100000t" end="292300000t" region="bottomCenter" style="s1" xml:id="subtitle15">还总是被人嘲笑</p>
+<p begin="308400000t" end="339300000t" region="bottomCenter" style="s1" xml:id="subtitle16">于是  在近期将要举行的运动会的赛跑上</p>
+<p begin="340300000t" end="351200000t" region="bottomCenter" style="s1" xml:id="subtitle17">如果得了第一名的话</p>
+<p begin="353100000t" end="377500000t" region="bottomCenter" style="s1" xml:id="subtitle18">大家说不定就有可能会改变对自己的看法的</p>
+<p begin="380800000t" end="400400000t" region="bottomCenter" style="s1" xml:id="subtitle19">据说她就是这样想着而许下了心愿</p>
+<p begin="402600000t" end="410000000t" region="bottomCenter" style="s1" xml:id="subtitle20"><font face="方正准圆_GBK" size="22">{\an8}那天夜晚</font></p>
+<p begin="410000000t" end="427600000t" region="bottomCenter" style="s1" xml:id="subtitle21"><font face="方正准圆_GBK" size="22">{\an8}神原做了个可怕的梦</font></p>
+<p begin="470200000t" end="475400000t" region="bottomCenter" style="s1" xml:id="subtitle22"><font face="方正准圆_GBK" size="22">{\an8}定点摄像机</font></p>
+<p begin="613200000t" end="628700000t" region="bottomCenter" style="s1" xml:id="subtitle23">被怪物袭击的</p>
+<p begin="631000000t" end="668300000t" region="bottomCenter" style="s1" xml:id="subtitle24">是在赛跑比赛中和神原同组竞技的四个学生</p>
+<p begin="674000000t" end="681300000t" region="bottomCenter" style="s1" xml:id="subtitle25">第二天</p>
+<p begin="683300000t" end="712400000t" region="bottomCenter" style="s1" xml:id="subtitle26">那几个学生一同缺席了</p>
+<p begin="732800000t" end="767500000t" region="bottomCenter" style="s1" xml:id="subtitle27">神原很快就找到了雅各布斯的《猴子的手》</p>
+<p begin="773000000t" end="807400000t" region="bottomCenter" style="s1" xml:id="subtitle28">并且  据说那内容的恐怖程度让她浑身颤抖</p>
+<p begin="807600000t" end="819100000t" region="bottomCenter" style="s1" xml:id="subtitle29"><font face="方正准圆_GBK" size="22">{\an8}运气不好的话</font></p>
+<p begin="819100000t" end="836600000t" region="bottomCenter" style="s1" xml:id="subtitle30"><font face="方正准圆_GBK" size="22">{\an8}那四个人说不定就死了的。</font></p>
+<p begin="885400000t" end="896000000t" region="bottomCenter" style="s1" xml:id="subtitle31">按正常的角度去想</p>
+<p begin="897500000t" end="933500000t" region="bottomCenter" style="s1" xml:id="subtitle32">就只能向木乃伊许愿说想要取消第一个愿望吧</p>
+<p begin="936100000t" end="964400000t" region="bottomCenter" style="s1" xml:id="subtitle33">但是  对于调查过木乃伊的信息的神原来说</p>
+<p begin="965600000t" end="975700000t" region="bottomCenter" style="s1" xml:id="subtitle34">她不敢这样做</p>
+<p begin="982800000t" end="1030600000t" region="bottomCenter" style="s1" xml:id="subtitle35">因为不知道第二个愿望会用怎样的形式来实现</p>
+<p begin="1034300000t" end="1044300000t" region="bottomCenter" style="s1" xml:id="subtitle36"><font face="@方正准圆_GBK" size="22">{\an7}第二天</font></p>
+<p begin="1036400000t" end="1047600000t" region="bottomCenter" style="s1" xml:id="subtitle37">这之后的第二天</p>
+<p begin="1052000000t" end="1068500000t" region="bottomCenter" style="s1" xml:id="subtitle38">在赛跑练习的时候</p>
+<p begin="1068700000t" end="1124300000t" region="bottomCenter" style="s1" xml:id="subtitle39">神原被安排和与之前四个人不同的五个人一起跑</p>
+<p begin="1142100000t" end="1157200000t" region="bottomCenter" style="s1" xml:id="subtitle40">所以我跑了</p>
+<p begin="1160300000t" end="1178800000t" region="bottomCenter" style="s1" xml:id="subtitle41">为了跑得更快而做了努力</p>
+<p begin="1180700000t" end="1199200000t" region="bottomCenter" style="s1" xml:id="subtitle42">如果就那样什么都不做的话</p>
+<p begin="1201100000t" end="1228200000t" region="bottomCenter" style="s1" xml:id="subtitle43">之后会发生什么是明摆着的</p>
+<p begin="1264100000t" end="1289790000t" region="bottomCenter" style="s1" xml:id="subtitle44">神原没有加入田径部</p>
+<p begin="1272000000t" end="1286990000t" region="bottomCenter" style="s1" xml:id="subtitle45"><font face="方正准圆_GBK" size="22">{\an8}骏河中学生</font></p>
+<p begin="1293800000t" end="1335900000t" region="bottomCenter" style="s1" xml:id="subtitle46">由于不知道向猴子的手许愿的效力会持续到何时</p>
+<p begin="1338200000t" end="1382900000t" region="bottomCenter" style="s1" xml:id="subtitle47">所以她是不能处于可能会有比自己还快的人在的地方的</p>
+<p begin="1388200000t" end="1398200000t" region="bottomCenter" style="s1" xml:id="subtitle48"><font face="方正准圆_GBK" size="22">{\an8}所以神原</font></p>
+<p begin="1398200000t" end="1414400000t" region="bottomCenter" style="s1" xml:id="subtitle49"><font face="方正准圆_GBK" size="22">{\an8}加入了篮球部</font></p>
+<p begin="1434600000t" end="1449600000t" region="bottomCenter" style="s1" xml:id="subtitle50"><font face="方正准圆_GBK" size="22">{\an8}在球场的区域中</font></p>
+<p begin="1463400000t" end="1476700000t" region="bottomCenter" style="s1" xml:id="subtitle51"><font face="方正准圆_GBK" size="22">{\an8}能够追得上神原的人</font></p>
+<p begin="1492500000t" end="1505700000t" region="bottomCenter" style="s1" xml:id="subtitle52"><font face="方正准圆_GBK" size="22">{\an8}是一个都没有的。</font></p>
+<p begin="1531100000t" end="1541100000t" region="bottomCenter" style="s1" xml:id="subtitle53"><font face="方正准圆_GBK" size="22">{\an8}神原马上</font></p>
+<p begin="1541100000t" end="1560900000t" region="bottomCenter" style="s1" xml:id="subtitle54"><font face="方正准圆_GBK" size="22">{\an8}成为了篮球部的王牌。</font></p>
+<p begin="1578000000t" end="1584600000t" region="bottomCenter" style="s1" xml:id="subtitle55">有一天</p>
+<p begin="1588300000t" end="1603900000t" region="bottomCenter" style="s1" xml:id="subtitle56">听到了有关我的评论</p>
+<p begin="1604800000t" end="1630300000t" region="bottomCenter" style="s1" xml:id="subtitle57">战场原前辈来到了体育馆</p>
+<p begin="1638800000t" end="1670200000t" region="bottomCenter" style="s1" xml:id="subtitle58">由于战场原前辈是田径部的王牌</p>
+<p begin="1673400000t" end="1703800000t" region="bottomCenter" style="s1" xml:id="subtitle59">她就过来看传闻跑得快的我了</p>
+<p begin="1708700000t" end="1747800000t" region="bottomCenter" style="s1" xml:id="subtitle60">然后  「非正式的就可以了  我们来比比百米跑吧」</p>
+<p begin="1748400000t" end="1759000000t" region="bottomCenter" style="s1" xml:id="subtitle61">…这样邀请了我</p>
+<p begin="1765400000t" end="1808000000t" region="bottomCenter" style="s1" xml:id="subtitle62">而我却不得不拒绝她  这件事真的让我非常难受啊</p>
+<p begin="1821400000t" end="1841400000t" region="bottomCenter" style="s1" xml:id="subtitle63"><font face="方正准圆_GBK" size="22">{\an8}是非常出色的前辈。</font></p>
+<p begin="1824700000t" end="1842900000t" region="bottomCenter" style="s1" xml:id="subtitle64">她是非常出色的前辈</p>
+<p begin="1864000000t" end="1884700000t" region="bottomCenter" style="s1" xml:id="subtitle65">虽然不是一见钟情</p>
+<p begin="1886000000t" end="1906900000t" region="bottomCenter" style="s1" xml:id="subtitle66">但是在开始说上话的第三天</p>
+<p begin="1908500000t" end="1939800000t" region="bottomCenter" style="s1" xml:id="subtitle67">我已经喜欢上了战场原前辈</p>
+<p begin="1947300000t" end="1983100000t" region="bottomCenter" style="s1" xml:id="subtitle68">我被战场原前辈治愈了</p>
+<p begin="1990000000t" end="2004100000t" region="bottomCenter" style="s1" xml:id="subtitle69">从那以后的神原</p>
+<p begin="2006000000t" end="2031600000t" region="bottomCenter" style="s1" xml:id="subtitle70">似乎把木乃伊的事情从意识里排除掉了</p>
+<p begin="2034000000t" end="2045200000t" region="bottomCenter" style="s1" xml:id="subtitle71"><font face="方正准圆_GBK" size="22">{\an8}但是，即使是那样</font></p>
+<p begin="2037500000t" end="2046800000t" region="bottomCenter" style="s1" xml:id="subtitle72">但是  即使是那样</p>
+<p begin="2051100000t" end="2090700000t" region="bottomCenter" style="s1" xml:id="subtitle73">也有过发作性地想要使用木乃伊的冲动</p>
+<p begin="2098200000t" end="2127800000t" region="bottomCenter" style="s1" xml:id="subtitle74">在篮球比赛中  遇到强敌的时候</p>
+<p begin="2134400000t" end="2154100000t" region="bottomCenter" style="s1" xml:id="subtitle75">和朋友发生激烈争吵的时候</p>
+<p begin="2162700000t" end="2169600000t" region="bottomCenter" style="s1" xml:id="subtitle76">还有</p>
+<p begin="2175200000t" end="2206200000t" region="bottomCenter" style="s1" xml:id="subtitle77">被战场原前辈  拒绝的时候</p>
+<p begin="2216000000t" end="2242800000t" region="bottomCenter" style="s1" xml:id="subtitle78">最终还是没有使用过木乃伊</p>
+<p begin="2246700000t" end="2254900000t" region="bottomCenter" style="s1" xml:id="subtitle79">那个时候</p>
+<p begin="2256300000t" end="2281200000t" region="bottomCenter" style="s1" xml:id="subtitle80">因为我已经知道了母亲将木乃伊托付给我</p>
+<p begin="2282900000t" end="2351500000t" region="bottomCenter" style="s1" xml:id="subtitle81">是希望我成为在遭遇困难时也能只靠自己的力量去解决的人</p>
+<p begin="2357300000t" end="2370800000t" region="bottomCenter" style="s1" xml:id="subtitle82">所以神原</p>
+<p begin="2370800000t" end="2397200000t" region="bottomCenter" style="s1" xml:id="subtitle83">默默地离开了战场原</p>
+<p begin="2401100000t" end="2412900000t" region="bottomCenter" style="s1" xml:id="subtitle84">虽然如果向木乃伊祈愿</p>
+<p begin="2414600000t" end="2462600000t" region="bottomCenter" style="s1" xml:id="subtitle85">说不定就能解决当时战场原所抱有的秘密的</p>
+<p begin="2463300000t" end="2477200000t" region="bottomCenter" style="s1" xml:id="subtitle86">但是她也没那么做</p>
+<p begin="2482000000t" end="2497600000t" region="bottomCenter" style="s1" xml:id="subtitle87">可是一年后</p>
+<p begin="2501800000t" end="2528700000t" region="bottomCenter" style="s1" xml:id="subtitle88">神原知道了我的事情</p>
+<p begin="2534600000t" end="2565790000t" region="bottomCenter" style="s1" xml:id="subtitle89">她看到了在战场原身边的我</p>
+<p begin="2683700000t" end="2713000000t" region="bottomCenter" style="s1" xml:id="subtitle90">究竟是何时从桐箱中拿出木乃伊的</p>
+<p begin="2713600000t" end="2739000000t" region="bottomCenter" style="s1" xml:id="subtitle91">神原似乎已经不知道了</p>
+<p begin="2742000000t" end="2748600000t" region="bottomCenter" style="s1" xml:id="subtitle92">而且</p>
+<p begin="2750200000t" end="2775800000t" region="bottomCenter" style="s1" xml:id="subtitle93">本应该只到左手手腕为止的木乃伊</p>
+<p begin="2776800000t" end="2805200000t" region="bottomCenter" style="s1" xml:id="subtitle94">为什么已经伸长到手肘的位置了</p>
+<p begin="2806500000t" end="2838700000t" region="bottomCenter" style="s1" xml:id="subtitle95">连这样的事情她都完全没有考虑</p>
+<p begin="2838100000t" end="2854500000t" region="bottomCenter" style="s1" xml:id="subtitle96"><font face="方正准圆_GBK" size="22">{\an8}然后等她发觉的时候</font></p>
+<p begin="2840700000t" end="2855200000t" region="bottomCenter" style="s1" xml:id="subtitle97">然后等她发觉的时候</p>
+<p begin="2871900000t" end="2885200000t" region="bottomCenter" style="s1" xml:id="subtitle98"><font face="方正准圆_GBK" size="22">{\an8}神原的左手</font></p>
+<p begin="2885200000t" end="2899000000t" region="bottomCenter" style="s1" xml:id="subtitle99"><font face="方正准圆_GBK" size="22">{\an8}化成了妖怪。</font></p>
+<p begin="2900200000t" end="2910200000t" region="bottomCenter" style="s1" xml:id="subtitle100"><font face="@方正准圆_GBK" size="22">{\an7}回想结束</font></p>
+<p begin="2900200000t" end="2910200000t" region="bottomCenter" style="s1" xml:id="subtitle101"><font face="@方正准圆_GBK" size="22">{\an7}以下  新主题歌</font></p>
+<p begin="3027000000t" end="3081500000t" region="bottomCenter" style="s1" xml:id="subtitle102"><font face="HGSMinchoB" size="24" color="#000000"><b>{\an8}無意識のうちに　捉えたその景色は</b></font></p>
+<p begin="3027000000t" end="3081500000t" region="bottomCenter" style="s1" xml:id="subtitle103"><font face="方正大标宋_GBK" size="28" color="#000000"><b>无意识之中捕捉到的那片景色</b></font></p>
+<p begin="3081700000t" end="3135100000t" region="bottomCenter" style="s1" xml:id="subtitle104"><font face="HGSMinchoB" size="24" color="#000000"><b>{\an8}ずっと待ち望んでいた　未来じゃなく </b></font></p>
+<p begin="3081700000t" end="3135100000t" region="bottomCenter" style="s1" xml:id="subtitle105"><font face="方正大标宋_GBK" size="28" color="#000000"><b>不是我一直期望的未来</b></font></p>
+<p begin="3136300000t" end="3190900000t" region="bottomCenter" style="s1" xml:id="subtitle106"><font face="HGSMinchoB" size="24" color="#000000"><b>{\an8}私の知らない　見たこともない笑顔</b></font></p>
+<p begin="3136300000t" end="3190900000t" region="bottomCenter" style="s1" xml:id="subtitle107"><font face="方正大标宋_GBK" size="28" color="#000000"><b>我所不知的  从未见过的笑容</b></font></p>
+<p begin="3191600000t" end="3241800000t" region="bottomCenter" style="s1" xml:id="subtitle108"><font face="HGSMinchoB" size="24" color="#000000"><b>{\an8}釘付けになったまま　立ち尽くした</b></font></p>
+<p begin="3191600000t" end="3241800000t" region="bottomCenter" style="s1" xml:id="subtitle109"><font face="方正大标宋_GBK" size="28" color="#000000"><b>让我固定在那里  站立不动</b></font></p>
+<p begin="3242200000t" end="3297800000t" region="bottomCenter" style="s1" xml:id="subtitle110"><font face="HGSMinchoB" size="24" color="#000000"><b>{\an8}てんでんばらばら　ふたつの世界　はぐれてく</b></font></p>
+<p begin="3242200000t" end="3297800000t" region="bottomCenter" style="s1" xml:id="subtitle111"><font face="方正大标宋_GBK" size="28" color="#000000"><b>各奔东西  分散到两个世界中</b></font></p>
+<p begin="3298400000t" end="3386600000t" region="bottomCenter" style="s1" xml:id="subtitle112"><font face="HGSMinchoB" size="24" color="#000000"><b>{\an8}ぜんぜんばらばら　矛盾している想い　抑え切れなくなる</b></font></p>
+<p begin="3298400000t" end="3386600000t" region="bottomCenter" style="s1" xml:id="subtitle113"><font face="方正大标宋_GBK" size="28" color="#000000"><b>彻底凌乱  抑制不住矛盾的情感</b></font></p>
+<p begin="3392700000t" end="3505800000t" region="bottomCenter" style="s1" xml:id="subtitle114"><font face="HGSMinchoB" size="24" color="#000000"><b>{\an8}がむしゃらな心で　いつの日かあなたを跳び越して　前へ進め</b></font></p>
+<p begin="3392700000t" end="3505800000t" region="bottomCenter" style="s1" xml:id="subtitle115"><font face="方正大标宋_GBK" size="28" color="#000000"><b>以我不顾一切的心意  总有一天要超越你  向前进</b></font></p>
+<p begin="3506600000t" end="3635900000t" region="bottomCenter" style="s1" xml:id="subtitle116"><font face="HGSMinchoB" size="24" color="#000000"><b>{\an8}やみくもな鼓動が　いつの間に私を追い越して　絡まった気持ち</b></font></p>
+<p begin="3506600000t" end="3635900000t" region="bottomCenter" style="s1" xml:id="subtitle117"><font face="方正大标宋_GBK" size="28" color="#000000"><b>鲁莽向前的心意不知不觉超过了我  让我体会到了错杂的心情</b></font></p>
+<p begin="3637800000t" end="3697800000t" region="bottomCenter" style="s1" xml:id="subtitle118"><font face="HGSMinchoB" size="24" color="#000000"><b>{\an8}走れ走れ　いつも出来ることはひとつ</b></font></p>
+<p begin="3637800000t" end="3697800000t" region="bottomCenter" style="s1" xml:id="subtitle119"><font face="方正大标宋_GBK" size="28" color="#000000"><b>奔跑奔跑  无论何时能做的事情就只有一个</b></font></p>
+<p begin="3698100000t" end="3729000000t" region="bottomCenter" style="s1" xml:id="subtitle120"><font face="HGSMinchoB" size="24" color="#000000"><b>{\an8}速く速く速く　その向こうへ</b></font></p>
+<p begin="3698100000t" end="3729000000t" region="bottomCenter" style="s1" xml:id="subtitle121"><font face="方正大标宋_GBK" size="28" color="#000000"><b>快点快点快点  向前方奔跑</b></font></p>
+<p begin="3809500000t" end="3827000000t" region="bottomCenter" style="s1" xml:id="subtitle122"><font face="方正准圆_GBK" size="22">{\an8}Rainy Devil似乎是非常暴力的恶魔</font></p>
+<p begin="3827000000t" end="3836600000t" region="bottomCenter" style="s1" xml:id="subtitle123"><font face="@方正准圆_GBK" size="22">{\an7}--人的恶意、敌意、<br />怨恨、悔恨、嫉妒心，<br />总的来说它最喜欢人类的负面、<br />消极的感情。</font></p>
+<p begin="3836600000t" end="3844500000t" region="bottomCenter" style="s1" xml:id="subtitle124"><font face="方正准圆_GBK" size="22">{\an8}<font size="18">看穿人的黑暗面，<br />挑起，引出，<br />让其结实。<br />像做恶作剧一般听取人的愿望，<br />像做恶作剧一般使之实现。</font></font></p>
+<p begin="3844500000t" end="3851200000t" region="bottomCenter" style="s1" xml:id="subtitle125"><font face="@方正准圆_GBK" size="22">{\an7}契约本身是作为契约--</font></p>
+<p begin="3851200000t" end="3857400000t" region="bottomCenter" style="s1" xml:id="subtitle126"><font face="方正准圆_GBK" size="22">{\an8}和人类的灵魂交换，帮其实现三个愿望。</font></p>
+<p begin="3857400000t" end="3862800000t" region="bottomCenter" style="s1" xml:id="subtitle127"><font face="@方正准圆_GBK" size="22">{\an7}在三个愿望全部实现了之后--</font></p>
+<p begin="3862800000t" end="3867800000t" region="bottomCenter" style="s1" xml:id="subtitle128"><font face="方正准圆_GBK" size="22">{\an8}就会将那个人的生命和肉体夺走。</font></p>
+<p begin="3867800000t" end="3872400000t" region="bottomCenter" style="s1" xml:id="subtitle129"><font face="@方正准圆_GBK" size="22">{\an7}也就是说</font></p>
+<p begin="3872400000t" end="3876600000t" region="bottomCenter" style="s1" xml:id="subtitle130"><font face="方正准圆_GBK" size="22">{\an8}那个人类最终会变成恶魔，似乎就是这么个性质的。</font></p>
+<p begin="3876600000t" end="3879900000t" region="bottomCenter" style="s1" xml:id="subtitle131"><font face="@方正准圆_GBK" size="22">{\an7}如果神原</font></p>
+<p begin="3879900000t" end="3883300000t" region="bottomCenter" style="s1" xml:id="subtitle132"><font face="方正准圆_GBK" size="22">{\an8}在一年前知道了战场原抱有的秘密的那个阶段</font></p>
+<p begin="3883300000t" end="3886600000t" region="bottomCenter" style="s1" xml:id="subtitle133"><font face="@方正准圆_GBK" size="22">{\an7}许下想要解决那个问题的愿望的话，<br />那个愿望是不会实现的吧。</font></p>
+<p begin="3886600000t" end="3889500000t" region="bottomCenter" style="s1" xml:id="subtitle134"><font face="方正准圆_GBK" size="22">{\an8}因为Rainy Devil只能够实现暴力的、消极的愿望。</font></p>
+<p begin="3889500000t" end="3891600000t" region="bottomCenter" style="s1" xml:id="subtitle135"><font face="@方正准圆_GBK" size="22">{\an7}恶魔会读取愿望的里侧。</font></p>
+<p begin="3891600000t" end="3894500000t" region="bottomCenter" style="s1" xml:id="subtitle136"><font face="方正准圆_GBK" size="22">{\an8}有表——就有里。</font></p>
+<p begin="3894500000t" end="3896800000t" region="bottomCenter" style="s1" xml:id="subtitle137"><font face="@方正准圆_GBK" size="22">{\an7}想要跑得快那是因为憎恨同学。<br />想要待在战场原身边<br />--那是因为憎恨阿良良木历。</font></p>
+<p begin="3906600000t" end="3914600000t" region="bottomCenter" style="s1" xml:id="subtitle138"><font face="@方正准圆_GBK" size="22">{\an7}是的，读取里侧。<br />是的，看见里侧。<br />看穿无意识的愿望。<br />能够看透一切的--恶魔。</font></p>
+<p begin="3914900000t" end="3959100000t" region="bottomCenter" style="s1" xml:id="subtitle139">骏河与猴子  其三</p>
+<p begin="4019600000t" end="4028200000t" region="bottomCenter" style="s1" xml:id="subtitle140">阿良良木君</p>
+<p begin="4032900000t" end="4044900000t" region="bottomCenter" style="s1" xml:id="subtitle141">还有这位小姐</p>
+<p begin="4051100000t" end="4069000000t" region="bottomCenter" style="s1" xml:id="subtitle142">事情我全部都了解了</p>
+<p begin="4071300000t" end="4104300000t" region="bottomCenter" style="s1" xml:id="subtitle143">那么  你们接下来打算怎么办</p>
+<p begin="4114500000t" end="4129000000t" region="bottomCenter" style="s1" xml:id="subtitle144">你问我怎么办…</p>
+<p begin="4129800000t" end="4142900000t" region="bottomCenter" style="s1" xml:id="subtitle145">唉  阿良良木君</p>
+<p begin="4146900000t" end="4169600000t" region="bottomCenter" style="s1" xml:id="subtitle146">我好歹也算得上是个专业人士</p>
+<p begin="4172200000t" end="4198000000t" region="bottomCenter" style="s1" xml:id="subtitle147">作为一个半瓶醋的权威</p>
+<p begin="4198600000t" end="4244300000t" region="bottomCenter" style="s1" xml:id="subtitle148">遇到这种事情  可不会吝惜出力的哦</p>
+<p begin="4244600000t" end="4263200000t" region="bottomCenter" style="s1" xml:id="subtitle149">能  能救我吗？</p>
+<p begin="4265400000t" end="4277600000t" region="bottomCenter" style="s1" xml:id="subtitle150">不能救哦</p>
+<p begin="4279000000t" end="4295500000t" region="bottomCenter" style="s1" xml:id="subtitle151">只是助你一臂之力而已</p>
+<p begin="4297200000t" end="4332200000t" region="bottomCenter" style="s1" xml:id="subtitle152">你只是自己救自己而已  小姐</p>
+<p begin="4340000000t" end="4352500000t" region="bottomCenter" style="s1" xml:id="subtitle153">但是哦  阿良良木君</p>
+<p begin="4357000000t" end="4381800000t" region="bottomCenter" style="s1" xml:id="subtitle154">这种情况我应该做些什么才好呢？</p>
+<p begin="4382100000t" end="4393400000t" region="bottomCenter" style="s1" xml:id="subtitle155">喂  忍野</p>
+<p begin="4395700000t" end="4404000000t" region="bottomCenter" style="s1" xml:id="subtitle156">也就是说</p>
+<p begin="4405200000t" end="4449200000t" region="bottomCenter" style="s1" xml:id="subtitle157">这次我到底应该帮些什么呢  阿良良木君</p>
+<p begin="4453400000t" end="4484100000t" region="bottomCenter" style="s1" xml:id="subtitle158">简单地解决现在发生的现象的方法</p>
+<p begin="4484800000t" end="4499000000t" region="bottomCenter" style="s1" xml:id="subtitle159">姑且是有两种的</p>
+<p begin="4507600000t" end="4515800000t" region="bottomCenter" style="s1" xml:id="subtitle160">一个是</p>
+<p begin="4520400000t" end="4548900000t" region="bottomCenter" style="s1" xml:id="subtitle161">阿良良木君被Rainy Devil杀掉</p>
+<p begin="4558100000t" end="4570000000t" region="bottomCenter" style="s1" xml:id="subtitle162">另一个是</p>
+<p begin="4584100000t" end="4605200000t" region="bottomCenter" style="s1" xml:id="subtitle163">把那只野兽的左手</p>
+<p begin="4606500000t" end="4627300000t" region="bottomCenter" style="s1" xml:id="subtitle164">干净利落地斩断</p>
+<p begin="4656000000t" end="4695300000t" region="bottomCenter" style="s1" xml:id="subtitle165">斩…斩断？  能够只斩掉恶魔的部分么？</p>
+<p begin="4695600000t" end="4720100000t" region="bottomCenter" style="s1" xml:id="subtitle166">然后原来的手会重新长出来这样的…</p>
+<p begin="4721100000t" end="4741300000t" region="bottomCenter" style="s1" xml:id="subtitle167">又不是壁虎的尾巴</p>
+<p begin="4742000000t" end="4765800000t" region="bottomCenter" style="s1" xml:id="subtitle168">那么好的事情怎么可能有啊</p>
+<p begin="4767700000t" end="4796300000t" region="bottomCenter" style="s1" xml:id="subtitle169">如果充其量一只手就可以解决状况的话</p>
+<p begin="4797300000t" end="4824800000t" region="bottomCenter" style="s1" xml:id="subtitle170">作为代价那已经算便宜了的</p>
+<p begin="4826800000t" end="4857800000t" region="bottomCenter" style="s1" xml:id="subtitle171">啊  这个不管怎么说</p>
+<p begin="4860500000t" end="4880100000t" region="bottomCenter" style="s1" xml:id="subtitle172">对我来说很为难…</p>
+<p begin="4882100000t" end="4903400000t" region="bottomCenter" style="s1" xml:id="subtitle173">你可是想要杀掉一个人呢</p>
+<p begin="4905000000t" end="4932400000t" region="bottomCenter" style="s1" xml:id="subtitle174">这点不是理所应当的代价吗？</p>
+<p begin="4933500000t" end="4949400000t" region="bottomCenter" style="s1" xml:id="subtitle175">虽然我知道你想说什么</p>
+<p begin="4950600000t" end="4966200000t" region="bottomCenter" style="s1" xml:id="subtitle176">但是  你稍微等等  忍野</p>
+<p begin="4969100000t" end="5008200000t" region="bottomCenter" style="s1" xml:id="subtitle177">你说她想要杀掉一个人  可那不是神原所希望的</p>
+<p begin="5012500000t" end="5035000000t" region="bottomCenter" style="s1" xml:id="subtitle178">神原只是想待在战场原身边…</p>
+<p begin="5036000000t" end="5051500000t" region="bottomCenter" style="s1" xml:id="subtitle179">只是想待在身边？</p>
+<p begin="5051800000t" end="5065000000t" region="bottomCenter" style="s1" xml:id="subtitle180">真是笑死人了</p>
+<p begin="5068100000t" end="5093900000t" region="bottomCenter" style="s1" xml:id="subtitle181">阿良良木君还真温柔啊</p>
+<p begin="5095700000t" end="5116700000t" region="bottomCenter" style="s1" xml:id="subtitle182">温柔到让我想吐啊</p>
+<p begin="5122800000t" end="5132500000t" region="bottomCenter" style="s1" xml:id="subtitle183">真是的</p>
+<p begin="5132990000t" end="5152500000t" region="bottomCenter" style="s1" xml:id="subtitle184">只是想待在她身边这种话</p>
+<p begin="5154600000t" end="5182300000t" region="bottomCenter" style="s1" xml:id="subtitle185">这种天真到家的话语你就原封不动地相信了吗</p>
+<p begin="5191300000t" end="5209290000t" region="bottomCenter" style="s1" xml:id="subtitle186">…难道你说不是这样的吗</p>
+<p begin="5220490000t" end="5248700000t" region="bottomCenter" style="s1" xml:id="subtitle187">阿良良木君  你不觉得奇怪么？</p>
+<p begin="5250400000t" end="5277900000t" region="bottomCenter" style="s1" xml:id="subtitle188">小学生的时候  你觉得为什么那只左手</p>
+<p begin="5280000000t" end="5297900000t" region="bottomCenter" style="s1" xml:id="subtitle189">没让这位小姐跑得快</p>
+<p begin="5299700000t" end="5334500000t" region="bottomCenter" style="s1" xml:id="subtitle190">而是做出了痛揍周围的人这样的行动呢？</p>
+<p begin="5335700000t" end="5344100000t" region="bottomCenter" style="s1" xml:id="subtitle191">那个是…</p>
+<p begin="5350800000t" end="5398600000t" region="bottomCenter" style="s1" xml:id="subtitle192">都说了  猴子的手会以违背持有者的意愿的形式来实现愿望…</p>
+<p begin="5410900000t" end="5428700000t" region="bottomCenter" style="s1" xml:id="subtitle193">但是  那不是猴子的手</p>
+<p begin="5438100000t" end="5461700000t" region="bottomCenter" style="s1" xml:id="subtitle194">Rainy Devil虽然是低级恶魔</p>
+<p begin="5462200000t" end="5474300000t" region="bottomCenter" style="s1" xml:id="subtitle195">但契约就是契约</p>
+<p begin="5479100000t" end="5500700000t" region="bottomCenter" style="s1" xml:id="subtitle196">如果许愿说想要跑得快的话</p>
+<p begin="5502500000t" end="5530400000t" region="bottomCenter" style="s1" xml:id="subtitle197">一般来说就会按照许下的愿望变得跑得快了的</p>
+<p begin="5533800000t" end="5567500000t" region="bottomCenter" style="s1" xml:id="subtitle198">痛揍同年级的学生会让跑步速度变快么？</p>
+<p begin="5571000000t" end="5590500000t" region="bottomCenter" style="s1" xml:id="subtitle199">你不觉得奇怪吗？</p>
+<p begin="5600500000t" end="5616000000t" region="bottomCenter" style="s1" xml:id="subtitle200">那…是为什么？</p>
+<p begin="5618700000t" end="5642400000t" region="bottomCenter" style="s1" xml:id="subtitle201">穿着雨衣的怪物为什么会对同年级学生…</p>
+<p begin="5643200000t" end="5676200000t" region="bottomCenter" style="s1" xml:id="subtitle202">因为这位小姐想要痛揍同年级的学生吧？</p>
+<p begin="5689900000t" end="5715800000t" region="bottomCenter" style="s1" xml:id="subtitle203">在因为双亲刚刚去世而非常难熬的时期里</p>
+<p begin="5719200000t" end="5739900000t" region="bottomCenter" style="s1" xml:id="subtitle204">如果遭受了同年级学生的破坏的话</p>
+<p begin="5744000000t" end="5774800000t" region="bottomCenter" style="s1" xml:id="subtitle205">就算想要复仇也完全没什么奇怪的</p>
+<p begin="5786400000t" end="5796500000t" region="bottomCenter" style="s1" xml:id="subtitle206">我…</p>
+<p begin="5797200000t" end="5838500000t" region="bottomCenter" style="s1" xml:id="subtitle207">当然  我认为你是在无意识之中许下了这样的愿望的</p>
+<p begin="5842200000t" end="5855600000t" region="bottomCenter" style="s1" xml:id="subtitle208">作为本人的自觉</p>
+<p begin="5857400000t" end="5882700000t" region="bottomCenter" style="s1" xml:id="subtitle209">肯定是认为自己是许愿想要跑得快的</p>
+<p begin="5885100000t" end="5905300000t" region="bottomCenter" style="s1" xml:id="subtitle210">但那只是表  里就不同了</p>
+<p begin="5908400000t" end="5921000000t" region="bottomCenter" style="s1" xml:id="subtitle211">那个愿望的里侧</p>
+<p begin="5923100000t" end="5961700000t" region="bottomCenter" style="s1" xml:id="subtitle212">有着想要痛揍同年级学生这样黑暗的愿望呢</p>
+<p begin="5970400000t" end="5986100000t" region="bottomCenter" style="s1" xml:id="subtitle213">而且虽说是无意识</p>
+<p begin="5986900000t" end="6020300000t" region="bottomCenter" style="s1" xml:id="subtitle214">小姐你其实应该是知道真相的</p>
+<p begin="6024700000t" end="6044700000t" region="bottomCenter" style="s1" xml:id="subtitle215">但因为自己不想承认</p>
+<p begin="6045500000t" end="6068500000t" region="bottomCenter" style="s1" xml:id="subtitle216">就为这个现象寻求别的解释</p>
+<p begin="6072900000t" end="6082000000t" region="bottomCenter" style="s1" xml:id="subtitle217">那就是…</p>
+<p begin="6084800000t" end="6093500000t" region="bottomCenter" style="s1" xml:id="subtitle218">猴子的手</p>
+<p begin="6110200000t" end="6146000000t" region="bottomCenter" style="s1" xml:id="subtitle219">会以袭击了同年级学生这种违背愿意的形式来实现愿望</p>
+<p begin="6146600000t" end="6179000000t" region="bottomCenter" style="s1" xml:id="subtitle220">那全是猴子的手的错  无论如何也不是自己的意愿</p>
+<p begin="6180100000t" end="6194300000t" region="bottomCenter" style="s1" xml:id="subtitle221">这是你精神上的借口</p>
+<p begin="6205800000t" end="6216800000t" region="bottomCenter" style="s1" xml:id="subtitle222">但是…忍野</p>
+<p begin="6218500000t" end="6251800000t" region="bottomCenter" style="s1" xml:id="subtitle223">你是在想我有什么确凿的证据来说那样的话吗？</p>
+<p begin="6252800000t" end="6261600000t" region="bottomCenter" style="s1" xml:id="subtitle224">阿良良木君</p>
+<p begin="6266700000t" end="6291200000t" region="bottomCenter" style="s1" xml:id="subtitle225">这种事情只要听听她说的话不就明白了嘛</p>
+<p begin="6295200000t" end="6330700000t" region="bottomCenter" style="s1" xml:id="subtitle226">这位小姐的手  小学的时候怎么样了？</p>
+<p begin="6340700000t" end="6377900000t" region="bottomCenter" style="s1" xml:id="subtitle227">小姐她第二天去教室知道四人缺席之前</p>
+<p begin="6379000000t" end="6404600000t" region="bottomCenter" style="s1" xml:id="subtitle228">根本没察觉到事情已经发生了吧</p>
+<p begin="6411000000t" end="6448100000t" region="bottomCenter" style="s1" xml:id="subtitle229">如果这位小姐的左手变成像现在一样毛茸茸的话</p>
+<p begin="6449600000t" end="6479400000t" region="bottomCenter" style="s1" xml:id="subtitle230">应该会察觉到有什么事情发生了的</p>
+<p begin="6482100000t" end="6494900000t" region="bottomCenter" style="s1" xml:id="subtitle231">但是听你刚才所说的</p>
+<p begin="6496700000t" end="6518000000t" region="bottomCenter" style="s1" xml:id="subtitle232">没有提到这样的情况吧</p>
+<p begin="6532700000t" end="6552000000t" region="bottomCenter" style="s1" xml:id="subtitle233">也就是说怪物用一个晚上</p>
+<p begin="6553500000t" end="6570300000t" region="bottomCenter" style="s1" xml:id="subtitle234">趁这位小姐没有察觉的时候</p>
+<p begin="6571000000t" end="6602600000t" region="bottomCenter" style="s1" xml:id="subtitle235">和小姐的左手同化并痛揍了她的同年级同学</p>
+<p begin="6603500000t" end="6624000000t" region="bottomCenter" style="s1" xml:id="subtitle236">实现了小姐的愿望</p>
+<p begin="6626900000t" end="6678900000t" region="bottomCenter" style="s1" xml:id="subtitle237">然后怪物又趁小姐没有察觉的时候从小姐的左手上离开了吧</p>
+<p begin="6683000000t" end="6705200000t" region="bottomCenter" style="s1" xml:id="subtitle238">从左手手腕变成了左手手臂是因为</p>
+<p begin="6706600000t" end="6751100000t" region="bottomCenter" style="s1" xml:id="subtitle239">实现了愿望所得到的灵魂的部分让它成长了吧</p>
+<p begin="6754600000t" end="6780600000t" region="bottomCenter" style="s1" xml:id="subtitle240">…喂  忍野  那么</p>
+<p begin="6793900000t" end="6817900000t" region="bottomCenter" style="s1" xml:id="subtitle241">听信加害者的借口这种事</p>
+<p begin="6819000000t" end="6847200000t" region="bottomCenter" style="s1" xml:id="subtitle242">你人还真是好啊  阿良良木君</p>
+<p begin="6849300000t" end="6875900000t" region="bottomCenter" style="s1" xml:id="subtitle243">将最喜欢的前辈占为己有的男人</p>
+<p begin="6877100000t" end="6912500000t" region="bottomCenter" style="s1" xml:id="subtitle244">就算嫉妒到想要杀死他那也不奇怪吧</p>
+<p begin="6915000000t" end="6932300000t" region="bottomCenter" style="s1" xml:id="subtitle245">对阿良良木君的袭击</p>
+<p begin="6933100000t" end="6956500000t" region="bottomCenter" style="s1" xml:id="subtitle246">才不是违背这位小姐的意愿的行为</p>
+<p begin="6960200000t" end="6985800000t" region="bottomCenter" style="s1" xml:id="subtitle247">袭击阿良良木君这件事情才是</p>
+<p begin="6987000000t" end="7007600000t" region="bottomCenter" style="s1" xml:id="subtitle248">这位小姐的意愿啊</p>
+<p begin="7089000000t" end="7098100000t" region="bottomCenter" style="s1" xml:id="subtitle249">差不多好了吧</p>
+<p begin="7272300000t" end="7299200000t" region="bottomCenter" style="s1" xml:id="subtitle250">哦  我都等得不耐烦了呢  阿良良木君</p>
+<p begin="7301900000t" end="7326200000t" region="bottomCenter" style="s1" xml:id="subtitle251">比我想的好像更花时间啊</p>
+<p begin="7326700000t" end="7367800000t" region="bottomCenter" style="s1" xml:id="subtitle252">啊  因为很难判断快到极限的基准</p>
+<p begin="7369600000t" end="7390700000t" region="bottomCenter" style="s1" xml:id="subtitle253">说不定还有一点不够</p>
+<p begin="7393500000t" end="7415100000t" region="bottomCenter" style="s1" xml:id="subtitle254">但是比起让她喝过头要好吧</p>
+<p begin="7418400000t" end="7441500000t" region="bottomCenter" style="s1" xml:id="subtitle255">对我也好  对忍也好</p>
+<p begin="7446600000t" end="7468900000t" region="bottomCenter" style="s1" xml:id="subtitle256">阿良良木君接下去可是必须要去和恶魔</p>
+<p begin="7469700000t" end="7510700000t" region="bottomCenter" style="s1" xml:id="subtitle257">上演一场激烈无比的武戏啊</p>
+<p begin="7512500000t" end="7540400000t" region="bottomCenter" style="s1" xml:id="subtitle258">我觉得现在可不是操心其它事的时候</p>
+<p begin="7547500000t" end="7569300000t" region="bottomCenter" style="s1" xml:id="subtitle259">就算是吸到极限</p>
+<p begin="7573100000t" end="7602800000t" region="bottomCenter" style="s1" xml:id="subtitle260">我也觉得这不是胜率很高的对战哦</p>
+<p begin="7607900000t" end="7636100000t" region="bottomCenter" style="s1" xml:id="subtitle261">就算对手只是一只左手</p>
+<p begin="7648100000t" end="7658500000t" region="bottomCenter" style="s1" xml:id="subtitle262">契约吗</p>
+<p begin="7665500000t" end="7712800000t" region="bottomCenter" style="s1" xml:id="subtitle263">如果这样恶魔就能乖乖回到魔界那就好了</p>
+<p begin="7718400000t" end="7748100000t" region="bottomCenter" style="s1" xml:id="subtitle264">没问题  这点事我还是能向你保证的</p>
+<p begin="7752200000t" end="7762800000t" region="bottomCenter" style="s1" xml:id="subtitle265">听好  阿良良木君</p>
+<p begin="7766900000t" end="7792100000t" region="bottomCenter" style="s1" xml:id="subtitle266">契约如果无法完成的话  那就是无效的</p>
+<p begin="7795600000t" end="7822500000t" region="bottomCenter" style="s1" xml:id="subtitle267">恶魔如果无法完成小姐的愿望的话</p>
+<p begin="7823300000t" end="7845300000t" region="bottomCenter" style="s1" xml:id="subtitle268">小姐的愿望也会失效</p>
+<p begin="7848400000t" end="7881100000t" region="bottomCenter" style="s1" xml:id="subtitle269">也就是说  只要恶魔无法杀死我…吗</p>
+<p begin="7882200000t" end="7893700000t" region="bottomCenter" style="s1" xml:id="subtitle270">就是这样</p>
+<p begin="7904000000t" end="7969400000t" region="bottomCenter" style="s1" xml:id="subtitle271">当然  即使现在的阿良良木君被现在的小忍吸血吸到极限来提升力量</p>
+<p begin="7973200000t" end="8036600000t" region="bottomCenter" style="s1" xml:id="subtitle272">也只能发挥阿良良木君还是吸血鬼的春假时的十分之一的能力</p>
+<p begin="8055500000t" end="8068900000t" region="bottomCenter" style="s1" xml:id="subtitle273">相当糟糕的数字啊</p>
+<p begin="8072600000t" end="8113400000t" region="bottomCenter" style="s1" xml:id="subtitle274">不过也不能因此而想要借助小忍本人的力量哦</p>
+<p begin="8117800000t" end="8136800000t" region="bottomCenter" style="s1" xml:id="subtitle275">如果那样做的话  不是我威胁你</p>
+<p begin="8140000000t" end="8167600000t" region="bottomCenter" style="s1" xml:id="subtitle276">真的只能将小姐的手给斩断了</p>
+<p begin="8169900000t" end="8199500000t" region="bottomCenter" style="s1" xml:id="subtitle277">必须要由阿良良木君来消灭  那才能具有意义</p>
+<p begin="8232200000t" end="8278200000t" region="bottomCenter" style="s1" xml:id="subtitle278">总之  包啊贵重物品之类的我会帮你保管的  阿良良木君</p>
+<p begin="8280000000t" end="8307500000t" region="bottomCenter" style="s1" xml:id="subtitle279">拿着那种东西的话  会行动不便的吧</p>
+<p begin="8320500000t" end="8348300000t" region="bottomCenter" style="s1" xml:id="subtitle280">不好意思  那么稍微等一会吧</p>
+<p begin="8362000000t" end="8372000000t" region="bottomCenter" style="s1" xml:id="subtitle281"><font face="@方正准圆_GBK" size="22">{\an7}那么</font></p>
+<p begin="8411500000t" end="8434400000t" region="bottomCenter" style="s1" xml:id="subtitle282">能问一句吗  阿良良木君</p>
+<p begin="8440500000t" end="8447300000t" region="bottomCenter" style="s1" xml:id="subtitle283">什么啊</p>
+<p begin="8450700000t" end="8501300000t" region="bottomCenter" style="s1" xml:id="subtitle284">为什么连想要杀死自己的人  阿良良木君都会想要救她呢</p>
+<p begin="8505700000t" end="8524100000t" region="bottomCenter" style="s1" xml:id="subtitle285">那个小姐虽说是无意识</p>
+<p begin="8526500000t" end="8566300000t" region="bottomCenter" style="s1" xml:id="subtitle286">但她可是将阿良良木君你当成可憎的情敌的哦</p>
+<p begin="8571400000t" end="8618100000t" region="bottomCenter" style="s1" xml:id="subtitle287">而且说到底  在了解到雨衣的真实身份是那位小姐的阶段</p>
+<p begin="8621500000t" end="8666300000t" region="bottomCenter" style="s1" xml:id="subtitle288">阿良良木君为什么会还想继续听那位小姐说话呢</p>
+<p begin="8669700000t" end="8725800000t" region="bottomCenter" style="s1" xml:id="subtitle289">在那个时候你应该跳过小姐直接到我这来才对吧</p>
+<p begin="8739800000t" end="8772500000t" region="bottomCenter" style="s1" xml:id="subtitle290">人活着  总会有憎恨别人的时候的</p>
+<p begin="8781900000t" end="8805200000t" region="bottomCenter" style="s1" xml:id="subtitle291">虽然要我被杀那我根本是不干的</p>
+<p begin="8809900000t" end="8864100000t" region="bottomCenter" style="s1" xml:id="subtitle292">但是如果神原憧憬战场原  就是憎恨我的理由的话</p>
+<p begin="8870100000t" end="8889400000t" region="bottomCenter" style="s1" xml:id="subtitle293">我是能够原谅她的</p>
+<p begin="8912600000t" end="8919700000t" region="bottomCenter" style="s1" xml:id="subtitle294">啊  是吗</p>
+<p begin="8922300000t" end="8967700000t" region="bottomCenter" style="s1" xml:id="subtitle295">既然是阿良良木君决定的事情  那我就不说什么了</p>
+<p begin="8969500000t" end="9002800000t" region="bottomCenter" style="s1" xml:id="subtitle296">我是完全无所谓的  反正这事不归我管</p>
+<p begin="9013100000t" end="9046200000t" region="bottomCenter" style="s1" xml:id="subtitle297">那么阿良良木君  将你的力量借给小姐吧</p>
+<p begin="9051300000t" end="9100700000t" region="bottomCenter" style="s1" xml:id="subtitle298">话说在前头  进去之后不完事可是出不来的哦</p>
+<p begin="9104400000t" end="9138300000t" region="bottomCenter" style="s1" xml:id="subtitle299">从里面可是绝对打不开门的哦</p>
+<p begin="9141400000t" end="9162700000t" region="bottomCenter" style="s1" xml:id="subtitle300">当然  不管发生了什么</p>
+<p begin="9164600000t" end="9197900000t" region="bottomCenter" style="s1" xml:id="subtitle301">我和小忍都不会来救你的</p>
+<p begin="9200500000t" end="9211600000t" region="bottomCenter" style="s1" xml:id="subtitle302">不要忘记哦</p>
+<p begin="9235000000t" end="9246800000t" region="bottomCenter" style="s1" xml:id="subtitle303">给你添麻烦了</p>
+<p begin="9261900000t" end="9268000000t" region="bottomCenter" style="s1" xml:id="subtitle304">没事</p>
+<p begin="9378900000t" end="9383400000t" region="bottomCenter" style="s1" xml:id="subtitle305">哟</p>
+<p begin="9591200000t" end="9603300000t" region="bottomCenter" style="s1" xml:id="subtitle306">神原  抱歉了</p>
+<p begin="9647000000t" end="9653200000t" region="bottomCenter" style="s1" xml:id="subtitle307">有效</p>
+<p begin="9716800000t" end="9742300000t" region="bottomCenter" style="s1" xml:id="subtitle308">能…能用脚吗…</p>
+<p begin="9746000000t" end="9758000000t" region="bottomCenter" style="s1" xml:id="subtitle309">不是只有左手吗</p>
+<p begin="9797300000t" end="9848700000t" region="bottomCenter" style="s1" xml:id="subtitle310">不只是Rainy Devil的左手  神原本人也在攻击我</p>
+<p begin="9859000000t" end="9882800000t" region="bottomCenter" style="s1" xml:id="subtitle311">神原无意识地在拒绝</p>
+<p begin="9887500000t" end="9923000000t" region="bottomCenter" style="s1" xml:id="subtitle312">拒绝第二个愿望无法实现  拒绝不杀死我</p>
+<p begin="9927100000t" end="9955300000t" region="bottomCenter" style="s1" xml:id="subtitle313">神原不打算放弃战场原的</p>
+<p begin="9984900000t" end="9997300000t" region="bottomCenter" style="s1" xml:id="subtitle314">请把它斩断吧</p>
+<p begin="10012900000t" end="10034500000t" region="bottomCenter" style="s1" xml:id="subtitle315">我不要这样的左手</p>
+<p begin="10037900000t" end="10053000000t" region="bottomCenter" style="s1" xml:id="subtitle316">你在说什么傻话啊</p>
+<p begin="10056900000t" end="10076200000t" region="bottomCenter" style="s1" xml:id="subtitle317">这种事情我不可能做到的吧</p>
+<p begin="10080000000t" end="10096400000t" region="bottomCenter" style="s1" xml:id="subtitle318">篮球要怎么办啊</p>
+<p begin="10098100000t" end="10131800000t" region="bottomCenter" style="s1" xml:id="subtitle319">我可是想要杀死一个人啊</p>
+<p begin="10136500000t" end="10156700000t" region="bottomCenter" style="s1" xml:id="subtitle320">这点程度是理所当然的代价吧</p>
+<p begin="10158200000t" end="10200000000t" region="bottomCenter" style="s1" xml:id="subtitle321">呃  神原  这事我完全没有在意啦</p>
+<p begin="10200700000t" end="10227000000t" region="bottomCenter" style="s1" xml:id="subtitle322">要想斩断的话  我有个好方法哦</p>
+<p begin="10230900000t" end="10264900000t" region="bottomCenter" style="s1" xml:id="subtitle323">用小忍的刀的话  能够让你没有感受到痛楚的闲暇</p>
+<p begin="10268190000t" end="10294500000t" region="bottomCenter" style="s1" xml:id="subtitle324">便能把那左手斩断的吧</p>
+<p begin="10305300000t" end="10355200000t" region="bottomCenter" style="s1" xml:id="subtitle325">就算是现在的小忍  斩断小姐你那纤细的手那也是轻而易举的</p>
+<p begin="10356700000t" end="10367100000t" region="bottomCenter" style="s1" xml:id="subtitle326">闭嘴  忍野</p>
+<p begin="10373000000t" end="10410100000t" region="bottomCenter" style="s1" xml:id="subtitle327">喂  神原  别那么想不开啊</p>
+<p begin="10413490000t" end="10444700000t" region="bottomCenter" style="s1" xml:id="subtitle328">你一点也没必要觉得自责啊</p>
+<p begin="10450100000t" end="10502500000t" region="bottomCenter" style="s1" xml:id="subtitle329">这全是猴子的手…不  元凶是名为Rainy Devil的妖怪…</p>
+<p begin="10503200000t" end="10530600000t" region="bottomCenter" style="s1" xml:id="subtitle330">妖怪只是实现愿望吧</p>
+<p begin="10536400000t" end="10561000000t" region="bottomCenter" style="s1" xml:id="subtitle331">因为有人向它祈求  它只是帮忙实现罢了</p>
+<p begin="10565400000t" end="10598100000t" region="bottomCenter" style="s1" xml:id="subtitle332">傲娇小妹的时候不也是这样的吗</p>
+<p begin="10617100000t" end="10638600000t" region="bottomCenter" style="s1" xml:id="subtitle333">不用管我的  阿良良木前辈</p>
+<p begin="10640100000t" end="10673800000t" region="bottomCenter" style="s1" xml:id="subtitle334">要管啊  怎么可能不管啊  你在说什么啊</p>
+<p begin="10676900000t" end="10705200000t" region="bottomCenter" style="s1" xml:id="subtitle335">而且  战场原的事情你要怎么办啊</p>
+<p begin="10708300000t" end="10728600000t" region="bottomCenter" style="s1" xml:id="subtitle336">我想让你和战场原…</p>
+<p begin="10729700000t" end="10773800000t" region="bottomCenter" style="s1" xml:id="subtitle337">已经够了  战场原前辈的事情也算了</p>
+<p begin="10792800000t" end="10821200000t" region="bottomCenter" style="s1" xml:id="subtitle338">已经够了  我会放弃的…</p>
+<p begin="10920300000t" end="10947900000t" region="bottomCenter" style="s1" xml:id="subtitle339">你是不行的  神原骏河</p>
+<p begin="10950700000t" end="10962600000t" region="bottomCenter" style="s1" xml:id="subtitle340">恨你  恨你</p>
+<p begin="10965600000t" end="10979500000t" region="bottomCenter" style="s1" xml:id="subtitle341">恨你  恨你</p>
+<p begin="11003500000t" end="11011000000t" region="bottomCenter" style="s1" xml:id="subtitle342">神原…</p>
+<p begin="11171400000t" end="11189000000t" region="bottomCenter" style="s1" xml:id="subtitle343"><font face="方正准圆_GBK" size="22">{\an8}已经不行了</font></p>
+<p begin="11251000000t" end="11268800000t" region="bottomCenter" style="s1" xml:id="subtitle344">真是闹腾得够热烈的啊</p>
+<p begin="11379700000t" end="11398100000t" region="bottomCenter" style="s1" xml:id="subtitle345">抛下我玩得真欢啊</p>
+<p begin="11400900000t" end="11419700000t" region="bottomCenter" style="s1" xml:id="subtitle346">阿良良木君  我很不高兴啊</p>
+<p begin="11422500000t" end="11441800000t" region="bottomCenter" style="s1" xml:id="subtitle347">战…战场原…</p>
+<p begin="11462300000t" end="11489700000t" region="bottomCenter" style="s1" xml:id="subtitle348">忍野  用了我的电话吗</p>
+<p begin="11520800000t" end="11548100000t" region="bottomCenter" style="s1" xml:id="subtitle349">阿良良木君  你对我说谎了呢</p>
+<p begin="11578100000t" end="11606300000t" region="bottomCenter" style="s1" xml:id="subtitle350">你骗我说撞到电线杆上了</p>
+<p begin="11608200000t" end="11628300000t" region="bottomCenter" style="s1" xml:id="subtitle351">还将神原的事情瞒着我</p>
+<p begin="11634900000t" end="11660800000t" region="bottomCenter" style="s1" xml:id="subtitle352">交往的时候我们不是约好了吗</p>
+<p begin="11662600000t" end="11686800000t" region="bottomCenter" style="s1" xml:id="subtitle353">一概不许做这类事情</p>
+<p begin="11689900000t" end="11717300000t" region="bottomCenter" style="s1" xml:id="subtitle354">至少  对于和妖怪相关的事情</p>
+<p begin="11719500000t" end="11739100000t" region="bottomCenter" style="s1" xml:id="subtitle355">我们都不应该对彼此保守秘密的</p>
+<p begin="11741800000t" end="11756100000t" region="bottomCenter" style="s1" xml:id="subtitle356">啊  不…</p>
+<p begin="11760000000t" end="11774100000t" region="bottomCenter" style="s1" xml:id="subtitle357">你罪该万死</p>
+<p begin="11799900000t" end="11847600000t" region="bottomCenter" style="s1" xml:id="subtitle358">不过呢  阿良良木君看上去好像已经死过一万次了</p>
+<p begin="11850900000t" end="11874000000t" region="bottomCenter" style="s1" xml:id="subtitle359">这次就特别原谅你吧</p>
+<p begin="11935200000t" end="11962200000t" region="bottomCenter" style="s1" xml:id="subtitle360">阿良良木君  反正你的话</p>
+<p begin="11964900000t" end="12014600000t" region="bottomCenter" style="s1" xml:id="subtitle361">肯定是抱有只要自己死了就能全部解决这样白痴的想法吧</p>
+<p begin="12036200000t" end="12069100000t" region="bottomCenter" style="s1" xml:id="subtitle362">别开玩笑了  阿良良木君要是死了的话</p>
+<p begin="12070900000t" end="12107300000t" region="bottomCenter" style="s1" xml:id="subtitle363">那么我肯定会不择手段地去杀死神原的</p>
+<p begin="12109400000t" end="12141600000t" region="bottomCenter" style="s1" xml:id="subtitle364">阿良良木君  你想让我成为杀人犯吗</p>
+<p begin="12143600000t" end="12156000000t" region="bottomCenter" style="s1" xml:id="subtitle365">全被看穿了啊</p>
+<p begin="12159000000t" end="12182500000t" region="bottomCenter" style="s1" xml:id="subtitle366">真是个懂得体谅的女人啊</p>
+<p begin="12219600000t" end="12240200000t" region="bottomCenter" style="s1" xml:id="subtitle367">我最不爽的是</p>
+<p begin="12242300000t" end="12320900000t" region="bottomCenter" style="s1" xml:id="subtitle368">我清楚地明白阿良良木君你就算不是这种体质  也会做出同样的行为来</p>
+<p begin="12337300000t" end="12378400000t" region="bottomCenter" style="s1" xml:id="subtitle369">如果你是全因自己有着不死之身才做出这种蠢事的话</p>
+<p begin="12381100000t" end="12408500000t" region="bottomCenter" style="s1" xml:id="subtitle370">那么我也会觉得那就随你便了</p>
+<p begin="12412100000t" end="12436600000t" region="bottomCenter" style="s1" xml:id="subtitle371">但是阿良良木君却像是十分理所当然地</p>
+<p begin="12439000000t" end="12467700000t" region="bottomCenter" style="s1" xml:id="subtitle372">顺其自然就变成这副模样了</p>
+<p begin="12469400000t" end="12480500000t" region="bottomCenter" style="s1" xml:id="subtitle373">真让人难以理解啊</p>
+<p begin="12491400000t" end="12538800000t" region="bottomCenter" style="s1" xml:id="subtitle374"><font face="方正准圆_GBK" size="22">{\an8}……不过嘛，不管是瞎操心，还是多管闲事，还是倒添麻烦</font></p>
+<p begin="12493100000t" end="12536800000t" region="bottomCenter" style="s1" xml:id="subtitle375">不过嘛  不管是瞎操心  还是多管闲事  还是倒添麻烦</p>
+<p begin="12538800000t" end="12579600000t" region="bottomCenter" style="s1" xml:id="subtitle376">如果是阿良良木君做的话  说不定也并不怎么坏的</p>
+<p begin="12613000000t" end="12680000000t" region="bottomCenter" style="s1" xml:id="subtitle377">如果我压倒恶魔  让神原「里」的愿望无法实现算是一个方法的话</p>
+<p begin="12686100000t" end="12733400000t" region="bottomCenter" style="s1" xml:id="subtitle378">那么  通过将神原想杀死我的这个事实告诉战场原</p>
+<p begin="12737200000t" end="12780900000t" region="bottomCenter" style="s1" xml:id="subtitle379">使得「表」的愿望无法实现  那也是一种方法</p>
+<p begin="12786900000t" end="12793900000t" region="bottomCenter" style="s1" xml:id="subtitle380">更何况现在</p>
+<p begin="12796600000t" end="12850100000t" region="bottomCenter" style="s1" xml:id="subtitle381">战场原在恶魔面前宣誓说如果我死了的话  她就要杀死神原的</p>
+<p begin="12857100000t" end="12871900000t" region="bottomCenter" style="s1" xml:id="subtitle382">这是没法装作不知道的</p>
+<p begin="12877900000t" end="12923100000t" region="bottomCenter" style="s1" xml:id="subtitle383">对于Rainy Devil来说  状况已经完全决定了</p>
+<p begin="12929200000t" end="12952300000t" region="bottomCenter" style="s1" xml:id="subtitle384">你做出了多么洞悉一切的行为啊  忍野</p>
+<p begin="12954100000t" end="13010500000t" region="bottomCenter" style="s1" xml:id="subtitle385">你…你真的是比恶魔更加了不得的家伙啊</p>
+<p begin="13018500000t" end="13035900000t" region="bottomCenter" style="s1" xml:id="subtitle386">神原  好久不见了</p>
+<p begin="13040700000t" end="13057000000t" region="bottomCenter" style="s1" xml:id="subtitle387">看你这么有精神那就再好不过了</p>
+<p begin="13136900000t" end="13181300000t" region="bottomCenter" style="s1" xml:id="subtitle388">我  喜欢战场原前辈…</p>
+<p begin="13188000000t" end="13217000000t" region="bottomCenter" style="s1" xml:id="subtitle389">是吗  但我可没有那么喜欢你的</p>
+<p begin="13222000000t" end="13244600000t" region="bottomCenter" style="s1" xml:id="subtitle390">即使这样你也会待在我身边吗</p>
+<p begin="13256600000t" end="13283600000t" region="bottomCenter" style="s1" xml:id="subtitle391">让你等了这么久  真是对不起了</p>
+<p begin="13293900000t" end="13324800000t" region="bottomCenter" style="s1" xml:id="subtitle392">真是的  我简直就是个超级大陪衬嘛</p>
+<p begin="13329200000t" end="13357500000t" region="bottomCenter" style="s1" xml:id="subtitle393">扮演了好像是为自己量身打造的丑角</p>
+<p begin="13364200000t" end="13413200000t" region="bottomCenter" style="s1" xml:id="subtitle394">战场原黑仪是个多么贪得无厌  死也不肯放弃的女人</p>
+<p begin="13415900000t" end="13436700000t" region="bottomCenter" style="s1" xml:id="subtitle395">这种事情我应该早就知道了才是</p>
+<p begin="13439800000t" end="13461000000t" region="bottomCenter" style="s1" xml:id="subtitle396"><font face="方正准圆_GBK" size="22">{\an8}如果那是真正重要的东西的话。</font></p>
+<p begin="13443400000t" end="13469800000t" region="bottomCenter" style="s1" xml:id="subtitle397">如果那是真正重要的东西的话</p>
+<p begin="13472900000t" end="13495200000t" region="bottomCenter" style="s1" xml:id="subtitle398">战场原是不会放弃的</p>
+<p begin="13503600000t" end="13544600000t" region="bottomCenter" style="s1" xml:id="subtitle399">瞎操心  多管闲事  倒添麻烦</p>
+<p begin="13553600000t" end="13581400000t" region="bottomCenter" style="s1" xml:id="subtitle400">但是  就算这样  该怎么说呢</p>
+<p begin="13585100000t" end="13630700000t" region="bottomCenter" style="s1" xml:id="subtitle401">她们每个人都真是别扭的要死啊</p>
+<p begin="13629900000t" end="13656100000t" region="bottomCenter" style="s1" xml:id="subtitle402"><font face="@DFGHSMincho-W9" size="24"><b>{\an7}「あれがデネブ、アルタイル、ベガ」</b></font></p>
+<p begin="13629900000t" end="13656100000t" region="bottomCenter" style="s1" xml:id="subtitle403"><font face="@方正大标宋_GBK" size="28"><b>{\an7}「天津四、牵牛星、织女星」</b></font></p>
+<p begin="13656900000t" end="13687800000t" region="bottomCenter" style="s1" xml:id="subtitle404"><font face="@DFGHSMincho-W9" size="24"><b>{\an7}君は指さす夏の大三角</b></font></p>
+<p begin="13656900000t" end="13687800000t" region="bottomCenter" style="s1" xml:id="subtitle405"><font face="@方正大标宋_GBK" size="28"><b>{\an7}那是你所指的夏天大三角</b></font></p>
+<p begin="13684200000t" end="13702500000t" region="bottomCenter" style="s1" xml:id="subtitle406">哥哥  早上了啊</p>
+<p begin="13688200000t" end="13744300000t" region="bottomCenter" style="s1" xml:id="subtitle407"><font face="@DFGHSMincho-W9" size="24"><b>{\an7}覚えて空を見る</b></font></p>
+<p begin="13688200000t" end="13744300000t" region="bottomCenter" style="s1" xml:id="subtitle408"><font face="@方正大标宋_GBK" size="28"><b>{\an7}我记住这些来仰望天空</b></font></p>
+<p begin="13703500000t" end="13723500000t" region="bottomCenter" style="s1" xml:id="subtitle409">再不起来是不行的啊</p>
+<p begin="13724000000t" end="13728600000t" region="bottomCenter" style="s1" xml:id="subtitle410">真是的</p>
+<p begin="13729700000t" end="13736800000t" region="bottomCenter" style="s1" xml:id="subtitle411">真是的</p>
+<p begin="13745100000t" end="13773500000t" region="bottomCenter" style="s1" xml:id="subtitle412"><font face="@DFGHSMincho-W9" size="24"><b>{\an7}やっと見つけた織姫様</b></font></p>
+<p begin="13745100000t" end="13773500000t" region="bottomCenter" style="s1" xml:id="subtitle413"><font face="@方正大标宋_GBK" size="28"><b>{\an7}好不容易找到了的织女星</b></font></p>
+<p begin="13773800000t" end="13802500000t" region="bottomCenter" style="s1" xml:id="subtitle414"><font face="@DFGHSMincho-W9" size="24"><b>{\an7}だけどどこだろう彦星様</b></font></p>
+<p begin="13773800000t" end="13802500000t" region="bottomCenter" style="s1" xml:id="subtitle415"><font face="@方正大标宋_GBK" size="28"><b>{\an7}但是牛郎星究竟在哪里呢</b></font></p>
+<p begin="13773800000t" end="13791700000t" region="bottomCenter" style="s1" xml:id="subtitle416">早啊  阿良良木前辈</p>
+<p begin="13803400000t" end="13887200000t" region="bottomCenter" style="s1" xml:id="subtitle417"><font face="@DFGHSMincho-W9" size="24"><b>{\an7}これじゃひとりぼっち</b></font></p>
+<p begin="13803400000t" end="13887200000t" region="bottomCenter" style="s1" xml:id="subtitle418"><font face="@方正大标宋_GBK" size="28"><b>{\an7}这样就孤零零了啊</b></font></p>
+<p begin="13815300000t" end="13836600000t" region="bottomCenter" style="s1" xml:id="subtitle419">早上好  神原同学</p>
+<p begin="13843600000t" end="13862000000t" region="bottomCenter" style="s1" xml:id="subtitle420">…那个  有什么事吗</p>
+<p begin="13862800000t" end="13927000000t" region="bottomCenter" style="s1" xml:id="subtitle421">嗯  早上战场原前辈打电话给我  让我来接阿良良木前辈</p>
+<p begin="13887800000t" end="13949200000t" region="bottomCenter" style="s1" xml:id="subtitle422"><font face="@DFGHSMincho-W9" size="24"><b>{\an7}真っ暗な世界から見上げた</b></font></p>
+<p begin="13887800000t" end="13949200000t" region="bottomCenter" style="s1" xml:id="subtitle423"><font face="@方正大标宋_GBK" size="28"><b>{\an7}从漆黑的世界中抬头仰望</b></font></p>
+<p begin="13932000000t" end="13949200000t" region="bottomCenter" style="s1" xml:id="subtitle424">啊  我帮你拿包吧</p>
+<p begin="13950100000t" end="14018300000t" region="bottomCenter" style="s1" xml:id="subtitle425"><font face="@DFGHSMincho-W9" size="24"><b>{\an7}夜空は星が降るようで</b></font></p>
+<p begin="13950100000t" end="14018300000t" region="bottomCenter" style="s1" xml:id="subtitle426"><font face="@方正大标宋_GBK" size="28"><b>{\an7}夜空仿佛要降下群星一般</b></font></p>
+<p begin="13953200000t" end="13965900000t" region="bottomCenter" style="s1" xml:id="subtitle427">那么走吧  前辈</p>
+<p begin="13984100000t" end="14008000000t" region="bottomCenter" style="s1" xml:id="subtitle428">但是  你不用去参加社团活动吗</p>
+<p begin="14012700000t" end="14031600000t" region="bottomCenter" style="s1" xml:id="subtitle429">周日应该也有练习吧</p>
+<p begin="14018600000t" end="14046500000t" region="bottomCenter" style="s1" xml:id="subtitle430"><font face="@DFGHSMincho-W9" size="24"><b>{\an7}いつからだろう</b></font></p>
+<p begin="14018600000t" end="14046500000t" region="bottomCenter" style="s1" xml:id="subtitle431"><font face="@方正大标宋_GBK" size="28"><b>{\an7}究竟是从什么时候开始的呢</b></font></p>
+<p begin="14035000000t" end="14071600000t" region="bottomCenter" style="s1" xml:id="subtitle432">你看  马上就要到考试假期了  不鼓起干劲的话…</p>
+<p begin="14046900000t" end="14134500000t" region="bottomCenter" style="s1" xml:id="subtitle433"><font face="@DFGHSMincho-W9" size="24"><b>{\an7}君の事を追いかける私がいた</b></font></p>
+<p begin="14046900000t" end="14134500000t" region="bottomCenter" style="s1" xml:id="subtitle434"><font face="@方正大标宋_GBK" size="28"><b>{\an7}我开始追逐着你</b></font></p>
+<p begin="14074700000t" end="14103300000t" region="bottomCenter" style="s1" xml:id="subtitle435">不  我已经打不了篮球了</p>
+<p begin="14113500000t" end="14130700000t" region="bottomCenter" style="s1" xml:id="subtitle436">虽然早了点  我要隐退了</p>
+<p begin="14134200000t" end="14155300000t" region="bottomCenter" style="s1" xml:id="subtitle437">因为一切都是半吊子啊</p>
+<p begin="14134700000t" end="14164700000t" region="bottomCenter" style="s1" xml:id="subtitle438"><font face="@DFGHSMincho-W9" size="24"><b>{\an7}どうかお願い</b></font></p>
+<p begin="14134700000t" end="14164700000t" region="bottomCenter" style="s1" xml:id="subtitle439"><font face="@方正大标宋_GBK" size="28"><b>{\an7}拜托你了</b></font></p>
+<p begin="14159700000t" end="14200000000t" region="bottomCenter" style="s1" xml:id="subtitle440">虽然使恶魔离去了  但最终手还是无法复原</p>
+<p begin="14165300000t" end="14319400000t" region="bottomCenter" style="s1" xml:id="subtitle441"><font face="@DFGHSMincho-W9" size="24"><b>{\an7}驚かないで聞いてよ  私のこの思いを</b></font></p>
+<p begin="14165300000t" end="14319400000t" region="bottomCenter" style="s1" xml:id="subtitle442"><font face="@方正大标宋_GBK" size="28"><b>{\an7}请不要惊讶  听听我的心愿吧</b></font></p>
+<p begin="14205200000t" end="14245700000t" region="bottomCenter" style="s1" xml:id="subtitle443">不管怎么说  是没法用这只手继续打篮球的</p>
+<p begin="14250700000t" end="14273900000t" region="bottomCenter" style="s1" xml:id="subtitle444">不过呢  这只手还是蛮有力道的</p>
+<p begin="14276100000t" end="14292500000t" region="bottomCenter" style="s1" xml:id="subtitle445">还蛮好用的</p>
+<p begin="14308100000t" end="14326700000t" region="bottomCenter" style="s1" xml:id="subtitle446">现在马上把我的包还回来</p>
+<p begin="14334200000t" end="14336200000t" region="bottomCenter" style="s1" xml:id="subtitle447">骏河与猴子  其三</p>
+<p begin="14354100000t" end="14360900000t" region="bottomCenter" style="s1" xml:id="subtitle448">我是火怜</p>
+<p begin="14362000000t" end="14369200000t" region="bottomCenter" style="s1" xml:id="subtitle449">我是月火</p>
+<p begin="14370300000t" end="14388800000t" region="bottomCenter" style="s1" xml:id="subtitle450">说到历那就是我们的哥哥</p>
+<p begin="14389500000t" end="14396400000t" region="bottomCenter" style="s1" xml:id="subtitle451">是哥哥呀</p>
+<p begin="14397400000t" end="14413100000t" region="bottomCenter" style="s1" xml:id="subtitle452">你知道三邻亡这个历吗</p>
+<p begin="14414200000t" end="14421100000t" region="bottomCenter" style="s1" xml:id="subtitle453">三邻亡？</p>
+<p begin="14422200000t" end="14462500000t" region="bottomCenter" style="s1" xml:id="subtitle454">在那一天建家的话  会引起将三户邻居都卷进来的大火灾</p>
+<p begin="14463100000t" end="14474800000t" region="bottomCenter" style="s1" xml:id="subtitle455">是个很可怕的历哦</p>
+<p begin="14475600000t" end="14485100000t" region="bottomCenter" style="s1" xml:id="subtitle456">好恐怖  好可怕</p>
+<p begin="14485900000t" end="14503200000t" region="bottomCenter" style="s1" xml:id="subtitle457">真不愧是FIRE SISTERS的哥哥！</p>
+<p begin="14504300000t" end="14522200000t" region="bottomCenter" style="s1" xml:id="subtitle458">真不愧是FIRE SISTERS的哥哥啊！</p>
+<p begin="14523100000t" end="14550800000t" region="bottomCenter" style="s1" xml:id="subtitle459">不过这个  能用在推理小说的阴谋上吗</p>
+<p begin="14551600000t" end="14558700000t" region="bottomCenter" style="s1" xml:id="subtitle460">怎么用</p>
+<p begin="14559900000t" end="14585700000t" region="bottomCenter" style="s1" xml:id="subtitle461">犯人在三邻亡的日子建家了！</p>
+<p begin="14586600000t" end="14600900000t" region="bottomCenter" style="s1" xml:id="subtitle462">为了杀死邻居的人！</p>
+<p begin="14601700000t" end="14606000000t" region="bottomCenter" style="s1" xml:id="subtitle463">可行？</p>
+<p begin="14606600000t" end="14610300000t" region="bottomCenter" style="s1" xml:id="subtitle464">不可行！</p>
+<p begin="14611100000t" end="14619500000t" region="bottomCenter" style="s1" xml:id="subtitle465">过去篇谜题</p>
+<p begin="14620400000t" end="14628400000t" region="bottomCenter" style="s1" xml:id="subtitle466">过去篇啊！</p>
+<p begin="14629400000t" end="14647700000t" region="bottomCenter" style="s1" xml:id="subtitle467">上回  骏河与猴子  其二</p>
+<p begin="14648400000t" end="14656600000t" region="bottomCenter" style="s1" xml:id="subtitle468">大家都知道的！</p>
+<p begin="14658700000t" end="14679900000t" region="bottomCenter" style="s1" xml:id="subtitle469">下回  抚子与蛇  其一</p>
+<p begin="14681000000t" end="14695600000t" region="bottomCenter" style="s1" xml:id="subtitle470">啊  轮到小千出场了</p>
+<p begin="14696400000t" end="14706600000t" region="bottomCenter" style="s1" xml:id="subtitle471">你不要恢复成平常的样子嘛</p>
+</div>
+</body>
+</tt><?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="0t" end="0t" region="bottomCenter" style="s1" xml:id="subtitle0">=====主题曲=====</p>
+<p begin="0t" end="0t" region="bottomCenter" style="s1" xml:id="subtitle1">=====OP=====</p>
+<p begin="0t" end="0t" region="bottomCenter" style="s1" xml:id="subtitle2">=====正文=====</p>
+<p begin="30000000t" end="60000000t" region="bottomCenter" style="s1" xml:id="subtitle3"><font face="方正准圆_GBK" size="24"><b>{\an8}本字幕仅供交流试看之用，如您喜欢本作品，请支持购买正版。<br />若因私自散布传播造成法律及相关一切问题，华盟字幕社概不负责。</b></font></p>
+<p begin="62000000t" end="92000000t" region="bottomCenter" style="s1" xml:id="subtitle4"><font face="方正准圆_GBK" size="24"><b>{\an8}翻译：=ω=猫、AB ；校对：麻里奈命D；歌词：夏天的章鱼烧、<br />麻里奈命D；后期：Orion、zipwinmax；繁化：阿爽。</b></font></p>
+<p begin="66400000t" end="92000000t" region="bottomCenter" style="s1" xml:id="subtitle5">装在桐箱里的  木乃伊的左手</p>
+<p begin="93600000t" end="136100000t" region="bottomCenter" style="s1" xml:id="subtitle6"><font face="方正准圆_GBK" size="22">{\an8}骏河小学生</font></p>
+<p begin="97600000t" end="138700000t" region="bottomCenter" style="s1" xml:id="subtitle7">神原第一次使用去世的妈妈留给她的这个东西</p>
+<p begin="141300000t" end="162700000t" region="bottomCenter" style="s1" xml:id="subtitle8">据说是在小学四年级的时候</p>
+<p begin="166100000t" end="191100000t" region="bottomCenter" style="s1" xml:id="subtitle9"><font face="方正准圆_GBK" size="22">{\an8}希望能够跑得快</font></p>
+<p begin="169200000t" end="193200000t" region="bottomCenter" style="s1" xml:id="subtitle10">我希望能够跑得快</p>
+<p begin="202700000t" end="211000000t" region="bottomCenter" style="s1" xml:id="subtitle11">那个时候</p>
+<p begin="212300000t" end="237200000t" region="bottomCenter" style="s1" xml:id="subtitle12">因父母双亡而刚转学过来的神原</p>
+<p begin="240800000t" end="249900000t" region="bottomCenter" style="s1" xml:id="subtitle13">没能融入到班级中去</p>
+<p begin="254300000t" end="276800000t" region="bottomCenter" style="s1" xml:id="subtitle14">而且由于她跑步很慢</p>
+<p begin="279100000t" end="292300000t" region="bottomCenter" style="s1" xml:id="subtitle15">还总是被人嘲笑</p>
+<p begin="308400000t" end="339300000t" region="bottomCenter" style="s1" xml:id="subtitle16">于是  在近期将要举行的运动会的赛跑上</p>
+<p begin="340300000t" end="351200000t" region="bottomCenter" style="s1" xml:id="subtitle17">如果得了第一名的话</p>
+<p begin="353100000t" end="377500000t" region="bottomCenter" style="s1" xml:id="subtitle18">大家说不定就有可能会改变对自己的看法的</p>
+<p begin="380800000t" end="400400000t" region="bottomCenter" style="s1" xml:id="subtitle19">据说她就是这样想着而许下了心愿</p>
+<p begin="402600000t" end="410000000t" region="bottomCenter" style="s1" xml:id="subtitle20"><font face="方正准圆_GBK" size="22">{\an8}那天夜晚</font></p>
+<p begin="410000000t" end="427600000t" region="bottomCenter" style="s1" xml:id="subtitle21"><font face="方正准圆_GBK" size="22">{\an8}神原做了个可怕的梦</font></p>
+<p begin="470200000t" end="475400000t" region="bottomCenter" style="s1" xml:id="subtitle22"><font face="方正准圆_GBK" size="22">{\an8}定点摄像机</font></p>
+<p begin="613200000t" end="628700000t" region="bottomCenter" style="s1" xml:id="subtitle23">被怪物袭击的</p>
+<p begin="631000000t" end="668300000t" region="bottomCenter" style="s1" xml:id="subtitle24">是在赛跑比赛中和神原同组竞技的四个学生</p>
+<p begin="674000000t" end="681300000t" region="bottomCenter" style="s1" xml:id="subtitle25">第二天</p>
+<p begin="683300000t" end="712400000t" region="bottomCenter" style="s1" xml:id="subtitle26">那几个学生一同缺席了</p>
+<p begin="732800000t" end="767500000t" region="bottomCenter" style="s1" xml:id="subtitle27">神原很快就找到了雅各布斯的《猴子的手》</p>
+<p begin="773000000t" end="807400000t" region="bottomCenter" style="s1" xml:id="subtitle28">并且  据说那内容的恐怖程度让她浑身颤抖</p>
+<p begin="807600000t" end="819100000t" region="bottomCenter" style="s1" xml:id="subtitle29"><font face="方正准圆_GBK" size="22">{\an8}运气不好的话</font></p>
+<p begin="819100000t" end="836600000t" region="bottomCenter" style="s1" xml:id="subtitle30"><font face="方正准圆_GBK" size="22">{\an8}那四个人说不定就死了的。</font></p>
+<p begin="885400000t" end="896000000t" region="bottomCenter" style="s1" xml:id="subtitle31">按正常的角度去想</p>
+<p begin="897500000t" end="933500000t" region="bottomCenter" style="s1" xml:id="subtitle32">就只能向木乃伊许愿说想要取消第一个愿望吧</p>
+<p begin="936100000t" end="964400000t" region="bottomCenter" style="s1" xml:id="subtitle33">但是  对于调查过木乃伊的信息的神原来说</p>
+<p begin="965600000t" end="975700000t" region="bottomCenter" style="s1" xml:id="subtitle34">她不敢这样做</p>
+<p begin="982800000t" end="1030600000t" region="bottomCenter" style="s1" xml:id="subtitle35">因为不知道第二个愿望会用怎样的形式来实现</p>
+<p begin="1034300000t" end="1044300000t" region="bottomCenter" style="s1" xml:id="subtitle36"><font face="@方正准圆_GBK" size="22">{\an7}第二天</font></p>
+<p begin="1036400000t" end="1047600000t" region="bottomCenter" style="s1" xml:id="subtitle37">这之后的第二天</p>
+<p begin="1052000000t" end="1068500000t" region="bottomCenter" style="s1" xml:id="subtitle38">在赛跑练习的时候</p>
+<p begin="1068700000t" end="1124300000t" region="bottomCenter" style="s1" xml:id="subtitle39">神原被安排和与之前四个人不同的五个人一起跑</p>
+<p begin="1142100000t" end="1157200000t" region="bottomCenter" style="s1" xml:id="subtitle40">所以我跑了</p>
+<p begin="1160300000t" end="1178800000t" region="bottomCenter" style="s1" xml:id="subtitle41">为了跑得更快而做了努力</p>
+<p begin="1180700000t" end="1199200000t" region="bottomCenter" style="s1" xml:id="subtitle42">如果就那样什么都不做的话</p>
+<p begin="1201100000t" end="1228200000t" region="bottomCenter" style="s1" xml:id="subtitle43">之后会发生什么是明摆着的</p>
+<p begin="1264100000t" end="1289790000t" region="bottomCenter" style="s1" xml:id="subtitle44">神原没有加入田径部</p>
+<p begin="1272000000t" end="1286990000t" region="bottomCenter" style="s1" xml:id="subtitle45"><font face="方正准圆_GBK" size="22">{\an8}骏河中学生</font></p>
+<p begin="1293800000t" end="1335900000t" region="bottomCenter" style="s1" xml:id="subtitle46">由于不知道向猴子的手许愿的效力会持续到何时</p>
+<p begin="1338200000t" end="1382900000t" region="bottomCenter" style="s1" xml:id="subtitle47">所以她是不能处于可能会有比自己还快的人在的地方的</p>
+<p begin="1388200000t" end="1398200000t" region="bottomCenter" style="s1" xml:id="subtitle48"><font face="方正准圆_GBK" size="22">{\an8}所以神原</font></p>
+<p begin="1398200000t" end="1414400000t" region="bottomCenter" style="s1" xml:id="subtitle49"><font face="方正准圆_GBK" size="22">{\an8}加入了篮球部</font></p>
+<p begin="1434600000t" end="1449600000t" region="bottomCenter" style="s1" xml:id="subtitle50"><font face="方正准圆_GBK" size="22">{\an8}在球场的区域中</font></p>
+<p begin="1463400000t" end="1476700000t" region="bottomCenter" style="s1" xml:id="subtitle51"><font face="方正准圆_GBK" size="22">{\an8}能够追得上神原的人</font></p>
+<p begin="1492500000t" end="1505700000t" region="bottomCenter" style="s1" xml:id="subtitle52"><font face="方正准圆_GBK" size="22">{\an8}是一个都没有的。</font></p>
+<p begin="1531100000t" end="1541100000t" region="bottomCenter" style="s1" xml:id="subtitle53"><font face="方正准圆_GBK" size="22">{\an8}神原马上</font></p>
+<p begin="1541100000t" end="1560900000t" region="bottomCenter" style="s1" xml:id="subtitle54"><font face="方正准圆_GBK" size="22">{\an8}成为了篮球部的王牌。</font></p>
+<p begin="1578000000t" end="1584600000t" region="bottomCenter" style="s1" xml:id="subtitle55">有一天</p>
+<p begin="1588300000t" end="1603900000t" region="bottomCenter" style="s1" xml:id="subtitle56">听到了有关我的评论</p>
+<p begin="1604800000t" end="1630300000t" region="bottomCenter" style="s1" xml:id="subtitle57">战场原前辈来到了体育馆</p>
+<p begin="1638800000t" end="1670200000t" region="bottomCenter" style="s1" xml:id="subtitle58">由于战场原前辈是田径部的王牌</p>
+<p begin="1673400000t" end="1703800000t" region="bottomCenter" style="s1" xml:id="subtitle59">她就过来看传闻跑得快的我了</p>
+<p begin="1708700000t" end="1747800000t" region="bottomCenter" style="s1" xml:id="subtitle60">然后  「非正式的就可以了  我们来比比百米跑吧」</p>
+<p begin="1748400000t" end="1759000000t" region="bottomCenter" style="s1" xml:id="subtitle61">…这样邀请了我</p>
+<p begin="1765400000t" end="1808000000t" region="bottomCenter" style="s1" xml:id="subtitle62">而我却不得不拒绝她  这件事真的让我非常难受啊</p>
+<p begin="1821400000t" end="1841400000t" region="bottomCenter" style="s1" xml:id="subtitle63"><font face="方正准圆_GBK" size="22">{\an8}是非常出色的前辈。</font></p>
+<p begin="1824700000t" end="1842900000t" region="bottomCenter" style="s1" xml:id="subtitle64">她是非常出色的前辈</p>
+<p begin="1864000000t" end="1884700000t" region="bottomCenter" style="s1" xml:id="subtitle65">虽然不是一见钟情</p>
+<p begin="1886000000t" end="1906900000t" region="bottomCenter" style="s1" xml:id="subtitle66">但是在开始说上话的第三天</p>
+<p begin="1908500000t" end="1939800000t" region="bottomCenter" style="s1" xml:id="subtitle67">我已经喜欢上了战场原前辈</p>
+<p begin="1947300000t" end="1983100000t" region="bottomCenter" style="s1" xml:id="subtitle68">我被战场原前辈治愈了</p>
+<p begin="1990000000t" end="2004100000t" region="bottomCenter" style="s1" xml:id="subtitle69">从那以后的神原</p>
+<p begin="2006000000t" end="2031600000t" region="bottomCenter" style="s1" xml:id="subtitle70">似乎把木乃伊的事情从意识里排除掉了</p>
+<p begin="2034000000t" end="2045200000t" region="bottomCenter" style="s1" xml:id="subtitle71"><font face="方正准圆_GBK" size="22">{\an8}但是，即使是那样</font></p>
+<p begin="2037500000t" end="2046800000t" region="bottomCenter" style="s1" xml:id="subtitle72">但是  即使是那样</p>
+<p begin="2051100000t" end="2090700000t" region="bottomCenter" style="s1" xml:id="subtitle73">也有过发作性地想要使用木乃伊的冲动</p>
+<p begin="2098200000t" end="2127800000t" region="bottomCenter" style="s1" xml:id="subtitle74">在篮球比赛中  遇到强敌的时候</p>
+<p begin="2134400000t" end="2154100000t" region="bottomCenter" style="s1" xml:id="subtitle75">和朋友发生激烈争吵的时候</p>
+<p begin="2162700000t" end="2169600000t" region="bottomCenter" style="s1" xml:id="subtitle76">还有</p>
+<p begin="2175200000t" end="2206200000t" region="bottomCenter" style="s1" xml:id="subtitle77">被战场原前辈  拒绝的时候</p>
+<p begin="2216000000t" end="2242800000t" region="bottomCenter" style="s1" xml:id="subtitle78">最终还是没有使用过木乃伊</p>
+<p begin="2246700000t" end="2254900000t" region="bottomCenter" style="s1" xml:id="subtitle79">那个时候</p>
+<p begin="2256300000t" end="2281200000t" region="bottomCenter" style="s1" xml:id="subtitle80">因为我已经知道了母亲将木乃伊托付给我</p>
+<p begin="2282900000t" end="2351500000t" region="bottomCenter" style="s1" xml:id="subtitle81">是希望我成为在遭遇困难时也能只靠自己的力量去解决的人</p>
+<p begin="2357300000t" end="2370800000t" region="bottomCenter" style="s1" xml:id="subtitle82">所以神原</p>
+<p begin="2370800000t" end="2397200000t" region="bottomCenter" style="s1" xml:id="subtitle83">默默地离开了战场原</p>
+<p begin="2401100000t" end="2412900000t" region="bottomCenter" style="s1" xml:id="subtitle84">虽然如果向木乃伊祈愿</p>
+<p begin="2414600000t" end="2462600000t" region="bottomCenter" style="s1" xml:id="subtitle85">说不定就能解决当时战场原所抱有的秘密的</p>
+<p begin="2463300000t" end="2477200000t" region="bottomCenter" style="s1" xml:id="subtitle86">但是她也没那么做</p>
+<p begin="2482000000t" end="2497600000t" region="bottomCenter" style="s1" xml:id="subtitle87">可是一年后</p>
+<p begin="2501800000t" end="2528700000t" region="bottomCenter" style="s1" xml:id="subtitle88">神原知道了我的事情</p>
+<p begin="2534600000t" end="2565790000t" region="bottomCenter" style="s1" xml:id="subtitle89">她看到了在战场原身边的我</p>
+<p begin="2683700000t" end="2713000000t" region="bottomCenter" style="s1" xml:id="subtitle90">究竟是何时从桐箱中拿出木乃伊的</p>
+<p begin="2713600000t" end="2739000000t" region="bottomCenter" style="s1" xml:id="subtitle91">神原似乎已经不知道了</p>
+<p begin="2742000000t" end="2748600000t" region="bottomCenter" style="s1" xml:id="subtitle92">而且</p>
+<p begin="2750200000t" end="2775800000t" region="bottomCenter" style="s1" xml:id="subtitle93">本应该只到左手手腕为止的木乃伊</p>
+<p begin="2776800000t" end="2805200000t" region="bottomCenter" style="s1" xml:id="subtitle94">为什么已经伸长到手肘的位置了</p>
+<p begin="2806500000t" end="2838700000t" region="bottomCenter" style="s1" xml:id="subtitle95">连这样的事情她都完全没有考虑</p>
+<p begin="2838100000t" end="2854500000t" region="bottomCenter" style="s1" xml:id="subtitle96"><font face="方正准圆_GBK" size="22">{\an8}然后等她发觉的时候</font></p>
+<p begin="2840700000t" end="2855200000t" region="bottomCenter" style="s1" xml:id="subtitle97">然后等她发觉的时候</p>
+<p begin="2871900000t" end="2885200000t" region="bottomCenter" style="s1" xml:id="subtitle98"><font face="方正准圆_GBK" size="22">{\an8}神原的左手</font></p>
+<p begin="2885200000t" end="2899000000t" region="bottomCenter" style="s1" xml:id="subtitle99"><font face="方正准圆_GBK" size="22">{\an8}化成了妖怪。</font></p>
+<p begin="2900200000t" end="2910200000t" region="bottomCenter" style="s1" xml:id="subtitle100"><font face="@方正准圆_GBK" size="22">{\an7}回想结束</font></p>
+<p begin="2900200000t" end="2910200000t" region="bottomCenter" style="s1" xml:id="subtitle101"><font face="@方正准圆_GBK" size="22">{\an7}以下  新主题歌</font></p>
+<p begin="3027000000t" end="3081500000t" region="bottomCenter" style="s1" xml:id="subtitle102"><font face="HGSMinchoB" size="24" color="#000000"><b>{\an8}無意識のうちに　捉えたその景色は</b></font></p>
+<p begin="3027000000t" end="3081500000t" region="bottomCenter" style="s1" xml:id="subtitle103"><font face="方正大标宋_GBK" size="28" color="#000000"><b>无意识之中捕捉到的那片景色</b></font></p>
+<p begin="3081700000t" end="3135100000t" region="bottomCenter" style="s1" xml:id="subtitle104"><font face="HGSMinchoB" size="24" color="#000000"><b>{\an8}ずっと待ち望んでいた　未来じゃなく </b></font></p>
+<p begin="3081700000t" end="3135100000t" region="bottomCenter" style="s1" xml:id="subtitle105"><font face="方正大标宋_GBK" size="28" color="#000000"><b>不是我一直期望的未来</b></font></p>
+<p begin="3136300000t" end="3190900000t" region="bottomCenter" style="s1" xml:id="subtitle106"><font face="HGSMinchoB" size="24" color="#000000"><b>{\an8}私の知らない　見たこともない笑顔</b></font></p>
+<p begin="3136300000t" end="3190900000t" region="bottomCenter" style="s1" xml:id="subtitle107"><font face="方正大标宋_GBK" size="28" color="#000000"><b>我所不知的  从未见过的笑容</b></font></p>
+<p begin="3191600000t" end="3241800000t" region="bottomCenter" style="s1" xml:id="subtitle108"><font face="HGSMinchoB" size="24" color="#000000"><b>{\an8}釘付けになったまま　立ち尽くした</b></font></p>
+<p begin="3191600000t" end="3241800000t" region="bottomCenter" style="s1" xml:id="subtitle109"><font face="方正大标宋_GBK" size="28" color="#000000"><b>让我固定在那里  站立不动</b></font></p>
+<p begin="3242200000t" end="3297800000t" region="bottomCenter" style="s1" xml:id="subtitle110"><font face="HGSMinchoB" size="24" color="#000000"><b>{\an8}てんでんばらばら　ふたつの世界　はぐれてく</b></font></p>
+<p begin="3242200000t" end="3297800000t" region="bottomCenter" style="s1" xml:id="subtitle111"><font face="方正大标宋_GBK" size="28" color="#000000"><b>各奔东西  分散到两个世界中</b></font></p>
+<p begin="3298400000t" end="3386600000t" region="bottomCenter" style="s1" xml:id="subtitle112"><font face="HGSMinchoB" size="24" color="#000000"><b>{\an8}ぜんぜんばらばら　矛盾している想い　抑え切れなくなる</b></font></p>
+<p begin="3298400000t" end="3386600000t" region="bottomCenter" style="s1" xml:id="subtitle113"><font face="方正大标宋_GBK" size="28" color="#000000"><b>彻底凌乱  抑制不住矛盾的情感</b></font></p>
+<p begin="3392700000t" end="3505800000t" region="bottomCenter" style="s1" xml:id="subtitle114"><font face="HGSMinchoB" size="24" color="#000000"><b>{\an8}がむしゃらな心で　いつの日かあなたを跳び越して　前へ進め</b></font></p>
+<p begin="3392700000t" end="3505800000t" region="bottomCenter" style="s1" xml:id="subtitle115"><font face="方正大标宋_GBK" size="28" color="#000000"><b>以我不顾一切的心意  总有一天要超越你  向前进</b></font></p>
+<p begin="3506600000t" end="3635900000t" region="bottomCenter" style="s1" xml:id="subtitle116"><font face="HGSMinchoB" size="24" color="#000000"><b>{\an8}やみくもな鼓動が　いつの間に私を追い越して　絡まった気持ち</b></font></p>
+<p begin="3506600000t" end="3635900000t" region="bottomCenter" style="s1" xml:id="subtitle117"><font face="方正大标宋_GBK" size="28" color="#000000"><b>鲁莽向前的心意不知不觉超过了我  让我体会到了错杂的心情</b></font></p>
+<p begin="3637800000t" end="3697800000t" region="bottomCenter" style="s1" xml:id="subtitle118"><font face="HGSMinchoB" size="24" color="#000000"><b>{\an8}走れ走れ　いつも出来ることはひとつ</b></font></p>
+<p begin="3637800000t" end="3697800000t" region="bottomCenter" style="s1" xml:id="subtitle119"><font face="方正大标宋_GBK" size="28" color="#000000"><b>奔跑奔跑  无论何时能做的事情就只有一个</b></font></p>
+<p begin="3698100000t" end="3729000000t" region="bottomCenter" style="s1" xml:id="subtitle120"><font face="HGSMinchoB" size="24" color="#000000"><b>{\an8}速く速く速く　その向こうへ</b></font></p>
+<p begin="3698100000t" end="3729000000t" region="bottomCenter" style="s1" xml:id="subtitle121"><font face="方正大标宋_GBK" size="28" color="#000000"><b>快点快点快点  向前方奔跑</b></font></p>
+<p begin="3809500000t" end="3827000000t" region="bottomCenter" style="s1" xml:id="subtitle122"><font face="方正准圆_GBK" size="22">{\an8}Rainy Devil似乎是非常暴力的恶魔</font></p>
+<p begin="3827000000t" end="3836600000t" region="bottomCenter" style="s1" xml:id="subtitle123"><font face="@方正准圆_GBK" size="22">{\an7}--人的恶意、敌意、<br />怨恨、悔恨、嫉妒心，<br />总的来说它最喜欢人类的负面、<br />消极的感情。</font></p>
+<p begin="3836600000t" end="3844500000t" region="bottomCenter" style="s1" xml:id="subtitle124"><font face="方正准圆_GBK" size="22">{\an8}<font size="18">看穿人的黑暗面，<br />挑起，引出，<br />让其结实。<br />像做恶作剧一般听取人的愿望，<br />像做恶作剧一般使之实现。</font></font></p>
+<p begin="3844500000t" end="3851200000t" region="bottomCenter" style="s1" xml:id="subtitle125"><font face="@方正准圆_GBK" size="22">{\an7}契约本身是作为契约--</font></p>
+<p begin="3851200000t" end="3857400000t" region="bottomCenter" style="s1" xml:id="subtitle126"><font face="方正准圆_GBK" size="22">{\an8}和人类的灵魂交换，帮其实现三个愿望。</font></p>
+<p begin="3857400000t" end="3862800000t" region="bottomCenter" style="s1" xml:id="subtitle127"><font face="@方正准圆_GBK" size="22">{\an7}在三个愿望全部实现了之后--</font></p>
+<p begin="3862800000t" end="3867800000t" region="bottomCenter" style="s1" xml:id="subtitle128"><font face="方正准圆_GBK" size="22">{\an8}就会将那个人的生命和肉体夺走。</font></p>
+<p begin="3867800000t" end="3872400000t" region="bottomCenter" style="s1" xml:id="subtitle129"><font face="@方正准圆_GBK" size="22">{\an7}也就是说</font></p>
+<p begin="3872400000t" end="3876600000t" region="bottomCenter" style="s1" xml:id="subtitle130"><font face="方正准圆_GBK" size="22">{\an8}那个人类最终会变成恶魔，似乎就是这么个性质的。</font></p>
+<p begin="3876600000t" end="3879900000t" region="bottomCenter" style="s1" xml:id="subtitle131"><font face="@方正准圆_GBK" size="22">{\an7}如果神原</font></p>
+<p begin="3879900000t" end="3883300000t" region="bottomCenter" style="s1" xml:id="subtitle132"><font face="方正准圆_GBK" size="22">{\an8}在一年前知道了战场原抱有的秘密的那个阶段</font></p>
+<p begin="3883300000t" end="3886600000t" region="bottomCenter" style="s1" xml:id="subtitle133"><font face="@方正准圆_GBK" size="22">{\an7}许下想要解决那个问题的愿望的话，<br />那个愿望是不会实现的吧。</font></p>
+<p begin="3886600000t" end="3889500000t" region="bottomCenter" style="s1" xml:id="subtitle134"><font face="方正准圆_GBK" size="22">{\an8}因为Rainy Devil只能够实现暴力的、消极的愿望。</font></p>
+<p begin="3889500000t" end="3891600000t" region="bottomCenter" style="s1" xml:id="subtitle135"><font face="@方正准圆_GBK" size="22">{\an7}恶魔会读取愿望的里侧。</font></p>
+<p begin="3891600000t" end="3894500000t" region="bottomCenter" style="s1" xml:id="subtitle136"><font face="方正准圆_GBK" size="22">{\an8}有表——就有里。</font></p>
+<p begin="3894500000t" end="3896800000t" region="bottomCenter" style="s1" xml:id="subtitle137"><font face="@方正准圆_GBK" size="22">{\an7}想要跑得快那是因为憎恨同学。<br />想要待在战场原身边<br />--那是因为憎恨阿良良木历。</font></p>
+<p begin="3906600000t" end="3914600000t" region="bottomCenter" style="s1" xml:id="subtitle138"><font face="@方正准圆_GBK" size="22">{\an7}是的，读取里侧。<br />是的，看见里侧。<br />看穿无意识的愿望。<br />能够看透一切的--恶魔。</font></p>
+<p begin="3914900000t" end="3959100000t" region="bottomCenter" style="s1" xml:id="subtitle139">骏河与猴子  其三</p>
+<p begin="4019600000t" end="4028200000t" region="bottomCenter" style="s1" xml:id="subtitle140">阿良良木君</p>
+<p begin="4032900000t" end="4044900000t" region="bottomCenter" style="s1" xml:id="subtitle141">还有这位小姐</p>
+<p begin="4051100000t" end="4069000000t" region="bottomCenter" style="s1" xml:id="subtitle142">事情我全部都了解了</p>
+<p begin="4071300000t" end="4104300000t" region="bottomCenter" style="s1" xml:id="subtitle143">那么  你们接下来打算怎么办</p>
+<p begin="4114500000t" end="4129000000t" region="bottomCenter" style="s1" xml:id="subtitle144">你问我怎么办…</p>
+<p begin="4129800000t" end="4142900000t" region="bottomCenter" style="s1" xml:id="subtitle145">唉  阿良良木君</p>
+<p begin="4146900000t" end="4169600000t" region="bottomCenter" style="s1" xml:id="subtitle146">我好歹也算得上是个专业人士</p>
+<p begin="4172200000t" end="4198000000t" region="bottomCenter" style="s1" xml:id="subtitle147">作为一个半瓶醋的权威</p>
+<p begin="4198600000t" end="4244300000t" region="bottomCenter" style="s1" xml:id="subtitle148">遇到这种事情  可不会吝惜出力的哦</p>
+<p begin="4244600000t" end="4263200000t" region="bottomCenter" style="s1" xml:id="subtitle149">能  能救我吗？</p>
+<p begin="4265400000t" end="4277600000t" region="bottomCenter" style="s1" xml:id="subtitle150">不能救哦</p>
+<p begin="4279000000t" end="4295500000t" region="bottomCenter" style="s1" xml:id="subtitle151">只是助你一臂之力而已</p>
+<p begin="4297200000t" end="4332200000t" region="bottomCenter" style="s1" xml:id="subtitle152">你只是自己救自己而已  小姐</p>
+<p begin="4340000000t" end="4352500000t" region="bottomCenter" style="s1" xml:id="subtitle153">但是哦  阿良良木君</p>
+<p begin="4357000000t" end="4381800000t" region="bottomCenter" style="s1" xml:id="subtitle154">这种情况我应该做些什么才好呢？</p>
+<p begin="4382100000t" end="4393400000t" region="bottomCenter" style="s1" xml:id="subtitle155">喂  忍野</p>
+<p begin="4395700000t" end="4404000000t" region="bottomCenter" style="s1" xml:id="subtitle156">也就是说</p>
+<p begin="4405200000t" end="4449200000t" region="bottomCenter" style="s1" xml:id="subtitle157">这次我到底应该帮些什么呢  阿良良木君</p>
+<p begin="4453400000t" end="4484100000t" region="bottomCenter" style="s1" xml:id="subtitle158">简单地解决现在发生的现象的方法</p>
+<p begin="4484800000t" end="4499000000t" region="bottomCenter" style="s1" xml:id="subtitle159">姑且是有两种的</p>
+<p begin="4507600000t" end="4515800000t" region="bottomCenter" style="s1" xml:id="subtitle160">一个是</p>
+<p begin="4520400000t" end="4548900000t" region="bottomCenter" style="s1" xml:id="subtitle161">阿良良木君被Rainy Devil杀掉</p>
+<p begin="4558100000t" end="4570000000t" region="bottomCenter" style="s1" xml:id="subtitle162">另一个是</p>
+<p begin="4584100000t" end="4605200000t" region="bottomCenter" style="s1" xml:id="subtitle163">把那只野兽的左手</p>
+<p begin="4606500000t" end="4627300000t" region="bottomCenter" style="s1" xml:id="subtitle164">干净利落地斩断</p>
+<p begin="4656000000t" end="4695300000t" region="bottomCenter" style="s1" xml:id="subtitle165">斩…斩断？  能够只斩掉恶魔的部分么？</p>
+<p begin="4695600000t" end="4720100000t" region="bottomCenter" style="s1" xml:id="subtitle166">然后原来的手会重新长出来这样的…</p>
+<p begin="4721100000t" end="4741300000t" region="bottomCenter" style="s1" xml:id="subtitle167">又不是壁虎的尾巴</p>
+<p begin="4742000000t" end="4765800000t" region="bottomCenter" style="s1" xml:id="subtitle168">那么好的事情怎么可能有啊</p>
+<p begin="4767700000t" end="4796300000t" region="bottomCenter" style="s1" xml:id="subtitle169">如果充其量一只手就可以解决状况的话</p>
+<p begin="4797300000t" end="4824800000t" region="bottomCenter" style="s1" xml:id="subtitle170">作为代价那已经算便宜了的</p>
+<p begin="4826800000t" end="4857800000t" region="bottomCenter" style="s1" xml:id="subtitle171">啊  这个不管怎么说</p>
+<p begin="4860500000t" end="4880100000t" region="bottomCenter" style="s1" xml:id="subtitle172">对我来说很为难…</p>
+<p begin="4882100000t" end="4903400000t" region="bottomCenter" style="s1" xml:id="subtitle173">你可是想要杀掉一个人呢</p>
+<p begin="4905000000t" end="4932400000t" region="bottomCenter" style="s1" xml:id="subtitle174">这点不是理所应当的代价吗？</p>
+<p begin="4933500000t" end="4949400000t" region="bottomCenter" style="s1" xml:id="subtitle175">虽然我知道你想说什么</p>
+<p begin="4950600000t" end="4966200000t" region="bottomCenter" style="s1" xml:id="subtitle176">但是  你稍微等等  忍野</p>
+<p begin="4969100000t" end="5008200000t" region="bottomCenter" style="s1" xml:id="subtitle177">你说她想要杀掉一个人  可那不是神原所希望的</p>
+<p begin="5012500000t" end="5035000000t" region="bottomCenter" style="s1" xml:id="subtitle178">神原只是想待在战场原身边…</p>
+<p begin="5036000000t" end="5051500000t" region="bottomCenter" style="s1" xml:id="subtitle179">只是想待在身边？</p>
+<p begin="5051800000t" end="5065000000t" region="bottomCenter" style="s1" xml:id="subtitle180">真是笑死人了</p>
+<p begin="5068100000t" end="5093900000t" region="bottomCenter" style="s1" xml:id="subtitle181">阿良良木君还真温柔啊</p>
+<p begin="5095700000t" end="5116700000t" region="bottomCenter" style="s1" xml:id="subtitle182">温柔到让我想吐啊</p>
+<p begin="5122800000t" end="5132500000t" region="bottomCenter" style="s1" xml:id="subtitle183">真是的</p>
+<p begin="5132990000t" end="5152500000t" region="bottomCenter" style="s1" xml:id="subtitle184">只是想待在她身边这种话</p>
+<p begin="5154600000t" end="5182300000t" region="bottomCenter" style="s1" xml:id="subtitle185">这种天真到家的话语你就原封不动地相信了吗</p>
+<p begin="5191300000t" end="5209290000t" region="bottomCenter" style="s1" xml:id="subtitle186">…难道你说不是这样的吗</p>
+<p begin="5220490000t" end="5248700000t" region="bottomCenter" style="s1" xml:id="subtitle187">阿良良木君  你不觉得奇怪么？</p>
+<p begin="5250400000t" end="5277900000t" region="bottomCenter" style="s1" xml:id="subtitle188">小学生的时候  你觉得为什么那只左手</p>
+<p begin="5280000000t" end="5297900000t" region="bottomCenter" style="s1" xml:id="subtitle189">没让这位小姐跑得快</p>
+<p begin="5299700000t" end="5334500000t" region="bottomCenter" style="s1" xml:id="subtitle190">而是做出了痛揍周围的人这样的行动呢？</p>
+<p begin="5335700000t" end="5344100000t" region="bottomCenter" style="s1" xml:id="subtitle191">那个是…</p>
+<p begin="5350800000t" end="5398600000t" region="bottomCenter" style="s1" xml:id="subtitle192">都说了  猴子的手会以违背持有者的意愿的形式来实现愿望…</p>
+<p begin="5410900000t" end="5428700000t" region="bottomCenter" style="s1" xml:id="subtitle193">但是  那不是猴子的手</p>
+<p begin="5438100000t" end="5461700000t" region="bottomCenter" style="s1" xml:id="subtitle194">Rainy Devil虽然是低级恶魔</p>
+<p begin="5462200000t" end="5474300000t" region="bottomCenter" style="s1" xml:id="subtitle195">但契约就是契约</p>
+<p begin="5479100000t" end="5500700000t" region="bottomCenter" style="s1" xml:id="subtitle196">如果许愿说想要跑得快的话</p>
+<p begin="5502500000t" end="5530400000t" region="bottomCenter" style="s1" xml:id="subtitle197">一般来说就会按照许下的愿望变得跑得快了的</p>
+<p begin="5533800000t" end="5567500000t" region="bottomCenter" style="s1" xml:id="subtitle198">痛揍同年级的学生会让跑步速度变快么？</p>
+<p begin="5571000000t" end="5590500000t" region="bottomCenter" style="s1" xml:id="subtitle199">你不觉得奇怪吗？</p>
+<p begin="5600500000t" end="5616000000t" region="bottomCenter" style="s1" xml:id="subtitle200">那…是为什么？</p>
+<p begin="5618700000t" end="5642400000t" region="bottomCenter" style="s1" xml:id="subtitle201">穿着雨衣的怪物为什么会对同年级学生…</p>
+<p begin="5643200000t" end="5676200000t" region="bottomCenter" style="s1" xml:id="subtitle202">因为这位小姐想要痛揍同年级的学生吧？</p>
+<p begin="5689900000t" end="5715800000t" region="bottomCenter" style="s1" xml:id="subtitle203">在因为双亲刚刚去世而非常难熬的时期里</p>
+<p begin="5719200000t" end="5739900000t" region="bottomCenter" style="s1" xml:id="subtitle204">如果遭受了同年级学生的破坏的话</p>
+<p begin="5744000000t" end="5774800000t" region="bottomCenter" style="s1" xml:id="subtitle205">就算想要复仇也完全没什么奇怪的</p>
+<p begin="5786400000t" end="5796500000t" region="bottomCenter" style="s1" xml:id="subtitle206">我…</p>
+<p begin="5797200000t" end="5838500000t" region="bottomCenter" style="s1" xml:id="subtitle207">当然  我认为你是在无意识之中许下了这样的愿望的</p>
+<p begin="5842200000t" end="5855600000t" region="bottomCenter" style="s1" xml:id="subtitle208">作为本人的自觉</p>
+<p begin="5857400000t" end="5882700000t" region="bottomCenter" style="s1" xml:id="subtitle209">肯定是认为自己是许愿想要跑得快的</p>
+<p begin="5885100000t" end="5905300000t" region="bottomCenter" style="s1" xml:id="subtitle210">但那只是表  里就不同了</p>
+<p begin="5908400000t" end="5921000000t" region="bottomCenter" style="s1" xml:id="subtitle211">那个愿望的里侧</p>
+<p begin="5923100000t" end="5961700000t" region="bottomCenter" style="s1" xml:id="subtitle212">有着想要痛揍同年级学生这样黑暗的愿望呢</p>
+<p begin="5970400000t" end="5986100000t" region="bottomCenter" style="s1" xml:id="subtitle213">而且虽说是无意识</p>
+<p begin="5986900000t" end="6020300000t" region="bottomCenter" style="s1" xml:id="subtitle214">小姐你其实应该是知道真相的</p>
+<p begin="6024700000t" end="6044700000t" region="bottomCenter" style="s1" xml:id="subtitle215">但因为自己不想承认</p>
+<p begin="6045500000t" end="6068500000t" region="bottomCenter" style="s1" xml:id="subtitle216">就为这个现象寻求别的解释</p>
+<p begin="6072900000t" end="6082000000t" region="bottomCenter" style="s1" xml:id="subtitle217">那就是…</p>
+<p begin="6084800000t" end="6093500000t" region="bottomCenter" style="s1" xml:id="subtitle218">猴子的手</p>
+<p begin="6110200000t" end="6146000000t" region="bottomCenter" style="s1" xml:id="subtitle219">会以袭击了同年级学生这种违背愿意的形式来实现愿望</p>
+<p begin="6146600000t" end="6179000000t" region="bottomCenter" style="s1" xml:id="subtitle220">那全是猴子的手的错  无论如何也不是自己的意愿</p>
+<p begin="6180100000t" end="6194300000t" region="bottomCenter" style="s1" xml:id="subtitle221">这是你精神上的借口</p>
+<p begin="6205800000t" end="6216800000t" region="bottomCenter" style="s1" xml:id="subtitle222">但是…忍野</p>
+<p begin="6218500000t" end="6251800000t" region="bottomCenter" style="s1" xml:id="subtitle223">你是在想我有什么确凿的证据来说那样的话吗？</p>
+<p begin="6252800000t" end="6261600000t" region="bottomCenter" style="s1" xml:id="subtitle224">阿良良木君</p>
+<p begin="6266700000t" end="6291200000t" region="bottomCenter" style="s1" xml:id="subtitle225">这种事情只要听听她说的话不就明白了嘛</p>
+<p begin="6295200000t" end="6330700000t" region="bottomCenter" style="s1" xml:id="subtitle226">这位小姐的手  小学的时候怎么样了？</p>
+<p begin="6340700000t" end="6377900000t" region="bottomCenter" style="s1" xml:id="subtitle227">小姐她第二天去教室知道四人缺席之前</p>
+<p begin="6379000000t" end="6404600000t" region="bottomCenter" style="s1" xml:id="subtitle228">根本没察觉到事情已经发生了吧</p>
+<p begin="6411000000t" end="6448100000t" region="bottomCenter" style="s1" xml:id="subtitle229">如果这位小姐的左手变成像现在一样毛茸茸的话</p>
+<p begin="6449600000t" end="6479400000t" region="bottomCenter" style="s1" xml:id="subtitle230">应该会察觉到有什么事情发生了的</p>
+<p begin="6482100000t" end="6494900000t" region="bottomCenter" style="s1" xml:id="subtitle231">但是听你刚才所说的</p>
+<p begin="6496700000t" end="6518000000t" region="bottomCenter" style="s1" xml:id="subtitle232">没有提到这样的情况吧</p>
+<p begin="6532700000t" end="6552000000t" region="bottomCenter" style="s1" xml:id="subtitle233">也就是说怪物用一个晚上</p>
+<p begin="6553500000t" end="6570300000t" region="bottomCenter" style="s1" xml:id="subtitle234">趁这位小姐没有察觉的时候</p>
+<p begin="6571000000t" end="6602600000t" region="bottomCenter" style="s1" xml:id="subtitle235">和小姐的左手同化并痛揍了她的同年级同学</p>
+<p begin="6603500000t" end="6624000000t" region="bottomCenter" style="s1" xml:id="subtitle236">实现了小姐的愿望</p>
+<p begin="6626900000t" end="6678900000t" region="bottomCenter" style="s1" xml:id="subtitle237">然后怪物又趁小姐没有察觉的时候从小姐的左手上离开了吧</p>
+<p begin="6683000000t" end="6705200000t" region="bottomCenter" style="s1" xml:id="subtitle238">从左手手腕变成了左手手臂是因为</p>
+<p begin="6706600000t" end="6751100000t" region="bottomCenter" style="s1" xml:id="subtitle239">实现了愿望所得到的灵魂的部分让它成长了吧</p>
+<p begin="6754600000t" end="6780600000t" region="bottomCenter" style="s1" xml:id="subtitle240">…喂  忍野  那么</p>
+<p begin="6793900000t" end="6817900000t" region="bottomCenter" style="s1" xml:id="subtitle241">听信加害者的借口这种事</p>
+<p begin="6819000000t" end="6847200000t" region="bottomCenter" style="s1" xml:id="subtitle242">你人还真是好啊  阿良良木君</p>
+<p begin="6849300000t" end="6875900000t" region="bottomCenter" style="s1" xml:id="subtitle243">将最喜欢的前辈占为己有的男人</p>
+<p begin="6877100000t" end="6912500000t" region="bottomCenter" style="s1" xml:id="subtitle244">就算嫉妒到想要杀死他那也不奇怪吧</p>
+<p begin="6915000000t" end="6932300000t" region="bottomCenter" style="s1" xml:id="subtitle245">对阿良良木君的袭击</p>
+<p begin="6933100000t" end="6956500000t" region="bottomCenter" style="s1" xml:id="subtitle246">才不是违背这位小姐的意愿的行为</p>
+<p begin="6960200000t" end="6985800000t" region="bottomCenter" style="s1" xml:id="subtitle247">袭击阿良良木君这件事情才是</p>
+<p begin="6987000000t" end="7007600000t" region="bottomCenter" style="s1" xml:id="subtitle248">这位小姐的意愿啊</p>
+<p begin="7089000000t" end="7098100000t" region="bottomCenter" style="s1" xml:id="subtitle249">差不多好了吧</p>
+<p begin="7272300000t" end="7299200000t" region="bottomCenter" style="s1" xml:id="subtitle250">哦  我都等得不耐烦了呢  阿良良木君</p>
+<p begin="7301900000t" end="7326200000t" region="bottomCenter" style="s1" xml:id="subtitle251">比我想的好像更花时间啊</p>
+<p begin="7326700000t" end="7367800000t" region="bottomCenter" style="s1" xml:id="subtitle252">啊  因为很难判断快到极限的基准</p>
+<p begin="7369600000t" end="7390700000t" region="bottomCenter" style="s1" xml:id="subtitle253">说不定还有一点不够</p>
+<p begin="7393500000t" end="7415100000t" region="bottomCenter" style="s1" xml:id="subtitle254">但是比起让她喝过头要好吧</p>
+<p begin="7418400000t" end="7441500000t" region="bottomCenter" style="s1" xml:id="subtitle255">对我也好  对忍也好</p>
+<p begin="7446600000t" end="7468900000t" region="bottomCenter" style="s1" xml:id="subtitle256">阿良良木君接下去可是必须要去和恶魔</p>
+<p begin="7469700000t" end="7510700000t" region="bottomCenter" style="s1" xml:id="subtitle257">上演一场激烈无比的武戏啊</p>
+<p begin="7512500000t" end="7540400000t" region="bottomCenter" style="s1" xml:id="subtitle258">我觉得现在可不是操心其它事的时候</p>
+<p begin="7547500000t" end="7569300000t" region="bottomCenter" style="s1" xml:id="subtitle259">就算是吸到极限</p>
+<p begin="7573100000t" end="7602800000t" region="bottomCenter" style="s1" xml:id="subtitle260">我也觉得这不是胜率很高的对战哦</p>
+<p begin="7607900000t" end="7636100000t" region="bottomCenter" style="s1" xml:id="subtitle261">就算对手只是一只左手</p>
+<p begin="7648100000t" end="7658500000t" region="bottomCenter" style="s1" xml:id="subtitle262">契约吗</p>
+<p begin="7665500000t" end="7712800000t" region="bottomCenter" style="s1" xml:id="subtitle263">如果这样恶魔就能乖乖回到魔界那就好了</p>
+<p begin="7718400000t" end="7748100000t" region="bottomCenter" style="s1" xml:id="subtitle264">没问题  这点事我还是能向你保证的</p>
+<p begin="7752200000t" end="7762800000t" region="bottomCenter" style="s1" xml:id="subtitle265">听好  阿良良木君</p>
+<p begin="7766900000t" end="7792100000t" region="bottomCenter" style="s1" xml:id="subtitle266">契约如果无法完成的话  那就是无效的</p>
+<p begin="7795600000t" end="7822500000t" region="bottomCenter" style="s1" xml:id="subtitle267">恶魔如果无法完成小姐的愿望的话</p>
+<p begin="7823300000t" end="7845300000t" region="bottomCenter" style="s1" xml:id="subtitle268">小姐的愿望也会失效</p>
+<p begin="7848400000t" end="7881100000t" region="bottomCenter" style="s1" xml:id="subtitle269">也就是说  只要恶魔无法杀死我…吗</p>
+<p begin="7882200000t" end="7893700000t" region="bottomCenter" style="s1" xml:id="subtitle270">就是这样</p>
+<p begin="7904000000t" end="7969400000t" region="bottomCenter" style="s1" xml:id="subtitle271">当然  即使现在的阿良良木君被现在的小忍吸血吸到极限来提升力量</p>
+<p begin="7973200000t" end="8036600000t" region="bottomCenter" style="s1" xml:id="subtitle272">也只能发挥阿良良木君还是吸血鬼的春假时的十分之一的能力</p>
+<p begin="8055500000t" end="8068900000t" region="bottomCenter" style="s1" xml:id="subtitle273">相当糟糕的数字啊</p>
+<p begin="8072600000t" end="8113400000t" region="bottomCenter" style="s1" xml:id="subtitle274">不过也不能因此而想要借助小忍本人的力量哦</p>
+<p begin="8117800000t" end="8136800000t" region="bottomCenter" style="s1" xml:id="subtitle275">如果那样做的话  不是我威胁你</p>
+<p begin="8140000000t" end="8167600000t" region="bottomCenter" style="s1" xml:id="subtitle276">真的只能将小姐的手给斩断了</p>
+<p begin="8169900000t" end="8199500000t" region="bottomCenter" style="s1" xml:id="subtitle277">必须要由阿良良木君来消灭  那才能具有意义</p>
+<p begin="8232200000t" end="8278200000t" region="bottomCenter" style="s1" xml:id="subtitle278">总之  包啊贵重物品之类的我会帮你保管的  阿良良木君</p>
+<p begin="8280000000t" end="8307500000t" region="bottomCenter" style="s1" xml:id="subtitle279">拿着那种东西的话  会行动不便的吧</p>
+<p begin="8320500000t" end="8348300000t" region="bottomCenter" style="s1" xml:id="subtitle280">不好意思  那么稍微等一会吧</p>
+<p begin="8362000000t" end="8372000000t" region="bottomCenter" style="s1" xml:id="subtitle281"><font face="@方正准圆_GBK" size="22">{\an7}那么</font></p>
+<p begin="8411500000t" end="8434400000t" region="bottomCenter" style="s1" xml:id="subtitle282">能问一句吗  阿良良木君</p>
+<p begin="8440500000t" end="8447300000t" region="bottomCenter" style="s1" xml:id="subtitle283">什么啊</p>
+<p begin="8450700000t" end="8501300000t" region="bottomCenter" style="s1" xml:id="subtitle284">为什么连想要杀死自己的人  阿良良木君都会想要救她呢</p>
+<p begin="8505700000t" end="8524100000t" region="bottomCenter" style="s1" xml:id="subtitle285">那个小姐虽说是无意识</p>
+<p begin="8526500000t" end="8566300000t" region="bottomCenter" style="s1" xml:id="subtitle286">但她可是将阿良良木君你当成可憎的情敌的哦</p>
+<p begin="8571400000t" end="8618100000t" region="bottomCenter" style="s1" xml:id="subtitle287">而且说到底  在了解到雨衣的真实身份是那位小姐的阶段</p>
+<p begin="8621500000t" end="8666300000t" region="bottomCenter" style="s1" xml:id="subtitle288">阿良良木君为什么会还想继续听那位小姐说话呢</p>
+<p begin="8669700000t" end="8725800000t" region="bottomCenter" style="s1" xml:id="subtitle289">在那个时候你应该跳过小姐直接到我这来才对吧</p>
+<p begin="8739800000t" end="8772500000t" region="bottomCenter" style="s1" xml:id="subtitle290">人活着  总会有憎恨别人的时候的</p>
+<p begin="8781900000t" end="8805200000t" region="bottomCenter" style="s1" xml:id="subtitle291">虽然要我被杀那我根本是不干的</p>
+<p begin="8809900000t" end="8864100000t" region="bottomCenter" style="s1" xml:id="subtitle292">但是如果神原憧憬战场原  就是憎恨我的理由的话</p>
+<p begin="8870100000t" end="8889400000t" region="bottomCenter" style="s1" xml:id="subtitle293">我是能够原谅她的</p>
+<p begin="8912600000t" end="8919700000t" region="bottomCenter" style="s1" xml:id="subtitle294">啊  是吗</p>
+<p begin="8922300000t" end="8967700000t" region="bottomCenter" style="s1" xml:id="subtitle295">既然是阿良良木君决定的事情  那我就不说什么了</p>
+<p begin="8969500000t" end="9002800000t" region="bottomCenter" style="s1" xml:id="subtitle296">我是完全无所谓的  反正这事不归我管</p>
+<p begin="9013100000t" end="9046200000t" region="bottomCenter" style="s1" xml:id="subtitle297">那么阿良良木君  将你的力量借给小姐吧</p>
+<p begin="9051300000t" end="9100700000t" region="bottomCenter" style="s1" xml:id="subtitle298">话说在前头  进去之后不完事可是出不来的哦</p>
+<p begin="9104400000t" end="9138300000t" region="bottomCenter" style="s1" xml:id="subtitle299">从里面可是绝对打不开门的哦</p>
+<p begin="9141400000t" end="9162700000t" region="bottomCenter" style="s1" xml:id="subtitle300">当然  不管发生了什么</p>
+<p begin="9164600000t" end="9197900000t" region="bottomCenter" style="s1" xml:id="subtitle301">我和小忍都不会来救你的</p>
+<p begin="9200500000t" end="9211600000t" region="bottomCenter" style="s1" xml:id="subtitle302">不要忘记哦</p>
+<p begin="9235000000t" end="9246800000t" region="bottomCenter" style="s1" xml:id="subtitle303">给你添麻烦了</p>
+<p begin="9261900000t" end="9268000000t" region="bottomCenter" style="s1" xml:id="subtitle304">没事</p>
+<p begin="9378900000t" end="9383400000t" region="bottomCenter" style="s1" xml:id="subtitle305">哟</p>
+<p begin="9591200000t" end="9603300000t" region="bottomCenter" style="s1" xml:id="subtitle306">神原  抱歉了</p>
+<p begin="9647000000t" end="9653200000t" region="bottomCenter" style="s1" xml:id="subtitle307">有效</p>
+<p begin="9716800000t" end="9742300000t" region="bottomCenter" style="s1" xml:id="subtitle308">能…能用脚吗…</p>
+<p begin="9746000000t" end="9758000000t" region="bottomCenter" style="s1" xml:id="subtitle309">不是只有左手吗</p>
+<p begin="9797300000t" end="9848700000t" region="bottomCenter" style="s1" xml:id="subtitle310">不只是Rainy Devil的左手  神原本人也在攻击我</p>
+<p begin="9859000000t" end="9882800000t" region="bottomCenter" style="s1" xml:id="subtitle311">神原无意识地在拒绝</p>
+<p begin="9887500000t" end="9923000000t" region="bottomCenter" style="s1" xml:id="subtitle312">拒绝第二个愿望无法实现  拒绝不杀死我</p>
+<p begin="9927100000t" end="9955300000t" region="bottomCenter" style="s1" xml:id="subtitle313">神原不打算放弃战场原的</p>
+<p begin="9984900000t" end="9997300000t" region="bottomCenter" style="s1" xml:id="subtitle314">请把它斩断吧</p>
+<p begin="10012900000t" end="10034500000t" region="bottomCenter" style="s1" xml:id="subtitle315">我不要这样的左手</p>
+<p begin="10037900000t" end="10053000000t" region="bottomCenter" style="s1" xml:id="subtitle316">你在说什么傻话啊</p>
+<p begin="10056900000t" end="10076200000t" region="bottomCenter" style="s1" xml:id="subtitle317">这种事情我不可能做到的吧</p>
+<p begin="10080000000t" end="10096400000t" region="bottomCenter" style="s1" xml:id="subtitle318">篮球要怎么办啊</p>
+<p begin="10098100000t" end="10131800000t" region="bottomCenter" style="s1" xml:id="subtitle319">我可是想要杀死一个人啊</p>
+<p begin="10136500000t" end="10156700000t" region="bottomCenter" style="s1" xml:id="subtitle320">这点程度是理所当然的代价吧</p>
+<p begin="10158200000t" end="10200000000t" region="bottomCenter" style="s1" xml:id="subtitle321">呃  神原  这事我完全没有在意啦</p>
+<p begin="10200700000t" end="10227000000t" region="bottomCenter" style="s1" xml:id="subtitle322">要想斩断的话  我有个好方法哦</p>
+<p begin="10230900000t" end="10264900000t" region="bottomCenter" style="s1" xml:id="subtitle323">用小忍的刀的话  能够让你没有感受到痛楚的闲暇</p>
+<p begin="10268190000t" end="10294500000t" region="bottomCenter" style="s1" xml:id="subtitle324">便能把那左手斩断的吧</p>
+<p begin="10305300000t" end="10355200000t" region="bottomCenter" style="s1" xml:id="subtitle325">就算是现在的小忍  斩断小姐你那纤细的手那也是轻而易举的</p>
+<p begin="10356700000t" end="10367100000t" region="bottomCenter" style="s1" xml:id="subtitle326">闭嘴  忍野</p>
+<p begin="10373000000t" end="10410100000t" region="bottomCenter" style="s1" xml:id="subtitle327">喂  神原  别那么想不开啊</p>
+<p begin="10413490000t" end="10444700000t" region="bottomCenter" style="s1" xml:id="subtitle328">你一点也没必要觉得自责啊</p>
+<p begin="10450100000t" end="10502500000t" region="bottomCenter" style="s1" xml:id="subtitle329">这全是猴子的手…不  元凶是名为Rainy Devil的妖怪…</p>
+<p begin="10503200000t" end="10530600000t" region="bottomCenter" style="s1" xml:id="subtitle330">妖怪只是实现愿望吧</p>
+<p begin="10536400000t" end="10561000000t" region="bottomCenter" style="s1" xml:id="subtitle331">因为有人向它祈求  它只是帮忙实现罢了</p>
+<p begin="10565400000t" end="10598100000t" region="bottomCenter" style="s1" xml:id="subtitle332">傲娇小妹的时候不也是这样的吗</p>
+<p begin="10617100000t" end="10638600000t" region="bottomCenter" style="s1" xml:id="subtitle333">不用管我的  阿良良木前辈</p>
+<p begin="10640100000t" end="10673800000t" region="bottomCenter" style="s1" xml:id="subtitle334">要管啊  怎么可能不管啊  你在说什么啊</p>
+<p begin="10676900000t" end="10705200000t" region="bottomCenter" style="s1" xml:id="subtitle335">而且  战场原的事情你要怎么办啊</p>
+<p begin="10708300000t" end="10728600000t" region="bottomCenter" style="s1" xml:id="subtitle336">我想让你和战场原…</p>
+<p begin="10729700000t" end="10773800000t" region="bottomCenter" style="s1" xml:id="subtitle337">已经够了  战场原前辈的事情也算了</p>
+<p begin="10792800000t" end="10821200000t" region="bottomCenter" style="s1" xml:id="subtitle338">已经够了  我会放弃的…</p>
+<p begin="10920300000t" end="10947900000t" region="bottomCenter" style="s1" xml:id="subtitle339">你是不行的  神原骏河</p>
+<p begin="10950700000t" end="10962600000t" region="bottomCenter" style="s1" xml:id="subtitle340">恨你  恨你</p>
+<p begin="10965600000t" end="10979500000t" region="bottomCenter" style="s1" xml:id="subtitle341">恨你  恨你</p>
+<p begin="11003500000t" end="11011000000t" region="bottomCenter" style="s1" xml:id="subtitle342">神原…</p>
+<p begin="11171400000t" end="11189000000t" region="bottomCenter" style="s1" xml:id="subtitle343"><font face="方正准圆_GBK" size="22">{\an8}已经不行了</font></p>
+<p begin="11251000000t" end="11268800000t" region="bottomCenter" style="s1" xml:id="subtitle344">真是闹腾得够热烈的啊</p>
+<p begin="11379700000t" end="11398100000t" region="bottomCenter" style="s1" xml:id="subtitle345">抛下我玩得真欢啊</p>
+<p begin="11400900000t" end="11419700000t" region="bottomCenter" style="s1" xml:id="subtitle346">阿良良木君  我很不高兴啊</p>
+<p begin="11422500000t" end="11441800000t" region="bottomCenter" style="s1" xml:id="subtitle347">战…战场原…</p>
+<p begin="11462300000t" end="11489700000t" region="bottomCenter" style="s1" xml:id="subtitle348">忍野  用了我的电话吗</p>
+<p begin="11520800000t" end="11548100000t" region="bottomCenter" style="s1" xml:id="subtitle349">阿良良木君  你对我说谎了呢</p>
+<p begin="11578100000t" end="11606300000t" region="bottomCenter" style="s1" xml:id="subtitle350">你骗我说撞到电线杆上了</p>
+<p begin="11608200000t" end="11628300000t" region="bottomCenter" style="s1" xml:id="subtitle351">还将神原的事情瞒着我</p>
+<p begin="11634900000t" end="11660800000t" region="bottomCenter" style="s1" xml:id="subtitle352">交往的时候我们不是约好了吗</p>
+<p begin="11662600000t" end="11686800000t" region="bottomCenter" style="s1" xml:id="subtitle353">一概不许做这类事情</p>
+<p begin="11689900000t" end="11717300000t" region="bottomCenter" style="s1" xml:id="subtitle354">至少  对于和妖怪相关的事情</p>
+<p begin="11719500000t" end="11739100000t" region="bottomCenter" style="s1" xml:id="subtitle355">我们都不应该对彼此保守秘密的</p>
+<p begin="11741800000t" end="11756100000t" region="bottomCenter" style="s1" xml:id="subtitle356">啊  不…</p>
+<p begin="11760000000t" end="11774100000t" region="bottomCenter" style="s1" xml:id="subtitle357">你罪该万死</p>
+<p begin="11799900000t" end="11847600000t" region="bottomCenter" style="s1" xml:id="subtitle358">不过呢  阿良良木君看上去好像已经死过一万次了</p>
+<p begin="11850900000t" end="11874000000t" region="bottomCenter" style="s1" xml:id="subtitle359">这次就特别原谅你吧</p>
+<p begin="11935200000t" end="11962200000t" region="bottomCenter" style="s1" xml:id="subtitle360">阿良良木君  反正你的话</p>
+<p begin="11964900000t" end="12014600000t" region="bottomCenter" style="s1" xml:id="subtitle361">肯定是抱有只要自己死了就能全部解决这样白痴的想法吧</p>
+<p begin="12036200000t" end="12069100000t" region="bottomCenter" style="s1" xml:id="subtitle362">别开玩笑了  阿良良木君要是死了的话</p>
+<p begin="12070900000t" end="12107300000t" region="bottomCenter" style="s1" xml:id="subtitle363">那么我肯定会不择手段地去杀死神原的</p>
+<p begin="12109400000t" end="12141600000t" region="bottomCenter" style="s1" xml:id="subtitle364">阿良良木君  你想让我成为杀人犯吗</p>
+<p begin="12143600000t" end="12156000000t" region="bottomCenter" style="s1" xml:id="subtitle365">全被看穿了啊</p>
+<p begin="12159000000t" end="12182500000t" region="bottomCenter" style="s1" xml:id="subtitle366">真是个懂得体谅的女人啊</p>
+<p begin="12219600000t" end="12240200000t" region="bottomCenter" style="s1" xml:id="subtitle367">我最不爽的是</p>
+<p begin="12242300000t" end="12320900000t" region="bottomCenter" style="s1" xml:id="subtitle368">我清楚地明白阿良良木君你就算不是这种体质  也会做出同样的行为来</p>
+<p begin="12337300000t" end="12378400000t" region="bottomCenter" style="s1" xml:id="subtitle369">如果你是全因自己有着不死之身才做出这种蠢事的话</p>
+<p begin="12381100000t" end="12408500000t" region="bottomCenter" style="s1" xml:id="subtitle370">那么我也会觉得那就随你便了</p>
+<p begin="12412100000t" end="12436600000t" region="bottomCenter" style="s1" xml:id="subtitle371">但是阿良良木君却像是十分理所当然地</p>
+<p begin="12439000000t" end="12467700000t" region="bottomCenter" style="s1" xml:id="subtitle372">顺其自然就变成这副模样了</p>
+<p begin="12469400000t" end="12480500000t" region="bottomCenter" style="s1" xml:id="subtitle373">真让人难以理解啊</p>
+<p begin="12491400000t" end="12538800000t" region="bottomCenter" style="s1" xml:id="subtitle374"><font face="方正准圆_GBK" size="22">{\an8}……不过嘛，不管是瞎操心，还是多管闲事，还是倒添麻烦</font></p>
+<p begin="12493100000t" end="12536800000t" region="bottomCenter" style="s1" xml:id="subtitle375">不过嘛  不管是瞎操心  还是多管闲事  还是倒添麻烦</p>
+<p begin="12538800000t" end="12579600000t" region="bottomCenter" style="s1" xml:id="subtitle376">如果是阿良良木君做的话  说不定也并不怎么坏的</p>
+<p begin="12613000000t" end="12680000000t" region="bottomCenter" style="s1" xml:id="subtitle377">如果我压倒恶魔  让神原「里」的愿望无法实现算是一个方法的话</p>
+<p begin="12686100000t" end="12733400000t" region="bottomCenter" style="s1" xml:id="subtitle378">那么  通过将神原想杀死我的这个事实告诉战场原</p>
+<p begin="12737200000t" end="12780900000t" region="bottomCenter" style="s1" xml:id="subtitle379">使得「表」的愿望无法实现  那也是一种方法</p>
+<p begin="12786900000t" end="12793900000t" region="bottomCenter" style="s1" xml:id="subtitle380">更何况现在</p>
+<p begin="12796600000t" end="12850100000t" region="bottomCenter" style="s1" xml:id="subtitle381">战场原在恶魔面前宣誓说如果我死了的话  她就要杀死神原的</p>
+<p begin="12857100000t" end="12871900000t" region="bottomCenter" style="s1" xml:id="subtitle382">这是没法装作不知道的</p>
+<p begin="12877900000t" end="12923100000t" region="bottomCenter" style="s1" xml:id="subtitle383">对于Rainy Devil来说  状况已经完全决定了</p>
+<p begin="12929200000t" end="12952300000t" region="bottomCenter" style="s1" xml:id="subtitle384">你做出了多么洞悉一切的行为啊  忍野</p>
+<p begin="12954100000t" end="13010500000t" region="bottomCenter" style="s1" xml:id="subtitle385">你…你真的是比恶魔更加了不得的家伙啊</p>
+<p begin="13018500000t" end="13035900000t" region="bottomCenter" style="s1" xml:id="subtitle386">神原  好久不见了</p>
+<p begin="13040700000t" end="13057000000t" region="bottomCenter" style="s1" xml:id="subtitle387">看你这么有精神那就再好不过了</p>
+<p begin="13136900000t" end="13181300000t" region="bottomCenter" style="s1" xml:id="subtitle388">我  喜欢战场原前辈…</p>
+<p begin="13188000000t" end="13217000000t" region="bottomCenter" style="s1" xml:id="subtitle389">是吗  但我可没有那么喜欢你的</p>
+<p begin="13222000000t" end="13244600000t" region="bottomCenter" style="s1" xml:id="subtitle390">即使这样你也会待在我身边吗</p>
+<p begin="13256600000t" end="13283600000t" region="bottomCenter" style="s1" xml:id="subtitle391">让你等了这么久  真是对不起了</p>
+<p begin="13293900000t" end="13324800000t" region="bottomCenter" style="s1" xml:id="subtitle392">真是的  我简直就是个超级大陪衬嘛</p>
+<p begin="13329200000t" end="13357500000t" region="bottomCenter" style="s1" xml:id="subtitle393">扮演了好像是为自己量身打造的丑角</p>
+<p begin="13364200000t" end="13413200000t" region="bottomCenter" style="s1" xml:id="subtitle394">战场原黑仪是个多么贪得无厌  死也不肯放弃的女人</p>
+<p begin="13415900000t" end="13436700000t" region="bottomCenter" style="s1" xml:id="subtitle395">这种事情我应该早就知道了才是</p>
+<p begin="13439800000t" end="13461000000t" region="bottomCenter" style="s1" xml:id="subtitle396"><font face="方正准圆_GBK" size="22">{\an8}如果那是真正重要的东西的话。</font></p>
+<p begin="13443400000t" end="13469800000t" region="bottomCenter" style="s1" xml:id="subtitle397">如果那是真正重要的东西的话</p>
+<p begin="13472900000t" end="13495200000t" region="bottomCenter" style="s1" xml:id="subtitle398">战场原是不会放弃的</p>
+<p begin="13503600000t" end="13544600000t" region="bottomCenter" style="s1" xml:id="subtitle399">瞎操心  多管闲事  倒添麻烦</p>
+<p begin="13553600000t" end="13581400000t" region="bottomCenter" style="s1" xml:id="subtitle400">但是  就算这样  该怎么说呢</p>
+<p begin="13585100000t" end="13630700000t" region="bottomCenter" style="s1" xml:id="subtitle401">她们每个人都真是别扭的要死啊</p>
+<p begin="13629900000t" end="13656100000t" region="bottomCenter" style="s1" xml:id="subtitle402"><font face="@DFGHSMincho-W9" size="24"><b>{\an7}「あれがデネブ、アルタイル、ベガ」</b></font></p>
+<p begin="13629900000t" end="13656100000t" region="bottomCenter" style="s1" xml:id="subtitle403"><font face="@方正大标宋_GBK" size="28"><b>{\an7}「天津四、牵牛星、织女星」</b></font></p>
+<p begin="13656900000t" end="13687800000t" region="bottomCenter" style="s1" xml:id="subtitle404"><font face="@DFGHSMincho-W9" size="24"><b>{\an7}君は指さす夏の大三角</b></font></p>
+<p begin="13656900000t" end="13687800000t" region="bottomCenter" style="s1" xml:id="subtitle405"><font face="@方正大标宋_GBK" size="28"><b>{\an7}那是你所指的夏天大三角</b></font></p>
+<p begin="13684200000t" end="13702500000t" region="bottomCenter" style="s1" xml:id="subtitle406">哥哥  早上了啊</p>
+<p begin="13688200000t" end="13744300000t" region="bottomCenter" style="s1" xml:id="subtitle407"><font face="@DFGHSMincho-W9" size="24"><b>{\an7}覚えて空を見る</b></font></p>
+<p begin="13688200000t" end="13744300000t" region="bottomCenter" style="s1" xml:id="subtitle408"><font face="@方正大标宋_GBK" size="28"><b>{\an7}我记住这些来仰望天空</b></font></p>
+<p begin="13703500000t" end="13723500000t" region="bottomCenter" style="s1" xml:id="subtitle409">再不起来是不行的啊</p>
+<p begin="13724000000t" end="13728600000t" region="bottomCenter" style="s1" xml:id="subtitle410">真是的</p>
+<p begin="13729700000t" end="13736800000t" region="bottomCenter" style="s1" xml:id="subtitle411">真是的</p>
+<p begin="13745100000t" end="13773500000t" region="bottomCenter" style="s1" xml:id="subtitle412"><font face="@DFGHSMincho-W9" size="24"><b>{\an7}やっと見つけた織姫様</b></font></p>
+<p begin="13745100000t" end="13773500000t" region="bottomCenter" style="s1" xml:id="subtitle413"><font face="@方正大标宋_GBK" size="28"><b>{\an7}好不容易找到了的织女星</b></font></p>
+<p begin="13773800000t" end="13802500000t" region="bottomCenter" style="s1" xml:id="subtitle414"><font face="@DFGHSMincho-W9" size="24"><b>{\an7}だけどどこだろう彦星様</b></font></p>
+<p begin="13773800000t" end="13802500000t" region="bottomCenter" style="s1" xml:id="subtitle415"><font face="@方正大标宋_GBK" size="28"><b>{\an7}但是牛郎星究竟在哪里呢</b></font></p>
+<p begin="13773800000t" end="13791700000t" region="bottomCenter" style="s1" xml:id="subtitle416">早啊  阿良良木前辈</p>
+<p begin="13803400000t" end="13887200000t" region="bottomCenter" style="s1" xml:id="subtitle417"><font face="@DFGHSMincho-W9" size="24"><b>{\an7}これじゃひとりぼっち</b></font></p>
+<p begin="13803400000t" end="13887200000t" region="bottomCenter" style="s1" xml:id="subtitle418"><font face="@方正大标宋_GBK" size="28"><b>{\an7}这样就孤零零了啊</b></font></p>
+<p begin="13815300000t" end="13836600000t" region="bottomCenter" style="s1" xml:id="subtitle419">早上好  神原同学</p>
+<p begin="13843600000t" end="13862000000t" region="bottomCenter" style="s1" xml:id="subtitle420">…那个  有什么事吗</p>
+<p begin="13862800000t" end="13927000000t" region="bottomCenter" style="s1" xml:id="subtitle421">嗯  早上战场原前辈打电话给我  让我来接阿良良木前辈</p>
+<p begin="13887800000t" end="13949200000t" region="bottomCenter" style="s1" xml:id="subtitle422"><font face="@DFGHSMincho-W9" size="24"><b>{\an7}真っ暗な世界から見上げた</b></font></p>
+<p begin="13887800000t" end="13949200000t" region="bottomCenter" style="s1" xml:id="subtitle423"><font face="@方正大标宋_GBK" size="28"><b>{\an7}从漆黑的世界中抬头仰望</b></font></p>
+<p begin="13932000000t" end="13949200000t" region="bottomCenter" style="s1" xml:id="subtitle424">啊  我帮你拿包吧</p>
+<p begin="13950100000t" end="14018300000t" region="bottomCenter" style="s1" xml:id="subtitle425"><font face="@DFGHSMincho-W9" size="24"><b>{\an7}夜空は星が降るようで</b></font></p>
+<p begin="13950100000t" end="14018300000t" region="bottomCenter" style="s1" xml:id="subtitle426"><font face="@方正大标宋_GBK" size="28"><b>{\an7}夜空仿佛要降下群星一般</b></font></p>
+<p begin="13953200000t" end="13965900000t" region="bottomCenter" style="s1" xml:id="subtitle427">那么走吧  前辈</p>
+<p begin="13984100000t" end="14008000000t" region="bottomCenter" style="s1" xml:id="subtitle428">但是  你不用去参加社团活动吗</p>
+<p begin="14012700000t" end="14031600000t" region="bottomCenter" style="s1" xml:id="subtitle429">周日应该也有练习吧</p>
+<p begin="14018600000t" end="14046500000t" region="bottomCenter" style="s1" xml:id="subtitle430"><font face="@DFGHSMincho-W9" size="24"><b>{\an7}いつからだろう</b></font></p>
+<p begin="14018600000t" end="14046500000t" region="bottomCenter" style="s1" xml:id="subtitle431"><font face="@方正大标宋_GBK" size="28"><b>{\an7}究竟是从什么时候开始的呢</b></font></p>
+<p begin="14035000000t" end="14071600000t" region="bottomCenter" style="s1" xml:id="subtitle432">你看  马上就要到考试假期了  不鼓起干劲的话…</p>
+<p begin="14046900000t" end="14134500000t" region="bottomCenter" style="s1" xml:id="subtitle433"><font face="@DFGHSMincho-W9" size="24"><b>{\an7}君の事を追いかける私がいた</b></font></p>
+<p begin="14046900000t" end="14134500000t" region="bottomCenter" style="s1" xml:id="subtitle434"><font face="@方正大标宋_GBK" size="28"><b>{\an7}我开始追逐着你</b></font></p>
+<p begin="14074700000t" end="14103300000t" region="bottomCenter" style="s1" xml:id="subtitle435">不  我已经打不了篮球了</p>
+<p begin="14113500000t" end="14130700000t" region="bottomCenter" style="s1" xml:id="subtitle436">虽然早了点  我要隐退了</p>
+<p begin="14134200000t" end="14155300000t" region="bottomCenter" style="s1" xml:id="subtitle437">因为一切都是半吊子啊</p>
+<p begin="14134700000t" end="14164700000t" region="bottomCenter" style="s1" xml:id="subtitle438"><font face="@DFGHSMincho-W9" size="24"><b>{\an7}どうかお願い</b></font></p>
+<p begin="14134700000t" end="14164700000t" region="bottomCenter" style="s1" xml:id="subtitle439"><font face="@方正大标宋_GBK" size="28"><b>{\an7}拜托你了</b></font></p>
+<p begin="14159700000t" end="14200000000t" region="bottomCenter" style="s1" xml:id="subtitle440">虽然使恶魔离去了  但最终手还是无法复原</p>
+<p begin="14165300000t" end="14319400000t" region="bottomCenter" style="s1" xml:id="subtitle441"><font face="@DFGHSMincho-W9" size="24"><b>{\an7}驚かないで聞いてよ  私のこの思いを</b></font></p>
+<p begin="14165300000t" end="14319400000t" region="bottomCenter" style="s1" xml:id="subtitle442"><font face="@方正大标宋_GBK" size="28"><b>{\an7}请不要惊讶  听听我的心愿吧</b></font></p>
+<p begin="14205200000t" end="14245700000t" region="bottomCenter" style="s1" xml:id="subtitle443">不管怎么说  是没法用这只手继续打篮球的</p>
+<p begin="14250700000t" end="14273900000t" region="bottomCenter" style="s1" xml:id="subtitle444">不过呢  这只手还是蛮有力道的</p>
+<p begin="14276100000t" end="14292500000t" region="bottomCenter" style="s1" xml:id="subtitle445">还蛮好用的</p>
+<p begin="14308100000t" end="14326700000t" region="bottomCenter" style="s1" xml:id="subtitle446">现在马上把我的包还回来</p>
+<p begin="14334200000t" end="14336200000t" region="bottomCenter" style="s1" xml:id="subtitle447">骏河与猴子  其三</p>
+<p begin="14354100000t" end="14360900000t" region="bottomCenter" style="s1" xml:id="subtitle448">我是火怜</p>
+<p begin="14362000000t" end="14369200000t" region="bottomCenter" style="s1" xml:id="subtitle449">我是月火</p>
+<p begin="14370300000t" end="14388800000t" region="bottomCenter" style="s1" xml:id="subtitle450">说到历那就是我们的哥哥</p>
+<p begin="14389500000t" end="14396400000t" region="bottomCenter" style="s1" xml:id="subtitle451">是哥哥呀</p>
+<p begin="14397400000t" end="14413100000t" region="bottomCenter" style="s1" xml:id="subtitle452">你知道三邻亡这个历吗</p>
+<p begin="14414200000t" end="14421100000t" region="bottomCenter" style="s1" xml:id="subtitle453">三邻亡？</p>
+<p begin="14422200000t" end="14462500000t" region="bottomCenter" style="s1" xml:id="subtitle454">在那一天建家的话  会引起将三户邻居都卷进来的大火灾</p>
+<p begin="14463100000t" end="14474800000t" region="bottomCenter" style="s1" xml:id="subtitle455">是个很可怕的历哦</p>
+<p begin="14475600000t" end="14485100000t" region="bottomCenter" style="s1" xml:id="subtitle456">好恐怖  好可怕</p>
+<p begin="14485900000t" end="14503200000t" region="bottomCenter" style="s1" xml:id="subtitle457">真不愧是FIRE SISTERS的哥哥！</p>
+<p begin="14504300000t" end="14522200000t" region="bottomCenter" style="s1" xml:id="subtitle458">真不愧是FIRE SISTERS的哥哥啊！</p>
+<p begin="14523100000t" end="14550800000t" region="bottomCenter" style="s1" xml:id="subtitle459">不过这个  能用在推理小说的阴谋上吗</p>
+<p begin="14551600000t" end="14558700000t" region="bottomCenter" style="s1" xml:id="subtitle460">怎么用</p>
+<p begin="14559900000t" end="14585700000t" region="bottomCenter" style="s1" xml:id="subtitle461">犯人在三邻亡的日子建家了！</p>
+<p begin="14586600000t" end="14600900000t" region="bottomCenter" style="s1" xml:id="subtitle462">为了杀死邻居的人！</p>
+<p begin="14601700000t" end="14606000000t" region="bottomCenter" style="s1" xml:id="subtitle463">可行？</p>
+<p begin="14606600000t" end="14610300000t" region="bottomCenter" style="s1" xml:id="subtitle464">不可行！</p>
+<p begin="14611100000t" end="14619500000t" region="bottomCenter" style="s1" xml:id="subtitle465">过去篇谜题</p>
+<p begin="14620400000t" end="14628400000t" region="bottomCenter" style="s1" xml:id="subtitle466">过去篇啊！</p>
+<p begin="14629400000t" end="14647700000t" region="bottomCenter" style="s1" xml:id="subtitle467">上回  骏河与猴子  其二</p>
+<p begin="14648400000t" end="14656600000t" region="bottomCenter" style="s1" xml:id="subtitle468">大家都知道的！</p>
+<p begin="14658700000t" end="14679900000t" region="bottomCenter" style="s1" xml:id="subtitle469">下回  抚子与蛇  其一</p>
+<p begin="14681000000t" end="14695600000t" region="bottomCenter" style="s1" xml:id="subtitle470">啊  轮到小千出场了</p>
+<p begin="14696400000t" end="14706600000t" region="bottomCenter" style="s1" xml:id="subtitle471">你不要恢复成平常的样子嘛</p>
+</div>
+</body>
+</tt>

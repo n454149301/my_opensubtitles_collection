@@ -1,0 +1,582 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="16200000t" end="63100000t" region="bottomCenter" style="s1" xml:id="subtitle0"><font face="方正准圆_GBK" size="45">是嘛  那么那东西已经不见了吗？那个白蛇</font></p>
+<p begin="67100000t" end="93300000t" region="bottomCenter" style="s1" xml:id="subtitle1"><font face="方正准圆_GBK" size="45">嗯  已经没关系了</font></p>
+<p begin="98000000t" end="132800000t" region="bottomCenter" style="s1" xml:id="subtitle2"><font face="方正准圆_GBK" size="45">嗯  如果你觉得它是种错觉本身是个错觉</font></p>
+<p begin="134200000t" end="167700000t" region="bottomCenter" style="s1" xml:id="subtitle3"><font face="方正准圆_GBK" size="45">而那家伙确实是什么怪异的话  一定要联系我</font></p>
+<p begin="171800000t" end="234300000t" region="bottomCenter" style="s1" xml:id="subtitle4"><font face="方正准圆_GBK" size="45">嗯嗯  我知道了  谢…谢谢…谢谢历哥哥</font></p>
+<p begin="220800000t" end="235800000t" region="bottomCenter" style="s1" xml:id="subtitle5"><font face="方正准圆_GBK" size="33">{\an8}（本来想着再煲一段时间电话粥的）</font></p>
+<p begin="278200000t" end="338000000t" region="bottomCenter" style="s1" xml:id="subtitle6"><font face="方正准圆_GBK" size="45">m 360 180 n 212 316 s 210 315 208 315 208 315 208 315 207 313 206 311 205 308 205 301 205 277 205 260 204 247 204 247 204 247 200 249 197 252 181 266 160 279 138 290 120 298 118 299 114 297 110 295 106 291 106 286 105 280 108 278 123 272 147 261 167 248 186 229 l 199 216 158 216 118 215 115 212 s 113 210 112 209 112 205 112 201 112 200 115 197 l 119 195 161 195 204 195 205 183 s 205 173 205 172 208 170 211 167 219 167 224 169 228 171 230 175 230 185 l 230 195 275 195 320 195 323 198 s 326 201 327 202 326 206 326 208 325 211 323 212 l 320 215 277 216 234 216 242 225 s 260 246 291 267 320 279 323 280 326 282 327 283 331 287 328 297 321 300 317 301 312 300 297 292 279 283 265 274 243 256 236 251 230 247 230 247 230 247 230 261 230 278 230 309 229 310 227 313 226 314 224 316 222 316 217 318 217 318 212 316  m 51 302 s 46 301 42 298 41 295 40 293 40 275 40 169 40 31 39 40 46 36 50 34 52 34 71 34 95 34 98 34 102 41 104 44 104 46 104 169 104 287 104 293 102 296 99 302 96 303 73 302 62 302 52 302 51 302  m 83 282 s 84 281 84 267 84 172 84 113 84 63 84 61 83 55 81 55 73 55 60 55 62 41 62 170 62 258 62 281 63 282 65 283 81 282 83 282  m 278 182 s 274 180 273 177 273 165 l 273 156 253 156 s 222 156 223 156 223 122 224 109 224 98 225 97 227 93 237 93 241 98 243 101 244 101 244 117 l 244 134 258 134 273 134 273 106 273 78 252 78 232 78 229 74 s 224 69 224 65 230 60 l 234 57 253 57 273 57 273 46 s 273 37 273 35 275 33 277 30 282 29 286 31 291 33 293 37 293 47 l 293 57 302 57 s 309 57 311 57 312 58 317 63 316 71 312 74 310 76 308 77 301 77 l 293 77 293 105 293 134 303 134 313 134 316 137 s 318 140 319 142 319 145 319 147 318 149 316 152 l 313 156 303 156 293 156 293 164 s 293 174 291 179 286 181 282 184 282 184 278 182  m 133 178 s 131 175 130 174 131 170 131 164 134 161 145 156 158 150 173 139 173 136 173 135 161 120 154 111 l 149 105 145 110 s 137 117 132 118 128 112 124 107 125 104 131 95 143 79 149 64 151 47 153 38 156 31 160 28 162 26 163 26 165 27 168 29 171 32 171 36 l 171 39 187 39 s 204 39 204 39 207 41 208 42 211 46 212 48 214 52 214 54 213 65 211 105 199 138 179 157 168 169 151 179 141 180 137 181 136 180 133 178  m 186 107 s 191 93 194 81 194 72 194 60 194 60 180 60 167 60 168 59 163 75 l 160 86 167 96 s 172 102 177 109 178 112 180 115 182 116 183 116 183 115 185 111 186 107m 360 180 n 212 316 s 210 315 208 315 208 315 208 315 207 313 206 311 205 308 205 301 205 277 205 260 204 247 204 247 204 247 200 249 197 252 181 266 160 279 138 290 120 298 118 299 114 297 110 295 106 291 106 286 105 280 108 278 123 272 147 261 167 248 186 229 l 199 216 158 216 118 215 115 212 s 113 210 112 209 112 205 112 201 112 200 115 197 l 119 195 161 195 204 195 205 183 s 205 173 205 172 208 170 211 167 219 167 224 169 228 171 230 175 230 185 l 230 195 275 195 320 195 323 198 s 326 201 327 202 326 206 326 208 325 211 323 212 l 320 215 277 216 234 216 242 225 s 260 246 291 267 320 279 323 280 326 282 327 283 331 287 328 297 321 300 317 301 312 300 297 292 279 283 265 274 243 256 236 251 230 247 230 247 230 247 230 261 230 278 230 309 229 310 227 313 226 314 224 316 222 316 217 318 217 318 212 316  m 51 302 s 46 301 42 298 41 295 40 293 40 275 40 169 40 31 39 40 46 36 50 34 52 34 71 34 95 34 98 34 102 41 104 44 104 46 104 169 104 287 104 293 102 296 99 302 96 303 73 302 62 302 52 302 51 302  m 83 282 s 84 281 84 267 84 172 84 113 84 63 84 61 83 55 81 55 73 55 60 55 62 41 62 170 62 258 62 281 63 282 65 283 81 282 83 282  m 278 182 s 274 180 273 177 273 165 l 273 156 253 156 s 222 156 223 156 223 122 224 109 224 98 225 97 227 93 237 93 241 98 243 101 244 101 244 117 l 244 134 258 134 273 134 273 106 273 78 252 78 232 78 229 74 s 224 69 224 65 230 60 l 234 57 253 57 273 57 273 46 s 273 37 273 35 275 33 277 30 282 29 286 31 291 33 293 37 293 47 l 293 57 302 57 s 309 57 311 57 312 58 317 63 316 71 312 74 310 76 308 77 301 77 l 293 77 293 105 293 134 303 134 313 134 316 137 s 318 140 319 142 319 145 319 147 318 149 316 152 l 313 156 303 156 293 156 293 164 s 293 174 291 179 286 181 282 184 282 184 278 182  m 133 178 s 131 175 130 174 131 170 131 164 134 161 145 156 158 150 173 139 173 136 173 135 161 120 154 111 l 149 105 145 110 s 137 117 132 118 128 112 124 107 125 104 131 95 143 79 149 64 151 47 153 38 156 31 160 28 162 26 163 26 165 27 168 29 171 32 171 36 l 171 39 187 39 s 204 39 204 39 207 41 208 42 211 46 212 48 214 52 214 54 213 65 211 105 199 138 179 157 168 169 151 179 141 180 137 181 136 180 133 178  m 186 107 s 191 93 194 81 194 72 194 60 194 60 180 60 167 60 168 59 163 75 l 160 86 167 96 s 172 102 177 109 178 112 180 115 182 116 183 116 183 115 185 111 186 107m 360 180 n 212 316 s 210 315 208 315 208 315 208 315 207 313 206 311 205 308 205 301 205 277 205 260 204 247 204 247 204 247 200 249 197 252 181 266 160 279 138 290 120 298 118 299 114 297 110 295 106 291 106 286 105 280 108 278 123 272 147 261 167 248 186 229 l 199 216 158 216 118 215 115 212 s 113 210 112 209 112 205 112 201 112 200 115 197 l 119 195 161 195 204 195 205 183 s 205 173 205 172 208 170 211 167 219 167 224 169 228 171 230 175 230 185 l 230 195 275 195 320 195 323 198 s 326 201 327 202 326 206 326 208 325 211 323 212 l 320 215 277 216 234 216 242 225 s 260 246 291 267 320 279 323 280 326 282 327 283 331 287 328 297 321 300 317 301 312 300 297 292 279 283 265 274 243 256 236 251 230 247 230 247 230 247 230 261 230 278 230 309 229 310 227 313 226 314 224 316 222 316 217 318 217 318 212 316  m 51 302 s 46 301 42 298 41 295 40 293 40 275 40 169 40 31 39 40 46 36 50 34 52 34 71 34 95 34 98 34 102 41 104 44 104 46 104 169 104 287 104 293 102 296 99 302 96 303 73 302 62 302 52 302 51 302  m 83 282 s 84 281 84 267 84 172 84 113 84 63 84 61 83 55 81 55 73 55 60 55 62 41 62 170 62 258 62 281 63 282 65 283 81 282 83 282  m 278 182 s 274 180 273 177 273 165 l 273 156 253 156 s 222 156 223 156 223 122 224 109 224 98 225 97 227 93 237 93 241 98 243 101 244 101 244 117 l 244 134 258 134 273 134 273 106 273 78 252 78 232 78 229 74 s 224 69 224 65 230 60 l 234 57 253 57 273 57 273 46 s 273 37 273 35 275 33 277 30 282 29 286 31 291 33 293 37 293 47 l 293 57 302 57 s 309 57 311 57 312 58 317 63 316 71 312 74 310 76 308 77 301 77 l 293 77 293 105 293 134 303 134 313 134 316 137 s 318 140 319 142 319 145 319 147 318 149 316 152 l 313 156 303 156 293 156 293 164 s 293 174 291 179 286 181 282 184 282 184 278 182  m 133 178 s 131 175 130 174 131 170 131 164 134 161 145 156 158 150 173 139 173 136 173 135 161 120 154 111 l 149 105 145 110 s 137 117 132 118 128 112 124 107 125 104 131 95 143 79 149 64 151 47 153 38 156 31 160 28 162 26 163 26 165 27 168 29 171 32 171 36 l 171 39 187 39 s 204 39 204 39 207 41 208 42 211 46 212 48 214 52 214 54 213 65 211 105 199 138 179 157 168 169 151 179 141 180 137 181 136 180 133 178  m 186 107 s 191 93 194 81 194 72 194 60 194 60 180 60 167 60 168 59 163 75 l 160 86 167 96 s 172 102 177 109 178 112 180 115 182 116 183 116 183 115 185 111 186 107  对深爱着的历哥哥撒谎了呢  这样好么</font></p>
+<p begin="349200000t" end="375300000t" region="bottomCenter" style="s1" xml:id="subtitle7"><font face="方正准圆_GBK" size="45">不要发出这么大的声音</font></p>
+<p begin="377800000t" end="439700000t" region="bottomCenter" style="s1" xml:id="subtitle8"><font face="方正准圆_GBK" size="45">没必要偷偷摸摸的  能听到本大爷声音的只有抚子妹妹而已</font></p>
+<p begin="442700000t" end="449400000t" region="bottomCenter" style="s1" xml:id="subtitle9"><font face="方正准圆_GBK" size="33">{\an8}（这种事情我知道的啦）</font></p>
+<p begin="455200000t" end="475700000t" region="bottomCenter" style="s1" xml:id="subtitle10"><font face="方正准圆_GBK" size="45">既然能够变得这么小</font></p>
+<p begin="478800000t" end="521600000t" region="bottomCenter" style="s1" xml:id="subtitle11"><font face="方正准圆_GBK" size="45">为什么当初登场的时候要变得大到能把神社都卷进去一样呢</font></p>
+<p begin="525300000t" end="555200000t" region="bottomCenter" style="s1" xml:id="subtitle12"><font face="方正准圆_GBK" size="45">m 360 180 n 212 316 s 210 315 208 315 208 315 208 315 207 313 206 311 205 308 205 301 205 277 205 260 204 247 204 247 204 247 200 249 197 252 181 266 160 279 138 290 120 298 118 299 114 297 110 295 106 291 106 286 105 280 108 278 123 272 147 261 167 248 186 229 l 199 216 158 216 118 215 115 212 s 113 210 112 209 112 205 112 201 112 200 115 197 l 119 195 161 195 204 195 205 183 s 205 173 205 172 208 170 211 167 219 167 224 169 228 171 230 175 230 185 l 230 195 275 195 320 195 323 198 s 326 201 327 202 326 206 326 208 325 211 323 212 l 320 215 277 216 234 216 242 225 s 260 246 291 267 320 279 323 280 326 282 327 283 331 287 328 297 321 300 317 301 312 300 297 292 279 283 265 274 243 256 236 251 230 247 230 247 230 247 230 261 230 278 230 309 229 310 227 313 226 314 224 316 222 316 217 318 217 318 212 316  m 51 302 s 46 301 42 298 41 295 40 293 40 275 40 169 40 31 39 40 46 36 50 34 52 34 71 34 95 34 98 34 102 41 104 44 104 46 104 169 104 287 104 293 102 296 99 302 96 303 73 302 62 302 52 302 51 302  m 83 282 s 84 281 84 267 84 172 84 113 84 63 84 61 83 55 81 55 73 55 60 55 62 41 62 170 62 258 62 281 63 282 65 283 81 282 83 282  m 278 182 s 274 180 273 177 273 165 l 273 156 253 156 s 222 156 223 156 223 122 224 109 224 98 225 97 227 93 237 93 241 98 243 101 244 101 244 117 l 244 134 258 134 273 134 273 106 273 78 252 78 232 78 229 74 s 224 69 224 65 230 60 l 234 57 253 57 273 57 273 46 s 273 37 273 35 275 33 277 30 282 29 286 31 291 33 293 37 293 47 l 293 57 302 57 s 309 57 311 57 312 58 317 63 316 71 312 74 310 76 308 77 301 77 l 293 77 293 105 293 134 303 134 313 134 316 137 s 318 140 319 142 319 145 319 147 318 149 316 152 l 313 156 303 156 293 156 293 164 s 293 174 291 179 286 181 282 184 282 184 278 182  m 133 178 s 131 175 130 174 131 170 131 164 134 161 145 156 158 150 173 139 173 136 173 135 161 120 154 111 l 149 105 145 110 s 137 117 132 118 128 112 124 107 125 104 131 95 143 79 149 64 151 47 153 38 156 31 160 28 162 26 163 26 165 27 168 29 171 32 171 36 l 171 39 187 39 s 204 39 204 39 207 41 208 42 211 46 212 48 214 52 214 54 213 65 211 105 199 138 179 157 168 169 151 179 141 180 137 181 136 180 133 178  m 186 107 s 191 93 194 81 194 72 194 60 194 60 180 60 167 60 168 59 163 75 l 160 86 167 96 s 172 102 177 109 178 112 180 115 182 116 183 116 183 115 185 111 186 107m 360 180 n 212 316 s 210 315 208 315 208 315 208 315 207 313 206 311 205 308 205 301 205 277 205 260 204 247 204 247 204 247 200 249 197 252 181 266 160 279 138 290 120 298 118 299 114 297 110 295 106 291 106 286 105 280 108 278 123 272 147 261 167 248 186 229 l 199 216 158 216 118 215 115 212 s 113 210 112 209 112 205 112 201 112 200 115 197 l 119 195 161 195 204 195 205 183 s 205 173 205 172 208 170 211 167 219 167 224 169 228 171 230 175 230 185 l 230 195 275 195 320 195 323 198 s 326 201 327 202 326 206 326 208 325 211 323 212 l 320 215 277 216 234 216 242 225 s 260 246 291 267 320 279 323 280 326 282 327 283 331 287 328 297 321 300 317 301 312 300 297 292 279 283 265 274 243 256 236 251 230 247 230 247 230 247 230 261 230 278 230 309 229 310 227 313 226 314 224 316 222 316 217 318 217 318 212 316  m 51 302 s 46 301 42 298 41 295 40 293 40 275 40 169 40 31 39 40 46 36 50 34 52 34 71 34 95 34 98 34 102 41 104 44 104 46 104 169 104 287 104 293 102 296 99 302 96 303 73 302 62 302 52 302 51 302  m 83 282 s 84 281 84 267 84 172 84 113 84 63 84 61 83 55 81 55 73 55 60 55 62 41 62 170 62 258 62 281 63 282 65 283 81 282 83 282  m 278 182 s 274 180 273 177 273 165 l 273 156 253 156 s 222 156 223 156 223 122 224 109 224 98 225 97 227 93 237 93 241 98 243 101 244 101 244 117 l 244 134 258 134 273 134 273 106 273 78 252 78 232 78 229 74 s 224 69 224 65 230 60 l 234 57 253 57 273 57 273 46 s 273 37 273 35 275 33 277 30 282 29 286 31 291 33 293 37 293 47 l 293 57 302 57 s 309 57 311 57 312 58 317 63 316 71 312 74 310 76 308 77 301 77 l 293 77 293 105 293 134 303 134 313 134 316 137 s 318 140 319 142 319 145 319 147 318 149 316 152 l 313 156 303 156 293 156 293 164 s 293 174 291 179 286 181 282 184 282 184 278 182  m 133 178 s 131 175 130 174 131 170 131 164 134 161 145 156 158 150 173 139 173 136 173 135 161 120 154 111 l 149 105 145 110 s 137 117 132 118 128 112 124 107 125 104 131 95 143 79 149 64 151 47 153 38 156 31 160 28 162 26 163 26 165 27 168 29 171 32 171 36 l 171 39 187 39 s 204 39 204 39 207 41 208 42 211 46 212 48 214 52 214 54 213 65 211 105 199 138 179 157 168 169 151 179 141 180 137 181 136 180 133 178  m 186 107 s 191 93 194 81 194 72 194 60 194 60 180 60 167 60 168 59 163 75 l 160 86 167 96 s 172 102 177 109 178 112 180 115 182 116 183 116 183 115 185 111 186 107m 360 180 n 212 316 s 210 315 208 315 208 315 208 315 207 313 206 311 205 308 205 301 205 277 205 260 204 247 204 247 204 247 200 249 197 252 181 266 160 279 138 290 120 298 118 299 114 297 110 295 106 291 106 286 105 280 108 278 123 272 147 261 167 248 186 229 l 199 216 158 216 118 215 115 212 s 113 210 112 209 112 205 112 201 112 200 115 197 l 119 195 161 195 204 195 205 183 s 205 173 205 172 208 170 211 167 219 167 224 169 228 171 230 175 230 185 l 230 195 275 195 320 195 323 198 s 326 201 327 202 326 206 326 208 325 211 323 212 l 320 215 277 216 234 216 242 225 s 260 246 291 267 320 279 323 280 326 282 327 283 331 287 328 297 321 300 317 301 312 300 297 292 279 283 265 274 243 256 236 251 230 247 230 247 230 247 230 261 230 278 230 309 229 310 227 313 226 314 224 316 222 316 217 318 217 318 212 316  m 51 302 s 46 301 42 298 41 295 40 293 40 275 40 169 40 31 39 40 46 36 50 34 52 34 71 34 95 34 98 34 102 41 104 44 104 46 104 169 104 287 104 293 102 296 99 302 96 303 73 302 62 302 52 302 51 302  m 83 282 s 84 281 84 267 84 172 84 113 84 63 84 61 83 55 81 55 73 55 60 55 62 41 62 170 62 258 62 281 63 282 65 283 81 282 83 282  m 278 182 s 274 180 273 177 273 165 l 273 156 253 156 s 222 156 223 156 223 122 224 109 224 98 225 97 227 93 237 93 241 98 243 101 244 101 244 117 l 244 134 258 134 273 134 273 106 273 78 252 78 232 78 229 74 s 224 69 224 65 230 60 l 234 57 253 57 273 57 273 46 s 273 37 273 35 275 33 277 30 282 29 286 31 291 33 293 37 293 47 l 293 57 302 57 s 309 57 311 57 312 58 317 63 316 71 312 74 310 76 308 77 301 77 l 293 77 293 105 293 134 303 134 313 134 316 137 s 318 140 319 142 319 145 319 147 318 149 316 152 l 313 156 303 156 293 156 293 164 s 293 174 291 179 286 181 282 184 282 184 278 182  m 133 178 s 131 175 130 174 131 170 131 164 134 161 145 156 158 150 173 139 173 136 173 135 161 120 154 111 l 149 105 145 110 s 137 117 132 118 128 112 124 107 125 104 131 95 143 79 149 64 151 47 153 38 156 31 160 28 162 26 163 26 165 27 168 29 171 32 171 36 l 171 39 187 39 s 204 39 204 39 207 41 208 42 211 46 212 48 214 52 214 54 213 65 211 105 199 138 179 157 168 169 151 179 141 180 137 181 136 180 133 178  m 186 107 s 191 93 194 81 194 72 194 60 194 60 180 60 167 60 168 59 163 75 l 160 86 167 96 s 172 102 177 109 178 112 180 115 182 116 183 116 183 115 185 111 186 107  这是演出效果啊  演出效果</font></p>
+<p begin="556200000t" end="573000000t" region="bottomCenter" style="s1" xml:id="subtitle13"><font face="方正准圆_GBK" size="45">登场场面的演出效果</font></p>
+<p begin="574200000t" end="625800000t" region="bottomCenter" style="s1" xml:id="subtitle14"><font face="方正准圆_GBK" size="45">所谓怪异  如果没吓到人类的话  就没有存在的意义了啊</font></p>
+<p begin="628200000t" end="684600000t" region="bottomCenter" style="s1" xml:id="subtitle15"><font face="方正准圆_GBK" size="45">朽绳先生  你是那个神社所祭拜的人…蛇么</font></p>
+<p begin="697300000t" end="747000000t" region="bottomCenter" style="s1" xml:id="subtitle16"><font face="方正准圆_GBK" size="45">没错…但也不太对  那个神社已经失去信仰很久了</font></p>
+<p begin="749200000t" end="774800000t" region="bottomCenter" style="s1" xml:id="subtitle17"><font face="方正准圆_GBK" size="45">现在只是一个聚集不好东西的聚集所罢了</font></p>
+<p begin="775700000t" end="804300000t" region="bottomCenter" style="s1" xml:id="subtitle18"><font face="方正准圆_GBK" size="45">哦不  正确的说是垃圾堆才对</font></p>
+<p begin="804300000t" end="819700000t" region="bottomCenter" style="s1" xml:id="subtitle19"><font face="方正准圆_GBK" size="33">{\an8}（神明）</font></p>
+<p begin="809400000t" end="864500000t" region="bottomCenter" style="s1" xml:id="subtitle20"><font face="方正准圆_GBK" size="45">那个…那么朽绳先生  抚子要怎么做才好呢</font></p>
+<p begin="844300000t" end="855600000t" region="bottomCenter" style="s1" xml:id="subtitle21"><font face="方正准圆_GBK" size="33">{\an8}（赎罪）</font></p>
+<p begin="855600000t" end="866900000t" region="bottomCenter" style="s1" xml:id="subtitle22"><font face="方正准圆_GBK" size="33">{\an8}（或者说  请求）</font></p>
+<p begin="868900000t" end="912900000t" region="bottomCenter" style="s1" xml:id="subtitle23"><font face="方正准圆_GBK" size="45">本大爷想请求抚子妹妹做的事情是寻找一样东西</font></p>
+<p begin="915000000t" end="956800000t" region="bottomCenter" style="s1" xml:id="subtitle24"><font face="方正准圆_GBK" size="45">抚子妹妹  本大爷想要你去寻找本大爷的尸体</font></p>
+<p begin="924400000t" end="930700000t" region="bottomCenter" style="s1" xml:id="subtitle25"><font face="方正准圆_GBK" size="33">{\an8}（奇怪？不…）</font></p>
+<p begin="930700000t" end="936900000t" region="bottomCenter" style="s1" xml:id="subtitle26"><font face="方正准圆_GBK" size="33">{\an8}（神奇的语气）</font></p>
+<p begin="1161600000t" end="1206500000t" region="bottomCenter" style="s1" xml:id="subtitle27"><font face="DFMaruGothic-Md" size="39"><b>{\an8}妄想かね　暴走する　ちょっと急に</b></font></p>
+<p begin="1161600000t" end="1206500000t" region="bottomCenter" style="s1" xml:id="subtitle28"><font face="方正准圆_GBK" size="45"><b>那些妄想  开始失控  就在一转眼之间</b></font></p>
+<p begin="1211800000t" end="1252100000t" region="bottomCenter" style="s1" xml:id="subtitle29"><font face="DFMaruGothic-Md" size="39"><b>{\an8}飛び乗って今会いに行きたいの</b></font></p>
+<p begin="1211800000t" end="1252100000t" region="bottomCenter" style="s1" xml:id="subtitle30"><font face="方正准圆_GBK" size="45"><b>便想飞奔着去见你</b></font></p>
+<p begin="1256800000t" end="1301390000t" region="bottomCenter" style="s1" xml:id="subtitle31"><font face="DFMaruGothic-Md" size="39"><b>{\an8}言訳とか　理由だとか　面倒くさいなぁ</b></font></p>
+<p begin="1256800000t" end="1301390000t" region="bottomCenter" style="s1" xml:id="subtitle32"><font face="方正准圆_GBK" size="45"><b>借口也好  理由也好  实在是过于麻烦</b></font></p>
+<p begin="1306900000t" end="1348000000t" region="bottomCenter" style="s1" xml:id="subtitle33"><font face="DFMaruGothic-Md" size="39"><b>{\an8}運命だから仕方がないよね</b></font></p>
+<p begin="1306900000t" end="1348000000t" region="bottomCenter" style="s1" xml:id="subtitle34"><font face="方正准圆_GBK" size="45"><b>这就是命运无可奈何</b></font></p>
+<p begin="1371800000t" end="1424400000t" region="bottomCenter" style="s1" xml:id="subtitle35"><font face="DFMaruGothic-Md" size="39"><b>{\an8}叶わなければ　この恋は</b></font></p>
+<p begin="1371800000t" end="1424400000t" region="bottomCenter" style="s1" xml:id="subtitle36"><font face="方正准圆_GBK" size="45"><b>如果无法实现的话  这份恋情</b></font></p>
+<p begin="1425800000t" end="1465400000t" region="bottomCenter" style="s1" xml:id="subtitle37"><font face="DFMaruGothic-Md" size="39"><b>{\an8}永遠に覚めることもないの</b></font></p>
+<p begin="1425800000t" end="1465400000t" region="bottomCenter" style="s1" xml:id="subtitle38"><font face="方正准圆_GBK" size="45"><b>也永远都不会觉醒</b></font></p>
+<p begin="1467600000t" end="1518200000t" region="bottomCenter" style="s1" xml:id="subtitle39"><font face="DFMaruGothic-Md" size="39"><b>{\an8}何も知らない　目を閉じて</b></font></p>
+<p begin="1467600000t" end="1518200000t" region="bottomCenter" style="s1" xml:id="subtitle40"><font face="方正准圆_GBK" size="45"><b>一无所知地  闭上眼睛</b></font></p>
+<p begin="1520800000t" end="1562100000t" region="bottomCenter" style="s1" xml:id="subtitle41"><font face="DFMaruGothic-Md" size="39"><b>{\an8}可愛いままで星に願った</b></font></p>
+<p begin="1520800000t" end="1562100000t" region="bottomCenter" style="s1" xml:id="subtitle42"><font face="方正准圆_GBK" size="45"><b>保持可爱的样子向星星许愿</b></font></p>
+<p begin="1571700000t" end="1616500000t" region="bottomCenter" style="s1" xml:id="subtitle43"><font face="DFMaruGothic-Md" size="39"><b>{\an8}思い通りにならない　世界ならもいらない</b></font></p>
+<p begin="1571700000t" end="1616500000t" region="bottomCenter" style="s1" xml:id="subtitle44"><font face="方正准圆_GBK" size="45"><b>如果不能如愿以偿  这样的世界也不需要存在</b></font></p>
+<p begin="1620100000t" end="1639700000t" region="bottomCenter" style="s1" xml:id="subtitle45"><font face="DFMaruGothic-Md" size="39"><b>{\an8}欲しいのは一つだけ</b></font></p>
+<p begin="1620100000t" end="1639700000t" region="bottomCenter" style="s1" xml:id="subtitle46"><font face="方正准圆_GBK" size="45"><b>我想要的只有一样</b></font></p>
+<p begin="1639700000t" end="1662100000t" region="bottomCenter" style="s1" xml:id="subtitle47"><font face="DFMaruGothic-Md" size="39"><b>{\an8}全部全部全部全部</b></font></p>
+<p begin="1639700000t" end="1662100000t" region="bottomCenter" style="s1" xml:id="subtitle48"><font face="方正准圆_GBK" size="45"><b>全部全部全部全部</b></font></p>
+<p begin="1666500000t" end="1711200000t" region="bottomCenter" style="s1" xml:id="subtitle49"><font face="DFMaruGothic-Md" size="39"><b>{\an8}思い通りにならない　世界とかありえない</b></font></p>
+<p begin="1666500000t" end="1711200000t" region="bottomCenter" style="s1" xml:id="subtitle50"><font face="方正准圆_GBK" size="45"><b>如果不能如愿以偿  这样的世界决不可能存在</b></font></p>
+<p begin="1714500000t" end="1734600000t" region="bottomCenter" style="s1" xml:id="subtitle51"><font face="DFMaruGothic-Md" size="39"><b>{\an8}欲しいのは一つだけ</b></font></p>
+<p begin="1714500000t" end="1734600000t" region="bottomCenter" style="s1" xml:id="subtitle52"><font face="方正准圆_GBK" size="45"><b>我想要的只有一样</b></font></p>
+<p begin="1734600000t" end="1756600000t" region="bottomCenter" style="s1" xml:id="subtitle53"><font face="DFMaruGothic-Md" size="39"><b>{\an8}全部全部全部全部</b></font></p>
+<p begin="1734600000t" end="1756600000t" region="bottomCenter" style="s1" xml:id="subtitle54"><font face="方正准圆_GBK" size="45"><b>全部全部全部全部</b></font></p>
+<p begin="1761500000t" end="1834900000t" region="bottomCenter" style="s1" xml:id="subtitle55"><font face="方正准圆_GBK" size="36"><b>{\an8}本字幕仅供交流试看之用，如您喜欢本作品，请支持购买正版。<br />若因私自散布传播造成法律及相关一切问题，华盟字幕社概不负责。</b></font></p>
+<p begin="1761500000t" end="1834900000t" region="bottomCenter" style="s1" xml:id="subtitle56"><font face="方正准圆_GBK" size="36"><b>{\an8}翻译：wjsjwr、维京风暴；校对：痛爱的飞鱼；<br />歌词协力：信哉；后期：snow；繁化：阿爽。</b></font></p>
+<p begin="1847800000t" end="1854800000t" region="bottomCenter" style="s1" xml:id="subtitle57"><font face="DFMaruGothic-Md" size="39"><b>{\an8}ドキドキ</b></font></p>
+<p begin="1847800000t" end="1854800000t" region="bottomCenter" style="s1" xml:id="subtitle58"><font face="方正准圆_GBK" size="45"><b>小鹿乱撞</b></font></p>
+<p begin="1870100000t" end="1900100000t" region="bottomCenter" style="s1" xml:id="subtitle59"><font face="方正准圆_GBK" size="33">{\an8}（第乱话  抚子与美杜莎  其二）</font></p>
+<p begin="2017800000t" end="2050900000t" region="bottomCenter" style="s1" xml:id="subtitle60"><font face="方正准圆_GBK" size="45">第二天一早  抚子就和平时一样去上学</font></p>
+<p begin="2057100000t" end="2104100000t" region="bottomCenter" style="s1" xml:id="subtitle61"><font face="方正准圆_GBK" size="45">是的  无论看到什么样的幻觉  学校还是必须要去的</font></p>
+<p begin="2109500000t" end="2124200000t" region="bottomCenter" style="s1" xml:id="subtitle62"><font face="方正准圆_GBK" size="45">这就是初中生</font></p>
+<p begin="2130700000t" end="2166600000t" region="bottomCenter" style="s1" xml:id="subtitle63"><font face="方正准圆_GBK" size="45">早上起床  换上校服  然后去上学</font></p>
+<p begin="2164100000t" end="2189100000t" region="bottomCenter" style="s1" xml:id="subtitle64"><font face="方正准圆_GBK" size="33">{\an8}（一如既往的上学路上的风景）</font></p>
+<p begin="2172100000t" end="2189700000t" region="bottomCenter" style="s1" xml:id="subtitle65"><font face="方正准圆_GBK" size="45">美好的初中生活</font></p>
+<p begin="2218100000t" end="2271400000t" region="bottomCenter" style="s1" xml:id="subtitle66"><font face="方正准圆_GBK" size="45">唯一和平时不同的地方就是右手腕上的白色发圈</font></p>
+<p begin="2276700000t" end="2283000000t" region="bottomCenter" style="s1" xml:id="subtitle67"><font face="方正准圆_GBK" size="33">{\an8}（不得不把这…）</font></p>
+<p begin="2281700000t" end="2334700000t" region="bottomCenter" style="s1" xml:id="subtitle68"><font face="方正准圆_GBK" size="45">我说  朽绳先生  能不能变成除了抚子以外别人都看不见呢</font></p>
+<p begin="2283000000t" end="2288000000t" region="bottomCenter" style="s1" xml:id="subtitle69"><font face="方正准圆_GBK" size="33">{\an8}（说成抚子的…）</font></p>
+<p begin="2288000000t" end="2295500000t" region="bottomCenter" style="s1" xml:id="subtitle70"><font face="方正准圆_GBK" size="33">{\an8}（时尚品味…）</font></p>
+<p begin="2295500000t" end="2301700000t" region="bottomCenter" style="s1" xml:id="subtitle71"><font face="方正准圆_GBK" size="33">{\an8}（真是痛苦的事情）</font></p>
+<p begin="2335900000t" end="2380300000t" region="bottomCenter" style="s1" xml:id="subtitle72"><font face="方正准圆_GBK" size="45">也不是不行  只是我不想再无谓地使用更多的力量了</font></p>
+<p begin="2385000000t" end="2454000000t" region="bottomCenter" style="s1" xml:id="subtitle73"><font face="方正准圆_GBK" size="45">放心  别人也听不见声音  在学校我也会好好地装成装饰品的</font></p>
+<p begin="2464000000t" end="2470200000t" region="bottomCenter" style="s1" xml:id="subtitle74"><font face="方正准圆_GBK" size="33">{\an8}（于是乎就这么到了学校）</font></p>
+<p begin="2470200000t" end="2482800000t" region="bottomCenter" style="s1" xml:id="subtitle75"><font face="方正准圆_GBK" size="33">{\an8}（喂  喂  抚子妹妹）</font></p>
+<p begin="2485400000t" end="2525300000t" region="bottomCenter" style="s1" xml:id="subtitle76"><font face="方正准圆_GBK" size="45">为什么要换鞋子呢  为什么必须要这么做呢</font></p>
+<p begin="2533100000t" end="2593900000t" region="bottomCenter" style="s1" xml:id="subtitle77"><font face="方正准圆_GBK" size="45">谁知道呢  虽然从没考虑过但应该是为了不踩脏校舍吧</font></p>
+<p begin="2602690000t" end="2621100000t" region="bottomCenter" style="s1" xml:id="subtitle78"><font face="方正准圆_GBK" size="45">那个  不要说话哟</font></p>
+<p begin="2623500000t" end="2663400000t" region="bottomCenter" style="s1" xml:id="subtitle79"><font face="方正准圆_GBK" size="45">啊啊  知道了  没必要重复提醒</font></p>
+<p begin="2666900000t" end="2709100000t" region="bottomCenter" style="s1" xml:id="subtitle80"><font face="方正准圆_GBK" size="45">再说本大爷也是不爱说话的  和抚子妹妹一样</font></p>
+<p begin="2718000000t" end="2728400000t" region="bottomCenter" style="s1" xml:id="subtitle81"><font face="方正准圆_GBK" size="33">{\an8}（701中/教室）</font></p>
+<p begin="2737300000t" end="2800600000t" region="bottomCenter" style="s1" xml:id="subtitle82"><font face="方正准圆_GBK" size="45">学校啊  突然想起以前在那个神社也举行过类似的教育活动呢</font></p>
+<p begin="2813500000t" end="2840600000t" region="bottomCenter" style="s1" xml:id="subtitle83"><font face="方正准圆_GBK" size="45">不自然地建立秩序  真让人恶心</font></p>
+<p begin="2842900000t" end="2877500000t" region="bottomCenter" style="s1" xml:id="subtitle84"><font face="方正准圆_GBK" size="45">不  这应该是这个教室所独有的吧</font></p>
+<p begin="2880100000t" end="2929500000t" region="bottomCenter" style="s1" xml:id="subtitle85"><font face="方正准圆_GBK" size="45">怎么说呢  相互牵制  提心吊胆什么的…</font></p>
+<p begin="2957000000t" end="2963200000t" region="bottomCenter" style="s1" xml:id="subtitle86"><font face="方正准圆_GBK" size="33">{\an8}（然后走出了教室</font></p>
+<p begin="2957000000t" end="2963200000t" region="bottomCenter" style="s1" xml:id="subtitle87"><font face="方正准圆_GBK" size="33">{\an8}就这么横穿过走廊  登上楼梯）</font></p>
+<p begin="2959400000t" end="2969900000t" region="bottomCenter" style="s1" xml:id="subtitle88"><font face="方正准圆_GBK" size="45">我说  朽绳先生</font></p>
+<p begin="2963200000t" end="2970700000t" region="bottomCenter" style="s1" xml:id="subtitle89"><font face="方正准圆_GBK" size="33">{\an8}（走到了最顶层</font></p>
+<p begin="2963200000t" end="2970700000t" region="bottomCenter" style="s1" xml:id="subtitle90"><font face="方正准圆_GBK" size="33">{\an8}站在禁止进入的屋顶的门前）</font></p>
+<p begin="2972700000t" end="2980800000t" region="bottomCenter" style="s1" xml:id="subtitle91"><font face="方正准圆_GBK" size="45">怎么了</font></p>
+<p begin="2983700000t" end="2990800000t" region="bottomCenter" style="s1" xml:id="subtitle92"><font face="方正准圆_GBK" size="45">闭嘴</font></p>
+<p begin="3007000000t" end="3046100000t" region="bottomCenter" style="s1" xml:id="subtitle93"><font face="方正准圆_GBK" size="45">抚子是一个听话的  内向的  安静的孩子</font></p>
+<p begin="3051400000t" end="3079500000t" region="bottomCenter" style="s1" xml:id="subtitle94"><font face="方正准圆_GBK" size="45">那可是个打着灯笼都找不到的家伙啊</font></p>
+<p begin="3082600000t" end="3127900000t" region="bottomCenter" style="s1" xml:id="subtitle95"><font face="方正准圆_GBK" size="45">是的  抚子就是个打着灯笼都找不到的孩子</font></p>
+<p begin="3112100000t" end="3122100000t" region="bottomCenter" style="s1" xml:id="subtitle96"><font face="方正准圆_GBK" size="33">{\an8}（对着手腕窸窸窣窣说话的）</font></p>
+<p begin="3122100000t" end="3129700000t" region="bottomCenter" style="s1" xml:id="subtitle97"><font face="方正准圆_GBK" size="33">{\an8}（抚子）</font></p>
+<p begin="3133700000t" end="3164500000t" region="bottomCenter" style="s1" xml:id="subtitle98"><font face="方正准圆_GBK" size="45">像这样打着灯笼都找不到的孩子</font></p>
+<p begin="3167700000t" end="3192200000t" region="bottomCenter" style="s1" xml:id="subtitle99"><font face="方正准圆_GBK" size="45">被人看到对着自己的手腕说话的话</font></p>
+<p begin="3194200000t" end="3217700000t" region="bottomCenter" style="s1" xml:id="subtitle100"><font face="方正准圆_GBK" size="45">你觉得班里的同学会怎么想</font></p>
+<p begin="3219800000t" end="3230600000t" region="bottomCenter" style="s1" xml:id="subtitle101"><font face="方正准圆_GBK" size="45">怎么想啊</font></p>
+<p begin="3237300000t" end="3257700000t" region="bottomCenter" style="s1" xml:id="subtitle102"><font face="方正准圆_GBK" size="45">他们会觉得我是个「可怜的孩子」</font></p>
+<p begin="3261300000t" end="3296300000t" region="bottomCenter" style="s1" xml:id="subtitle103"><font face="方正准圆_GBK" size="45">是吗  感觉也没什么大变化呀</font></p>
+<p begin="3300600000t" end="3340700000t" region="bottomCenter" style="s1" xml:id="subtitle104"><font face="方正准圆_GBK" size="45">就算你的地位多少发生了一点变化  那又能改变什么呢</font></p>
+<p begin="3343300000t" end="3361700000t" region="bottomCenter" style="s1" xml:id="subtitle105"><font face="方正准圆_GBK" size="45">总…总之  朽绳先生</font></p>
+<p begin="3374300000t" end="3387500000t" region="bottomCenter" style="s1" xml:id="subtitle106"><font face="方正准圆_GBK" size="45">喂喂  抚子妹妹</font></p>
+<p begin="3390500000t" end="3455400000t" region="bottomCenter" style="s1" xml:id="subtitle107"><font face="方正准圆_GBK" size="45">你就是这么只用「总之」「姑且不论」这样的转接词来待人处世的么？</font></p>
+<p begin="3457800000t" end="3472200000t" region="bottomCenter" style="s1" xml:id="subtitle108"><font face="方正准圆_GBK" size="45">甚至都不进行基本的对话？</font></p>
+<p begin="3473900000t" end="3513100000t" region="bottomCenter" style="s1" xml:id="subtitle109"><font face="方正准圆_GBK" size="45">明明不接受本大爷说的话却也不反驳</font></p>
+<p begin="3514300000t" end="3541300000t" region="bottomCenter" style="s1" xml:id="subtitle110"><font face="方正准圆_GBK" size="45">不做任何讨论就束之高阁</font></p>
+<p begin="3544100000t" end="3565100000t" region="bottomCenter" style="s1" xml:id="subtitle111"><font face="方正准圆_GBK" size="45">这就是抚子妹妹的处世法？</font></p>
+<p begin="3600500000t" end="3606700000t" region="bottomCenter" style="s1" xml:id="subtitle112"><font face="方正准圆_GBK" size="45">总之</font></p>
+<p begin="3607600000t" end="3617600000t" region="bottomCenter" style="s1" xml:id="subtitle113"><font face="方正准圆_GBK" size="33">{\an8}（抚子的处世法）</font></p>
+<p begin="3617600000t" end="3621400000t" region="bottomCenter" style="s1" xml:id="subtitle114"><font face="方正准圆_GBK" size="33">{\an8}（那就是）</font></p>
+<p begin="3621400000t" end="3628900000t" region="bottomCenter" style="s1" xml:id="subtitle115"><font face="方正准圆_GBK" size="33">{\an8}（低下头  沉默）</font></p>
+<p begin="3628900000t" end="3636400000t" region="bottomCenter" style="s1" xml:id="subtitle116"><font face="方正准圆_GBK" size="33">{\an8}（等待着对方）</font></p>
+<p begin="3636400000t" end="3646400000t" region="bottomCenter" style="s1" xml:id="subtitle117"><font face="方正准圆_GBK" size="33">{\an8}（自行离开）</font></p>
+<p begin="3650200000t" end="3691500000t" region="bottomCenter" style="s1" xml:id="subtitle118"><font face="方正准圆_GBK" size="45">不是说好白天让抚子自由活动…的吗</font></p>
+<p begin="3691500000t" end="3703600000t" region="bottomCenter" style="s1" xml:id="subtitle119"><font face="方正准圆_GBK" size="33">{\an8}（不是手铐）</font></p>
+<p begin="3699100000t" end="3733100000t" region="bottomCenter" style="s1" xml:id="subtitle120"><font face="方正准圆_GBK" size="45">不是说好可以只在晚上帮朽绳先生找尸体的吗</font></p>
+<p begin="3735300000t" end="3745300000t" region="bottomCenter" style="s1" xml:id="subtitle121"><font face="方正准圆_GBK" size="33">{\an8}（「约定」）</font></p>
+<p begin="3748500000t" end="3821500000t" region="bottomCenter" style="s1" xml:id="subtitle122"><font face="方正准圆_GBK" size="45">寻找尸体？这是什么意思  朽绳先生的尸体是什么意思</font></p>
+<p begin="3826300000t" end="3882600000t" region="bottomCenter" style="s1" xml:id="subtitle123"><font face="方正准圆_GBK" size="45">换句话说就是神体  在那个神社曾经被祭拜的本大爷的尸体</font></p>
+<p begin="3884200000t" end="3894200000t" region="bottomCenter" style="s1" xml:id="subtitle124"><font face="方正准圆_GBK" size="33">{\an8}（那边已经变得…）</font></p>
+<p begin="3887100000t" end="3906300000t" region="bottomCenter" style="s1" xml:id="subtitle125"><font face="方正准圆_GBK" size="45">现在已经不见了</font></p>
+<p begin="3894200000t" end="3904200000t" region="bottomCenter" style="s1" xml:id="subtitle126"><font face="方正准圆_GBK" size="33">{\an8}（只是一个场所而已）</font></p>
+<p begin="3911400000t" end="3945100000t" region="bottomCenter" style="s1" xml:id="subtitle127"><font face="方正准圆_GBK" size="45">本大爷能像这样  以这种形态存在已经是一个奇迹了</font></p>
+<p begin="3948300000t" end="3968000000t" region="bottomCenter" style="s1" xml:id="subtitle128"><font face="方正准圆_GBK" size="45">不  那个吸血鬼</font></p>
+<p begin="3968000000t" end="3978000000t" region="bottomCenter" style="s1" xml:id="subtitle129"><font face="方正准圆_GBK" size="33">{\an8}（由于那个怪异之王忍小姐所引来的）</font></p>
+<p begin="3970600000t" end="3982300000t" region="bottomCenter" style="s1" xml:id="subtitle130"><font face="方正准圆_GBK" size="45">忍野忍</font></p>
+<p begin="3978000000t" end="3988000000t" region="bottomCenter" style="s1" xml:id="subtitle131"><font face="方正准圆_GBK" size="33">{\an8}（那些不好的东西）</font></p>
+<p begin="3983300000t" end="4015700000t" region="bottomCenter" style="s1" xml:id="subtitle132"><font face="方正准圆_GBK" size="45">原姬丝秀忒·雅赛劳拉莉昂·刃下心</font></p>
+<p begin="3988000000t" end="4005500000t" region="bottomCenter" style="s1" xml:id="subtitle133"><font face="方正准圆_GBK" size="33">{\an8}（将「咒语」和「相应解法」进行了活性化）</font></p>
+<p begin="4005500000t" end="4016800000t" region="bottomCenter" style="s1" xml:id="subtitle134"><font face="方正准圆_GBK" size="33">{\an8}（另外  也将朽绳先生  复活了）</font></p>
+<p begin="4016800000t" end="4031800000t" region="bottomCenter" style="s1" xml:id="subtitle135"><font face="方正准圆_GBK" size="45">应该说是多亏了她么</font></p>
+<p begin="4047900000t" end="4081000000t" region="bottomCenter" style="s1" xml:id="subtitle136"><font face="方正准圆_GBK" size="45">虽说因为她而聚集在神社的那些不好的东西</font></p>
+<p begin="4081900000t" end="4117300000t" region="bottomCenter" style="s1" xml:id="subtitle137"><font face="方正准圆_GBK" size="45">也就是现在本大爷维持身形的能量源</font></p>
+<p begin="4120300000t" end="4162900000t" region="bottomCenter" style="s1" xml:id="subtitle138"><font face="方正准圆_GBK" size="45">但是她用那些灵力做了一件相当莫名其妙的事情</font></p>
+<p begin="4174400000t" end="4183200000t" region="bottomCenter" style="s1" xml:id="subtitle139"><font face="方正准圆_GBK" size="33">{\an8}（是小忍  是忍小姐）</font></p>
+<p begin="4177100000t" end="4202200000t" region="bottomCenter" style="s1" xml:id="subtitle140"><font face="方正准圆_GBK" size="45">也罢  小忍她就是这样的人</font></p>
+<p begin="4183200000t" end="4193200000t" region="bottomCenter" style="s1" xml:id="subtitle141"><font face="方正准圆_GBK" size="33">{\an8}（原因和结果都是她）</font></p>
+<p begin="4193200000t" end="4202000000t" region="bottomCenter" style="s1" xml:id="subtitle142"><font face="方正准圆_GBK" size="33">{\an8}（这就是所谓的「自导自演」）</font></p>
+<p begin="4216600000t" end="4270300000t" region="bottomCenter" style="s1" xml:id="subtitle143"><font face="方正准圆_GBK" size="45">既然那些不好的东西都是那个吸血鬼因自身之力而聚集起来的</font></p>
+<p begin="4271900000t" end="4299900000t" region="bottomCenter" style="s1" xml:id="subtitle144"><font face="方正准圆_GBK" size="45">那么怎么使用都是她自己的事情</font></p>
+<p begin="4305500000t" end="4369000000t" region="bottomCenter" style="s1" xml:id="subtitle145"><font face="方正准圆_GBK" size="45">但是因此而导致了本大爷这个概念变成了风中残烛这也是事实</font></p>
+<p begin="4381500000t" end="4390100000t" region="bottomCenter" style="s1" xml:id="subtitle146"><font face="方正准圆_GBK" size="45">我明白了</font></p>
+<p begin="4390900000t" end="4403400000t" region="bottomCenter" style="s1" xml:id="subtitle147"><font face="方正准圆_GBK" size="33">{\an8}（「总之」）</font></p>
+<p begin="4395700000t" end="4403400000t" region="bottomCenter" style="s1" xml:id="subtitle148"><font face="方正准圆_GBK" size="45">总之</font></p>
+<p begin="4406100000t" end="4450100000t" region="bottomCenter" style="s1" xml:id="subtitle149"><font face="方正准圆_GBK" size="45">总之抚子从现在起开始寻找朽绳先生的神体就好了是吧</font></p>
+<p begin="4451800000t" end="4459300000t" region="bottomCenter" style="s1" xml:id="subtitle150"><font face="方正准圆_GBK" size="33">{\an8}（只是——为了「继续存在」）</font></p>
+<p begin="4459300000t" end="4466800000t" region="bottomCenter" style="s1" xml:id="subtitle151"><font face="方正准圆_GBK" size="33">{\an8}（为了成为稀松平常）</font></p>
+<p begin="4469500000t" end="4506500000t" region="bottomCenter" style="s1" xml:id="subtitle152"><font face="方正准圆_GBK" size="45">如果我找到了神体  你就会把抚子放了是吧</font></p>
+<p begin="4509100000t" end="4567500000t" region="bottomCenter" style="s1" xml:id="subtitle153"><font face="方正准圆_GBK" size="45">什么叫「放了」  本大爷可从没想过要强迫抚子妹妹</font></p>
+<p begin="4569900000t" end="4607100000t" region="bottomCenter" style="s1" xml:id="subtitle154"><font face="方正准圆_GBK" size="45">最多只是利用了抚子妹妹的罪恶感而已</font></p>
+<p begin="4614500000t" end="4683900000t" region="bottomCenter" style="s1" xml:id="subtitle155"><font face="方正准圆_GBK" size="45">总之  我明白了  抚子会帮忙寻找朽绳先生的神体的</font></p>
+<p begin="4688200000t" end="4712100000t" region="bottomCenter" style="s1" xml:id="subtitle156"><font face="方正准圆_GBK" size="45">真是帮大忙了  但是本大爷可不言谢呢</font></p>
+<p begin="4712100000t" end="4722100000t" region="bottomCenter" style="s1" xml:id="subtitle157"><font face="方正准圆_GBK" size="33">{\an8}（为什么不说呢）</font></p>
+<p begin="4722100000t" end="4742100000t" region="bottomCenter" style="s1" xml:id="subtitle158"><font face="方正准圆_GBK" size="33">{\an8}（是因为是神明吗）</font></p>
+<p begin="4725800000t" end="4768400000t" region="bottomCenter" style="s1" xml:id="subtitle159"><font face="方正准圆_GBK" size="45">那么朽绳先生  朽绳先生的尸体到底在哪里呢</font></p>
+<p begin="4768400000t" end="4773400000t" region="bottomCenter" style="s1" xml:id="subtitle160"><font face="方正准圆_GBK" size="33">{\an8}（不知道）</font></p>
+<p begin="4775400000t" end="4790900000t" region="bottomCenter" style="s1" xml:id="subtitle161"><font face="方正准圆_GBK" size="45">在那座山的哪里呢</font></p>
+<p begin="4790900000t" end="4796300000t" region="bottomCenter" style="s1" xml:id="subtitle162"><font face="方正准圆_GBK" size="33">{\an8}（不知道）</font></p>
+<p begin="4799300000t" end="4810100000t" region="bottomCenter" style="s1" xml:id="subtitle163"><font face="方正准圆_GBK" size="45">是什么时候不见的呢</font></p>
+<p begin="4810100000t" end="4815100000t" region="bottomCenter" style="s1" xml:id="subtitle164"><font face="方正准圆_GBK" size="33">{\an8}（不知道）</font></p>
+<p begin="4817500000t" end="4828400000t" region="bottomCenter" style="s1" xml:id="subtitle165"><font face="方正准圆_GBK" size="45">有多大呢</font></p>
+<p begin="4828400000t" end="4833400000t" region="bottomCenter" style="s1" xml:id="subtitle166"><font face="方正准圆_GBK" size="33">{\an8}（不知道）</font></p>
+<p begin="4835800000t" end="4846800000t" region="bottomCenter" style="s1" xml:id="subtitle167"><font face="方正准圆_GBK" size="45">有多旧呢</font></p>
+<p begin="4846800000t" end="4852200000t" region="bottomCenter" style="s1" xml:id="subtitle168"><font face="方正准圆_GBK" size="33">{\an8}（不知道）</font></p>
+<p begin="4864100000t" end="4902100000t" region="bottomCenter" style="s1" xml:id="subtitle169"><font face="方正准圆_GBK" size="45">既然有了这些情报  就等于是已经找到了一样呢</font></p>
+<p begin="4904300000t" end="4919400000t" region="bottomCenter" style="s1" xml:id="subtitle170"><font face="方正准圆_GBK" size="45">找到你个头啊！</font></p>
+<p begin="4923700000t" end="4959100000t" region="bottomCenter" style="s1" xml:id="subtitle171"><font face="方正准圆_GBK" size="45">这样没戏啊  就算花上一生也没戏啊</font></p>
+<p begin="4960300000t" end="4989400000t" region="bottomCenter" style="s1" xml:id="subtitle172"><font face="方正准圆_GBK" size="45">就算转世做了公主也没戏啊</font></p>
+<p begin="4991300000t" end="5026500000t" region="bottomCenter" style="s1" xml:id="subtitle173"><font face="方正准圆_GBK" size="45">为什么前提是转世之后就会变成公主啊</font></p>
+<p begin="5030700000t" end="5049500000t" region="bottomCenter" style="s1" xml:id="subtitle174"><font face="方正准圆_GBK" size="33">{\an8}（调整「调频」）</font></p>
+<p begin="5033500000t" end="5047800000t" region="bottomCenter" style="s1" xml:id="subtitle175"><font face="方正准圆_GBK" size="45">不不  不用担心</font></p>
+<p begin="5053300000t" end="5094500000t" region="bottomCenter" style="s1" xml:id="subtitle176"><font face="方正准圆_GBK" size="45">既然抚子妹妹已经和本大爷同化了  应该很快就能找到的</font></p>
+<p begin="5101000000t" end="5110100000t" region="bottomCenter" style="s1" xml:id="subtitle177"><font face="方正准圆_GBK" size="45">很快？</font></p>
+<p begin="5114600000t" end="5133700000t" region="bottomCenter" style="s1" xml:id="subtitle178"><font face="方正准圆_GBK" size="45">努力的话  就会很快</font></p>
+<p begin="5139700000t" end="5155900000t" region="bottomCenter" style="s1" xml:id="subtitle179"><font face="方正准圆_GBK" size="45">不想努力啊</font></p>
+<p begin="5162600000t" end="5176500000t" region="bottomCenter" style="s1" xml:id="subtitle180"><font face="方正准圆_GBK" size="45">不  你还是努力一下吧</font></p>
+<p begin="5177100000t" end="5187500000t" region="bottomCenter" style="s1" xml:id="subtitle181"><font face="方正准圆_GBK" size="33">{\an8}（是努力  还是忍耐）</font></p>
+<p begin="5190590000t" end="5211400000t" region="bottomCenter" style="s1" xml:id="subtitle182"><font face="方正准圆_GBK" size="45">我会帮你找的</font></p>
+<p begin="5216900000t" end="5229700000t" region="bottomCenter" style="s1" xml:id="subtitle183"><font face="方正准圆_GBK" size="45">不过  朽绳先生</font></p>
+<p begin="5235700000t" end="5261800000t" region="bottomCenter" style="s1" xml:id="subtitle184"><font face="方正准圆_GBK" size="45">我还是可以去上学的吧</font></p>
+<p begin="5261800000t" end="5271800000t" region="bottomCenter" style="s1" xml:id="subtitle185"><font face="方正准圆_GBK" size="33">{\an8}（抚子说道）</font></p>
+<p begin="5264500000t" end="5270900000t" region="bottomCenter" style="s1" xml:id="subtitle186"><font face="方正准圆_GBK" size="45">啊？</font></p>
+<p begin="5274100000t" end="5322200000t" region="bottomCenter" style="s1" xml:id="subtitle187"><font face="方正准圆_GBK" size="45">就是说  我还是可以继续普通的日常生活吧</font></p>
+<p begin="5330500000t" end="5376500000t" region="bottomCenter" style="s1" xml:id="subtitle188"><font face="方正准圆_GBK" size="45">那…那个…抚子…不想被人当成怪人</font></p>
+<p begin="5379800000t" end="5398300000t" region="bottomCenter" style="s1" xml:id="subtitle189"><font face="方正准圆_GBK" size="45">被谁当成怪人？</font></p>
+<p begin="5399400000t" end="5411900000t" region="bottomCenter" style="s1" xml:id="subtitle190"><font face="方正准圆_GBK" size="33">{\an8}（对于朽绳先生的问题）</font></p>
+<p begin="5409300000t" end="5421700000t" region="bottomCenter" style="s1" xml:id="subtitle191"><font face="方正准圆_GBK" size="45">历哥哥</font></p>
+<p begin="5411900000t" end="5424400000t" region="bottomCenter" style="s1" xml:id="subtitle192"><font face="方正准圆_GBK" size="33">{\an8}（抚子率直地回答道）</font></p>
+<p begin="5432100000t" end="5479000000t" region="bottomCenter" style="s1" xml:id="subtitle193"><font face="方正准圆_GBK" size="45">已经说过「什么都没发生」  已经说过「都是错觉」了</font></p>
+<p begin="5489000000t" end="5507400000t" region="bottomCenter" style="s1" xml:id="subtitle194"><font face="方正准圆_GBK" size="45">这么说的话  抚子妹妹</font></p>
+<p begin="5512200000t" end="5549400000t" region="bottomCenter" style="s1" xml:id="subtitle195"><font face="方正准圆_GBK" size="45">这不是「不想被当成怪人」而是「不想让他担心吧」</font></p>
+<p begin="5552300000t" end="5585800000t" region="bottomCenter" style="s1" xml:id="subtitle196"><font face="方正准圆_GBK" size="45">所以你才对历哥哥撒了那样的谎言啊</font></p>
+<p begin="5590100000t" end="5606900000t" region="bottomCenter" style="s1" xml:id="subtitle197"><font face="方正准圆_GBK" size="45">那…那是</font></p>
+<p begin="5612200000t" end="5650600000t" region="bottomCenter" style="s1" xml:id="subtitle198"><font face="方正准圆_GBK" size="45">明明说过想要得到他的帮助  却撒了那样的谎</font></p>
+<p begin="5650600000t" end="5701300000t" region="bottomCenter" style="s1" xml:id="subtitle199"><font face="方正准圆_GBK" size="45">本大爷只能认为这是因为不想让他担心  难道不对吗</font></p>
+<p begin="5686400000t" end="5703100000t" region="bottomCenter" style="s1" xml:id="subtitle200"><font face="方正准圆_GBK" size="33">{\an8}（失败了</font></p>
+<p begin="5686400000t" end="5703100000t" region="bottomCenter" style="s1" xml:id="subtitle201"><font face="方正准圆_GBK" size="33">{\an8}失言了）</font></p>
+<p begin="5705800000t" end="5771800000t" region="bottomCenter" style="s1" xml:id="subtitle202"><font face="方正准圆_GBK" size="45">没…没有不对  是的  是不想让他担心</font></p>
+<p begin="5779500000t" end="5788900000t" region="bottomCenter" style="s1" xml:id="subtitle203"><font face="方正准圆_GBK" size="45">不让他担心</font></p>
+<p begin="5800200000t" end="5809000000t" region="bottomCenter" style="s1" xml:id="subtitle204"><font face="方正准圆_GBK" size="33">{\an8}（这也不是什么大不了的事情）</font></p>
+<p begin="5809000000t" end="5815300000t" region="bottomCenter" style="s1" xml:id="subtitle205"><font face="方正准圆_GBK" size="33">{\an8}（哎  算了）</font></p>
+<p begin="5818200000t" end="5837100000t" region="bottomCenter" style="s1" xml:id="subtitle206"><font face="方正准圆_GBK" size="45">那就这样吧</font></p>
+<p begin="5840700000t" end="5875400000t" region="bottomCenter" style="s1" xml:id="subtitle207"><font face="方正准圆_GBK" size="45">白天是抚子妹妹的时间  晚上是本大爷的时间</font></p>
+<p begin="5879000000t" end="5910300000t" region="bottomCenter" style="s1" xml:id="subtitle208"><font face="方正准圆_GBK" size="45">本大爷为了对抚子妹妹的献身表示感谢</font></p>
+<p begin="5914700000t" end="5947900000t" region="bottomCenter" style="s1" xml:id="subtitle209"><font face="方正准圆_GBK" size="45">在此发誓决不侵犯抚子妹妹的个人时间</font></p>
+<p begin="5947900000t" end="5955400000t" region="bottomCenter" style="s1" xml:id="subtitle210"><font face="方正准圆_GBK" size="33">{\an8}（701中）</font></p>
+<p begin="5955400000t" end="5965400000t" region="bottomCenter" style="s1" xml:id="subtitle211"><font face="方正准圆_GBK" size="33">{\an8}（通往校舍屋顶的楼梯中间的休息台）</font></p>
+<p begin="5956600000t" end="5980600000t" region="bottomCenter" style="s1" xml:id="subtitle212"><font face="方正准圆_GBK" size="45">骗子  明明是神还说谎</font></p>
+<p begin="5986300000t" end="6012900000t" region="bottomCenter" style="s1" xml:id="subtitle213"><font face="方正准圆_GBK" size="45">知道了知道了  不说话总行了吧</font></p>
+<p begin="6015500000t" end="6022500000t" region="bottomCenter" style="s1" xml:id="subtitle214"><font face="方正准圆_GBK" size="33">{\an8}（笹薮老师）</font></p>
+<p begin="6017900000t" end="6029900000t" region="bottomCenter" style="s1" xml:id="subtitle215"><font face="方正准圆_GBK" size="45">喂  千石</font></p>
+<p begin="6022500000t" end="6027500000t" region="bottomCenter" style="s1" xml:id="subtitle216"><font face="方正准圆_GBK" size="33">{\an8}（昵称是熊猫老师）</font></p>
+<p begin="6038100000t" end="6062900000t" region="bottomCenter" style="s1" xml:id="subtitle217"><font face="方正准圆_GBK" size="45">你在那里做什么</font></p>
+<p begin="6075500000t" end="6086400000t" region="bottomCenter" style="s1" xml:id="subtitle218"><font face="方正准圆_GBK" size="45">什么都有做！</font></p>
+<p begin="6086400000t" end="6093900000t" region="bottomCenter" style="s1" xml:id="subtitle219"><font face="方正准圆_GBK" size="33">{\an8}（舌头打结了）</font></p>
+<p begin="6113500000t" end="6125100000t" region="bottomCenter" style="s1" xml:id="subtitle220"><font face="方正准圆_GBK" size="45">什么都没做</font></p>
+<p begin="6149400000t" end="6162700000t" region="bottomCenter" style="s1" xml:id="subtitle221"><font face="方正准圆_GBK" size="45">马上就要打预备铃了</font></p>
+<p begin="6166100000t" end="6176700000t" region="bottomCenter" style="s1" xml:id="subtitle222"><font face="方正准圆_GBK" size="45">我知道了</font></p>
+<p begin="6178900000t" end="6196900000t" region="bottomCenter" style="s1" xml:id="subtitle223"><font face="方正准圆_GBK" size="33">{\an8}（笹薮老师的话）</font></p>
+<p begin="6183100000t" end="6226500000t" region="bottomCenter" style="s1" xml:id="subtitle224"><font face="方正准圆_GBK" size="45">话说千石  老师之前拜托的事情怎么样了</font></p>
+<p begin="6230300000t" end="6244900000t" region="bottomCenter" style="s1" xml:id="subtitle225"><font face="方正准圆_GBK" size="45">什…什么怎么样了</font></p>
+<p begin="6249800000t" end="6270500000t" region="bottomCenter" style="s1" xml:id="subtitle226"><font face="方正准圆_GBK" size="45">有没有稍微解决一点呢</font></p>
+<p begin="6281300000t" end="6289100000t" region="bottomCenter" style="s1" xml:id="subtitle227"><font face="方正准圆_GBK" size="45">那个…</font></p>
+<p begin="6291000000t" end="6307700000t" region="bottomCenter" style="s1" xml:id="subtitle228"><font face="方正准圆_GBK" size="45">喂喂  帮帮忙吧</font></p>
+<p begin="6311500000t" end="6347900000t" region="bottomCenter" style="s1" xml:id="subtitle229"><font face="方正准圆_GBK" size="45">那个问题必须要尽快解决才行  你也是明白的吧</font></p>
+<p begin="6364900000t" end="6397500000t" region="bottomCenter" style="s1" xml:id="subtitle230"><font face="方正准圆_GBK" size="45">我现在只能靠你了  千石班长</font></p>
+<p begin="6381700000t" end="6389200000t" region="bottomCenter" style="s1" xml:id="subtitle231"><font face="方正准圆_GBK" size="33">{\an8}（班里的事情一手包办））</font></p>
+<p begin="6389200000t" end="6401700000t" region="bottomCenter" style="s1" xml:id="subtitle232"><font face="方正准圆_GBK" size="33">{\an8}（班里最有地位的学生）</font></p>
+<p begin="6433400000t" end="6454200000t" region="bottomCenter" style="s1" xml:id="subtitle233"><font face="方正准圆_GBK" size="45">抚子妹妹原来是班长啊</font></p>
+<p begin="6457900000t" end="6480300000t" region="bottomCenter" style="s1" xml:id="subtitle234"><font face="方正准圆_GBK" size="45">嗯  抚子是班长</font></p>
+<p begin="6482700000t" end="6527400000t" region="bottomCenter" style="s1" xml:id="subtitle235"><font face="方正准圆_GBK" size="45">你骗人  班长就是那个吧  一班之长的那个班长吧</font></p>
+<p begin="6529100000t" end="6568900000t" region="bottomCenter" style="s1" xml:id="subtitle236"><font face="方正准圆_GBK" size="45">也就是班里的事情一手包办  班里最有地位的学生吧</font></p>
+<p begin="6571000000t" end="6599000000t" region="bottomCenter" style="s1" xml:id="subtitle237"><font face="方正准圆_GBK" size="45">那个人是抚子妹妹？啊？</font></p>
+<p begin="6600900000t" end="6644000000t" region="bottomCenter" style="s1" xml:id="subtitle238"><font face="方正准圆_GBK" size="45">班里的气氛很怪  朽绳先生也是知道的吧</font></p>
+<p begin="6648100000t" end="6694700000t" region="bottomCenter" style="s1" xml:id="subtitle239"><font face="方正准圆_GBK" size="45">所以第二学期开始的时候  既没有候选也没有推荐</font></p>
+<p begin="6701900000t" end="6723900000t" region="bottomCenter" style="s1" xml:id="subtitle240"><font face="方正准圆_GBK" size="45">然后  抚子就被选上了</font></p>
+<p begin="6709100000t" end="6719500000t" region="bottomCenter" style="s1" xml:id="subtitle241"><font face="方正准圆_GBK" size="33">{\an8}（抽到了下下签）</font></p>
+<p begin="6719500000t" end="6727400000t" region="bottomCenter" style="s1" xml:id="subtitle242"><font face="方正准圆_GBK" size="33">{\an8}（「自虐」的表现）</font></p>
+<p begin="6730100000t" end="6757000000t" region="bottomCenter" style="s1" xml:id="subtitle243"><font face="方正准圆_GBK" size="45">我是问究竟怎么才会变成这样的</font></p>
+<p begin="6757000000t" end="6768300000t" region="bottomCenter" style="s1" xml:id="subtitle244"><font face="方正准圆_GBK" size="33">{\an8}（本来就不擅长语文</font></p>
+<p begin="6757000000t" end="6768300000t" region="bottomCenter" style="s1" xml:id="subtitle245"><font face="方正准圆_GBK" size="33">{\an8}更不擅长说明）</font></p>
+<p begin="6763300000t" end="6775900000t" region="bottomCenter" style="s1" xml:id="subtitle246"><font face="方正准圆_GBK" size="45">硬要说的话</font></p>
+<p begin="6768300000t" end="6778300000t" region="bottomCenter" style="s1" xml:id="subtitle247"><font face="方正准圆_GBK" size="33">{\an8}（即使是这样……那个）</font></p>
+<p begin="6782700000t" end="6836100000t" region="bottomCenter" style="s1" xml:id="subtitle248"><font face="方正准圆_GBK" size="45">因为班级里没有主动接触过「咒语」的女生只有抚子一人了</font></p>
+<p begin="6841500000t" end="6847500000t" region="bottomCenter" style="s1" xml:id="subtitle249"><font face="方正准圆_GBK" size="45">大概吧</font></p>
+<p begin="6852200000t" end="6877100000t" region="bottomCenter" style="s1" xml:id="subtitle250"><font face="方正准圆_GBK" size="45">呃  也就是说是排除法么</font></p>
+<p begin="6877100000t" end="6887200000t" region="bottomCenter" style="s1" xml:id="subtitle251"><font face="方正准圆_GBK" size="33">{\an8}（就是这样吧）</font></p>
+<p begin="6891800000t" end="6930900000t" region="bottomCenter" style="s1" xml:id="subtitle252"><font face="方正准圆_GBK" size="45">也就是说  把谁也不想做  谁也不想被指派去做的事情</font></p>
+<p begin="6930900000t" end="6956700000t" region="bottomCenter" style="s1" xml:id="subtitle253"><font face="方正准圆_GBK" size="45">全都推到抚子妹妹的身上</font></p>
+<p begin="6959700000t" end="6987300000t" region="bottomCenter" style="s1" xml:id="subtitle254"><font face="方正准圆_GBK" size="45">真是群不负责任的家伙  啊？</font></p>
+<p begin="6992200000t" end="7031400000t" region="bottomCenter" style="s1" xml:id="subtitle255"><font face="方正准圆_GBK" size="45">也不是…推到我的身上…</font></p>
+<p begin="7037400000t" end="7093500000t" region="bottomCenter" style="s1" xml:id="subtitle256"><font face="方正准圆_GBK" size="45">这暂且不提  但是刚才那个老师说的到底是怎么回事</font></p>
+<p begin="7096600000t" end="7119100000t" region="bottomCenter" style="s1" xml:id="subtitle257"><font face="方正准圆_GBK" size="45">之前拜托你的事情到底是怎么回事</font></p>
+<p begin="7126500000t" end="7152900000t" region="bottomCenter" style="s1" xml:id="subtitle258"><font face="方正准圆_GBK" size="45">这不关朽绳先生的事吧</font></p>
+<p begin="7139500000t" end="7154500000t" region="bottomCenter" style="s1" xml:id="subtitle259"><font face="方正准圆_GBK" size="33">{\an8}（将准备好的台词</font></p>
+<p begin="7139500000t" end="7154500000t" region="bottomCenter" style="s1" xml:id="subtitle260"><font face="方正准圆_GBK" size="33">{\an8}照着剧本念出来）</font></p>
+<p begin="7157500000t" end="7170500000t" region="bottomCenter" style="s1" xml:id="subtitle261"><font face="方正准圆_GBK" size="45">不关我的事么？</font></p>
+<p begin="7176100000t" end="7215700000t" region="bottomCenter" style="s1" xml:id="subtitle262"><font face="方正准圆_GBK" size="45">本大爷可认为自己已经和抚子妹妹是一心同体的搭档了</font></p>
+<p begin="7225500000t" end="7234600000t" region="bottomCenter" style="s1" xml:id="subtitle263"><font face="方正准圆_GBK" size="45">请不要这么想</font></p>
+<p begin="7234600000t" end="7239600000t" region="bottomCenter" style="s1" xml:id="subtitle264"><font face="方正准圆_GBK" size="33">{\an8}（语气变得弱弱的）</font></p>
+<p begin="7239600000t" end="7244600000t" region="bottomCenter" style="s1" xml:id="subtitle265"><font face="方正准圆_GBK" size="33">{\an8}（「断然拒绝」是相当困难的事情）</font></p>
+<p begin="7249400000t" end="7298300000t" region="bottomCenter" style="s1" xml:id="subtitle266"><font face="方正准圆_GBK" size="45">是让我「想办法改变一下班级里的气氛」  从很早以前就拜托我</font></p>
+<p begin="7302500000t" end="7309300000t" region="bottomCenter" style="s1" xml:id="subtitle267"><font face="方正准圆_GBK" size="45">啊？</font></p>
+<p begin="7312600000t" end="7359900000t" region="bottomCenter" style="s1" xml:id="subtitle268"><font face="方正准圆_GBK" size="45">喂喂  搞什么嘛  这不是那个班主任大爷的工作么</font></p>
+<p begin="7365700000t" end="7396300000t" region="bottomCenter" style="s1" xml:id="subtitle269"><font face="方正准圆_GBK" size="45">嗯  是的  就是那么回事</font></p>
+<p begin="7403400000t" end="7432200000t" region="bottomCenter" style="s1" xml:id="subtitle270"><font face="方正准圆_GBK" size="45">也就是踢皮球嘛</font></p>
+<p begin="7434700000t" end="7468200000t" region="bottomCenter" style="s1" xml:id="subtitle271"><font face="方正准圆_GBK" size="45">m 360 180 n 212 316 s 210 315 208 315 208 315 208 315 207 313 206 311 205 308 205 301 205 277 205 260 204 247 204 247 204 247 200 249 197 252 181 266 160 279 138 290 120 298 118 299 114 297 110 295 106 291 106 286 105 280 108 278 123 272 147 261 167 248 186 229 l 199 216 158 216 118 215 115 212 s 113 210 112 209 112 205 112 201 112 200 115 197 l 119 195 161 195 204 195 205 183 s 205 173 205 172 208 170 211 167 219 167 224 169 228 171 230 175 230 185 l 230 195 275 195 320 195 323 198 s 326 201 327 202 326 206 326 208 325 211 323 212 l 320 215 277 216 234 216 242 225 s 260 246 291 267 320 279 323 280 326 282 327 283 331 287 328 297 321 300 317 301 312 300 297 292 279 283 265 274 243 256 236 251 230 247 230 247 230 247 230 261 230 278 230 309 229 310 227 313 226 314 224 316 222 316 217 318 217 318 212 316  m 51 302 s 46 301 42 298 41 295 40 293 40 275 40 169 40 31 39 40 46 36 50 34 52 34 71 34 95 34 98 34 102 41 104 44 104 46 104 169 104 287 104 293 102 296 99 302 96 303 73 302 62 302 52 302 51 302  m 83 282 s 84 281 84 267 84 172 84 113 84 63 84 61 83 55 81 55 73 55 60 55 62 41 62 170 62 258 62 281 63 282 65 283 81 282 83 282  m 278 182 s 274 180 273 177 273 165 l 273 156 253 156 s 222 156 223 156 223 122 224 109 224 98 225 97 227 93 237 93 241 98 243 101 244 101 244 117 l 244 134 258 134 273 134 273 106 273 78 252 78 232 78 229 74 s 224 69 224 65 230 60 l 234 57 253 57 273 57 273 46 s 273 37 273 35 275 33 277 30 282 29 286 31 291 33 293 37 293 47 l 293 57 302 57 s 309 57 311 57 312 58 317 63 316 71 312 74 310 76 308 77 301 77 l 293 77 293 105 293 134 303 134 313 134 316 137 s 318 140 319 142 319 145 319 147 318 149 316 152 l 313 156 303 156 293 156 293 164 s 293 174 291 179 286 181 282 184 282 184 278 182  m 133 178 s 131 175 130 174 131 170 131 164 134 161 145 156 158 150 173 139 173 136 173 135 161 120 154 111 l 149 105 145 110 s 137 117 132 118 128 112 124 107 125 104 131 95 143 79 149 64 151 47 153 38 156 31 160 28 162 26 163 26 165 27 168 29 171 32 171 36 l 171 39 187 39 s 204 39 204 39 207 41 208 42 211 46 212 48 214 52 214 54 213 65 211 105 199 138 179 157 168 169 151 179 141 180 137 181 136 180 133 178  m 186 107 s 191 93 194 81 194 72 194 60 194 60 180 60 167 60 168 59 163 75 l 160 86 167 96 s 172 102 177 109 178 112 180 115 182 116 183 116 183 115 185 111 186 107m 360 180 n 212 316 s 210 315 208 315 208 315 208 315 207 313 206 311 205 308 205 301 205 277 205 260 204 247 204 247 204 247 200 249 197 252 181 266 160 279 138 290 120 298 118 299 114 297 110 295 106 291 106 286 105 280 108 278 123 272 147 261 167 248 186 229 l 199 216 158 216 118 215 115 212 s 113 210 112 209 112 205 112 201 112 200 115 197 l 119 195 161 195 204 195 205 183 s 205 173 205 172 208 170 211 167 219 167 224 169 228 171 230 175 230 185 l 230 195 275 195 320 195 323 198 s 326 201 327 202 326 206 326 208 325 211 323 212 l 320 215 277 216 234 216 242 225 s 260 246 291 267 320 279 323 280 326 282 327 283 331 287 328 297 321 300 317 301 312 300 297 292 279 283 265 274 243 256 236 251 230 247 230 247 230 247 230 261 230 278 230 309 229 310 227 313 226 314 224 316 222 316 217 318 217 318 212 316  m 51 302 s 46 301 42 298 41 295 40 293 40 275 40 169 40 31 39 40 46 36 50 34 52 34 71 34 95 34 98 34 102 41 104 44 104 46 104 169 104 287 104 293 102 296 99 302 96 303 73 302 62 302 52 302 51 302  m 83 282 s 84 281 84 267 84 172 84 113 84 63 84 61 83 55 81 55 73 55 60 55 62 41 62 170 62 258 62 281 63 282 65 283 81 282 83 282  m 278 182 s 274 180 273 177 273 165 l 273 156 253 156 s 222 156 223 156 223 122 224 109 224 98 225 97 227 93 237 93 241 98 243 101 244 101 244 117 l 244 134 258 134 273 134 273 106 273 78 252 78 232 78 229 74 s 224 69 224 65 230 60 l 234 57 253 57 273 57 273 46 s 273 37 273 35 275 33 277 30 282 29 286 31 291 33 293 37 293 47 l 293 57 302 57 s 309 57 311 57 312 58 317 63 316 71 312 74 310 76 308 77 301 77 l 293 77 293 105 293 134 303 134 313 134 316 137 s 318 140 319 142 319 145 319 147 318 149 316 152 l 313 156 303 156 293 156 293 164 s 293 174 291 179 286 181 282 184 282 184 278 182  m 133 178 s 131 175 130 174 131 170 131 164 134 161 145 156 158 150 173 139 173 136 173 135 161 120 154 111 l 149 105 145 110 s 137 117 132 118 128 112 124 107 125 104 131 95 143 79 149 64 151 47 153 38 156 31 160 28 162 26 163 26 165 27 168 29 171 32 171 36 l 171 39 187 39 s 204 39 204 39 207 41 208 42 211 46 212 48 214 52 214 54 213 65 211 105 199 138 179 157 168 169 151 179 141 180 137 181 136 180 133 178  m 186 107 s 191 93 194 81 194 72 194 60 194 60 180 60 167 60 168 59 163 75 l 160 86 167 96 s 172 102 177 109 178 112 180 115 182 116 183 116 183 115 185 111 186 107  那不是比本大爷还过分嘛</font></p>
+<p begin="7471400000t" end="7550600000t" region="bottomCenter" style="s1" xml:id="subtitle272"><font face="方正准圆_GBK" size="45">瞄一眼都知道那根本就不是一个小孩子从内部就能解决的气氛嘛  啊！</font></p>
+<p begin="7563300000t" end="7581500000t" region="bottomCenter" style="s1" xml:id="subtitle273"><font face="方正准圆_GBK" size="45">没什么  就这样吧</font></p>
+<p begin="7568700000t" end="7583700000t" region="bottomCenter" style="s1" xml:id="subtitle274"><font face="方正准圆_GBK" size="33">{\an8}（已经是过去的事情了）</font></p>
+<p begin="7587100000t" end="7615500000t" region="bottomCenter" style="s1" xml:id="subtitle275"><font face="方正准圆_GBK" size="45">抚子也不觉得有什么困扰</font></p>
+<p begin="7613700000t" end="7627500000t" region="bottomCenter" style="s1" xml:id="subtitle276"><font face="方正准圆_GBK" size="33">{\an8}（已经是完全过去的事情了）</font></p>
+<p begin="7616700000t" end="7623000000t" region="bottomCenter" style="s1" xml:id="subtitle277"><font face="方正准圆_GBK" size="45">没关系</font></p>
+<p begin="7629700000t" end="7640000000t" region="bottomCenter" style="s1" xml:id="subtitle278"><font face="方正准圆_GBK" size="45">没有困扰？</font></p>
+<p begin="7643100000t" end="7652200000t" region="bottomCenter" style="s1" xml:id="subtitle279"><font face="方正准圆_GBK" size="45">没有困扰</font></p>
+<p begin="7655000000t" end="7665000000t" region="bottomCenter" style="s1" xml:id="subtitle280"><font face="方正准圆_GBK" size="33">{\an8}（意料之外）</font></p>
+<p begin="7659100000t" end="7691100000t" region="bottomCenter" style="s1" xml:id="subtitle281"><font face="方正准圆_GBK" size="45">因为  抚子也没做什么事情</font></p>
+<p begin="7698700000t" end="7706200000t" region="bottomCenter" style="s1" xml:id="subtitle282"><font face="方正准圆_GBK" size="45">什么都没有？</font></p>
+<p begin="7710600000t" end="7745100000t" region="bottomCenter" style="s1" xml:id="subtitle283"><font face="方正准圆_GBK" size="45">班长的工作也好  老师拜托的事情也好</font></p>
+<p begin="7745100000t" end="7767600000t" region="bottomCenter" style="s1" xml:id="subtitle284"><font face="方正准圆_GBK" size="33">{\an8}（差不多要敲预备铃了）</font></p>
+<p begin="7753700000t" end="7765400000t" region="bottomCenter" style="s1" xml:id="subtitle285"><font face="方正准圆_GBK" size="45">什么都没做</font></p>
+<p begin="7785800000t" end="7814500000t" region="bottomCenter" style="s1" xml:id="subtitle286"><font face="方正准圆_GBK" size="45">说着  抚子就开始下楼梯了</font></p>
+<p begin="7821800000t" end="7841900000t" region="bottomCenter" style="s1" xml:id="subtitle287"><font face="方正准圆_GBK" size="45">朽绳先生也安静了下来</font></p>
+<p begin="7846500000t" end="7865400000t" region="bottomCenter" style="s1" xml:id="subtitle288"><font face="方正准圆_GBK" size="45">应该是读出了周围的气氛吧</font></p>
+<p begin="7872200000t" end="7920500000t" region="bottomCenter" style="s1" xml:id="subtitle289"><font face="方正准圆_GBK" size="45">在那之后  直到放学  朽绳先生也没说过一句话</font></p>
+<p begin="7976500000t" end="7986700000t" region="bottomCenter" style="s1" xml:id="subtitle290"><font face="方正准圆_GBK" size="45">那天晚上</font></p>
+<p begin="7992900000t" end="8044100000t" region="bottomCenter" style="s1" xml:id="subtitle291"><font face="方正准圆_GBK" size="45">抚子按照和朽绳先生的约定  出门去寻找朽绳先生的尸体</font></p>
+<p begin="8079300000t" end="8094200000t" region="bottomCenter" style="s1" xml:id="subtitle292"><font face="方正准圆_GBK" size="45">悄悄地离开了家</font></p>
+<p begin="8222600000t" end="8231900000t" region="bottomCenter" style="s1" xml:id="subtitle293"><font face="方正准圆_GBK" size="45">朽绳先生</font></p>
+<p begin="8237400000t" end="8277700000t" region="bottomCenter" style="s1" xml:id="subtitle294"><font face="方正准圆_GBK" size="45">抚子该怎么去找朽绳先生的神体呢</font></p>
+<p begin="8281500000t" end="8314700000t" region="bottomCenter" style="s1" xml:id="subtitle295"><font face="方正准圆_GBK" size="45">说起来神体就是本大爷的肉体</font></p>
+<p begin="8316700000t" end="8365700000t" region="bottomCenter" style="s1" xml:id="subtitle296"><font face="方正准圆_GBK" size="45">所以靠近它的时候本大爷会像手机那样震动起来</font></p>
+<p begin="8371400000t" end="8420800000t" region="bottomCenter" style="s1" xml:id="subtitle297"><font face="方正准圆_GBK" size="45">也就是说  抚子像这样不停地走下去就好了？</font></p>
+<p begin="8423900000t" end="8447700000t" region="bottomCenter" style="s1" xml:id="subtitle298"><font face="方正准圆_GBK" size="45">怎…怎么回事</font></p>
+<p begin="8448300000t" end="8475300000t" region="bottomCenter" style="s1" xml:id="subtitle299"><font face="方正准圆_GBK" size="45">m 360 180 n 212 316 s 210 315 208 315 208 315 208 315 207 313 206 311 205 308 205 301 205 277 205 260 204 247 204 247 204 247 200 249 197 252 181 266 160 279 138 290 120 298 118 299 114 297 110 295 106 291 106 286 105 280 108 278 123 272 147 261 167 248 186 229 l 199 216 158 216 118 215 115 212 s 113 210 112 209 112 205 112 201 112 200 115 197 l 119 195 161 195 204 195 205 183 s 205 173 205 172 208 170 211 167 219 167 224 169 228 171 230 175 230 185 l 230 195 275 195 320 195 323 198 s 326 201 327 202 326 206 326 208 325 211 323 212 l 320 215 277 216 234 216 242 225 s 260 246 291 267 320 279 323 280 326 282 327 283 331 287 328 297 321 300 317 301 312 300 297 292 279 283 265 274 243 256 236 251 230 247 230 247 230 247 230 261 230 278 230 309 229 310 227 313 226 314 224 316 222 316 217 318 217 318 212 316  m 51 302 s 46 301 42 298 41 295 40 293 40 275 40 169 40 31 39 40 46 36 50 34 52 34 71 34 95 34 98 34 102 41 104 44 104 46 104 169 104 287 104 293 102 296 99 302 96 303 73 302 62 302 52 302 51 302  m 83 282 s 84 281 84 267 84 172 84 113 84 63 84 61 83 55 81 55 73 55 60 55 62 41 62 170 62 258 62 281 63 282 65 283 81 282 83 282  m 278 182 s 274 180 273 177 273 165 l 273 156 253 156 s 222 156 223 156 223 122 224 109 224 98 225 97 227 93 237 93 241 98 243 101 244 101 244 117 l 244 134 258 134 273 134 273 106 273 78 252 78 232 78 229 74 s 224 69 224 65 230 60 l 234 57 253 57 273 57 273 46 s 273 37 273 35 275 33 277 30 282 29 286 31 291 33 293 37 293 47 l 293 57 302 57 s 309 57 311 57 312 58 317 63 316 71 312 74 310 76 308 77 301 77 l 293 77 293 105 293 134 303 134 313 134 316 137 s 318 140 319 142 319 145 319 147 318 149 316 152 l 313 156 303 156 293 156 293 164 s 293 174 291 179 286 181 282 184 282 184 278 182  m 133 178 s 131 175 130 174 131 170 131 164 134 161 145 156 158 150 173 139 173 136 173 135 161 120 154 111 l 149 105 145 110 s 137 117 132 118 128 112 124 107 125 104 131 95 143 79 149 64 151 47 153 38 156 31 160 28 162 26 163 26 165 27 168 29 171 32 171 36 l 171 39 187 39 s 204 39 204 39 207 41 208 42 211 46 212 48 214 52 214 54 213 65 211 105 199 138 179 157 168 169 151 179 141 180 137 181 136 180 133 178  m 186 107 s 191 93 194 81 194 72 194 60 194 60 180 60 167 60 168 59 163 75 l 160 86 167 96 s 172 102 177 109 178 112 180 115 182 116 183 116 183 115 185 111 186 107m 360 180 n 212 316 s 210 315 208 315 208 315 208 315 207 313 206 311 205 308 205 301 205 277 205 260 204 247 204 247 204 247 200 249 197 252 181 266 160 279 138 290 120 298 118 299 114 297 110 295 106 291 106 286 105 280 108 278 123 272 147 261 167 248 186 229 l 199 216 158 216 118 215 115 212 s 113 210 112 209 112 205 112 201 112 200 115 197 l 119 195 161 195 204 195 205 183 s 205 173 205 172 208 170 211 167 219 167 224 169 228 171 230 175 230 185 l 230 195 275 195 320 195 323 198 s 326 201 327 202 326 206 326 208 325 211 323 212 l 320 215 277 216 234 216 242 225 s 260 246 291 267 320 279 323 280 326 282 327 283 331 287 328 297 321 300 317 301 312 300 297 292 279 283 265 274 243 256 236 251 230 247 230 247 230 247 230 261 230 278 230 309 229 310 227 313 226 314 224 316 222 316 217 318 217 318 212 316  m 51 302 s 46 301 42 298 41 295 40 293 40 275 40 169 40 31 39 40 46 36 50 34 52 34 71 34 95 34 98 34 102 41 104 44 104 46 104 169 104 287 104 293 102 296 99 302 96 303 73 302 62 302 52 302 51 302  m 83 282 s 84 281 84 267 84 172 84 113 84 63 84 61 83 55 81 55 73 55 60 55 62 41 62 170 62 258 62 281 63 282 65 283 81 282 83 282  m 278 182 s 274 180 273 177 273 165 l 273 156 253 156 s 222 156 223 156 223 122 224 109 224 98 225 97 227 93 237 93 241 98 243 101 244 101 244 117 l 244 134 258 134 273 134 273 106 273 78 252 78 232 78 229 74 s 224 69 224 65 230 60 l 234 57 253 57 273 57 273 46 s 273 37 273 35 275 33 277 30 282 29 286 31 291 33 293 37 293 47 l 293 57 302 57 s 309 57 311 57 312 58 317 63 316 71 312 74 310 76 308 77 301 77 l 293 77 293 105 293 134 303 134 313 134 316 137 s 318 140 319 142 319 145 319 147 318 149 316 152 l 313 156 303 156 293 156 293 164 s 293 174 291 179 286 181 282 184 282 184 278 182  m 133 178 s 131 175 130 174 131 170 131 164 134 161 145 156 158 150 173 139 173 136 173 135 161 120 154 111 l 149 105 145 110 s 137 117 132 118 128 112 124 107 125 104 131 95 143 79 149 64 151 47 153 38 156 31 160 28 162 26 163 26 165 27 168 29 171 32 171 36 l 171 39 187 39 s 204 39 204 39 207 41 208 42 211 46 212 48 214 52 214 54 213 65 211 105 199 138 179 157 168 169 151 179 141 180 137 181 136 180 133 178  m 186 107 s 191 93 194 81 194 72 194 60 194 60 180 60 167 60 168 59 163 75 l 160 86 167 96 s 172 102 177 109 178 112 180 115 182 116 183 116 183 115 185 111 186 107  喂喂  这么快就有反应啦</font></p>
+<p begin="8470400000t" end="8476700000t" region="bottomCenter" style="s1" xml:id="subtitle300"><font face="方正准圆_GBK" size="33">{\an8}（向五点方向前进！）</font></p>
+<p begin="8516600000t" end="8564600000t" region="bottomCenter" style="s1" xml:id="subtitle301"><font face="方正准圆_GBK" size="45">什…什么？难道说朽绳先生的神体埋在这个沙坑里面吗？</font></p>
+<p begin="8567700000t" end="8583500000t" region="bottomCenter" style="s1" xml:id="subtitle302"><font face="方正准圆_GBK" size="45">啊  没有错</font></p>
+<p begin="8588100000t" end="8632700000t" region="bottomCenter" style="s1" xml:id="subtitle303"><font face="方正准圆_GBK" size="45">既然朽绳先生这么说  那我就姑且找找看</font></p>
+<p begin="8670900000t" end="8693300000t" region="bottomCenter" style="s1" xml:id="subtitle304"><font face="方正准圆_GBK" size="45">咳…朽绳先生</font></p>
+<p begin="8712500000t" end="8727100000t" region="bottomCenter" style="s1" xml:id="subtitle305"><font face="方正准圆_GBK" size="45">我说  朽绳先生啊</font></p>
+<p begin="8743100000t" end="8748500000t" region="bottomCenter" style="s1" xml:id="subtitle306"><font face="方正准圆_GBK" size="45">我说</font></p>
+<p begin="8746900000t" end="8756900000t" region="bottomCenter" style="s1" xml:id="subtitle307"><font face="方正准圆_GBK" size="33">{\an8}（我说…我说…我说）</font></p>
+<p begin="8751100000t" end="8767000000t" region="bottomCenter" style="s1" xml:id="subtitle308"><font face="方正准圆_GBK" size="45">根本没有什么神体嘛</font></p>
+<p begin="8756900000t" end="8767000000t" region="bottomCenter" style="s1" xml:id="subtitle309"><font face="方正准圆_GBK" size="33">{\an8}（而朽绳先生却一言不发）</font></p>
+<p begin="8779500000t" end="8790100000t" region="bottomCenter" style="s1" xml:id="subtitle310"><font face="方正准圆_GBK" size="45">没有啦</font></p>
+<p begin="8802700000t" end="8828300000t" region="bottomCenter" style="s1" xml:id="subtitle311"><font face="方正准圆_GBK" size="45">哼哼  看来是故障了</font></p>
+<p begin="8829900000t" end="8844900000t" region="bottomCenter" style="s1" xml:id="subtitle312"><font face="方正准圆_GBK" size="45">故障？</font></p>
+<p begin="8853400000t" end="8887400000t" region="bottomCenter" style="s1" xml:id="subtitle313"><font face="方正准圆_GBK" size="45">既然发现故障就快点说嘛</font></p>
+<p begin="8890500000t" end="8910600000t" region="bottomCenter" style="s1" xml:id="subtitle314"><font face="方正准圆_GBK" size="45">话说为什么会故障啊</font></p>
+<p begin="8912900000t" end="8951800000t" region="bottomCenter" style="s1" xml:id="subtitle315"><font face="方正准圆_GBK" size="45">就像哆啦A梦的寻人手杖只有70%的命中率一样？</font></p>
+<p begin="8954500000t" end="8969900000t" region="bottomCenter" style="s1" xml:id="subtitle316"><font face="方正准圆_GBK" size="45">不…不是那样</font></p>
+<p begin="8962100000t" end="8972200000t" region="bottomCenter" style="s1" xml:id="subtitle317"><font face="方正准圆_GBK" size="33">{\an8}（狂热粉一般的比喻）</font></p>
+<p begin="8975400000t" end="9019700000t" region="bottomCenter" style="s1" xml:id="subtitle318"><font face="方正准圆_GBK" size="45">单纯来说  本大爷的灵力消散了</font></p>
+<p begin="9023800000t" end="9031800000t" region="bottomCenter" style="s1" xml:id="subtitle319"><font face="方正准圆_GBK" size="45">消散了？</font></p>
+<p begin="9034500000t" end="9055500000t" region="bottomCenter" style="s1" xml:id="subtitle320"><font face="方正准圆_GBK" size="45">就是消散得无影无踪的意思</font></p>
+<p begin="9085000000t" end="9106200000t" region="bottomCenter" style="s1" xml:id="subtitle321"><font face="方正准圆_GBK" size="45">那不管怎么说只能明天再继续了</font></p>
+<p begin="9107300000t" end="9124800000t" region="bottomCenter" style="s1" xml:id="subtitle322"><font face="方正准圆_GBK" size="33">{\an8}（朽绳先生反驳道）</font></p>
+<p begin="9109500000t" end="9141700000t" region="bottomCenter" style="s1" xml:id="subtitle323"><font face="方正准圆_GBK" size="45">喂喂  抚子妹妹  你也太会选择放手的时机了吧</font></p>
+<p begin="9142300000t" end="9157800000t" region="bottomCenter" style="s1" xml:id="subtitle324"><font face="方正准圆_GBK" size="45">这是算哪门子的天才赌徒啊</font></p>
+<p begin="9159500000t" end="9187800000t" region="bottomCenter" style="s1" xml:id="subtitle325"><font face="方正准圆_GBK" size="45">不要现在就放弃再去下一个地点碰碰运气怎么样？</font></p>
+<p begin="9191500000t" end="9207900000t" region="bottomCenter" style="s1" xml:id="subtitle326"><font face="方正准圆_GBK" size="45">不要  累死了</font></p>
+<p begin="9197000000t" end="9209500000t" region="bottomCenter" style="s1" xml:id="subtitle327"><font face="方正准圆_GBK" size="33">{\an8}（抚子同学辛苦死了）</font></p>
+<p begin="9222600000t" end="9268300000t" region="bottomCenter" style="s1" xml:id="subtitle328"><font face="方正准圆_GBK" size="45">机会难得  抚子并不只是将挖出的好几个坑埋成原状</font></p>
+<p begin="9271900000t" end="9324300000t" region="bottomCenter" style="s1" xml:id="subtitle329"><font face="方正准圆_GBK" size="45">而是堆起了小小的山和城堡  一不留神竟玩得入迷了起来</font></p>
+<p begin="9350300000t" end="9369500000t" region="bottomCenter" style="s1" xml:id="subtitle330"><font face="方正准圆_GBK" size="45">啊  可算找到了  千石！</font></p>
+<p begin="9375700000t" end="9392100000t" region="bottomCenter" style="s1" xml:id="subtitle331"><font face="方正准圆_GBK" size="45">历…历哥哥</font></p>
+<p begin="9405000000t" end="9442100000t" region="bottomCenter" style="s1" xml:id="subtitle332"><font face="方正准圆_GBK" size="45">历哥哥  本名叫阿良良木历</font></p>
+<p begin="9416400000t" end="9423400000t" region="bottomCenter" style="s1" xml:id="subtitle333"><font face="方正准圆_GBK" size="33">{\an8}（一不留神）</font></p>
+<p begin="9423400000t" end="9433500000t" region="bottomCenter" style="s1" xml:id="subtitle334"><font face="方正准圆_GBK" size="33">{\an8}（还没来得及在意帽子的戴法）</font></p>
+<p begin="9433500000t" end="9443500000t" region="bottomCenter" style="s1" xml:id="subtitle335"><font face="方正准圆_GBK" size="33">{\an8}（眼神就一下子对上了）</font></p>
+<p begin="9448600000t" end="9492200000t" region="bottomCenter" style="s1" xml:id="subtitle336"><font face="方正准圆_GBK" size="45">一脸严肃的表情  都已经这么晚了  是出来散步吗</font></p>
+<p begin="9573000000t" end="9602600000t" region="bottomCenter" style="s1" xml:id="subtitle337"><font face="方正准圆_GBK" size="45">听好了千石  就你刚才的所作所为</font></p>
+<p begin="9604300000t" end="9638900000t" region="bottomCenter" style="s1" xml:id="subtitle338"><font face="方正准圆_GBK" size="45">如果不是我  换做别人早就发火了</font></p>
+<p begin="9644500000t" end="9677000000t" region="bottomCenter" style="s1" xml:id="subtitle339"><font face="方正准圆_GBK" size="45">大半夜跑出家  四处闲逛玩耍</font></p>
+<p begin="9679900000t" end="9687900000t" region="bottomCenter" style="s1" xml:id="subtitle340"><font face="方正准圆_GBK" size="33">{\an8}（妹妹的房间）</font></p>
+<p begin="9690300000t" end="9719600000t" region="bottomCenter" style="s1" xml:id="subtitle341"><font face="方正准圆_GBK" size="45">历哥哥似乎是一直在找抚子</font></p>
+<p begin="9726600000t" end="9766900000t" region="bottomCenter" style="s1" xml:id="subtitle342"><font face="方正准圆_GBK" size="45">因为抚子的父母发现抚子不见了以后</font></p>
+<p begin="9766900000t" end="9806100000t" region="bottomCenter" style="s1" xml:id="subtitle343"><font face="方正准圆_GBK" size="45">首先想到可以打电话的联系人是月火</font></p>
+<p begin="9810500000t" end="9862500000t" region="bottomCenter" style="s1" xml:id="subtitle344"><font face="方正准圆_GBK" size="45">然后以月火的性格  自然会觉得失踪一晚上也没什么</font></p>
+<p begin="9864300000t" end="9907400000t" region="bottomCenter" style="s1" xml:id="subtitle345"><font face="方正准圆_GBK" size="45">就冒失地撒谎说抚子留宿在她家了</font></p>
+<p begin="9871000000t" end="9886000000t" region="bottomCenter" style="s1" xml:id="subtitle346"><font face="方正准圆_GBK" size="33">{\an8}（而历哥哥似乎是碰巧经过那里？）</font></p>
+<p begin="9909300000t" end="9940200000t" region="bottomCenter" style="s1" xml:id="subtitle347"><font face="方正准圆_GBK" size="45">你傻啊！千石要是灭绝了可怎么办！</font></p>
+<p begin="9942700000t" end="9979500000t" region="bottomCenter" style="s1" xml:id="subtitle348"><font face="方正准圆_GBK" size="45">历哥哥这么说道  然后开始在全镇寻找抚子</font></p>
+<p begin="9974800000t" end="9984800000t" region="bottomCenter" style="s1" xml:id="subtitle349"><font face="方正准圆_GBK" size="33">{\an8}（历的房间）</font></p>
+<p begin="9987400000t" end="10014100000t" region="bottomCenter" style="s1" xml:id="subtitle350"><font face="方正准圆_GBK" size="45">真是的  要不是被我找到</font></p>
+<p begin="10016200000t" end="10033300000t" region="bottomCenter" style="s1" xml:id="subtitle351"><font face="方正准圆_GBK" size="45">这会儿还不知会发生什么呢</font></p>
+<p begin="10039500000t" end="10050200000t" region="bottomCenter" style="s1" xml:id="subtitle352"><font face="方正准圆_GBK" size="45">对不起</font></p>
+<p begin="10052100000t" end="10079100000t" region="bottomCenter" style="s1" xml:id="subtitle353"><font face="方正准圆_GBK" size="45">不  你知道反省就够了</font></p>
+<p begin="10089500000t" end="10105000000t" region="bottomCenter" style="s1" xml:id="subtitle354"><font face="方正准圆_GBK" size="33">{\an8}（提问）</font></p>
+<p begin="10092300000t" end="10144600000t" region="bottomCenter" style="s1" xml:id="subtitle355"><font face="方正准圆_GBK" size="45">话说因为什么  为什么你这个乖孩子会大半夜出门闲逛？</font></p>
+<p begin="10144600000t" end="10155000000t" region="bottomCenter" style="s1" xml:id="subtitle356"><font face="方正准圆_GBK" size="33">{\an8}（因为）</font></p>
+<p begin="10155000000t" end="10162500000t" region="bottomCenter" style="s1" xml:id="subtitle357"><font face="方正准圆_GBK" size="33">{\an8}（和六月的时候不同）</font></p>
+<p begin="10170600000t" end="10199400000t" region="bottomCenter" style="s1" xml:id="subtitle358"><font face="方正准圆_GBK" size="45">千石  难道说…难道说你</font></p>
+<p begin="10201800000t" end="10230300000t" region="bottomCenter" style="s1" xml:id="subtitle359"><font face="方正准圆_GBK" size="45">难道说你昨天晚上电话里是在跟我撒谎</font></p>
+<p begin="10232300000t" end="10250100000t" region="bottomCenter" style="s1" xml:id="subtitle360"><font face="方正准圆_GBK" size="45">其实真的被什么麻烦的事情缠身了？</font></p>
+<p begin="10260100000t" end="10282600000t" region="bottomCenter" style="s1" xml:id="subtitle361"><font face="方正准圆_GBK" size="33">{\an8}（抚子  不是被害者）</font></p>
+<p begin="10264500000t" end="10279900000t" region="bottomCenter" style="s1" xml:id="subtitle362"><font face="方正准圆_GBK" size="45">不…不是的</font></p>
+<p begin="10284700000t" end="10322700000t" region="bottomCenter" style="s1" xml:id="subtitle363"><font face="方正准圆_GBK" size="45">啊是吗  不是啊  那太好了</font></p>
+<p begin="10309700000t" end="10320200000t" region="bottomCenter" style="s1" xml:id="subtitle364"><font face="方正准圆_GBK" size="33">{\an8}（好像是相信了）</font></p>
+<p begin="10334700000t" end="10381700000t" region="bottomCenter" style="s1" xml:id="subtitle365"><font face="方正准圆_GBK" size="45">我还以为你是背着我  被怪异的花言巧语蒙骗</font></p>
+<p begin="10384100000t" end="10417500000t" region="bottomCenter" style="s1" xml:id="subtitle366"><font face="方正准圆_GBK" size="45">还任由其摆布去帮忙做些找东西之类的事情</font></p>
+<p begin="10419100000t" end="10440890000t" region="bottomCenter" style="s1" xml:id="subtitle367"><font face="方正准圆_GBK" size="45">所以才会去挖那个沙坑</font></p>
+<p begin="10446600000t" end="10466600000t" region="bottomCenter" style="s1" xml:id="subtitle368"><font face="方正准圆_GBK" size="45">完全…不是那样</font></p>
+<p begin="10454100000t" end="10466600000t" region="bottomCenter" style="s1" xml:id="subtitle369"><font face="方正准圆_GBK" size="33">{\an8}（Bingo了）</font></p>
+<p begin="10469700000t" end="10532200000t" region="bottomCenter" style="s1" xml:id="subtitle370"><font face="方正准圆_GBK" size="45">只是现在班上有很多麻烦  抚子又是班长</font></p>
+<p begin="10519100000t" end="10529100000t" region="bottomCenter" style="s1" xml:id="subtitle371"><font face="方正准圆_GBK" size="33">{\an8}（这样的借口）</font></p>
+<p begin="10529100000t" end="10539100000t" region="bottomCenter" style="s1" xml:id="subtitle372"><font face="方正准圆_GBK" size="33">{\an8}（其实都是来源于抚子的现实生活）</font></p>
+<p begin="10557700000t" end="10606100000t" region="bottomCenter" style="s1" xml:id="subtitle373"><font face="方正准圆_GBK" size="45">觉得心里很难过  不知不觉就走出了家</font></p>
+<p begin="10608500000t" end="10624200000t" region="bottomCenter" style="s1" xml:id="subtitle374"><font face="方正准圆_GBK" size="45">啊  原来如此</font></p>
+<p begin="10628100000t" end="10646700000t" region="bottomCenter" style="s1" xml:id="subtitle375"><font face="方正准圆_GBK" size="45">这种事也有可能啊</font></p>
+<p begin="10652100000t" end="10676200000t" region="bottomCenter" style="s1" xml:id="subtitle376"><font face="方正准圆_GBK" size="45">可是  虽然我能理解你的心情</font></p>
+<p begin="10678900000t" end="10713500000t" region="bottomCenter" style="s1" xml:id="subtitle377"><font face="方正准圆_GBK" size="45">但是千石  只是一味逃避是无法解决任何事情的</font></p>
+<p begin="10717300000t" end="10743800000t" region="bottomCenter" style="s1" xml:id="subtitle378"><font face="方正准圆_GBK" size="45">只是逃避…无法解决…</font></p>
+<p begin="10746200000t" end="10797800000t" region="bottomCenter" style="s1" xml:id="subtitle379"><font face="方正准圆_GBK" size="45">所以说  找我商量不就好了  教室里的那些麻烦也是</font></p>
+<p begin="10802700000t" end="10830700000t" region="bottomCenter" style="s1" xml:id="subtitle380"><font face="方正准圆_GBK" size="45">怎么  难道还是和贝木的那些咒语有关？</font></p>
+<p begin="10846500000t" end="10854100000t" region="bottomCenter" style="s1" xml:id="subtitle381"><font face="方正准圆_GBK" size="45">不是</font></p>
+<p begin="10858100000t" end="10917700000t" region="bottomCenter" style="s1" xml:id="subtitle382"><font face="方正准圆_GBK" size="45">千石  你既然身为初中生  有什么烦恼也很正常</font></p>
+<p begin="10865300000t" end="10875700000t" region="bottomCenter" style="s1" xml:id="subtitle383"><font face="方正准圆_GBK" size="33">{\an8}（被他用认真的表情）</font></p>
+<p begin="10875700000t" end="10885700000t" region="bottomCenter" style="s1" xml:id="subtitle384"><font face="方正准圆_GBK" size="33">{\an8}（教训了一通）</font></p>
+<p begin="10924300000t" end="10945000000t" region="bottomCenter" style="s1" xml:id="subtitle385"><font face="方正准圆_GBK" size="45">但你也用不着一个人承担吧</font></p>
+<p begin="10950700000t" end="10984300000t" region="bottomCenter" style="s1" xml:id="subtitle386"><font face="方正准圆_GBK" size="45">我其实也未必能帮你解决什么</font></p>
+<p begin="10987000000t" end="11018900000t" region="bottomCenter" style="s1" xml:id="subtitle387"><font face="方正准圆_GBK" size="45">但听你诉诉苦这种程度还是做得到的</font></p>
+<p begin="11025900000t" end="11071100000t" region="bottomCenter" style="s1" xml:id="subtitle388"><font face="方正准圆_GBK" size="45">是…是啊  以后再有什么麻烦的时候</font></p>
+<p begin="11072700000t" end="11105500000t" region="bottomCenter" style="s1" xml:id="subtitle389"><font face="方正准圆_GBK" size="45">抚子不会一个人闷着  会向历哥哥倾诉的</font></p>
+<p begin="11107900000t" end="11123900000t" region="bottomCenter" style="s1" xml:id="subtitle390"><font face="方正准圆_GBK" size="45">啊  就这样吧</font></p>
+<p begin="11133800000t" end="11163300000t" region="bottomCenter" style="s1" xml:id="subtitle391"><font face="方正准圆_GBK" size="45">总之  今天你也累了  先休息吧</font></p>
+<p begin="11165700000t" end="11173900000t" region="bottomCenter" style="s1" xml:id="subtitle392"><font face="方正准圆_GBK" size="45">休息？</font></p>
+<p begin="11177700000t" end="11185300000t" region="bottomCenter" style="s1" xml:id="subtitle393"><font face="方正准圆_GBK" size="45">稍等一下</font></p>
+<p begin="11196500000t" end="11201900000t" region="bottomCenter" style="s1" xml:id="subtitle394"><font face="方正准圆_GBK" size="33">{\an8}（这是去哪儿了呢？）</font></p>
+<p begin="11223400000t" end="11272800000t" region="bottomCenter" style="s1" xml:id="subtitle395"><font face="方正准圆_GBK" size="45">我说  朽绳先生  不要紧吧  没有露馅吧</font></p>
+<p begin="11294200000t" end="11302800000t" region="bottomCenter" style="s1" xml:id="subtitle396"><font face="方正准圆_GBK" size="45">朽绳先生？</font></p>
+<p begin="11380800000t" end="11390800000t" region="bottomCenter" style="s1" xml:id="subtitle397"><font face="方正准圆_GBK" size="33">{\an8}（说着  历哥哥就回来了）</font></p>
+<p begin="11383300000t" end="11390800000t" region="bottomCenter" style="s1" xml:id="subtitle398"><font face="方正准圆_GBK" size="45">让你久等了</font></p>
+<p begin="11394600000t" end="11400800000t" region="bottomCenter" style="s1" xml:id="subtitle399"><font face="方正准圆_GBK" size="45">给你这个</font></p>
+<p begin="11408300000t" end="11435100000t" region="bottomCenter" style="s1" xml:id="subtitle400"><font face="方正准圆_GBK" size="45">睡衣  找月火借来的</font></p>
+<p begin="11446700000t" end="11458000000t" region="bottomCenter" style="s1" xml:id="subtitle401"><font face="方正准圆_GBK" size="45">今晚就住在这儿吧</font></p>
+<p begin="11458000000t" end="11470900000t" region="bottomCenter" style="s1" xml:id="subtitle402"><font face="方正准圆_GBK" size="33">{\an8}（不是暗示  而是直接说道  直言不讳）</font></p>
+<p begin="11461300000t" end="11469500000t" region="bottomCenter" style="s1" xml:id="subtitle403"><font face="方正准圆_GBK" size="45">已经这么了</font></p>
+<p begin="11473700000t" end="11497800000t" region="bottomCenter" style="s1" xml:id="subtitle404"><font face="方正准圆_GBK" size="45">那…那抚子该睡哪个房间呢</font></p>
+<p begin="11499900000t" end="11522500000t" region="bottomCenter" style="s1" xml:id="subtitle405"><font face="方正准圆_GBK" size="45">啊？这个…什么哪个房间？</font></p>
+<p begin="11529100000t" end="11573100000t" region="bottomCenter" style="s1" xml:id="subtitle406"><font face="方正准圆_GBK" size="45">我家也没这么多房间  只能在这里睡了呗</font></p>
+<p begin="11576200000t" end="11619800000t" region="bottomCenter" style="s1" xml:id="subtitle407"><font face="方正准圆_GBK" size="45">睡在历哥哥的房间…睡在历哥哥的床上？！</font></p>
+<p begin="11621900000t" end="11640100000t" region="bottomCenter" style="s1" xml:id="subtitle408"><font face="方正准圆_GBK" size="45">嗯  就是这样</font></p>
+<p begin="11644900000t" end="11667300000t" region="bottomCenter" style="s1" xml:id="subtitle409"><font face="方正准圆_GBK" size="45">你都这么累了  床就给你睡吧</font></p>
+<p begin="11669100000t" end="11713000000t" region="bottomCenter" style="s1" xml:id="subtitle410"><font face="方正准圆_GBK" size="45">这…这怎么行  床…床还是历哥哥睡吧</font></p>
+<p begin="11715100000t" end="11754500000t" region="bottomCenter" style="s1" xml:id="subtitle411"><font face="方正准圆_GBK" size="45">抚抚抚抚子睡床底下就行了！</font></p>
+<p begin="11757700000t" end="11781500000t" region="bottomCenter" style="s1" xml:id="subtitle412"><font face="方正准圆_GBK" size="45">这是什么思路啊  太吓人了</font></p>
+<p begin="11771200000t" end="11782500000t" region="bottomCenter" style="s1" xml:id="subtitle413"><font face="方正准圆_GBK" size="33">{\an8}（让人都没法安心睡觉了）</font></p>
+<p begin="11785100000t" end="11799900000t" region="bottomCenter" style="s1" xml:id="subtitle414"><font face="方正准圆_GBK" size="45">你就睡床上去吧</font></p>
+<p begin="11804700000t" end="11847300000t" region="bottomCenter" style="s1" xml:id="subtitle415"><font face="方正准圆_GBK" size="45">让初中女生睡在床底下会成大问题的</font></p>
+<p begin="11852200000t" end="11883800000t" region="bottomCenter" style="s1" xml:id="subtitle416"><font face="方正准圆_GBK" size="45">会被Fire sisters施以恐怖的制裁的</font></p>
+<p begin="11887100000t" end="11937600000t" region="bottomCenter" style="s1" xml:id="subtitle417"><font face="方正准圆_GBK" size="45">但…但是  把历哥哥赶走  抚子一个人睡在床上</font></p>
+<p begin="11937600000t" end="11946200000t" region="bottomCenter" style="s1" xml:id="subtitle418"><font face="方正准圆_GBK" size="45">这种事抚子可做不到</font></p>
+<p begin="11949100000t" end="11967400000t" region="bottomCenter" style="s1" xml:id="subtitle419"><font face="方正准圆_GBK" size="45">啊  不不  没问题的</font></p>
+<p begin="11954700000t" end="11962600000t" region="bottomCenter" style="s1" xml:id="subtitle420"><font face="方正准圆_GBK" size="33">{\an8}（就好像一点问题都没有的语气）</font></p>
+<p begin="11962600000t" end="11969700000t" region="bottomCenter" style="s1" xml:id="subtitle421"><font face="方正准圆_GBK" size="33">{\an8}（笑道）</font></p>
+<p begin="11971000000t" end="11999800000t" region="bottomCenter" style="s1" xml:id="subtitle422"><font face="方正准圆_GBK" size="45">那张床还是睡得下两个人的</font></p>
+<p begin="12013700000t" end="12033300000t" region="bottomCenter" style="s1" xml:id="subtitle423"><font face="方正准圆_GBK" size="45">吸血鬼铁拳！</font></p>
+<p begin="12087800000t" end="12103600000t" region="bottomCenter" style="s1" xml:id="subtitle424"><font face="方正准圆_GBK" size="45">好危险啊</font></p>
+<p begin="12107000000t" end="12156600000t" region="bottomCenter" style="s1" xml:id="subtitle425"><font face="方正准圆_GBK" size="45">再差一点就要扯上什么东京都条例了  哎呀哎呀</font></p>
+<p begin="12168200000t" end="12178100000t" region="bottomCenter" style="s1" xml:id="subtitle426"><font face="方正准圆_GBK" size="45">然后</font></p>
+<p begin="12193800000t" end="12254500000t" region="bottomCenter" style="s1" xml:id="subtitle427"><font face="方正准圆_GBK" size="45">因为感觉是相连的  吾主人的疼痛也同样是吾的疼痛</font></p>
+<p begin="12272300000t" end="12320900000t" region="bottomCenter" style="s1" xml:id="subtitle428"><font face="方正准圆_GBK" size="45">但如果让他在有痛感之前就昏过去  就没这问题了</font></p>
+<p begin="12331100000t" end="12352600000t" region="bottomCenter" style="s1" xml:id="subtitle429"><font face="方正准圆_GBK" size="45">没事吧  刘海小妹</font></p>
+<p begin="12358900000t" end="12397100000t" region="bottomCenter" style="s1" xml:id="subtitle430"><font face="方正准圆_GBK" size="45">千钧一发  好在还是赶上了</font></p>
+<p begin="12400500000t" end="12437100000t" region="bottomCenter" style="s1" xml:id="subtitle431"><font face="方正准圆_GBK" size="45">差一点汝就要在这般年纪生小孩了</font></p>
+<p begin="12440700000t" end="12464300000t" region="bottomCenter" style="s1" xml:id="subtitle432"><font face="方正准圆_GBK" size="45">有…有这么严重吗</font></p>
+<p begin="12467900000t" end="12507100000t" region="bottomCenter" style="s1" xml:id="subtitle433"><font face="方正准圆_GBK" size="45">这么一看确实可以理解了</font></p>
+<p begin="12511000000t" end="12564600000t" region="bottomCenter" style="s1" xml:id="subtitle434"><font face="方正准圆_GBK" size="45">难怪吾主人会如此倾心于汝  容貌毕竟如此端丽</font></p>
+<p begin="12575300000t" end="12583300000t" region="bottomCenter" style="s1" xml:id="subtitle435"><font face="方正准圆_GBK" size="33">{\an8}（从嘴角可以看见尖牙）</font></p>
+<p begin="12586600000t" end="12602200000t" region="bottomCenter" style="s1" xml:id="subtitle436"><font face="方正准圆_GBK" size="45">可爱得仅次于吾！</font></p>
+<p begin="12615700000t" end="12653500000t" region="bottomCenter" style="s1" xml:id="subtitle437"><font face="方正准圆_GBK" size="45">总之呢刘海小妹  就像吾之主人说的</font></p>
+<p begin="12655400000t" end="12678500000t" region="bottomCenter" style="s1" xml:id="subtitle438"><font face="方正准圆_GBK" size="45">今晚汝就睡在那张床上好了</font></p>
+<p begin="12682500000t" end="12743800000t" region="bottomCenter" style="s1" xml:id="subtitle439"><font face="方正准圆_GBK" size="45">吾会把吾主人拉到一楼沙发上睡  汝尽管放心好了</font></p>
+<p begin="12753900000t" end="12761400000t" region="bottomCenter" style="s1" xml:id="subtitle440"><font face="方正准圆_GBK" size="33">{\an8}（为了抚子）</font></p>
+<p begin="12761400000t" end="12768900000t" region="bottomCenter" style="s1" xml:id="subtitle441"><font face="方正准圆_GBK" size="33">{\an8}（让人家这么费心）</font></p>
+<p begin="12787400000t" end="12796400000t" region="bottomCenter" style="s1" xml:id="subtitle442"><font face="方正准圆_GBK" size="45">对不起</font></p>
+<p begin="12800600000t" end="12828900000t" region="bottomCenter" style="s1" xml:id="subtitle443"><font face="方正准圆_GBK" size="45">哼  真是个爱道歉的小姑娘</font></p>
+<p begin="12846200000t" end="12862900000t" region="bottomCenter" style="s1" xml:id="subtitle444"><font face="方正准圆_GBK" size="45">不过汝为什么要道歉呢</font></p>
+<p begin="12867000000t" end="12894500000t" region="bottomCenter" style="s1" xml:id="subtitle445"><font face="方正准圆_GBK" size="45">汝是觉得做了自己错事才道歉的呢</font></p>
+<p begin="12897400000t" end="12930600000t" region="bottomCenter" style="s1" xml:id="subtitle446"><font face="方正准圆_GBK" size="45">还是觉得这该是道歉的场合</font></p>
+<p begin="12931300000t" end="12977900000t" region="bottomCenter" style="s1" xml:id="subtitle447"><font face="方正准圆_GBK" size="45">读着剧本  读着周围的气氛才道歉的呢  究竟是哪个呢</font></p>
+<p begin="12995400000t" end="13010300000t" region="bottomCenter" style="s1" xml:id="subtitle448"><font face="方正准圆_GBK" size="45">保持沉默啊</font></p>
+<p begin="13018200000t" end="13056200000t" region="bottomCenter" style="s1" xml:id="subtitle449"><font face="方正准圆_GBK" size="45">不过  就此而言吾也没法说汝</font></p>
+<p begin="13061500000t" end="13098300000t" region="bottomCenter" style="s1" xml:id="subtitle450"><font face="方正准圆_GBK" size="45">毕竟吾也曾经沉默过相当长的时间呢</font></p>
+<p begin="13121800000t" end="13157700000t" region="bottomCenter" style="s1" xml:id="subtitle451"><font face="方正准圆_GBK" size="45">咔咔  咔咔咔  咔咔咔咔咔咔咔</font></p>
+<p begin="13165100000t" end="13178000000t" region="bottomCenter" style="s1" xml:id="subtitle452"><font face="方正准圆_GBK" size="33">{\an8}（沉默结束  抚子开口问道）</font></p>
+<p begin="13166900000t" end="13212200000t" region="bottomCenter" style="s1" xml:id="subtitle453"><font face="方正准圆_GBK" size="45">那…那个  有什么…好笑的？</font></p>
+<p begin="13214900000t" end="13280200000t" region="bottomCenter" style="s1" xml:id="subtitle454"><font face="方正准圆_GBK" size="45">好笑？没什么好笑的  吾笑只是表示吾理解了</font></p>
+<p begin="13295300000t" end="13370300000t" region="bottomCenter" style="s1" xml:id="subtitle455"><font face="方正准圆_GBK" size="45">只是这样不断颤抖就会让人失去杀意的汝  还真是有好处呢</font></p>
+<p begin="13374200000t" end="13385700000t" region="bottomCenter" style="s1" xml:id="subtitle456"><font face="方正准圆_GBK" size="45">我指的就是这些</font></p>
+<p begin="13404200000t" end="13435400000t" region="bottomCenter" style="s1" xml:id="subtitle457"><font face="方正准圆_GBK" size="45">才不是…什么好处呢</font></p>
+<p begin="13440300000t" end="13453000000t" region="bottomCenter" style="s1" xml:id="subtitle458"><font face="方正准圆_GBK" size="45">真的吗</font></p>
+<p begin="13467100000t" end="13503800000t" region="bottomCenter" style="s1" xml:id="subtitle459"><font face="方正准圆_GBK" size="45">难道汝没有因为沉默不语  就被大家亲切对待吗</font></p>
+<p begin="13509000000t" end="13541900000t" region="bottomCenter" style="s1" xml:id="subtitle460"><font face="方正准圆_GBK" size="45">难道汝没有因为沉默不语  就被大家认为头脑聪明吗</font></p>
+<p begin="13548500000t" end="13608900000t" region="bottomCenter" style="s1" xml:id="subtitle461"><font face="方正准圆_GBK" size="45">难道不是即便失败也不会惹人发火  即便撒谎也能被原谅吗</font></p>
+<p begin="13618900000t" end="13633700000t" region="bottomCenter" style="s1" xml:id="subtitle462"><font face="方正准圆_GBK" size="45">那…那些…</font></p>
+<p begin="13634700000t" end="13661800000t" region="bottomCenter" style="s1" xml:id="subtitle463"><font face="方正准圆_GBK" size="33">{\an8}（仿佛竭尽全力地反驳道）</font></p>
+<p begin="13640100000t" end="13684200000t" region="bottomCenter" style="s1" xml:id="subtitle464"><font face="方正准圆_GBK" size="45">那些都是坏处  才不是什么好处呢</font></p>
+<p begin="13690500000t" end="13720900000t" region="bottomCenter" style="s1" xml:id="subtitle465"><font face="方正准圆_GBK" size="45">那些只是类似歧视一样的东西</font></p>
+<p begin="13723900000t" end="13738200000t" region="bottomCenter" style="s1" xml:id="subtitle466"><font face="方正准圆_GBK" size="45">抚子我…</font></p>
+<p begin="13738200000t" end="13745700000t" region="bottomCenter" style="s1" xml:id="subtitle467"><font face="方正准圆_GBK" size="33">{\an8}（可她根本没有听我说话——）</font></p>
+<p begin="13739000000t" end="13787700000t" region="bottomCenter" style="s1" xml:id="subtitle468"><font face="方正准圆_GBK" size="45">难道不是有麻烦的时候  就会有人主动过来帮忙吗</font></p>
+<p begin="13791400000t" end="13823300000t" region="bottomCenter" style="s1" xml:id="subtitle469"><font face="方正准圆_GBK" size="45">和人吵架的时候  也会被人自然而然地当做受害者</font></p>
+<p begin="13836700000t" end="13877300000t" region="bottomCenter" style="s1" xml:id="subtitle470"><font face="方正准圆_GBK" size="45">哼  吾之前还以为汝是特意装成这个样子的</font></p>
+<p begin="13879100000t" end="13897400000t" region="bottomCenter" style="s1" xml:id="subtitle471"><font face="方正准圆_GBK" size="45">但看起来又不是那样</font></p>
+<p begin="13903400000t" end="13938300000t" region="bottomCenter" style="s1" xml:id="subtitle472"><font face="方正准圆_GBK" size="45">就是说  汝是与生俱来的  未经过任何努力</font></p>
+<p begin="13939100000t" end="13963800000t" region="bottomCenter" style="s1" xml:id="subtitle473"><font face="方正准圆_GBK" size="45">就成就了你如此的可爱  如此的所作所为吗</font></p>
+<p begin="13971400000t" end="13984200000t" region="bottomCenter" style="s1" xml:id="subtitle474"><font face="方正准圆_GBK" size="45">与生俱来的可爱</font></p>
+<p begin="13988100000t" end="14026300000t" region="bottomCenter" style="s1" xml:id="subtitle475"><font face="方正准圆_GBK" size="45">顺便一提  像汝这种人在日语里有个词来形容</font></p>
+<p begin="14026900000t" end="14036800000t" region="bottomCenter" style="s1" xml:id="subtitle476"><font face="方正准圆_GBK" size="45">汝知道是什么吗</font></p>
+<p begin="14054300000t" end="14086400000t" region="bottomCenter" style="s1" xml:id="subtitle477"><font face="方正准圆_GBK" size="45">喂喂  吾在问汝话呢  回答便是了</font></p>
+<p begin="14090500000t" end="14108300000t" region="bottomCenter" style="s1" xml:id="subtitle478"><font face="方正准圆_GBK" size="45">不…不知道</font></p>
+<p begin="14117400000t" end="14133700000t" region="bottomCenter" style="s1" xml:id="subtitle479"><font face="方正准圆_GBK" size="45">凶…「凶恶」？</font></p>
+<p begin="14124800000t" end="14134800000t" region="bottomCenter" style="s1" xml:id="subtitle480"><font face="方正准圆_GBK" size="33">{\an8}（凶恶）</font></p>
+<p begin="14137100000t" end="14151900000t" region="bottomCenter" style="s1" xml:id="subtitle481"><font face="方正准圆_GBK" size="45">是「魔性」</font></p>
+<p begin="14151900000t" end="14154600000t" region="bottomCenter" style="s1" xml:id="subtitle482"><font face="方正准圆_GBK" size="45">是「魔性」</font></p>
+<p begin="14161300000t" end="14209400000t" region="bottomCenter" style="s1" xml:id="subtitle483"><font face="方正准圆_GBK" size="45">换句话说  汝比怪异更接近妖魔的领域</font></p>
+<p begin="14217000000t" end="14227400000t" region="bottomCenter" style="s1" xml:id="subtitle484"><font face="方正准圆_GBK" size="33">{\an8}（轻蔑）</font></p>
+<p begin="14218300000t" end="14227400000t" region="bottomCenter" style="s1" xml:id="subtitle485"><font face="方正准圆_GBK" size="45">咔咔咔</font></p>
+<p begin="14231100000t" end="14267100000t" region="bottomCenter" style="s1" xml:id="subtitle486"><font face="方正准圆_GBK" size="45">算啦算啦  不说了  抱歉抱歉  我说过头了</font></p>
+<p begin="14264900000t" end="14277500000t" region="bottomCenter" style="s1" xml:id="subtitle487"><font face="方正准圆_GBK" size="33">{\an8}（居高临下）</font></p>
+<p begin="14268600000t" end="14315000000t" region="bottomCenter" style="s1" xml:id="subtitle488"><font face="方正准圆_GBK" size="45">吾跟区区人类都说了些什么嘛</font></p>
+<p begin="14320700000t" end="14358300000t" region="bottomCenter" style="s1" xml:id="subtitle489"><font face="方正准圆_GBK" size="45">汝维持现状就好  就这样活下去</font></p>
+<p begin="14360500000t" end="14377000000t" region="bottomCenter" style="s1" xml:id="subtitle490"><font face="方正准圆_GBK" size="45">那都不关吾的事</font></p>
+<p begin="14380300000t" end="14400900000t" region="bottomCenter" style="s1" xml:id="subtitle491"><font face="方正准圆_GBK" size="45">就这样活着  就这样死去</font></p>
+<p begin="14406200000t" end="14450100000t" region="bottomCenter" style="s1" xml:id="subtitle492"><font face="方正准圆_GBK" size="45">就这样一辈子都让历哥哥担心去好了</font></p>
+<p begin="14462200000t" end="14491300000t" region="bottomCenter" style="s1" xml:id="subtitle493"><font face="方正准圆_GBK" size="45">真好啊  碰巧长得可爱</font></p>
+<p begin="14503400000t" end="14574500000t" region="bottomCenter" style="s1" xml:id="subtitle494"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}今もずっとその声を覚えてるから</font></p>
+<p begin="14503400000t" end="14574500000t" region="bottomCenter" style="s1" xml:id="subtitle495"><font face="华文中宋" size="39" color="#f6d440">现在我也记得你的声音</font></p>
+<p begin="14669400000t" end="14695500000t" region="bottomCenter" style="s1" xml:id="subtitle496"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}あの日走った道に</font></p>
+<p begin="14669400000t" end="14695500000t" region="bottomCenter" style="s1" xml:id="subtitle497"><font face="华文中宋" size="39" color="#f6d440">那些日子走过的路</font></p>
+<p begin="14697500000t" end="14723700000t" region="bottomCenter" style="s1" xml:id="subtitle498"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}あの日見上げた空に</font></p>
+<p begin="14697500000t" end="14723700000t" region="bottomCenter" style="s1" xml:id="subtitle499"><font face="华文中宋" size="39" color="#f6d440">那些日子仰望的天空</font></p>
+<p begin="14726100000t" end="14776200000t" region="bottomCenter" style="s1" xml:id="subtitle500"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}二度と返らない時を重ねてる</font></p>
+<p begin="14726100000t" end="14776200000t" region="bottomCenter" style="s1" xml:id="subtitle501"><font face="华文中宋" size="39" color="#f6d440">无法回去的曾经反复叠加</font></p>
+<p begin="14781800000t" end="14808200000t" region="bottomCenter" style="s1" xml:id="subtitle502"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}君は笑うだろうか</font></p>
+<p begin="14781800000t" end="14808200000t" region="bottomCenter" style="s1" xml:id="subtitle503"><font face="华文中宋" size="39" color="#f6d440">你恐怕会笑我吧</font></p>
+<p begin="14809500000t" end="14836100000t" region="bottomCenter" style="s1" xml:id="subtitle504"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}少し怒るだろうね</font></p>
+<p begin="14809500000t" end="14836100000t" region="bottomCenter" style="s1" xml:id="subtitle505"><font face="华文中宋" size="39" color="#f6d440">会有一丝生气吧</font></p>
+<p begin="14838300000t" end="14893400000t" region="bottomCenter" style="s1" xml:id="subtitle506"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}こんな諦め悪い僕のことを</font></p>
+<p begin="14838300000t" end="14893400000t" region="bottomCenter" style="s1" xml:id="subtitle507"><font face="华文中宋" size="39" color="#f6d440">我就是这么一个无法死心的人</font></p>
+<p begin="14899900000t" end="14930300000t" region="bottomCenter" style="s1" xml:id="subtitle508"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}何度でも</font></p>
+<p begin="14899900000t" end="14930300000t" region="bottomCenter" style="s1" xml:id="subtitle509"><font face="华文中宋" size="39" color="#f6d440">一次又一次</font></p>
+<p begin="14933400000t" end="14989800000t" region="bottomCenter" style="s1" xml:id="subtitle510"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}迂闊に願う可能性を清書して  （いつまでも）</font></p>
+<p begin="14933400000t" end="14989800000t" region="bottomCenter" style="s1" xml:id="subtitle511"><font face="华文中宋" size="39" color="#f6d440">将那些恍惚间许愿的可能性整理起来  （直到永远）</font></p>
+<p begin="14989700000t" end="15035400000t" region="bottomCenter" style="s1" xml:id="subtitle512"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}まだ迷いそうに騙されてたくて</font></p>
+<p begin="14989700000t" end="15035400000t" region="bottomCenter" style="s1" xml:id="subtitle513"><font face="华文中宋" size="39" color="#f6d440">都想这样迷茫地被自己所欺骗</font></p>
+<p begin="15039800000t" end="15091000000t" region="bottomCenter" style="s1" xml:id="subtitle514"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}だから「どうかせめて」なんて思う心は</font></p>
+<p begin="15039800000t" end="15091000000t" region="bottomCenter" style="s1" xml:id="subtitle515"><font face="华文中宋" size="39" color="#f6d440">因此许下这些愿望的心情</font></p>
+<p begin="15092300000t" end="15125900000t" region="bottomCenter" style="s1" xml:id="subtitle516"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}一時的な感傷だって</font></p>
+<p begin="15092300000t" end="15125900000t" region="bottomCenter" style="s1" xml:id="subtitle517"><font face="华文中宋" size="39" color="#f6d440">这些暂时的感伤</font></p>
+<p begin="15127900000t" end="15150600000t" region="bottomCenter" style="s1" xml:id="subtitle518"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}許せばいい</font></p>
+<p begin="15127900000t" end="15150600000t" region="bottomCenter" style="s1" xml:id="subtitle519"><font face="华文中宋" size="39" color="#f6d440">只要认可就好</font></p>
+<p begin="15152500000t" end="15181000000t" region="bottomCenter" style="s1" xml:id="subtitle520"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}だからそうさ君がやっと</font></p>
+<p begin="15152500000t" end="15181000000t" region="bottomCenter" style="s1" xml:id="subtitle521"><font face="华文中宋" size="39" color="#f6d440">因此请让我对你说</font></p>
+<p begin="15182300000t" end="15203800000t" region="bottomCenter" style="s1" xml:id="subtitle522"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}絶望の先で</font></p>
+<p begin="15182300000t" end="15203800000t" region="bottomCenter" style="s1" xml:id="subtitle523"><font face="华文中宋" size="39" color="#f6d440">在我绝望的时候</font></p>
+<p begin="15205700000t" end="15295700000t" region="bottomCenter" style="s1" xml:id="subtitle524"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}くれた日々に偽りなんてないと言ってあげよう</font></p>
+<p begin="15205700000t" end="15295700000t" region="bottomCenter" style="s1" xml:id="subtitle525"><font face="华文中宋" size="39" color="#f6d440">你曾给我带来的那些日子没有虚假</font></p>
+<p begin="15312600000t" end="15355500000t" region="bottomCenter" style="s1" xml:id="subtitle526"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}忘れないで</font></p>
+<p begin="15312600000t" end="15355500000t" region="bottomCenter" style="s1" xml:id="subtitle527"><font face="华文中宋" size="39" color="#f6d440">不要将我忘记</font></p>
+<p begin="15407500000t" end="15414300000t" region="bottomCenter" style="s1" xml:id="subtitle528"><font face="方正准圆_GBK" size="45">火怜Da☆Ze！</font></p>
+<p begin="15407600000t" end="15415500000t" region="bottomCenter" style="s1" xml:id="subtitle529"><font face="@方正准圆_GBK" size="33">{\an7}火怜DaZe！</font></p>
+<p begin="15415500000t" end="15423200000t" region="bottomCenter" style="s1" xml:id="subtitle530"><font face="方正准圆_GBK" size="45">月火Da☆Yo！</font></p>
+<p begin="15415500000t" end="15423400000t" region="bottomCenter" style="s1" xml:id="subtitle531"><font face="@方正准圆_GBK" size="33">{\an7}月火DaYo！</font></p>
+<p begin="15423400000t" end="15446300000t" region="bottomCenter" style="s1" xml:id="subtitle532"><font face="方正准圆_GBK" size="33">{\an8}我们是Fire Sisters！</font></p>
+<p begin="15425100000t" end="15444500000t" region="bottomCenter" style="s1" xml:id="subtitle533"><font face="方正准圆_GBK" size="45">两个人合在一起就是Fire Sisters！</font></p>
+<p begin="15446300000t" end="15456800000t" region="bottomCenter" style="s1" xml:id="subtitle534"><font face="方正准圆_GBK" size="45">预告篇Quiz！</font></p>
+<p begin="15446300000t" end="15547700000t" region="bottomCenter" style="s1" xml:id="subtitle535"><font face="方正准圆_GBK" size="33">{\an8}哎？找到神体的话就全都可以解决吗？</font></p>
+<p begin="15456800000t" end="15468900000t" region="bottomCenter" style="s1" xml:id="subtitle536"><font face="方正准圆_GBK" size="45">流程还真是正式啊</font></p>
+<p begin="15468900000t" end="15484000000t" region="bottomCenter" style="s1" xml:id="subtitle537"><font face="方正准圆_GBK" size="45">你知道「囚徒困境」吗？</font></p>
+<p begin="15484000000t" end="15501100000t" region="bottomCenter" style="s1" xml:id="subtitle538"><font face="方正准圆_GBK" size="45">知道知道  我知道得一清二楚的</font></p>
+<p begin="15501100000t" end="15553300000t" region="bottomCenter" style="s1" xml:id="subtitle539"><font face="方正准圆_GBK" size="45">明明有最佳选项而人们出于心理却不会去选  就是个这么简单的例子</font></p>
+<p begin="15547700000t" end="15650300000t" region="bottomCenter" style="s1" xml:id="subtitle540"><font face="方正准圆_GBK" size="33">{\an8}为了抚子妹妹我们要挖地三尺！</font></p>
+<p begin="15553700000t" end="15563300000t" region="bottomCenter" style="s1" xml:id="subtitle541"><font face="方正准圆_GBK" size="45">可是究竟如何呢</font></p>
+<p begin="15564700000t" end="15611700000t" region="bottomCenter" style="s1" xml:id="subtitle542"><font face="方正准圆_GBK" size="45">虽说是出于心理  如果人们真的遇到这种情况会有人背叛对方吗</font></p>
+<p begin="15613100000t" end="15638800000t" region="bottomCenter" style="s1" xml:id="subtitle543"><font face="方正准圆_GBK" size="45">老实说  我觉得条件本身就不可信</font></p>
+<p begin="15639300000t" end="15684000000t" region="bottomCenter" style="s1" xml:id="subtitle544"><font face="方正准圆_GBK" size="45">普普通通地提条件就好  可偏偏要弄得让人家容易背叛对方的情况</font></p>
+<p begin="15650300000t" end="15751700000t" region="bottomCenter" style="s1" xml:id="subtitle545"><font face="方正准圆_GBK" size="33">{\an8}明天也要加油啊！<br />我们Fire Sisters！</font></p>
+<p begin="15650300000t" end="15751700000t" region="bottomCenter" style="s1" xml:id="subtitle546"><font face="方正准圆_GBK" size="33">{\an8}呜呜  谢谢你们特意为了我…</font></p>
+<p begin="15684000000t" end="15696100000t" region="bottomCenter" style="s1" xml:id="subtitle547"><font face="方正准圆_GBK" size="45">还真是信不过啊</font></p>
+<p begin="15696100000t" end="15712300000t" region="bottomCenter" style="s1" xml:id="subtitle548"><font face="方正准圆_GBK" size="45">这样不就好了吗</font></p>
+<p begin="15714800000t" end="15738400000t" region="bottomCenter" style="s1" xml:id="subtitle549"><font face="方正准圆_GBK" size="45">你要是老实交待我就放了你的伙伴</font></p>
+<p begin="15740700000t" end="15765900000t" region="bottomCenter" style="s1" xml:id="subtitle550"><font face="方正准圆_GBK" size="45">说不定这样一来更容易让人交待呢</font></p>
+<p begin="15751700000t" end="15853000000t" region="bottomCenter" style="s1" xml:id="subtitle551"><font face="方正准圆_GBK" size="33">{\an8}对了！抚子妹妹！<br />把对Fire Sisters的感谢<br />付诸行动如何</font></p>
+<p begin="15751700000t" end="15853000000t" region="bottomCenter" style="s1" xml:id="subtitle552"><font face="@方正准圆_GBK" size="33">{\an7}也是啊</font></p>
+<p begin="15751700000t" end="15853000000t" region="bottomCenter" style="s1" xml:id="subtitle553"><font face="@方正准圆_GBK" size="33">{\an7}抚子我会加油的！</font></p>
+<p begin="15766800000t" end="15772300000t" region="bottomCenter" style="s1" xml:id="subtitle554"><font face="方正准圆_GBK" size="45">喔</font></p>
+<p begin="15773200000t" end="15803200000t" region="bottomCenter" style="s1" xml:id="subtitle555"><font face="方正准圆_GBK" size="45">不快点交待的话你的伙伴就会为了你全都交待了哟</font></p>
+<p begin="15804500000t" end="15822700000t" region="bottomCenter" style="s1" xml:id="subtitle556"><font face="方正准圆_GBK" size="45">这是讴歌友情的战略</font></p>
+<p begin="15822700000t" end="15848800000t" region="bottomCenter" style="s1" xml:id="subtitle557"><font face="方正准圆_GBK" size="45">不过奇怪的程度和残忍度好像有增无减</font></p>
+<p begin="15854500000t" end="15874700000t" region="bottomCenter" style="s1" xml:id="subtitle558"><font face="方正准圆_GBK" size="45">下集  囮物语  第三话</font></p>
+<p begin="15876000000t" end="15890300000t" region="bottomCenter" style="s1" xml:id="subtitle559"><font face="方正准圆_GBK" size="45">抚子与美杜沙  其三</font></p>
+<p begin="15892500000t" end="15906100000t" region="bottomCenter" style="s1" xml:id="subtitle560"><font face="方正准圆_GBK" size="45">你和抚子妹妹之间到底怎么了</font></p>
+<p begin="15892600000t" end="15940200000t" region="bottomCenter" style="s1" xml:id="subtitle561"><font face="方正准圆_GBK" size="33">{\an8}大骂一通</font></p>
+<p begin="15892600000t" end="15940200000t" region="bottomCenter" style="s1" xml:id="subtitle562"><font face="方正准圆_GBK" size="33">{\an8}这是为啥呀？</font></p>
+<p begin="15906100000t" end="15916800000t" region="bottomCenter" style="s1" xml:id="subtitle563"><font face="方正准圆_GBK" size="45">我要行使沉默权</font></p>
+</div>
+</body>
+</tt>

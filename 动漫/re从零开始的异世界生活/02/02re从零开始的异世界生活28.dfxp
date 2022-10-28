@@ -1,0 +1,628 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="13600000t" end="34200000t" region="bottomCenter" style="s1" xml:id="subtitle0">我的名字是艾姬多娜</p>
+<p begin="37300000t" end="52200000t" region="bottomCenter" style="s1" xml:id="subtitle1">还是你应该称呼我为</p>
+<p begin="52400000t" end="75200000t" region="bottomCenter" style="s1" xml:id="subtitle2">"强欲的魔女"比较好呢</p>
+<p begin="119800000t" end="149200000t" region="bottomCenter" style="s1" xml:id="subtitle3">被这么警戒还是会有点受伤耶</p>
+<p begin="152500000t" end="163600000t" region="bottomCenter" style="s1" xml:id="subtitle4">再怎么说我也只是</p>
+<p begin="163900000t" end="186300000t" region="bottomCenter" style="s1" xml:id="subtitle5">一个青春的少女哦</p>
+<p begin="189300000t" end="200900000t" region="bottomCenter" style="s1" xml:id="subtitle6">真是抱歉啊</p>
+<p begin="208400000t" end="215800000t" region="bottomCenter" style="s1" xml:id="subtitle7">不过对一见面</p>
+<p begin="216000000t" end="238600000t" region="bottomCenter" style="s1" xml:id="subtitle8">就称呼自己"强欲的魔女"的人</p>
+<p begin="238900000t" end="257500000t" region="bottomCenter" style="s1" xml:id="subtitle9">实在是没办法不警戒啊</p>
+<p begin="257700000t" end="268400000t" region="bottomCenter" style="s1" xml:id="subtitle10">原来如此</p>
+<p begin="276600000t" end="290100000t" region="bottomCenter" style="s1" xml:id="subtitle11">的确是这样呢</p>
+<p begin="347100000t" end="363400000t" region="bottomCenter" style="s1" xml:id="subtitle12">这里是哪里</p>
+<p begin="363600000t" end="387700000t" region="bottomCenter" style="s1" xml:id="subtitle13">我刚刚应该还在阴暗的遗迹里才对</p>
+<p begin="387900000t" end="403400000t" region="bottomCenter" style="s1" xml:id="subtitle14">你是什么时候把我转移过来的</p>
+<p begin="407000000t" end="418500000t" region="bottomCenter" style="s1" xml:id="subtitle15">很可惜的</p>
+<p begin="418800000t" end="430600000t" region="bottomCenter" style="s1" xml:id="subtitle16">看来是你误会了</p>
+<p begin="435600000t" end="466100000t" region="bottomCenter" style="s1" xml:id="subtitle17">你并没有进行肉体上的转移</p>
+<p begin="470100000t" end="494200000t" region="bottomCenter" style="s1" xml:id="subtitle18">只是被邀请到我的茶会了而已</p>
+<p begin="498300000t" end="509600000t" region="bottomCenter" style="s1" xml:id="subtitle19">茶会?</p>
+<p begin="515100000t" end="533600000t" region="bottomCenter" style="s1" xml:id="subtitle20">魔女的茶会哦</p>
+<p begin="544800000t" end="564700000t" region="bottomCenter" style="s1" xml:id="subtitle21">你打算在那边站到什么时候</p>
+<p begin="571000000t" end="604600000t" region="bottomCenter" style="s1" xml:id="subtitle22">至少在茶凉掉之前坐下如何</p>
+<p begin="617600000t" end="630500000t" region="bottomCenter" style="s1" xml:id="subtitle23">啊, 可恶</p>
+<p begin="630800000t" end="648100000t" region="bottomCenter" style="s1" xml:id="subtitle24">我知道了, 我知道了啦</p>
+<p begin="674300000t" end="692200000t" region="bottomCenter" style="s1" xml:id="subtitle25">你还真是勇敢啊</p>
+<p begin="692400000t" end="716700000t" region="bottomCenter" style="s1" xml:id="subtitle26">竟然把魔女准备的东西给一饮而尽</p>
+<p begin="723000000t" end="744200000t" region="bottomCenter" style="s1" xml:id="subtitle27">你真的要杀我的话</p>
+<p begin="744400000t" end="764000000t" region="bottomCenter" style="s1" xml:id="subtitle28">我应该一秒就变成灰了吧</p>
+<p begin="767900000t" end="782500000t" region="bottomCenter" style="s1" xml:id="subtitle29">虽然说不上好喝但也不算难喝</p>
+<p begin="782700000t" end="795600000t" region="bottomCenter" style="s1" xml:id="subtitle30">这是什么茶啊</p>
+<p begin="795900000t" end="814900000t" region="bottomCenter" style="s1" xml:id="subtitle31">因为是这里生产的东西啊</p>
+<p begin="815200000t" end="823600000t" region="bottomCenter" style="s1" xml:id="subtitle32">真的要说的话</p>
+<p begin="823900000t" end="833600000t" region="bottomCenter" style="s1" xml:id="subtitle33">是我的体液哦</p>
+<p begin="833900000t" end="860400000t" region="bottomCenter" style="s1" xml:id="subtitle34">你都让我喝了些什么啊</p>
+<p begin="868400000t" end="892000000t" region="bottomCenter" style="s1" xml:id="subtitle35">你果然是个不可思议的人呢</p>
+<p begin="895600000t" end="926000000t" region="bottomCenter" style="s1" xml:id="subtitle36">不愧是能够正常站在我面前的人</p>
+<p begin="926300000t" end="942900000t" region="bottomCenter" style="s1" xml:id="subtitle37">哈, 你是想说自己太漂亮</p>
+<p begin="943200000t" end="966700000t" region="bottomCenter" style="s1" xml:id="subtitle38">所以正常人都会害羞到<br />无法直视的意思吗</p>
+<p begin="967000000t" end="978400000t" region="bottomCenter" style="s1" xml:id="subtitle39">话先说在前头</p>
+<p begin="978600000t" end="987400000t" region="bottomCenter" style="s1" xml:id="subtitle40">我可是平常就能一直用</p>
+<p begin="987700000t" end="1017500000t" region="bottomCenter" style="s1" xml:id="subtitle41">对我来说最棒的美少女来保养眼睛哦</p>
+<p begin="1021500000t" end="1039500000t" region="bottomCenter" style="s1" xml:id="subtitle42">所以就算看着你</p>
+<p begin="1039700000t" end="1075700000t" region="bottomCenter" style="s1" xml:id="subtitle43">我也不会一直觉得你很可爱啦</p>
+<p begin="1079800000t" end="1093500000t" region="bottomCenter" style="s1" xml:id="subtitle44">不, 我说的是正常人</p>
+<p begin="1093800000t" end="1112600000t" region="bottomCenter" style="s1" xml:id="subtitle45">光是站在我面前就会吐出来了</p>
+<p begin="1112800000t" end="1122400000t" region="bottomCenter" style="s1" xml:id="subtitle46">很有趣对吧</p>
+<p begin="1122700000t" end="1140600000t" region="bottomCenter" style="s1" xml:id="subtitle47">有什么好有趣的</p>
+<p begin="1150900000t" end="1171100000t" region="bottomCenter" style="s1" xml:id="subtitle48">你…打算对我做些什么</p>
+<p begin="1171300000t" end="1185100000t" region="bottomCenter" style="s1" xml:id="subtitle49">没有要做什么啊</p>
+<p begin="1185300000t" end="1207000000t" region="bottomCenter" style="s1" xml:id="subtitle50">擅自跑进来的可是你</p>
+<p begin="1210700000t" end="1219800000t" region="bottomCenter" style="s1" xml:id="subtitle51">如果想回去的话</p>
+<p begin="1220000000t" end="1235000000t" region="bottomCenter" style="s1" xml:id="subtitle52">也是可以让你回去</p>
+<p begin="1243000000t" end="1261100000t" region="bottomCenter" style="s1" xml:id="subtitle53">不过这样真的好吗</p>
+<p begin="1274200000t" end="1306100000t" region="bottomCenter" style="s1" xml:id="subtitle54">可以和强欲的魔女谈话的机会</p>
+<p begin="1306300000t" end="1349600000t" region="bottomCenter" style="s1" xml:id="subtitle55">对其他人来说可是求之不得的哦</p>
+<p begin="1349800000t" end="1391200000t" region="bottomCenter" style="s1" xml:id="subtitle56">问与答只需要彼此的存在</p>
+<p begin="1395500000t" end="1416800000t" region="bottomCenter" style="s1" xml:id="subtitle57">所以就让我们停下那些<br />没有意义的行为吧</p>
+<p begin="1425300000t" end="1442100000t" region="bottomCenter" style="s1" xml:id="subtitle58">只要言语就够了</p>
+<p begin="1442400000t" end="1461700000t" region="bottomCenter" style="s1" xml:id="subtitle59">不管是你想知道的欲望</p>
+<p begin="1461900000t" end="1472600000t" region="bottomCenter" style="s1" xml:id="subtitle60">好奇心</p>
+<p begin="1472900000t" end="1483600000t" region="bottomCenter" style="s1" xml:id="subtitle61">还是强欲</p>
+<p begin="1483800000t" end="1502200000t" region="bottomCenter" style="s1" xml:id="subtitle62">我都会给予肯定的</p>
+<p begin="1538700000t" end="1570100000t" region="bottomCenter" style="s1" xml:id="subtitle63">那么, 你想问些什么呢</p>
+<p begin="1579100000t" end="1603000000t" region="bottomCenter" style="s1" xml:id="subtitle64">是将世界从饥饿当中拯救出来</p>
+<p begin="1603200000t" end="1624100000t" region="bottomCenter" style="s1" xml:id="subtitle65">违背天命而创造出的野兽</p>
+<p begin="1624400000t" end="1655200000t" region="bottomCenter" style="s1" xml:id="subtitle66">暴食的魔女"达芙妮"的事情吗</p>
+<p begin="1665500000t" end="1683700000t" region="bottomCenter" style="s1" xml:id="subtitle67">是打算将爱充满整个世界</p>
+<p begin="1684000000t" end="1707400000t" region="bottomCenter" style="s1" xml:id="subtitle68">并赐与非人之物感情的</p>
+<p begin="1707600000t" end="1739200000t" region="bottomCenter" style="s1" xml:id="subtitle69">色欲的魔女"卡密拉"的事情吗</p>
+<p begin="1744900000t" end="1758500000t" region="bottomCenter" style="s1" xml:id="subtitle70">是在这个充满斗争的世界中</p>
+<p begin="1758800000t" end="1789000000t" region="bottomCenter" style="s1" xml:id="subtitle71">一边叹息着一边用拳头治愈人们的</p>
+<p begin="1789300000t" end="1815200000t" region="bottomCenter" style="s1" xml:id="subtitle72">愤怒的魔女"弥涅耳瓦"的事情吗</p>
+<p begin="1820200000t" end="1847700000t" region="bottomCenter" style="s1" xml:id="subtitle73">是仅仅为了带来和平</p>
+<p begin="1847900000t" end="1869700000t" region="bottomCenter" style="s1" xml:id="subtitle74">而追逐龙来到大瀑布彼端的</p>
+<p begin="1870000000t" end="1896600000t" region="bottomCenter" style="s1" xml:id="subtitle75">怠惰的魔女"塞赫麦特"的事情吗</p>
+<p begin="1896800000t" end="1919900000t" region="bottomCenter" style="s1" xml:id="subtitle76">是仗着自己的天真无邪</p>
+<p begin="1920200000t" end="1935700000t" region="bottomCenter" style="s1" xml:id="subtitle77">而不断制裁罪人们的</p>
+<p begin="1935900000t" end="1961700000t" region="bottomCenter" style="s1" xml:id="subtitle78">傲慢的魔女"堤丰"的事情吗</p>
+<p begin="1966600000t" end="1988500000t" region="bottomCenter" style="s1" xml:id="subtitle79">是为了追求世界上所有的智慧</p>
+<p begin="1988700000t" end="2008500000t" region="bottomCenter" style="s1" xml:id="subtitle80">就连死后的世界也舍不得放弃的</p>
+<p begin="2008800000t" end="2024400000t" region="bottomCenter" style="s1" xml:id="subtitle81">知识欲望的化身</p>
+<p begin="2024700000t" end="2055100000t" region="bottomCenter" style="s1" xml:id="subtitle82">强欲的魔女"艾姬多娜"的事情吗</p>
+<p begin="2059000000t" end="2069500000t" region="bottomCenter" style="s1" xml:id="subtitle83">还是说</p>
+<p begin="2069700000t" end="2092900000t" region="bottomCenter" style="s1" xml:id="subtitle84">是将所有的魔女消灭</p>
+<p begin="2093200000t" end="2106200000t" region="bottomCenter" style="s1" xml:id="subtitle85">当作自己的食粮下肚后</p>
+<p begin="2106400000t" end="2118100000t" region="bottomCenter" style="s1" xml:id="subtitle86">和全世界为敌的</p>
+<p begin="2118300000t" end="2130300000t" region="bottomCenter" style="s1" xml:id="subtitle87">嫉妒的魔女</p>
+<p begin="2134100000t" end="2166200000t" region="bottomCenter" style="s1" xml:id="subtitle88">那个令人忌讳的"她"呢</p>
+<p begin="2195600000t" end="2206300000t" region="bottomCenter" style="s1" xml:id="subtitle89">搞砸了啊</p>
+<p begin="2215000000t" end="2236400000t" region="bottomCenter" style="s1" xml:id="subtitle90">看来是太过咄咄逼人了啊</p>
+<p begin="2242300000t" end="2256200000t" region="bottomCenter" style="s1" xml:id="subtitle91">魔女的本性</p>
+<p begin="2260400000t" end="2274500000t" region="bottomCenter" style="s1" xml:id="subtitle92">真的是很麻烦的东西啊</p>
+<p begin="2357500000t" end="2374000000t" region="bottomCenter" style="s1" xml:id="subtitle93">比想象中的还快呢</p>
+<p begin="2374300000t" end="2387900000t" region="bottomCenter" style="s1" xml:id="subtitle94">不愧是适合的人</p>
+<p begin="2388200000t" end="2401400000t" region="bottomCenter" style="s1" xml:id="subtitle95">适应就是比较快呢</p>
+<p begin="2401700000t" end="2418900000t" region="bottomCenter" style="s1" xml:id="subtitle96">你…在说什么</p>
+<p begin="2422300000t" end="2435600000t" region="bottomCenter" style="s1" xml:id="subtitle97">你把茶喝掉了对吧</p>
+<p begin="2435900000t" end="2463900000t" region="bottomCenter" style="s1" xml:id="subtitle98">那会活化你体内"怠惰"的魔女因子</p>
+<p begin="2464100000t" end="2486100000t" region="bottomCenter" style="s1" xml:id="subtitle99">让你的抵抗力变得更强</p>
+<p begin="2489200000t" end="2498100000t" region="bottomCenter" style="s1" xml:id="subtitle100">这样就能够悠闲的</p>
+<p begin="2498300000t" end="2516200000t" region="bottomCenter" style="s1" xml:id="subtitle101">和我说说话了吧</p>
+<p begin="2523900000t" end="2553500000t" region="bottomCenter" style="s1" xml:id="subtitle102">来吧, 你想知道什么呢</p>
+<p begin="2561100000t" end="2579700000t" region="bottomCenter" style="s1" xml:id="subtitle103">刚刚的我可没办法装作没听到啊</p>
+<p begin="2579900000t" end="2593700000t" region="bottomCenter" style="s1" xml:id="subtitle104">你都对我的身体</p>
+<p begin="2593900000t" end="2608600000t" region="bottomCenter" style="s1" xml:id="subtitle105">做了些什么</p>
+<p begin="2608800000t" end="2626200000t" region="bottomCenter" style="s1" xml:id="subtitle106">别误会了</p>
+<p begin="2629900000t" end="2646400000t" region="bottomCenter" style="s1" xml:id="subtitle107">我并不是要加害于你</p>
+<p begin="2646600000t" end="2665700000t" region="bottomCenter" style="s1" xml:id="subtitle108">才让你喝下那杯茶的</p>
+<p begin="2666000000t" end="2709600000t" region="bottomCenter" style="s1" xml:id="subtitle109">不如说我可是<br />满喜欢你这个存在的呢</p>
+<p begin="2721500000t" end="2739400000t" region="bottomCenter" style="s1" xml:id="subtitle110">这样讲好像有点害羞啊</p>
+<p begin="2769500000t" end="2808800000t" region="bottomCenter" style="s1" xml:id="subtitle111">你最近把拥有"怠惰"魔女因子的人</p>
+<p begin="2809000000t" end="2819200000t" region="bottomCenter" style="s1" xml:id="subtitle112">给杀掉了对吧</p>
+<p begin="2825100000t" end="2838900000t" region="bottomCenter" style="s1" xml:id="subtitle113">就在原宿主死亡那个时候</p>
+<p begin="2839200000t" end="2871000000t" region="bottomCenter" style="s1" xml:id="subtitle114">魔女因子选择了你成为新的宿主</p>
+<p begin="2875900000t" end="2896600000t" region="bottomCenter" style="s1" xml:id="subtitle115">你能够平安的进入这个墓所</p>
+<p begin="2896800000t" end="2909600000t" region="bottomCenter" style="s1" xml:id="subtitle116">也是因为这个原因哦</p>
+<p begin="2909800000t" end="2918300000t" region="bottomCenter" style="s1" xml:id="subtitle117">墓所</p>
+<p begin="2923900000t" end="2937000000t" region="bottomCenter" style="s1" xml:id="subtitle118">是指墓地吗</p>
+<p begin="2937300000t" end="2943600000t" region="bottomCenter" style="s1" xml:id="subtitle119">没错</p>
+<p begin="2949100000t" end="2979500000t" region="bottomCenter" style="s1" xml:id="subtitle120">这里是将我死后的灵魂囚禁的</p>
+<p begin="2979800000t" end="3009000000t" region="bottomCenter" style="s1" xml:id="subtitle121">魔女的墓所——"圣域"</p>
+<p begin="3014300000t" end="3037700000t" region="bottomCenter" style="s1" xml:id="subtitle122">你知道"圣域"吗</p>
+<p begin="3046000000t" end="3073500000t" region="bottomCenter" style="s1" xml:id="subtitle123">你到底是勇敢还是大胆呢</p>
+<p begin="3073700000t" end="3102200000t" region="bottomCenter" style="s1" xml:id="subtitle124">以我有限的经验实在是无法判断啊</p>
+<p begin="3104800000t" end="3116400000t" region="bottomCenter" style="s1" xml:id="subtitle125">别敷衍我</p>
+<p begin="3116600000t" end="3126300000t" region="bottomCenter" style="s1" xml:id="subtitle126">那么这里…</p>
+<p begin="3126600000t" end="3135100000t" region="bottomCenter" style="s1" xml:id="subtitle127">不</p>
+<p begin="3135300000t" end="3154700000t" region="bottomCenter" style="s1" xml:id="subtitle128">我可以认为刚刚经过的<br />那片遗迹森林</p>
+<p begin="3154900000t" end="3174400000t" region="bottomCenter" style="s1" xml:id="subtitle129">就是圣域吗</p>
+<p begin="3174600000t" end="3188600000t" region="bottomCenter" style="s1" xml:id="subtitle130">真冷淡啊</p>
+<p begin="3194000000t" end="3204200000t" region="bottomCenter" style="s1" xml:id="subtitle131">就是如此</p>
+<p begin="3204400000t" end="3216200000t" region="bottomCenter" style="s1" xml:id="subtitle132">如你所愿</p>
+<p begin="3216500000t" end="3235800000t" region="bottomCenter" style="s1" xml:id="subtitle133">遗迹的外面就是"圣域"哦</p>
+<p begin="3241300000t" end="3258000000t" region="bottomCenter" style="s1" xml:id="subtitle134">来吧, 其他还想问…</p>
+<p begin="3258200000t" end="3280000000t" region="bottomCenter" style="s1" xml:id="subtitle135">你刚说了只要跟你说想出去<br />就会让我出去对吧</p>
+<p begin="3280200000t" end="3285900000t" region="bottomCenter" style="s1" xml:id="subtitle136">咦</p>
+<p begin="3298000000t" end="3321200000t" region="bottomCenter" style="s1" xml:id="subtitle137">那点我可以保证</p>
+<p begin="3329300000t" end="3358100000t" region="bottomCenter" style="s1" xml:id="subtitle138">那个, 你没有什么要问我的吗</p>
+<p begin="3358400000t" end="3380000000t" region="bottomCenter" style="s1" xml:id="subtitle139">抱歉, 现在比起和你聊天</p>
+<p begin="3380200000t" end="3406900000t" region="bottomCenter" style="s1" xml:id="subtitle140">我更想快点和在外面的<br />爱蜜莉雅会合啊</p>
+<p begin="3426000000t" end="3438600000t" region="bottomCenter" style="s1" xml:id="subtitle141">骗人的吧</p>
+<p begin="3438800000t" end="3459400000t" region="bottomCenter" style="s1" xml:id="subtitle142">我可是强欲的魔女哦</p>
+<p begin="3459600000t" end="3478800000t" region="bottomCenter" style="s1" xml:id="subtitle143">世界上各种有权力的人们</p>
+<p begin="3479000000t" end="3488400000t" region="bottomCenter" style="s1" xml:id="subtitle144">为了我的知识</p>
+<p begin="3488700000t" end="3510900000t" region="bottomCenter" style="s1" xml:id="subtitle145">可是想尽办法也要和我见上一面耶</p>
+<p begin="3511100000t" end="3517700000t" region="bottomCenter" style="s1" xml:id="subtitle146">那个</p>
+<p begin="3518000000t" end="3528300000t" region="bottomCenter" style="s1" xml:id="subtitle147">总之就先冷静一下吧</p>
+<p begin="3528500000t" end="3540300000t" region="bottomCenter" style="s1" xml:id="subtitle148">冷静下来好好谈一谈</p>
+<p begin="3540600000t" end="3558400000t" region="bottomCenter" style="s1" xml:id="subtitle149">我可是知道谁都不知道的世界的真相</p>
+<p begin="3558700000t" end="3567500000t" region="bottomCenter" style="s1" xml:id="subtitle150">我没兴趣</p>
+<p begin="3567700000t" end="3580200000t" region="bottomCenter" style="s1" xml:id="subtitle151">咦咦咦咦</p>
+<p begin="3584300000t" end="3622400000t" region="bottomCenter" style="s1" xml:id="subtitle152">我会再找时间跟你喝茶聊天的啦</p>
+<p begin="3627300000t" end="3638600000t" region="bottomCenter" style="s1" xml:id="subtitle153">怎么可以对死者…</p>
+<p begin="3638800000t" end="3653900000t" region="bottomCenter" style="s1" xml:id="subtitle154">而且还是魔女…</p>
+<p begin="3654200000t" end="3693000000t" region="bottomCenter" style="s1" xml:id="subtitle155">这么简单的做出约定啊</p>
+<p begin="3720600000t" end="3747000000t" region="bottomCenter" style="s1" xml:id="subtitle156">我还是第一次遇到这种茶会…</p>
+<p begin="3753500000t" end="3767800000t" region="bottomCenter" style="s1" xml:id="subtitle157">真的要回去的话</p>
+<p begin="3772600000t" end="3792300000t" region="bottomCenter" style="s1" xml:id="subtitle158">那么最后我就来收取代价吧</p>
+<p begin="3796700000t" end="3828900000t" region="bottomCenter" style="s1" xml:id="subtitle159">先说哦, 我可是万夫莫敌的穷鬼</p>
+<p begin="3833200000t" end="3847800000t" region="bottomCenter" style="s1" xml:id="subtitle160">魔女要收取的代价</p>
+<p begin="3848000000t" end="3860900000t" region="bottomCenter" style="s1" xml:id="subtitle161">可不是金钱</p>
+<p begin="3867100000t" end="3893200000t" region="bottomCenter" style="s1" xml:id="subtitle162">我所追求的是你的誓约</p>
+<p begin="3901200000t" end="3930100000t" region="bottomCenter" style="s1" xml:id="subtitle163">这个茶会的事不许对外说出去</p>
+<p begin="3930300000t" end="3943200000t" region="bottomCenter" style="s1" xml:id="subtitle164">那就是条件</p>
+<p begin="3948300000t" end="3956100000t" region="bottomCenter" style="s1" xml:id="subtitle165">还有…</p>
+<p begin="3956400000t" end="3966000000t" region="bottomCenter" style="s1" xml:id="subtitle166">机会难得</p>
+<p begin="3968600000t" end="3986400000t" region="bottomCenter" style="s1" xml:id="subtitle167">我就送你一份伴手礼吧</p>
+<p begin="3991200000t" end="4033400000t" region="bottomCenter" style="s1" xml:id="subtitle168">就给你挑战圣域试炼的资格吧</p>
+<p begin="4038200000t" end="4053100000t" region="bottomCenter" style="s1" xml:id="subtitle169">圣域的试炼</p>
+<p begin="4057100000t" end="4076100000t" region="bottomCenter" style="s1" xml:id="subtitle170">就算现在不明白也没关系</p>
+<p begin="4080400000t" end="4091000000t" region="bottomCenter" style="s1" xml:id="subtitle171">等你知道那个地方以后</p>
+<p begin="4091300000t" end="4106200000t" region="bottomCenter" style="s1" xml:id="subtitle172">就会了解它的价值了</p>
+<p begin="4109800000t" end="4120800000t" region="bottomCenter" style="s1" xml:id="subtitle173">那个时候</p>
+<p begin="4125700000t" end="4151800000t" region="bottomCenter" style="s1" xml:id="subtitle174">你又会对我抱持着什么样的感情呢</p>
+<p begin="4160600000t" end="4194600000t" region="bottomCenter" style="s1" xml:id="subtitle175">那还真是让人充满期待啊</p>
+<p begin="4276100000t" end="4304300000t" region="bottomCenter" style="s1" xml:id="subtitle176">你…果然是魔女啊</p>
+<p begin="4304500000t" end="4321300000t" region="bottomCenter" style="s1" xml:id="subtitle177">啊, 是啊</p>
+<p begin="4327900000t" end="4346300000t" region="bottomCenter" style="s1" xml:id="subtitle178">我可是非常坏的</p>
+<p begin="4346600000t" end="4366000000t" region="bottomCenter" style="s1" xml:id="subtitle179">魔法使者哦</p>
+<p begin="4522700000t" end="4540400000t" region="bottomCenter" style="s1" xml:id="subtitle180">总之得先出去</p>
+<p begin="4544000000t" end="4560900000t" region="bottomCenter" style="s1" xml:id="subtitle181">和爱蜜莉雅她们会合</p>
+<p begin="4592700000t" end="4604900000t" region="bottomCenter" style="s1" xml:id="subtitle182">好像有被谁…</p>
+<p begin="4610000000t" end="4630000000t" region="bottomCenter" style="s1" xml:id="subtitle183">说了些什么…</p>
+<p begin="4686300000t" end="4696200000t" region="bottomCenter" style="s1" xml:id="subtitle184">奥托</p>
+<p begin="4696500000t" end="4707300000t" region="bottomCenter" style="s1" xml:id="subtitle185">竟然从那种地方</p>
+<p begin="4707500000t" end="4719300000t" region="bottomCenter" style="s1" xml:id="subtitle186">光明正大的出现</p>
+<p begin="4719500000t" end="4737300000t" region="bottomCenter" style="s1" xml:id="subtitle187">还真是有胆量啊</p>
+<p begin="4737500000t" end="4746700000t" region="bottomCenter" style="s1" xml:id="subtitle188">外来者</p>
+<p begin="4752300000t" end="4766600000t" region="bottomCenter" style="s1" xml:id="subtitle189">你是连全身坑坑疤疤的岩浆波利</p>
+<p begin="4766900000t" end="4783600000t" region="bottomCenter" style="s1" xml:id="subtitle190">都会笑你的家伙吗</p>
+<p begin="4922500000t" end="4933600000t" region="bottomCenter" style="s1" xml:id="subtitle191">好痛…</p>
+<p begin="4933900000t" end="4943000000t" region="bottomCenter" style="s1" xml:id="subtitle192">可恶</p>
+<p begin="4943300000t" end="4953500000t" region="bottomCenter" style="s1" xml:id="subtitle193">什么啊</p>
+<p begin="5015100000t" end="5030000000t" region="bottomCenter" style="s1" xml:id="subtitle194">还真是酷毙了的反应啊</p>
+<p begin="5074800000t" end="5094400000t" region="bottomCenter" style="s1" xml:id="subtitle195">这地龙真棒啊</p>
+<p begin="5119300000t" end="5127500000t" region="bottomCenter" style="s1" xml:id="subtitle196">等…等等</p>
+<p begin="5127800000t" end="5136300000t" region="bottomCenter" style="s1" xml:id="subtitle197">帕特拉修</p>
+<p begin="5180590000t" end="5215300000t" region="bottomCenter" style="s1" xml:id="subtitle198">真是个好女人啊</p>
+<p begin="5221300000t" end="5238400000t" region="bottomCenter" style="s1" xml:id="subtitle199">不会让你吃什么苦的</p>
+<p begin="5238700000t" end="5256200000t" region="bottomCenter" style="s1" xml:id="subtitle200">你就好好去睡一觉吧</p>
+<p begin="5308000000t" end="5338100000t" region="bottomCenter" style="s1" xml:id="subtitle201">你可要好好感谢<br />这家伙的奋战不懈啊</p>
+<p begin="5346600000t" end="5355300000t" region="bottomCenter" style="s1" xml:id="subtitle202">等…</p>
+<p begin="5355500000t" end="5365200000t" region="bottomCenter" style="s1" xml:id="subtitle203">稍微等一下</p>
+<p begin="5365500000t" end="5381800000t" region="bottomCenter" style="s1" xml:id="subtitle204">就把你这家伙打个半死</p>
+<p begin="5382000000t" end="5403900000t" region="bottomCenter" style="s1" xml:id="subtitle205">丢到森林外面吧</p>
+<p begin="5406100000t" end="5415100000t" region="bottomCenter" style="s1" xml:id="subtitle206">揍到你发誓</p>
+<p begin="5415300000t" end="5442300000t" region="bottomCenter" style="s1" xml:id="subtitle207">不会把这里的事情讲出去为止</p>
+<p begin="5442600000t" end="5468100000t" region="bottomCenter" style="s1" xml:id="subtitle208">你是和法兰黛莉卡有关系的人对吧</p>
+<p begin="5485400000t" end="5497700000t" region="bottomCenter" style="s1" xml:id="subtitle209">为什么会从你口中</p>
+<p begin="5497900000t" end="5519700000t" region="bottomCenter" style="s1" xml:id="subtitle210">说出那个名字啊</p>
+<p begin="5520000000t" end="5536800000t" region="bottomCenter" style="s1" xml:id="subtitle211">你觉得是为什么呢</p>
+<p begin="5537100000t" end="5549700000t" region="bottomCenter" style="s1" xml:id="subtitle212">好好想想吧</p>
+<p begin="5549900000t" end="5558500000t" region="bottomCenter" style="s1" xml:id="subtitle213">我想过了</p>
+<p begin="5558700000t" end="5567200000t" region="bottomCenter" style="s1" xml:id="subtitle214">不知道</p>
+<p begin="5567500000t" end="5579400000t" region="bottomCenter" style="s1" xml:id="subtitle215">先把你打爆再来想好了</p>
+<p begin="5579600000t" end="5597500000t" region="bottomCenter" style="s1" xml:id="subtitle216">不要这么快放弃思考啦</p>
+<p begin="5597700000t" end="5621600000t" region="bottomCenter" style="s1" xml:id="subtitle217">是因为我们也是相关人员啦</p>
+<p begin="5656000000t" end="5677200000t" region="bottomCenter" style="s1" xml:id="subtitle218">老子是加菲尔</p>
+<p begin="5677400000t" end="5699300000t" region="bottomCenter" style="s1" xml:id="subtitle219">如果你们是相关人员的话</p>
+<p begin="5699600000t" end="5722600000t" region="bottomCenter" style="s1" xml:id="subtitle220">应该听过吧</p>
+<p begin="5722800000t" end="5734300000t" region="bottomCenter" style="s1" xml:id="subtitle221">就是你吗</p>
+<p begin="5737400000t" end="5772200000t" region="bottomCenter" style="s1" xml:id="subtitle222">不过为什么你会知道老子和<br />法兰黛莉卡有关系啊</p>
+<p begin="5785300000t" end="5802700000t" region="bottomCenter" style="s1" xml:id="subtitle223">你认真的吗</p>
+<p begin="5815100000t" end="5839800000t" region="bottomCenter" style="s1" xml:id="subtitle224">完全被打败了啊…</p>
+<p begin="5840100000t" end="5864000000t" region="bottomCenter" style="s1" xml:id="subtitle225">这份愤怒到底应该往哪里发泄呢</p>
+<p begin="5864300000t" end="5880400000t" region="bottomCenter" style="s1" xml:id="subtitle226">真是个啰嗦的马夫啊</p>
+<p begin="5880700000t" end="5895700000t" region="bottomCenter" style="s1" xml:id="subtitle227">啊我不是道过歉了吗</p>
+<p begin="5895900000t" end="5917800000t" region="bottomCenter" style="s1" xml:id="subtitle228">你说的道歉该不会是刚刚那个</p>
+<p begin="5918100000t" end="5937900000t" region="bottomCenter" style="s1" xml:id="subtitle229">"抱歉啊笨蛋们, 我搞错了"吧</p>
+<p begin="5938100000t" end="5947700000t" region="bottomCenter" style="s1" xml:id="subtitle230">-说到底…<br />-根本就没在反省吧</p>
+<p begin="5948000000t" end="5961300000t" region="bottomCenter" style="s1" xml:id="subtitle231">早点让我看到那个的话</p>
+<p begin="5961500000t" end="5971400000t" region="bottomCenter" style="s1" xml:id="subtitle232">不就没事了吗</p>
+<p begin="5971600000t" end="5981200000t" region="bottomCenter" style="s1" xml:id="subtitle233">比起思考</p>
+<p begin="5981500000t" end="5997700000t" region="bottomCenter" style="s1" xml:id="subtitle234">更应该"关节肿胀"不是吗</p>
+<p begin="5997900000t" end="6008600000t" region="bottomCenter" style="s1" xml:id="subtitle235">"肿胀"…什么?</p>
+<p begin="6008800000t" end="6021700000t" region="bottomCenter" style="s1" xml:id="subtitle236">那个发色</p>
+<p begin="6021900000t" end="6041600000t" region="bottomCenter" style="s1" xml:id="subtitle237">就是传闻中的爱蜜莉雅大人对吧</p>
+<p begin="6048500000t" end="6062300000t" region="bottomCenter" style="s1" xml:id="subtitle238">罗兹瓦尔那家伙</p>
+<p begin="6062500000t" end="6082200000t" region="bottomCenter" style="s1" xml:id="subtitle239">照顾着的银发半魔</p>
+<p begin="6082400000t" end="6096400000t" region="bottomCenter" style="s1" xml:id="subtitle240">是半妖精</p>
+<p begin="6099500000t" end="6119500000t" region="bottomCenter" style="s1" xml:id="subtitle241">不准再用这种叫法叫她</p>
+<p begin="6129500000t" end="6139200000t" region="bottomCenter" style="s1" xml:id="subtitle242">什么嘛什么嘛</p>
+<p begin="6139400000t" end="6166600000t" region="bottomCenter" style="s1" xml:id="subtitle243">你这不是也可以发出一点<br />有气势的声音吗</p>
+<p begin="6166900000t" end="6200600000t" region="bottomCenter" style="s1" xml:id="subtitle244">你也想变成<br />"左右流来流去的东东"吗</p>
+<p begin="6205800000t" end="6213200000t" region="bottomCenter" style="s1" xml:id="subtitle245">那个…</p>
+<p begin="6213500000t" end="6246900000t" region="bottomCenter" style="s1" xml:id="subtitle246">我们的对话是不是有点翻译错误啊</p>
+<p begin="6283200000t" end="6292800000t" region="bottomCenter" style="s1" xml:id="subtitle247">爱蜜莉雅</p>
+<p begin="6307300000t" end="6323900000t" region="bottomCenter" style="s1" xml:id="subtitle248">你没事真是太好了</p>
+<p begin="6327000000t" end="6336800000t" region="bottomCenter" style="s1" xml:id="subtitle249">昴</p>
+<p begin="6352000000t" end="6359400000t" region="bottomCenter" style="s1" xml:id="subtitle250">你是谁</p>
+<p begin="6362500000t" end="6370000000t" region="bottomCenter" style="s1" xml:id="subtitle251">话先说在前头</p>
+<p begin="6370200000t" end="6389200000t" region="bottomCenter" style="s1" xml:id="subtitle252">我可不会让你碰昴一根指头的</p>
+<p begin="6389500000t" end="6398800000t" region="bottomCenter" style="s1" xml:id="subtitle253">等等, 爱蜜莉雅酱</p>
+<p begin="6399100000t" end="6406700000t" region="bottomCenter" style="s1" xml:id="subtitle254">虽然很高兴</p>
+<p begin="6406900000t" end="6420000000t" region="bottomCenter" style="s1" xml:id="subtitle255">但身为男人心情有点复杂</p>
+<p begin="6420200000t" end="6425700000t" region="bottomCenter" style="s1" xml:id="subtitle256">我没事的啦</p>
+<p begin="6425900000t" end="6440800000t" region="bottomCenter" style="s1" xml:id="subtitle257">没有要干嘛啦</p>
+<p begin="6441000000t" end="6468400000t" region="bottomCenter" style="s1" xml:id="subtitle258">我可不想被拉姆教训啊</p>
+<p begin="6468600000t" end="6475500000t" region="bottomCenter" style="s1" xml:id="subtitle259">拉姆</p>
+<p begin="6475800000t" end="6493200000t" region="bottomCenter" style="s1" xml:id="subtitle260">这家伙是加菲尔啦</p>
+<p begin="6500100000t" end="6512700000t" region="bottomCenter" style="s1" xml:id="subtitle261">加菲尔</p>
+<p begin="6515200000t" end="6536500000t" region="bottomCenter" style="s1" xml:id="subtitle262">法兰黛西卡说的那个…</p>
+<p begin="6547700000t" end="6556400000t" region="bottomCenter" style="s1" xml:id="subtitle263">然后现在</p>
+<p begin="6556600000t" end="6582200000t" region="bottomCenter" style="s1" xml:id="subtitle264">这家伙正在带我们去圣域的路上</p>
+<p begin="6586400000t" end="6613000000t" region="bottomCenter" style="s1" xml:id="subtitle265">拉姆和阿拉姆村的人都在那里</p>
+<p begin="6613300000t" end="6627200000t" region="bottomCenter" style="s1" xml:id="subtitle266">…没有错吧</p>
+<p begin="6627500000t" end="6650700000t" region="bottomCenter" style="s1" xml:id="subtitle267">要怀疑我也是你们的自由</p>
+<p begin="6650900000t" end="6679500000t" region="bottomCenter" style="s1" xml:id="subtitle268">不过你们现在也回不去就是了</p>
+<p begin="6679800000t" end="6702600000t" region="bottomCenter" style="s1" xml:id="subtitle269">毕竟已经越过结界了啊</p>
+<p begin="6711900000t" end="6734700000t" region="bottomCenter" style="s1" xml:id="subtitle270">那么, 这里已经是圣域了吗</p>
+<p begin="6734900000t" end="6754400000t" region="bottomCenter" style="s1" xml:id="subtitle271">喂喂, 放过我吧</p>
+<p begin="6754600000t" end="6776300000t" region="bottomCenter" style="s1" xml:id="subtitle272">话说回来你不就是因为靠近结界</p>
+<p begin="6776500000t" end="6796400000t" region="bottomCenter" style="s1" xml:id="subtitle273">才会睡着的吗</p>
+<p begin="6796700000t" end="6806300000t" region="bottomCenter" style="s1" xml:id="subtitle274">结界</p>
+<p begin="6811900000t" end="6821400000t" region="bottomCenter" style="s1" xml:id="subtitle275">这么说来</p>
+<p begin="6824100000t" end="6840800000t" region="bottomCenter" style="s1" xml:id="subtitle276">那个石头发光的时候</p>
+<p begin="6844300000t" end="6862700000t" region="bottomCenter" style="s1" xml:id="subtitle277">也是同一个时间点</p>
+<p begin="6869800000t" end="6880200000t" region="bottomCenter" style="s1" xml:id="subtitle278">也就是说是因为这个</p>
+<p begin="6880400000t" end="6896600000t" region="bottomCenter" style="s1" xml:id="subtitle279">对结界起了反应吗</p>
+<p begin="6913600000t" end="6941300000t" region="bottomCenter" style="s1" xml:id="subtitle280">不过, 为什么只有爱蜜莉雅倒下了</p>
+<p begin="6945300000t" end="6969100000t" region="bottomCenter" style="s1" xml:id="subtitle281">不, 我好像也在不知道什么时候<br />被转移了</p>
+<p begin="6969400000t" end="6983200000t" region="bottomCenter" style="s1" xml:id="subtitle282">但至少奥托…</p>
+<p begin="6994800000t" end="7014400000t" region="bottomCenter" style="s1" xml:id="subtitle283">结界会无视你们</p>
+<p begin="7014700000t" end="7033300000t" region="bottomCenter" style="s1" xml:id="subtitle284">只对这个女人有反应</p>
+<p begin="7033500000t" end="7048000000t" region="bottomCenter" style="s1" xml:id="subtitle285">是理所当然的啦</p>
+<p begin="7051300000t" end="7066000000t" region="bottomCenter" style="s1" xml:id="subtitle286">会对结界有反应的</p>
+<p begin="7066200000t" end="7082300000t" region="bottomCenter" style="s1" xml:id="subtitle287">可不是只有半妖精啊</p>
+<p begin="7082500000t" end="7105200000t" region="bottomCenter" style="s1" xml:id="subtitle288">对老子还有其他人也会</p>
+<p begin="7105500000t" end="7116200000t" region="bottomCenter" style="s1" xml:id="subtitle289">毕竟…</p>
+<p begin="7124700000t" end="7146500000t" region="bottomCenter" style="s1" xml:id="subtitle290">你们也是…混血吗</p>
+<p begin="7162100000t" end="7180600000t" region="bottomCenter" style="s1" xml:id="subtitle291">也就是所谓的圣域</p>
+<p begin="7180800000t" end="7201200000t" region="bottomCenter" style="s1" xml:id="subtitle292">是在亚人族中也是混血的人们</p>
+<p begin="7201500000t" end="7213600000t" region="bottomCenter" style="s1" xml:id="subtitle293">生活的地方吗</p>
+<p begin="7213800000t" end="7229900000t" region="bottomCenter" style="s1" xml:id="subtitle294">正确答案</p>
+<p begin="7230200000t" end="7243700000t" region="bottomCenter" style="s1" xml:id="subtitle295">欢迎你们</p>
+<p begin="7243900000t" end="7252200000t" region="bottomCenter" style="s1" xml:id="subtitle296">爱蜜莉雅大人</p>
+<p begin="7252500000t" end="7268500000t" region="bottomCenter" style="s1" xml:id="subtitle297">还有随同的两人</p>
+<p begin="7308000000t" end="7343200000t" region="bottomCenter" style="s1" xml:id="subtitle298">虽然罗兹瓦尔把这里称作什么"圣域"</p>
+<p begin="7346700000t" end="7384900000t" region="bottomCenter" style="s1" xml:id="subtitle299">但这里可和那漂亮的词沾不上边</p>
+<p begin="7389700000t" end="7418800000t" region="bottomCenter" style="s1" xml:id="subtitle300">这里不过是一群半调子<br />聚集生活在一起</p>
+<p begin="7419000000t" end="7444800000t" region="bottomCenter" style="s1" xml:id="subtitle301">没有未来的实验场而已</p>
+<p begin="7469500000t" end="7477700000t" region="bottomCenter" style="s1" xml:id="subtitle302">那个</p>
+<p begin="7477900000t" end="7485900000t" region="bottomCenter" style="s1" xml:id="subtitle303">要到哪…</p>
+<p begin="7501400000t" end="7513800000t" region="bottomCenter" style="s1" xml:id="subtitle304">回来了吗, 加菲</p>
+<p begin="7518000000t" end="7535700000t" region="bottomCenter" style="s1" xml:id="subtitle305">还真慢啊</p>
+<p begin="7554400000t" end="7565000000t" region="bottomCenter" style="s1" xml:id="subtitle306">拉姆</p>
+<p begin="7587900000t" end="7607400000t" region="bottomCenter" style="s1" xml:id="subtitle307">虽然不知道你是哪来的巴鲁斯</p>
+<p begin="7607600000t" end="7618800000t" region="bottomCenter" style="s1" xml:id="subtitle308">但我对你来的来的太慢这件事</p>
+<p begin="7619100000t" end="7629100000t" region="bottomCenter" style="s1" xml:id="subtitle309">感到很失望</p>
+<p begin="7633400000t" end="7647900000t" region="bottomCenter" style="s1" xml:id="subtitle310">不对, 有所期待的拉姆</p>
+<p begin="7648200000t" end="7657800000t" region="bottomCenter" style="s1" xml:id="subtitle311">才是笨蛋吧</p>
+<p begin="7658000000t" end="7674300000t" region="bottomCenter" style="s1" xml:id="subtitle312">既然你都说了不知道的话</p>
+<p begin="7674500000t" end="7696700000t" region="bottomCenter" style="s1" xml:id="subtitle313">就好好把那个设定用到最后啊</p>
+<p begin="7729300000t" end="7738900000t" region="bottomCenter" style="s1" xml:id="subtitle314">爱蜜莉雅大人</p>
+<p begin="7739200000t" end="7755300000t" region="bottomCenter" style="s1" xml:id="subtitle315">欢迎您</p>
+<p begin="7759800000t" end="7780800000t" region="bottomCenter" style="s1" xml:id="subtitle316">罗兹瓦尔大人在里面等您</p>
+<p begin="7781100000t" end="7792900000t" region="bottomCenter" style="s1" xml:id="subtitle317">请跟我来</p>
+<p begin="7799900000t" end="7814000000t" region="bottomCenter" style="s1" xml:id="subtitle318">加菲就把龙车还有驾驶带去</p>
+<p begin="7814300000t" end="7832100000t" region="bottomCenter" style="s1" xml:id="subtitle319">该去的地方吧</p>
+<p begin="7836900000t" end="7856500000t" region="bottomCenter" style="s1" xml:id="subtitle320">处理得太随便了吧</p>
+<p begin="7860500000t" end="7876700000t" region="bottomCenter" style="s1" xml:id="subtitle321">虽然就是这点才好啦</p>
+<p begin="7880700000t" end="7889900000t" region="bottomCenter" style="s1" xml:id="subtitle322">喂, 当马夫的</p>
+<p begin="7890200000t" end="7898800000t" region="bottomCenter" style="s1" xml:id="subtitle323">跟我来</p>
+<p begin="7899000000t" end="7915200000t" region="bottomCenter" style="s1" xml:id="subtitle324">那是在说我吗</p>
+<p begin="7915400000t" end="7933000000t" region="bottomCenter" style="s1" xml:id="subtitle325">这是目前对我最糟的认知了吧</p>
+<p begin="7933200000t" end="7947800000t" region="bottomCenter" style="s1" xml:id="subtitle326">是说就只有我跟你两个人吗</p>
+<p begin="7948000000t" end="7961100000t" region="bottomCenter" style="s1" xml:id="subtitle327">我会帮你捡骨的</p>
+<p begin="7961300000t" end="7983200000t" region="bottomCenter" style="s1" xml:id="subtitle328">我的待遇随便过头了吧</p>
+<p begin="7990000000t" end="8004400000t" region="bottomCenter" style="s1" xml:id="subtitle329">你在说什么</p>
+<p begin="8004700000t" end="8021600000t" region="bottomCenter" style="s1" xml:id="subtitle330">我昏倒的时候</p>
+<p begin="8021800000t" end="8050200000t" region="bottomCenter" style="s1" xml:id="subtitle331">因为有你在爱蜜莉雅才没事对吧</p>
+<p begin="8057300000t" end="8067900000t" region="bottomCenter" style="s1" xml:id="subtitle332">我很感谢你哦</p>
+<p begin="8078900000t" end="8092000000t" region="bottomCenter" style="s1" xml:id="subtitle333">哦…哦哦</p>
+<p begin="8095200000t" end="8123700000t" region="bottomCenter" style="s1" xml:id="subtitle334">不, 不过如果你有这份心的话</p>
+<p begin="8131800000t" end="8140400000t" region="bottomCenter" style="s1" xml:id="subtitle335">好吧</p>
+<p begin="8140700000t" end="8153600000t" region="bottomCenter" style="s1" xml:id="subtitle336">简单</p>
+<p begin="8185600000t" end="8192500000t" region="bottomCenter" style="s1" xml:id="subtitle337">什么</p>
+<p begin="8199200000t" end="8207900000t" region="bottomCenter" style="s1" xml:id="subtitle338">没什么</p>
+<p begin="8208200000t" end="8227100000t" region="bottomCenter" style="s1" xml:id="subtitle339">就想说你们好不好而已</p>
+<p begin="8234300000t" end="8259400000t" region="bottomCenter" style="s1" xml:id="subtitle340">毕竟上次见面是那种状况</p>
+<p begin="8262200000t" end="8281600000t" region="bottomCenter" style="s1" xml:id="subtitle341">之后又联络不上</p>
+<p begin="8281800000t" end="8305800000t" region="bottomCenter" style="s1" xml:id="subtitle342">老实说还是有点担心啊</p>
+<p begin="8315700000t" end="8326300000t" region="bottomCenter" style="s1" xml:id="subtitle343">就像你所看到的</p>
+<p begin="8329500000t" end="8350700000t" region="bottomCenter" style="s1" xml:id="subtitle344">拉姆今天也是既健康又楚楚可怜啊</p>
+<p begin="8355800000t" end="8382500000t" region="bottomCenter" style="s1" xml:id="subtitle345">阿拉姆村的人们也都没事</p>
+<p begin="8382700000t" end="8393400000t" region="bottomCenter" style="s1" xml:id="subtitle346">安心吧</p>
+<p begin="8401500000t" end="8412000000t" region="bottomCenter" style="s1" xml:id="subtitle347">是吗</p>
+<p begin="8417700000t" end="8431100000t" region="bottomCenter" style="s1" xml:id="subtitle348">那真是, 嗯</p>
+<p begin="8436000000t" end="8449200000t" region="bottomCenter" style="s1" xml:id="subtitle349">真的是松了一口气了</p>
+<p begin="8458400000t" end="8468000000t" region="bottomCenter" style="s1" xml:id="subtitle350">松一口气了</p>
+<p begin="8511400000t" end="8528700000t" region="bottomCenter" style="s1" xml:id="subtitle351">那个</p>
+<p begin="8554400000t" end="8565000000t" region="bottomCenter" style="s1" xml:id="subtitle352">拉姆</p>
+<p begin="8572100000t" end="8599000000t" region="bottomCenter" style="s1" xml:id="subtitle353">一直站着说话也不是办法吧</p>
+<p begin="8599200000t" end="8616500000t" region="bottomCenter" style="s1" xml:id="subtitle354">可以麻烦你带路吗</p>
+<p begin="8616800000t" end="8629100000t" region="bottomCenter" style="s1" xml:id="subtitle355">我明白了</p>
+<p begin="8687400000t" end="8703500000t" region="bottomCenter" style="s1" xml:id="subtitle356">昴, 没事吧</p>
+<p begin="8720200000t" end="8737200000t" region="bottomCenter" style="s1" xml:id="subtitle357">抱歉打断了你</p>
+<p begin="8740600000t" end="8748300000t" region="bottomCenter" style="s1" xml:id="subtitle358">但是…</p>
+<p begin="8754500000t" end="8769300000t" region="bottomCenter" style="s1" xml:id="subtitle359">不, 我知道的</p>
+<p begin="8773600000t" end="8787000000t" region="bottomCenter" style="s1" xml:id="subtitle360">我只是害怕而已</p>
+<p begin="8794300000t" end="8803300000t" region="bottomCenter" style="s1" xml:id="subtitle361">在这个情况下</p>
+<p begin="8803500000t" end="8825100000t" region="bottomCenter" style="s1" xml:id="subtitle362">到底该不该问雷姆的事情</p>
+<p begin="8835400000t" end="8847700000t" region="bottomCenter" style="s1" xml:id="subtitle363">真是丢脸啊</p>
+<p begin="8885400000t" end="8907900000t" region="bottomCenter" style="s1" xml:id="subtitle364">会害怕…是理所当然的</p>
+<p begin="8912600000t" end="8920700000t" region="bottomCenter" style="s1" xml:id="subtitle365">我可不觉得</p>
+<p begin="8920900000t" end="8939200000t" region="bottomCenter" style="s1" xml:id="subtitle366">那是件丢脸的事情哦</p>
+<p begin="8949600000t" end="8957400000t" region="bottomCenter" style="s1" xml:id="subtitle367">走吧</p>
+<p begin="8961800000t" end="8971900000t" region="bottomCenter" style="s1" xml:id="subtitle368">雷姆的事情也好</p>
+<p begin="8972200000t" end="8984000000t" region="bottomCenter" style="s1" xml:id="subtitle369">还有其他的事情也是</p>
+<p begin="8984200000t" end="9001900000t" region="bottomCenter" style="s1" xml:id="subtitle370">一定都会慢慢好起来的</p>
+<p begin="9016000000t" end="9027000000t" region="bottomCenter" style="s1" xml:id="subtitle371">了解</p>
+<p begin="9040400000t" end="9052500000t" region="bottomCenter" style="s1" xml:id="subtitle372">不管发生什么</p>
+<p begin="9052700000t" end="9085900000t" region="bottomCenter" style="s1" xml:id="subtitle373">我都会当爱蜜莉雅的肉盾保护你的</p>
+<p begin="9120100000t" end="9141200000t" region="bottomCenter" style="s1" xml:id="subtitle374">爱蜜莉雅大人还有昴</p>
+<p begin="9141500000t" end="9181200000t" region="bottomCenter" style="s1" xml:id="subtitle375">感觉好久不见了啊</p>
+<p begin="9184400000t" end="9193100000t" region="bottomCenter" style="s1" xml:id="subtitle376">本来想见面的时候</p>
+<p begin="9193400000t" end="9211900000t" region="bottomCenter" style="s1" xml:id="subtitle377">给你一拳的…</p>
+<p begin="9212100000t" end="9225000000t" region="bottomCenter" style="s1" xml:id="subtitle378">发生什么事了啊</p>
+<p begin="9228700000t" end="9251400000t" region="bottomCenter" style="s1" xml:id="subtitle379">你竟然会受这么严重的伤</p>
+<p begin="9251700000t" end="9283600000t" region="bottomCenter" style="s1" xml:id="subtitle380">那么, 该从哪里说起呢</p>
+<p begin="9283900000t" end="9305300000t" region="bottomCenter" style="s1" xml:id="subtitle381">啊, 在那之前我先说一件事</p>
+<p begin="9309400000t" end="9331600000t" region="bottomCenter" style="s1" xml:id="subtitle382">我们和库珥修结盟了</p>
+<p begin="9336200000t" end="9352600000t" region="bottomCenter" style="s1" xml:id="subtitle383">这就是你对我们置之不理的结果</p>
+<p begin="9352800000t" end="9364200000t" region="bottomCenter" style="s1" xml:id="subtitle384">满意了吗</p>
+<p begin="9368000000t" end="9394600000t" region="bottomCenter" style="s1" xml:id="subtitle385">啊啊, 非常满意哦</p>
+<p begin="9394800000t" end="9411500000t" region="bottomCenter" style="s1" xml:id="subtitle386">你真的是, 真的是</p>
+<p begin="9411700000t" end="9440800000t" region="bottomCenter" style="s1" xml:id="subtitle387">难能可贵令人求之不得的意外收获啊</p>
+<p begin="9441000000t" end="9454500000t" region="bottomCenter" style="s1" xml:id="subtitle388">你要说的就这样啊</p>
+<p begin="9460900000t" end="9472900000t" region="bottomCenter" style="s1" xml:id="subtitle389">罗兹瓦尔</p>
+<p begin="9473100000t" end="9488000000t" region="bottomCenter" style="s1" xml:id="subtitle390">这里是…哪里</p>
+<p begin="9491900000t" end="9504200000t" region="bottomCenter" style="s1" xml:id="subtitle391">来到这里以后</p>
+<p begin="9504500000t" end="9513000000t" region="bottomCenter" style="s1" xml:id="subtitle392">不</p>
+<p begin="9513200000t" end="9534600000t" region="bottomCenter" style="s1" xml:id="subtitle393">从接触到结界时开始</p>
+<p begin="9539700000t" end="9556000000t" region="bottomCenter" style="s1" xml:id="subtitle394">胸口就一直鼓噪个不停</p>
+<p begin="9556200000t" end="9570200000t" region="bottomCenter" style="s1" xml:id="subtitle395">无法平静下来</p>
+<p begin="9574800000t" end="9596700000t" region="bottomCenter" style="s1" xml:id="subtitle396">这里虽然被称为圣域</p>
+<p begin="9601400000t" end="9627300000t" region="bottomCenter" style="s1" xml:id="subtitle397">但我却一点也不这么觉得</p>
+<p begin="9632900000t" end="9647100000t" region="bottomCenter" style="s1" xml:id="subtitle398">不如说这里更像是…</p>
+<p begin="9657300000t" end="9674600000t" region="bottomCenter" style="s1" xml:id="subtitle399">魔女的坟场</p>
+<p begin="9677400000t" end="9710700000t" region="bottomCenter" style="s1" xml:id="subtitle400">这样的称呼会让您更能接受吗</p>
+<p begin="9723600000t" end="9733900000t" region="bottomCenter" style="s1" xml:id="subtitle401">什么意思</p>
+<p begin="9739400000t" end="9750300000t" region="bottomCenter" style="s1" xml:id="subtitle402">没有什么意思</p>
+<p begin="9750600000t" end="9764100000t" region="bottomCenter" style="s1" xml:id="subtitle403">就如同字面上所说的</p>
+<p begin="9768800000t" end="9778900000t" region="bottomCenter" style="s1" xml:id="subtitle404">这里是过去曾被称为</p>
+<p begin="9779100000t" end="9802400000t" region="bottomCenter" style="s1" xml:id="subtitle405">强欲的魔女的存在</p>
+<p begin="9802600000t" end="9827100000t" region="bottomCenter" style="s1" xml:id="subtitle406">魔女艾姬多娜的最终之地</p>
+<p begin="9827300000t" end="9837000000t" region="bottomCenter" style="s1" xml:id="subtitle407">也是对我而言的</p>
+<p begin="9837200000t" end="9862300000t" region="bottomCenter" style="s1" xml:id="subtitle408">该被称呼为"圣域"的地方</p>
+<p begin="9870900000t" end="9883400000t" region="bottomCenter" style="s1" xml:id="subtitle409">艾姬多娜</p>
+<p begin="9888000000t" end="9895800000t" region="bottomCenter" style="s1" xml:id="subtitle410">昴</p>
+<p begin="9907500000t" end="9917200000t" region="bottomCenter" style="s1" xml:id="subtitle411">没事吧</p>
+<p begin="9937300000t" end="9950800000t" region="bottomCenter" style="s1" xml:id="subtitle412">不, 没事</p>
+<p begin="9958500000t" end="9977200000t" region="bottomCenter" style="s1" xml:id="subtitle413">那为什么会是由你来管理</p>
+<p begin="9977400000t" end="9993800000t" region="bottomCenter" style="s1" xml:id="subtitle414">这个令人不舒服的地方啊</p>
+<p begin="9994100000t" end="10009100000t" region="bottomCenter" style="s1" xml:id="subtitle415">这个简单</p>
+<p begin="10009400000t" end="10015500000t" region="bottomCenter" style="s1" xml:id="subtitle416">因为这片土地</p>
+<p begin="10015700000t" end="10034600000t" region="bottomCenter" style="s1" xml:id="subtitle417">是由梅札斯家的领主</p>
+<p begin="10034800000t" end="10051200000t" region="bottomCenter" style="s1" xml:id="subtitle418">代代相传在管理的</p>
+<p begin="10055800000t" end="10085100000t" region="bottomCenter" style="s1" xml:id="subtitle419">那么, 从以前强欲的魔女<br />就和梅札斯家…</p>
+<p begin="10085300000t" end="10098500000t" region="bottomCenter" style="s1" xml:id="subtitle420">艾姬多娜</p>
+<p begin="10098800000t" end="10105100000t" region="bottomCenter" style="s1" xml:id="subtitle421">咦</p>
+<p begin="10110900000t" end="10120300000t" region="bottomCenter" style="s1" xml:id="subtitle422">称呼她的时候</p>
+<p begin="10120600000t" end="10142100000t" region="bottomCenter" style="s1" xml:id="subtitle423">请用名字称呼</p>
+<p begin="10146500000t" end="10166200000t" region="bottomCenter" style="s1" xml:id="subtitle424">"强欲的魔女"这种称呼方式</p>
+<p begin="10166500000t" end="10188100000t" region="bottomCenter" style="s1" xml:id="subtitle425">总让人感觉有点邪恶</p>
+<p begin="10188300000t" end="10206700000t" region="bottomCenter" style="s1" xml:id="subtitle426">不太好对吧</p>
+<p begin="10215800000t" end="10224100000t" region="bottomCenter" style="s1" xml:id="subtitle427">那个</p>
+<p begin="10227200000t" end="10233800000t" region="bottomCenter" style="s1" xml:id="subtitle428">所以就是说</p>
+<p begin="10234000000t" end="10251800000t" region="bottomCenter" style="s1" xml:id="subtitle429">从以前开始梅札斯家就和艾姬多娜</p>
+<p begin="10252000000t" end="10263800000t" region="bottomCenter" style="s1" xml:id="subtitle430">有所交集</p>
+<p begin="10264100000t" end="10290890000t" region="bottomCenter" style="s1" xml:id="subtitle431">所以才负责管理对吧</p>
+<p begin="10291190000t" end="10300790000t" region="bottomCenter" style="s1" xml:id="subtitle432">是的</p>
+<p begin="10300990000t" end="10312600000t" region="bottomCenter" style="s1" xml:id="subtitle433">不过说是管理</p>
+<p begin="10312800000t" end="10329800000t" region="bottomCenter" style="s1" xml:id="subtitle434">其实也没做什么了不起的事</p>
+<p begin="10334200000t" end="10352800000t" region="bottomCenter" style="s1" xml:id="subtitle435">因为艾姬多娜的结界的关系</p>
+<p begin="10353100000t" end="10368590000t" region="bottomCenter" style="s1" xml:id="subtitle436">如果没有通过正式的手续</p>
+<p begin="10368800000t" end="10387200000t" region="bottomCenter" style="s1" xml:id="subtitle437">外人就会被森林阻绝于外</p>
+<p begin="10387400000t" end="10402500000t" region="bottomCenter" style="s1" xml:id="subtitle438">另外…</p>
+<p begin="10402700000t" end="10424600000t" region="bottomCenter" style="s1" xml:id="subtitle439">对于满足特定血的条件的人</p>
+<p begin="10424900000t" end="10447400000t" region="bottomCenter" style="s1" xml:id="subtitle440">结界会发挥出不同的效果</p>
+<p begin="10453190000t" end="10460500000t" region="bottomCenter" style="s1" xml:id="subtitle441">这一点</p>
+<p begin="10460790000t" end="10484700000t" region="bottomCenter" style="s1" xml:id="subtitle442">爱蜜莉雅大人应该已经体验过了吧</p>
+<p begin="10505400000t" end="10546300000t" region="bottomCenter" style="s1" xml:id="subtitle443">那么, 你又为什么会变成这种<br />惨兮兮的样子啊</p>
+<p begin="10568400000t" end="10594700000t" region="bottomCenter" style="s1" xml:id="subtitle444">爱蜜莉雅大人不觉得奇怪吗</p>
+<p begin="10599200000t" end="10606200000t" region="bottomCenter" style="s1" xml:id="subtitle445">咦</p>
+<p begin="10610500000t" end="10632900000t" region="bottomCenter" style="s1" xml:id="subtitle446">逃到圣域来的居民们</p>
+<p begin="10633200000t" end="10651000000t" region="bottomCenter" style="s1" xml:id="subtitle447">还有罗兹瓦尔大人跟拉姆</p>
+<p begin="10651200000t" end="10666600000t" region="bottomCenter" style="s1" xml:id="subtitle448">为什么会一直不回宅邸</p>
+<p begin="10666900000t" end="10688200000t" region="bottomCenter" style="s1" xml:id="subtitle449">而是留在这里</p>
+<p begin="10695500000t" end="10706800000t" region="bottomCenter" style="s1" xml:id="subtitle450">那…那是…</p>
+<p begin="10707000000t" end="10733900000t" region="bottomCenter" style="s1" xml:id="subtitle451">是因为你受伤了吧</p>
+<p begin="10742200000t" end="10763600000t" region="bottomCenter" style="s1" xml:id="subtitle452">现在的状况是</p>
+<p begin="10763900000t" end="10804400000t" region="bottomCenter" style="s1" xml:id="subtitle453">我们全部人都被软禁了</p>
+<p begin="10817600000t" end="10848900000t" region="bottomCenter" style="s1" xml:id="subtitle454">我也好, 拉姆和<br />阿拉姆村的居民们也是</p>
+<p begin="10852900000t" end="10873200000t" region="bottomCenter" style="s1" xml:id="subtitle455">啊, 进到这里的时候</p>
+<p begin="10873400000t" end="10892600000t" region="bottomCenter" style="s1" xml:id="subtitle456">就也包含你们两个人咯</p>
+<p begin="10901800000t" end="10930700000t" region="bottomCenter" style="s1" xml:id="subtitle457">什么啊, 聊得很起劲嘛</p>
+<p begin="10930900000t" end="10942700000t" region="bottomCenter" style="s1" xml:id="subtitle458">软禁是指…</p>
+<p begin="10943000000t" end="10959600000t" region="bottomCenter" style="s1" xml:id="subtitle459">难道, 罗兹瓦尔的伤是…</p>
+<p begin="10959900000t" end="10969000000t" region="bottomCenter" style="s1" xml:id="subtitle460">才不是</p>
+<p begin="10969200000t" end="10981300000t" region="bottomCenter" style="s1" xml:id="subtitle461">这家伙的伤</p>
+<p begin="10981600000t" end="11002100000t" region="bottomCenter" style="s1" xml:id="subtitle462">是被试炼所拒绝的结果</p>
+<p begin="11002300000t" end="11011900000t" region="bottomCenter" style="s1" xml:id="subtitle463">试炼</p>
+<p begin="11012200000t" end="11023200000t" region="bottomCenter" style="s1" xml:id="subtitle464">什么意思</p>
+<p begin="11029800000t" end="11055500000t" region="bottomCenter" style="s1" xml:id="subtitle465">碰到结界会变成怎样</p>
+<p begin="11059800000t" end="11078500000t" region="bottomCenter" style="s1" xml:id="subtitle466">那家伙应该已经体验过了吧</p>
+<p begin="11085700000t" end="11114500000t" region="bottomCenter" style="s1" xml:id="subtitle467">在那个情况下跑到结界里的混血</p>
+<p begin="11114800000t" end="11139800000t" region="bottomCenter" style="s1" xml:id="subtitle468">早就已经出不去了</p>
+<p begin="11143300000t" end="11149200000t" region="bottomCenter" style="s1" xml:id="subtitle469">什么</p>
+<p begin="11155000000t" end="11167900000t" region="bottomCenter" style="s1" xml:id="subtitle470">那, 爱蜜莉雅也</p>
+<p begin="11180500000t" end="11207400000t" region="bottomCenter" style="s1" xml:id="subtitle471">虽然是和普通的家伙没什么关系的结界</p>
+<p begin="11207700000t" end="11230600000t" region="bottomCenter" style="s1" xml:id="subtitle472">不过不觉得这样有点不太公平吗</p>
+<p begin="11230900000t" end="11247100000t" region="bottomCenter" style="s1" xml:id="subtitle473">对吧, 爱蜜莉雅大人</p>
+<p begin="11254500000t" end="11266600000t" region="bottomCenter" style="s1" xml:id="subtitle474">要解除结界</p>
+<p begin="11266900000t" end="11285000000t" region="bottomCenter" style="s1" xml:id="subtitle475">就只能通过墓所的试炼</p>
+<p begin="11288100000t" end="11303100000t" region="bottomCenter" style="s1" xml:id="subtitle476">但是, 混血以外的家伙</p>
+<p begin="11303300000t" end="11321000000t" region="bottomCenter" style="s1" xml:id="subtitle477">去挑战试炼的话…</p>
+<p begin="11346500000t" end="11373600000t" region="bottomCenter" style="s1" xml:id="subtitle478">我把村子的人们都集中在一个地方了</p>
+<p begin="11373900000t" end="11398600000t" region="bottomCenter" style="s1" xml:id="subtitle479">只要不胡闹我就不会出手</p>
+<p begin="11398800000t" end="11418900000t" region="bottomCenter" style="s1" xml:id="subtitle480">也会准备三餐和睡觉的地方</p>
+<p begin="11432000000t" end="11453700000t" region="bottomCenter" style="s1" xml:id="subtitle481">这是老子的要求</p>
+<p begin="11457800000t" end="11480900000t" region="bottomCenter" style="s1" xml:id="subtitle482">去解开包围这个圣域的结界</p>
+<p begin="11481100000t" end="11506000000t" region="bottomCenter" style="s1" xml:id="subtitle483">你必须接受试炼</p>
+<p begin="11506200000t" end="11520100000t" region="bottomCenter" style="s1" xml:id="subtitle484">不解开的话</p>
+<p begin="11520300000t" end="11544500000t" region="bottomCenter" style="s1" xml:id="subtitle485">村子里的家伙谁也别想出去</p>
+<p begin="11544700000t" end="11554600000t" region="bottomCenter" style="s1" xml:id="subtitle486">不过说实在的</p>
+<p begin="11554900000t" end="11567300000t" region="bottomCenter" style="s1" xml:id="subtitle487">现在连你自己</p>
+<p begin="11567600000t" end="11586100000t" region="bottomCenter" style="s1" xml:id="subtitle488">都出不去就是了</p>
+<p begin="11696900000t" end="11707600000t" region="bottomCenter" style="s1" xml:id="subtitle489">昴大人</p>
+<p begin="11714000000t" end="11727700000t" region="bottomCenter" style="s1" xml:id="subtitle490">您没事真是太好了</p>
+<p begin="11727900000t" end="11744700000t" region="bottomCenter" style="s1" xml:id="subtitle491">大家也没事就好</p>
+<p begin="11744900000t" end="11762100000t" region="bottomCenter" style="s1" xml:id="subtitle492">其他人都还好吗</p>
+<p begin="11762400000t" end="11785900000t" region="bottomCenter" style="s1" xml:id="subtitle493">领主大人的伤势还好吗</p>
+<p begin="11786200000t" end="11810300000t" region="bottomCenter" style="s1" xml:id="subtitle494">-竟然为了我们受了那么重的伤…<br />-您来了我们就安心了</p>
+<p begin="11817800000t" end="11831100000t" region="bottomCenter" style="s1" xml:id="subtitle495">大家, 听好了</p>
+<p begin="11836700000t" end="11846100000t" region="bottomCenter" style="s1" xml:id="subtitle496">如各位所知道的</p>
+<p begin="11846300000t" end="11861300000t" region="bottomCenter" style="s1" xml:id="subtitle497">袭击了村庄的危险分子</p>
+<p begin="11861500000t" end="11872000000t" region="bottomCenter" style="s1" xml:id="subtitle498">已经被赶跑了</p>
+<p begin="11901500000t" end="11922200000t" region="bottomCenter" style="s1" xml:id="subtitle499">另一批去避难的人们</p>
+<p begin="11922500000t" end="11933200000t" region="bottomCenter" style="s1" xml:id="subtitle500">也已经回到村子</p>
+<p begin="11933400000t" end="11952100000t" region="bottomCenter" style="s1" xml:id="subtitle501">并等着大家回去</p>
+<p begin="11969900000t" end="11994800000t" region="bottomCenter" style="s1" xml:id="subtitle502">看来大家都知道要从这里出去</p>
+<p begin="11995100000t" end="12013500000t" region="bottomCenter" style="s1" xml:id="subtitle503">不是一件容易的事啊</p>
+<p begin="12019300000t" end="12030000000t" region="bottomCenter" style="s1" xml:id="subtitle504">但是没问题的</p>
+<p begin="12033300000t" end="12040200000t" region="bottomCenter" style="s1" xml:id="subtitle505">要说为什么的话</p>
+<p begin="12040500000t" end="12055300000t" region="bottomCenter" style="s1" xml:id="subtitle506">那是因为为了解救大家</p>
+<p begin="12055400000t" end="12078500000t" region="bottomCenter" style="s1" xml:id="subtitle507">有人将会挑战试炼</p>
+<p begin="12081500000t" end="12090100000t" region="bottomCenter" style="s1" xml:id="subtitle508">那是…</p>
+<p begin="12090400000t" end="12104300000t" region="bottomCenter" style="s1" xml:id="subtitle509">该不会是昴大人…</p>
+<p begin="12108800000t" end="12126300000t" region="bottomCenter" style="s1" xml:id="subtitle510">不, 如果我可以的话</p>
+<p begin="12126500000t" end="12142300000t" region="bottomCenter" style="s1" xml:id="subtitle511">我是很愿意啦</p>
+<p begin="12242200000t" end="12258800000t" region="bottomCenter" style="s1" xml:id="subtitle512">大家应该都知道吧</p>
+<p begin="12259100000t" end="12281300000t" region="bottomCenter" style="s1" xml:id="subtitle513">她是王选后补的爱蜜莉雅</p>
+<p begin="12281600000t" end="12298200000t" region="bottomCenter" style="s1" xml:id="subtitle514">将会由她来挑战试炼</p>
+<p begin="12324200000t" end="12348500000t" region="bottomCenter" style="s1" xml:id="subtitle515">抱…抱歉让你们久等了</p>
+<p begin="12348700000t" end="12357200000t" region="bottomCenter" style="s1" xml:id="subtitle516">我将代替领主</p>
+<p begin="12357500000t" end="12378000000t" region="bottomCenter" style="s1" xml:id="subtitle517">罗兹瓦尔・L・梅札斯</p>
+<p begin="12378200000t" end="12396600000t" region="bottomCenter" style="s1" xml:id="subtitle518">来挑战试炼</p>
+<p begin="12409600000t" end="12423400000t" region="bottomCenter" style="s1" xml:id="subtitle519">请多多指教</p>
+<p begin="12467000000t" end="12492800000t" region="bottomCenter" style="s1" xml:id="subtitle520">方便请教您一件事吗</p>
+<p begin="12493000000t" end="12503700000t" region="bottomCenter" style="s1" xml:id="subtitle521">村长</p>
+<p begin="12504000000t" end="12517900000t" region="bottomCenter" style="s1" xml:id="subtitle522">为什么呢</p>
+<p begin="12520800000t" end="12569100000t" region="bottomCenter" style="s1" xml:id="subtitle523">之前, 你曾经低着头向我们拜托过</p>
+<p begin="12569300000t" end="12611700000t" region="bottomCenter" style="s1" xml:id="subtitle524">但是我们却拒绝了</p>
+<p begin="12637200000t" end="12652100000t" region="bottomCenter" style="s1" xml:id="subtitle525">如果是想要在王选当中</p>
+<p begin="12652400000t" end="12682700000t" region="bottomCenter" style="s1" xml:id="subtitle526">得到我们的支持的话</p>
+<p begin="12683000000t" end="12702500000t" region="bottomCenter" style="s1" xml:id="subtitle527">那也没有关系</p>
+<p begin="12702700000t" end="12723300000t" region="bottomCenter" style="s1" xml:id="subtitle528">只要说一声就好</p>
+<p begin="12736100000t" end="12764600000t" region="bottomCenter" style="s1" xml:id="subtitle529">但如果是有其他理由的话</p>
+<p begin="12768700000t" end="12784800000t" region="bottomCenter" style="s1" xml:id="subtitle530">我想要知道</p>
+<p begin="12792500000t" end="12804800000t" region="bottomCenter" style="s1" xml:id="subtitle531">您真的不是</p>
+<p begin="12808700000t" end="12855900000t" region="bottomCenter" style="s1" xml:id="subtitle532">我们无法理解的那位魔女吧</p>
+<p begin="12942100000t" end="12997100000t" region="bottomCenter" style="s1" xml:id="subtitle533">我现在并没有做出<br />像样的回应的自信</p>
+<p begin="13000600000t" end="13023900000t" region="bottomCenter" style="s1" xml:id="subtitle534">也没有超级有说服力</p>
+<p begin="13024100000t" end="13057800000t" region="bottomCenter" style="s1" xml:id="subtitle535">并且让大家都能够接受的说法</p>
+<p begin="13062000000t" end="13101400000t" region="bottomCenter" style="s1" xml:id="subtitle536">虽然只是短短的一段时间</p>
+<p begin="13101600000t" end="13132600000t" region="bottomCenter" style="s1" xml:id="subtitle537">但我和不在这里的大家的家人们<br />一起度过了</p>
+<p begin="13132800000t" end="13154400000t" region="bottomCenter" style="s1" xml:id="subtitle538">所以, 我重新想过了</p>
+<p begin="13167600000t" end="13198700000t" region="bottomCenter" style="s1" xml:id="subtitle539">家人不待在一起是不行的</p>
+<p begin="13210700000t" end="13249100000t" region="bottomCenter" style="s1" xml:id="subtitle540">我想要让你们回到家人们的身边</p>
+<p begin="13255400000t" end="13279800000t" region="bottomCenter" style="s1" xml:id="subtitle541">虽然并没有做出这样的约定</p>
+<p begin="13288900000t" end="13306500000t" region="bottomCenter" style="s1" xml:id="subtitle542">但我已经在内心发誓过了</p>
+<p begin="13328400000t" end="13353800000t" region="bottomCenter" style="s1" xml:id="subtitle543">理由…就只有这样而已</p>
+<p begin="13365600000t" end="13385700000t" region="bottomCenter" style="s1" xml:id="subtitle544">希望你们支持什么的</p>
+<p begin="13386000000t" end="13404300000t" region="bottomCenter" style="s1" xml:id="subtitle545">我并没有想过</p>
+<p begin="13414200000t" end="13436000000t" region="bottomCenter" style="s1" xml:id="subtitle546">但是, 可以的话我想和大家</p>
+<p begin="13445900000t" end="13454300000t" region="bottomCenter" style="s1" xml:id="subtitle547">那个…</p>
+<p begin="13465000000t" end="13498000000t" region="bottomCenter" style="s1" xml:id="subtitle548">变得更要好</p>
+<p begin="13533800000t" end="13545700000t" region="bottomCenter" style="s1" xml:id="subtitle549">爱蜜莉雅大人</p>
+<p begin="13546000000t" end="13556600000t" region="bottomCenter" style="s1" xml:id="subtitle550">是…是</p>
+<p begin="13568100000t" end="13602200000t" region="bottomCenter" style="s1" xml:id="subtitle551">我明白这样说有点自私</p>
+<p begin="13606500000t" end="13618200000t" region="bottomCenter" style="s1" xml:id="subtitle552">但是</p>
+<p begin="13647400000t" end="13672900000t" region="bottomCenter" style="s1" xml:id="subtitle553">还请您多多指教了</p>
+<p begin="13690700000t" end="13706000000t" region="bottomCenter" style="s1" xml:id="subtitle554">我, 我才是</p>
+<p begin="13712300000t" end="13725800000t" region="bottomCenter" style="s1" xml:id="subtitle555">小女子不才</p>
+<p begin="13726000000t" end="13740000000t" region="bottomCenter" style="s1" xml:id="subtitle556">还请多多指教</p>
+<p begin="13747900000t" end="13760800000t" region="bottomCenter" style="s1" xml:id="subtitle557">小女子不才这种说法</p>
+<p begin="13761100000t" end="13779100000t" region="bottomCenter" style="s1" xml:id="subtitle558">现在已经没有人在用了啦</p>
+<p begin="13799700000t" end="13810800000t" region="bottomCenter" style="s1" xml:id="subtitle559">爱蜜莉雅大人</p>
+<p begin="13825000000t" end="13846800000t" region="bottomCenter" style="s1" xml:id="subtitle560">看来稍微改变了些呢</p>
+<p begin="13862100000t" end="13881600000t" region="bottomCenter" style="s1" xml:id="subtitle561">是因为巴鲁斯的关系吗</p>
+<p begin="13890400000t" end="13910600000t" region="bottomCenter" style="s1" xml:id="subtitle562">是她自己思考出来的结果啦</p>
+<p begin="13914600000t" end="13926500000t" region="bottomCenter" style="s1" xml:id="subtitle563">可不要这样</p>
+<p begin="13926700000t" end="13956000000t" region="bottomCenter" style="s1" xml:id="subtitle564">把那孩子的决心归功给其他人啊</p>
+<p begin="13959900000t" end="13969000000t" region="bottomCenter" style="s1" xml:id="subtitle565">是啊</p>
+<p begin="13980500000t" end="13998400000t" region="bottomCenter" style="s1" xml:id="subtitle566">这次是拉姆不好</p>
+<p begin="14116300000t" end="14134000000t" region="bottomCenter" style="s1" xml:id="subtitle567">你已经得到足够的</p>
+<p begin="14134300000t" end="14151400000t" region="bottomCenter" style="s1" xml:id="subtitle568">微精灵们的鼓励了吗</p>
+<p begin="14156200000t" end="14172200000t" region="bottomCenter" style="s1" xml:id="subtitle569">嗯, 没问题</p>
+<p begin="14176900000t" end="14184300000t" region="bottomCenter" style="s1" xml:id="subtitle570">不过</p>
+<p begin="14184500000t" end="14204000000t" region="bottomCenter" style="s1" xml:id="subtitle571">还是有点想要最后有人<br />再推一把啊</p>
+<p begin="14204300000t" end="14215000000t" region="bottomCenter" style="s1" xml:id="subtitle572">我可以吗</p>
+<p begin="14222000000t" end="14236200000t" region="bottomCenter" style="s1" xml:id="subtitle573">我想要的就是昴的打气哦</p>
+<p begin="14241500000t" end="14248000000t" region="bottomCenter" style="s1" xml:id="subtitle574">拜托了</p>
+<p begin="14255100000t" end="14261400000t" region="bottomCenter" style="s1" xml:id="subtitle575">加油</p>
+<p begin="14261700000t" end="14267100000t" region="bottomCenter" style="s1" xml:id="subtitle576">别输</p>
+<p begin="14267300000t" end="14276900000t" region="bottomCenter" style="s1" xml:id="subtitle577">EMT</p>
+<p begin="14277200000t" end="14282200000t" region="bottomCenter" style="s1" xml:id="subtitle578">爱蜜莉雅酱</p>
+<p begin="14282400000t" end="14286500000t" region="bottomCenter" style="s1" xml:id="subtitle579">真的是</p>
+<p begin="14286700000t" end="14301800000t" region="bottomCenter" style="s1" xml:id="subtitle580">挑战者</p>
+<p begin="14318500000t" end="14329200000t" region="bottomCenter" style="s1" xml:id="subtitle581">谢谢你</p>
+<p begin="14442600000t" end="14478800000t" region="bottomCenter" style="s1" xml:id="subtitle582">这代表挑战试炼的资格<br />已经被承认了</p>
+<p begin="14493200000t" end="14502100000t" region="bottomCenter" style="s1" xml:id="subtitle583">那我出发了</p>
+<p begin="14545000000t" end="14570100000t" region="bottomCenter" style="s1" xml:id="subtitle584">我也很同情你出不去啦</p>
+<p begin="14576500000t" end="14599200000t" region="bottomCenter" style="s1" xml:id="subtitle585">不过为什么你不自己来挑战啊</p>
+<p begin="14615600000t" end="14636600000t" region="bottomCenter" style="s1" xml:id="subtitle586">要是可以的话早就去了啦</p>
+<p begin="14692300000t" end="14698100000t" region="bottomCenter" style="s1" xml:id="subtitle587">喂</p>
+<p begin="14698300000t" end="14712500000t" region="bottomCenter" style="s1" xml:id="subtitle588">这个没问题吗</p>
+<p begin="14712800000t" end="14726000000t" region="bottomCenter" style="s1" xml:id="subtitle589">试炼还在进行当中</p>
+<p begin="14726200000t" end="14738900000t" region="bottomCenter" style="s1" xml:id="subtitle590">光就消失什么的</p>
+<p begin="14739100000t" end="14746700000t" region="bottomCenter" style="s1" xml:id="subtitle591">这不可能</p>
+<p begin="14746900000t" end="14756400000t" region="bottomCenter" style="s1" xml:id="subtitle592">爱蜜莉雅</p>
+<p begin="14756700000t" end="14765200000t" region="bottomCenter" style="s1" xml:id="subtitle593">巴鲁斯</p>
+<p begin="14807400000t" end="14815600000t" region="bottomCenter" style="s1" xml:id="subtitle594">为什么</p>
+<p begin="14815900000t" end="14826300000t" region="bottomCenter" style="s1" xml:id="subtitle595">虽然不太清楚为什么</p>
+<p begin="14826600000t" end="14832700000t" region="bottomCenter" style="s1" xml:id="subtitle596">不过可以进去的话</p>
+<p begin="14832900000t" end="14845200000t" region="bottomCenter" style="s1" xml:id="subtitle597">正如我所愿啦</p>
+<p begin="14845500000t" end="14856100000t" region="bottomCenter" style="s1" xml:id="subtitle598">你们就待在那里吧</p>
+<p begin="14856400000t" end="14863700000t" region="bottomCenter" style="s1" xml:id="subtitle599">发生什么事的话</p>
+<p begin="14863900000t" end="14873100000t" region="bottomCenter" style="s1" xml:id="subtitle600">我会大叫的</p>
+<p begin="14950200000t" end="14960400000t" region="bottomCenter" style="s1" xml:id="subtitle601">爱蜜莉雅</p>
+<p begin="14977900000t" end="14986300000t" region="bottomCenter" style="s1" xml:id="subtitle602">那么首先</p>
+<p begin="14986500000t" end="15006800000t" region="bottomCenter" style="s1" xml:id="subtitle603">就从面对自己的过去开始吧</p>
+<p begin="15139900000t" end="15164400000t" region="bottomCenter" style="s1" xml:id="subtitle604">Good morning, 儿子啊</p>
+<p begin="15176600000t" end="15190500000t" region="bottomCenter" style="s1" xml:id="subtitle605">喂喂喂, 怎么啦</p>
+<p begin="15190700000t" end="15206900000t" region="bottomCenter" style="s1" xml:id="subtitle606">怎么啦, 怎么啦</p>
+<p begin="15207100000t" end="15216300000t" region="bottomCenter" style="s1" xml:id="subtitle607">你一脸就像是</p>
+<p begin="15216500000t" end="15247300000t" region="bottomCenter" style="s1" xml:id="subtitle608">一大早就看到全裸老爸的感觉耶</p>
+<p begin="15270200000t" end="15300800000t" region="bottomCenter" style="s1" xml:id="subtitle609">(等待许久的再会)</p>
+</div>
+</body>
+</tt>

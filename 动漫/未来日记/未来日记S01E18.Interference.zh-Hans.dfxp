@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="17900000t" end="33700000t" region="bottomCenter" style="s1" xml:id="subtitle0">（一年前 樱见中学走廊）</p>
+<p begin="34600000t" end="64200000t" region="bottomCenter" style="s1" xml:id="subtitle1">那纯属偶然</p>
+<p begin="75900000t" end="111300000t" region="bottomCenter" style="s1" xml:id="subtitle2">我一如既往地跟着天野</p>
+<p begin="120900000t" end="137600000t" region="bottomCenter" style="s1" xml:id="subtitle3">然后我看到了它</p>
+<p begin="148000000t" end="162600000t" region="bottomCenter" style="s1" xml:id="subtitle4">啊 真是的…</p>
+<p begin="175500000t" end="189300000t" region="bottomCenter" style="s1" xml:id="subtitle5">情书？</p>
+<p begin="1090200000t" end="1109400000t" region="bottomCenter" style="s1" xml:id="subtitle6">（市立樱见中学）</p>
+<p begin="1173600000t" end="1201200000t" region="bottomCenter" style="s1" xml:id="subtitle7">我妻小姐长得真漂亮</p>
+<p begin="1229500000t" end="1257900000t" region="bottomCenter" style="s1" xml:id="subtitle8">-你不向她告白吗？</p>
+<p begin="1258700000t" end="1290800000t" region="bottomCenter" style="s1" xml:id="subtitle9">我才不做这种徒劳的事 根本没希望</p>
+<p begin="1297500000t" end="1315800000t" region="bottomCenter" style="s1" xml:id="subtitle10">嘿 你真没种</p>
+<p begin="1316700000t" end="1325400000t" region="bottomCenter" style="s1" xml:id="subtitle11">闭嘴！</p>
+<p begin="1364600000t" end="1381700000t" region="bottomCenter" style="s1" xml:id="subtitle12">笨蛋们</p>
+<p begin="1390500000t" end="1411800000t" region="bottomCenter" style="s1" xml:id="subtitle13">我才不会跟你们交往</p>
+<p begin="1412600000t" end="1436400000t" region="bottomCenter" style="s1" xml:id="subtitle14">你们这些傻蛋只会以貌取人</p>
+<p begin="1444700000t" end="1471400000t" region="bottomCenter" style="s1" xml:id="subtitle15">我喜欢的只有一个人</p>
+<p begin="1539000000t" end="1556900000t" region="bottomCenter" style="s1" xml:id="subtitle16">天野雪辉</p>
+<p begin="1592000000t" end="1636600000t" region="bottomCenter" style="s1" xml:id="subtitle17">我在一个星期之前才开始在意他</p>
+<p begin="1668700000t" end="1682500000t" region="bottomCenter" style="s1" xml:id="subtitle18">出于某个理由</p>
+<p begin="1683300000t" end="1724200000t" region="bottomCenter" style="s1" xml:id="subtitle19">我为了一个关于未来的调查问卷</p>
+<p begin="1732900000t" end="1760900000t" region="bottomCenter" style="s1" xml:id="subtitle20">他也同样被留在教室里</p>
+<p begin="1761700000t" end="1786700000t" region="bottomCenter" style="s1" xml:id="subtitle21">我们许下了一个约定</p>
+<p begin="1793400000t" end="1821400000t" region="bottomCenter" style="s1" xml:id="subtitle22">我有一天会嫁给你</p>
+<p begin="1833900000t" end="1846800000t" region="bottomCenter" style="s1" xml:id="subtitle23">等我们长大吧</p>
+<p begin="1862200000t" end="1870600000t" region="bottomCenter" style="s1" xml:id="subtitle24">嗯</p>
+<p begin="1877700000t" end="1913500000t" region="bottomCenter" style="s1" xml:id="subtitle25">我统计了票数 现在公布投票结果</p>
+<p begin="1914400000t" end="1964000000t" region="bottomCenter" style="s1" xml:id="subtitle26">能把我从绝望之中解救出来的</p>
+<p begin="1968600000t" end="1978600000t" region="bottomCenter" style="s1" xml:id="subtitle27">所以…</p>
+<p begin="1991500000t" end="2016100000t" region="bottomCenter" style="s1" xml:id="subtitle28">那封情书</p>
+<p begin="2027800000t" end="2052000000t" region="bottomCenter" style="s1" xml:id="subtitle29">一定不能送出去</p>
+<p begin="2052800000t" end="2095000000t" region="bottomCenter" style="s1" xml:id="subtitle30">我们班选择做女仆咖啡厅</p>
+<p begin="2095800000t" end="2136700000t" region="bottomCenter" style="s1" xml:id="subtitle31">我需要有人在放学后去买些必需品…</p>
+<p begin="2150400000t" end="2176700000t" region="bottomCenter" style="s1" xml:id="subtitle32">那我就让今天值日的</p>
+<p begin="2197100000t" end="2241800000t" region="bottomCenter" style="s1" xml:id="subtitle33">我妻小姐 你的家里管得很严吧？</p>
+<p begin="2242600000t" end="2268000000t" region="bottomCenter" style="s1" xml:id="subtitle34">那我就找其他人去吧</p>
+<p begin="2268900000t" end="2298900000t" region="bottomCenter" style="s1" xml:id="subtitle35">既然这样 我去吧</p>
+<p begin="2299700000t" end="2312300000t" region="bottomCenter" style="s1" xml:id="subtitle36">哦</p>
+<p begin="2313100000t" end="2343100000t" region="bottomCenter" style="s1" xml:id="subtitle37">那么若叶小姐 谢谢你毛遂自荐</p>
+<p begin="2344000000t" end="2353600000t" region="bottomCenter" style="s1" xml:id="subtitle38">好的</p>
+<p begin="2374000000t" end="2401100000t" region="bottomCenter" style="s1" xml:id="subtitle39">班长 若叶萌绘</p>
+<p begin="2401900000t" end="2438600000t" region="bottomCenter" style="s1" xml:id="subtitle40">天野写情书的对象…</p>
+<p begin="2450300000t" end="2473700000t" region="bottomCenter" style="s1" xml:id="subtitle41">为什么偏偏是她？</p>
+<p begin="2474500000t" end="2491200000t" region="bottomCenter" style="s1" xml:id="subtitle42">我一定要阻止她</p>
+<p begin="2492000000t" end="2528300000t" region="bottomCenter" style="s1" xml:id="subtitle43">否则天野就会把情书给她！</p>
+<p begin="2549600000t" end="2573800000t" region="bottomCenter" style="s1" xml:id="subtitle44">在这里全部可以买到</p>
+<p begin="2574590000t" end="2583800000t" region="bottomCenter" style="s1" xml:id="subtitle45">好…好耶</p>
+<p begin="2598390000t" end="2652600000t" region="bottomCenter" style="s1" xml:id="subtitle46">我在学校连朋友都没有 但现在</p>
+<p begin="2662200000t" end="2690100000t" region="bottomCenter" style="s1" xml:id="subtitle47">我不能一直胆小懦弱</p>
+<p begin="2691000000t" end="2713500000t" region="bottomCenter" style="s1" xml:id="subtitle48">好的 我今天一定要这样做！</p>
+<p begin="2714300000t" end="2737300000t" region="bottomCenter" style="s1" xml:id="subtitle49">快走吧 天野</p>
+<p begin="2747300000t" end="2780200000t" region="bottomCenter" style="s1" xml:id="subtitle50">哦…好的！</p>
+<p begin="2830700000t" end="2865300000t" region="bottomCenter" style="s1" xml:id="subtitle51">砰…</p>
+<p begin="2950800000t" end="2966200000t" region="bottomCenter" style="s1" xml:id="subtitle52">好险啊…</p>
+<p begin="2975000000t" end="3003400000t" region="bottomCenter" style="s1" xml:id="subtitle53">妈妈 有兔子！</p>
+<p begin="3013000000t" end="3050900000t" region="bottomCenter" style="s1" xml:id="subtitle54">他们开始进入状态了</p>
+<p begin="3060500000t" end="3074700000t" region="bottomCenter" style="s1" xml:id="subtitle55">你没事吧？</p>
+<p begin="3075500000t" end="3088500000t" region="bottomCenter" style="s1" xml:id="subtitle56">没事</p>
+<p begin="3150600000t" end="3161000000t" region="bottomCenter" style="s1" xml:id="subtitle57">找到啦</p>
+<p begin="3161900000t" end="3181900000t" region="bottomCenter" style="s1" xml:id="subtitle58">东西差不多都买齐了</p>
+<p begin="3182700000t" end="3193600000t" region="bottomCenter" style="s1" xml:id="subtitle59">去结账吧</p>
+<p begin="3194400000t" end="3203600000t" region="bottomCenter" style="s1" xml:id="subtitle60">好的</p>
+<p begin="3221500000t" end="3266500000t" region="bottomCenter" style="s1" xml:id="subtitle61">好 我该买些饮料什么的</p>
+<p begin="3298700000t" end="3323300000t" region="bottomCenter" style="s1" xml:id="subtitle62">看看吧…</p>
+<p begin="3403800000t" end="3430500000t" region="bottomCenter" style="s1" xml:id="subtitle63">怎么回事 笨蛋？</p>
+<p begin="3439200000t" end="3463800000t" region="bottomCenter" style="s1" xml:id="subtitle64">那只兔子在搞什么？</p>
+<p begin="3464700000t" end="3481300000t" region="bottomCenter" style="s1" xml:id="subtitle65">一直妨碍我…</p>
+<p begin="3493400000t" end="3514300000t" region="bottomCenter" style="s1" xml:id="subtitle66">好险啊…</p>
+<p begin="3515100000t" end="3553100000t" region="bottomCenter" style="s1" xml:id="subtitle67">我才不会让你买饮料营造氛围</p>
+<p begin="3573500000t" end="3588100000t" region="bottomCenter" style="s1" xml:id="subtitle68">好可怕</p>
+<p begin="3589000000t" end="3616100000t" region="bottomCenter" style="s1" xml:id="subtitle69">不要哭啦 怪兔子已经不在了</p>
+<p begin="3629800000t" end="3638200000t" region="bottomCenter" style="s1" xml:id="subtitle70">妈妈！</p>
+<p begin="3639000000t" end="3647300000t" region="bottomCenter" style="s1" xml:id="subtitle71">反正</p>
+<p begin="3648200000t" end="3679500000t" region="bottomCenter" style="s1" xml:id="subtitle72">我绝不能让他营造出送情书的氛围</p>
+<p begin="3687800000t" end="3698200000t" region="bottomCenter" style="s1" xml:id="subtitle73">好的…</p>
+<p begin="3699100000t" end="3743700000t" region="bottomCenter" style="s1" xml:id="subtitle74">上完厕所后 我一定要把信送给她</p>
+<p begin="3854600000t" end="3896800000t" region="bottomCenter" style="s1" xml:id="subtitle75">你为什么一直在捣乱？</p>
+<p begin="4007300000t" end="4032300000t" region="bottomCenter" style="s1" xml:id="subtitle76">你想要这封信吗？</p>
+<p begin="4092400000t" end="4118600000t" region="bottomCenter" style="s1" xml:id="subtitle77">保安！那边有怪人！</p>
+<p begin="4152000000t" end="4176200000t" region="bottomCenter" style="s1" xml:id="subtitle78">既然这样 我只好强行把信夺走！</p>
+<p begin="4251300000t" end="4278800000t" region="bottomCenter" style="s1" xml:id="subtitle79">天野 不要给她这封信！</p>
+<p begin="4279600000t" end="4290500000t" region="bottomCenter" style="s1" xml:id="subtitle80">若叶小姐！</p>
+<p begin="4298400000t" end="4309300000t" region="bottomCenter" style="s1" xml:id="subtitle81">天野？</p>
+<p begin="4331800000t" end="4346800000t" region="bottomCenter" style="s1" xml:id="subtitle82">若叶！</p>
+<p begin="4376400000t" end="4399300000t" region="bottomCenter" style="s1" xml:id="subtitle83">要是失去天野</p>
+<p begin="4400200000t" end="4424400000t" region="bottomCenter" style="s1" xml:id="subtitle84">我就毫无未来可言！</p>
+<p begin="4434800000t" end="4445600000t" region="bottomCenter" style="s1" xml:id="subtitle85">若叶小姐…</p>
+<p begin="4447300000t" end="4459000000t" region="bottomCenter" style="s1" xml:id="subtitle86">什…什么？</p>
+<p begin="4467300000t" end="4478600000t" region="bottomCenter" style="s1" xml:id="subtitle87">给…给你…</p>
+<p begin="4518200000t" end="4538700000t" region="bottomCenter" style="s1" xml:id="subtitle88">请你接受我的心意！</p>
+<p begin="4731300000t" end="4759700000t" region="bottomCenter" style="s1" xml:id="subtitle89">过了门禁时间了…</p>
+<p begin="4856500000t" end="4868100000t" region="bottomCenter" style="s1" xml:id="subtitle90">不过…</p>
+<p begin="4894400000t" end="4904400000t" region="bottomCenter" style="s1" xml:id="subtitle91">不过…</p>
+<p begin="4938600000t" end="4960300000t" region="bottomCenter" style="s1" xml:id="subtitle92">大概无所谓了吧</p>
+<p begin="4967800000t" end="4991200000t" region="bottomCenter" style="s1" xml:id="subtitle93">没人来查我</p>
+<p begin="5022500000t" end="5047100000t" region="bottomCenter" style="s1" xml:id="subtitle94">我回来了 爸爸 妈妈</p>
+<p begin="5091700000t" end="5119200000t" region="bottomCenter" style="s1" xml:id="subtitle95">爸爸和妈妈死了一个月了</p>
+<p begin="5127200000t" end="5185100000t" region="bottomCenter" style="s1" xml:id="subtitle96">成绩表、卡路里表、顶嘴次数</p>
+<p begin="5186000000t" end="5204700000t" region="bottomCenter" style="s1" xml:id="subtitle97">迟到次数</p>
+<p begin="5206000000t" end="5216790000t" region="bottomCenter" style="s1" xml:id="subtitle98">次数…</p>
+<p begin="5222300000t" end="5230590000t" region="bottomCenter" style="s1" xml:id="subtitle99">次数…</p>
+<p begin="5238500000t" end="5261000000t" region="bottomCenter" style="s1" xml:id="subtitle100">过了门禁时间 我就会受到体罚</p>
+<p begin="5261900000t" end="5276900000t" region="bottomCenter" style="s1" xml:id="subtitle101">对不起…</p>
+<p begin="5277700000t" end="5313600000t" region="bottomCenter" style="s1" xml:id="subtitle102">-连饭也不给我吃</p>
+<p begin="5348600000t" end="5379500000t" region="bottomCenter" style="s1" xml:id="subtitle103">现在局势扭转 感觉怎么样呢？</p>
+<p begin="5390800000t" end="5442100000t" region="bottomCenter" style="s1" xml:id="subtitle104">我再也无法接受爸妈所谓的精英教育</p>
+<p begin="5442900000t" end="5454100000t" region="bottomCenter" style="s1" xml:id="subtitle105">由乃！</p>
+<p begin="5458700000t" end="5486300000t" region="bottomCenter" style="s1" xml:id="subtitle106">所以我决定反过来 把他们关起来</p>
+<p begin="5487100000t" end="5506300000t" region="bottomCenter" style="s1" xml:id="subtitle107">你知道自己在干什么吗？</p>
+<p begin="5507100000t" end="5549200000t" region="bottomCenter" style="s1" xml:id="subtitle108">我知道一旦他们知道我有多么痛苦</p>
+<p begin="5550100000t" end="5559300000t" region="bottomCenter" style="s1" xml:id="subtitle109">你这个不肖女 ！</p>
+<p begin="5563000000t" end="5581800000t" region="bottomCenter" style="s1" xml:id="subtitle110">我为何要把你带到这个世界上来？</p>
+<p begin="5582600000t" end="5610100000t" region="bottomCenter" style="s1" xml:id="subtitle111">我还以为我会获得幸福</p>
+<p begin="5647300000t" end="5685600000t" region="bottomCenter" style="s1" xml:id="subtitle112">但等我自己回过神来 爸妈都死了</p>
+<p begin="5718600000t" end="5771100000t" region="bottomCenter" style="s1" xml:id="subtitle113">天野的信 幸好她没收下</p>
+<p begin="5797000000t" end="5820800000t" region="bottomCenter" style="s1" xml:id="subtitle114">（将来的梦 我要嫁给天野）</p>
+<p begin="5821600000t" end="5838700000t" region="bottomCenter" style="s1" xml:id="subtitle115">我还有未来</p>
+<p begin="5853300000t" end="5878700000t" region="bottomCenter" style="s1" xml:id="subtitle116">只要一直保护他的安全</p>
+<p begin="5879600000t" end="5907500000t" region="bottomCenter" style="s1" xml:id="subtitle117">我在未来依然可能会成为天野的新娘</p>
+<p begin="5921300000t" end="5956700000t" region="bottomCenter" style="s1" xml:id="subtitle118">那就是我的未来…</p>
+<p begin="6033900000t" end="6053900000t" region="bottomCenter" style="s1" xml:id="subtitle119">（樱见市内天野家）</p>
+<p begin="6096900000t" end="6118600000t" region="bottomCenter" style="s1" xml:id="subtitle120">（打起精神来 由乃）</p>
+<p begin="6164000000t" end="6192400000t" region="bottomCenter" style="s1" xml:id="subtitle121">你想让母亲复活？</p>
+<p begin="6199100000t" end="6209900000t" region="bottomCenter" style="s1" xml:id="subtitle122">是的</p>
+<p begin="6210700000t" end="6237000000t" region="bottomCenter" style="s1" xml:id="subtitle123">你是神 应该易如反掌吧</p>
+<p begin="6237800000t" end="6252400000t" region="bottomCenter" style="s1" xml:id="subtitle124">不可能</p>
+<p begin="6253300000t" end="6265400000t" region="bottomCenter" style="s1" xml:id="subtitle125">为什么？</p>
+<p begin="6266200000t" end="6295000000t" region="bottomCenter" style="s1" xml:id="subtitle126">如果因果律已经确立</p>
+<p begin="6295800000t" end="6326300000t" region="bottomCenter" style="s1" xml:id="subtitle127">我再也没有能力扭转乾坤</p>
+<p begin="6327100000t" end="6350000000t" region="bottomCenter" style="s1" xml:id="subtitle128">我的寿命马上就要终结了</p>
+<p begin="6358800000t" end="6404700000t" region="bottomCenter" style="s1" xml:id="subtitle129">主和主人死了</p>
+<p begin="6405500000t" end="6429700000t" region="bottomCenter" style="s1" xml:id="subtitle130">然后毁灭</p>
+<p begin="6436400000t" end="6490600000t" region="bottomCenter" style="s1" xml:id="subtitle131">没错 死的不仅仅是你母亲</p>
+<p begin="6491400000t" end="6509400000t" region="bottomCenter" style="s1" xml:id="subtitle132">大家都会死 包括你</p>
+<p begin="6517300000t" end="6544000000t" region="bottomCenter" style="s1" xml:id="subtitle133">不过有一个办法</p>
+<p begin="6544800000t" end="6589000000t" region="bottomCenter" style="s1" xml:id="subtitle134">这个办法可以拯救所有人</p>
+<p begin="6652400000t" end="6667000000t" region="bottomCenter" style="s1" xml:id="subtitle135">爸爸…</p>
+<p begin="6728300000t" end="6738300000t" region="bottomCenter" style="s1" xml:id="subtitle136">爸爸！</p>
+<p begin="6793400000t" end="6837600000t" region="bottomCenter" style="s1" xml:id="subtitle137">我有事来这里</p>
+<p begin="6838400000t" end="6859300000t" region="bottomCenter" style="s1" xml:id="subtitle138">可能是追债的人…</p>
+<p begin="6878900000t" end="6898900000t" region="bottomCenter" style="s1" xml:id="subtitle139">竟然还有脸来这里？</p>
+<p begin="6899800000t" end="6909800000t" region="bottomCenter" style="s1" xml:id="subtitle140">爸爸…</p>
+<p begin="6921000000t" end="6952300000t" region="bottomCenter" style="s1" xml:id="subtitle141">是你杀了妈妈的吧？</p>
+<p begin="6959000000t" end="6972300000t" region="bottomCenter" style="s1" xml:id="subtitle142">去自首吧</p>
+<p begin="6984800000t" end="7002400000t" region="bottomCenter" style="s1" xml:id="subtitle143">才不 开什么玩笑…</p>
+<p begin="7003200000t" end="7023200000t" region="bottomCenter" style="s1" xml:id="subtitle144">别装傻了！</p>
+<p begin="7024100000t" end="7061200000t" region="bottomCenter" style="s1" xml:id="subtitle145">雪辉 你有什么证据吗？</p>
+<p begin="7062000000t" end="7090800000t" region="bottomCenter" style="s1" xml:id="subtitle146">证明是我刺杀了你妈的证据？</p>
+<p begin="7091600000t" end="7104500000t" region="bottomCenter" style="s1" xml:id="subtitle147">那…那个…</p>
+<p begin="7108700000t" end="7130800000t" region="bottomCenter" style="s1" xml:id="subtitle148">如果没有的话 那就是污蔑</p>
+<p begin="7168800000t" end="7193800000t" region="bottomCenter" style="s1" xml:id="subtitle149">当铺的存单？</p>
+<p begin="7194600000t" end="7212600000t" region="bottomCenter" style="s1" xml:id="subtitle150">你当了什么东西吗？</p>
+<p begin="7213400000t" end="7228800000t" region="bottomCenter" style="s1" xml:id="subtitle151">跟…跟你没关系吧</p>
+<p begin="7293900000t" end="7323900000t" region="bottomCenter" style="s1" xml:id="subtitle152">他当了什么？</p>
+<p begin="7342700000t" end="7363100000t" region="bottomCenter" style="s1" xml:id="subtitle153">最终期限是明天</p>
+<p begin="7364000000t" end="7397800000t" region="bottomCenter" style="s1" xml:id="subtitle154">如果可以当做证据 他明天可以回收</p>
+<p begin="7409400000t" end="7431100000t" region="bottomCenter" style="s1" xml:id="subtitle155">我会跟踪爸爸 夺走物品</p>
+<p begin="7432000000t" end="7468200000t" region="bottomCenter" style="s1" xml:id="subtitle156">然后我会拿到证据 让爸爸认罪！</p>
+<p begin="7485300000t" end="7504100000t" region="bottomCenter" style="s1" xml:id="subtitle157">（樱见市内喫茶店）</p>
+<p begin="7504900000t" end="7535000000t" region="bottomCenter" style="s1" xml:id="subtitle158">我妻小姐 我有问题要问你</p>
+<p begin="7544600000t" end="7569600000t" region="bottomCenter" style="s1" xml:id="subtitle159">事关在你家发现的白骨</p>
+<p begin="7576700000t" end="7611700000t" region="bottomCenter" style="s1" xml:id="subtitle160">根据牙痕鉴定</p>
+<p begin="7612600000t" end="7623800000t" region="bottomCenter" style="s1" xml:id="subtitle161">谜题解决了</p>
+<p begin="7631700000t" end="7653800000t" region="bottomCenter" style="s1" xml:id="subtitle162">但第三具白骨的身份依然是迷</p>
+<p begin="7654700000t" end="7687200000t" region="bottomCenter" style="s1" xml:id="subtitle163">我们尚未确定这具尸体的身份</p>
+<p begin="7703900000t" end="7715200000t" region="bottomCenter" style="s1" xml:id="subtitle164">我妻小姐？</p>
+<p begin="7765600000t" end="7801900000t" region="bottomCenter" style="s1" xml:id="subtitle165">一旦做DNA鉴定 我们就会知道答案</p>
+<p begin="7814400000t" end="7837800000t" region="bottomCenter" style="s1" xml:id="subtitle166">所以在此之前…</p>
+<p begin="7869900000t" end="7900300000t" region="bottomCenter" style="s1" xml:id="subtitle167">（樱见市内天野家）</p>
+<p begin="7904500000t" end="7927900000t" region="bottomCenter" style="s1" xml:id="subtitle168">可恶！我睡过头了！</p>
+<p begin="7945400000t" end="7957900000t" region="bottomCenter" style="s1" xml:id="subtitle169">爸爸走了！</p>
+<p begin="7958700000t" end="7996700000t" region="bottomCenter" style="s1" xml:id="subtitle170">他去当铺了 我还能追得上！</p>
+<p begin="8008400000t" end="8021300000t" region="bottomCenter" style="s1" xml:id="subtitle171">来不及了？</p>
+<p begin="8032100000t" end="8044200000t" region="bottomCenter" style="s1" xml:id="subtitle172">不好了！</p>
+<p begin="8075500000t" end="8092200000t" region="bottomCenter" style="s1" xml:id="subtitle173">（樱见市街）</p>
+<p begin="8099300000t" end="8137200000t" region="bottomCenter" style="s1" xml:id="subtitle174">不行 我的日记没有变化 这样下去…</p>
+<p begin="8138100000t" end="8156000000t" region="bottomCenter" style="s1" xml:id="subtitle175">对了 有捷径！</p>
+<p begin="8236100000t" end="8256500000t" region="bottomCenter" style="s1" xml:id="subtitle176">好的！我的日记变了！</p>
+<p begin="8327400000t" end="8338300000t" region="bottomCenter" style="s1" xml:id="subtitle177">我即时赶到了！</p>
+<p begin="8346200000t" end="8360000000t" region="bottomCenter" style="s1" xml:id="subtitle178">（当铺）</p>
+<p begin="8360800000t" end="8374100000t" region="bottomCenter" style="s1" xml:id="subtitle179">包？</p>
+<p begin="8403300000t" end="8429600000t" region="bottomCenter" style="s1" xml:id="subtitle180">如果我让他跑了 证据就没了！</p>
+<p begin="8441700000t" end="8451300000t" region="bottomCenter" style="s1" xml:id="subtitle181">他要去哪里？</p>
+<p begin="8460500000t" end="8472200000t" region="bottomCenter" style="s1" xml:id="subtitle182">神社？</p>
+<p begin="8483800000t" end="8499700000t" region="bottomCenter" style="s1" xml:id="subtitle183">我不会让他跑掉的！</p>
+<p begin="8523900000t" end="8547700000t" region="bottomCenter" style="s1" xml:id="subtitle184">（樱见神社）</p>
+<p begin="8636100000t" end="8665300000t" region="bottomCenter" style="s1" xml:id="subtitle185">上次爬的时候有这么辛苦吗？</p>
+<p begin="8705700000t" end="8737000000t" region="bottomCenter" style="s1" xml:id="subtitle186">大概是因为今天是一个人吧</p>
+<p begin="8768300000t" end="8793300000t" region="bottomCenter" style="s1" xml:id="subtitle187">看场地…</p>
+<p begin="8794200000t" end="8827500000t" region="bottomCenter" style="s1" xml:id="subtitle188">爸！我想在上面的神社这里看星星！</p>
+<p begin="8872600000t" end="8908000000t" region="bottomCenter" style="s1" xml:id="subtitle189">到头来 我们只是看了场地</p>
+<p begin="8961000000t" end="8984800000t" region="bottomCenter" style="s1" xml:id="subtitle190">找到你了 爸爸</p>
+<p begin="8993100000t" end="9001400000t" region="bottomCenter" style="s1" xml:id="subtitle191">雪辉…</p>
+<p begin="9009800000t" end="9025600000t" region="bottomCenter" style="s1" xml:id="subtitle192">你怎么找到我的？</p>
+<p begin="9056100000t" end="9084900000t" region="bottomCenter" style="s1" xml:id="subtitle193">这会证明是你杀了妈妈！</p>
+<p begin="9110300000t" end="9122400000t" region="bottomCenter" style="s1" xml:id="subtitle194">望远镜？</p>
+<p begin="9134500000t" end="9145300000t" region="bottomCenter" style="s1" xml:id="subtitle195">爸爸？</p>
+<p begin="9156600000t" end="9190400000t" region="bottomCenter" style="s1" xml:id="subtitle196">我买了这个</p>
+<p begin="9193300000t" end="9215000000t" region="bottomCenter" style="s1" xml:id="subtitle197">我一直留着</p>
+<p begin="9261300000t" end="9274600000t" region="bottomCenter" style="s1" xml:id="subtitle198">我知道…</p>
+<p begin="9285500000t" end="9314700000t" region="bottomCenter" style="s1" xml:id="subtitle199">我迟早都会被警察抓到</p>
+<p begin="9315500000t" end="9323800000t" region="bottomCenter" style="s1" xml:id="subtitle200">爸爸…</p>
+<p begin="9330500000t" end="9338900000t" region="bottomCenter" style="s1" xml:id="subtitle201">所以…</p>
+<p begin="9350100000t" end="9372600000t" region="bottomCenter" style="s1" xml:id="subtitle202">我想给自己一点准备的时间…</p>
+<p begin="9381400000t" end="9395200000t" region="bottomCenter" style="s1" xml:id="subtitle203">跟妈妈道歉…</p>
+<p begin="9409800000t" end="9449000000t" region="bottomCenter" style="s1" xml:id="subtitle204">赎回我存放在当铺里的</p>
+<p begin="9469400000t" end="9477800000t" region="bottomCenter" style="s1" xml:id="subtitle205">那么…</p>
+<p begin="9486100000t" end="9514000000t" region="bottomCenter" style="s1" xml:id="subtitle206">我已经没有遗憾了…</p>
+<p begin="9514900000t" end="9544100000t" region="bottomCenter" style="s1" xml:id="subtitle207">对不起 雪辉…</p>
+<p begin="9623300000t" end="9661700000t" region="bottomCenter" style="s1" xml:id="subtitle208">一到节日 这里就会开很多店</p>
+<p begin="9675000000t" end="9701700000t" region="bottomCenter" style="s1" xml:id="subtitle209">我们下次一起来吧</p>
+<p begin="9747600000t" end="9767200000t" region="bottomCenter" style="s1" xml:id="subtitle210">我一旦服完刑…</p>
+<p begin="9768000000t" end="9777200000t" region="bottomCenter" style="s1" xml:id="subtitle211">好</p>
+<p begin="9778100000t" end="9819800000t" region="bottomCenter" style="s1" xml:id="subtitle212">等我赎完罪 我想从头再来</p>
+<p begin="9826000000t" end="9859400000t" region="bottomCenter" style="s1" xml:id="subtitle213">到时候你愿意跟我一起住吗 雪辉？</p>
+<p begin="9873100000t" end="9892300000t" region="bottomCenter" style="s1" xml:id="subtitle214">只要你肯努力工作</p>
+<p begin="9901900000t" end="9919000000t" region="bottomCenter" style="s1" xml:id="subtitle215">嗯 我会尽最大努力的</p>
+<p begin="9967400000t" end="9985300000t" region="bottomCenter" style="s1" xml:id="subtitle216">怎么？我的日记刚…</p>
+<p begin="10111700000t" end="10137200000t" region="bottomCenter" style="s1" xml:id="subtitle217">爸…爸爸！</p>
+<p begin="10138000000t" end="10160100000t" region="bottomCenter" style="s1" xml:id="subtitle218">爸爸…</p>
+<p begin="10165100000t" end="10178900000t" region="bottomCenter" style="s1" xml:id="subtitle219">爸…</p>
+<p begin="10214300000t" end="10237700000t" region="bottomCenter" style="s1" xml:id="subtitle220">（爸昏迷不醒 他的胸口在流血）</p>
+<p begin="10252300000t" end="10261500000t" region="bottomCenter" style="s1" xml:id="subtitle221">为什么…</p>
+<p begin="10270990000t" end="10291500000t" region="bottomCenter" style="s1" xml:id="subtitle222">爸爸道歉了</p>
+<p begin="10292300000t" end="10339000000t" region="bottomCenter" style="s1" xml:id="subtitle223">他认罪了 承诺要跟我重新来过</p>
+<p begin="10367800000t" end="10377800000t" region="bottomCenter" style="s1" xml:id="subtitle224">所以为什么呢？</p>
+<p begin="10392800000t" end="10405300000t" region="bottomCenter" style="s1" xml:id="subtitle225">为什么？</p>
+<p begin="10417000000t" end="10443690000t" region="bottomCenter" style="s1" xml:id="subtitle226">不过有一个办法</p>
+<p begin="10444600000t" end="10487900000t" region="bottomCenter" style="s1" xml:id="subtitle227">这个办法可以拯救所有人</p>
+<p begin="10504200000t" end="10536300000t" region="bottomCenter" style="s1" xml:id="subtitle228">天野雪辉 你成为神就可以了</p>
+<p begin="10561300000t" end="10602200000t" region="bottomCenter" style="s1" xml:id="subtitle229">你可以杀了所有人</p>
+<p begin="10745700000t" end="10761100000t" region="bottomCenter" style="s1" xml:id="subtitle230">别放在心上</p>
+<p begin="10811200000t" end="10837400000t" region="bottomCenter" style="s1" xml:id="subtitle231">你竟然敢杀爸爸？</p>
+<p begin="10840800000t" end="10850800000t" region="bottomCenter" style="s1" xml:id="subtitle232">你这臭小子！</p>
+<p begin="10851600000t" end="10875000000t" region="bottomCenter" style="s1" xml:id="subtitle233">“敌人试图从后面抓我”</p>
+<p begin="10878300000t" end="10888300000t" region="bottomCenter" style="s1" xml:id="subtitle234">搞什么…</p>
+<p begin="10892500000t" end="10913400000t" region="bottomCenter" style="s1" xml:id="subtitle235">“敌人试图从后面抓我”  可恶！</p>
+<p begin="10971700000t" end="11005500000t" region="bottomCenter" style="s1" xml:id="subtitle236">这个臭小子怎么回事？</p>
+<p begin="11081400000t" end="11096500000t" region="bottomCenter" style="s1" xml:id="subtitle237">你没事吧 雪辉？</p>
+<p begin="11103100000t" end="11117300000t" region="bottomCenter" style="s1" xml:id="subtitle238">由乃…</p>
+<p begin="11169900000t" end="11185700000t" region="bottomCenter" style="s1" xml:id="subtitle239">雪辉…</p>
+<p begin="11284600000t" end="11305400000t" region="bottomCenter" style="s1" xml:id="subtitle240">喝点这个 冷静下来</p>
+<p begin="11372100000t" end="11380500000t" region="bottomCenter" style="s1" xml:id="subtitle241">雪辉…</p>
+<p begin="11443000000t" end="11454700000t" region="bottomCenter" style="s1" xml:id="subtitle242">雪辉？</p>
+<p begin="11455600000t" end="11486000000t" region="bottomCenter" style="s1" xml:id="subtitle243">我…我决定了</p>
+<p begin="11493100000t" end="11513500000t" region="bottomCenter" style="s1" xml:id="subtitle244">我要成为神…</p>
+<p begin="11522700000t" end="11561500000t" region="bottomCenter" style="s1" xml:id="subtitle245">杀死其他持有者 成为神</p>
+<p begin="11565300000t" end="11596100000t" region="bottomCenter" style="s1" xml:id="subtitle246">让爸爸和妈妈复活…</p>
+<p begin="11597000000t" end="11623600000t" region="bottomCenter" style="s1" xml:id="subtitle247">这样的话 你会是我的敌人！</p>
+<p begin="11639100000t" end="11650300000t" region="bottomCenter" style="s1" xml:id="subtitle248">真的吗？</p>
+<p begin="11651200000t" end="11673700000t" region="bottomCenter" style="s1" xml:id="subtitle249">我一个人也可以做到</p>
+<p begin="11674500000t" end="11698700000t" region="bottomCenter" style="s1" xml:id="subtitle250">我知道第八在哪里了…</p>
+<p begin="11699600000t" end="11731300000t" region="bottomCenter" style="s1" xml:id="subtitle251">第九了解我 我可以让她掉以轻心</p>
+<p begin="11746700000t" end="11775500000t" region="bottomCenter" style="s1" xml:id="subtitle252">我会想办法对付第11…</p>
+<p begin="11776300000t" end="11791300000t" region="bottomCenter" style="s1" xml:id="subtitle253">那我呢？</p>
+<p begin="11798400000t" end="11820500000t" region="bottomCenter" style="s1" xml:id="subtitle254">你现在就要杀我了吗？</p>
+<p begin="11914400000t" end="11929800000t" region="bottomCenter" style="s1" xml:id="subtitle255">雪辉…</p>
+<p begin="12093700000t" end="12117900000t" region="bottomCenter" style="s1" xml:id="subtitle256">我随时都可以死</p>
+<p begin="12124600000t" end="12161300000t" region="bottomCenter" style="s1" xml:id="subtitle257">因为那就是我的未来</p>
+<p begin="12422400000t" end="12444900000t" region="bottomCenter" style="s1" xml:id="subtitle258">第11好像也开始行动了</p>
+<p begin="13410000000t" end="13435500000t" region="bottomCenter" style="s1" xml:id="subtitle259">（姆鲁姆鲁老师的秘密未来日记）</p>
+<p begin="13436300000t" end="13459200000t" region="bottomCenter" style="s1" xml:id="subtitle260">（百货商店 我妻由乃篇）</p>
+<p begin="13546800000t" end="13563100000t" region="bottomCenter" style="s1" xml:id="subtitle261">那是什么？</p>
+<p begin="13586900000t" end="13611900000t" region="bottomCenter" style="s1" xml:id="subtitle262">发生了什么有趣的事吗？</p>
+<p begin="13616900000t" end="13629000000t" region="bottomCenter" style="s1" xml:id="subtitle263">哦！啊！</p>
+<p begin="13636500000t" end="13656900000t" region="bottomCenter" style="s1" xml:id="subtitle264">那是什么？</p>
+<p begin="13665700000t" end="13694000000t" region="bottomCenter" style="s1" xml:id="subtitle265">那是什么？它为什么要追我？</p>
+<p begin="13701100000t" end="13714100000t" region="bottomCenter" style="s1" xml:id="subtitle266">感觉真的很糟！</p>
+<p begin="13749900000t" end="13772000000t" region="bottomCenter" style="s1" xml:id="subtitle267">那个穿玩偶装的人是怎么回事？</p>
+<p begin="13772900000t" end="13795000000t" region="bottomCenter" style="s1" xml:id="subtitle268">我才没空跟它耗</p>
+<p begin="13795800000t" end="13816700000t" region="bottomCenter" style="s1" xml:id="subtitle269">我一定要阻止天野！</p>
+<p begin="13847500000t" end="13866700000t" region="bottomCenter" style="s1" xml:id="subtitle270">你是怎么回事啊？</p>
+<p begin="13867600000t" end="13876700000t" region="bottomCenter" style="s1" xml:id="subtitle271">你是什么人？</p>
+<p begin="13972700000t" end="13996800000t" region="bottomCenter" style="s1" xml:id="subtitle272">停…停下 你个笨蛋！</p>
+<p begin="14049800000t" end="14062700000t" region="bottomCenter" style="s1" xml:id="subtitle273">可恶…</p>
+<p begin="14070300000t" end="14089400000t" region="bottomCenter" style="s1" xml:id="subtitle274">什么？我现在很忙…</p>
+<p begin="14101500000t" end="14121600000t" region="bottomCenter" style="s1" xml:id="subtitle275">字幕翻译：杨海霞</p>
+</div>
+</body>
+</tt>

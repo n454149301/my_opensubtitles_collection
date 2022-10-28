@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="0t" end="0t" region="bottomCenter" style="s1" xml:id="subtitle0">----------------</p>
+<p begin="0t" end="0t" region="bottomCenter" style="s1" xml:id="subtitle1">----------------</p>
+<p begin="0t" end="0t" region="bottomCenter" style="s1" xml:id="subtitle2">----------------</p>
+<p begin="12500000t" end="56200000t" region="bottomCenter" style="s1" xml:id="subtitle3"><font face="方正大标宋_GBK" size="72" color="#c00612"><b><i>{\an5}雪酷</i></b></font></p>
+<p begin="12500000t" end="56200000t" region="bottomCenter" style="s1" xml:id="subtitle4"><font face="方正大标宋_GBK" size="72" color="#000000"><b><i>{\an5}雪酷</i></b></font></p>
+<p begin="12500000t" end="56200000t" region="bottomCenter" style="s1" xml:id="subtitle5"><font face="方正大标宋_GBK" size="22" color="#eaecf0"><b><i>{\an5}字幕组</i></b></font></p>
+<p begin="20900000t" end="56200000t" region="bottomCenter" style="s1" xml:id="subtitle6"><font face="方正大标宋_GBK" size="62" color="#000000"><b>{\an5}）</b></font></p>
+<p begin="659800000t" end="709200000t" region="bottomCenter" style="s1" xml:id="subtitle7"><font face="方正准圆_GBK" size="30"><b>{\an8}本字幕由雪酷字幕组制作 仅供交流 若您喜欢请支持购买正版<br />对字幕制作有任何建议 欢迎至雪酷论坛(http://bbs.sc-ol.com/)参与讨论</b></font></p>
+<p begin="659800000t" end="709200000t" region="bottomCenter" style="s1" xml:id="subtitle8"><font face="方正准圆_GBK" size="30"><b>{\an8}翻译：炮姐   后期：黑子  虾条</b></font></p>
+<p begin="720200000t" end="747800000t" region="bottomCenter" style="s1" xml:id="subtitle9">回过神来已经在地底深处</p>
+<p begin="748400000t" end="779000000t" region="bottomCenter" style="s1" xml:id="subtitle10">被扔进强制劳动设施的开司</p>
+<p begin="780200000t" end="818500000t" region="bottomCenter" style="s1" xml:id="subtitle11">唯一逃出去的希望就是一日外出券</p>
+<p begin="823100000t" end="865800000t" region="bottomCenter" style="s1" xml:id="subtitle12">站在开司面前的这个男人 班长大槻</p>
+<p begin="868100000t" end="913200000t" region="bottomCenter" style="s1" xml:id="subtitle13">怎么样 今晚用这玩意来「复活」</p>
+<p begin="940400000t" end="966500000t" region="bottomCenter" style="s1" xml:id="subtitle14">恶魔发来了骰子赌博的邀请</p>
+<p begin="967200000t" end="984700000t" region="bottomCenter" style="s1" xml:id="subtitle15">多人比大小</p>
+<p begin="1022900000t" end="1062700000t" region="bottomCenter" style="s1" xml:id="subtitle16"><font face="方正准圆_GBK" size="40"><b>{\an5}胜负的铁则</b></font></p>
+<p begin="1119700000t" end="1152100000t" region="bottomCenter" style="s1" xml:id="subtitle17">开司你不是很强吗</p>
+<p begin="1155600000t" end="1206300000t" region="bottomCenter" style="s1" xml:id="subtitle18">传闻你击败了上头的大干部 还赌了一亿什么的</p>
+<p begin="1209100000t" end="1254700000t" region="bottomCenter" style="s1" xml:id="subtitle19">有什么用呢 结果不是还在这儿嘛</p>
+<p begin="1255700000t" end="1273200000t" region="bottomCenter" style="s1" xml:id="subtitle20">只是个无药可救的笨蛋罢了</p>
+<p begin="1279700000t" end="1313900000t" region="bottomCenter" style="s1" xml:id="subtitle21">就算笨 你也是个破天荒的笨蛋</p>
+<p begin="1314800000t" end="1357100000t" region="bottomCenter" style="s1" xml:id="subtitle22">这里的人都是一些小器量的</p>
+<p begin="1358200000t" end="1392900000t" region="bottomCenter" style="s1" xml:id="subtitle23">难得赌一把 赌注都小的要命</p>
+<p begin="1393600000t" end="1409700000t" region="bottomCenter" style="s1" xml:id="subtitle24">完全high不起来</p>
+<p begin="1415200000t" end="1465800000t" region="bottomCenter" style="s1" xml:id="subtitle25">作为班长来说只要大家玩的开心倒也没什么</p>
+<p begin="1467100000t" end="1510100000t" region="bottomCenter" style="s1" xml:id="subtitle26">但说真心话 我想要更激动人心的赌一把</p>
+<p begin="1510500000t" end="1530600000t" region="bottomCenter" style="s1" xml:id="subtitle27">和开司你这样的男子汉</p>
+<p begin="1552100000t" end="1584700000t" region="bottomCenter" style="s1" xml:id="subtitle28">当然 我和开司比是差远了</p>
+<p begin="1585700000t" end="1624300000t" region="bottomCenter" style="s1" xml:id="subtitle29">我只是希望能挑战一下强者而已</p>
+<p begin="1625200000t" end="1653600000t" region="bottomCenter" style="s1" xml:id="subtitle30">拜托了啦 就用这个</p>
+<p begin="1685400000t" end="1726000000t" region="bottomCenter" style="s1" xml:id="subtitle31">借了六万 只要赢到一倍十二万不就好了嘛</p>
+<p begin="1727000000t" end="1735000000t" region="bottomCenter" style="s1" xml:id="subtitle32">对吧</p>
+<p begin="1742500000t" end="1778000000t" region="bottomCenter" style="s1" xml:id="subtitle33">蠢货 哪能那么容易就翻倍</p>
+<p begin="1780600000t" end="1815400000t" region="bottomCenter" style="s1" xml:id="subtitle34">干脆这么办吧 平时一旦借了六万</p>
+<p begin="1816400000t" end="1876100000t" region="bottomCenter" style="s1" xml:id="subtitle35">不论结果如何 归还时就要还全部薪水九万</p>
+<p begin="1877000000t" end="1919900000t" region="bottomCenter" style="s1" xml:id="subtitle36">这次就特例 如果今晚内能还清的话就算了</p>
+<p begin="1921300000t" end="1931400000t" region="bottomCenter" style="s1" xml:id="subtitle37">算了？</p>
+<p begin="1935200000t" end="1975200000t" region="bottomCenter" style="s1" xml:id="subtitle38">翻到十二万 还掉六万清帐</p>
+<p begin="1976000000t" end="2009400000t" region="bottomCenter" style="s1" xml:id="subtitle39">手中还剩下六万 能撑过这个月</p>
+<p begin="2010300000t" end="2071800000t" region="bottomCenter" style="s1" xml:id="subtitle40">这个不就是现在开司重整旗鼓的最佳方案吗</p>
+<p begin="2080800000t" end="2128700000t" region="bottomCenter" style="s1" xml:id="subtitle41">先是奉承后来哄骗 这个班长没想到那么有心计</p>
+<p begin="2135200000t" end="2161200000t" region="bottomCenter" style="s1" xml:id="subtitle42">不过或许正如他所说</p>
+<p begin="2175000000t" end="2208900000t" region="bottomCenter" style="s1" xml:id="subtitle43">拿着区区400过着禁欲生活的话</p>
+<p begin="2210400000t" end="2244200000t" region="bottomCenter" style="s1" xml:id="subtitle44">在发薪日估计又会爆发了</p>
+<p begin="2269800000t" end="2313900000t" region="bottomCenter" style="s1" xml:id="subtitle45">还不如借钱在今天的赌局中稍微赢一点</p>
+<p begin="2321600000t" end="2365200000t" region="bottomCenter" style="s1" xml:id="subtitle46">当然 如果输了只会让情况变得更糟</p>
+<p begin="2375100000t" end="2425200000t" region="bottomCenter" style="s1" xml:id="subtitle47">可是对方并不是像利根川和会长那么厉害的角色</p>
+<p begin="2434500000t" end="2457100000t" region="bottomCenter" style="s1" xml:id="subtitle48">我会输给这种货色吗</p>
+<p begin="2469100000t" end="2486400000t" region="bottomCenter" style="s1" xml:id="subtitle49">不可能</p>
+<p begin="2495100000t" end="2522000000t" region="bottomCenter" style="s1" xml:id="subtitle50">今晚内只要还清六万就行了对吧</p>
+<p begin="2525300000t" end="2552800000t" region="bottomCenter" style="s1" xml:id="subtitle51">我也是男人 说一不二</p>
+<p begin="2578800000t" end="2590190000t" region="bottomCenter" style="s1" xml:id="subtitle52">开吧</p>
+<p begin="2597000000t" end="2612600000t" region="bottomCenter" style="s1" xml:id="subtitle53">这样才对嘛</p>
+<p begin="2634100000t" end="2659900000t" region="bottomCenter" style="s1" xml:id="subtitle54">原则上赌博是禁止的</p>
+<p begin="2661000000t" end="2693000000t" region="bottomCenter" style="s1" xml:id="subtitle55">不过为了缓和劳动者的压力</p>
+<p begin="2694000000t" end="2729400000t" region="bottomCenter" style="s1" xml:id="subtitle56">在各班的班长愿意负责的情况下</p>
+<p begin="2730500000t" end="2760100000t" region="bottomCenter" style="s1" xml:id="subtitle57">每个月可以有两三次开局的机会</p>
+<p begin="2765900000t" end="2804600000t" region="bottomCenter" style="s1" xml:id="subtitle58">大槻 获得了今晚开局的许可</p>
+<p begin="2810100000t" end="2830500000t" region="bottomCenter" style="s1" xml:id="subtitle59">好 开局了</p>
+<p begin="2831100000t" end="2856500000t" region="bottomCenter" style="s1" xml:id="subtitle60">喂 石和 沼川 去准备一下</p>
+<p begin="2857100000t" end="2864100000t" region="bottomCenter" style="s1" xml:id="subtitle61">是</p>
+<p begin="2880400000t" end="2913500000t" region="bottomCenter" style="s1" xml:id="subtitle62">不会输 我怎么可能…</p>
+<p begin="2920300000t" end="2939600000t" region="bottomCenter" style="s1" xml:id="subtitle63">会输给这些货色</p>
+<p begin="2950300000t" end="2977200000t" region="bottomCenter" style="s1" xml:id="subtitle64">通常 九点半就会熄灯</p>
+<p begin="2989800000t" end="3060000000t" region="bottomCenter" style="s1" xml:id="subtitle65">但是开局的房间 会特别允许延迟到11点半</p>
+<p begin="3065300000t" end="3109900000t" region="bottomCenter" style="s1" xml:id="subtitle66">参加者兑换完零钱之后 支付300倍利卡参加费</p>
+<p begin="3111600000t" end="3130000000t" region="bottomCenter" style="s1" xml:id="subtitle67">坐在自己喜欢的位置上</p>
+<p begin="3139400000t" end="3178700000t" region="bottomCenter" style="s1" xml:id="subtitle68">在每个月两次 第一个和第三个周六举行的赌局</p>
+<p begin="3180300000t" end="3208900000t" region="bottomCenter" style="s1" xml:id="subtitle69">还会有许多其他班的人参加</p>
+<p begin="3215500000t" end="3249900000t" region="bottomCenter" style="s1" xml:id="subtitle70">但是今晚聚集的只有临时决定参加的人</p>
+<p begin="3265900000t" end="3286800000t" region="bottomCenter" style="s1" xml:id="subtitle71">小规模</p>
+<p begin="3289500000t" end="3321500000t" region="bottomCenter" style="s1" xml:id="subtitle72">好了 今晚有两个初次参加的人</p>
+<p begin="3322900000t" end="3352200000t" region="bottomCenter" style="s1" xml:id="subtitle73">开司和三好</p>
+<p begin="3373300000t" end="3396200000t" region="bottomCenter" style="s1" xml:id="subtitle74">你们有玩过掷骰子吗</p>
+<p begin="3403600000t" end="3418800000t" region="bottomCenter" style="s1" xml:id="subtitle75">算是玩过几次</p>
+<p begin="3420000000t" end="3465900000t" region="bottomCenter" style="s1" xml:id="subtitle76">我 我从没玩过 完全是初学者</p>
+<p begin="3469000000t" end="3479300000t" region="bottomCenter" style="s1" xml:id="subtitle77">很抱歉</p>
+<p begin="3486900000t" end="3521400000t" region="bottomCenter" style="s1" xml:id="subtitle78">没事没事 那我简单说明一下规则吧</p>
+<p begin="3526700000t" end="3571900000t" region="bottomCenter" style="s1" xml:id="subtitle79">掷骰子就是用三个骰子扔进碗里</p>
+<p begin="3573500000t" end="3594600000t" region="bottomCenter" style="s1" xml:id="subtitle80">用出来的数目决定胜负</p>
+<p begin="3599100000t" end="3641000000t" region="bottomCenter" style="s1" xml:id="subtitle81">每人最多扔三次 很简单吧</p>
+<p begin="3651200000t" end="3690900000t" region="bottomCenter" style="s1" xml:id="subtitle82">首先是庄家掷 然后从右向左的顺序</p>
+<p begin="3692700000t" end="3713100000t" region="bottomCenter" style="s1" xml:id="subtitle83">由闲家来掷</p>
+<p begin="3720300000t" end="3766100000t" region="bottomCenter" style="s1" xml:id="subtitle84">看庄家闲家谁的花色大 钱就归谁</p>
+<p begin="3767400000t" end="3801100000t" region="bottomCenter" style="s1" xml:id="subtitle85">也就是庄闲对决了</p>
+<p begin="3803300000t" end="3834800000t" region="bottomCenter" style="s1" xml:id="subtitle86">这就是花色大小的顺序</p>
+<p begin="3850100000t" end="3865700000t" region="bottomCenter" style="s1" xml:id="subtitle87">掷骰子的花色</p>
+<p begin="3874100000t" end="3924800000t" region="bottomCenter" style="s1" xml:id="subtitle88">就是当三个骰子中有两个同样点数的时候才有花色</p>
+<p begin="3929500000t" end="3958800000t" region="bottomCenter" style="s1" xml:id="subtitle89">两个为2 剩下的是1</p>
+<p begin="3960300000t" end="3979500000t" region="bottomCenter" style="s1" xml:id="subtitle90">那这种情况花色的大小就是1</p>
+<p begin="3988600000t" end="4005300000t" region="bottomCenter" style="s1" xml:id="subtitle91">这种情况就是6</p>
+<p begin="4009800000t" end="4047900000t" region="bottomCenter" style="s1" xml:id="subtitle92">6是最大的 1是最小</p>
+<p begin="4051000000t" end="4075700000t" region="bottomCenter" style="s1" xml:id="subtitle93">当然 大的一方胜利</p>
+<p begin="4078500000t" end="4096300000t" region="bottomCenter" style="s1" xml:id="subtitle94">得到押注的钱</p>
+<p begin="4108100000t" end="4126400000t" region="bottomCenter" style="s1" xml:id="subtitle95">三个骰子点数全部不一样时</p>
+<p begin="4138500000t" end="4159500000t" region="bottomCenter" style="s1" xml:id="subtitle96">叫做「没点」</p>
+<p begin="4163100000t" end="4196100000t" region="bottomCenter" style="s1" xml:id="subtitle97">这种情况 有三次掷骰子的机会</p>
+<p begin="4200800000t" end="4229700000t" region="bottomCenter" style="s1" xml:id="subtitle98">如果三次都是「没点」 就必输</p>
+<p begin="4233500000t" end="4257300000t" region="bottomCenter" style="s1" xml:id="subtitle99">失去押注的钱</p>
+<p begin="4270300000t" end="4316600000t" region="bottomCenter" style="s1" xml:id="subtitle100">但是三个骰子点数全部不一样的情况下也有两种特例</p>
+<p begin="4325600000t" end="4358800000t" region="bottomCenter" style="s1" xml:id="subtitle101">456 出现这个花色时是赢两倍</p>
+<p begin="4360800000t" end="4394400000t" region="bottomCenter" style="s1" xml:id="subtitle102">也就是能赢得押注金额的双倍</p>
+<p begin="4395300000t" end="4436300000t" region="bottomCenter" style="s1" xml:id="subtitle103">相反的 123 这种花色是输两倍</p>
+<p begin="4437400000t" end="4476700000t" region="bottomCenter" style="s1" xml:id="subtitle104">就是说要输押注金额的双倍</p>
+<p begin="4519500000t" end="4547800000t" region="bottomCenter" style="s1" xml:id="subtitle105">最大的花色</p>
+<p begin="4552000000t" end="4564100000t" region="bottomCenter" style="s1" xml:id="subtitle106">就是这个</p>
+<p begin="4565400000t" end="4577600000t" region="bottomCenter" style="s1" xml:id="subtitle107">全色</p>
+<p begin="4580800000t" end="4613800000t" region="bottomCenter" style="s1" xml:id="subtitle108">在这里2-6的全色是赢三倍</p>
+<p begin="4614900000t" end="4664800000t" region="bottomCenter" style="s1" xml:id="subtitle109">还有1的全色 这个「全1」是五倍</p>
+<p begin="4665600000t" end="4683100000t" region="bottomCenter" style="s1" xml:id="subtitle110">五 五倍！？</p>
+<p begin="4700000000t" end="4738400000t" region="bottomCenter" style="s1" xml:id="subtitle111">不用那么害怕 基本不会出现啦</p>
+<p begin="4740700000t" end="4769300000t" region="bottomCenter" style="s1" xml:id="subtitle112">还有一个叫「跳骰」的</p>
+<p begin="4788300000t" end="4834400000t" region="bottomCenter" style="s1" xml:id="subtitle113">像这样骰子跳出去的情况 我们这里定为没点</p>
+<p begin="4835500000t" end="4879300000t" region="bottomCenter" style="s1" xml:id="subtitle114">即使庄家没点 闲家如果跳骰了的话就是庄家赢</p>
+<p begin="4880400000t" end="4926300000t" region="bottomCenter" style="s1" xml:id="subtitle115">而且跳骰之后就不能再掷了</p>
+<p begin="4927500000t" end="4959800000t" region="bottomCenter" style="s1" xml:id="subtitle116">如果第一下就跳骰 那剩下两次就不能再扔了</p>
+<p begin="4965300000t" end="5010200000t" region="bottomCenter" style="s1" xml:id="subtitle117">好了 接下来才是最为关键的</p>
+<p begin="5011000000t" end="5045400000t" region="bottomCenter" style="s1" xml:id="subtitle118">我们的掷骰子有三个特别规则</p>
+<p begin="5046700000t" end="5060800000t" region="bottomCenter" style="s1" xml:id="subtitle119">特别规则？</p>
+<p begin="5070400000t" end="5094100000t" region="bottomCenter" style="s1" xml:id="subtitle120">也不是什么夸张的规则</p>
+<p begin="5095100000t" end="5119300000t" region="bottomCenter" style="s1" xml:id="subtitle121">算是一些追加规则吧</p>
+<p begin="5120700000t" end="5159500000t" region="bottomCenter" style="s1" xml:id="subtitle122">特别规则之一 没有庄家通吃</p>
+<p begin="5174800000t" end="5233090000t" region="bottomCenter" style="s1" xml:id="subtitle123">通常 在庄家掷出花色6或者456还有全色时</p>
+<p begin="5233400000t" end="5282700000t" region="bottomCenter" style="s1" xml:id="subtitle124">就算庄家赢 钱由庄家通吃</p>
+<p begin="5290500000t" end="5336100000t" region="bottomCenter" style="s1" xml:id="subtitle125">但是在地下掷骰子里 不管庄家掷出了多大的点</p>
+<p begin="5337100000t" end="5363100000t" region="bottomCenter" style="s1" xml:id="subtitle126">闲家还是有掷的权利</p>
+<p begin="5365400000t" end="5419800000t" region="bottomCenter" style="s1" xml:id="subtitle127">即使庄家掷出了花色6 闲家也是6的话就平手</p>
+<p begin="5425200000t" end="5468100000t" region="bottomCenter" style="s1" xml:id="subtitle128">如果出现456或者全色时还能赢</p>
+<p begin="5485600000t" end="5524000000t" region="bottomCenter" style="s1" xml:id="subtitle129">大家都是在艰苦的环境下拿着辛苦钱在玩的</p>
+<p begin="5525000000t" end="5564900000t" region="bottomCenter" style="s1" xml:id="subtitle130">庄家通吃就太没趣 太过分了点</p>
+<p begin="5566000000t" end="5619700000t" region="bottomCenter" style="s1" xml:id="subtitle131">相反的庄家如果掷出输两倍的123 闲家跳骰就平手</p>
+<p begin="5620600000t" end="5647300000t" region="bottomCenter" style="s1" xml:id="subtitle132">也没有庄家通赔</p>
+<p begin="5670200000t" end="5688100000t" region="bottomCenter" style="s1" xml:id="subtitle133">特别规则之二</p>
+<p begin="5689400000t" end="5709100000t" region="bottomCenter" style="s1" xml:id="subtitle134">庄家可以放弃不做</p>
+<p begin="5710300000t" end="5727700000t" region="bottomCenter" style="s1" xml:id="subtitle135">可以放弃？</p>
+<p begin="5730400000t" end="5791000000t" region="bottomCenter" style="s1" xml:id="subtitle136">放弃就是说当自己资金不多或者认为自己手气不顺时</p>
+<p begin="5792400000t" end="5811300000t" region="bottomCenter" style="s1" xml:id="subtitle137">可以PASS掉</p>
+<p begin="5812700000t" end="5884200000t" region="bottomCenter" style="s1" xml:id="subtitle138">当然 PASS过一次之后再轮到时也可以自由选择</p>
+<p begin="5885200000t" end="5897900000t" region="bottomCenter" style="s1" xml:id="subtitle139">OK吗</p>
+<p begin="5915300000t" end="5940200000t" region="bottomCenter" style="s1" xml:id="subtitle140">特别规则之三</p>
+<p begin="5941200000t" end="5968000000t" region="bottomCenter" style="s1" xml:id="subtitle141">只能连续坐庄两次</p>
+<p begin="5968900000t" end="5978800000t" region="bottomCenter" style="s1" xml:id="subtitle142">两次？</p>
+<p begin="5980000000t" end="5999900000t" region="bottomCenter" style="s1" xml:id="subtitle143">为了避免手气顺的庄家连赢</p>
+<p begin="6000900000t" end="6015000000t" region="bottomCenter" style="s1" xml:id="subtitle144">庄最多最能坐两次</p>
+<p begin="6016100000t" end="6047900000t" region="bottomCenter" style="s1" xml:id="subtitle145">到两次就换下一个位置的人坐庄</p>
+<p begin="6055300000t" end="6108600000t" region="bottomCenter" style="s1" xml:id="subtitle146">但是 当庄家第一掷就是没点和花色1的时候就立刻换掉</p>
+<p begin="6110300000t" end="6130700000t" region="bottomCenter" style="s1" xml:id="subtitle147">也可能只当一次庄</p>
+<p begin="6145200000t" end="6174800000t" region="bottomCenter" style="s1" xml:id="subtitle148">还有 押注金额上限是2万</p>
+<p begin="6175400000t" end="6186700000t" region="bottomCenter" style="s1" xml:id="subtitle149">2万</p>
+<p begin="6187700000t" end="6225000000t" region="bottomCenter" style="s1" xml:id="subtitle150">要是压的再大 庄家就撑不住了</p>
+<p begin="6226000000t" end="6237700000t" region="bottomCenter" style="s1" xml:id="subtitle151">原来如此</p>
+<p begin="6238300000t" end="6280900000t" region="bottomCenter" style="s1" xml:id="subtitle152">但是只要庄家同意就另当别论了 可以无上限</p>
+<p begin="6285700000t" end="6334600000t" region="bottomCenter" style="s1" xml:id="subtitle153">想要压大的时候 就挑我坐庄时吧</p>
+<p begin="6335900000t" end="6372200000t" region="bottomCenter" style="s1" xml:id="subtitle154">我会接受的 不管多大</p>
+<p begin="6385000000t" end="6427700000t" region="bottomCenter" style="s1" xml:id="subtitle155">不 我会先玩几把小的</p>
+<p begin="6439900000t" end="6479400000t" region="bottomCenter" style="s1" xml:id="subtitle156">那是当然了 不可能一开始就押大注嘛</p>
+<p begin="6480700000t" end="6495100000t" region="bottomCenter" style="s1" xml:id="subtitle157">好了</p>
+<p begin="6530100000t" end="6552800000t" region="bottomCenter" style="s1" xml:id="subtitle158">差不多开始吧</p>
+<p begin="6620500000t" end="6660800000t" region="bottomCenter" style="s1" xml:id="subtitle159">地下掷骰子 开始</p>
+<p begin="6695100000t" end="6717000000t" region="bottomCenter" style="s1" xml:id="subtitle160">下注吧下注吧</p>
+<p begin="6735700000t" end="6785900000t" region="bottomCenter" style="s1" xml:id="subtitle161">地下掷骰子 按惯例由班长大槻开始坐庄</p>
+<p begin="6794700000t" end="6824700000t" region="bottomCenter" style="s1" xml:id="subtitle162">开司 赌注为100倍利卡</p>
+<p begin="6826000000t" end="6843900000t" region="bottomCenter" style="s1" xml:id="subtitle163">一开始先看看情况</p>
+<p begin="6845400000t" end="6870300000t" region="bottomCenter" style="s1" xml:id="subtitle164">慢慢等待时机</p>
+<p begin="6871900000t" end="6906100000t" region="bottomCenter" style="s1" xml:id="subtitle165">等待能押大注的时机</p>
+<p begin="6913800000t" end="6933800000t" region="bottomCenter" style="s1" xml:id="subtitle166">大槻第一掷</p>
+<p begin="6965200000t" end="6976300000t" region="bottomCenter" style="s1" xml:id="subtitle167">花色5</p>
+<p begin="6977100000t" end="7004600000t" region="bottomCenter" style="s1" xml:id="subtitle168">一开始就那么大真不好意思 各位</p>
+<p begin="7040600000t" end="7055500000t" region="bottomCenter" style="s1" xml:id="subtitle169">你在干什么啊</p>
+<p begin="7056500000t" end="7089200000t" region="bottomCenter" style="s1" xml:id="subtitle170">没什么 记录花色而已</p>
+<p begin="7090200000t" end="7106900000t" region="bottomCenter" style="s1" xml:id="subtitle171">别做这种煞风景的事了</p>
+<p begin="7124500000t" end="7172400000t" region="bottomCenter" style="s1" xml:id="subtitle172">算了算了 有什么关系呢 每个人的乐趣不同</p>
+<p begin="7175500000t" end="7182600000t" region="bottomCenter" style="s1" xml:id="subtitle173">可是</p>
+<p begin="7185600000t" end="7198400000t" region="bottomCenter" style="s1" xml:id="subtitle174">随你喜欢吧</p>
+<p begin="7207300000t" end="7220100000t" region="bottomCenter" style="s1" xml:id="subtitle175">非常感谢</p>
+<p begin="7228100000t" end="7242300000t" region="bottomCenter" style="s1" xml:id="subtitle176">来吧 轮到你了</p>
+<p begin="7250200000t" end="7284100000t" region="bottomCenter" style="s1" xml:id="subtitle177">班长觉得OK的话 我倒也无所谓</p>
+<p begin="7288600000t" end="7314500000t" region="bottomCenter" style="s1" xml:id="subtitle178">接下来是第一人 沼川</p>
+<p begin="7334200000t" end="7348700000t" region="bottomCenter" style="s1" xml:id="subtitle179">123 输两倍</p>
+<p begin="7349900000t" end="7357900000t" region="bottomCenter" style="s1" xml:id="subtitle180">我X</p>
+<p begin="7364400000t" end="7379200000t" region="bottomCenter" style="s1" xml:id="subtitle181">真倒霉啊你</p>
+<p begin="7409000000t" end="7416300000t" region="bottomCenter" style="s1" xml:id="subtitle182">赢了</p>
+<p begin="7480200000t" end="7494100000t" region="bottomCenter" style="s1" xml:id="subtitle183">接下来到了</p>
+<p begin="7505400000t" end="7521200000t" region="bottomCenter" style="s1" xml:id="subtitle184">开司的第一轮</p>
+<p begin="7545800000t" end="7560700000t" region="bottomCenter" style="s1" xml:id="subtitle185">第一掷是…</p>
+<p begin="7675000000t" end="7699800000t" region="bottomCenter" style="s1" xml:id="subtitle186">居然一开始就是456</p>
+<p begin="7700900000t" end="7735300000t" region="bottomCenter" style="s1" xml:id="subtitle187">不愧是开司 我服了</p>
+<p begin="7735900000t" end="7764100000t" region="bottomCenter" style="s1" xml:id="subtitle188">不过太好了 你只押了100</p>
+<p begin="7785100000t" end="7813900000t" region="bottomCenter" style="s1" xml:id="subtitle189">咦 456是双倍200</p>
+<p begin="7814900000t" end="7834700000t" region="bottomCenter" style="s1" xml:id="subtitle190">还多了一张</p>
+<p begin="7835700000t" end="7879400000t" region="bottomCenter" style="s1" xml:id="subtitle191">难得拿一个456押注却只有100未免太可怜了</p>
+<p begin="7880600000t" end="7911100000t" region="bottomCenter" style="s1" xml:id="subtitle192">那一张算是安慰奖吧 拿去吧</p>
+<p begin="7911900000t" end="7920800000t" region="bottomCenter" style="s1" xml:id="subtitle193">谢了</p>
+<p begin="7922100000t" end="7950000000t" region="bottomCenter" style="s1" xml:id="subtitle194">不客气 下一个是三好了</p>
+<p begin="7952100000t" end="7960400000t" region="bottomCenter" style="s1" xml:id="subtitle195">好的</p>
+<p begin="7970000000t" end="8001000000t" region="bottomCenter" style="s1" xml:id="subtitle196">安慰奖吗 确实如此</p>
+<p begin="8001900000t" end="8032800000t" region="bottomCenter" style="s1" xml:id="subtitle197">好不容易有个双倍押注却只押了100</p>
+<p begin="8033800000t" end="8080800000t" region="bottomCenter" style="s1" xml:id="subtitle198">不 这还只是无法看清运势的第一掷 没办法</p>
+<p begin="8090200000t" end="8123700000t" region="bottomCenter" style="s1" xml:id="subtitle199">而且 这一掷并不是胜负的重点</p>
+<p begin="8125000000t" end="8164300000t" region="bottomCenter" style="s1" xml:id="subtitle200">这个掷骰子是庄和闲的对决</p>
+<p begin="8165000000t" end="8185600000t" region="bottomCenter" style="s1" xml:id="subtitle201">是看在坐庄时是如何获胜的</p>
+<p begin="8216100000t" end="8245900000t" region="bottomCenter" style="s1" xml:id="subtitle202">反过来说 是看坐庄时如何能不输</p>
+<p begin="8247300000t" end="8301000000t" region="bottomCenter" style="s1" xml:id="subtitle203">这里才是重点 才是掌控掷骰子的关键 要害</p>
+<p begin="8315400000t" end="8348200000t" region="bottomCenter" style="s1" xml:id="subtitle204">要等待 要有耐心 看清运势</p>
+<p begin="8375600000t" end="8430900000t" region="bottomCenter" style="s1" xml:id="subtitle205">可是手气时好时坏 开司无法看清运势</p>
+<p begin="8432200000t" end="8449400000t" region="bottomCenter" style="s1" xml:id="subtitle206">意识已经模糊</p>
+<p begin="8464900000t" end="8504800000t" region="bottomCenter" style="s1" xml:id="subtitle207">当然 押注为100 意识也会开始薄弱</p>
+<p begin="8505600000t" end="8529300000t" region="bottomCenter" style="s1" xml:id="subtitle208">自然无法感受到运势</p>
+<p begin="8530600000t" end="8589700000t" region="bottomCenter" style="s1" xml:id="subtitle209">如此小的金额 赢时比起高兴更多的是感到失望 沮丧</p>
+<p begin="8590900000t" end="8614900000t" region="bottomCenter" style="s1" xml:id="subtitle210">觉得可惜的情绪反而比较高</p>
+<p begin="8615700000t" end="8645400000t" region="bottomCenter" style="s1" xml:id="subtitle211">反而在输的时候 会松一口气</p>
+<p begin="8655100000t" end="8678900000t" region="bottomCenter" style="s1" xml:id="subtitle212">和通常赌博时的思路相反</p>
+<p begin="8679800000t" end="8734700000t" region="bottomCenter" style="s1" xml:id="subtitle213">换句话说 这偏离了在赌博时的正常感觉以及逻辑</p>
+<p begin="8770100000t" end="8857000000t" region="bottomCenter" style="s1" xml:id="subtitle214">热情 气势又或者是好运的先兆 气息 征兆</p>
+<p begin="8865400000t" end="8893500000t" region="bottomCenter" style="s1" xml:id="subtitle215">照现在这样是绝对无法感受到的</p>
+<p begin="8930700000t" end="8981300000t" region="bottomCenter" style="s1" xml:id="subtitle216">开始四十分钟后 开司终于察觉到了自身的愚蠢</p>
+<p begin="8990300000t" end="9026000000t" region="bottomCenter" style="s1" xml:id="subtitle217">我是白痴吗 还自作聪明</p>
+<p begin="9026600000t" end="9063700000t" region="bottomCenter" style="s1" xml:id="subtitle218">告诉自己不要无谓的押大注什么的 这样不行</p>
+<p begin="9065000000t" end="9118800000t" region="bottomCenter" style="s1" xml:id="subtitle219">押小时输 押大时赢？</p>
+<p begin="9130900000t" end="9170700000t" region="bottomCenter" style="s1" xml:id="subtitle220">喂喂 虽说这是赌博的理想状态</p>
+<p begin="9171300000t" end="9199400000t" region="bottomCenter" style="s1" xml:id="subtitle221">但只是理想 并不是「基本」</p>
+<p begin="9204800000t" end="9240800000t" region="bottomCenter" style="s1" xml:id="subtitle222">赌博应该是拼的更为你死我活</p>
+<p begin="9241900000t" end="9256300000t" region="bottomCenter" style="s1" xml:id="subtitle223">更为愚蠢的东西</p>
+<p begin="9271400000t" end="9292800000t" region="bottomCenter" style="s1" xml:id="subtitle224">不感到痛是不行的</p>
+<p begin="9330400000t" end="9373100000t" region="bottomCenter" style="s1" xml:id="subtitle225">赢下三把脸就会发烫 体温上升</p>
+<p begin="9374100000t" end="9419100000t" region="bottomCenter" style="s1" xml:id="subtitle226">相反 输了三把时仿佛会感到血液倒流</p>
+<p begin="9419900000t" end="9450200000t" region="bottomCenter" style="s1" xml:id="subtitle227">这就是赌博押注的基本</p>
+<p begin="9565400000t" end="9588500000t" region="bottomCenter" style="s1" xml:id="subtitle228">能够持续这样的赌注</p>
+<p begin="9589200000t" end="9617100000t" region="bottomCenter" style="s1" xml:id="subtitle229">才能隐隐约约看见 分歧点</p>
+<p begin="9655600000t" end="9670000000t" region="bottomCenter" style="s1" xml:id="subtitle230">才能感受到运势改变时</p>
+<p begin="9670600000t" end="9725600000t" region="bottomCenter" style="s1" xml:id="subtitle231">强运的波动能押大注一决胜负的时刻</p>
+<p begin="9740300000t" end="9770600000t" region="bottomCenter" style="s1" xml:id="subtitle232">我不会再压这种小钱了</p>
+<p begin="9780600000t" end="9808000000t" region="bottomCenter" style="s1" xml:id="subtitle233">庄家轮到你了</p>
+<p begin="9939900000t" end="9949800000t" region="bottomCenter" style="s1" xml:id="subtitle234">PASS</p>
+<p begin="9975400000t" end="10004100000t" region="bottomCenter" style="s1" xml:id="subtitle235">我还完全没有看清局势</p>
+<p begin="10005900000t" end="10029300000t" region="bottomCenter" style="s1" xml:id="subtitle236">现在坐庄还为时尚早</p>
+<p begin="10031800000t" end="10055800000t" region="bottomCenter" style="s1" xml:id="subtitle237">你在发什么呆啊</p>
+<p begin="10060200000t" end="10085900000t" region="bottomCenter" style="s1" xml:id="subtitle238">你肯定也会PASS吧</p>
+<p begin="10087300000t" end="10102800000t" region="bottomCenter" style="s1" xml:id="subtitle239">不…那个…</p>
+<p begin="10103900000t" end="10129900000t" region="bottomCenter" style="s1" xml:id="subtitle240">到现在为止一次都没坐庄过</p>
+<p begin="10140300000t" end="10169300000t" region="bottomCenter" style="s1" xml:id="subtitle241">但是我这次打算试试看</p>
+<p begin="10170400000t" end="10214000000t" region="bottomCenter" style="s1" xml:id="subtitle242">对对 掷骰子就是要当庄家才能体会到乐趣啊</p>
+<p begin="10215100000t" end="10231500000t" region="bottomCenter" style="s1" xml:id="subtitle243">试试比较好哦</p>
+<p begin="10232600000t" end="10256500000t" region="bottomCenter" style="s1" xml:id="subtitle244">那我就当了</p>
+<p begin="10257200000t" end="10297800000t" region="bottomCenter" style="s1" xml:id="subtitle245">各位 三好的第一次庄 下注吧</p>
+<p begin="10385690000t" end="10402100000t" region="bottomCenter" style="s1" xml:id="subtitle246">三千倍利卡？！</p>
+<p begin="10425790000t" end="10464600000t" region="bottomCenter" style="s1" xml:id="subtitle247">为什么 明明之前都是100倍利卡的 为什么啊</p>
+<p begin="10465890000t" end="10484200000t" region="bottomCenter" style="s1" xml:id="subtitle248">你说为什么啊 你说啊</p>
+<p begin="10485200000t" end="10524600000t" region="bottomCenter" style="s1" xml:id="subtitle249">少啰嗦 赌博有什么为什么的 想押就押了</p>
+<p begin="10525900000t" end="10539600000t" region="bottomCenter" style="s1" xml:id="subtitle250">怎么这样…</p>
+<p begin="10545500000t" end="10595500000t" region="bottomCenter" style="s1" xml:id="subtitle251">放心吧 三好 你又不是一定会输</p>
+<p begin="10596200000t" end="10624100000t" region="bottomCenter" style="s1" xml:id="subtitle252">说不定会大赚一笔喔</p>
+<p begin="10625800000t" end="10639900000t" region="bottomCenter" style="s1" xml:id="subtitle253">话是这么说没错</p>
+<p begin="10641300000t" end="10654500000t" region="bottomCenter" style="s1" xml:id="subtitle254">好了 掷吧</p>
+<p begin="10660000000t" end="10684500000t" region="bottomCenter" style="s1" xml:id="subtitle255">可是 总感觉…</p>
+<p begin="10725500000t" end="10746200000t" region="bottomCenter" style="s1" xml:id="subtitle256">偏偏是1啊</p>
+<p begin="10747300000t" end="10753000000t" region="bottomCenter" style="s1" xml:id="subtitle257">很好</p>
+<p begin="10754000000t" end="10809500000t" region="bottomCenter" style="s1" xml:id="subtitle258">通常掷骰子在庄家掷出1时闲家不需要掷就算赢</p>
+<p begin="10810700000t" end="10844000000t" region="bottomCenter" style="s1" xml:id="subtitle259">算是庄家通赔 但是在这地下掷骰子中</p>
+<p begin="10845100000t" end="10877300000t" region="bottomCenter" style="s1" xml:id="subtitle260">不管庄家的花色如何 闲家也要再掷</p>
+<p begin="10910500000t" end="10918600000t" region="bottomCenter" style="s1" xml:id="subtitle261">很好</p>
+<p begin="10919600000t" end="10963300000t" region="bottomCenter" style="s1" xml:id="subtitle262">不过庄家花色是1时 大多数情况下都能赢</p>
+<p begin="10990000000t" end="10999700000t" region="bottomCenter" style="s1" xml:id="subtitle263"><font face="方正准圆_GBK" size="30"><b>{\an8}好耶</b></font></p>
+<p begin="10995200000t" end="11029800000t" region="bottomCenter" style="s1" xml:id="subtitle264">结果三好在轮到开司前的七人之中</p>
+<p begin="11031300000t" end="11059300000t" region="bottomCenter" style="s1" xml:id="subtitle265">除了没点的大槻之外全败</p>
+<p begin="11060300000t" end="11099800000t" region="bottomCenter" style="s1" xml:id="subtitle266">但是前面几个赌注都很小</p>
+<p begin="11105100000t" end="11142700000t" region="bottomCenter" style="s1" xml:id="subtitle267">关键是押了三千的开司</p>
+<p begin="11155000000t" end="11173600000t" region="bottomCenter" style="s1" xml:id="subtitle268">只要能赢了开司</p>
+<p begin="11174700000t" end="11205700000t" region="bottomCenter" style="s1" xml:id="subtitle269">之前输的都可以抵消 还有得多</p>
+<p begin="11220100000t" end="11236400000t" region="bottomCenter" style="s1" xml:id="subtitle270">不好意思了 三好</p>
+<p begin="11245600000t" end="11274300000t" region="bottomCenter" style="s1" xml:id="subtitle271">赌博就是必定会有人要落泪的</p>
+<p begin="11275700000t" end="11307700000t" region="bottomCenter" style="s1" xml:id="subtitle272">这一次 是你</p>
+<p begin="11325700000t" end="11343800000t" region="bottomCenter" style="s1" xml:id="subtitle273">开司第一掷</p>
+<p begin="11364900000t" end="11374200000t" region="bottomCenter" style="s1" xml:id="subtitle274">没点</p>
+<p begin="11400400000t" end="11432300000t" region="bottomCenter" style="s1" xml:id="subtitle275">嚎啕大哭吧 三好</p>
+<p begin="11475300000t" end="11493200000t" region="bottomCenter" style="s1" xml:id="subtitle276">又是没点</p>
+<p begin="11539700000t" end="11579400000t" region="bottomCenter" style="s1" xml:id="subtitle277">不是吧 竟然偏偏这把掷不出点</p>
+<p begin="11580800000t" end="11604600000t" region="bottomCenter" style="s1" xml:id="subtitle278">这不可能 别开玩笑了</p>
+<p begin="11606100000t" end="11620400000t" region="bottomCenter" style="s1" xml:id="subtitle279">绝不可能</p>
+<p begin="11621700000t" end="11647000000t" region="bottomCenter" style="s1" xml:id="subtitle280">开司 决定命运的第三掷</p>
+<p begin="11689800000t" end="11734700000t" region="bottomCenter" style="s1" xml:id="subtitle281">我不可能会输 不可能会输</p>
+<p begin="11799800000t" end="11861900000t" region="bottomCenter" style="s1" xml:id="subtitle282">了不起啊开司 这种花色平时可不太掷的出来啊</p>
+<p begin="11863200000t" end="11904500000t" region="bottomCenter" style="s1" xml:id="subtitle283">开司第三掷 居然是123</p>
+<p begin="11915800000t" end="11930700000t" region="bottomCenter" style="s1" xml:id="subtitle284">输两倍</p>
+<p begin="11935500000t" end="11950500000t" region="bottomCenter" style="s1" xml:id="subtitle285">赢啦</p>
+<p begin="11951300000t" end="11971800000t" region="bottomCenter" style="s1" xml:id="subtitle286">押大注之后掷了最糟糕的花色</p>
+<p begin="11980700000t" end="12019700000t" region="bottomCenter" style="s1" xml:id="subtitle287">在这地下掷骰子中才会发生的大逆转</p>
+<p begin="12021100000t" end="12047900000t" region="bottomCenter" style="s1" xml:id="subtitle288">开司 输了六千</p>
+<p begin="12070400000t" end="12104500000t" region="bottomCenter" style="s1" xml:id="subtitle289">谢了 那我就不客气了</p>
+<p begin="12129900000t" end="12144100000t" region="bottomCenter" style="s1" xml:id="subtitle290">气死我了</p>
+<p begin="12148000000t" end="12160900000t" region="bottomCenter" style="s1" xml:id="subtitle291">愤怒</p>
+<p begin="12170500000t" end="12184000000t" region="bottomCenter" style="s1" xml:id="subtitle292">气死我了</p>
+<p begin="12185300000t" end="12195500000t" region="bottomCenter" style="s1" xml:id="subtitle293">愤怒</p>
+<p begin="12196800000t" end="12207200000t" region="bottomCenter" style="s1" xml:id="subtitle294">气死我了</p>
+<p begin="12208200000t" end="12216100000t" region="bottomCenter" style="s1" xml:id="subtitle295">愤怒</p>
+<p begin="12216900000t" end="12239700000t" region="bottomCenter" style="s1" xml:id="subtitle296">但是这样就好</p>
+<p begin="12240700000t" end="12255000000t" region="bottomCenter" style="s1" xml:id="subtitle297">就是这种感觉</p>
+<p begin="12256000000t" end="12300000000t" region="bottomCenter" style="s1" xml:id="subtitle298">这才是赌博 才像赌博</p>
+<p begin="12355100000t" end="12383900000t" region="bottomCenter" style="s1" xml:id="subtitle299">我都忘了 这种感觉</p>
+<p begin="12385100000t" end="12425100000t" region="bottomCenter" style="s1" xml:id="subtitle300">这种懊恼 愤怒 血液倒流的感觉</p>
+<p begin="12426300000t" end="12448500000t" region="bottomCenter" style="s1" xml:id="subtitle301">下一个 下注吧</p>
+<p begin="12455600000t" end="12465800000t" region="bottomCenter" style="s1" xml:id="subtitle302">上吧</p>
+<p begin="12519900000t" end="12535300000t" region="bottomCenter" style="s1" xml:id="subtitle303">上吧</p>
+<p begin="12538700000t" end="12554600000t" region="bottomCenter" style="s1" xml:id="subtitle304">跳下去吧</p>
+<p begin="12555800000t" end="12589800000t" region="bottomCenter" style="s1" xml:id="subtitle305">跳下去被卷入激流之中吧</p>
+<p begin="12699500000t" end="12732100000t" region="bottomCenter" style="s1" xml:id="subtitle306">开司觉醒 继续下注</p>
+<p begin="12733100000t" end="12763700000t" region="bottomCenter" style="s1" xml:id="subtitle307">不管输赢赌注都是三千</p>
+<p begin="12774800000t" end="12789200000t" region="bottomCenter" style="s1" xml:id="subtitle308">三千</p>
+<p begin="12804600000t" end="12819900000t" region="bottomCenter" style="s1" xml:id="subtitle309">三千！！</p>
+</div>
+</body>
+</tt>

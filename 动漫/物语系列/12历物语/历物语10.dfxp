@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="14800000t" end="54000000t" region="bottomCenter" style="s1" xml:id="subtitle0"><font face="DFMaruGothic-Md" size="36" color="#000000">{\an8}ドキドキの夕闇に</font></p>
+<p begin="14800000t" end="54000000t" region="bottomCenter" style="s1" xml:id="subtitle1"><font face="FZZhunYuan-M02" size="39" color="#000000">在心跳不已的夜晚中</font></p>
+<p begin="54000000t" end="102300000t" region="bottomCenter" style="s1" xml:id="subtitle2"><font face="DFMaruGothic-Md" size="36" color="#000000">{\an8}キラキラな星がちらり</font></p>
+<p begin="54000000t" end="102300000t" region="bottomCenter" style="s1" xml:id="subtitle3"><font face="FZZhunYuan-M02" size="39" color="#000000">闪闪发亮的星星在一眨一眨</font></p>
+<p begin="248700000t" end="270000000t" region="bottomCenter" style="s1" xml:id="subtitle4"><font face="DFMaruGothic-Md" size="36" color="#000000">{\an8}それでいいのかも</font></p>
+<p begin="248700000t" end="270000000t" region="bottomCenter" style="s1" xml:id="subtitle5"><font face="FZZhunYuan-M02" size="39" color="#000000">能够保持目前的现状</font></p>
+<p begin="270000000t" end="292500000t" region="bottomCenter" style="s1" xml:id="subtitle6"><font face="DFMaruGothic-Md" size="36" color="#000000">{\an8}きっと理由があって</font></p>
+<p begin="270000000t" end="292500000t" region="bottomCenter" style="s1" xml:id="subtitle7"><font face="FZZhunYuan-M02" size="39" color="#000000">一定也有其深层的原因</font></p>
+<p begin="292500000t" end="308800000t" region="bottomCenter" style="s1" xml:id="subtitle8"><font face="DFMaruGothic-Md" size="36" color="#000000">{\an8}見えていることは</font></p>
+<p begin="292500000t" end="308800000t" region="bottomCenter" style="s1" xml:id="subtitle9"><font face="FZZhunYuan-M02" size="39" color="#000000">你眼中看到的东西</font></p>
+<p begin="308800000t" end="330900000t" region="bottomCenter" style="s1" xml:id="subtitle10"><font face="DFMaruGothic-Md" size="36" color="#000000">{\an8}全てとは限らない</font></p>
+<p begin="308800000t" end="330900000t" region="bottomCenter" style="s1" xml:id="subtitle11"><font face="FZZhunYuan-M02" size="39" color="#000000">并不是这个世界的全部</font></p>
+<p begin="330900000t" end="347200000t" region="bottomCenter" style="s1" xml:id="subtitle12"><font face="DFMaruGothic-Md" size="36" color="#000000">{\an8}君の笑顔のこと</font></p>
+<p begin="330900000t" end="347200000t" region="bottomCenter" style="s1" xml:id="subtitle13"><font face="FZZhunYuan-M02" size="39" color="#000000">为什么你的脸上满是笑容</font></p>
+<p begin="347200000t" end="371400000t" region="bottomCenter" style="s1" xml:id="subtitle14"><font face="DFMaruGothic-Md" size="36" color="#000000">{\an8}僕には涙の訳で</font></p>
+<p begin="347200000t" end="371400000t" region="bottomCenter" style="s1" xml:id="subtitle15"><font face="FZZhunYuan-M02" size="39" color="#000000">而我的脸上却是泪光闪闪</font></p>
+<p begin="371400000t" end="386400000t" region="bottomCenter" style="s1" xml:id="subtitle16"><font face="DFMaruGothic-Md" size="36" color="#000000">{\an8}突き詰めてしまったら</font></p>
+<p begin="371400000t" end="386400000t" region="bottomCenter" style="s1" xml:id="subtitle17"><font face="FZZhunYuan-M02" size="39" color="#000000">如果思维走进死胡同的话</font></p>
+<p begin="386400000t" end="411000000t" region="bottomCenter" style="s1" xml:id="subtitle18"><font face="DFMaruGothic-Md" size="36" color="#000000">{\an8}その先にはね　進めない</font></p>
+<p begin="386400000t" end="411000000t" region="bottomCenter" style="s1" xml:id="subtitle19"><font face="FZZhunYuan-M02" size="39" color="#000000">就永远无法得到答案</font></p>
+<p begin="411000000t" end="471500000t" region="bottomCenter" style="s1" xml:id="subtitle20"><font face="DFMaruGothic-Md" size="36" color="#000000">{\an8}あの流れ星　願いを乗せて</font></p>
+<p begin="411000000t" end="471500000t" region="bottomCenter" style="s1" xml:id="subtitle21"><font face="FZZhunYuan-M02" size="39" color="#000000">向天空划过的那颗流星许下愿望</font></p>
+<p begin="474000000t" end="559100000t" region="bottomCenter" style="s1" xml:id="subtitle22"><font face="DFMaruGothic-Md" size="36" color="#000000">{\an8}目指していた未来も全部わからなくなってゆく</font></p>
+<p begin="474000000t" end="559100000t" region="bottomCenter" style="s1" xml:id="subtitle23"><font face="FZZhunYuan-M02" size="39" color="#000000">就算自己想要的未来还不知会在何处</font></p>
+<p begin="561100000t" end="639100000t" region="bottomCenter" style="s1" xml:id="subtitle24"><font face="DFMaruGothic-Md" size="36" color="#000000">{\an8}あぁ　僕たちはそんな風に今日やり過ごす</font></p>
+<p begin="561100000t" end="639100000t" region="bottomCenter" style="s1" xml:id="subtitle25"><font face="FZZhunYuan-M02" size="39" color="#000000">啊啊  我们又这样糊涂地度过了一天</font></p>
+<p begin="639100000t" end="691300000t" region="bottomCenter" style="s1" xml:id="subtitle26"><font face="DFMaruGothic-Md" size="36" color="#000000">{\an8}あぁ　矛盾だらけなんだけど</font></p>
+<p begin="639100000t" end="691300000t" region="bottomCenter" style="s1" xml:id="subtitle27"><font face="FZZhunYuan-M02" size="39" color="#000000">啊啊  就算每一天都是充满矛盾</font></p>
+<p begin="691300000t" end="723000000t" region="bottomCenter" style="s1" xml:id="subtitle28"><font face="DFMaruGothic-Md" size="36" color="#000000">{\an8}今夜はお休み</font></p>
+<p begin="691300000t" end="723000000t" region="bottomCenter" style="s1" xml:id="subtitle29"><font face="FZZhunYuan-M02" size="39" color="#000000">今晚还是道一声晚安</font></p>
+<p begin="723000000t" end="762600000t" region="bottomCenter" style="s1" xml:id="subtitle30"><font face="DFMaruGothic-Md" size="36" color="#000000">{\an8}ドキドキのオレンジと</font></p>
+<p begin="723000000t" end="762600000t" region="bottomCenter" style="s1" xml:id="subtitle31"><font face="FZZhunYuan-M02" size="39" color="#000000">令人心跳不已的甜橙</font></p>
+<p begin="762600000t" end="801800000t" region="bottomCenter" style="s1" xml:id="subtitle32"><font face="DFMaruGothic-Md" size="36" color="#000000">{\an8}キラキラなミントフレーバー</font></p>
+<p begin="762600000t" end="801800000t" region="bottomCenter" style="s1" xml:id="subtitle33"><font face="FZZhunYuan-M02" size="39" color="#000000">加上闪闪发亮的薄荷香料</font></p>
+<p begin="801800000t" end="841400000t" region="bottomCenter" style="s1" xml:id="subtitle34"><font face="DFMaruGothic-Md" size="36" color="#000000">{\an8}ドキドキの夕闇に</font></p>
+<p begin="801800000t" end="841400000t" region="bottomCenter" style="s1" xml:id="subtitle35"><font face="FZZhunYuan-M02" size="39" color="#000000">在心跳不已的夜晚中</font></p>
+<p begin="841400000t" end="887300000t" region="bottomCenter" style="s1" xml:id="subtitle36"><font face="DFMaruGothic-Md" size="36" color="#000000">{\an8}キラキラな星がちらり</font></p>
+<p begin="841400000t" end="887300000t" region="bottomCenter" style="s1" xml:id="subtitle37"><font face="FZZhunYuan-M02" size="39" color="#000000">闪闪发亮的星星在一眨一眨</font></p>
+<p begin="910700000t" end="950700000t" region="bottomCenter" style="s1" xml:id="subtitle38"><font face="方正准圆_GBK" size="33"><b>{\an8}<font size="45">历与种</font></b></font></p>
+<p begin="910700000t" end="950700000t" region="bottomCenter" style="s1" xml:id="subtitle39"><font face="方正准圆_GBK" size="36"><b>{\an8}本字幕仅供交流试看之用，如您喜欢本作品，请支持购买正版。<br />若因私自散布传播造成法律及相关一切问题，华盟字幕社概不负责。</b></font></p>
+<p begin="950700000t" end="983200000t" region="bottomCenter" style="s1" xml:id="subtitle40"><font face="方正准圆_GBK" size="36"><b>{\an8}翻译：痛爱的飞鱼；后期：snow。</b></font></p>
+<p begin="968200000t" end="983200000t" region="bottomCenter" style="s1" xml:id="subtitle41"><font face="方正准圆_GBK" size="45">一月</font></p>
+<p begin="1014500000t" end="1048700000t" region="bottomCenter" style="s1" xml:id="subtitle42"><font face="方正准圆_GBK" size="45">啊  身为鬼的哥哥  简称鬼哥哥</font></p>
+<p begin="1052000000t" end="1070800000t" region="bottomCenter" style="s1" xml:id="subtitle43"><font face="方正准圆_GBK" size="45">在这种地方遇到你还真是巧了</font></p>
+<p begin="1076200000t" end="1084600000t" region="bottomCenter" style="s1" xml:id="subtitle44"><font face="方正准圆_GBK" size="45">Yeah</font></p>
+<p begin="1162200000t" end="1185500000t" region="bottomCenter" style="s1" xml:id="subtitle45"><font face="方正准圆_GBK" size="45">喂  你干嘛无视我啊</font></p>
+<p begin="1189300000t" end="1216800000t" region="bottomCenter" style="s1" xml:id="subtitle46"><font face="方正准圆_GBK" size="45">这种行为对我的情操教育可不好</font></p>
+<p begin="1221000000t" end="1258900000t" region="bottomCenter" style="s1" xml:id="subtitle47"><font face="方正准圆_GBK" size="45">我要是堕落了  你该怎么对姐姐负责啊</font></p>
+<p begin="1262300000t" end="1268900000t" region="bottomCenter" style="s1" xml:id="subtitle48"><font face="方正准圆_GBK" size="45">Yeah</font></p>
+<p begin="1281390000t" end="1294000000t" region="bottomCenter" style="s1" xml:id="subtitle49"><font face="方正准圆_GBK" size="45">一月中旬</font></p>
+<p begin="1296900000t" end="1319000000t" region="bottomCenter" style="s1" xml:id="subtitle50"><font face="方正准圆_GBK" size="45">那是在我期中考试结束后回家的路上</font></p>
+<p begin="1319000000t" end="1331500000t" region="bottomCenter" style="s1" xml:id="subtitle51"><font face="方正准圆_GBK" size="23"><b>{\an8}<font face="方正准圆_GBK"><font size="33">把战场原送回家之后</font></font></b></font></p>
+<p begin="1331500000t" end="1341100000t" region="bottomCenter" style="s1" xml:id="subtitle52"><font face="方正准圆_GBK" size="23"><b>{\an8}<font face="方正准圆_GBK"><font size="33">步行在回家的路上</font></font></b></font></p>
+<p begin="1343200000t" end="1369400000t" region="bottomCenter" style="s1" xml:id="subtitle53"><font face="方正准圆_GBK" size="45">喂  你干嘛呢？鬼哥哥</font></p>
+<p begin="1372400000t" end="1377400000t" region="bottomCenter" style="s1" xml:id="subtitle54"><font face="方正准圆_GBK" size="45">嗯？</font></p>
+<p begin="1385300000t" end="1412800000t" region="bottomCenter" style="s1" xml:id="subtitle55"><font face="方正准圆_GBK" size="45">喂  喂  喂</font></p>
+<p begin="1429900000t" end="1438700000t" region="bottomCenter" style="s1" xml:id="subtitle56"><font face="方正准圆_GBK" size="45">Yeah</font></p>
+<p begin="1440800000t" end="1462000000t" region="bottomCenter" style="s1" xml:id="subtitle57"><font face="方正准圆_GBK" size="45">这时候就别亮什么剪子了</font></p>
+<p begin="1465800000t" end="1494600000t" region="bottomCenter" style="s1" xml:id="subtitle58"><font face="方正准圆_GBK" size="45">本来就读不懂你这暗号  这样一来就越来越复杂了</font></p>
+<p begin="1494600000t" end="1509600000t" region="bottomCenter" style="s1" xml:id="subtitle59"><font face="方正准圆_GBK" size="23"><b>{\an8}<font face="方正准圆_GBK"><font size="33">真是的，怎么谁都对我的剪子有这么大的意见呢？</font></font></b></font></p>
+<p begin="1514200000t" end="1544600000t" region="bottomCenter" style="s1" xml:id="subtitle60"><font face="方正准圆_GBK" size="45">我的这个身体语言  这个比比划划</font></p>
+<p begin="1544600000t" end="1570900000t" region="bottomCenter" style="s1" xml:id="subtitle61"><font face="方正准圆_GBK" size="45">是表示「我正在找东西</font></p>
+<p begin="1570900000t" end="1615100000t" region="bottomCenter" style="s1" xml:id="subtitle62"><font face="方正准圆_GBK" size="45">如果你有时间的话能不能帮我一起找啊？鬼哥哥」</font></p>
+<p begin="1615100000t" end="1627600000t" region="bottomCenter" style="s1" xml:id="subtitle63"><font face="方正准圆_GBK" size="45">{\an3}…的意思</font></p>
+<p begin="1630500000t" end="1652600000t" region="bottomCenter" style="s1" xml:id="subtitle64"><font face="方正准圆_GBK" size="45">鬼才能看懂呢！</font></p>
+<p begin="1656400000t" end="1705200000t" region="bottomCenter" style="s1" xml:id="subtitle65"><font face="方正准圆_GBK" size="45">怎么样？你是帮还是不帮？有话就快说</font></p>
+<p begin="1710600000t" end="1730200000t" region="bottomCenter" style="s1" xml:id="subtitle66"><font face="方正准圆_GBK" size="45">我倒是想帮你</font></p>
+<p begin="1730200000t" end="1771500000t" region="bottomCenter" style="s1" xml:id="subtitle67"><font face="方正准圆_GBK" size="45">不过老实说  我那答题卡的结果貌似不太好</font></p>
+<p begin="1779900000t" end="1815300000t" region="bottomCenter" style="s1" xml:id="subtitle68"><font face="方正准圆_GBK" size="45">看来今后必须要再加把劲才行了</font></p>
+<p begin="1823200000t" end="1860400000t" region="bottomCenter" style="s1" xml:id="subtitle69"><font face="方正准圆_GBK" size="45">鬼哥哥  你这一年里究竟都干什么了？</font></p>
+<p begin="1863700000t" end="1875400000t" region="bottomCenter" style="s1" xml:id="subtitle70"><font face="方正准圆_GBK" size="45">你怎么不去死呢？</font></p>
+<p begin="1888300000t" end="1922500000t" region="bottomCenter" style="s1" xml:id="subtitle71"><font face="方正准圆_GBK" size="45">我也不是非要你去学习  你去死不就行了么？</font></p>
+<p begin="1925000000t" end="1943400000t" region="bottomCenter" style="s1" xml:id="subtitle72"><font face="方正准圆_GBK" size="45">不要动不动就让我死啊</font></p>
+<p begin="1947500000t" end="2016300000t" region="bottomCenter" style="s1" xml:id="subtitle73"><font face="方正准圆_GBK" size="45">只要你不帮我找东西  我就一直骂鬼哥哥  一直让你去死</font></p>
+<p begin="2026800000t" end="2050100000t" region="bottomCenter" style="s1" xml:id="subtitle74"><font face="方正准圆_GBK" size="45">我投降  我来帮你好了</font></p>
+<p begin="2056400000t" end="2085600000t" region="bottomCenter" style="s1" xml:id="subtitle75"><font face="方正准圆_GBK" size="45">斧乃木妹妹要找的东西是在这附近吗？</font></p>
+<p begin="2088900000t" end="2113100000t" region="bottomCenter" style="s1" xml:id="subtitle76"><font face="方正准圆_GBK" size="45">不知道  不一定在这附近</font></p>
+<p begin="2128100000t" end="2174400000t" region="bottomCenter" style="s1" xml:id="subtitle77"><font face="方正准圆_GBK" size="45">既然「不一定在这附近」的话  那我们就奏合着这么找吧</font></p>
+<p begin="2185300000t" end="2218600000t" region="bottomCenter" style="s1" xml:id="subtitle78"><font face="方正准圆_GBK" size="45">话说斧乃木妹妹  你要找的是个什么东西？</font></p>
+<p begin="2221500000t" end="2239900000t" region="bottomCenter" style="s1" xml:id="subtitle79"><font face="方正准圆_GBK" size="45">不知道  是个什么东西来着？</font></p>
+<p begin="2254900000t" end="2264900000t" region="bottomCenter" style="s1" xml:id="subtitle80"><font face="方正准圆_GBK" size="45">Yeah</font></p>
+<p begin="2276200000t" end="2285800000t" region="bottomCenter" style="s1" xml:id="subtitle81"><font face="方正准圆_GBK" size="45">Yeah~</font></p>
+<p begin="2300800000t" end="2324600000t" region="bottomCenter" style="s1" xml:id="subtitle82"><font face="方正准圆_GBK" size="45">应该是个看一眼就知道的东西</font></p>
+<p begin="2328300000t" end="2363800000t" region="bottomCenter" style="s1" xml:id="subtitle83"><font face="方正准圆_GBK" size="45">我之所以想让鬼哥哥帮我一起找东西</font></p>
+<p begin="2375000000t" end="2388800000t" region="bottomCenter" style="s1" xml:id="subtitle84"><font face="方正准圆_GBK" size="45">是为了开阔一下视野</font></p>
+<p begin="2392600000t" end="2398800000t" region="bottomCenter" style="s1" xml:id="subtitle85"><font face="方正准圆_GBK" size="45">视野？</font></p>
+<p begin="2398800000t" end="2406300000t" region="bottomCenter" style="s1" xml:id="subtitle86"><font face="方正准圆_GBK" size="23"><b>{\an8}<font face="方正准圆_GBK"><font size="33">开阔视野</font></font></b></font></p>
+<p begin="2410100000t" end="2426300000t" region="bottomCenter" style="s1" xml:id="subtitle87"><font face="方正准圆_GBK" size="45">我似乎已经钻进死胡同了</font></p>
+<p begin="2451400000t" end="2483500000t" region="bottomCenter" style="s1" xml:id="subtitle88"><font face="方正准圆_GBK" size="45">于是就想  这时候应该转换一下视角比较好</font></p>
+<p begin="2488100000t" end="2518900000t" region="bottomCenter" style="s1" xml:id="subtitle89"><font face="方正准圆_GBK" size="45">你看我本来就是一个玩偶</font></p>
+<p begin="2523500000t" end="2536400000t" region="bottomCenter" style="s1" xml:id="subtitle90"><font face="方正准圆_GBK" size="45">是个小不点</font></p>
+<p begin="2550200000t" end="2588600000t" region="bottomCenter" style="s1" xml:id="subtitle91"><font face="方正准圆_GBK" size="45">也就是对于找东西这件事来说  我的高度还不够</font></p>
+<p begin="2591900000t" end="2627400000t" region="bottomCenter" style="s1" xml:id="subtitle92"><font face="方正准圆_GBK" size="45">我的视角的确是比斧乃木妹妹要高一些</font></p>
+<p begin="2627400000t" end="2652800000t" region="bottomCenter" style="s1" xml:id="subtitle93"><font face="方正准圆_GBK" size="45">但这也只是相对而言</font></p>
+<p begin="2652800000t" end="2690300000t" region="bottomCenter" style="s1" xml:id="subtitle94"><font face="方正准圆_GBK" size="45">如果按绝对高度来说的话  我其实也没有多高</font></p>
+<p begin="2692000000t" end="2727500000t" region="bottomCenter" style="s1" xml:id="subtitle95"><font face="方正准圆_GBK" size="45">这我当然也能看得出来  从我这个低视角也看得出来</font></p>
+<p begin="2727500000t" end="2760400000t" region="bottomCenter" style="s1" xml:id="subtitle96"><font face="方正准圆_GBK" size="45">鬼哥哥绝对不算长得高的</font></p>
+<p begin="2762500000t" end="2785400000t" region="bottomCenter" style="s1" xml:id="subtitle97"><font face="方正准圆_GBK" size="45">我说的是「绝则高度」  不是「绝对」</font></p>
+<p begin="2787900000t" end="2834200000t" region="bottomCenter" style="s1" xml:id="subtitle98"><font face="方正准圆_GBK" size="45">不过用我这个相当矮的身高加上鬼哥哥有点矮的身高的话</font></p>
+<p begin="2834200000t" end="2864700000t" region="bottomCenter" style="s1" xml:id="subtitle99"><font face="方正准圆_GBK" size="45">哎呀真不可思议  这就变成相当有点高的身高了</font></p>
+<p begin="2866800000t" end="2885500000t" region="bottomCenter" style="s1" xml:id="subtitle100"><font face="方正准圆_GBK" size="45">具体来说差不多有三米</font></p>
+<p begin="2888900000t" end="2915600000t" region="bottomCenter" style="s1" xml:id="subtitle101"><font face="方正准圆_GBK" size="45">这样啊  原来是「童女骑脖子事件」</font></p>
+<p begin="2923100000t" end="2948100000t" region="bottomCenter" style="s1" xml:id="subtitle102"><font face="方正准圆_GBK" size="45">斧乃木妹妹  我先确认一下</font></p>
+<p begin="2956400000t" end="2986500000t" region="bottomCenter" style="s1" xml:id="subtitle103"><font face="方正准圆_GBK" size="45">我让斧乃木妹妹骑在我脖子上就可以了吧</font></p>
+<p begin="2999000000t" end="3012300000t" region="bottomCenter" style="s1" xml:id="subtitle104"><font face="方正准圆_GBK" size="45">不是的  鬼哥哥</font></p>
+<p begin="3014800000t" end="3036100000t" region="bottomCenter" style="s1" xml:id="subtitle105"><font face="方正准圆_GBK" size="45">我不会骑别人的脖子  也不会让人骑我的脖子</font></p>
+<p begin="3039900000t" end="3069500000t" region="bottomCenter" style="s1" xml:id="subtitle106"><font face="方正准圆_GBK" size="45">你倒是想想啊  骑脖子的损失可就大了</font></p>
+<p begin="3072000000t" end="3079500000t" region="bottomCenter" style="s1" xml:id="subtitle107"><font face="方正准圆_GBK" size="45">损失？</font></p>
+<p begin="3091200000t" end="3114900000t" region="bottomCenter" style="s1" xml:id="subtitle108"><font face="方正准圆_GBK" size="45">怎么了？这很简单啊  鬼哥哥</font></p>
+<p begin="3121200000t" end="3143700000t" region="bottomCenter" style="s1" xml:id="subtitle109"><font face="方正准圆_GBK" size="45">就按我平时的方式来就可以了</font></p>
+<p begin="3245500000t" end="3293000000t" region="bottomCenter" style="s1" xml:id="subtitle110"><font face="方正准圆_GBK" size="45">我说  斧乃木妹妹  总之找东西的时候咱们就保持这个姿势吧</font></p>
+<p begin="3295100000t" end="3314700000t" region="bottomCenter" style="s1" xml:id="subtitle111"><font face="方正准圆_GBK" size="45">既然你说是个着一眼就知道的东西</font></p>
+<p begin="3314700000t" end="3340600000t" region="bottomCenter" style="s1" xml:id="subtitle112"><font face="方正准圆_GBK" size="45">那我看上一眼也应该能知道对吧</font></p>
+<p begin="3344800000t" end="3386500000t" region="bottomCenter" style="s1" xml:id="subtitle113"><font face="方正准圆_GBK" size="45">我最近吸血鬼的能力消耗得有些显著</font></p>
+<p begin="3386500000t" end="3425700000t" region="bottomCenter" style="s1" xml:id="subtitle114"><font face="方正准圆_GBK" size="45">如果你是对我怪异般的视力抱有期待的话  那我还真是派不上用场</font></p>
+<p begin="3435300000t" end="3464500000t" region="bottomCenter" style="s1" xml:id="subtitle115"><font face="方正准圆_GBK" size="45">没关系  我对鬼哥哥一点也不抱有期待</font></p>
+<p begin="3482800000t" end="3511600000t" region="bottomCenter" style="s1" xml:id="subtitle116"><font face="方正准圆_GBK" size="45">总之  就算不怎么可疑</font></p>
+<p begin="3511600000t" end="3568300000t" region="bottomCenter" style="s1" xml:id="subtitle117"><font face="方正准圆_GBK" size="45">如果发现令你往意或者觉得很奇怪的东西  逐一向我报告就行</font></p>
+<p begin="3574100000t" end="3614200000t" region="bottomCenter" style="s1" xml:id="subtitle118"><font face="方正准圆_GBK" size="45">「就行」…其实我也没那么多时间的</font></p>
+<p begin="3618400000t" end="3638000000t" region="bottomCenter" style="s1" xml:id="subtitle119"><font face="方正准圆_GBK" size="45">还能活半年之类的吗？</font></p>
+<p begin="3679700000t" end="3712600000t" region="bottomCenter" style="s1" xml:id="subtitle120"><font face="方正准圆_GBK" size="45">话说鬼哥哥还能活多久来着？</font></p>
+<p begin="3716000000t" end="3748500000t" region="bottomCenter" style="s1" xml:id="subtitle121"><font face="方正准圆_GBK" size="45">生命结束和考试结束  究竟是哪个在前来着？</font></p>
+<p begin="3760600000t" end="3796000000t" region="bottomCenter" style="s1" xml:id="subtitle122"><font face="方正准圆_GBK" size="45">很难说啊  考试本身是在前面的</font></p>
+<p begin="3796000000t" end="3842300000t" region="bottomCenter" style="s1" xml:id="subtitle123"><font face="方正准圆_GBK" size="45">可是在那之后还夹着个毕业典礼  知道结果要等到毕业典礼之后</font></p>
+<p begin="3846100000t" end="3891100000t" region="bottomCenter" style="s1" xml:id="subtitle124"><font face="方正准圆_GBK" size="45">吸血鬼的能力大幅消耗也是因为这个原因吧</font></p>
+<p begin="3894900000t" end="3951600000t" region="bottomCenter" style="s1" xml:id="subtitle125"><font face="方正准圆_GBK" size="45">鬼哥哥这已经不是无谓的努力  而是至今不断重复着无谓的失败而已</font></p>
+<p begin="3954100000t" end="3968700000t" region="bottomCenter" style="s1" xml:id="subtitle126"><font face="方正准圆_GBK" size="45">这也不算是无谓吧</font></p>
+<p begin="3981200000t" end="4011700000t" region="bottomCenter" style="s1" xml:id="subtitle127"><font face="方正准圆_GBK" size="45">话说鬼哥哥  你今后打算怎么办？</font></p>
+<p begin="4017500000t" end="4069600000t" region="bottomCenter" style="s1" xml:id="subtitle128"><font face="方正准圆_GBK" size="45">如果鬼哥哥你愿意的话  我也不是不能帮你联系卧烟小姐</font></p>
+<p begin="4072600000t" end="4115100000t" region="bottomCenter" style="s1" xml:id="subtitle129"><font face="方正准圆_GBK" size="45">毕竟我违背了那个人的意愿  并没有使用那张符</font></p>
+<p begin="4119300000t" end="4145600000t" region="bottomCenter" style="s1" xml:id="subtitle130"><font face="方正准圆_GBK" size="45">这样考虑的话  事到如今也没法请求她帮忙了</font></p>
+<p begin="4155100000t" end="4188500000t" region="bottomCenter" style="s1" xml:id="subtitle131"><font face="方正准圆_GBK" size="45">这都是我自己埋下的种子  我自己会处理的</font></p>
+<p begin="4194400000t" end="4236900000t" region="bottomCenter" style="s1" xml:id="subtitle132"><font face="方正准圆_GBK" size="45">如果这真是鬼哥哥埋下的种子  或许你的确应该这么做</font></p>
+<p begin="4242700000t" end="4261100000t" region="bottomCenter" style="s1" xml:id="subtitle133"><font face="方正准圆_GBK" size="45">不过难道你就不觉得不可思议吗？</font></p>
+<p begin="4266900000t" end="4320300000t" region="bottomCenter" style="s1" xml:id="subtitle134"><font face="方正准圆_GBK" size="45">这一阵子就好像是在做平衡一样  只有鬼哥哥身边变得如此混乱</font></p>
+<p begin="4332800000t" end="4359100000t" region="bottomCenter" style="s1" xml:id="subtitle135"><font face="方正准圆_GBK" size="45">虽说越是遇到怪异就越会被怪异所吸引</font></p>
+<p begin="4359100000t" end="4382500000t" region="bottomCenter" style="s1" xml:id="subtitle136"><font face="方正准圆_GBK" size="45">但是这也应该讲究平衡吧</font></p>
+<p begin="4387000000t" end="4431700000t" region="bottomCenter" style="s1" xml:id="subtitle137"><font face="方正准圆_GBK" size="45">鬼哥哥应该不会迟钝到没觉得这一点很不自然吧</font></p>
+<p begin="4439600000t" end="4451700000t" region="bottomCenter" style="s1" xml:id="subtitle138"><font face="方正准圆_GBK" size="45">我很迟钝的</font></p>
+<p begin="4451700000t" end="4486700000t" region="bottomCenter" style="s1" xml:id="subtitle139"><font face="方正准圆_GBK" size="45">我一直都只能顾着解决自己眼前的问题</font></p>
+<p begin="4496300000t" end="4541800000t" region="bottomCenter" style="s1" xml:id="subtitle140"><font face="方正准圆_GBK" size="45">看一眼就能知道的东西  话说那到底是个什么东西啊？</font></p>
+<p begin="4545100000t" end="4552600000t" region="bottomCenter" style="s1" xml:id="subtitle141"><font face="方正准圆_GBK" size="45">不知道</font></p>
+<p begin="4586400000t" end="4616900000t" region="bottomCenter" style="s1" xml:id="subtitle142"><font face="方正准圆_GBK" size="45">你要是这么问我的话我也说不清</font></p>
+<p begin="4648600000t" end="4690700000t" region="bottomCenter" style="s1" xml:id="subtitle143"><font face="方正准圆_GBK" size="45">不过鬼哥哥  我倒是在想我要找的说不定是那个东西</font></p>
+<p begin="4694000000t" end="4708200000t" region="bottomCenter" style="s1" xml:id="subtitle144"><font face="方正准圆_GBK" size="45">是嘛  什么东西？</font></p>
+<p begin="4711500000t" end="4743200000t" region="bottomCenter" style="s1" xml:id="subtitle145"><font face="方正准圆_GBK" size="45">不论是谁看一眼就能明白的东西</font></p>
+<p begin="4747400000t" end="4773300000t" region="bottomCenter" style="s1" xml:id="subtitle146"><font face="方正准圆_GBK" size="45">然而一旦开始刻意寻找就找不到的东西</font></p>
+<p begin="4779500000t" end="4788700000t" region="bottomCenter" style="s1" xml:id="subtitle147"><font face="方正准圆_GBK" size="45">那就是…</font></p>
+<p begin="4859600000t" end="4867100000t" region="bottomCenter" style="s1" xml:id="subtitle148"><font face="方正准圆_GBK" size="45">笑容</font></p>
+<p begin="4898800000t" end="4925100000t" region="bottomCenter" style="s1" xml:id="subtitle149"><font face="方正准圆_GBK" size="45">接下来便是后日谈  或者说这次的结局</font></p>
+<p begin="4932200000t" end="4965100000t" region="bottomCenter" style="s1" xml:id="subtitle150"><font face="方正准圆_GBK" size="45">我们在街上一直逛到了黄昏</font></p>
+<p begin="4965100000t" end="5000200000t" region="bottomCenter" style="s1" xml:id="subtitle151"><font face="方正准圆_GBK" size="45">到头来还是什么也没找到  没有任何成果</font></p>
+<p begin="5000200000t" end="5010600000t" region="bottomCenter" style="s1" xml:id="subtitle152"><font face="方正准圆_GBK" size="23"><b>{\an8}<font face="方正准圆_GBK"><font size="33">过了一段时间之后</font></font></b></font></p>
+<p begin="5010600000t" end="5024300000t" region="bottomCenter" style="s1" xml:id="subtitle153"><font face="方正准圆_GBK" size="23"><b>{\an8}<font face="方正准圆_GBK"><font size="33">那已经是我将被正弦掳走的神原和妹妹们</font></font></b></font></p>
+<p begin="5024300000t" end="5035200000t" region="bottomCenter" style="s1" xml:id="subtitle154"><font face="方正准圆_GBK" size="23"><b>{\an8}<font face="方正准圆_GBK"><font size="33">救回来之后的事情了</font></font></b></font></p>
+<p begin="5039400000t" end="5072700000t" region="bottomCenter" style="s1" xml:id="subtitle155"><font face="方正准圆_GBK" size="45">你觉得最难找的东西是什么呢？</font></p>
+<p begin="5075600000t" end="5091100000t" region="bottomCenter" style="s1" xml:id="subtitle156"><font face="方正准圆_GBK" size="45">嗯？你这是在说什么事？</font></p>
+<p begin="5096500000t" end="5117400000t" region="bottomCenter" style="s1" xml:id="subtitle157"><font face="方正准圆_GBK" size="45">我说的是斧乃木妹妹的事啊</font></p>
+<p begin="5122400000t" end="5155300000t" region="bottomCenter" style="s1" xml:id="subtitle158"><font face="方正准圆_GBK" size="45">阿良良木同学不是和斧乃木妹妹住在一起了吗？</font></p>
+<p begin="5159500000t" end="5190300000t" region="bottomCenter" style="s1" xml:id="subtitle159"><font face="方正准圆_GBK" size="45">所以我觉得应该把这件事说清楚</font></p>
+<p begin="5198300000t" end="5225390000t" region="bottomCenter" style="s1" xml:id="subtitle160"><font face="方正准圆_GBK" size="45">你觉得最难找的东西是什么呢？</font></p>
+<p begin="5227890000t" end="5267900000t" region="bottomCenter" style="s1" xml:id="subtitle161"><font face="方正准圆_GBK" size="45">这个嘛  我认为最难找的东西应该是…</font></p>
+<p begin="5267900000t" end="5295500000t" region="bottomCenter" style="s1" xml:id="subtitle162"><font face="方正准圆_GBK" size="45">不  这个问题只是一个引子</font></p>
+<p begin="5295500000t" end="5335100000t" region="bottomCenter" style="s1" xml:id="subtitle163"><font face="方正准圆_GBK" size="45">不论阿良良木同学怎么认为怎么回答  这都是无所谓的事情</font></p>
+<p begin="5338400000t" end="5380100000t" region="bottomCenter" style="s1" xml:id="subtitle164"><font face="方正准圆_GBK" size="45">啊？那在这个引子之后你又要问什么问题？</font></p>
+<p begin="5384700000t" end="5421800000t" region="bottomCenter" style="s1" xml:id="subtitle165"><font face="方正准圆_GBK" size="45">你觉得最容易找的东西是什么呢？</font></p>
+<p begin="5432300000t" end="5475600000t" region="bottomCenter" style="s1" xml:id="subtitle166"><font face="方正准圆_GBK" size="45">我觉得这应该是一眼就能看得出来的东西吧</font></p>
+<p begin="5477700000t" end="5522300000t" region="bottomCenter" style="s1" xml:id="subtitle167"><font face="方正准圆_GBK" size="45">不行啊  阿良良木同学  你不能总被字面上的意思所束缚啊</font></p>
+<p begin="5524000000t" end="5543200000t" region="bottomCenter" style="s1" xml:id="subtitle168"><font face="方正准圆_GBK" size="45">因为那句话是骗你的</font></p>
+<p begin="5549500000t" end="5558200000t" region="bottomCenter" style="s1" xml:id="subtitle169"><font face="方正准圆_GBK" size="45">骗我的？</font></p>
+<p begin="5559900000t" end="5576600000t" region="bottomCenter" style="s1" xml:id="subtitle170"><font face="方正准圆_GBK" size="45">说是骗你可能有些过了</font></p>
+<p begin="5580300000t" end="5608300000t" region="bottomCenter" style="s1" xml:id="subtitle171"><font face="方正准圆_GBK" size="45">因为斧乃木妹妹根本没在找东西</font></p>
+<p begin="5614100000t" end="5658300000t" region="bottomCenter" style="s1" xml:id="subtitle172"><font face="方正准圆_GBK" size="45">最难找的东西应该就是这种了</font></p>
+<p begin="5667100000t" end="5690800000t" region="bottomCenter" style="s1" xml:id="subtitle173"><font face="方正准圆_GBK" size="45">不存在的东西是无法被找到的</font></p>
+<p begin="5693800000t" end="5740100000t" region="bottomCenter" style="s1" xml:id="subtitle174"><font face="方正准圆_GBK" size="45">难道说斧乃木妹妹是为了和我玩  才故意撒了一个善意的谎言吗？</font></p>
+<p begin="5740100000t" end="5752600000t" region="bottomCenter" style="s1" xml:id="subtitle175"><font face="方正准圆_GBK" size="45">不是这样</font></p>
+<p begin="5752600000t" end="5759200000t" region="bottomCenter" style="s1" xml:id="subtitle176"><font face="方正准圆_GBK" size="23"><b>{\an8}<font face="方正准圆_GBK"><font size="33">立刻</font></font></b></font></p>
+<p begin="5760100000t" end="5767600000t" region="bottomCenter" style="s1" xml:id="subtitle177"><font face="方正准圆_GBK" size="23"><b>{\an8}<font face="方正准圆_GBK"><font size="33">否定</font></font></b></font></p>
+<p begin="5767600000t" end="5803900000t" region="bottomCenter" style="s1" xml:id="subtitle178"><font face="方正准圆_GBK" size="45">这个答案就是最容易找的东西</font></p>
+<p begin="5810100000t" end="5854800000t" region="bottomCenter" style="s1" xml:id="subtitle179"><font face="方正准圆_GBK" size="45">当然  容易找的东西都是些十分显眼的东西</font></p>
+<p begin="5854800000t" end="5903600000t" region="bottomCenter" style="s1" xml:id="subtitle180"><font face="方正准圆_GBK" size="45">要说显眼  就没有比你找东西的人更显眼的人了</font></p>
+<p begin="5908600000t" end="5951100000t" region="bottomCenter" style="s1" xml:id="subtitle181"><font face="方正准圆_GBK" size="45">走走停停  左顾右盼  时而弯腰  时而站起</font></p>
+<p begin="5951100000t" end="5977400000t" region="bottomCenter" style="s1" xml:id="subtitle182"><font face="方正准圆_GBK" size="45">不管怎么看都是行动可疑的人</font></p>
+<p begin="5982400000t" end="6037000000t" region="bottomCenter" style="s1" xml:id="subtitle183"><font face="方正准圆_GBK" size="45">站在好像洋娃娃一样的女孩子手指上  在这样高的位置上找东西的人</font></p>
+<p begin="6037000000t" end="6057500000t" region="bottomCenter" style="s1" xml:id="subtitle184"><font face="方正准圆_GBK" size="45">恐怕应该没有比这再显眼的东西了吧</font></p>
+<p begin="6057500000t" end="6065400000t" region="bottomCenter" style="s1" xml:id="subtitle185"><font face="方正准圆_GBK" size="23"><b>{\an8}<font face="方正准圆_GBK"><font size="33">招摇</font></font></b></font></p>
+<p begin="6066200000t" end="6075000000t" region="bottomCenter" style="s1" xml:id="subtitle186"><font face="方正准圆_GBK" size="23"><b>{\an8}<font face="方正准圆_GBK"><font size="33">醒目</font></font></b></font></p>
+<p begin="6077900000t" end="6132500000t" region="bottomCenter" style="s1" xml:id="subtitle187"><font face="方正准圆_GBK" size="45">也就是说  斧乃木妹妹的意图就是让阿良良木同学变得显眼</font></p>
+<p begin="6136300000t" end="6172600000t" region="bottomCenter" style="s1" xml:id="subtitle188"><font face="方正准圆_GBK" size="45">因此才把阿良良木同学像旗子一样举了起来</font></p>
+<p begin="6175100000t" end="6215100000t" region="bottomCenter" style="s1" xml:id="subtitle189"><font face="方正准圆_GBK" size="45">可是斧乃木妹妹为什么要让我变得显眼起来呢？</font></p>
+<p begin="6219300000t" end="6271400000t" region="bottomCenter" style="s1" xml:id="subtitle190"><font face="方正准圆_GBK" size="45">那是因为一月的时候哪里有个你绝对不能见到的人吧</font></p>
+<p begin="6291000000t" end="6334400000t" region="bottomCenter" style="s1" xml:id="subtitle191"><font face="方正准圆_GBK" size="45">阿良良木同学不能见到  对方也不愿见到你</font></p>
+<p begin="6337300000t" end="6351100000t" region="bottomCenter" style="s1" xml:id="subtitle192"><font face="方正准圆_GBK" size="23"><b>{\an8}<font face="方正准圆_GBK"><font size="33">不过最后还是见到了</font></font></b></font></p>
+<p begin="6354800000t" end="6388600000t" region="bottomCenter" style="s1" xml:id="subtitle193"><font face="方正准圆_GBK" size="45">那个人每天都会来到这个小镇</font></p>
+<p begin="6388600000t" end="6424900000t" region="bottomCenter" style="s1" xml:id="subtitle194"><font face="方正准圆_GBK" size="45">任何时候和他擦肩而过都不奇怪</font></p>
+<p begin="6429100000t" end="6468700000t" region="bottomCenter" style="s1" xml:id="subtitle195"><font face="方正准圆_GBK" size="45">斧乃木妹妹应该是在阻止这件容易发生的事情发生吧</font></p>
+<p begin="6475800000t" end="6516300000t" region="bottomCenter" style="s1" xml:id="subtitle196"><font face="方正准圆_GBK" size="45">让阿良良木同学变得显眼  对方也就容易避开了</font></p>
+<p begin="6526300000t" end="6551300000t" region="bottomCenter" style="s1" xml:id="subtitle197"><font face="方正准圆_GBK" size="45">通过让我找一件永远不会找到的东西</font></p>
+<p begin="6557500000t" end="6575500000t" region="bottomCenter" style="s1" xml:id="subtitle198"><font face="方正准圆_GBK" size="45">而让我变得容易找到</font></p>
+<p begin="6586300000t" end="6626800000t" region="bottomCenter" style="s1" xml:id="subtitle199"><font face="方正准圆_GBK" size="45">为了不让我和那位欺诈师遭遇</font></p>
+<p begin="6633900000t" end="6648900000t" region="bottomCenter" style="s1" xml:id="subtitle200"><font face="方正准圆_GBK" size="45">对乎斧乃木妹妹来说</font></p>
+<p begin="6648900000t" end="6710200000t" region="bottomCenter" style="s1" xml:id="subtitle201"><font face="方正准圆_GBK" size="45">她一定是不想再给当时的阿良良木同学再添烦恼了</font></p>
+<p begin="6716500000t" end="6760200000t" region="bottomCenter" style="s1" xml:id="subtitle202"><font face="方正准圆_GBK" size="45">任何事都没有发生  没有任何事件性和故事性的状况</font></p>
+<p begin="6760200000t" end="6812000000t" region="bottomCenter" style="s1" xml:id="subtitle203"><font face="方正准圆_GBK" size="45">说不定其实都是别人对你的关心在默默地支撑</font></p>
+<p begin="6819500000t" end="6884100000t" region="bottomCenter" style="s1" xml:id="subtitle204"><font face="方正准圆_GBK" size="45">不知道自己和平的生活是由谁默默支撑  自己却想要改变现状</font></p>
+<p begin="6890800000t" end="6903700000t" region="bottomCenter" style="s1" xml:id="subtitle205"><font face="方正准圆_GBK" size="45">这的确是件很滑稽的事情</font></p>
+<p begin="6912500000t" end="6929600000t" region="bottomCenter" style="s1" xml:id="subtitle206"><font face="方正准圆_GBK" size="45">怪不得我总是被她嘲弄</font></p>
+<p begin="6936700000t" end="6945800000t" region="bottomCenter" style="s1" xml:id="subtitle207"><font face="方正准圆_GBK" size="45">或许吧</font></p>
+<p begin="6951700000t" end="6989200000t" region="bottomCenter" style="s1" xml:id="subtitle208"><font face="方正准圆_GBK" size="45">虽然我们常说「人只能自己救自己」</font></p>
+<p begin="6998400000t" end="7040100000t" region="bottomCenter" style="s1" xml:id="subtitle209"><font face="方正准圆_GBK" size="45">然而实际上  只靠自己一个人是根本无法生活下去的</font></p>
+<p begin="7044300000t" end="7063500000t" region="bottomCenter" style="s1" xml:id="subtitle210"><font face="方正准圆_GBK" size="45">这个嘛  的确是这样</font></p>
+<p begin="7067200000t" end="7106800000t" region="bottomCenter" style="s1" xml:id="subtitle211"><font face="方正准圆_GBK" size="45">不过我们在平常的生活中根本意识不到这一点</font></p>
+<p begin="7115200000t" end="7126400000t" region="bottomCenter" style="s1" xml:id="subtitle212"><font face="方正准圆_GBK" size="45">没错</font></p>
+<p begin="7131000000t" end="7199000000t" region="bottomCenter" style="s1" xml:id="subtitle213"><font face="方正准圆_GBK" size="45">说不定这种不经意间的关心正是我们最难找到的东西</font></p>
+<p begin="7425100000t" end="7480500000t" region="bottomCenter" style="s1" xml:id="subtitle214"><font face="华文中宋" size="40" color="#000000">将烦恼踢开  石头顺势滚落</font></p>
+<p begin="7425100000t" end="7480500000t" region="bottomCenter" style="s1" xml:id="subtitle215"><font face="DFGHSMincho-W5" size="36" color="#000000">{\an8}悩み 蹴飛ばして石が転がってく</font></p>
+<p begin="7481000000t" end="7538100000t" region="bottomCenter" style="s1" xml:id="subtitle216"><font face="华文中宋" size="40" color="#000000">稍加掩饰的  是四月的事情</font></p>
+<p begin="7481000000t" end="7538100000t" region="bottomCenter" style="s1" xml:id="subtitle217"><font face="DFGHSMincho-W5" size="36" color="#000000">{\an8}少し 誤魔化した あれは四月のこと</font></p>
+<p begin="7538100000t" end="7592300000t" region="bottomCenter" style="s1" xml:id="subtitle218"><font face="华文中宋" size="40" color="#000000">曾经的我们都是好奇心旺盛的开朗孩子</font></p>
+<p begin="7538100000t" end="7592300000t" region="bottomCenter" style="s1" xml:id="subtitle219"><font face="DFGHSMincho-W5" size="36" color="#000000">{\an8}好奇心旺盛で 明るい子供でした</font></p>
+<p begin="7592700000t" end="7652400000t" region="bottomCenter" style="s1" xml:id="subtitle220"><font face="华文中宋" size="40" color="#000000">在背后推着我们的是那一天开始的冒险</font></p>
+<p begin="7592700000t" end="7652400000t" region="bottomCenter" style="s1" xml:id="subtitle221"><font face="DFGHSMincho-W5" size="36" color="#000000">{\an8}背中押したのは あの日からの冒險</font></p>
+<p begin="7652400000t" end="7709500000t" region="bottomCenter" style="s1" xml:id="subtitle222"><font face="华文中宋" size="40" color="#000000">追寻着那些不出格的热度</font></p>
+<p begin="7652400000t" end="7709500000t" region="bottomCenter" style="s1" xml:id="subtitle223"><font face="DFGHSMincho-W5" size="36" color="#000000">{\an8}はみ出せない熱を追いに行って</font></p>
+<p begin="7709900000t" end="7763700000t" region="bottomCenter" style="s1" xml:id="subtitle224"><font face="华文中宋" size="40" color="#000000">到处闲逛</font></p>
+<p begin="7709900000t" end="7763700000t" region="bottomCenter" style="s1" xml:id="subtitle225"><font face="DFGHSMincho-W5" size="36" color="#000000">{\an8}道草をしよう</font></p>
+<p begin="7782500000t" end="7839700000t" region="bottomCenter" style="s1" xml:id="subtitle226"><font face="华文中宋" size="40" color="#000000">将重要的梦想放进箱子</font></p>
+<p begin="7782500000t" end="7839700000t" region="bottomCenter" style="s1" xml:id="subtitle227"><font face="DFGHSMincho-W5" size="36" color="#000000">{\an8}箱に乗せ 大切な夢</font></p>
+<p begin="7839700000t" end="7896000000t" region="bottomCenter" style="s1" xml:id="subtitle228"><font face="华文中宋" size="40" color="#000000">踩起脚踏板  将它带到远方</font></p>
+<p begin="7839700000t" end="7896000000t" region="bottomCenter" style="s1" xml:id="subtitle229"><font face="DFGHSMincho-W5" size="36" color="#000000">{\an8}ペダル回し 遠くまで さぁ 持ち出そう</font></p>
+<p begin="7896000000t" end="7949800000t" region="bottomCenter" style="s1" xml:id="subtitle230"><font face="华文中宋" size="40" color="#000000">传说中我们的未来</font></p>
+<p begin="7896000000t" end="7949800000t" region="bottomCenter" style="s1" xml:id="subtitle231"><font face="DFGHSMincho-W5" size="36" color="#000000">{\an8}噂した 僕の未来は</font></p>
+<p begin="7950200000t" end="7986900000t" region="bottomCenter" style="s1" xml:id="subtitle232"><font face="华文中宋" size="40" color="#000000">有着我们各自的模样</font></p>
+<p begin="7950200000t" end="7986900000t" region="bottomCenter" style="s1" xml:id="subtitle233"><font face="DFGHSMincho-W5" size="36" color="#000000">{\an8}個々人の伸びる丈に</font></p>
+<p begin="7986900000t" end="8029000000t" region="bottomCenter" style="s1" xml:id="subtitle234"><font face="华文中宋" size="40" color="#000000">怎么说也听不懂</font></p>
+<p begin="7986900000t" end="8029000000t" region="bottomCenter" style="s1" xml:id="subtitle235"><font face="DFGHSMincho-W5" size="36" color="#000000">{\an8}聞いてもわからない</font></p>
+<p begin="8029400000t" end="8089100000t" region="bottomCenter" style="s1" xml:id="subtitle236"><font face="华文中宋" size="40" color="#000000">听不懂啊听不懂</font></p>
+<p begin="8029400000t" end="8089100000t" region="bottomCenter" style="s1" xml:id="subtitle237"><font face="DFGHSMincho-W5" size="36" color="#000000">{\an8}わからない わからない</font></p>
+</div>
+</body>
+</tt>

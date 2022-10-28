@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="1122000000t" end="1159200000t" region="bottomCenter" style="s1" xml:id="subtitle0"><font face="枫雪古印体" size="32"><b>古老的绿洲王国滴水不降的日子</b></font></p>
+<p begin="1159200000t" end="1174700000t" region="bottomCenter" style="s1" xml:id="subtitle1"><font face="枫雪古印体" size="32"><b>已持续了三年之久</b></font></p>
+<p begin="1182600000t" end="1218100000t" region="bottomCenter" style="s1" xml:id="subtitle2"><font face="枫雪古印体" size="32"><b>动乱四起 渴求希望的人们拿起了武器</b></font></p>
+<p begin="1236600000t" end="1260500000t" region="bottomCenter" style="s1" xml:id="subtitle3"><font face="枫雪古印体" size="32"><b>从雨宴的陷阱中逃脱的路飞等人</b></font></p>
+<p begin="1267700000t" end="1303890000t" region="bottomCenter" style="s1" xml:id="subtitle4"><font face="枫雪古印体" size="32"><b>为了劝阻200万的叛乱军 而向着阿尔巴那进发</b></font></p>
+<p begin="1310090000t" end="1329200000t" region="bottomCenter" style="s1" xml:id="subtitle5"><font face="枫雪古印体" size="32"><b>途中被埋伏的克洛克达尔截获</b></font></p>
+<p begin="1331100000t" end="1348900000t" region="bottomCenter" style="s1" xml:id="subtitle6"><font face="枫雪古印体" size="32"><b>路飞与他展开了一对一的决斗</b></font></p>
+<p begin="1421700000t" end="1481400000t" region="bottomCenter" style="s1" xml:id="subtitle7"><font face="枫雪古印体" size="32"><b>但是在压倒性的力量面前 他却无从下手 最终败北</b></font></p>
+<p begin="1526200000t" end="1581400000t" region="bottomCenter" style="s1" xml:id="subtitle8"><font face="枫雪古印体" size="32"><b>当前 事态会向更恶劣情况发展吗</b></font></p>
+<p begin="1587100000t" end="1671100000t" region="bottomCenter" style="s1" xml:id="subtitle9"><font face="微软雅黑" size="32"><b>向着奇迹疾行<br />阿拉巴斯坦动物乐园</b></font></p>
+<p begin="1914400000t" end="1944200000t" region="bottomCenter" style="s1" xml:id="subtitle10"><font face="枫雪古印体" size="32"><b>看啊 这... 这么多</b></font></p>
+<p begin="1996700000t" end="2003800000t" region="bottomCenter" style="s1" xml:id="subtitle11"><font face="枫雪古印体" size="32"><b>看啊</b></font></p>
+<p begin="2019800000t" end="2076700000t" region="bottomCenter" style="s1" xml:id="subtitle12"><font face="枫雪古印体" size="32"><b>水... 水涌出来了</b></font></p>
+<p begin="2098100000t" end="2117400000t" region="bottomCenter" style="s1" xml:id="subtitle13"><font face="枫雪古印体" size="32"><b>我说过的吧 路飞</b></font></p>
+<p begin="2133100000t" end="2152000000t" region="bottomCenter" style="s1" xml:id="subtitle14"><font face="枫雪古印体" size="32"><b>这是顽强的土地啊</b></font></p>
+<p begin="2189800000t" end="2212300000t" region="bottomCenter" style="s1" xml:id="subtitle15"><font face="枫雪古印体" size="32"><b>犹巴还活着</b></font></p>
+<p begin="2258900000t" end="2306800000t" region="bottomCenter" style="s1" xml:id="subtitle16"><font face="枫雪古印体" size="32"><b>犹巴将死去 湮灭在这最后的沙暴中</b></font></p>
+<p begin="2318100000t" end="2361000000t" region="bottomCenter" style="s1" xml:id="subtitle17"><font face="枫雪古印体" size="32"><b>叛乱军知道的话 一定会更加愤怒的吧</b></font></p>
+<p begin="2392500000t" end="2437500000t" region="bottomCenter" style="s1" xml:id="subtitle18"><font face="枫雪古印体" size="32"><b>替别人着想的束缚思想 是会让这个国家灭亡的</b></font></p>
+<p begin="2458700000t" end="2488200000t" region="bottomCenter" style="s1" xml:id="subtitle19"><font face="枫雪古印体" size="32"><b>你也是一样 戴草帽的路飞</b></font></p>
+<p begin="2499200000t" end="2539400000t" region="bottomCenter" style="s1" xml:id="subtitle20"><font face="枫雪古印体" size="32"><b>如果你能舍弃那些无聊感情的话 说不定可以活得更久一点</b></font></p>
+<p begin="2572790000t" end="2581600000t" region="bottomCenter" style="s1" xml:id="subtitle21"><font face="枫雪古印体" size="32"><b>水</b></font></p>
+<p begin="2597090000t" end="2627000000t" region="bottomCenter" style="s1" xml:id="subtitle22"><font face="枫雪古印体" size="32"><b>根本用不着为这点水而感恩</b></font></p>
+<p begin="2765400000t" end="2792000000t" region="bottomCenter" style="s1" xml:id="subtitle23"><font face="枫雪古印体" size="32"><b>难道说... 你还活着吗</b></font></p>
+<p begin="2984400000t" end="2996100000t" region="bottomCenter" style="s1" xml:id="subtitle24"><font face="枫雪古印体" size="32"><b>很痛苦吧</b></font></p>
+<p begin="3004500000t" end="3027000000t" region="bottomCenter" style="s1" xml:id="subtitle25"><font face="枫雪古印体" size="32"><b>不过你马上就能解脱了</b></font></p>
+<p begin="3119500000t" end="3129100000t" region="bottomCenter" style="s1" xml:id="subtitle26"><font face="枫雪古印体" size="32"><b>永别了</b></font></p>
+<p begin="3185400000t" end="3213600000t" region="bottomCenter" style="s1" xml:id="subtitle27"><font face="枫雪古印体" size="32"><b>消磨掉无聊的时间了</b></font></p>
+<p begin="3337600000t" end="3349400000t" region="bottomCenter" style="s1" xml:id="subtitle28"><font face="枫雪古印体" size="32"><b>这有什么</b></font></p>
+<p begin="3357500000t" end="3397200000t" region="bottomCenter" style="s1" xml:id="subtitle29"><font face="枫雪古印体" size="32"><b>只要这场沙暴过去 就会下雨了</b></font></p>
+<p begin="3401900000t" end="3416800000t" region="bottomCenter" style="s1" xml:id="subtitle30"><font face="枫雪古印体" size="32"><b>家常便饭了</b></font></p>
+<p begin="3443300000t" end="3484800000t" region="bottomCenter" style="s1" xml:id="subtitle31"><font face="枫雪古印体" size="32"><b>不管... 不管来几次都没用的 沙暴</b></font></p>
+<p begin="3488200000t" end="3521600000t" region="bottomCenter" style="s1" xml:id="subtitle32"><font face="枫雪古印体" size="32"><b>犹巴是绝不会输给沙子的</b></font></p>
+<p begin="3719700000t" end="3758300000t" region="bottomCenter" style="s1" xml:id="subtitle33"><font face="枫雪古印体" size="32"><b>就是那个时候 我对它说的</b></font></p>
+<p begin="3758300000t" end="3777300000t" region="bottomCenter" style="s1" xml:id="subtitle34"><font face="枫雪古印体" size="32"><b>这个罗圈腿的臭螃蟹</b></font></p>
+<p begin="3784600000t" end="3828700000t" region="bottomCenter" style="s1" xml:id="subtitle35"><font face="枫雪古印体" size="32"><b>之后 大家才注意到 全世界的螃蟹都是罗圈腿</b></font></p>
+<p begin="3835300000t" end="3868100000t" region="bottomCenter" style="s1" xml:id="subtitle36"><font face="枫雪古印体" size="32"><b>所以他们才开始横着走吧</b></font></p>
+<p begin="3873300000t" end="3903900000t" region="bottomCenter" style="s1" xml:id="subtitle37"><font face="枫雪古印体" size="32"><b>顺便说一下 那个时候又有一个家伙朝我背后弹飞过来</b></font></p>
+<p begin="3907000000t" end="3916700000t" region="bottomCenter" style="s1" xml:id="subtitle38"><font face="枫雪古印体" size="32"><b>那就是虾啊</b></font></p>
+<p begin="3933700000t" end="3954000000t" region="bottomCenter" style="s1" xml:id="subtitle39"><font face="枫雪古印体" size="32"><b>那虾也就是螃蟹吗</b></font></p>
+<p begin="3954000000t" end="3964400000t" region="bottomCenter" style="s1" xml:id="subtitle40"><font face="枫雪古印体" size="32"><b>是螃蟹啦</b></font></p>
+<p begin="3991800000t" end="4028900000t" region="bottomCenter" style="s1" xml:id="subtitle41"><font face="枫雪古印体" size="32"><b>索隆 你那样做只会浪费多余的体力</b></font></p>
+<p begin="4030900000t" end="4042200000t" region="bottomCenter" style="s1" xml:id="subtitle42"><font face="枫雪古印体" size="32"><b>你好烦</b></font></p>
+<p begin="4043900000t" end="4064500000t" region="bottomCenter" style="s1" xml:id="subtitle43"><font face="枫雪古印体" size="32"><b>不用理会这家伙 娜美小姐</b></font></p>
+<p begin="4074800000t" end="4108100000t" region="bottomCenter" style="s1" xml:id="subtitle44"><font face="枫雪古印体" size="32"><b>这些家伙不干点无聊事是没法解闷的</b></font></p>
+<p begin="4113500000t" end="4125700000t" region="bottomCenter" style="s1" xml:id="subtitle45"><font face="枫雪古印体" size="32"><b>死脑瓜子</b></font></p>
+<p begin="4126800000t" end="4136700000t" region="bottomCenter" style="s1" xml:id="subtitle46"><font face="枫雪古印体" size="32"><b>特别值得一提的是...</b></font></p>
+<p begin="4167800000t" end="4209500000t" region="bottomCenter" style="s1" xml:id="subtitle47"><font face="枫雪古印体" size="32"><b>体力狂人还想跟七武海再来场决斗呢</b></font></p>
+<p begin="4226500000t" end="4252800000t" region="bottomCenter" style="s1" xml:id="subtitle48"><font face="枫雪古印体" size="32"><b>混蛋 到底想说什么啊</b></font></p>
+<p begin="4258400000t" end="4270100000t" region="bottomCenter" style="s1" xml:id="subtitle49"><font face="枫雪古印体" size="32"><b>给我说清楚</b></font></p>
+<p begin="4272400000t" end="4286700000t" region="bottomCenter" style="s1" xml:id="subtitle50"><font face="枫雪古印体" size="32"><b>好 那我就说出来了</b></font></p>
+<p begin="4296100000t" end="4343200000t" region="bottomCenter" style="s1" xml:id="subtitle51"><font face="枫雪古印体" size="32"><b>你是在害怕 路飞会不会输掉</b></font></p>
+<p begin="4358900000t" end="4388900000t" region="bottomCenter" style="s1" xml:id="subtitle52"><font face="枫雪古印体" size="32"><b>你说我 在害怕?</b></font></p>
+<p begin="4391500000t" end="4420000000t" region="bottomCenter" style="s1" xml:id="subtitle53"><font face="枫雪古印体" size="32"><b>你这个漂亮卷毛</b></font></p>
+<p begin="4420000000t" end="4449900000t" region="bottomCenter" style="s1" xml:id="subtitle54"><font face="枫雪古印体" size="32"><b>你是真想惹我生气啊</b></font></p>
+<p begin="4450200000t" end="4465800000t" region="bottomCenter" style="s1" xml:id="subtitle55"><font face="枫雪古印体" size="32"><b>你这个绿藻头</b></font></p>
+<p begin="4466500000t" end="4476700000t" region="bottomCenter" style="s1" xml:id="subtitle56"><font face="枫雪古印体" size="32"><b>什么</b></font></p>
+<p begin="4481400000t" end="4497200000t" region="bottomCenter" style="s1" xml:id="subtitle57"><font face="枫雪古印体" size="32"><b>要干一场吗 你这个混蛋</b></font></p>
+<p begin="4518300000t" end="4539200000t" region="bottomCenter" style="s1" xml:id="subtitle58"><font face="枫雪古印体" size="32"><b>住手 你们真是无聊透顶</b></font></p>
+<p begin="4539200000t" end="4549200000t" region="bottomCenter" style="s1" xml:id="subtitle59"><font face="枫雪古印体" size="32"><b>好厉害</b></font></p>
+<p begin="4571300000t" end="4582700000t" region="bottomCenter" style="s1" xml:id="subtitle60"><font face="枫雪古印体" size="32"><b>对手是厉害</b></font></p>
+<p begin="4588000000t" end="4603300000t" region="bottomCenter" style="s1" xml:id="subtitle61"><font face="枫雪古印体" size="32"><b>大家都有点坐立不安了</b></font></p>
+<p begin="4610900000t" end="4633500000t" region="bottomCenter" style="s1" xml:id="subtitle62"><font face="枫雪古印体" size="32"><b>这时候身为副船长的我...</b></font></p>
+<p begin="4633500000t" end="4669500000t" region="bottomCenter" style="s1" xml:id="subtitle63"><font face="枫雪古印体" size="32"><b>没事的 大家不用担心的 路飞是不会输的</b></font></p>
+<p begin="4670100000t" end="4685200000t" region="bottomCenter" style="s1" xml:id="subtitle64"><font face="枫雪古印体" size="32"><b>他不是跟我们约好了</b></font></p>
+<p begin="4689300000t" end="4714100000t" region="bottomCenter" style="s1" xml:id="subtitle65"><font face="枫雪古印体" size="32"><b>让我们在阿尔巴那等他吗</b></font></p>
+<p begin="4716700000t" end="4740300000t" region="bottomCenter" style="s1" xml:id="subtitle66"><font face="枫雪古印体" size="32"><b>你不是最担心路飞的一个吗</b></font></p>
+<p begin="4757800000t" end="4763600000t" region="bottomCenter" style="s1" xml:id="subtitle67"><font face="枫雪古印体" size="32"><b>好痛</b></font></p>
+<p begin="4763600000t" end="4789200000t" region="bottomCenter" style="s1" xml:id="subtitle68"><font face="枫雪古印体" size="32"><b>你啊 只要担心叛乱的事就好了</b></font></p>
+<p begin="4804800000t" end="4819900000t" region="bottomCenter" style="s1" xml:id="subtitle69"><font face="枫雪古印体" size="32"><b>不好意思啊 薇薇小姐</b></font></p>
+<p begin="4822200000t" end="4845200000t" region="bottomCenter" style="s1" xml:id="subtitle70"><font face="枫雪古印体" size="32"><b>再继续跟你吵下去就没完没了的</b></font></p>
+<p begin="4858100000t" end="4886000000t" region="bottomCenter" style="s1" xml:id="subtitle71"><font face="枫雪古印体" size="32"><b>好 那么把脑筋专注于阿尔巴那吧</b></font></p>
+<p begin="4888500000t" end="4906600000t" region="bottomCenter" style="s1" xml:id="subtitle72"><font face="枫雪古印体" size="32"><b>冲啊 剪刀</b></font></p>
+<p begin="4943600000t" end="4951000000t" region="bottomCenter" style="s1" xml:id="subtitle73"><font face="枫雪古印体" size="32"><b>说什么呢...</b></font></p>
+<p begin="4951100000t" end="4964900000t" region="bottomCenter" style="s1" xml:id="subtitle74"><font face="枫雪古印体" size="32"><b>名字呀 螃蟹的名字</b></font></p>
+<p begin="4977400000t" end="4988600000t" region="bottomCenter" style="s1" xml:id="subtitle75"><font face="枫雪古印体" size="32"><b>可剪刀也太...</b></font></p>
+<p begin="4989400000t" end="4995300000t" region="bottomCenter" style="s1" xml:id="subtitle76"><font face="枫雪古印体" size="32"><b>不好吗</b></font></p>
+<p begin="4997000000t" end="5003300000t" region="bottomCenter" style="s1" xml:id="subtitle77"><font face="枫雪古印体" size="32"><b>不坏不坏</b></font></p>
+<p begin="5075500000t" end="5092300000t" region="bottomCenter" style="s1" xml:id="subtitle78"><font face="枫雪古印体" size="32"><b>去阿尔巴那 我吗</b></font></p>
+<p begin="5108500000t" end="5128090000t" region="bottomCenter" style="s1" xml:id="subtitle79"><font face="枫雪古印体" size="32"><b>是去追捕路飞一伙吗</b></font></p>
+<p begin="5132600000t" end="5156300000t" region="bottomCenter" style="s1" xml:id="subtitle80"><font face="枫雪古印体" size="32"><b>还是去增援国王军...</b></font></p>
+<p begin="5158090000t" end="5167800000t" region="bottomCenter" style="s1" xml:id="subtitle81"><font face="枫雪古印体" size="32"><b>由你决定</b></font></p>
+<p begin="5186300000t" end="5215490000t" region="bottomCenter" style="s1" xml:id="subtitle82"><font face="枫雪古印体" size="32"><b>到那里怎么做 由你自己决定</b></font></p>
+<p begin="5223900000t" end="5251900000t" region="bottomCenter" style="s1" xml:id="subtitle83"><font face="枫雪古印体" size="32"><b>什么 到底是怎么回事</b></font></p>
+<p begin="5256500000t" end="5281200000t" region="bottomCenter" style="s1" xml:id="subtitle84"><font face="枫雪古印体" size="32"><b>只要你觉得是正义的话 就可以了</b></font></p>
+<p begin="5289400000t" end="5326900000t" region="bottomCenter" style="s1" xml:id="subtitle85"><font face="枫雪古印体" size="32"><b>不管结果如何 我都会负责的</b></font></p>
+<p begin="5344100000t" end="5362700000t" region="bottomCenter" style="s1" xml:id="subtitle86"><font face="枫雪古印体" size="32"><b>斯摩格大佐 您要去哪里</b></font></p>
+<p begin="5365300000t" end="5392600000t" region="bottomCenter" style="s1" xml:id="subtitle87"><font face="枫雪古印体" size="32"><b>我要出海 处理件急事</b></font></p>
+<p begin="5398000000t" end="5420400000t" region="bottomCenter" style="s1" xml:id="subtitle88"><font face="枫雪古印体" size="32"><b>随时保持通讯状态</b></font></p>
+<p begin="5427200000t" end="5432700000t" region="bottomCenter" style="s1" xml:id="subtitle89"><font face="枫雪古印体" size="32"><b>是</b></font></p>
+<p begin="5450000000t" end="5480400000t" region="bottomCenter" style="s1" xml:id="subtitle90"><font face="枫雪古印体" size="32"><b>你要好好看着这个国家的结局</b></font></p>
+<p begin="5512800000t" end="5534100000t" region="bottomCenter" style="s1" xml:id="subtitle91"><font face="枫雪古印体" size="32"><b>毁灭也好 存活也好</b></font></p>
+<p begin="5536500000t" end="5571600000t" region="bottomCenter" style="s1" xml:id="subtitle92"><font face="枫雪古印体" size="32"><b>在时代变迁之时 这种事是必然要发生的</b></font></p>
+<p begin="5645400000t" end="5662600000t" region="bottomCenter" style="s1" xml:id="subtitle93"><font face="枫雪古印体" size="32"><b>曹长 曹长</b></font></p>
+<p begin="5672300000t" end="5680000000t" region="bottomCenter" style="s1" xml:id="subtitle94"><font face="枫雪古印体" size="32"><b>请您下达命令</b></font></p>
+<p begin="5687500000t" end="5692200000t" region="bottomCenter" style="s1" xml:id="subtitle95"><font face="枫雪古印体" size="32"><b>是</b></font></p>
+<p begin="5720100000t" end="5747200000t" region="bottomCenter" style="s1" xml:id="subtitle96"><font face="枫雪古印体" size="32"><b>你要好好看着这个国家的结局</b></font></p>
+<p begin="5755500000t" end="5774200000t" region="bottomCenter" style="s1" xml:id="subtitle97"><font face="枫雪古印体" size="32"><b>毁灭也好 存活也好</b></font></p>
+<p begin="5776700000t" end="5811400000t" region="bottomCenter" style="s1" xml:id="subtitle98"><font face="枫雪古印体" size="32"><b>在时代变迁之时 这种事是必然要发生的</b></font></p>
+<p begin="5849000000t" end="5887800000t" region="bottomCenter" style="s1" xml:id="subtitle99"><font face="枫雪古印体" size="32"><b>追捕海贼戴草帽的路飞及其同伙</b></font></p>
+<p begin="5889300000t" end="5935000000t" region="bottomCenter" style="s1" xml:id="subtitle100"><font face="枫雪古印体" size="32"><b>全队加强装备 准备向阿尔巴那进发</b></font></p>
+<p begin="5935000000t" end="5939200000t" region="bottomCenter" style="s1" xml:id="subtitle101"><font face="枫雪古印体" size="32"><b>是</b></font></p>
+<p begin="5959800000t" end="5971400000t" region="bottomCenter" style="s1" xml:id="subtitle102"><font face="枫雪古印体" size="32"><b>草帽路飞</b></font></p>
+<p begin="6013300000t" end="6046200000t" region="bottomCenter" style="s1" xml:id="subtitle103"><font face="枫雪古印体" size="32"><b>什么 这个螃蟹不能渡河吗</b></font></p>
+<p begin="6048700000t" end="6085400000t" region="bottomCenter" style="s1" xml:id="subtitle104"><font face="枫雪古印体" size="32"><b>因为搬家蟹是生活在沙漠的生物 所以它怕水</b></font></p>
+<p begin="6085700000t" end="6129400000t" region="bottomCenter" style="s1" xml:id="subtitle105"><font face="枫雪古印体" size="32"><b>它可是螃蟹呀 这又不是大海 想想办法吧</b></font></p>
+<p begin="6142200000t" end="6161500000t" region="bottomCenter" style="s1" xml:id="subtitle106"><font face="枫雪古印体" size="32"><b>不好了 这下糟糕了</b></font></p>
+<p begin="6166400000t" end="6173200000t" region="bottomCenter" style="s1" xml:id="subtitle107"><font face="枫雪古印体" size="32"><b>你看这个</b></font></p>
+<p begin="6177900000t" end="6217000000t" region="bottomCenter" style="s1" xml:id="subtitle108"><font face="枫雪古印体" size="32"><b>等我们慢慢游过这条像海一样宽阔的河的时候 就赶不上了呀</b></font></p>
+<p begin="6218000000t" end="6261300000t" region="bottomCenter" style="s1" xml:id="subtitle109"><font face="枫雪古印体" size="32"><b>而且你看 渡河后还有几十公里的沙漠呢</b></font></p>
+<p begin="6262900000t" end="6302200000t" region="bottomCenter" style="s1" xml:id="subtitle110"><font face="枫雪古印体" size="32"><b>这只螃蟹不能到对岸的话 上岸后难道要自己走吗</b></font></p>
+<p begin="6303900000t" end="6314900000t" region="bottomCenter" style="s1" xml:id="subtitle111"><font face="枫雪古印体" size="32"><b>没办法了</b></font></p>
+<p begin="6315600000t" end="6331000000t" region="bottomCenter" style="s1" xml:id="subtitle112"><font face="枫雪古印体" size="32"><b>那样不可能赶得上吧</b></font></p>
+<p begin="6334400000t" end="6353100000t" region="bottomCenter" style="s1" xml:id="subtitle113"><font face="枫雪古印体" size="32"><b>绝对不可能的啊</b></font></p>
+<p begin="6429700000t" end="6446100000t" region="bottomCenter" style="s1" xml:id="subtitle114"><font face="枫雪古印体" size="32"><b>不好 喂 是河</b></font></p>
+<p begin="6447900000t" end="6465900000t" region="bottomCenter" style="s1" xml:id="subtitle115"><font face="枫雪古印体" size="32"><b>可以看到桑多拉河</b></font></p>
+<p begin="6468300000t" end="6475500000t" region="bottomCenter" style="s1" xml:id="subtitle116"><font face="枫雪古印体" size="32"><b>什么</b></font></p>
+<p begin="6475500000t" end="6494900000t" region="bottomCenter" style="s1" xml:id="subtitle117"><font face="枫雪古印体" size="32"><b>想想办法嘛 小剪刀</b></font></p>
+<p begin="6501300000t" end="6527400000t" region="bottomCenter" style="s1" xml:id="subtitle118"><font face="枫雪古印体" size="32"><b>对了 剪刀最喜欢跳舞女郎了</b></font></p>
+<p begin="6555500000t" end="6564600000t" region="bottomCenter" style="s1" xml:id="subtitle119"><font face="枫雪古印体" size="32"><b>这样可以吗</b></font></p>
+<p begin="6566800000t" end="6572100000t" region="bottomCenter" style="s1" xml:id="subtitle120"><font face="枫雪古印体" size="32"><b>大概吧</b></font></p>
+<p begin="6576000000t" end="6594500000t" region="bottomCenter" style="s1" xml:id="subtitle121"><font face="枫雪古印体" size="32"><b>不得了了</b></font></p>
+<p begin="6615400000t" end="6624600000t" region="bottomCenter" style="s1" xml:id="subtitle122"><font face="枫雪古印体" size="32"><b>他往这边看了</b></font></p>
+<p begin="6658600000t" end="6672400000t" region="bottomCenter" style="s1" xml:id="subtitle123"><font face="枫雪古印体" size="32"><b>加速了</b></font></p>
+<p begin="6672200000t" end="6695400000t" region="bottomCenter" style="s1" xml:id="subtitle124"><font face="枫雪古印体" size="32"><b>娜美小姐</b></font></p>
+<p begin="6734300000t" end="6754700000t" region="bottomCenter" style="s1" xml:id="subtitle125"><font face="枫雪古印体" size="32"><b>另外两头无关的也一起爆发了</b></font></p>
+<p begin="6755500000t" end="6773500000t" region="bottomCenter" style="s1" xml:id="subtitle126"><font face="枫雪古印体" size="32"><b>真是美色的力量啊</b></font></p>
+<p begin="6796500000t" end="6828400000t" region="bottomCenter" style="s1" xml:id="subtitle127"><font face="枫雪古印体" size="32"><b>这样能解决什么问题呀 乔巴</b></font></p>
+<p begin="6892500000t" end="6905200000t" region="bottomCenter" style="s1" xml:id="subtitle128"><font face="枫雪古印体" size="32"><b>冲吧</b></font></p>
+<p begin="6933300000t" end="6941400000t" region="bottomCenter" style="s1" xml:id="subtitle129"><font face="枫雪古印体" size="32"><b>成功了</b></font></p>
+<p begin="6969900000t" end="6995200000t" region="bottomCenter" style="s1" xml:id="subtitle130"><font face="枫雪古印体" size="32"><b>这螃蟹也太厉害了吧 简直不敢相信</b></font></p>
+<p begin="6995200000t" end="7040600000t" region="bottomCenter" style="s1" xml:id="subtitle131"><font face="枫雪古印体" size="32"><b>真是奇迹呀 就这样朝岸上冲吧</b></font></p>
+<p begin="7042200000t" end="7065000000t" region="bottomCenter" style="s1" xml:id="subtitle132"><font face="枫雪古印体" size="32"><b>冲吧 冲吧 冲上岸吧</b></font></p>
+<p begin="7065000000t" end="7092000000t" region="bottomCenter" style="s1" xml:id="subtitle133"><font face="枫雪古印体" size="32"><b>上啊 能成功的 冲啊</b></font></p>
+<p begin="7092300000t" end="7115700000t" region="bottomCenter" style="s1" xml:id="subtitle134"><font face="枫雪古印体" size="32"><b>想做就能成功 螃蟹就是螃蟹</b></font></p>
+<p begin="7118400000t" end="7154100000t" region="bottomCenter" style="s1" xml:id="subtitle135"><font face="枫雪古印体" size="32"><b>怎么了 我们没沉吧 没沉吧 沉下去了吧</b></font></p>
+<p begin="7208700000t" end="7223100000t" region="bottomCenter" style="s1" xml:id="subtitle136"><font face="枫雪古印体" size="32"><b>你怎么沉下去了 混蛋螃蟹</b></font></p>
+<p begin="7223600000t" end="7248700000t" region="bottomCenter" style="s1" xml:id="subtitle137"><font face="枫雪古印体" size="32"><b>别发牢骚了 快走吧</b></font></p>
+<p begin="7259600000t" end="7275700000t" region="bottomCenter" style="s1" xml:id="subtitle138"><font face="枫雪古印体" size="32"><b>等一下嘛</b></font></p>
+<p begin="7281800000t" end="7294800000t" region="bottomCenter" style="s1" xml:id="subtitle139"><font face="枫雪古印体" size="32"><b>没有船吗</b></font></p>
+<p begin="7298000000t" end="7315600000t" region="bottomCenter" style="s1" xml:id="subtitle140"><font face="枫雪古印体" size="32"><b>从这里到对岸还有多远啊</b></font></p>
+<p begin="7317100000t" end="7326800000t" region="bottomCenter" style="s1" xml:id="subtitle141"><font face="枫雪古印体" size="32"><b>还有50公里左右</b></font></p>
+<p begin="7330100000t" end="7341200000t" region="bottomCenter" style="s1" xml:id="subtitle142"><font face="枫雪古印体" size="32"><b>哪可能游得到</b></font></p>
+<p begin="7363500000t" end="7402600000t" region="bottomCenter" style="s1" xml:id="subtitle143"><font face="枫雪古印体" size="32"><b>谢谢你了 谢谢了 剪刀</b></font></p>
+<p begin="7406300000t" end="7431400000t" region="bottomCenter" style="s1" xml:id="subtitle144"><font face="枫雪古印体" size="32"><b>现在不是那么悠闲地挥手的时候吧</b></font></p>
+<p begin="7461700000t" end="7475600000t" region="bottomCenter" style="s1" xml:id="subtitle145"><font face="枫雪古印体" size="32"><b>什么</b></font></p>
+<p begin="7682300000t" end="7712800000t" region="bottomCenter" style="s1" xml:id="subtitle146"><font face="枫雪古印体" size="32"><b>桑多拉大鲶鱼 这可是很难得一见的</b></font></p>
+<p begin="7713300000t" end="7727400000t" region="bottomCenter" style="s1" xml:id="subtitle147"><font face="枫雪古印体" size="32"><b>这种说明就免了</b></font></p>
+<p begin="7746500000t" end="7768800000t" region="bottomCenter" style="s1" xml:id="subtitle148"><font face="枫雪古印体" size="32"><b>还有 它最喜欢吃人了</b></font></p>
+<p begin="7770600000t" end="7792200000t" region="bottomCenter" style="s1" xml:id="subtitle149"><font face="枫雪古印体" size="32"><b>这句话你倒是早说呀</b></font></p>
+<p begin="7884200000t" end="7921200000t" region="bottomCenter" style="s1" xml:id="subtitle150"><font face="枫雪古印体" size="32"><b>放手 看不到前面了 乔巴 放手啊</b></font></p>
+<p begin="8010400000t" end="8025900000t" region="bottomCenter" style="s1" xml:id="subtitle151"><font face="枫雪古印体" size="32"><b>功夫海牛</b></font></p>
+<p begin="8034600000t" end="8058500000t" region="bottomCenter" style="s1" xml:id="subtitle152"><font face="枫雪古印体" size="32"><b>他们说 不可以对老大的徒弟见死不救</b></font></p>
+<p begin="8062200000t" end="8094700000t" region="bottomCenter" style="s1" xml:id="subtitle153"><font face="枫雪古印体" size="32"><b>我们可不是路飞的徒弟啊</b></font></p>
+<p begin="8095300000t" end="8111400000t" region="bottomCenter" style="s1" xml:id="subtitle154"><font face="枫雪古印体" size="32"><b>不过 他们确实帮了大忙</b></font></p>
+<p begin="8115400000t" end="8141900000t" region="bottomCenter" style="s1" xml:id="subtitle155"><font face="枫雪古印体" size="32"><b>好啊 还剩一点点了 加油啊</b></font></p>
+<p begin="8146200000t" end="8158900000t" region="bottomCenter" style="s1" xml:id="subtitle156"><font face="枫雪古印体" size="32"><b>谢谢</b></font></p>
+<p begin="8161300000t" end="8177900000t" region="bottomCenter" style="s1" xml:id="subtitle157"><font face="枫雪古印体" size="32"><b>bye bye</b></font></p>
+<p begin="8204900000t" end="8227400000t" region="bottomCenter" style="s1" xml:id="subtitle158"><font face="枫雪古印体" size="32"><b>顺利过河了 还来得及吧</b></font></p>
+<p begin="8231500000t" end="8242300000t" region="bottomCenter" style="s1" xml:id="subtitle159"><font face="枫雪古印体" size="32"><b>很难说啊</b></font></p>
+<p begin="8243500000t" end="8270900000t" region="bottomCenter" style="s1" xml:id="subtitle160"><font face="枫雪古印体" size="32"><b>即使坐着睫毛也不知道赶不赶得上啊</b></font></p>
+<p begin="8272200000t" end="8287300000t" region="bottomCenter" style="s1" xml:id="subtitle161"><font face="枫雪古印体" size="32"><b>而且 睫毛一共能让...</b></font></p>
+<p begin="8287300000t" end="8301900000t" region="bottomCenter" style="s1" xml:id="subtitle162"><font face="枫雪古印体" size="32"><b>这个嘛 两人坐</b></font></p>
+<p begin="8305900000t" end="8343100000t" region="bottomCenter" style="s1" xml:id="subtitle163"><font face="枫雪古印体" size="32"><b>如果巴洛克工作社提前部署的话 可能就在这附近了</b></font></p>
+<p begin="8343700000t" end="8368900000t" region="bottomCenter" style="s1" xml:id="subtitle164"><font face="枫雪古印体" size="32"><b>难道没有什么能集体行动的办法了吗</b></font></p>
+<p begin="8402700000t" end="8424100000t" region="bottomCenter" style="s1" xml:id="subtitle165"><font face="枫雪古印体" size="32"><b>可恶 什么办法都没有吗</b></font></p>
+<p begin="8554100000t" end="8563000000t" region="bottomCenter" style="s1" xml:id="subtitle166"><font face="枫雪古印体" size="32"><b>看啊 那里</b></font></p>
+<p begin="8573600000t" end="8607500000t" region="bottomCenter" style="s1" xml:id="subtitle167"><font face="枫雪古印体" size="32"><b>什么啊 敌人吗 已经来了吗</b></font></p>
+<p begin="8626500000t" end="8644100000t" region="bottomCenter" style="s1" xml:id="subtitle168"><font face="枫雪古印体" size="32"><b>不是 那是...</b></font></p>
+<p begin="8657100000t" end="8666400000t" region="bottomCenter" style="s1" xml:id="subtitle169"><font face="枫雪古印体" size="32"><b>卡鲁</b></font></p>
+<p begin="8684900000t" end="8708600000t" region="bottomCenter" style="s1" xml:id="subtitle170"><font face="枫雪古印体" size="32"><b>还有 超级卡鲁鸭部队</b></font></p>
+<p begin="8732800000t" end="8744800000t" region="bottomCenter" style="s1" xml:id="subtitle171"><font face="枫雪古印体" size="32"><b>来接我们了吗</b></font></p>
+<p begin="8759900000t" end="8765800000t" region="bottomCenter" style="s1" xml:id="subtitle172"><font face="枫雪古印体" size="32"><b>卡鲁</b></font></p>
+<p begin="8986800000t" end="9016200000t" region="bottomCenter" style="s1" xml:id="subtitle173"><font face="枫雪古印体" size="32"><b>水</b></font></p>
+<p begin="9100600000t" end="9149400000t" region="bottomCenter" style="s1" xml:id="subtitle174"><font face="枫雪古印体" size="32"><b>我和你 身为海贼的等级完全不同</b></font></p>
+<p begin="9163000000t" end="9173300000t" region="bottomCenter" style="s1" xml:id="subtitle175"><font face="枫雪古印体" size="32"><b>犹巴会死去</b></font></p>
+<p begin="9178100000t" end="9221500000t" region="bottomCenter" style="s1" xml:id="subtitle176"><font face="枫雪古印体" size="32"><b>还有叛乱军知道的话 一定会更加愤怒的吧</b></font></p>
+<p begin="9722100000t" end="9745000000t" region="bottomCenter" style="s1" xml:id="subtitle177"><font face="枫雪古印体" size="32"><b>谢... 谢... 你...</b></font></p>
+<p begin="9801700000t" end="9813400000t" region="bottomCenter" style="s1" xml:id="subtitle178"><font face="枫雪古印体" size="32"><b>为什么要战斗</b></font></p>
+<p begin="9873200000t" end="9895700000t" region="bottomCenter" style="s1" xml:id="subtitle179"><font face="枫雪古印体" size="32"><b>我是说你们这些名字里面有D的人</b></font></p>
+<p begin="9916800000t" end="9927500000t" region="bottomCenter" style="s1" xml:id="subtitle180"><font face="枫雪古印体" size="32"><b>D?</b></font></p>
+<p begin="9950500000t" end="9973500000t" region="bottomCenter" style="s1" xml:id="subtitle181"><font face="枫雪古印体" size="32"><b>你们到底是什么人</b></font></p>
+<p begin="10002600000t" end="10028900000t" region="bottomCenter" style="s1" xml:id="subtitle182"><font face="枫雪古印体" size="32"><b>看来我好像问了无聊的问题了</b></font></p>
+<p begin="10089700000t" end="10098700000t" region="bottomCenter" style="s1" xml:id="subtitle183"><font face="枫雪古印体" size="32"><b>找到你了</b></font></p>
+<p begin="10158200000t" end="10172900000t" region="bottomCenter" style="s1" xml:id="subtitle184"><font face="枫雪古印体" size="32"><b>你把薇薇公主怎么了</b></font></p>
+<p begin="10177600000t" end="10212300000t" region="bottomCenter" style="s1" xml:id="subtitle185"><font face="枫雪古印体" size="32"><b>哎呀 已经醒了吗</b></font></p>
+<p begin="10227300000t" end="10245500000t" region="bottomCenter" style="s1" xml:id="subtitle186"><font face="枫雪古印体" size="32"><b>我已经掌握你的能力了</b></font></p>
+<p begin="10248590000t" end="10263590000t" region="bottomCenter" style="s1" xml:id="subtitle187"><font face="枫雪古印体" size="32"><b>绝不会像刚才那样了</b></font></p>
+<p begin="10291090000t" end="10323490000t" region="bottomCenter" style="s1" xml:id="subtitle188"><font face="枫雪古印体" size="32"><b>不要勉强自己了 你应该是身受重伤的吧</b></font></p>
+<p begin="10389200000t" end="10422900000t" region="bottomCenter" style="s1" xml:id="subtitle189"><font face="枫雪古印体" size="32"><b>你来得正好 救救那个孩子</b></font></p>
+<p begin="10455000000t" end="10518000000t" region="bottomCenter" style="s1" xml:id="subtitle190"><font face="枫雪古印体" size="32"><b>他可是护送 你们那尊贵的公主殿下回到这个国家的勇敢的骑士哦</b></font></p>
+<p begin="10530800000t" end="10551000000t" region="bottomCenter" style="s1" xml:id="subtitle191"><font face="枫雪古印体" size="32"><b>还有公主殿下暂时安然无恙</b></font></p>
+<p begin="10559900000t" end="10578500000t" region="bottomCenter" style="s1" xml:id="subtitle192"><font face="枫雪古印体" size="32"><b>现在她正在赶去阿尔巴那</b></font></p>
+<p begin="10581100000t" end="10612700000t" region="bottomCenter" style="s1" xml:id="subtitle193"><font face="枫雪古印体" size="32"><b>但今后会怎么样我就不知道了</b></font></p>
+<p begin="10614400000t" end="10632900000t" region="bottomCenter" style="s1" xml:id="subtitle194"><font face="枫雪古印体" size="32"><b>这就得看事态的发展了</b></font></p>
+<p begin="10777600000t" end="10825300000t" region="bottomCenter" style="s1" xml:id="subtitle195"><font face="枫雪古印体" size="32"><b>如果我不能赢的话 到底还有谁能保护薇薇公主啊</b></font></p>
+<p begin="10902100000t" end="10909200000t" region="bottomCenter" style="s1" xml:id="subtitle196"><font face="枫雪古印体" size="32"><b>肉</b></font></p>
+<p begin="11015300000t" end="11034400000t" region="bottomCenter" style="s1" xml:id="subtitle197"><font face="枫雪古印体" size="32"><b>等着吧 寇布拉</b></font></p>
+<p begin="11041900000t" end="11062000000t" region="bottomCenter" style="s1" xml:id="subtitle198"><font face="枫雪古印体" size="32"><b>阿拉巴斯坦将由我们来守护</b></font></p>
+<p begin="11067400000t" end="11087200000t" region="bottomCenter" style="s1" xml:id="subtitle199"><font face="枫雪古印体" size="32"><b>再也不会交给你了</b></font></p>
+<p begin="11138100000t" end="11184400000t" region="bottomCenter" style="s1" xml:id="subtitle200"><font face="枫雪古印体" size="32"><b>首都阿尔巴那</b></font></p>
+<p begin="11186400000t" end="11208100000t" region="bottomCenter" style="s1" xml:id="subtitle201"><font face="枫雪古印体" size="32"><b>快一点 不要磨磨蹭蹭的</b></font></p>
+<p begin="11218300000t" end="11232300000t" region="bottomCenter" style="s1" xml:id="subtitle202"><font face="枫雪古印体" size="32"><b>再堆高点</b></font></p>
+<p begin="11249700000t" end="11265000000t" region="bottomCenter" style="s1" xml:id="subtitle203"><font face="枫雪古印体" size="32"><b>迎击大炮准备好了</b></font></p>
+<p begin="11265000000t" end="11276700000t" region="bottomCenter" style="s1" xml:id="subtitle204"><font face="枫雪古印体" size="32"><b>不要磨磨蹭蹭的 快一点</b></font></p>
+<p begin="11281500000t" end="11295200000t" region="bottomCenter" style="s1" xml:id="subtitle205"><font face="枫雪古印体" size="32"><b>再搬点弹药来</b></font></p>
+<p begin="11342700000t" end="11393300000t" region="bottomCenter" style="s1" xml:id="subtitle206"><font face="枫雪古印体" size="32"><b>加卡大人 敌人的人数听说已经超过200万了</b></font></p>
+<p begin="11411400000t" end="11446300000t" region="bottomCenter" style="s1" xml:id="subtitle207"><font face="枫雪古印体" size="32"><b>你对国王袭击拿罗哈那的事件怎么看</b></font></p>
+<p begin="11451800000t" end="11485800000t" region="bottomCenter" style="s1" xml:id="subtitle208"><font face="枫雪古印体" size="32"><b>我跟随便国王已经十年多了 实在是不能想象...</b></font></p>
+<p begin="11489400000t" end="11521100000t" region="bottomCenter" style="s1" xml:id="subtitle209"><font face="枫雪古印体" size="32"><b>是啊 非常让人难以理解</b></font></p>
+<p begin="11525600000t" end="11552100000t" region="bottomCenter" style="s1" xml:id="subtitle210"><font face="枫雪古印体" size="32"><b>一定是国王发生了什么不测</b></font></p>
+<p begin="11574800000t" end="11616300000t" region="bottomCenter" style="s1" xml:id="subtitle211"><font face="枫雪古印体" size="32"><b>既然这样 这场战斗我们就更加不能失败</b></font></p>
+<p begin="11622700000t" end="11636200000t" region="bottomCenter" style="s1" xml:id="subtitle212"><font face="枫雪古印体" size="32"><b>不能畏惧敌人的数量</b></font></p>
+<p begin="11640500000t" end="11680000000t" region="bottomCenter" style="s1" xml:id="subtitle213"><font face="枫雪古印体" size="32"><b>为了国王 为了即将归来的薇薇公主</b></font></p>
+<p begin="11684400000t" end="11709000000t" region="bottomCenter" style="s1" xml:id="subtitle214"><font face="枫雪古印体" size="32"><b>我们一定要保卫这个国家到最后一刻</b></font></p>
+<p begin="11719700000t" end="11751000000t" region="bottomCenter" style="s1" xml:id="subtitle215"><font face="枫雪古印体" size="32"><b>跟这场战争无关的人 快到城外去避难</b></font></p>
+<p begin="11752500000t" end="11779100000t" region="bottomCenter" style="s1" xml:id="subtitle216"><font face="枫雪古印体" size="32"><b>留在这里可能会性命不保</b></font></p>
+<p begin="11781500000t" end="11812600000t" region="bottomCenter" style="s1" xml:id="subtitle217"><font face="枫雪古印体" size="32"><b>快逃吧 会被战争卷进去的</b></font></p>
+<p begin="11838800000t" end="11861200000t" region="bottomCenter" style="s1" xml:id="subtitle218"><font face="枫雪古印体" size="32"><b>终于开始大骚动了</b></font></p>
+<p begin="11871400000t" end="11910500000t" region="bottomCenter" style="s1" xml:id="subtitle219"><font face="枫雪古印体" size="32"><b>快点打起来吧 现在这个样子什么都做不了呀</b></font></p>
+<p begin="11969700000t" end="11999000000t" region="bottomCenter" style="s1" xml:id="subtitle220"><font face="枫雪古印体" size="32"><b>虽然我不知道他是国王还是什么 管他是国王还是什么</b></font></p>
+<p begin="11999300000t" end="12031400000t" region="bottomCenter" style="s1" xml:id="subtitle221"><font face="枫雪古印体" size="32"><b>我可不想老是守着这个家伙</b></font></p>
+<p begin="12031400000t" end="12058700000t" region="bottomCenter" style="s1" xml:id="subtitle222"><font face="枫雪古印体" size="32"><b>不想 不想 不 不 真是的</b></font></p>
+<p begin="12082400000t" end="12108900000t" region="bottomCenter" style="s1" xml:id="subtitle223"><font face="枫雪古印体" size="32"><b>要避开宫殿的侍卫</b></font></p>
+<p begin="12108900000t" end="12127800000t" region="bottomCenter" style="s1" xml:id="subtitle224"><font face="枫雪古印体" size="32"><b>再潜入绑架这家伙</b></font></p>
+<p begin="12127500000t" end="12152500000t" region="bottomCenter" style="s1" xml:id="subtitle225"><font face="枫雪古印体" size="32"><b>这种任务虽然只有我们能办到</b></font></p>
+<p begin="12152500000t" end="12182400000t" region="bottomCenter" style="s1" xml:id="subtitle226"><font face="枫雪古印体" size="32"><b>但完成后 才觉得这任务真无聊</b></font></p>
+<p begin="12182900000t" end="12193900000t" region="bottomCenter" style="s1" xml:id="subtitle227"><font face="枫雪古印体" size="32"><b>是吧 Mr.4</b></font></p>
+<p begin="12206900000t" end="12214200000t" region="bottomCenter" style="s1" xml:id="subtitle228"><font face="枫雪古印体" size="32"><b>你听到了吗</b></font></p>
+<p begin="12217100000t" end="12241200000t" region="bottomCenter" style="s1" xml:id="subtitle229"><font face="枫雪古印体" size="32"><b>你的回答可真是慢啊 真是的</b></font></p>
+<p begin="12260100000t" end="12277500000t" region="bottomCenter" style="s1" xml:id="subtitle230"><font face="枫雪古印体" size="32"><b>腰又开始痛了 腰痛 痛</b></font></p>
+<p begin="12277500000t" end="12314200000t" region="bottomCenter" style="s1" xml:id="subtitle231"><font face="枫雪古印体" size="32"><b>加卡 寇沙 不可以开战啊</b></font></p>
+<p begin="12318300000t" end="12366000000t" region="bottomCenter" style="s1" xml:id="subtitle232"><font face="枫雪古印体" size="32"><b>你们都是这个国家的一分子 绝对不可以互相残杀啊</b></font></p>
+<p begin="12392200000t" end="12407400000t" region="bottomCenter" style="s1" xml:id="subtitle233"><font face="枫雪古印体" size="32"><b>为了战争而叹息的人</b></font></p>
+<p begin="12476700000t" end="12488200000t" region="bottomCenter" style="s1" xml:id="subtitle234"><font face="枫雪古印体" size="32"><b>战斗着的人</b></font></p>
+<p begin="12572900000t" end="12584800000t" region="bottomCenter" style="s1" xml:id="subtitle235"><font face="枫雪古印体" size="32"><b>快点逃吧</b></font></p>
+<p begin="12608400000t" end="12628200000t" region="bottomCenter" style="s1" xml:id="subtitle236"><font face="枫雪古印体" size="32"><b>煽动战争的人</b></font></p>
+<p begin="12666500000t" end="12690800000t" region="bottomCenter" style="s1" xml:id="subtitle237"><font face="枫雪古印体" size="32"><b>知道真相并且想阻止战争的人</b></font></p>
+<p begin="12752700000t" end="12769300000t" region="bottomCenter" style="s1" xml:id="subtitle238"><font face="枫雪古印体" size="32"><b>怀着不同的夙愿</b></font></p>
+<p begin="12774700000t" end="12804500000t" region="bottomCenter" style="s1" xml:id="subtitle239"><font face="枫雪古印体" size="32"><b>冲突即将在首都阿尔巴那展开</b></font></p>
+<p begin="12878500000t" end="12920700000t" region="bottomCenter" style="s1" xml:id="subtitle240"><font face="微软雅黑" size="26"><b>港口城市拿罗哈那</b></font></p>
+<p begin="12952800000t" end="12980300000t" region="bottomCenter" style="s1" xml:id="subtitle241"><font face="枫雪古印体" size="32"><b>叛乱到底还是开始了吗</b></font></p>
+<p begin="12990100000t" end="13048500000t" region="bottomCenter" style="s1" xml:id="subtitle242"><font face="枫雪古印体" size="32"><b>按照刚刚看到的船来说 薇薇和他们好象已经平安到了这个国家</b></font></p>
+<p begin="13053800000t" end="13085300000t" region="bottomCenter" style="s1" xml:id="subtitle243"><font face="枫雪古印体" size="32"><b>我必须要抓紧 希望能赶得上</b></font></p>
+<p begin="13884900000t" end="13899800000t" region="bottomCenter" style="s1" xml:id="subtitle244"><font face="枫雪古印体" size="32"><b>看到了 阿尔巴那</b></font></p>
+<p begin="13901700000t" end="13917200000t" region="bottomCenter" style="s1" xml:id="subtitle245"><font face="枫雪古印体" size="32"><b>走吧 要有思想准备</b></font></p>
+<p begin="13925000000t" end="13941900000t" region="bottomCenter" style="s1" xml:id="subtitle246"><font face="枫雪古印体" size="32"><b>叛乱军就交给我们了 薇薇</b></font></p>
+<p begin="13942300000t" end="13973500000t" region="bottomCenter" style="s1" xml:id="subtitle247"><font face="枫雪古印体" size="32"><b>必须在这里阻止他们 不然一直以来的努力都白费了</b></font></p>
+<p begin="13978100000t" end="14002900000t" region="bottomCenter" style="s1" xml:id="subtitle248"><font face="枫雪古印体" size="32"><b>拜托 请听我说 首领</b></font></p>
+<p begin="14010300000t" end="14035200000t" region="bottomCenter" style="s1" xml:id="subtitle249"><font face="枫雪古印体" size="32"><b>有什么东西过来了 是错觉吗</b></font></p>
+<p begin="14041600000t" end="14052800000t" region="bottomCenter" style="s1" xml:id="subtitle250"><font face="枫雪古印体" size="32"><b>次回 One Piece</b></font></p>
+<p begin="14054900000t" end="14089000000t" region="bottomCenter" style="s1" xml:id="subtitle251"><font face="枫雪古印体" size="32"><b>叛乱军VS国王军<br />决战在阿尔巴那</b></font></p>
+<p begin="14092000000t" end="14112700000t" region="bottomCenter" style="s1" xml:id="subtitle252"><font face="枫雪古印体" size="32"><b>海贼王! 我当定了!</b></font></p>
+</div>
+</body>
+</tt>

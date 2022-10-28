@@ -1,0 +1,621 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="888400000t" end="895800000t" region="bottomCenter" style="s1" xml:id="subtitle0">ひどい</p>
+<p begin="888400000t" end="895800000t" region="bottomCenter" style="s1" xml:id="subtitle1">好过分</p>
+<p begin="899300000t" end="932600000t" region="bottomCenter" style="s1" xml:id="subtitle2">仕方ないよ 彼女一人では荷が重すぎた</p>
+<p begin="899300000t" end="932600000t" region="bottomCenter" style="s1" xml:id="subtitle3">没办法啊  只有她一个人的话负担太重了</p>
+<p begin="937000000t" end="960000000t" region="bottomCenter" style="s1" xml:id="subtitle4">でも 彼女も覚悟の上だろう</p>
+<p begin="937000000t" end="960000000t" region="bottomCenter" style="s1" xml:id="subtitle5">但是她也是有了觉悟的吧</p>
+<p begin="1005900000t" end="1022100000t" region="bottomCenter" style="s1" xml:id="subtitle6">そんな あんまりだよ</p>
+<p begin="1005900000t" end="1022100000t" region="bottomCenter" style="s1" xml:id="subtitle7">怎么这样  太过分了啊</p>
+<p begin="1023100000t" end="1035700000t" region="bottomCenter" style="s1" xml:id="subtitle8">こんなのってないよ</p>
+<p begin="1023100000t" end="1035700000t" region="bottomCenter" style="s1" xml:id="subtitle9">怎么可以这样呢</p>
+<p begin="1148900000t" end="1164600000t" region="bottomCenter" style="s1" xml:id="subtitle10">諦めたらそれまでだ</p>
+<p begin="1148900000t" end="1164600000t" region="bottomCenter" style="s1" xml:id="subtitle11">放弃的话就到此为止了</p>
+<p begin="1193000000t" end="1221800000t" region="bottomCenter" style="s1" xml:id="subtitle12">でも、君なら運命を変えられる</p>
+<p begin="1193000000t" end="1221800000t" region="bottomCenter" style="s1" xml:id="subtitle13">但是  你可以改变命运</p>
+<p begin="1272390000t" end="1297600000t" region="bottomCenter" style="s1" xml:id="subtitle14">避けようのない滅びも 嘆きも</p>
+<p begin="1272390000t" end="1297600000t" region="bottomCenter" style="s1" xml:id="subtitle15">无法回避的毁灭与叹息</p>
+<p begin="1300100000t" end="1320000000t" region="bottomCenter" style="s1" xml:id="subtitle16">全て君が覆せばいい</p>
+<p begin="1300100000t" end="1320000000t" region="bottomCenter" style="s1" xml:id="subtitle17">一切都由你来颠覆即可</p>
+<p begin="1323500000t" end="1353300000t" region="bottomCenter" style="s1" xml:id="subtitle18">そのための力が 君には備わっているんだから</p>
+<p begin="1323500000t" end="1353300000t" region="bottomCenter" style="s1" xml:id="subtitle19">你具有的正是为此而生的力量</p>
+<p begin="1380300000t" end="1390400000t" region="bottomCenter" style="s1" xml:id="subtitle20">本当なの</p>
+<p begin="1380300000t" end="1390400000t" region="bottomCenter" style="s1" xml:id="subtitle21">是真的吗</p>
+<p begin="1444700000t" end="1475900000t" region="bottomCenter" style="s1" xml:id="subtitle22">私なんかでも 本当に何かできるの</p>
+<p begin="1444700000t" end="1475900000t" region="bottomCenter" style="s1" xml:id="subtitle23">像我这样的人  真的可以做到些什么的吗</p>
+<p begin="1485400000t" end="1504100000t" region="bottomCenter" style="s1" xml:id="subtitle24">こんな結末を変えられるの</p>
+<p begin="1485400000t" end="1504100000t" region="bottomCenter" style="s1" xml:id="subtitle25">可以改变这样的结局吗</p>
+<p begin="1507600000t" end="1518000000t" region="bottomCenter" style="s1" xml:id="subtitle26">もちろんさ</p>
+<p begin="1507600000t" end="1518000000t" region="bottomCenter" style="s1" xml:id="subtitle27">当然了</p>
+<p begin="1521800000t" end="1538900000t" region="bottomCenter" style="s1" xml:id="subtitle28">だから僕と契約して</p>
+<p begin="1521800000t" end="1538900000t" region="bottomCenter" style="s1" xml:id="subtitle29">所以跟我签订契约</p>
+<p begin="1544000000t" end="1560700000t" region="bottomCenter" style="s1" xml:id="subtitle30">魔法少女になってよ</p>
+<p begin="1544000000t" end="1560700000t" region="bottomCenter" style="s1" xml:id="subtitle31">成为魔法少女吧</p>
+<p begin="1742500000t" end="1757700000t" region="bottomCenter" style="s1" xml:id="subtitle32">夢オチ</p>
+<p begin="1742500000t" end="1757700000t" region="bottomCenter" style="s1" xml:id="subtitle33">白梦一场？</p>
+<p begin="1771200000t" end="1804400000t" region="bottomCenter" style="s1" xml:id="subtitle34">交わした約束忘れないよう</p>
+<p begin="1771200000t" end="1804400000t" region="bottomCenter" style="s1" xml:id="subtitle35">为了不忘记交换过的约定</p>
+<p begin="1804400000t" end="1827900000t" region="bottomCenter" style="s1" xml:id="subtitle36">目を閉じ確かめる</p>
+<p begin="1804400000t" end="1827900000t" region="bottomCenter" style="s1" xml:id="subtitle37">而闭上眼睛再次确定</p>
+<p begin="1827900000t" end="1883000000t" region="bottomCenter" style="s1" xml:id="subtitle38">押し寄せた闇ふり払って進むよ</p>
+<p begin="1827900000t" end="1883000000t" region="bottomCenter" style="s1" xml:id="subtitle39">驱散汇集的黑暗继续前行吧</p>
+<p begin="1997600000t" end="2043300000t" region="bottomCenter" style="s1" xml:id="subtitle40">いつになったら失くした未来を</p>
+<p begin="1997600000t" end="2043300000t" region="bottomCenter" style="s1" xml:id="subtitle41">要到什么时候 失去的未来</p>
+<p begin="2043800000t" end="2104700000t" region="bottomCenter" style="s1" xml:id="subtitle42">私ここでまた見ること出来るの</p>
+<p begin="2043800000t" end="2104700000t" region="bottomCenter" style="s1" xml:id="subtitle43">我才能在这里再次眺望</p>
+<p begin="2107100000t" end="2152000000t" region="bottomCenter" style="s1" xml:id="subtitle44">溢れ出したふまの影を</p>
+<p begin="2107100000t" end="2152000000t" region="bottomCenter" style="s1" xml:id="subtitle45">无数次撕裂漫溢的无法磨灭的阴影</p>
+<p begin="2152900000t" end="2207100000t" region="bottomCenter" style="s1" xml:id="subtitle46">何度でも裂いてこの世界歩んでく</p>
+<p begin="2152900000t" end="2207100000t" region="bottomCenter" style="s1" xml:id="subtitle47">在这世界上不断前进</p>
+<p begin="2209300000t" end="2264000000t" region="bottomCenter" style="s1" xml:id="subtitle48">止めどなく刻まれた</p>
+<p begin="2209300000t" end="2264000000t" region="bottomCenter" style="s1" xml:id="subtitle49">打上无尽的刻印的</p>
+<p begin="2264500000t" end="2318900000t" region="bottomCenter" style="s1" xml:id="subtitle50">時は今始まり告げ</p>
+<p begin="2264500000t" end="2318900000t" region="bottomCenter" style="s1" xml:id="subtitle51">时间此刻宣告着开始</p>
+<p begin="2319400000t" end="2369900000t" region="bottomCenter" style="s1" xml:id="subtitle52">変わらない思いをのせ</p>
+<p begin="2319400000t" end="2369900000t" region="bottomCenter" style="s1" xml:id="subtitle53">乘载着不变的思念</p>
+<p begin="2370500000t" end="2424700000t" region="bottomCenter" style="s1" xml:id="subtitle54">閉ざされた扉開けよう</p>
+<p begin="2370500000t" end="2424700000t" region="bottomCenter" style="s1" xml:id="subtitle55">去打开闭锁的心扉吧</p>
+<p begin="2425400000t" end="2458200000t" region="bottomCenter" style="s1" xml:id="subtitle56">目覚めたココロは走り出した</p>
+<p begin="2425400000t" end="2482600000t" region="bottomCenter" style="s1" xml:id="subtitle57">苏醒的心为了描绘未来而奔跑</p>
+<p begin="2458200000t" end="2482600000t" region="bottomCenter" style="s1" xml:id="subtitle58">未来を描くため</p>
+<p begin="2482600000t" end="2534500000t" region="bottomCenter" style="s1" xml:id="subtitle59">難しい道で立ち止まっても空は</p>
+<p begin="2482600000t" end="2534500000t" region="bottomCenter" style="s1" xml:id="subtitle60">即使在泥泞的路上停滞不前天空也</p>
+<p begin="2535400000t" end="2582400000t" region="bottomCenter" style="s1" xml:id="subtitle61">綺麗な青さでいつも待っててくれる</p>
+<p begin="2535400000t" end="2582400000t" region="bottomCenter" style="s1" xml:id="subtitle62">带着美丽的蔚蓝一直等待着我</p>
+<p begin="2582400000t" end="2604000000t" region="bottomCenter" style="s1" xml:id="subtitle63">だからこわくない</p>
+<p begin="2582400000t" end="2604000000t" region="bottomCenter" style="s1" xml:id="subtitle64">所以不必害怕</p>
+<p begin="2604500000t" end="2634500000t" region="bottomCenter" style="s1" xml:id="subtitle65">もう何があっても</p>
+<p begin="2604500000t" end="2634500000t" region="bottomCenter" style="s1" xml:id="subtitle66">无论发生什么</p>
+<p begin="2623200000t" end="2652000000t" region="bottomCenter" style="s1" xml:id="subtitle67">第1话   似乎在梦中见过、的样子……</p>
+<p begin="2635000000t" end="2661800000t" region="bottomCenter" style="s1" xml:id="subtitle68">くじけない</p>
+<p begin="2635000000t" end="2661800000t" region="bottomCenter" style="s1" xml:id="subtitle69">也不会气馁</p>
+<p begin="2729200000t" end="2742000000t" region="bottomCenter" style="s1" xml:id="subtitle70">おはよう パパ</p>
+<p begin="2729200000t" end="2742000000t" region="bottomCenter" style="s1" xml:id="subtitle71">早上好  爸爸</p>
+<p begin="2743800000t" end="2757500000t" region="bottomCenter" style="s1" xml:id="subtitle72">おはよう まどか</p>
+<p begin="2743800000t" end="2757500000t" region="bottomCenter" style="s1" xml:id="subtitle73">早上好  小圆</p>
+<p begin="2760600000t" end="2769600000t" region="bottomCenter" style="s1" xml:id="subtitle74">ママは</p>
+<p begin="2760600000t" end="2769600000t" region="bottomCenter" style="s1" xml:id="subtitle75">妈妈呢</p>
+<p begin="2773000000t" end="2800000000t" region="bottomCenter" style="s1" xml:id="subtitle76">タツヤが行ってる 手伝ってやって</p>
+<p begin="2773000000t" end="2800000000t" region="bottomCenter" style="s1" xml:id="subtitle77">达也去叫她了  去帮忙吧</p>
+<p begin="2802200000t" end="2810400000t" region="bottomCenter" style="s1" xml:id="subtitle78">はぁい</p>
+<p begin="2802200000t" end="2810400000t" region="bottomCenter" style="s1" xml:id="subtitle79">好</p>
+<p begin="2842500000t" end="2864400000t" region="bottomCenter" style="s1" xml:id="subtitle80">ママ ママァ</p>
+<p begin="2842500000t" end="2864400000t" region="bottomCenter" style="s1" xml:id="subtitle81">妈妈  妈妈</p>
+<p begin="2867300000t" end="2893300000t" region="bottomCenter" style="s1" xml:id="subtitle82">朝 朝</p>
+<p begin="2867300000t" end="2893300000t" region="bottomCenter" style="s1" xml:id="subtitle83">早上  早上了</p>
+<p begin="2896400000t" end="2934600000t" region="bottomCenter" style="s1" xml:id="subtitle84">起きてぇ ママ  ママァ</p>
+<p begin="2896400000t" end="2934600000t" region="bottomCenter" style="s1" xml:id="subtitle85">起来啦  妈妈  妈妈</p>
+<p begin="2986800000t" end="3000900000t" region="bottomCenter" style="s1" xml:id="subtitle86">おっきろ</p>
+<p begin="2986800000t" end="3000900000t" region="bottomCenter" style="s1" xml:id="subtitle87">起来喽</p>
+<p begin="3040500000t" end="3047300000t" region="bottomCenter" style="s1" xml:id="subtitle88">あれ</p>
+<p begin="3040500000t" end="3047300000t" region="bottomCenter" style="s1" xml:id="subtitle89">咦？</p>
+<p begin="3049600000t" end="3067100000t" region="bottomCenter" style="s1" xml:id="subtitle90">ママ起きたね</p>
+<p begin="3049600000t" end="3067100000t" region="bottomCenter" style="s1" xml:id="subtitle91">妈妈终于起来了</p>
+<p begin="3112800000t" end="3129200000t" region="bottomCenter" style="s1" xml:id="subtitle92">最近、どんなよ</p>
+<p begin="3112800000t" end="3129200000t" region="bottomCenter" style="s1" xml:id="subtitle93">最近怎么样</p>
+<p begin="3135800000t" end="3162300000t" region="bottomCenter" style="s1" xml:id="subtitle94">仁美ちゃんにまたラブレターが届いたよ</p>
+<p begin="3135800000t" end="3162300000t" region="bottomCenter" style="s1" xml:id="subtitle95">仁美又收到情书了</p>
+<p begin="3165100000t" end="3184300000t" region="bottomCenter" style="s1" xml:id="subtitle96">今月になってもう２通め</p>
+<p begin="3165100000t" end="3184300000t" region="bottomCenter" style="s1" xml:id="subtitle97">这个月已经是第二封了</p>
+<p begin="3187200000t" end="3224500000t" region="bottomCenter" style="s1" xml:id="subtitle98">ふん 直にコクるだけの根性もねぇ男はダメだ</p>
+<p begin="3187200000t" end="3224500000t" region="bottomCenter" style="s1" xml:id="subtitle99">哼  连亲自去告白的勇气都没有的男人是不行的</p>
+<p begin="3260000000t" end="3273100000t" region="bottomCenter" style="s1" xml:id="subtitle100">和子はどう</p>
+<p begin="3260000000t" end="3273100000t" region="bottomCenter" style="s1" xml:id="subtitle101">和子怎么样了</p>
+<p begin="3274800000t" end="3293800000t" region="bottomCenter" style="s1" xml:id="subtitle102">先生はまだ続いてるみたい</p>
+<p begin="3274800000t" end="3293800000t" region="bottomCenter" style="s1" xml:id="subtitle103">老师好像还在继续</p>
+<p begin="3296200000t" end="3322100000t" region="bottomCenter" style="s1" xml:id="subtitle104">ホームルームでのろけまくりだよ</p>
+<p begin="3296200000t" end="3322100000t" region="bottomCenter" style="s1" xml:id="subtitle105">班会的时候一直津津乐道地讲着恋爱故事</p>
+<p begin="3326300000t" end="3357300000t" region="bottomCenter" style="s1" xml:id="subtitle106">今週で３ヶ月目だから記録更新だよね</p>
+<p begin="3326300000t" end="3357300000t" region="bottomCenter" style="s1" xml:id="subtitle107">这周就是第三个月了  创造新纪录了呢</p>
+<p begin="3360500000t" end="3376600000t" region="bottomCenter" style="s1" xml:id="subtitle108">さあ どうだか</p>
+<p begin="3360500000t" end="3376600000t" region="bottomCenter" style="s1" xml:id="subtitle109">谁知道会怎样呢</p>
+<p begin="3379700000t" end="3404100000t" region="bottomCenter" style="s1" xml:id="subtitle110">今が危なっかしい頃合だよ</p>
+<p begin="3379700000t" end="3404100000t" region="bottomCenter" style="s1" xml:id="subtitle111">现在正是复杂的阶段呢</p>
+<p begin="3422200000t" end="3432300000t" region="bottomCenter" style="s1" xml:id="subtitle112">そうなの</p>
+<p begin="3422200000t" end="3432300000t" region="bottomCenter" style="s1" xml:id="subtitle113">是吗</p>
+<p begin="3473600000t" end="3512700000t" region="bottomCenter" style="s1" xml:id="subtitle114">本物じゃなかったら大体このへんでボロが出るもんさ</p>
+<p begin="3473600000t" end="3512700000t" region="bottomCenter" style="s1" xml:id="subtitle115">如果不是真心相爱的话  大概这个时候就会露出狐狸尾巴吧</p>
+<p begin="3522300000t" end="3551500000t" region="bottomCenter" style="s1" xml:id="subtitle116">まあ 乗り切ったら１年はもつだろうけど</p>
+<p begin="3522300000t" end="3551500000t" region="bottomCenter" style="s1" xml:id="subtitle117">不过  能克服的话应该可以坚持一年吧</p>
+<p begin="3640800000t" end="3651300000t" region="bottomCenter" style="s1" xml:id="subtitle118">完成</p>
+<p begin="3640800000t" end="3651300000t" region="bottomCenter" style="s1" xml:id="subtitle119">完成</p>
+<p begin="3658100000t" end="3674300000t" region="bottomCenter" style="s1" xml:id="subtitle120">リボン どっちかな</p>
+<p begin="3658100000t" end="3674300000t" region="bottomCenter" style="s1" xml:id="subtitle121">缎带选哪个？</p>
+<p begin="3695200000t" end="3716800000t" region="bottomCenter" style="s1" xml:id="subtitle122">え～ 派手過ぎない</p>
+<p begin="3695200000t" end="3716800000t" region="bottomCenter" style="s1" xml:id="subtitle123">哎  太花哨了吧</p>
+<p begin="3717500000t" end="3736500000t" region="bottomCenter" style="s1" xml:id="subtitle124">それぐらいでいいのさ</p>
+<p begin="3717500000t" end="3736500000t" region="bottomCenter" style="s1" xml:id="subtitle125">那种程度才好嘛</p>
+<p begin="3738400000t" end="3764300000t" region="bottomCenter" style="s1" xml:id="subtitle126">女は外見でナメられたら終わりだよ</p>
+<p begin="3738400000t" end="3764300000t" region="bottomCenter" style="s1" xml:id="subtitle127">女人因外表而被轻视了的话就完了哦</p>
+<p begin="3849100000t" end="3886200000t" region="bottomCenter" style="s1" xml:id="subtitle128">いいじゃん これならまどかの隠れファンもメロメロだ</p>
+<p begin="3849100000t" end="3886200000t" region="bottomCenter" style="s1" xml:id="subtitle129">不是挺好嘛  这样小圆的隐藏FANS们就会被迷得神魂颠倒了</p>
+<p begin="3889000000t" end="3906800000t" region="bottomCenter" style="s1" xml:id="subtitle130">いないよ そんなの</p>
+<p begin="3889000000t" end="3906800000t" region="bottomCenter" style="s1" xml:id="subtitle131">才没有呢  那种FANS</p>
+<p begin="3907400000t" end="3955500000t" region="bottomCenter" style="s1" xml:id="subtitle132">いると思っておくんだよ  それが 美人のヒ ケ ツ</p>
+<p begin="3907400000t" end="3955500000t" region="bottomCenter" style="s1" xml:id="subtitle133">要当是有才行嘛  这就是美人的秘诀</p>
+<p begin="4050900000t" end="4064300000t" region="bottomCenter" style="s1" xml:id="subtitle134">セーフ</p>
+<p begin="4050900000t" end="4064300000t" region="bottomCenter" style="s1" xml:id="subtitle135">安全上垒</p>
+<p begin="4067000000t" end="4087300000t" region="bottomCenter" style="s1" xml:id="subtitle136">はい 残さないで食べてね</p>
+<p begin="4067000000t" end="4087300000t" region="bottomCenter" style="s1" xml:id="subtitle137">来  全吃光不要剩下哦</p>
+<p begin="4089700000t" end="4099700000t" region="bottomCenter" style="s1" xml:id="subtitle138">はい</p>
+<p begin="4089700000t" end="4099700000t" region="bottomCenter" style="s1" xml:id="subtitle139">是</p>
+<p begin="4116200000t" end="4132400000t" region="bottomCenter" style="s1" xml:id="subtitle140">コーヒー おかわりは</p>
+<p begin="4116200000t" end="4132400000t" region="bottomCenter" style="s1" xml:id="subtitle141">咖啡  要再来一杯吗</p>
+<p begin="4157500000t" end="4165200000t" region="bottomCenter" style="s1" xml:id="subtitle142">いいや</p>
+<p begin="4157500000t" end="4165200000t" region="bottomCenter" style="s1" xml:id="subtitle143">不了</p>
+<p begin="4300400000t" end="4325100000t" region="bottomCenter" style="s1" xml:id="subtitle144">おっし じゃ 行ってくる</p>
+<p begin="4300400000t" end="4325100000t" region="bottomCenter" style="s1" xml:id="subtitle145">好喽  那么我出发了</p>
+<p begin="4342000000t" end="4357700000t" region="bottomCenter" style="s1" xml:id="subtitle146">いってらっしゃい</p>
+<p begin="4342000000t" end="4357700000t" region="bottomCenter" style="s1" xml:id="subtitle147">走好</p>
+<p begin="4369100000t" end="4390600000t" region="bottomCenter" style="s1" xml:id="subtitle148">さあ まどかも急がないと</p>
+<p begin="4369100000t" end="4390600000t" region="bottomCenter" style="s1" xml:id="subtitle149">来  小圆也要抓紧了</p>
+<p begin="4399400000t" end="4405500000t" region="bottomCenter" style="s1" xml:id="subtitle150">うん</p>
+<p begin="4399400000t" end="4405500000t" region="bottomCenter" style="s1" xml:id="subtitle151">嗯</p>
+<p begin="4423300000t" end="4434600000t" region="bottomCenter" style="s1" xml:id="subtitle152">いってきま～す</p>
+<p begin="4423300000t" end="4434600000t" region="bottomCenter" style="s1" xml:id="subtitle153">我出门了</p>
+<p begin="4435800000t" end="4446200000t" region="bottomCenter" style="s1" xml:id="subtitle154">いってらっしゃい</p>
+<p begin="4435800000t" end="4446200000t" region="bottomCenter" style="s1" xml:id="subtitle155">走好</p>
+<p begin="4446800000t" end="4459200000t" region="bottomCenter" style="s1" xml:id="subtitle156">いってらっしゃい</p>
+<p begin="4446800000t" end="4459200000t" region="bottomCenter" style="s1" xml:id="subtitle157">走好</p>
+<p begin="4606300000t" end="4619000000t" region="bottomCenter" style="s1" xml:id="subtitle158">おっはよう</p>
+<p begin="4606300000t" end="4619000000t" region="bottomCenter" style="s1" xml:id="subtitle159">早上好</p>
+<p begin="4621100000t" end="4633300000t" region="bottomCenter" style="s1" xml:id="subtitle160">おはようございます</p>
+<p begin="4621100000t" end="4633300000t" region="bottomCenter" style="s1" xml:id="subtitle161">早安</p>
+<p begin="4634300000t" end="4649100000t" region="bottomCenter" style="s1" xml:id="subtitle162">まどか おそーい</p>
+<p begin="4634300000t" end="4649100000t" region="bottomCenter" style="s1" xml:id="subtitle163">小圆  你好慢啊</p>
+<p begin="4652300000t" end="4668700000t" region="bottomCenter" style="s1" xml:id="subtitle164">お 可愛いリボン</p>
+<p begin="4652300000t" end="4668700000t" region="bottomCenter" style="s1" xml:id="subtitle165">喔  好可爱的缎带</p>
+<p begin="4671800000t" end="4693000000t" region="bottomCenter" style="s1" xml:id="subtitle166">そ そうかな 派手過ぎない</p>
+<p begin="4671800000t" end="4693000000t" region="bottomCenter" style="s1" xml:id="subtitle167">是吗  不会太花哨吧</p>
+<p begin="4694900000t" end="4709000000t" region="bottomCenter" style="s1" xml:id="subtitle168">とても素敵ですわ</p>
+<p begin="4694900000t" end="4709000000t" region="bottomCenter" style="s1" xml:id="subtitle169">很漂亮哟</p>
+<p begin="4810800000t" end="4855600000t" region="bottomCenter" style="s1" xml:id="subtitle170">でね ラブレターでなく直に告白できるようでなきゃダメだって</p>
+<p begin="4810800000t" end="4855600000t" region="bottomCenter" style="s1" xml:id="subtitle171">妈妈说  用情书而不是亲自去告白是不行的</p>
+<p begin="4856100000t" end="4882800000t" region="bottomCenter" style="s1" xml:id="subtitle172">相変わらずまどかのママはカッコいいなあ</p>
+<p begin="4856100000t" end="4882800000t" region="bottomCenter" style="s1" xml:id="subtitle173">小圆的妈妈还是一如既往的帅气呢</p>
+<p begin="4884000000t" end="4902900000t" region="bottomCenter" style="s1" xml:id="subtitle174">美人だしバリキャリだし</p>
+<p begin="4884000000t" end="4902900000t" region="bottomCenter" style="s1" xml:id="subtitle175">又漂亮还是女强人</p>
+<p begin="4917700000t" end="4951100000t" region="bottomCenter" style="s1" xml:id="subtitle176">そんな風にキッパリ割り切れたらいいんだけど</p>
+<p begin="4917700000t" end="4951100000t" region="bottomCenter" style="s1" xml:id="subtitle177">要是真能像那样果断就好了</p>
+<p begin="4965200000t" end="4985300000t" region="bottomCenter" style="s1" xml:id="subtitle178">うやましい悩みだねえ</p>
+<p begin="4965200000t" end="4985300000t" region="bottomCenter" style="s1" xml:id="subtitle179">真是奢侈的烦恼呢</p>
+<p begin="4988600000t" end="5041500000t" region="bottomCenter" style="s1" xml:id="subtitle180">いいなぁ 私も一通ぐらいもらってみたいなぁ  ラブレター</p>
+<p begin="4988600000t" end="5041500000t" region="bottomCenter" style="s1" xml:id="subtitle181">真好  我也想收到一封呢  情书</p>
+<p begin="5042700000t" end="5093200000t" region="bottomCenter" style="s1" xml:id="subtitle182">ほーう まどかもヒトミみたいなモテモテな美少女に変身したいと</p>
+<p begin="5042700000t" end="5093200000t" region="bottomCenter" style="s1" xml:id="subtitle183">哦？  小圆也想和仁美一样变成受欢迎的美少女啊</p>
+<p begin="5094500000t" end="5122590000t" region="bottomCenter" style="s1" xml:id="subtitle184">そこでまずはリボンからイメチェンですかな</p>
+<p begin="5094500000t" end="5122590000t" region="bottomCenter" style="s1" xml:id="subtitle185">所以才先从缎带开始改变印象啊</p>
+<p begin="5126490000t" end="5144900000t" region="bottomCenter" style="s1" xml:id="subtitle186">ちがうよぅ これはママが</p>
+<p begin="5126490000t" end="5144900000t" region="bottomCenter" style="s1" xml:id="subtitle187">才不是  这是妈妈…</p>
+<p begin="5145500000t" end="5172500000t" region="bottomCenter" style="s1" xml:id="subtitle188">さては ママからモテる秘訣を教わったな</p>
+<p begin="5145500000t" end="5172500000t" region="bottomCenter" style="s1" xml:id="subtitle189">这么说是从妈妈那里学到了受欢迎的秘诀啦</p>
+<p begin="5173800000t" end="5201800000t" region="bottomCenter" style="s1" xml:id="subtitle190">けしからーん そんなハレンチな子はー こうだぁっ</p>
+<p begin="5173800000t" end="5201800000t" region="bottomCenter" style="s1" xml:id="subtitle191">不像话  对这种不知廉耻的孩子</p>
+<p begin="5202300000t" end="5214090000t" region="bottomCenter" style="s1" xml:id="subtitle192">こうだぁっ</p>
+<p begin="5202300000t" end="5214090000t" region="bottomCenter" style="s1" xml:id="subtitle193">就要这样</p>
+<p begin="5226200000t" end="5240600000t" region="bottomCenter" style="s1" xml:id="subtitle194">や ちょっと やめて や め</p>
+<p begin="5226200000t" end="5240600000t" region="bottomCenter" style="s1" xml:id="subtitle195">不要  快住手</p>
+<p begin="5254200000t" end="5267400000t" region="bottomCenter" style="s1" xml:id="subtitle196">可愛いやつめ</p>
+<p begin="5254200000t" end="5267400000t" region="bottomCenter" style="s1" xml:id="subtitle197">你这可爱的家伙</p>
+<p begin="5269600000t" end="5293000000t" region="bottomCenter" style="s1" xml:id="subtitle198">でも男子にモテようなんて許さんぞー</p>
+<p begin="5269600000t" end="5293000000t" region="bottomCenter" style="s1" xml:id="subtitle199">但是想受男生欢迎什么的我可不原谅哟</p>
+<p begin="5294500000t" end="5325800000t" region="bottomCenter" style="s1" xml:id="subtitle200">まどかは私の嫁になるのだー</p>
+<p begin="5294500000t" end="5325800000t" region="bottomCenter" style="s1" xml:id="subtitle201">小圆可是要成为我的新娘的</p>
+<p begin="5429600000t" end="5454500000t" region="bottomCenter" style="s1" xml:id="subtitle202">今日はみなさんに大事なお話があります</p>
+<p begin="5429600000t" end="5454500000t" region="bottomCenter" style="s1" xml:id="subtitle203">今天有件很重要的事要告诉大家</p>
+<p begin="5456800000t" end="5471400000t" region="bottomCenter" style="s1" xml:id="subtitle204">心して聞くように</p>
+<p begin="5456800000t" end="5471400000t" region="bottomCenter" style="s1" xml:id="subtitle205">请用心听好</p>
+<p begin="5485700000t" end="5520000000t" region="bottomCenter" style="s1" xml:id="subtitle206">目玉焼きとは 固焼きですか それとも半熟ですか</p>
+<p begin="5485700000t" end="5520000000t" region="bottomCenter" style="s1" xml:id="subtitle207">荷包蛋是全熟好还是半熟好？</p>
+<p begin="5520700000t" end="5530900000t" region="bottomCenter" style="s1" xml:id="subtitle208">はい 中沢君</p>
+<p begin="5520700000t" end="5530900000t" region="bottomCenter" style="s1" xml:id="subtitle209">中泽同学  请回答</p>
+<p begin="5536400000t" end="5572000000t" region="bottomCenter" style="s1" xml:id="subtitle210">えっ えっと どっどっちでもいいんじゃないかと</p>
+<p begin="5536400000t" end="5572000000t" region="bottomCenter" style="s1" xml:id="subtitle211">那个…  哪种都好吧</p>
+<p begin="5573300000t" end="5596400000t" region="bottomCenter" style="s1" xml:id="subtitle212">その通り どっちでもよろしい</p>
+<p begin="5573300000t" end="5596400000t" region="bottomCenter" style="s1" xml:id="subtitle213">正是如此  哪种都可以</p>
+<p begin="5597500000t" end="5643000000t" region="bottomCenter" style="s1" xml:id="subtitle214">たかが卵の焼き加減なんかで 女の魅力が決まると思ったら大間違いです</p>
+<p begin="5597500000t" end="5643000000t" region="bottomCenter" style="s1" xml:id="subtitle215">仅凭煎荷包蛋的水平来决定女人的魅力真是大错特错</p>
+<p begin="5652300000t" end="5664000000t" region="bottomCenter" style="s1" xml:id="subtitle216">女子のみなさんは</p>
+<p begin="5652300000t" end="5664000000t" region="bottomCenter" style="s1" xml:id="subtitle217">在座女生们务必</p>
+<p begin="5664000000t" end="5704100000t" region="bottomCenter" style="s1" xml:id="subtitle218">くれぐれも半熟じゃなきゃ食べられないとか抜かす男とは交際しないように</p>
+<p begin="5664000000t" end="5704100000t" region="bottomCenter" style="s1" xml:id="subtitle219">不要跟只吃半熟荷包蛋的男人交往</p>
+<p begin="5709300000t" end="5719500000t" region="bottomCenter" style="s1" xml:id="subtitle220">ダメだったか</p>
+<p begin="5709300000t" end="5719500000t" region="bottomCenter" style="s1" xml:id="subtitle221">还是分手了嘛</p>
+<p begin="5722100000t" end="5734700000t" region="bottomCenter" style="s1" xml:id="subtitle222">ダメだったんだね</p>
+<p begin="5722100000t" end="5734700000t" region="bottomCenter" style="s1" xml:id="subtitle223">看来是分手了</p>
+<p begin="5735300000t" end="5751600000t" region="bottomCenter" style="s1" xml:id="subtitle224">そして 男子のみなさんは</p>
+<p begin="5735300000t" end="5751600000t" region="bottomCenter" style="s1" xml:id="subtitle225">还有男生们</p>
+<p begin="5751600000t" end="5789400000t" region="bottomCenter" style="s1" xml:id="subtitle226">絶対に卵の焼き加減にケチをつけるような大人にならないこと</p>
+<p begin="5751600000t" end="5789400000t" region="bottomCenter" style="s1" xml:id="subtitle227">注意千万不要成为对荷包蛋斤斤计较的大人</p>
+<p begin="5805900000t" end="5822100000t" region="bottomCenter" style="s1" xml:id="subtitle228">はい あとそれから</p>
+<p begin="5805900000t" end="5822100000t" region="bottomCenter" style="s1" xml:id="subtitle229">好了  接下来</p>
+<p begin="5825500000t" end="5848900000t" region="bottomCenter" style="s1" xml:id="subtitle230">今日はみなさんに転校生を紹介します</p>
+<p begin="5825500000t" end="5848900000t" region="bottomCenter" style="s1" xml:id="subtitle231">今天向大家介绍一位转学生</p>
+<p begin="5852300000t" end="5868700000t" region="bottomCenter" style="s1" xml:id="subtitle232">そっちが後回しかよ</p>
+<p begin="5852300000t" end="5868700000t" region="bottomCenter" style="s1" xml:id="subtitle233">居然把这个放在了后面</p>
+<p begin="5873100000t" end="5897100000t" region="bottomCenter" style="s1" xml:id="subtitle234">じゃ 暁美さん いらっしゃい</p>
+<p begin="5873100000t" end="5897100000t" region="bottomCenter" style="s1" xml:id="subtitle235">那么晓美同学  请进来</p>
+<p begin="5917400000t" end="5942100000t" region="bottomCenter" style="s1" xml:id="subtitle236">うお 可愛い</p>
+<p begin="5917400000t" end="5942100000t" region="bottomCenter" style="s1" xml:id="subtitle237">喔  可爱  超可爱</p>
+<p begin="5943100000t" end="5960000000t" region="bottomCenter" style="s1" xml:id="subtitle238">うお すげー美人</p>
+<p begin="5943100000t" end="5960000000t" region="bottomCenter" style="s1" xml:id="subtitle239">哇  好漂亮</p>
+<p begin="6022400000t" end="6039900000t" region="bottomCenter" style="s1" xml:id="subtitle240">嘘 まさか</p>
+<p begin="6022400000t" end="6039900000t" region="bottomCenter" style="s1" xml:id="subtitle241">不会吧  难道说…</p>
+<p begin="6047600000t" end="6070200000t" region="bottomCenter" style="s1" xml:id="subtitle242">はい それじゃあ自己紹介いってみよう</p>
+<p begin="6047600000t" end="6070200000t" region="bottomCenter" style="s1" xml:id="subtitle243">好  那么请做下自我介绍</p>
+<p begin="6076500000t" end="6108400000t" region="bottomCenter" style="s1" xml:id="subtitle244">暁美ほむらです よろしくお願いします</p>
+<p begin="6076500000t" end="6108400000t" region="bottomCenter" style="s1" xml:id="subtitle245">我是晓美焰  请多关照</p>
+<p begin="6385100000t" end="6406700000t" region="bottomCenter" style="s1" xml:id="subtitle246">えぇと 暁美さん</p>
+<p begin="6385100000t" end="6406700000t" region="bottomCenter" style="s1" xml:id="subtitle247">那个  晓美同学？</p>
+<p begin="6444500000t" end="6470400000t" region="bottomCenter" style="s1" xml:id="subtitle248">暁美さんって 前はどこの学校だったの</p>
+<p begin="6444500000t" end="6470400000t" region="bottomCenter" style="s1" xml:id="subtitle249">晓美同学原来在哪里的学校上学</p>
+<p begin="6475900000t" end="6498300000t" region="bottomCenter" style="s1" xml:id="subtitle250">東京の ミッション系の学校よ</p>
+<p begin="6475900000t" end="6498300000t" region="bottomCenter" style="s1" xml:id="subtitle251">东京的宗教式学校</p>
+<p begin="6500800000t" end="6517200000t" region="bottomCenter" style="s1" xml:id="subtitle252">前は 部活とかやってた</p>
+<p begin="6500800000t" end="6517200000t" region="bottomCenter" style="s1" xml:id="subtitle253">以前有参加什么社团吗</p>
+<p begin="6519100000t" end="6535200000t" region="bottomCenter" style="s1" xml:id="subtitle254">運動系 文化系</p>
+<p begin="6519100000t" end="6535200000t" region="bottomCenter" style="s1" xml:id="subtitle255">运动系？  文学系？</p>
+<p begin="6537900000t" end="6549400000t" region="bottomCenter" style="s1" xml:id="subtitle256">やって無かったわ</p>
+<p begin="6537900000t" end="6549400000t" region="bottomCenter" style="s1" xml:id="subtitle257">没有参加过</p>
+<p begin="6549900000t" end="6588700000t" region="bottomCenter" style="s1" xml:id="subtitle258">すっごいきれいな髪だよね シャンプーは何使ってるの</p>
+<p begin="6549900000t" end="6588700000t" region="bottomCenter" style="s1" xml:id="subtitle259">好漂亮的头发啊  用什么牌子的洗发水呢</p>
+<p begin="6593900000t" end="6628000000t" region="bottomCenter" style="s1" xml:id="subtitle260">不思議な雰囲気の人ですよね、暁美さん</p>
+<p begin="6593900000t" end="6628000000t" region="bottomCenter" style="s1" xml:id="subtitle261">有种不可思议的感觉的人呢  晓美同学</p>
+<p begin="6631100000t" end="6653500000t" region="bottomCenter" style="s1" xml:id="subtitle262">ねえ まどか あの子知り合い</p>
+<p begin="6631100000t" end="6653500000t" region="bottomCenter" style="s1" xml:id="subtitle263">呐 小圆 你认识她吗</p>
+<p begin="6657800000t" end="6685200000t" region="bottomCenter" style="s1" xml:id="subtitle264">何かさっき思いっきりガン飛ばされてなかった</p>
+<p begin="6657800000t" end="6685200000t" region="bottomCenter" style="s1" xml:id="subtitle265">好像刚才她瞪着你看了吧</p>
+<p begin="6686700000t" end="6705300000t" region="bottomCenter" style="s1" xml:id="subtitle266">いや えっと</p>
+<p begin="6686700000t" end="6705300000t" region="bottomCenter" style="s1" xml:id="subtitle267">不  那个…</p>
+<p begin="6710800000t" end="6746600000t" region="bottomCenter" style="s1" xml:id="subtitle268">ごめんなさい 何だか緊張しすぎたみたいで</p>
+<p begin="6710800000t" end="6746600000t" region="bottomCenter" style="s1" xml:id="subtitle269">十分抱歉  我好像有点过度紧张</p>
+<p begin="6749800000t" end="6764700000t" region="bottomCenter" style="s1" xml:id="subtitle270">ちょっと 気分が</p>
+<p begin="6749800000t" end="6764700000t" region="bottomCenter" style="s1" xml:id="subtitle271">感觉有些不舒服</p>
+<p begin="6772000000t" end="6794200000t" region="bottomCenter" style="s1" xml:id="subtitle272">保健室に行かせて貰えるかしら</p>
+<p begin="6772000000t" end="6794200000t" region="bottomCenter" style="s1" xml:id="subtitle273">可以让我去保健室吗</p>
+<p begin="6804700000t" end="6820400000t" region="bottomCenter" style="s1" xml:id="subtitle274">じゃあたしが案内してあげる</p>
+<p begin="6804700000t" end="6820400000t" region="bottomCenter" style="s1" xml:id="subtitle275">那我给你带路吧</p>
+<p begin="6823500000t" end="6836300000t" region="bottomCenter" style="s1" xml:id="subtitle276">あたしも行く行く</p>
+<p begin="6823500000t" end="6836300000t" region="bottomCenter" style="s1" xml:id="subtitle277">我也要一起去</p>
+<p begin="6840800000t" end="6855900000t" region="bottomCenter" style="s1" xml:id="subtitle278">いえ おかまいなく</p>
+<p begin="6840800000t" end="6855900000t" region="bottomCenter" style="s1" xml:id="subtitle279">不用劳烦了</p>
+<p begin="6862800000t" end="6882500000t" region="bottomCenter" style="s1" xml:id="subtitle280">係の人にお願いしますから</p>
+<p begin="6862800000t" end="6882500000t" region="bottomCenter" style="s1" xml:id="subtitle281">我去拜托负责人就好了</p>
+<p begin="6943500000t" end="6984500000t" region="bottomCenter" style="s1" xml:id="subtitle282">鹿目まどかさん 貴女がこのクラスの保健係よね</p>
+<p begin="6943500000t" end="6984500000t" region="bottomCenter" style="s1" xml:id="subtitle283">鹿目圆同学  你是这班级的保健负责人吧</p>
+<p begin="6988200000t" end="7013400000t" region="bottomCenter" style="s1" xml:id="subtitle284">え えっと あの</p>
+<p begin="6988200000t" end="7013400000t" region="bottomCenter" style="s1" xml:id="subtitle285">唉？  那个…</p>
+<p begin="7021600000t" end="7049100000t" region="bottomCenter" style="s1" xml:id="subtitle286">連れてって貰える 保健室</p>
+<p begin="7021600000t" end="7049100000t" region="bottomCenter" style="s1" xml:id="subtitle287">可以带我去保健室吗</p>
+<p begin="7129400000t" end="7149400000t" region="bottomCenter" style="s1" xml:id="subtitle288">あ あのぅ その</p>
+<p begin="7129400000t" end="7149400000t" region="bottomCenter" style="s1" xml:id="subtitle289">请问  那个…</p>
+<p begin="7155300000t" end="7184400000t" region="bottomCenter" style="s1" xml:id="subtitle290">私が保健係って…どうして</p>
+<p begin="7155300000t" end="7184400000t" region="bottomCenter" style="s1" xml:id="subtitle291">为什么会知道我是保健负责人…</p>
+<p begin="7221400000t" end="7241900000t" region="bottomCenter" style="s1" xml:id="subtitle292">早乙女先生から聞いたの</p>
+<p begin="7221400000t" end="7241900000t" region="bottomCenter" style="s1" xml:id="subtitle293">从早乙女老师那里听说的</p>
+<p begin="7249300000t" end="7281500000t" region="bottomCenter" style="s1" xml:id="subtitle294">あ そうなんだ えっとさ 保健室は</p>
+<p begin="7249300000t" end="7281500000t" region="bottomCenter" style="s1" xml:id="subtitle295">这样啊  那个  保健室在…</p>
+<p begin="7304300000t" end="7314100000t" region="bottomCenter" style="s1" xml:id="subtitle296">こっちよね</p>
+<p begin="7304300000t" end="7314100000t" region="bottomCenter" style="s1" xml:id="subtitle297">这边吧</p>
+<p begin="7321700000t" end="7340900000t" region="bottomCenter" style="s1" xml:id="subtitle298">うん そうなんだけど</p>
+<p begin="7321700000t" end="7340900000t" region="bottomCenter" style="s1" xml:id="subtitle299">嗯  是的</p>
+<p begin="7352900000t" end="7406000000t" region="bottomCenter" style="s1" xml:id="subtitle300">いや だから その もしかして 場所知ってるのかなって</p>
+<p begin="7352900000t" end="7406000000t" region="bottomCenter" style="s1" xml:id="subtitle301">我是说那个…  难道你知道在哪里</p>
+<p begin="7492800000t" end="7506400000t" region="bottomCenter" style="s1" xml:id="subtitle302">暁美さん</p>
+<p begin="7492800000t" end="7506400000t" region="bottomCenter" style="s1" xml:id="subtitle303">晓美同学？</p>
+<p begin="7540700000t" end="7552600000t" region="bottomCenter" style="s1" xml:id="subtitle304">ほむらでいいわ</p>
+<p begin="7540700000t" end="7552600000t" region="bottomCenter" style="s1" xml:id="subtitle305">叫我焰就行了</p>
+<p begin="7565600000t" end="7581200000t" region="bottomCenter" style="s1" xml:id="subtitle306">ほむら ちゃん</p>
+<p begin="7565600000t" end="7581200000t" region="bottomCenter" style="s1" xml:id="subtitle307">小焰？</p>
+<p begin="7583600000t" end="7592700000t" region="bottomCenter" style="s1" xml:id="subtitle308">何かしら</p>
+<p begin="7583600000t" end="7592700000t" region="bottomCenter" style="s1" xml:id="subtitle309">怎么了</p>
+<p begin="7593000000t" end="7633900000t" region="bottomCenter" style="s1" xml:id="subtitle310">えっと その 変わった名前だよね</p>
+<p begin="7593000000t" end="7633900000t" region="bottomCenter" style="s1" xml:id="subtitle311">啊  那个  奇怪的名字呢</p>
+<p begin="7653100000t" end="7692000000t" region="bottomCenter" style="s1" xml:id="subtitle312">い いや だから あのね 変な意味じゃなくてね</p>
+<p begin="7653100000t" end="7692000000t" region="bottomCenter" style="s1" xml:id="subtitle313">不…所以那个  我没有什么别的意思</p>
+<p begin="7694300000t" end="7718800000t" region="bottomCenter" style="s1" xml:id="subtitle314">その カ カッコいいなぁなんて</p>
+<p begin="7694300000t" end="7718800000t" region="bottomCenter" style="s1" xml:id="subtitle315">那个  我是说很帅气啊什么的</p>
+<p begin="7790800000t" end="7834000000t" region="bottomCenter" style="s1" xml:id="subtitle316">鹿目まどか 貴女は自分の人生が 貴いと思う</p>
+<p begin="7790800000t" end="7834000000t" region="bottomCenter" style="s1" xml:id="subtitle317">鹿目圆  你认为自己的人生是宝贵的吗</p>
+<p begin="7838900000t" end="7864700000t" region="bottomCenter" style="s1" xml:id="subtitle318">家族や友達を 大切にしてる</p>
+<p begin="7838900000t" end="7864700000t" region="bottomCenter" style="s1" xml:id="subtitle319">你重视家人和朋友吗</p>
+<p begin="7871000000t" end="7908400000t" region="bottomCenter" style="s1" xml:id="subtitle320">え えっと わ 私は</p>
+<p begin="7871000000t" end="7908400000t" region="bottomCenter" style="s1" xml:id="subtitle321">那个  我是…</p>
+<p begin="7913300000t" end="7955500000t" region="bottomCenter" style="s1" xml:id="subtitle322">大切 だよ 家族も 友達のみんなも</p>
+<p begin="7913300000t" end="7955500000t" region="bottomCenter" style="s1" xml:id="subtitle323">很重视啊  家人还有各位朋友</p>
+<p begin="7959300000t" end="7987700000t" region="bottomCenter" style="s1" xml:id="subtitle324">大好きで とっても大事な人達だよ</p>
+<p begin="7959300000t" end="7987700000t" region="bottomCenter" style="s1" xml:id="subtitle325">都是我很喜欢的  非常重要的人哦</p>
+<p begin="7997900000t" end="8005700000t" region="bottomCenter" style="s1" xml:id="subtitle326">本当に</p>
+<p begin="7997900000t" end="8005700000t" region="bottomCenter" style="s1" xml:id="subtitle327">真的吗</p>
+<p begin="8008100000t" end="8030500000t" region="bottomCenter" style="s1" xml:id="subtitle328">本当だよ 嘘なわけないよ</p>
+<p begin="8008100000t" end="8030500000t" region="bottomCenter" style="s1" xml:id="subtitle329">真的啊  我不会说谎的</p>
+<p begin="8046100000t" end="8075200000t" region="bottomCenter" style="s1" xml:id="subtitle330">そう もしそれが本当なら</p>
+<p begin="8046100000t" end="8075200000t" region="bottomCenter" style="s1" xml:id="subtitle331">是嘛  如果那是真的话</p>
+<p begin="8081100000t" end="8121000000t" region="bottomCenter" style="s1" xml:id="subtitle332">今とは違う自分になろうだなんて 絶対に思わないことね</p>
+<p begin="8081100000t" end="8121000000t" region="bottomCenter" style="s1" xml:id="subtitle333">就绝不要想去做跟至今不一样的自己</p>
+<p begin="8128200000t" end="8159500000t" region="bottomCenter" style="s1" xml:id="subtitle334">さもなければ 全てを失うことになる</p>
+<p begin="8128200000t" end="8159500000t" region="bottomCenter" style="s1" xml:id="subtitle335">否则你就会失去一切</p>
+<p begin="8173700000t" end="8204300000t" region="bottomCenter" style="s1" xml:id="subtitle336">貴女は 鹿目まどかのままでいればいい</p>
+<p begin="8173700000t" end="8204300000t" region="bottomCenter" style="s1" xml:id="subtitle337">你就这样作为鹿目圆生活下去就行了</p>
+<p begin="8209800000t" end="8232000000t" region="bottomCenter" style="s1" xml:id="subtitle338">今までどおり これからも</p>
+<p begin="8209800000t" end="8232000000t" region="bottomCenter" style="s1" xml:id="subtitle339">像至今为止一样  从今以后也是</p>
+<p begin="8564500000t" end="8595300000t" region="bottomCenter" style="s1" xml:id="subtitle340">け 県内記録じゃないの これ</p>
+<p begin="8564500000t" end="8595300000t" region="bottomCenter" style="s1" xml:id="subtitle341">这  这不已经是县内纪录了吗</p>
+<p begin="8900800000t" end="8915500000t" region="bottomCenter" style="s1" xml:id="subtitle342">ええ 何それ</p>
+<p begin="8900800000t" end="8915500000t" region="bottomCenter" style="s1" xml:id="subtitle343">哎  那算什么</p>
+<p begin="8917400000t" end="8933700000t" region="bottomCenter" style="s1" xml:id="subtitle344">わけわかんないよね</p>
+<p begin="8917400000t" end="8933700000t" region="bottomCenter" style="s1" xml:id="subtitle345">很莫名其妙吧</p>
+<p begin="8936500000t" end="8979800000t" region="bottomCenter" style="s1" xml:id="subtitle346">文武両道で才色兼備かと思いきや実はサイコな電波さん</p>
+<p begin="8936500000t" end="8979800000t" region="bottomCenter" style="s1" xml:id="subtitle347">还以为文武双全才色兼备  实际上是个超级电波女</p>
+<p begin="8982000000t" end="9023700000t" region="bottomCenter" style="s1" xml:id="subtitle348">くー どこまでキャラ立てすりゃあ気が済むんだ あの転校生は</p>
+<p begin="8982000000t" end="9023700000t" region="bottomCenter" style="s1" xml:id="subtitle349">啊  那个转学生要秀多少个性才肯罢休啊</p>
+<p begin="9024600000t" end="9043500000t" region="bottomCenter" style="s1" xml:id="subtitle350">萌えか そこが萌えなのかあ</p>
+<p begin="9024600000t" end="9043500000t" region="bottomCenter" style="s1" xml:id="subtitle351">萌点吗  这就是萌点吗</p>
+<p begin="9047500000t" end="9084200000t" region="bottomCenter" style="s1" xml:id="subtitle352">まどかさん 本当に暁美さんとは初対面ですの</p>
+<p begin="9047500000t" end="9084200000t" region="bottomCenter" style="s1" xml:id="subtitle353">小圆同学  你和晓美同学真的是初次见面吗</p>
+<p begin="9097900000t" end="9119900000t" region="bottomCenter" style="s1" xml:id="subtitle354">常識的にはそうなんだけど</p>
+<p begin="9097900000t" end="9119900000t" region="bottomCenter" style="s1" xml:id="subtitle355">常识上来说是这样</p>
+<p begin="9121000000t" end="9153800000t" region="bottomCenter" style="s1" xml:id="subtitle356">何それ 非常識なところで心当たりがあると</p>
+<p begin="9121000000t" end="9153800000t" region="bottomCenter" style="s1" xml:id="subtitle357">什么意思  难道说你在非常识的层面上有头绪吗</p>
+<p begin="9158500000t" end="9167800000t" region="bottomCenter" style="s1" xml:id="subtitle358">あのね</p>
+<p begin="9158500000t" end="9167800000t" region="bottomCenter" style="s1" xml:id="subtitle359">那个呢</p>
+<p begin="9172300000t" end="9203600000t" region="bottomCenter" style="s1" xml:id="subtitle360">昨夜あの子と夢の中で会った</p>
+<p begin="9172300000t" end="9203600000t" region="bottomCenter" style="s1" xml:id="subtitle361">昨晚好像在梦里和她见过</p>
+<p begin="9208300000t" end="9219500000t" region="bottomCenter" style="s1" xml:id="subtitle362">ような</p>
+<p begin="9208300000t" end="9219500000t" region="bottomCenter" style="s1" xml:id="subtitle363">…的样子</p>
+<p begin="9244100000t" end="9274800000t" region="bottomCenter" style="s1" xml:id="subtitle364">すげー まどかまでキャラが立ち始めたよ</p>
+<p begin="9244100000t" end="9274800000t" region="bottomCenter" style="s1" xml:id="subtitle365">真厉害  连小圆也开始树立个性了</p>
+<p begin="9274900000t" end="9306000000t" region="bottomCenter" style="s1" xml:id="subtitle366">ひどいよぅ 私真面目に悩んでるのに</p>
+<p begin="9274900000t" end="9306000000t" region="bottomCenter" style="s1" xml:id="subtitle367">太过分了  我明明是认真地在烦恼着的</p>
+<p begin="9311600000t" end="9337100000t" region="bottomCenter" style="s1" xml:id="subtitle368">もう決まりだ それ前世の因果だわ</p>
+<p begin="9311600000t" end="9337100000t" region="bottomCenter" style="s1" xml:id="subtitle369">肯定没错  这是前世的因果</p>
+<p begin="9339100000t" end="9375300000t" region="bottomCenter" style="s1" xml:id="subtitle370">あんた達 時空を超えて巡り合った運命の仲間なんだわぁ</p>
+<p begin="9339100000t" end="9375300000t" region="bottomCenter" style="s1" xml:id="subtitle371">你们是穿越时空来相会的命运的同伴</p>
+<p begin="9382500000t" end="9405500000t" region="bottomCenter" style="s1" xml:id="subtitle372">夢って どんな夢でしたの</p>
+<p begin="9382500000t" end="9405500000t" region="bottomCenter" style="s1" xml:id="subtitle373">是怎么样的梦呢</p>
+<p begin="9407000000t" end="9439700000t" region="bottomCenter" style="s1" xml:id="subtitle374">それが 何だかよく思い出せないんだけど</p>
+<p begin="9407000000t" end="9439700000t" region="bottomCenter" style="s1" xml:id="subtitle375">那个我有点记不清楚了</p>
+<p begin="9442500000t" end="9467700000t" region="bottomCenter" style="s1" xml:id="subtitle376">とにかく変な夢だったってだけで</p>
+<p begin="9442500000t" end="9467700000t" region="bottomCenter" style="s1" xml:id="subtitle377">只知道是一个奇怪的梦</p>
+<p begin="9473500000t" end="9521600000t" region="bottomCenter" style="s1" xml:id="subtitle378">もしかしたら 本当は暁美さんと会ったことがあるのかもしれませんわ</p>
+<p begin="9473500000t" end="9521600000t" region="bottomCenter" style="s1" xml:id="subtitle379">或许其实真的和晓美同学见过面呢</p>
+<p begin="9529500000t" end="9557000000t" region="bottomCenter" style="s1" xml:id="subtitle380">まどかさん自身は覚えていないつもりでも</p>
+<p begin="9529500000t" end="9557000000t" region="bottomCenter" style="s1" xml:id="subtitle381">就算小圆同学认为自己不记得</p>
+<p begin="9558000000t" end="9615000000t" region="bottomCenter" style="s1" xml:id="subtitle382">深層心理には彼女の印象が残っていて それが夢に出てきたのかもしれません</p>
+<p begin="9558000000t" end="9615000000t" region="bottomCenter" style="s1" xml:id="subtitle383">但在深层心理里留下了她的印象  然后反映在梦里了也不一定</p>
+<p begin="9617200000t" end="9645900000t" region="bottomCenter" style="s1" xml:id="subtitle384">それ出来過ぎてない どんな偶然よ</p>
+<p begin="9617200000t" end="9645900000t" region="bottomCenter" style="s1" xml:id="subtitle385">这也太牵强了吧  要有多偶然啊</p>
+<p begin="9647600000t" end="9659300000t" region="bottomCenter" style="s1" xml:id="subtitle386">そうね</p>
+<p begin="9647600000t" end="9659300000t" region="bottomCenter" style="s1" xml:id="subtitle387">也是呢</p>
+<p begin="9664200000t" end="9682200000t" region="bottomCenter" style="s1" xml:id="subtitle388">あら もうこんな時間</p>
+<p begin="9664200000t" end="9682200000t" region="bottomCenter" style="s1" xml:id="subtitle389">哎呀  已经这个时间了</p>
+<p begin="9687300000t" end="9713800000t" region="bottomCenter" style="s1" xml:id="subtitle390">ごめんなさい お先に失礼しますわ</p>
+<p begin="9687300000t" end="9713800000t" region="bottomCenter" style="s1" xml:id="subtitle391">抱歉  我先回去了</p>
+<p begin="9718400000t" end="9739200000t" region="bottomCenter" style="s1" xml:id="subtitle392">今日はピアノ 日本舞踊</p>
+<p begin="9718400000t" end="9739200000t" region="bottomCenter" style="s1" xml:id="subtitle393">今天是钢琴？  还是日本舞？</p>
+<p begin="9740600000t" end="9757000000t" region="bottomCenter" style="s1" xml:id="subtitle394">お茶のお稽古ですの</p>
+<p begin="9740600000t" end="9757000000t" region="bottomCenter" style="s1" xml:id="subtitle395">是茶道的练习</p>
+<p begin="9760400000t" end="9801200000t" region="bottomCenter" style="s1" xml:id="subtitle396">もうすぐ受験だっていうのに いつまで続けさせられるのか</p>
+<p begin="9760400000t" end="9801200000t" region="bottomCenter" style="s1" xml:id="subtitle397">明明就要到升学考试的时候了  真不知道还要继续多久</p>
+<p begin="9804300000t" end="9839600000t" region="bottomCenter" style="s1" xml:id="subtitle398">うわぁ 小市民に生まれて良かったわ</p>
+<p begin="9804300000t" end="9839600000t" region="bottomCenter" style="s1" xml:id="subtitle399">哇  出身在市井之家真是幸运</p>
+<p begin="9840200000t" end="9853200000t" region="bottomCenter" style="s1" xml:id="subtitle400">私達もいこっか</p>
+<p begin="9840200000t" end="9853200000t" region="bottomCenter" style="s1" xml:id="subtitle401">我们也走吧</p>
+<p begin="9863400000t" end="9891700000t" region="bottomCenter" style="s1" xml:id="subtitle402">まどか 帰りにＣＤ屋に寄ってもいい</p>
+<p begin="9863400000t" end="9891700000t" region="bottomCenter" style="s1" xml:id="subtitle403">小圆  回去的时候顺道去一下CD店行吗</p>
+<p begin="9892800000t" end="9916100000t" region="bottomCenter" style="s1" xml:id="subtitle404">いいよ また上条君の</p>
+<p begin="9892800000t" end="9916100000t" region="bottomCenter" style="s1" xml:id="subtitle405">行啊  又是上条君的？</p>
+<p begin="9929600000t" end="9938000000t" region="bottomCenter" style="s1" xml:id="subtitle406">まあね</p>
+<p begin="9929600000t" end="9938000000t" region="bottomCenter" style="s1" xml:id="subtitle407">是啊</p>
+<p begin="9966000000t" end="9977300000t" region="bottomCenter" style="s1" xml:id="subtitle408">では また</p>
+<p begin="9966000000t" end="9977300000t" region="bottomCenter" style="s1" xml:id="subtitle409">那就明天见了</p>
+<p begin="9978000000t" end="9986700000t" region="bottomCenter" style="s1" xml:id="subtitle410">じゃあね</p>
+<p begin="9978000000t" end="9986700000t" region="bottomCenter" style="s1" xml:id="subtitle411">再见</p>
+<p begin="10348600000t" end="10360500000t" region="bottomCenter" style="s1" xml:id="subtitle412">助けて</p>
+<p begin="10348600000t" end="10360500000t" region="bottomCenter" style="s1" xml:id="subtitle413">救救我</p>
+<p begin="10398000000t" end="10418700000t" region="bottomCenter" style="s1" xml:id="subtitle414">助けて まどか</p>
+<p begin="10398000000t" end="10418700000t" region="bottomCenter" style="s1" xml:id="subtitle415">救救我  小圆</p>
+<p begin="10441100000t" end="10463000000t" region="bottomCenter" style="s1" xml:id="subtitle416">僕を 助けて</p>
+<p begin="10441100000t" end="10463000000t" region="bottomCenter" style="s1" xml:id="subtitle417">请救救我</p>
+<p begin="10518700000t" end="10539100000t" region="bottomCenter" style="s1" xml:id="subtitle418">誰 誰なの</p>
+<p begin="10518700000t" end="10539100000t" region="bottomCenter" style="s1" xml:id="subtitle419">谁  是谁</p>
+<p begin="10552000000t" end="10567800000t" region="bottomCenter" style="s1" xml:id="subtitle420">店内整修的通知</p>
+<p begin="10552000000t" end="10567800000t" region="bottomCenter" style="s1" xml:id="subtitle421">整修中的楼层关闭中</p>
+<p begin="10555700000t" end="10568100000t" region="bottomCenter" style="s1" xml:id="subtitle422">助けて</p>
+<p begin="10555700000t" end="10568100000t" region="bottomCenter" style="s1" xml:id="subtitle423">救救我…</p>
+<p begin="10704100000t" end="10716800000t" region="bottomCenter" style="s1" xml:id="subtitle424">どこにいるの</p>
+<p begin="10704100000t" end="10716800000t" region="bottomCenter" style="s1" xml:id="subtitle425">你在哪里</p>
+<p begin="10736300000t" end="10751400000t" region="bottomCenter" style="s1" xml:id="subtitle426">あなた 誰</p>
+<p begin="10736300000t" end="10751400000t" region="bottomCenter" style="s1" xml:id="subtitle427">你是谁</p>
+<p begin="10799400000t" end="10812000000t" region="bottomCenter" style="s1" xml:id="subtitle428">助けて</p>
+<p begin="10799400000t" end="10812000000t" region="bottomCenter" style="s1" xml:id="subtitle429">救救我</p>
+<p begin="10928900000t" end="10938100000t" region="bottomCenter" style="s1" xml:id="subtitle430">あなたなの</p>
+<p begin="10928900000t" end="10938100000t" region="bottomCenter" style="s1" xml:id="subtitle431">是你吗</p>
+<p begin="10946700000t" end="10959100000t" region="bottomCenter" style="s1" xml:id="subtitle432">助けて</p>
+<p begin="10946700000t" end="10959100000t" region="bottomCenter" style="s1" xml:id="subtitle433">救救我</p>
+<p begin="11023800000t" end="11036300000t" region="bottomCenter" style="s1" xml:id="subtitle434">ほむらちゃん</p>
+<p begin="11023800000t" end="11036300000t" region="bottomCenter" style="s1" xml:id="subtitle435">小焰？</p>
+<p begin="11041100000t" end="11054400000t" region="bottomCenter" style="s1" xml:id="subtitle436">そいつから離れて</p>
+<p begin="11041100000t" end="11054400000t" region="bottomCenter" style="s1" xml:id="subtitle437">离开这家伙</p>
+<p begin="11066600000t" end="11092900000t" region="bottomCenter" style="s1" xml:id="subtitle438">だ だって この子 怪我してる</p>
+<p begin="11066600000t" end="11092900000t" region="bottomCenter" style="s1" xml:id="subtitle439">但是…这孩子受伤了</p>
+<p begin="11131900000t" end="11157100000t" region="bottomCenter" style="s1" xml:id="subtitle440">ダ ダメだよ ひどいことしないで</p>
+<p begin="11131900000t" end="11157100000t" region="bottomCenter" style="s1" xml:id="subtitle441">不行啊  不要对它做过分的事</p>
+<p begin="11166400000t" end="11180700000t" region="bottomCenter" style="s1" xml:id="subtitle442">貴女には関係無い</p>
+<p begin="11166400000t" end="11180700000t" region="bottomCenter" style="s1" xml:id="subtitle443">这和你没有关系</p>
+<p begin="11184300000t" end="11204600000t" region="bottomCenter" style="s1" xml:id="subtitle444">だってこの子 私を呼んでた</p>
+<p begin="11184300000t" end="11204600000t" region="bottomCenter" style="s1" xml:id="subtitle445">但是这孩子在呼唤我</p>
+<p begin="11206100000t" end="11229100000t" region="bottomCenter" style="s1" xml:id="subtitle446">聞こえたんだもん 助けてっ</p>
+<p begin="11206100000t" end="11229100000t" region="bottomCenter" style="s1" xml:id="subtitle447">我听到了它的求救</p>
+<p begin="11230700000t" end="11238100000t" region="bottomCenter" style="s1" xml:id="subtitle448">そう</p>
+<p begin="11230700000t" end="11238100000t" region="bottomCenter" style="s1" xml:id="subtitle449">是吗</p>
+<p begin="11390100000t" end="11402300000t" region="bottomCenter" style="s1" xml:id="subtitle450">まどか こっち</p>
+<p begin="11390100000t" end="11402300000t" region="bottomCenter" style="s1" xml:id="subtitle451">小圆  这边</p>
+<p begin="11405500000t" end="11413700000t" region="bottomCenter" style="s1" xml:id="subtitle452">さやかちゃん</p>
+<p begin="11405500000t" end="11413700000t" region="bottomCenter" style="s1" xml:id="subtitle453">沙耶香</p>
+<p begin="11683100000t" end="11693500000t" region="bottomCenter" style="s1" xml:id="subtitle454">こんな時に</p>
+<p begin="11683100000t" end="11693500000t" region="bottomCenter" style="s1" xml:id="subtitle455">偏偏这种时候…</p>
+<p begin="11725400000t" end="11755500000t" region="bottomCenter" style="s1" xml:id="subtitle456">何よあいつ 今度はコスプレで通り魔かよ</p>
+<p begin="11725400000t" end="11755500000t" region="bottomCenter" style="s1" xml:id="subtitle457">那家伙搞什么  这次是cosplay的杀人魔吗</p>
+<p begin="11758900000t" end="11770800000t" region="bottomCenter" style="s1" xml:id="subtitle458">つーか何それ</p>
+<p begin="11758900000t" end="11770800000t" region="bottomCenter" style="s1" xml:id="subtitle459">话说那是什么东西</p>
+<p begin="11772500000t" end="11793000000t" region="bottomCenter" style="s1" xml:id="subtitle460">ぬいぐるみじゃないよね 生き物</p>
+<p begin="11772500000t" end="11793000000t" region="bottomCenter" style="s1" xml:id="subtitle461">不是玩偶吧  是生物吗</p>
+<p begin="11797600000t" end="11836600000t" region="bottomCenter" style="s1" xml:id="subtitle462">わかんない わかんないけど この子 助けなきゃ</p>
+<p begin="11797600000t" end="11836600000t" region="bottomCenter" style="s1" xml:id="subtitle463">不知道  虽然不知道  但一定要救它才行</p>
+<p begin="11887900000t" end="11914000000t" region="bottomCenter" style="s1" xml:id="subtitle464">あれ 非常口は どこよここ</p>
+<p begin="11887900000t" end="11914000000t" region="bottomCenter" style="s1" xml:id="subtitle465">咦？  紧急出口呢  这里是哪里</p>
+<p begin="11920700000t" end="11957600000t" region="bottomCenter" style="s1" xml:id="subtitle466">変だよ ここ どんどん道が変わっていく</p>
+<p begin="11920700000t" end="11957600000t" region="bottomCenter" style="s1" xml:id="subtitle467">这里太奇怪了  道路在不断变化</p>
+<p begin="11978300000t" end="11999800000t" region="bottomCenter" style="s1" xml:id="subtitle468">もう どうなってんのさ</p>
+<p begin="11978300000t" end="11999800000t" region="bottomCenter" style="s1" xml:id="subtitle469">真是的  到底发生了什么</p>
+<p begin="12032100000t" end="12040900000t" region="bottomCenter" style="s1" xml:id="subtitle470">何かいる</p>
+<p begin="12032100000t" end="12040900000t" region="bottomCenter" style="s1" xml:id="subtitle471">有什么东西在</p>
+<p begin="12273000000t" end="12317500000t" region="bottomCenter" style="s1" xml:id="subtitle472">冗談だよね 私 悪い夢でも見てるんだよね</p>
+<p begin="12273000000t" end="12317500000t" region="bottomCenter" style="s1" xml:id="subtitle473">开玩笑的吧  我是在做噩梦吧</p>
+<p begin="12322900000t" end="12335800000t" region="bottomCenter" style="s1" xml:id="subtitle474">ねえ まどか</p>
+<p begin="12322900000t" end="12335800000t" region="bottomCenter" style="s1" xml:id="subtitle475">是不是啊  小圆</p>
+<p begin="12478100000t" end="12484100000t" region="bottomCenter" style="s1" xml:id="subtitle476">あ あれ</p>
+<p begin="12478100000t" end="12484100000t" region="bottomCenter" style="s1" xml:id="subtitle477">咦？</p>
+<p begin="12488100000t" end="12495900000t" region="bottomCenter" style="s1" xml:id="subtitle478">これは</p>
+<p begin="12488100000t" end="12495900000t" region="bottomCenter" style="s1" xml:id="subtitle479">这是…</p>
+<p begin="12500100000t" end="12514300000t" region="bottomCenter" style="s1" xml:id="subtitle480">危なかったわね</p>
+<p begin="12500100000t" end="12514300000t" region="bottomCenter" style="s1" xml:id="subtitle481">真危险啊</p>
+<p begin="12516500000t" end="12531100000t" region="bottomCenter" style="s1" xml:id="subtitle482">でももう大丈夫</p>
+<p begin="12516500000t" end="12531100000t" region="bottomCenter" style="s1" xml:id="subtitle483">但是已经没关系了</p>
+<p begin="12602500000t" end="12627500000t" region="bottomCenter" style="s1" xml:id="subtitle484">あら キュゥべえを助けてくれたのね</p>
+<p begin="12602500000t" end="12627500000t" region="bottomCenter" style="s1" xml:id="subtitle485">哎呀  你们救了丘比呢</p>
+<p begin="12632200000t" end="12666800000t" region="bottomCenter" style="s1" xml:id="subtitle486">ありがとう その子は私の大切な友達なの</p>
+<p begin="12632200000t" end="12666800000t" region="bottomCenter" style="s1" xml:id="subtitle487">谢谢你们  这孩子是我重要的朋友</p>
+<p begin="12673500000t" end="12720800000t" region="bottomCenter" style="s1" xml:id="subtitle488">私 呼ばれたんです 頭の中に直接この子の声が</p>
+<p begin="12673500000t" end="12720800000t" region="bottomCenter" style="s1" xml:id="subtitle489">我被它呼唤了  这孩子的声音直接在我的脑袋里…</p>
+<p begin="12742300000t" end="12754100000t" region="bottomCenter" style="s1" xml:id="subtitle490">なるほどね</p>
+<p begin="12742300000t" end="12754100000t" region="bottomCenter" style="s1" xml:id="subtitle491">原来如此呢</p>
+<p begin="12765100000t" end="12801100000t" region="bottomCenter" style="s1" xml:id="subtitle492">その制服 あなたたちも見滝原の生徒みたいね</p>
+<p begin="12765100000t" end="12801100000t" region="bottomCenter" style="s1" xml:id="subtitle493">这身制服  看来你们也是见泷原的学生呢</p>
+<p begin="12804500000t" end="12812900000t" region="bottomCenter" style="s1" xml:id="subtitle494">２年生</p>
+<p begin="12804500000t" end="12812900000t" region="bottomCenter" style="s1" xml:id="subtitle495">二年级？</p>
+<p begin="12818200000t" end="12828700000t" region="bottomCenter" style="s1" xml:id="subtitle496">あ、あなたは</p>
+<p begin="12818200000t" end="12828700000t" region="bottomCenter" style="s1" xml:id="subtitle497">你是…</p>
+<p begin="12834000000t" end="12860400000t" region="bottomCenter" style="s1" xml:id="subtitle498">そうそう 自己紹介しないとね</p>
+<p begin="12834000000t" end="12860400000t" region="bottomCenter" style="s1" xml:id="subtitle499">对了  我得自我介绍一下呢</p>
+<p begin="12874000000t" end="12896300000t" region="bottomCenter" style="s1" xml:id="subtitle500">でも その前に</p>
+<p begin="12874000000t" end="12896300000t" region="bottomCenter" style="s1" xml:id="subtitle501">但是  在那之前…</p>
+<p begin="12981200000t" end="13009000000t" region="bottomCenter" style="s1" xml:id="subtitle502">ちょっと一仕事 片付けちゃっていいかしら</p>
+<p begin="12981200000t" end="13009000000t" region="bottomCenter" style="s1" xml:id="subtitle503">能不能让我先把工作解决掉呢</p>
+<p begin="13386400000t" end="13400400000t" region="bottomCenter" style="s1" xml:id="subtitle504">す すごい</p>
+<p begin="13386400000t" end="13400400000t" region="bottomCenter" style="s1" xml:id="subtitle505">好  好厉害</p>
+<p begin="13444000000t" end="13458500000t" region="bottomCenter" style="s1" xml:id="subtitle506">も 戻った</p>
+<p begin="13444000000t" end="13458500000t" region="bottomCenter" style="s1" xml:id="subtitle507">变  变回来了</p>
+<p begin="13530600000t" end="13544500000t" region="bottomCenter" style="s1" xml:id="subtitle508">魔女は逃げたわ</p>
+<p begin="13530600000t" end="13544500000t" region="bottomCenter" style="s1" xml:id="subtitle509">魔女逃走了</p>
+<p begin="13548100000t" end="13571300000t" region="bottomCenter" style="s1" xml:id="subtitle510">仕留めたいならすぐに追いかけなさい</p>
+<p begin="13548100000t" end="13571300000t" region="bottomCenter" style="s1" xml:id="subtitle511">想要了结她的话就快点追上去</p>
+<p begin="13574500000t" end="13595500000t" region="bottomCenter" style="s1" xml:id="subtitle512">今回はあなたに譲ってあげる</p>
+<p begin="13574500000t" end="13595500000t" region="bottomCenter" style="s1" xml:id="subtitle513">这次就让给你了</p>
+<p begin="13599700000t" end="13616900000t" region="bottomCenter" style="s1" xml:id="subtitle514">私が用があるのは</p>
+<p begin="13599700000t" end="13616900000t" region="bottomCenter" style="s1" xml:id="subtitle515">我要找的是…</p>
+<p begin="13623500000t" end="13639900000t" region="bottomCenter" style="s1" xml:id="subtitle516">飲み込みが悪いのね</p>
+<p begin="13623500000t" end="13639900000t" region="bottomCenter" style="s1" xml:id="subtitle517">你还真不识趣呢</p>
+<p begin="13642000000t" end="13661000000t" region="bottomCenter" style="s1" xml:id="subtitle518">見逃してあげるって言ってるの</p>
+<p begin="13642000000t" end="13661000000t" region="bottomCenter" style="s1" xml:id="subtitle519">我是说想放你一马</p>
+<p begin="13704600000t" end="13742100000t" region="bottomCenter" style="s1" xml:id="subtitle520">お互い 余計なトラブルとは無縁でいたいと思わない</p>
+<p begin="13704600000t" end="13742100000t" region="bottomCenter" style="s1" xml:id="subtitle521">我们都不想惹上不必要的麻烦吧</p>
+<p begin="14031500000t" end="14057100000t" region="bottomCenter" style="s1" xml:id="subtitle522">ありがとうマミ 助かったよ</p>
+<p begin="14031500000t" end="14057100000t" region="bottomCenter" style="s1" xml:id="subtitle523">谢谢你  麻美  得救了</p>
+<p begin="14058600000t" end="14074400000t" region="bottomCenter" style="s1" xml:id="subtitle524">お礼はこの子たちに</p>
+<p begin="14058600000t" end="14074400000t" region="bottomCenter" style="s1" xml:id="subtitle525">要谢就谢谢这两位</p>
+<p begin="14078900000t" end="14102700000t" region="bottomCenter" style="s1" xml:id="subtitle526">私は通りかかっただけだから</p>
+<p begin="14078900000t" end="14102700000t" region="bottomCenter" style="s1" xml:id="subtitle527">我只是路过而已</p>
+<p begin="14108500000t" end="14140700000t" region="bottomCenter" style="s1" xml:id="subtitle528">どうもありがとう 僕の名前はキュゥべえ</p>
+<p begin="14108500000t" end="14140700000t" region="bottomCenter" style="s1" xml:id="subtitle529">非常感谢  我的名字是丘比</p>
+<p begin="14143600000t" end="14165100000t" region="bottomCenter" style="s1" xml:id="subtitle530">あなたが 私を呼んだの</p>
+<p begin="14143600000t" end="14165100000t" region="bottomCenter" style="s1" xml:id="subtitle531">是你在呼唤我吗</p>
+<p begin="14167400000t" end="14206000000t" region="bottomCenter" style="s1" xml:id="subtitle532">そうだよ 鹿目まどか それと美樹さやか</p>
+<p begin="14167400000t" end="14206000000t" region="bottomCenter" style="s1" xml:id="subtitle533">没错  鹿目圆  还有美树沙耶香</p>
+<p begin="14206800000t" end="14228500000t" region="bottomCenter" style="s1" xml:id="subtitle534">何で 私たちの名前を</p>
+<p begin="14206800000t" end="14228500000t" region="bottomCenter" style="s1" xml:id="subtitle535">你为什么知道我们的名字</p>
+<p begin="14232100000t" end="14260400000t" region="bottomCenter" style="s1" xml:id="subtitle536">僕 君たちにお願いがあって来たんだ</p>
+<p begin="14232100000t" end="14260400000t" region="bottomCenter" style="s1" xml:id="subtitle537">我有一个请求才来找你们的</p>
+<p begin="14274100000t" end="14284800000t" region="bottomCenter" style="s1" xml:id="subtitle538">お おねがい</p>
+<p begin="14274100000t" end="14284800000t" region="bottomCenter" style="s1" xml:id="subtitle539">请求？</p>
+<p begin="14295600000t" end="14335300000t" region="bottomCenter" style="s1" xml:id="subtitle540">僕と契約して 魔法少女になって欲しいんだ</p>
+<p begin="14295600000t" end="14335300000t" region="bottomCenter" style="s1" xml:id="subtitle541">希望你们和我签订契约  成为魔法少女</p>
+<p begin="14354800000t" end="14391700000t" region="bottomCenter" style="s1" xml:id="subtitle542">「それじゃ またね」って手を振って</p>
+<p begin="14354800000t" end="14391700000t" region="bottomCenter" style="s1" xml:id="subtitle543">「那么再见吧」我挥手说道</p>
+<p begin="14392900000t" end="14442500000t" region="bottomCenter" style="s1" xml:id="subtitle544">無理に笑って さみしくなって</p>
+<p begin="14392900000t" end="14442500000t" region="bottomCenter" style="s1" xml:id="subtitle545">勉强露出寂寞的微笑</p>
+<p begin="14518300000t" end="14589900000t" region="bottomCenter" style="s1" xml:id="subtitle546">交差点 信号 遠くのクラクション</p>
+<p begin="14518300000t" end="14589900000t" region="bottomCenter" style="s1" xml:id="subtitle547">十字路口 信号灯 远处的汽笛</p>
+<p begin="14591600000t" end="14660200000t" region="bottomCenter" style="s1" xml:id="subtitle548">知らない誰かの笑い合う声</p>
+<p begin="14591600000t" end="14660200000t" region="bottomCenter" style="s1" xml:id="subtitle549">陌生人的欢笑声</p>
+<p begin="14661700000t" end="14740300000t" region="bottomCenter" style="s1" xml:id="subtitle550">今日はひとりで歩く 通い慣れた街でも</p>
+<p begin="14661700000t" end="14740300000t" region="bottomCenter" style="s1" xml:id="subtitle551">今天一个人走在熟悉的街上</p>
+<p begin="14740700000t" end="14780600000t" region="bottomCenter" style="s1" xml:id="subtitle552">いつもよりなんだか</p>
+<p begin="14740700000t" end="14780600000t" region="bottomCenter" style="s1" xml:id="subtitle553">却莫名觉得</p>
+<p begin="14781900000t" end="14839400000t" region="bottomCenter" style="s1" xml:id="subtitle554">自分はちょっと小さく思えるよ</p>
+<p begin="14781900000t" end="14839400000t" region="bottomCenter" style="s1" xml:id="subtitle555">自己有些渺小</p>
+<p begin="14852200000t" end="14890800000t" region="bottomCenter" style="s1" xml:id="subtitle556">「それじゃ またね」って手を振って</p>
+<p begin="14852200000t" end="14890800000t" region="bottomCenter" style="s1" xml:id="subtitle557">「那么再见吧」我挥手说道</p>
+<p begin="14891700000t" end="14938200000t" region="bottomCenter" style="s1" xml:id="subtitle558">笑顔作って さみしくなった</p>
+<p begin="14891700000t" end="14938200000t" region="bottomCenter" style="s1" xml:id="subtitle559">挤出寂寞的笑脸</p>
+<p begin="14942500000t" end="15004700000t" region="bottomCenter" style="s1" xml:id="subtitle560">其实还想聊得更多</p>
+<p begin="14942600000t" end="15004800000t" region="bottomCenter" style="s1" xml:id="subtitle561">ホントはまだ話足りないけど</p>
+<p begin="15006000000t" end="15044800000t" region="bottomCenter" style="s1" xml:id="subtitle562">「それじゃ またね」って言葉って</p>
+<p begin="15006000000t" end="15044800000t" region="bottomCenter" style="s1" xml:id="subtitle563">「那么再见吧」这句话</p>
+<p begin="15045800000t" end="15091600000t" region="bottomCenter" style="s1" xml:id="subtitle564">また会えるって ウソをついて</p>
+<p begin="15045800000t" end="15091600000t" region="bottomCenter" style="s1" xml:id="subtitle565">还能再见的谎话</p>
+<p begin="15095000000t" end="15151500000t" region="bottomCenter" style="s1" xml:id="subtitle566">いつも通りの笑顔で言うよ</p>
+<p begin="15095000000t" end="15151500000t" region="bottomCenter" style="s1" xml:id="subtitle567">带着如同既往的笑脸说道</p>
+<p begin="15152600000t" end="15184700000t" region="bottomCenter" style="s1" xml:id="subtitle568">「また あした」</p>
+<p begin="15152600000t" end="15184700000t" region="bottomCenter" style="s1" xml:id="subtitle569">「明天再见」</p>
+<p begin="15257700000t" end="15295000000t" region="bottomCenter" style="s1" xml:id="subtitle570">僕は 君たちの願い事をなんでも一つ叶えてあげる</p>
+<p begin="15257700000t" end="15295000000t" region="bottomCenter" style="s1" xml:id="subtitle571">我可以实现你们任何一个愿望</p>
+<p begin="15295500000t" end="15307400000t" region="bottomCenter" style="s1" xml:id="subtitle572">えっ本当</p>
+<p begin="15295500000t" end="15307400000t" region="bottomCenter" style="s1" xml:id="subtitle573">哎  真的吗</p>
+<p begin="15307900000t" end="15318500000t" region="bottomCenter" style="s1" xml:id="subtitle574">願い事って</p>
+<p begin="15307900000t" end="15318500000t" region="bottomCenter" style="s1" xml:id="subtitle575">愿望是…</p>
+<p begin="15319000000t" end="15357200000t" region="bottomCenter" style="s1" xml:id="subtitle576">何だってかまわない どんな奇跡だって起こしてあげられるよ</p>
+<p begin="15319000000t" end="15357200000t" region="bottomCenter" style="s1" xml:id="subtitle577">什么都可以  无论是怎样的奇迹我都可以引发哦</p>
+<p begin="15359800000t" end="15398200000t" region="bottomCenter" style="s1" xml:id="subtitle578">第2话   我想那还真是令人高兴啊</p>
+<p begin="15359800000t" end="15398200000t" region="bottomCenter" style="s1" xml:id="subtitle579">第2话   我想那还真是令人高兴啊</p>
+<p begin="15359800000t" end="15398200000t" region="bottomCenter" style="s1" xml:id="subtitle580">第2话   我想那还真是令人高兴啊</p>
+<p begin="15359800000t" end="15398200000t" region="bottomCenter" style="s1" xml:id="subtitle581">第2话   我想那还真是令人高兴啊</p>
+<p begin="15359800000t" end="15398200000t" region="bottomCenter" style="s1" xml:id="subtitle582">第2话   我想那还真是令人高兴啊</p>
+<p begin="15359800000t" end="15398200000t" region="bottomCenter" style="s1" xml:id="subtitle583">第2话   我想那还真是令人高兴啊</p>
+<p begin="15359800000t" end="15398200000t" region="bottomCenter" style="s1" xml:id="subtitle584">第2话   我想那还真是令人高兴啊</p>
+<p begin="15359800000t" end="15398200000t" region="bottomCenter" style="s1" xml:id="subtitle585">第2话   我想那还真是令人高兴啊</p>
+<p begin="15359800000t" end="15398200000t" region="bottomCenter" style="s1" xml:id="subtitle586">第2话   我想那还真是令人高兴啊</p>
+<p begin="15359800000t" end="15398200000t" region="bottomCenter" style="s1" xml:id="subtitle587">第2话   我想那还真是令人高兴啊</p>
+<p begin="15359800000t" end="15398200000t" region="bottomCenter" style="s1" xml:id="subtitle588">第2话   我想那还真是令人高兴啊</p>
+<p begin="15359800000t" end="15398200000t" region="bottomCenter" style="s1" xml:id="subtitle589">第2话   我想那还真是令人高兴啊</p>
+<p begin="15359800000t" end="15398200000t" region="bottomCenter" style="s1" xml:id="subtitle590">第2话   我想那还真是令人高兴啊</p>
+<p begin="15359800000t" end="15398200000t" region="bottomCenter" style="s1" xml:id="subtitle591">第2话   我想那还真是令人高兴啊</p>
+<p begin="15359800000t" end="15398200000t" region="bottomCenter" style="s1" xml:id="subtitle592">第2话   我想那还真是令人高兴啊</p>
+<p begin="15359800000t" end="15398200000t" region="bottomCenter" style="s1" xml:id="subtitle593">第2话   我想那还真是令人高兴啊</p>
+<p begin="15359800000t" end="15398200000t" region="bottomCenter" style="s1" xml:id="subtitle594">第2话   我想那还真是令人高兴啊</p>
+<p begin="15359800000t" end="15398200000t" region="bottomCenter" style="s1" xml:id="subtitle595">第2话   我想那还真是令人高兴啊</p>
+<p begin="15359800000t" end="15398200000t" region="bottomCenter" style="s1" xml:id="subtitle596">第2话   我想那还真是令人高兴啊</p>
+<p begin="15359800000t" end="15398200000t" region="bottomCenter" style="s1" xml:id="subtitle597">第2话   我想那还真是令人高兴啊</p>
+<p begin="15359800000t" end="15398200000t" region="bottomCenter" style="s1" xml:id="subtitle598">第2话   我想那还真是令人高兴啊</p>
+<p begin="15359800000t" end="15398200000t" region="bottomCenter" style="s1" xml:id="subtitle599">第2话   我想那还真是令人高兴啊</p>
+<p begin="15359800000t" end="15398200000t" region="bottomCenter" style="s1" xml:id="subtitle600">第2话   我想那还真是令人高兴啊</p>
+<p begin="15359800000t" end="15398200000t" region="bottomCenter" style="s1" xml:id="subtitle601">第2话   我想那还真是令人高兴啊</p>
+<p begin="15359800000t" end="15398200000t" region="bottomCenter" style="s1" xml:id="subtitle602">第2话   我想那还真是令人高兴啊</p>
+</div>
+</body>
+</tt>

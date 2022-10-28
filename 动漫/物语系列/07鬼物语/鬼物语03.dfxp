@@ -1,0 +1,664 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="4700000t" end="14800000t" region="bottomCenter" style="s1" xml:id="subtitle0"><font face="FZZhunYuan-M02" size="33">{\an8}（记忆和回忆都磨损了）</font></p>
+<p begin="22600000t" end="63400000t" region="bottomCenter" style="s1" xml:id="subtitle1"><font face="FZZhunYuan-M02" size="45">这么说「黑暗」的真实情况到头来还是不知道吗</font></p>
+<p begin="66900000t" end="88200000t" region="bottomCenter" style="s1" xml:id="subtitle2"><font face="FZZhunYuan-M02" size="45">是啊  还是不知道啊</font></p>
+<p begin="102200000t" end="158600000t" region="bottomCenter" style="s1" xml:id="subtitle3"><font face="FZZhunYuan-M02" size="45">老实说  面对「黑暗」就算是全盛期的吾也是毫无办法</font></p>
+<p begin="162900000t" end="182000000t" region="bottomCenter" style="s1" xml:id="subtitle4"><font face="FZZhunYuan-M02" size="45">但是关于那一点我也不确定</font></p>
+<p begin="185300000t" end="198300000t" region="bottomCenter" style="s1" xml:id="subtitle5"><font face="FZZhunYuan-M02" size="45">那么  该怎么做呢？</font></p>
+<p begin="198300000t" end="201600000t" region="bottomCenter" style="s1" xml:id="subtitle6"><font face="FZZhunYuan-M02" size="33">{\an8}（谜团）</font></p>
+<p begin="201600000t" end="206600000t" region="bottomCenter" style="s1" xml:id="subtitle7"><font face="FZZhunYuan-M02" size="33">{\an8}（谜团引发谜团的谜之现象）</font></p>
+<p begin="206600000t" end="211200000t" region="bottomCenter" style="s1" xml:id="subtitle8"><font face="FZZhunYuan-M02" size="33">{\an8}（「黑暗」）</font></p>
+<p begin="207300000t" end="236000000t" region="bottomCenter" style="s1" xml:id="subtitle9"><font face="FZZhunYuan-M02" size="45">但是四百年前的那次不是没追来吗</font></p>
+<p begin="241000000t" end="278200000t" region="bottomCenter" style="s1" xml:id="subtitle10"><font face="FZZhunYuan-M02" size="45">那么这次不是也有可能到此告一段落…</font></p>
+<p begin="280100000t" end="311700000t" region="bottomCenter" style="s1" xml:id="subtitle11"><font face="FZZhunYuan-M02" size="45">可能是这样  也有可能不是这样</font></p>
+<p begin="314900000t" end="360600000t" region="bottomCenter" style="s1" xml:id="subtitle12"><font face="FZZhunYuan-M02" size="45">所以必须有所对策  最好能够由我们去进攻</font></p>
+<p begin="369800000t" end="412200000t" region="bottomCenter" style="s1" xml:id="subtitle13"><font face="FZZhunYuan-M02" size="45">要是等到这里的居民都消失了的话就太晚了</font></p>
+<p begin="409700000t" end="412200000t" region="bottomCenter" style="s1" xml:id="subtitle14"><font face="FZZhunYuan-M02" size="33">{\an8}（那倒没错）</font></p>
+<p begin="416200000t" end="436900000t" region="bottomCenter" style="s1" xml:id="subtitle15"><font face="FZZhunYuan-M02" size="45">这已经不仅是我和小忍的问题了</font></p>
+<p begin="444100000t" end="505300000t" region="bottomCenter" style="s1" xml:id="subtitle16"><font face="FZZhunYuan-M02" size="45">一想到这个小镇  我生活的小镇的居民有全部失踪的可能</font></p>
+<p begin="476900000t" end="479000000t" region="bottomCenter" style="s1" xml:id="subtitle17"><font face="FZZhunYuan-M02" size="33">{\an8}（战场原黑仪）</font></p>
+<p begin="479000000t" end="481100000t" region="bottomCenter" style="s1" xml:id="subtitle18"><font face="FZZhunYuan-M02" size="33">{\an8}（羽川翼）</font></p>
+<p begin="481100000t" end="483100000t" region="bottomCenter" style="s1" xml:id="subtitle19"><font face="FZZhunYuan-M02" size="33">{\an8}（神原骏河）</font></p>
+<p begin="483100000t" end="485200000t" region="bottomCenter" style="s1" xml:id="subtitle20"><font face="FZZhunYuan-M02" size="33">{\an8}（千石抚子）</font></p>
+<p begin="485200000t" end="487300000t" region="bottomCenter" style="s1" xml:id="subtitle21"><font face="FZZhunYuan-M02" size="33">{\an8}（阿良良木火怜）</font></p>
+<p begin="487300000t" end="489000000t" region="bottomCenter" style="s1" xml:id="subtitle22"><font face="FZZhunYuan-M02" size="33">{\an8}（阿良良木月火）</font></p>
+<p begin="507800000t" end="524600000t" region="bottomCenter" style="s1" xml:id="subtitle23"><font face="FZZhunYuan-M02" size="45">就不得不采取行动了</font></p>
+<p begin="535300000t" end="573700000t" region="bottomCenter" style="s1" xml:id="subtitle24"><font face="FZZhunYuan-M02" size="45">姑且等八九寺醒了之后把事情向她说明一下</font></p>
+<p begin="574500000t" end="598000000t" region="bottomCenter" style="s1" xml:id="subtitle25"><font face="FZZhunYuan-M02" size="45">然后和她分开之后再正式行动…</font></p>
+<p begin="598000000t" end="636000000t" region="bottomCenter" style="s1" xml:id="subtitle26"><font face="FZZhunYuan-M02" size="45">我觉得还是不要那么做为好  鬼哥哥</font></p>
+<p begin="634500000t" end="637000000t" region="bottomCenter" style="s1" xml:id="subtitle27"><font face="FZZhunYuan-M02" size="33">{\an8}（就像书签一样 —— 插了进来）</font></p>
+<p begin="639700000t" end="648600000t" region="bottomCenter" style="s1" xml:id="subtitle28"><font face="FZZhunYuan-M02" size="45">斧乃木妹妹</font></p>
+<p begin="653700000t" end="681000000t" region="bottomCenter" style="s1" xml:id="subtitle29"><font face="FZZhunYuan-M02" size="45">把这个后期高龄者的主张囫囵吞枣地接受</font></p>
+<p begin="682600000t" end="714600000t" region="bottomCenter" style="s1" xml:id="subtitle30"><font face="FZZhunYuan-M02" size="45">然后顺着她的花言巧语行动的话会吃苦头的哦</font></p>
+<p begin="726100000t" end="762800000t" region="bottomCenter" style="s1" xml:id="subtitle31"><font face="FZZhunYuan-M02" size="45">因为鬼哥哥有请我吃冰激凌的恩情</font></p>
+<p begin="770400000t" end="807200000t" region="bottomCenter" style="s1" xml:id="subtitle32"><font face="FZZhunYuan-M02" size="45">以防你盲目听从愚蠢怪异的教唆到时候倒大霉</font></p>
+<p begin="809600000t" end="821300000t" region="bottomCenter" style="s1" xml:id="subtitle33"><font face="FZZhunYuan-M02" size="45">我姑且还是忠告一句</font></p>
+<p begin="832200000t" end="837200000t" region="bottomCenter" style="s1" xml:id="subtitle34"><font face="FZZhunYuan-M02" size="33">{\an8}（不是  话说）</font></p>
+<p begin="847200000t" end="876500000t" region="bottomCenter" style="s1" xml:id="subtitle35"><font face="FZZhunYuan-M02" size="45">你们说的话我全都听到了  碰巧</font></p>
+<p begin="880500000t" end="934200000t" region="bottomCenter" style="s1" xml:id="subtitle36"><font face="FZZhunYuan-M02" size="45">哼  当着吾的面竟然还敢称吾为「后期高龄者」</font></p>
+<p begin="934200000t" end="963600000t" region="bottomCenter" style="s1" xml:id="subtitle37"><font face="FZZhunYuan-M02" size="45">真是令人感到意外  凭丧神姑娘</font></p>
+<p begin="967400000t" end="991400000t" region="bottomCenter" style="s1" xml:id="subtitle38"><font face="FZZhunYuan-M02" size="45">反正汝的内心都在颤抖了吧</font></p>
+<p begin="995300000t" end="1017200000t" region="bottomCenter" style="s1" xml:id="subtitle39"><font face="FZZhunYuan-M02" size="45">看在汝胆量的份上  吾就特别饶了你</font></p>
+<p begin="1017200000t" end="1055000000t" region="bottomCenter" style="s1" xml:id="subtitle40"><font face="FZZhunYuan-M02" size="45">就宽宏大量地不在一瞬间把汝吃掉好了</font></p>
+<p begin="1060900000t" end="1097400000t" region="bottomCenter" style="s1" xml:id="subtitle41"><font face="FZZhunYuan-M02" size="45">不好说吧  对于现在的你来说  很难把我怎么样吧</font></p>
+<p begin="1102200000t" end="1140400000t" region="bottomCenter" style="s1" xml:id="subtitle42"><font face="FZZhunYuan-M02" size="45">你真要这么说的话  我也不是不能陪你玩玩</font></p>
+<p begin="1186400000t" end="1200900000t" region="bottomCenter" style="s1" xml:id="subtitle43"><font face="FZZhunYuan-M02" size="45">哼  再战一场吗</font></p>
+<p begin="1207800000t" end="1227600000t" region="bottomCenter" style="s1" xml:id="subtitle44"><font face="FZZhunYuan-M02" size="45">喂  你们住手</font></p>
+<p begin="1237300000t" end="1249300000t" region="bottomCenter" style="s1" xml:id="subtitle45"><font face="FZZhunYuan-M02" size="45">话说回来  斧乃木妹妹</font></p>
+<p begin="1251600000t" end="1257400000t" region="bottomCenter" style="s1" xml:id="subtitle46"><font face="FZZhunYuan-M02" size="45">什么事？</font></p>
+<p begin="1260100000t" end="1294900000t" region="bottomCenter" style="s1" xml:id="subtitle47"><font face="FZZhunYuan-M02" size="45">为什么要特意在走廊里待命呢</font></p>
+<p begin="1299700000t" end="1320600000t" region="bottomCenter" style="s1" xml:id="subtitle48"><font face="FZZhunYuan-M02" size="45">还特地撒谎说是有工作要做</font></p>
+<p begin="1325300000t" end="1370500000t" region="bottomCenter" style="s1" xml:id="subtitle49"><font face="FZZhunYuan-M02" size="45">有工作要做可不是在说谎  只是预定时间延后了而已</font></p>
+<p begin="1388900000t" end="1428400000t" region="bottomCenter" style="s1" xml:id="subtitle50"><font face="FZZhunYuan-M02" size="45">怎么了？那边的后期高龄者的气量可是很小的</font></p>
+<p begin="1433400000t" end="1464100000t" region="bottomCenter" style="s1" xml:id="subtitle51"><font face="FZZhunYuan-M02" size="45">我是想如果我在场的话  她肯定不会痛快说话的</font></p>
+<p begin="1465600000t" end="1511600000t" region="bottomCenter" style="s1" xml:id="subtitle52"><font face="FZZhunYuan-M02" size="45">喂喂  别看错人了哟  吾哪里看上去是这么小器的人了</font></p>
+<p begin="1551700000t" end="1559200000t" region="bottomCenter" style="s1" xml:id="subtitle53"><font face="FZZhunYuan-M02" size="33">{\an8}（哪里看上去都很小）</font></p>
+<p begin="1559600000t" end="1659300000t" region="bottomCenter" style="s1" xml:id="subtitle54"><font face="FZZhunYuan-M02" size="36"><b>{\an8}本字幕仅供交流试看之用，如您喜欢本作品，请支持购买正版。<br />若因私自散布传播造成法律及相关一切问题，华盟字幕社概不负责。</b></font></p>
+<p begin="1559600000t" end="1659300000t" region="bottomCenter" style="s1" xml:id="subtitle55"><font face="FZZhunYuan-M02" size="36"><b>{\an8}翻译：wjsjwr、维京风暴；校对：痛爱的飞鱼；<br />歌词协力：信哉；后期：snow；繁化：阿爽。</b></font></p>
+<p begin="2160300000t" end="2189500000t" region="bottomCenter" style="s1" xml:id="subtitle56"><font face="FZZhunYuan-M02" size="33">{\an8}（第忍话  忍与时间  其三）</font></p>
+<p begin="2205500000t" end="2219200000t" region="bottomCenter" style="s1" xml:id="subtitle57"><font face="FZZhunYuan-M02" size="45">糟了  大意了</font></p>
+<p begin="2258400000t" end="2270400000t" region="bottomCenter" style="s1" xml:id="subtitle58"><font face="FZZhunYuan-M02" size="45">趁现在  我说汝啊</font></p>
+<p begin="2270400000t" end="2280400000t" region="bottomCenter" style="s1" xml:id="subtitle59"><font face="FZZhunYuan-M02" size="45">快上</font></p>
+<p begin="2283500000t" end="2308800000t" region="bottomCenter" style="s1" xml:id="subtitle60"><font face="FZZhunYuan-M02" size="45">别从一开始就把我当成你的同党</font></p>
+<p begin="2310200000t" end="2328800000t" region="bottomCenter" style="s1" xml:id="subtitle61"><font face="FZZhunYuan-M02" size="45">胸部让你随便摸哦</font></p>
+<p begin="2330800000t" end="2365000000t" region="bottomCenter" style="s1" xml:id="subtitle62"><font face="FZZhunYuan-M02" size="45">哎  这种事不是一对一的话  根本萌不起来</font></p>
+<p begin="2384700000t" end="2416600000t" region="bottomCenter" style="s1" xml:id="subtitle63"><font face="FZZhunYuan-M02" size="45">但是想想现在这种情况真的像是在做梦啊</font></p>
+<p begin="2420400000t" end="2441900000t" region="bottomCenter" style="s1" xml:id="subtitle64"><font face="FZZhunYuan-M02" size="45">在这个教室里  首先有我</font></p>
+<p begin="2443000000t" end="2479500000t" region="bottomCenter" style="s1" xml:id="subtitle65"><font face="FZZhunYuan-M02" size="45">在我的周围还有少女  幼女  和女童</font></p>
+<p begin="2483600000t" end="2509500000t" region="bottomCenter" style="s1" xml:id="subtitle66"><font face="FZZhunYuan-M02" size="45">怎么  莫非这就是传说中的桃花源吗</font></p>
+<p begin="2514000000t" end="2549000000t" region="bottomCenter" style="s1" xml:id="subtitle67"><font face="FZZhunYuan-M02" size="45">汝啊  心中的想法都说出来了哟</font></p>
+<p begin="2551100000t" end="2579100000t" region="bottomCenter" style="s1" xml:id="subtitle68"><font face="FZZhunYuan-M02" size="45">哦  真危险  刚好安全</font></p>
+<p begin="2581490000t" end="2605000000t" region="bottomCenter" style="s1" xml:id="subtitle69"><font face="FZZhunYuan-M02" size="45">你刚才的发言确实算是打了擦边球</font></p>
+<p begin="2609800000t" end="2649100000t" region="bottomCenter" style="s1" xml:id="subtitle70"><font face="FZZhunYuan-M02" size="45">有谁能想象得出这三个人同聚一堂的场景啊</font></p>
+<p begin="2651400000t" end="2669200000t" region="bottomCenter" style="s1" xml:id="subtitle71"><font face="FZZhunYuan-M02" size="45">这奖励关卡也太棒了</font></p>
+<p begin="2672000000t" end="2697000000t" region="bottomCenter" style="s1" xml:id="subtitle72"><font face="FZZhunYuan-M02" size="45">鬼哥哥似乎在那边偷笑呢</font></p>
+<p begin="2699400000t" end="2726800000t" region="bottomCenter" style="s1" xml:id="subtitle73"><font face="FZZhunYuan-M02" size="45">他就是那种男人  汝可是要注意了</font></p>
+<p begin="2728000000t" end="2763400000t" region="bottomCenter" style="s1" xml:id="subtitle74"><font face="FZZhunYuan-M02" size="45">被那种家伙吻了一下  汝这辈子就算搭上了</font></p>
+<p begin="2763400000t" end="2773000000t" region="bottomCenter" style="s1" xml:id="subtitle75"><font face="FZZhunYuan-M02" size="33">{\an8}（哎呀哎呀）</font></p>
+<p begin="2773000000t" end="2780500000t" region="bottomCenter" style="s1" xml:id="subtitle76"><font face="FZZhunYuan-M02" size="33">{\an8}（看来我故意演坏人还是有意义的）</font></p>
+<p begin="2789800000t" end="2838500000t" region="bottomCenter" style="s1" xml:id="subtitle77"><font face="FZZhunYuan-M02" size="45">话说正好趁这个机会  汝就明明白白地说清楚了</font></p>
+<p begin="2841400000t" end="2871000000t" region="bottomCenter" style="s1" xml:id="subtitle78"><font face="FZZhunYuan-M02" size="45">这里的三人中汝最喜欢哪个呀</font></p>
+<p begin="2872800000t" end="2876000000t" region="bottomCenter" style="s1" xml:id="subtitle79"><font face="FZZhunYuan-M02" size="45">哎？</font></p>
+<p begin="2876000000t" end="2878500000t" region="bottomCenter" style="s1" xml:id="subtitle80"><font face="FZZhunYuan-M02" size="33">{\an8}（修罗场啊）</font></p>
+<p begin="2881000000t" end="2907300000t" region="bottomCenter" style="s1" xml:id="subtitle81"><font face="FZZhunYuan-M02" size="45">是啊  这个必须得说清楚</font></p>
+<p begin="2907300000t" end="2909000000t" region="bottomCenter" style="s1" xml:id="subtitle82"><font face="FZZhunYuan-M02" size="33">{\an8}（连你也起哄）</font></p>
+<p begin="2911600000t" end="2946400000t" region="bottomCenter" style="s1" xml:id="subtitle83"><font face="FZZhunYuan-M02" size="45">呃  如果说是在你们三个人里选的话…</font></p>
+<p begin="2948700000t" end="2984100000t" region="bottomCenter" style="s1" xml:id="subtitle84"><font face="FZZhunYuan-M02" size="45">当然是一心同体而且又是同伴的小忍…</font></p>
+<p begin="2976500000t" end="2984100000t" region="bottomCenter" style="s1" xml:id="subtitle85"><font face="FZZhunYuan-M02" size="33">{\an8}（正室  忍野忍）</font></p>
+<p begin="2987100000t" end="2996300000t" region="bottomCenter" style="s1" xml:id="subtitle86"><font face="FZZhunYuan-M02" size="45">就决定是你啦</font></p>
+<p begin="3007100000t" end="3052500000t" region="bottomCenter" style="s1" xml:id="subtitle87"><font face="FZZhunYuan-M02" size="45">我倒是想听如果吾等不是一心同体不是同伴情况下的答案呢</font></p>
+<p begin="3052500000t" end="3054100000t" region="bottomCenter" style="s1" xml:id="subtitle88"><font face="FZZhunYuan-M02" size="33">{\an8}（进一步追问）</font></p>
+<p begin="3054100000t" end="3056600000t" region="bottomCenter" style="s1" xml:id="subtitle89"><font face="FZZhunYuan-M02" size="33">{\an8}（在这种情况下）</font></p>
+<p begin="3060700000t" end="3096700000t" region="bottomCenter" style="s1" xml:id="subtitle90"><font face="FZZhunYuan-M02" size="45">这明显就是迁怒嘛  根本就是赤裸裸的故意难为人</font></p>
+<p begin="3099100000t" end="3132100000t" region="bottomCenter" style="s1" xml:id="subtitle91"><font face="FZZhunYuan-M02" size="45">不不  比起此时此地的三人</font></p>
+<p begin="3134200000t" end="3173600000t" region="bottomCenter" style="s1" xml:id="subtitle92"><font face="FZZhunYuan-M02" size="45">不如说说吾和傲娇女还有猫班长</font></p>
+<p begin="3174300000t" end="3209700000t" region="bottomCenter" style="s1" xml:id="subtitle93"><font face="FZZhunYuan-M02" size="45">三人中只能选一人的话  汝会选谁呢</font></p>
+<p begin="3185900000t" end="3190900000t" region="bottomCenter" style="s1" xml:id="subtitle94"><font face="FZZhunYuan-M02" size="33">{\an8}（谁）</font></p>
+<p begin="3239200000t" end="3279200000t" region="bottomCenter" style="s1" xml:id="subtitle95"><font face="FZZhunYuan-M02" size="45">先不说这些  斧乃木妹妹  听了小忍的话你有什么想法吗</font></p>
+<p begin="3281800000t" end="3316800000t" region="bottomCenter" style="s1" xml:id="subtitle96"><font face="FZZhunYuan-M02" size="45">那怕对于「黑暗」还是一点头绪也没有也好</font></p>
+<p begin="3318400000t" end="3356500000t" region="bottomCenter" style="s1" xml:id="subtitle97"><font face="FZZhunYuan-M02" size="45">听了小忍的话之后有没有联想到什么呢</font></p>
+<p begin="3358200000t" end="3368800000t" region="bottomCenter" style="s1" xml:id="subtitle98"><font face="FZZhunYuan-M02" size="45">先不说这些？</font></p>
+<p begin="3381400000t" end="3439900000t" region="bottomCenter" style="s1" xml:id="subtitle99"><font face="FZZhunYuan-M02" size="45">对于鬼哥哥来说  最喜欢谁就是这么简单就能敷衍过去的事情吗</font></p>
+<p begin="3443200000t" end="3448300000t" region="bottomCenter" style="s1" xml:id="subtitle100"><font face="FZZhunYuan-M02" size="45">唔喵</font></p>
+<p begin="3453500000t" end="3479600000t" region="bottomCenter" style="s1" xml:id="subtitle101"><font face="FZZhunYuan-M02" size="45">唔喵  这是哪里啊</font></p>
+<p begin="3526700000t" end="3567100000t" region="bottomCenter" style="s1" xml:id="subtitle102"><font face="FZZhunYuan-M02" size="45">八九寺</font></p>
+<p begin="3725200000t" end="3726500000t" region="bottomCenter" style="s1" xml:id="subtitle103"><font face="FZZhunYuan-M02" size="33">{\an8}（八九寺的哀鸣）</font></p>
+<p begin="3726500000t" end="3728100000t" region="bottomCenter" style="s1" xml:id="subtitle104"><font face="FZZhunYuan-M02" size="33">{\an8}（真是太久没有听到）</font></p>
+<p begin="3728100000t" end="3732300000t" region="bottomCenter" style="s1" xml:id="subtitle105"><font face="FZZhunYuan-M02" size="33">{\an8}（就好像是舒心的古典音乐一般）</font></p>
+<p begin="3768300000t" end="3789400000t" region="bottomCenter" style="s1" xml:id="subtitle106"><font face="FZZhunYuan-M02" size="45">太好了  你醒了啊</font></p>
+<p begin="3790600000t" end="3812600000t" region="bottomCenter" style="s1" xml:id="subtitle107"><font face="FZZhunYuan-M02" size="45">自从你晕过去之后就完全醒不过来</font></p>
+<p begin="3812600000t" end="3826800000t" region="bottomCenter" style="s1" xml:id="subtitle108"><font face="FZZhunYuan-M02" size="45">我还想是不是撞到不该撞的地方…</font></p>
+<p begin="3827600000t" end="3847000000t" region="bottomCenter" style="s1" xml:id="subtitle109"><font face="FZZhunYuan-M02" size="45">是不是再也醒不过来了…</font></p>
+<p begin="3847800000t" end="3862000000t" region="bottomCenter" style="s1" xml:id="subtitle110"><font face="FZZhunYuan-M02" size="45">真是让我担心死了</font></p>
+<p begin="3863400000t" end="3888700000t" region="bottomCenter" style="s1" xml:id="subtitle111"><font face="FZZhunYuan-M02" size="45">不过太好了  你居然醒过来了</font></p>
+<p begin="3904700000t" end="3937900000t" region="bottomCenter" style="s1" xml:id="subtitle112"><font face="FZZhunYuan-M02" size="45">再让我摸摸  再让我舔舔  再让我吸吸</font></p>
+<p begin="4013400000t" end="4015100000t" region="bottomCenter" style="s1" xml:id="subtitle113"><font face="FZZhunYuan-M02" size="33">{\an8}（被咬了）</font></p>
+<p begin="4015100000t" end="4016800000t" region="bottomCenter" style="s1" xml:id="subtitle114"><font face="FZZhunYuan-M02" size="33">{\an8}（被咬了）</font></p>
+<p begin="4016800000t" end="4018400000t" region="bottomCenter" style="s1" xml:id="subtitle115"><font face="FZZhunYuan-M02" size="33">{\an8}（被咬了）</font></p>
+<p begin="4018400000t" end="4023400000t" region="bottomCenter" style="s1" xml:id="subtitle116"><font face="FZZhunYuan-M02" size="33">{\an8}（何等的幸福）</font></p>
+<p begin="4036200000t" end="4083000000t" region="bottomCenter" style="s1" xml:id="subtitle117"><font face="FZZhunYuan-M02" size="45">汝在开什么玩笑啊  竟然在吾面前堂而皇之地做这种事情  汝个蠢货</font></p>
+<p begin="4084000000t" end="4106000000t" region="bottomCenter" style="s1" xml:id="subtitle118"><font face="FZZhunYuan-M02" size="45">至于我嘛  不知不觉也凑了个热闹</font></p>
+<p begin="4106000000t" end="4109800000t" region="bottomCenter" style="s1" xml:id="subtitle119"><font face="FZZhunYuan-M02" size="33">{\an8}（被打了个落花流水）</font></p>
+<p begin="4109800000t" end="4111400000t" region="bottomCenter" style="s1" xml:id="subtitle120"><font face="FZZhunYuan-M02" size="33">{\an8}（拳打脚踢挨了个遍）</font></p>
+<p begin="4111400000t" end="4113100000t" region="bottomCenter" style="s1" xml:id="subtitle121"><font face="FZZhunYuan-M02" size="33">{\an8}（往轻的说是私刑）</font></p>
+<p begin="4113100000t" end="4115600000t" region="bottomCenter" style="s1" xml:id="subtitle122"><font face="FZZhunYuan-M02" size="33">{\an8}（往重的说就是…）</font></p>
+<p begin="4125900000t" end="4140600000t" region="bottomCenter" style="s1" xml:id="subtitle123"><font face="FZZhunYuan-M02" size="45">等…等一下  你们几个</font></p>
+<p begin="4159100000t" end="4175200000t" region="bottomCenter" style="s1" xml:id="subtitle124"><font face="FZZhunYuan-M02" size="45">你们的心情可以理解但是请冷静一下</font></p>
+<p begin="4179400000t" end="4195800000t" region="bottomCenter" style="s1" xml:id="subtitle125"><font face="FZZhunYuan-M02" size="45">现在是做这些事情的时候吗？</font></p>
+<p begin="4197400000t" end="4199000000t" region="bottomCenter" style="s1" xml:id="subtitle126"><font face="FZZhunYuan-M02" size="33">{\an8}（哪怕是由谁来说都好）</font></p>
+<p begin="4199000000t" end="4200700000t" region="bottomCenter" style="s1" xml:id="subtitle127"><font face="FZZhunYuan-M02" size="33">{\an8}（这句台词唯独不应该从我的嘴里说出）</font></p>
+<p begin="4227000000t" end="4249600000t" region="bottomCenter" style="s1" xml:id="subtitle128"><font face="FZZhunYuan-M02" size="45">话说回来  八九寺  你真的没事吗</font></p>
+<p begin="4255900000t" end="4280800000t" region="bottomCenter" style="s1" xml:id="subtitle129"><font face="FZZhunYuan-M02" size="45">从刚才的望闻问切来看应该没有什么大碍</font></p>
+<p begin="4282700000t" end="4296200000t" region="bottomCenter" style="s1" xml:id="subtitle130"><font face="FZZhunYuan-M02" size="45">阁下是医生么</font></p>
+<p begin="4315500000t" end="4337200000t" region="bottomCenter" style="s1" xml:id="subtitle131"><font face="FZZhunYuan-M02" size="45">大丈夫  萌大奶</font></p>
+<p begin="4338600000t" end="4367900000t" region="bottomCenter" style="s1" xml:id="subtitle132"><font face="FZZhunYuan-M02" size="45">数值正常  状态全绿  Perfect！</font></p>
+<p begin="4373800000t" end="4426700000t" region="bottomCenter" style="s1" xml:id="subtitle133"><font face="FZZhunYuan-M02" size="45">本来那个来历不明的东西对我来说就完全不是问题  阿良良木先生</font></p>
+<p begin="4433400000t" end="4437600000t" region="bottomCenter" style="s1" xml:id="subtitle134"><font face="FZZhunYuan-M02" size="33">{\an8}（明明当时那么惊慌失措来着）</font></p>
+<p begin="4437600000t" end="4443400000t" region="bottomCenter" style="s1" xml:id="subtitle135"><font face="FZZhunYuan-M02" size="33">{\an8}（这样一来  我也知道你的胆子有多大了）</font></p>
+<p begin="4445400000t" end="4466000000t" region="bottomCenter" style="s1" xml:id="subtitle136"><font face="FZZhunYuan-M02" size="45">不过还是要谢谢你  阿良良木先生</font></p>
+<p begin="4472700000t" end="4507100000t" region="bottomCenter" style="s1" xml:id="subtitle137"><font face="FZZhunYuan-M02" size="45">喂喂  虽说熟人之间也要讲礼仪</font></p>
+<p begin="4509600000t" end="4541000000t" region="bottomCenter" style="s1" xml:id="subtitle138"><font face="FZZhunYuan-M02" size="45">但是我和你之间还讲这个实在是太见外了</font></p>
+<p begin="4544000000t" end="4575200000t" region="bottomCenter" style="s1" xml:id="subtitle139"><font face="FZZhunYuan-M02" size="45">不  我不是指刚才的拥抱</font></p>
+<p begin="4577500000t" end="4618300000t" region="bottomCenter" style="s1" xml:id="subtitle140"><font face="FZZhunYuan-M02" size="45">而是指你没有丢下我而是带着我一起逃走的事情</font></p>
+<p begin="4622400000t" end="4688700000t" region="bottomCenter" style="s1" xml:id="subtitle141"><font face="FZZhunYuan-M02" size="45">碰到那种情况  我还以为阿良良木先生会丢下我一个人自己逃跑呢</font></p>
+<p begin="4694200000t" end="4713300000t" region="bottomCenter" style="s1" xml:id="subtitle142"><font face="FZZhunYuan-M02" size="45">哇  信用度为零啊</font></p>
+<p begin="4711600000t" end="4713300000t" region="bottomCenter" style="s1" xml:id="subtitle143"><font face="FZZhunYuan-M02" size="33">{\an8}（真是深受打击）</font></p>
+<p begin="4715200000t" end="4753900000t" region="bottomCenter" style="s1" xml:id="subtitle144"><font face="FZZhunYuan-M02" size="45">另外  你还遵守交通规则  我也感到非常欣慰</font></p>
+<p begin="4757800000t" end="4782200000t" region="bottomCenter" style="s1" xml:id="subtitle145"><font face="FZZhunYuan-M02" size="45">那也是为了照顾我的感情吧</font></p>
+<p begin="4790800000t" end="4798800000t" region="bottomCenter" style="s1" xml:id="subtitle146"><font face="FZZhunYuan-M02" size="45">八九寺…</font></p>
+<p begin="4802400000t" end="4851200000t" region="bottomCenter" style="s1" xml:id="subtitle147"><font face="FZZhunYuan-M02" size="45">不过就算你没有遵守我也不会在意的  我又不是那么神经质的人</font></p>
+<p begin="4853900000t" end="4869300000t" region="bottomCenter" style="s1" xml:id="subtitle148"><font face="FZZhunYuan-M02" size="45">我对你实在是太失望了！</font></p>
+<p begin="4869300000t" end="4871800000t" region="bottomCenter" style="s1" xml:id="subtitle149"><font face="FZZhunYuan-M02" size="33">{\an8}（不）</font></p>
+<p begin="4871800000t" end="4873400000t" region="bottomCenter" style="s1" xml:id="subtitle150"><font face="FZZhunYuan-M02" size="33">{\an8}（最后还是无视信号灯了）</font></p>
+<p begin="4873400000t" end="4877200000t" region="bottomCenter" style="s1" xml:id="subtitle151"><font face="FZZhunYuan-M02" size="33">{\an8}（然后就遭到了天谴）</font></p>
+<p begin="4888200000t" end="4925600000t" region="bottomCenter" style="s1" xml:id="subtitle152"><font face="FZZhunYuan-M02" size="45">那么诸位  就在我苏醒的这一伟大时刻来扭转战局吧！</font></p>
+<p begin="4929500000t" end="4950300000t" region="bottomCenter" style="s1" xml:id="subtitle153"><font face="FZZhunYuan-M02" size="45">给我听好了  忍小姐  斧乃木小姐</font></p>
+<p begin="4954200000t" end="5009400000t" region="bottomCenter" style="s1" xml:id="subtitle154"><font face="FZZhunYuan-M02" size="45">虽然我非常尊重二位的个性  但这次请你们和我保持步调一致</font></p>
+<p begin="5012800000t" end="5042400000t" region="bottomCenter" style="s1" xml:id="subtitle155"><font face="FZZhunYuan-M02" size="45">今天是考验我们团队合作的日子</font></p>
+<p begin="5047500000t" end="5057100000t" region="bottomCenter" style="s1" xml:id="subtitle156"><font face="FZZhunYuan-M02" size="45">是…是！</font></p>
+<p begin="5057900000t" end="5061600000t" region="bottomCenter" style="s1" xml:id="subtitle157"><font face="FZZhunYuan-M02" size="45">嗯</font></p>
+<p begin="5067900000t" end="5081500000t" region="bottomCenter" style="s1" xml:id="subtitle158"><font face="FZZhunYuan-M02" size="45">不知为何八九寺在发号施令</font></p>
+<p begin="5082400000t" end="5099900000t" region="bottomCenter" style="s1" xml:id="subtitle159"><font face="FZZhunYuan-M02" size="33">{\an8}（历  独白/思考）</font></p>
+<p begin="5084300000t" end="5097900000t" region="bottomCenter" style="s1" xml:id="subtitle160"><font face="FZZhunYuan-M02" size="45">不知为何另外两个人对她言听计从</font></p>
+<p begin="5112700000t" end="5149600000t" region="bottomCenter" style="s1" xml:id="subtitle161"><font face="FZZhunYuan-M02" size="45">本次行动代号为Gold  请报告现在的状况</font></p>
+<p begin="5151400000t" end="5156200000t" region="bottomCenter" style="s1" xml:id="subtitle162"><font face="FZZhunYuan-M02" size="45">是！</font></p>
+<p begin="5160390000t" end="5199190000t" region="bottomCenter" style="s1" xml:id="subtitle163"><font face="FZZhunYuan-M02" size="45">…喂  汝还是识相一点为好</font></p>
+<p begin="5199190000t" end="5202500000t" region="bottomCenter" style="s1" xml:id="subtitle164"><font face="FZZhunYuan-M02" size="33">{\an8}（八九寺的三天皇帝结束了）</font></p>
+<p begin="5206590000t" end="5213900000t" region="bottomCenter" style="s1" xml:id="subtitle165"><font face="FZZhunYuan-M02" size="45">不然就吃了汝哦</font></p>
+<p begin="5223800000t" end="5245100000t" region="bottomCenter" style="s1" xml:id="subtitle166"><font face="FZZhunYuan-M02" size="45">你能不能吃掉我还是个问题呢</font></p>
+<p begin="5262600000t" end="5264300000t" region="bottomCenter" style="s1" xml:id="subtitle167"><font face="FZZhunYuan-M02" size="33">{\an8}（让人由衷地感到一种隐藏了实力的感觉）</font></p>
+<p begin="5264300000t" end="5266800000t" region="bottomCenter" style="s1" xml:id="subtitle168"><font face="FZZhunYuan-M02" size="33">{\an8}（莫非是被双盘吸虫寄生了？）</font></p>
+<p begin="5266800000t" end="5270500000t" region="bottomCenter" style="s1" xml:id="subtitle169"><font face="FZZhunYuan-M02" size="33">{\an8}（究极之护体）</font></p>
+<p begin="5285800000t" end="5311100000t" region="bottomCenter" style="s1" xml:id="subtitle170"><font face="FZZhunYuan-M02" size="45">鬼哥哥  关于刚才的话题…</font></p>
+<p begin="5318500000t" end="5323500000t" region="bottomCenter" style="s1" xml:id="subtitle171"><font face="FZZhunYuan-M02" size="33">{\an8}找我有事的话就像刚才那样</font></p>
+<p begin="5318500000t" end="5323500000t" region="bottomCenter" style="s1" xml:id="subtitle172"><font face="FZZhunYuan-M02" size="33">{\an8}用吻来叫我就行了嘛</font></p>
+<p begin="5318500000t" end="5323500000t" region="bottomCenter" style="s1" xml:id="subtitle173"><font face="FZZhunYuan-M02" size="33">{\an8}真是个害羞的孩子</font></p>
+<p begin="5326400000t" end="5338600000t" region="bottomCenter" style="s1" xml:id="subtitle174"><font face="FZZhunYuan-M02" size="45">刚才的话题是指…？</font></p>
+<p begin="5341100000t" end="5418700000t" region="bottomCenter" style="s1" xml:id="subtitle175"><font face="FZZhunYuan-M02" size="45">关于头绪  听了后期高龄者的话之后有没有什么新想法的那个</font></p>
+<p begin="5421100000t" end="5433600000t" region="bottomCenter" style="s1" xml:id="subtitle176"><font face="FZZhunYuan-M02" size="33">{\an8}（历  声音/台词）</font></p>
+<p begin="5423800000t" end="5446400000t" region="bottomCenter" style="s1" xml:id="subtitle177"><font face="FZZhunYuan-M02" size="45">斧乃木妹妹  不好意思</font></p>
+<p begin="5448400000t" end="5494800000t" region="bottomCenter" style="s1" xml:id="subtitle178"><font face="FZZhunYuan-M02" size="45">从现在开始能不能不要把小忍叫成后期高龄者</font></p>
+<p begin="5501000000t" end="5556600000t" region="bottomCenter" style="s1" xml:id="subtitle179"><font face="FZZhunYuan-M02" size="45">再说后期高龄者这个词  现在也渐渐被时代所淘汰了</font></p>
+<p begin="5559800000t" end="5573700000t" region="bottomCenter" style="s1" xml:id="subtitle180"><font face="FZZhunYuan-M02" size="45">那我应该叫她什么呢</font></p>
+<p begin="5576200000t" end="5593700000t" region="bottomCenter" style="s1" xml:id="subtitle181"><font face="FZZhunYuan-M02" size="45">鬼姐姐之类的</font></p>
+<p begin="5593700000t" end="5595800000t" region="bottomCenter" style="s1" xml:id="subtitle182"><font face="FZZhunYuan-M02" size="33">{\an8}（忍=八岁）</font></p>
+<p begin="5595800000t" end="5598300000t" region="bottomCenter" style="s1" xml:id="subtitle183"><font face="FZZhunYuan-M02" size="33">{\an8}（八九寺=十岁）</font></p>
+<p begin="5598300000t" end="5601700000t" region="bottomCenter" style="s1" xml:id="subtitle184"><font face="FZZhunYuan-M02" size="33">{\an8}（斧乃木=十二岁）</font></p>
+<p begin="5607900000t" end="5628400000t" region="bottomCenter" style="s1" xml:id="subtitle185"><font face="FZZhunYuan-M02" size="45">那就叫她怪异杀手吧</font></p>
+<p begin="5628800000t" end="5630900000t" region="bottomCenter" style="s1" xml:id="subtitle186"><font face="FZZhunYuan-M02" size="33">{\an8}（怪异杀手）</font></p>
+<p begin="5630900000t" end="5633000000t" region="bottomCenter" style="s1" xml:id="subtitle187"><font face="FZZhunYuan-M02" size="33">{\an8}姬丝秀忒·</font></p>
+<p begin="5630900000t" end="5633000000t" region="bottomCenter" style="s1" xml:id="subtitle188"><font face="FZZhunYuan-M02" size="33">{\an8}雅赛劳拉莉昂·</font></p>
+<p begin="5630900000t" end="5633000000t" region="bottomCenter" style="s1" xml:id="subtitle189"><font face="FZZhunYuan-M02" size="33">{\an8}刃下心</font></p>
+<p begin="5630900000t" end="5633000000t" region="bottomCenter" style="s1" xml:id="subtitle190"><font face="FZZhunYuan-M02" size="33">{\an8}以前</font></p>
+<p begin="5633000000t" end="5636700000t" region="bottomCenter" style="s1" xml:id="subtitle191"><font face="FZZhunYuan-M02" size="33">{\an8}忍野忍</font></p>
+<p begin="5633000000t" end="5636700000t" region="bottomCenter" style="s1" xml:id="subtitle192"><font face="FZZhunYuan-M02" size="33">{\an8}现在</font></p>
+<p begin="5639900000t" end="5686800000t" region="bottomCenter" style="s1" xml:id="subtitle193"><font face="FZZhunYuan-M02" size="45">呃  算了  这里就给鬼哥哥一点面子吧</font></p>
+<p begin="5695900000t" end="5701400000t" region="bottomCenter" style="s1" xml:id="subtitle194"><font face="FZZhunYuan-M02" size="33">{\an8}（由凭丧神引发的「不能浪费」的精神吗）</font></p>
+<p begin="5703600000t" end="5765800000t" region="bottomCenter" style="s1" xml:id="subtitle195"><font face="FZZhunYuan-M02" size="45">让我把碰巧从那个怪异杀手口中听到的归纳总结起来的话…</font></p>
+<p begin="5769600000t" end="5787200000t" region="bottomCenter" style="s1" xml:id="subtitle196"><font face="FZZhunYuan-M02" size="45">哦…想到什么了吗</font></p>
+<p begin="5784800000t" end="5787700000t" region="bottomCenter" style="s1" xml:id="subtitle197"><font face="FZZhunYuan-M02" size="33">{\an8}（引发谜团的谜团）</font></p>
+<p begin="5787700000t" end="5790600000t" region="bottomCenter" style="s1" xml:id="subtitle198"><font face="FZZhunYuan-M02" size="33">{\an8}（只留下了无尽的绝望）</font></p>
+<p begin="5790600000t" end="5795200000t" region="bottomCenter" style="s1" xml:id="subtitle199"><font face="FZZhunYuan-M02" size="33">{\an8}（就是这种状况）</font></p>
+<p begin="5798300000t" end="5832300000t" region="bottomCenter" style="s1" xml:id="subtitle200"><font face="FZZhunYuan-M02" size="45">那个不是怪异  而是怪异之外的某种东西</font></p>
+<p begin="5837000000t" end="5885200000t" region="bottomCenter" style="s1" xml:id="subtitle201"><font face="FZZhunYuan-M02" size="45">所以怪异杀手  以及初代怪异杀手也拿它没有办法</font></p>
+<p begin="5889900000t" end="5919000000t" region="bottomCenter" style="s1" xml:id="subtitle202"><font face="FZZhunYuan-M02" size="45">那是理所当然的  因为它是遵循不同的规则运行的</font></p>
+<p begin="5926700000t" end="5953800000t" region="bottomCenter" style="s1" xml:id="subtitle203"><font face="FZZhunYuan-M02" size="45">鬼哥哥自然也是拿他没办法的</font></p>
+<p begin="5955400000t" end="5957900000t" region="bottomCenter" style="s1" xml:id="subtitle204"><font face="FZZhunYuan-M02" size="33">{\an8}（但是——）</font></p>
+<p begin="5961200000t" end="5980600000t" region="bottomCenter" style="s1" xml:id="subtitle205"><font face="FZZhunYuan-M02" size="45">不是怪异的话那又是什么呢</font></p>
+<p begin="5982400000t" end="6017900000t" region="bottomCenter" style="s1" xml:id="subtitle206"><font face="FZZhunYuan-M02" size="45">那个「黑暗」到底是什么东西呢</font></p>
+<p begin="6017900000t" end="6020400000t" region="bottomCenter" style="s1" xml:id="subtitle207"><font face="FZZhunYuan-M02" size="33">{\an8}（就像是「黑暗」本身）</font></p>
+<p begin="6020400000t" end="6023800000t" region="bottomCenter" style="s1" xml:id="subtitle208"><font face="FZZhunYuan-M02" size="33">{\an8}（完全不知道）</font></p>
+<p begin="6027400000t" end="6075800000t" region="bottomCenter" style="s1" xml:id="subtitle209"><font face="FZZhunYuan-M02" size="45">具体的名字我也不知道  但是我知道知道它名字的人</font></p>
+<p begin="6077900000t" end="6110500000t" region="bottomCenter" style="s1" xml:id="subtitle210"><font face="FZZhunYuan-M02" size="45">那究竟是谁知道那个「黑暗」的真正来历呢</font></p>
+<p begin="6113600000t" end="6124300000t" region="bottomCenter" style="s1" xml:id="subtitle211"><font face="FZZhunYuan-M02" size="45">卧烟伊豆湖</font></p>
+<p begin="6124300000t" end="6129300000t" region="bottomCenter" style="s1" xml:id="subtitle212"><font face="FZZhunYuan-M02" size="33">{\an8}（卧烟伊豆湖）</font></p>
+<p begin="6133500000t" end="6153100000t" region="bottomCenter" style="s1" xml:id="subtitle213"><font face="FZZhunYuan-M02" size="45">她什么都知道</font></p>
+<p begin="6188900000t" end="6191400000t" region="bottomCenter" style="s1" xml:id="subtitle214"><font face="FZZhunYuan-M02" size="33">{\an8}（突然就出现了）</font></p>
+<p begin="6191400000t" end="6193900000t" region="bottomCenter" style="s1" xml:id="subtitle215"><font face="FZZhunYuan-M02" size="33">{\an8}（突然就出现在那里了）</font></p>
+<p begin="6193900000t" end="6197700000t" region="bottomCenter" style="s1" xml:id="subtitle216"><font face="FZZhunYuan-M02" size="33">{\an8}（「黑暗」就在那边）</font></p>
+<p begin="6215200000t" end="6216900000t" region="bottomCenter" style="s1" xml:id="subtitle217"><font face="FZZhunYuan-M02" size="33">{\an8}（八九寺真宵）</font></p>
+<p begin="6227300000t" end="6228500000t" region="bottomCenter" style="s1" xml:id="subtitle218"><font face="FZZhunYuan-M02" size="33">{\an8}（忍野忍）</font></p>
+<p begin="6238600000t" end="6240200000t" region="bottomCenter" style="s1" xml:id="subtitle219"><font face="FZZhunYuan-M02" size="33">{\an8}（斧乃木余接）</font></p>
+<p begin="6250200000t" end="6252700000t" region="bottomCenter" style="s1" xml:id="subtitle220"><font face="FZZhunYuan-M02" size="33">{\an8}（还有我）</font></p>
+<p begin="6262700000t" end="6264800000t" region="bottomCenter" style="s1" xml:id="subtitle221"><font face="FZZhunYuan-M02" size="33">{\an8}（都在颤栗）</font></p>
+<p begin="6264800000t" end="6267800000t" region="bottomCenter" style="s1" xml:id="subtitle222"><font face="FZZhunYuan-M02" size="33">{\an8}（说不出一句话）</font></p>
+<p begin="6267800000t" end="6269400000t" region="bottomCenter" style="s1" xml:id="subtitle223"><font face="FZZhunYuan-M02" size="33">{\an8}（大意了啊）</font></p>
+<p begin="6286400000t" end="6300600000t" region="bottomCenter" style="s1" xml:id="subtitle224"><font face="FZZhunYuan-M02" size="45">大家快跑</font></p>
+<p begin="6304800000t" end="6309500000t" region="bottomCenter" style="s1" xml:id="subtitle225"><font face="FZZhunYuan-M02" size="45">哦</font></p>
+<p begin="6309500000t" end="6312800000t" region="bottomCenter" style="s1" xml:id="subtitle226"><font face="FZZhunYuan-M02" size="33">{\an8}（逃？）</font></p>
+<p begin="6312800000t" end="6316600000t" region="bottomCenter" style="s1" xml:id="subtitle227"><font face="FZZhunYuan-M02" size="33">{\an8}（但是怎么逃？）</font></p>
+<p begin="6327000000t" end="6328600000t" region="bottomCenter" style="s1" xml:id="subtitle228"><font face="FZZhunYuan-M02" size="33">{\an8}（怎样才能逃走？）</font></p>
+<p begin="6328600000t" end="6331600000t" region="bottomCenter" style="s1" xml:id="subtitle229"><font face="FZZhunYuan-M02" size="33">{\an8}（不是这样吗？）</font></p>
+<p begin="6331600000t" end="6335700000t" region="bottomCenter" style="s1" xml:id="subtitle230"><font face="FZZhunYuan-M02" size="33">{\an8}（不）</font></p>
+<p begin="6352400000t" end="6359400000t" region="bottomCenter" style="s1" xml:id="subtitle231"><font face="FZZhunYuan-M02" size="45">八九寺</font></p>
+<p begin="6378200000t" end="6385800000t" region="bottomCenter" style="s1" xml:id="subtitle232"><font face="FZZhunYuan-M02" size="45">到我这边来</font></p>
+<p begin="6385800000t" end="6389100000t" region="bottomCenter" style="s1" xml:id="subtitle233"><font face="FZZhunYuan-M02" size="33">{\an8}只有对于八九寺</font></p>
+<p begin="6385800000t" end="6389100000t" region="bottomCenter" style="s1" xml:id="subtitle234"><font face="FZZhunYuan-M02" size="33">{\an8}只有对于她</font></p>
+<p begin="6385800000t" end="6389100000t" region="bottomCenter" style="s1" xml:id="subtitle235"><font face="FZZhunYuan-M02" size="33">{\an8}不得不采取些对策</font></p>
+<p begin="6389100000t" end="6391200000t" region="bottomCenter" style="s1" xml:id="subtitle236"><font face="FZZhunYuan-M02" size="33">{\an8}（那么至少）</font></p>
+<p begin="6391200000t" end="6393300000t" region="bottomCenter" style="s1" xml:id="subtitle237"><font face="FZZhunYuan-M02" size="33">{\an8}（希望她能到我这边）</font></p>
+<p begin="6400300000t" end="6404600000t" region="bottomCenter" style="s1" xml:id="subtitle238"><font face="FZZhunYuan-M02" size="45">是</font></p>
+<p begin="6417900000t" end="6422100000t" region="bottomCenter" style="s1" xml:id="subtitle239"><font face="FZZhunYuan-M02" size="33">{\an8}（不能在这里死去）</font></p>
+<p begin="6443000000t" end="6454200000t" region="bottomCenter" style="s1" xml:id="subtitle240"><font face="FZZhunYuan-M02" size="45">斧乃木妹妹  趁现在</font></p>
+<p begin="6455900000t" end="6486700000t" region="bottomCenter" style="s1" xml:id="subtitle241"><font face="FZZhunYuan-M02" size="45">哎  鬼哥哥你也太大胆了</font></p>
+<p begin="6490400000t" end="6533900000t" region="bottomCenter" style="s1" xml:id="subtitle242"><font face="FZZhunYuan-M02" size="45">住手啊  别摸奇怪的地方  这种时候你在想些什么</font></p>
+<p begin="6537200000t" end="6588900000t" region="bottomCenter" style="s1" xml:id="subtitle243"><font face="FZZhunYuan-M02" size="45">倒是你在想些什么啊  赶紧逃啊  斧乃木妹妹  就像刚才那样</font></p>
+<p begin="6591000000t" end="6644000000t" region="bottomCenter" style="s1" xml:id="subtitle244"><font face="FZZhunYuan-M02" size="45">啊  你是这个意思…多数例外规则</font></p>
+<p begin="6644000000t" end="6646900000t" region="bottomCenter" style="s1" xml:id="subtitle245"><font face="FZZhunYuan-M02" size="33">{\an8}<font size="26">Unlimited Rulebook</font></font></p>
+<p begin="6644000000t" end="6646900000t" region="bottomCenter" style="s1" xml:id="subtitle246"><font face="FZZhunYuan-M02" size="33">{\an8}（多数例外规则）</font></p>
+<p begin="6657500000t" end="6665500000t" region="bottomCenter" style="s1" xml:id="subtitle247"><font face="FZZhunYuan-M02" size="45">脱离版</font></p>
+<p begin="6780700000t" end="6792400000t" region="bottomCenter" style="s1" xml:id="subtitle248"><font face="FZZhunYuan-M02" size="45">这里是哪里啊</font></p>
+<p begin="6795800000t" end="6821200000t" region="bottomCenter" style="s1" xml:id="subtitle249"><font face="FZZhunYuan-M02" size="45">我也不知道  鬼哥哥</font></p>
+<p begin="6821200000t" end="6826200000t" region="bottomCenter" style="s1" xml:id="subtitle250"><font face="FZZhunYuan-M02" size="33">{\an8}（瞬间移动）</font></p>
+<p begin="6831000000t" end="6858700000t" region="bottomCenter" style="s1" xml:id="subtitle251"><font face="FZZhunYuan-M02" size="45">没有追过来吧  那个「黑暗」</font></p>
+<p begin="6861800000t" end="6872400000t" region="bottomCenter" style="s1" xml:id="subtitle252"><font face="FZZhunYuan-M02" size="45">看是去是这样的</font></p>
+<p begin="6877400000t" end="6908700000t" region="bottomCenter" style="s1" xml:id="subtitle253"><font face="FZZhunYuan-M02" size="45">那个…看来它的确不擅长应对上下移动</font></p>
+<p begin="6914000000t" end="6949500000t" region="bottomCenter" style="s1" xml:id="subtitle254"><font face="FZZhunYuan-M02" size="45">怪异杀手在四百年前也是这么逃走的</font></p>
+<p begin="6952000000t" end="6974700000t" region="bottomCenter" style="s1" xml:id="subtitle255"><font face="FZZhunYuan-M02" size="45">这次往上逃也算是选对了</font></p>
+<p begin="6976400000t" end="6978900000t" region="bottomCenter" style="s1" xml:id="subtitle256"><font face="FZZhunYuan-M02" size="33">{\an8}（光是没被甩下去就已经烧高香了）</font></p>
+<p begin="6986400000t" end="7018800000t" region="bottomCenter" style="s1" xml:id="subtitle257"><font face="FZZhunYuan-M02" size="45">话说…八九寺怎么样了  该不会是被甩下去了吧</font></p>
+<p begin="7021600000t" end="7067400000t" region="bottomCenter" style="s1" xml:id="subtitle258"><font face="FZZhunYuan-M02" size="45">没有问题  因为鬼哥哥牢牢地抓住了她的胸部</font></p>
+<p begin="7073900000t" end="7087600000t" region="bottomCenter" style="s1" xml:id="subtitle259"><font face="FZZhunYuan-M02" size="45">她现在在那边的树荫底下睡着了</font></p>
+<p begin="7089000000t" end="7094000000t" region="bottomCenter" style="s1" xml:id="subtitle260"><font face="FZZhunYuan-M02" size="33">{\an8}（……）</font></p>
+<p begin="7094000000t" end="7097800000t" region="bottomCenter" style="s1" xml:id="subtitle261"><font face="FZZhunYuan-M02" size="33">{\an8}（在不处于逆境的时候还真是毫无防备呢）</font></p>
+<p begin="7097800000t" end="7102300000t" region="bottomCenter" style="s1" xml:id="subtitle262"><font face="FZZhunYuan-M02" size="33">{\an8}（这家伙的神经到底怎么长的）</font></p>
+<p begin="7105500000t" end="7118000000t" region="bottomCenter" style="s1" xml:id="subtitle263"><font face="FZZhunYuan-M02" size="45">现在几点了啊</font></p>
+<p begin="7123400000t" end="7154100000t" region="bottomCenter" style="s1" xml:id="subtitle264"><font face="FZZhunYuan-M02" size="45">或者说  我昏睡了多长时间</font></p>
+<p begin="7158700000t" end="7175100000t" region="bottomCenter" style="s1" xml:id="subtitle265"><font face="FZZhunYuan-M02" size="45">要说多长时间的话</font></p>
+<p begin="7179900000t" end="7217000000t" region="bottomCenter" style="s1" xml:id="subtitle266"><font face="FZZhunYuan-M02" size="45">大概是让我和八九寺小姐尽兴地玩了一阵的时间</font></p>
+<p begin="7218700000t" end="7235400000t" region="bottomCenter" style="s1" xml:id="subtitle267"><font face="FZZhunYuan-M02" size="45">你们对着昏睡的我做了些什么啊</font></p>
+<p begin="7244600000t" end="7273000000t" region="bottomCenter" style="s1" xml:id="subtitle268"><font face="FZZhunYuan-M02" size="45">话说居然叫她八九寺小姐  你俩到底是有多要好啊</font></p>
+<p begin="7280000000t" end="7316300000t" region="bottomCenter" style="s1" xml:id="subtitle269"><font face="FZZhunYuan-M02" size="45">具体说的话是一晚上  从傍晚开始一直到现在</font></p>
+<p begin="7319400000t" end="7340700000t" region="bottomCenter" style="s1" xml:id="subtitle270"><font face="FZZhunYuan-M02" size="45">差不多快十二小时了吧</font></p>
+<p begin="7343900000t" end="7354700000t" region="bottomCenter" style="s1" xml:id="subtitle271"><font face="FZZhunYuan-M02" size="45">十二小时</font></p>
+<p begin="7354700000t" end="7359700000t" region="bottomCenter" style="s1" xml:id="subtitle272"><font face="FZZhunYuan-M02" size="33">{\an8}（那还真是睡了好久啊）</font></p>
+<p begin="7363200000t" end="7426000000t" region="bottomCenter" style="s1" xml:id="subtitle273"><font face="FZZhunYuan-M02" size="45">小心起见  上下移动它就不会追过来的法则也只不过是经验之谈</font></p>
+<p begin="7429900000t" end="7468400000t" region="bottomCenter" style="s1" xml:id="subtitle274"><font face="FZZhunYuan-M02" size="45">说到底也就只限于现在的情况  下次能不能成功就不得而知了</font></p>
+<p begin="7471800000t" end="7526300000t" region="bottomCenter" style="s1" xml:id="subtitle275"><font face="FZZhunYuan-M02" size="45">嗯  且不说经验  那个「黑暗」根本就不遵循法则</font></p>
+<p begin="7531100000t" end="7539900000t" region="bottomCenter" style="s1" xml:id="subtitle276"><font face="FZZhunYuan-M02" size="45">它到底是什么东西</font></p>
+<p begin="7539900000t" end="7544900000t" region="bottomCenter" style="s1" xml:id="subtitle277"><font face="FZZhunYuan-M02" size="33">{\an8}（倒不如一直追着还让人感到舒服一点）</font></p>
+<p begin="7547900000t" end="7555800000t" region="bottomCenter" style="s1" xml:id="subtitle278"><font face="FZZhunYuan-M02" size="45">八九寺呢</font></p>
+<p begin="7615400000t" end="7619100000t" region="bottomCenter" style="s1" xml:id="subtitle279"><font face="FZZhunYuan-M02" size="33">{\an8}（八九寺看上去还是非常健康）</font></p>
+<p begin="7629900000t" end="7633700000t" region="bottomCenter" style="s1" xml:id="subtitle280"><font face="FZZhunYuan-M02" size="33">{\an8}（触碰着确认一下确实没错）</font></p>
+<p begin="7644500000t" end="7647900000t" region="bottomCenter" style="s1" xml:id="subtitle281"><font face="FZZhunYuan-M02" size="33">{\an8}（相当健康）</font></p>
+<p begin="7651100000t" end="7701900000t" region="bottomCenter" style="s1" xml:id="subtitle282"><font face="FZZhunYuan-M02" size="45">那么  要怎么做呢  现在连这里是哪儿都不知道</font></p>
+<p begin="7710400000t" end="7714200000t" region="bottomCenter" style="s1" xml:id="subtitle283"><font face="FZZhunYuan-M02" size="33">{\an8}（当然没信号）</font></p>
+<p begin="7716000000t" end="7758200000t" region="bottomCenter" style="s1" xml:id="subtitle284"><font face="FZZhunYuan-M02" size="45">虽然很想作出反击  但是反击对它有效么</font></p>
+<p begin="7762300000t" end="7804600000t" region="bottomCenter" style="s1" xml:id="subtitle285"><font face="FZZhunYuan-M02" size="45">而且那个东西是不是真的针对我们其实也不清楚</font></p>
+<p begin="7810000000t" end="7848600000t" region="bottomCenter" style="s1" xml:id="subtitle286"><font face="FZZhunYuan-M02" size="45">针对小忍的推测  说是经验之谈的话也只不过是经验之谈</font></p>
+<p begin="7854400000t" end="7888100000t" region="bottomCenter" style="s1" xml:id="subtitle287"><font face="FZZhunYuan-M02" size="45">作为反击的基准  首先要做的是开口问</font></p>
+<p begin="7890600000t" end="7896300000t" region="bottomCenter" style="s1" xml:id="subtitle288"><font face="FZZhunYuan-M02" size="45">问？</font></p>
+<p begin="7898000000t" end="7910300000t" region="bottomCenter" style="s1" xml:id="subtitle289"><font face="FZZhunYuan-M02" size="45">就是收集情报</font></p>
+<p begin="7916700000t" end="7955800000t" region="bottomCenter" style="s1" xml:id="subtitle290"><font face="FZZhunYuan-M02" size="45">那家伙出现前一刻我说的话你忘了吗</font></p>
+<p begin="7960600000t" end="7996600000t" region="bottomCenter" style="s1" xml:id="subtitle291"><font face="FZZhunYuan-M02" size="45">我不是说过  那个并非怪异的现象  有人是知道的</font></p>
+<p begin="7997400000t" end="7999100000t" region="bottomCenter" style="s1" xml:id="subtitle292"><font face="FZZhunYuan-M02" size="33">{\an8}（就像书签一样 —— 插了进来）</font></p>
+<p begin="7999100000t" end="8000300000t" region="bottomCenter" style="s1" xml:id="subtitle293"><font face="FZZhunYuan-M02" size="33">{\an8}（看来我故意演坏人还是有意义的）</font></p>
+<p begin="8000300000t" end="8002000000t" region="bottomCenter" style="s1" xml:id="subtitle294"><font face="FZZhunYuan-M02" size="33">{\an8}（连你也起哄）</font></p>
+<p begin="8002000000t" end="8003700000t" region="bottomCenter" style="s1" xml:id="subtitle295"><font face="FZZhunYuan-M02" size="33">{\an8}（哪怕是由谁来说都好）</font></p>
+<p begin="8003700000t" end="8005300000t" region="bottomCenter" style="s1" xml:id="subtitle296"><font face="FZZhunYuan-M02" size="33">{\an8}找我有事的话就像刚才那样</font></p>
+<p begin="8003700000t" end="8005300000t" region="bottomCenter" style="s1" xml:id="subtitle297"><font face="FZZhunYuan-M02" size="33">{\an8}用吻来叫我就行了嘛</font></p>
+<p begin="8003700000t" end="8005300000t" region="bottomCenter" style="s1" xml:id="subtitle298"><font face="FZZhunYuan-M02" size="33">{\an8}真是个害羞的孩子</font></p>
+<p begin="8005300000t" end="8007000000t" region="bottomCenter" style="s1" xml:id="subtitle299"><font face="FZZhunYuan-M02" size="33">{\an8}（怪异杀手）</font></p>
+<p begin="8007000000t" end="8008700000t" region="bottomCenter" style="s1" xml:id="subtitle300"><font face="FZZhunYuan-M02" size="33">{\an8}（由凭丧神引发的「不能浪费」的精神吗）</font></p>
+<p begin="8008700000t" end="8012000000t" region="bottomCenter" style="s1" xml:id="subtitle301"><font face="FZZhunYuan-M02" size="33">{\an8}（卧烟伊豆湖）</font></p>
+<p begin="8014700000t" end="8021600000t" region="bottomCenter" style="s1" xml:id="subtitle302"><font face="FZZhunYuan-M02" size="45">卧烟…</font></p>
+<p begin="8030000000t" end="8065100000t" region="bottomCenter" style="s1" xml:id="subtitle303"><font face="FZZhunYuan-M02" size="45">卧烟伊豆湖  只要和那个人询问就好了吗</font></p>
+<p begin="8069900000t" end="8092800000t" region="bottomCenter" style="s1" xml:id="subtitle304"><font face="FZZhunYuan-M02" size="45">好像是影缝小姐的熟人吧</font></p>
+<p begin="8095600000t" end="8142300000t" region="bottomCenter" style="s1" xml:id="subtitle305"><font face="FZZhunYuan-M02" size="45">也就是说  首先要向身为联络人的影缝小姐打听情报了</font></p>
+<p begin="8150600000t" end="8174600000t" region="bottomCenter" style="s1" xml:id="subtitle306"><font face="FZZhunYuan-M02" size="45">斧乃木妹妹  工作不要紧吗</font></p>
+<p begin="8177100000t" end="8190200000t" region="bottomCenter" style="s1" xml:id="subtitle307"><font face="FZZhunYuan-M02" size="45">当然要紧了</font></p>
+<p begin="8192200000t" end="8229600000t" region="bottomCenter" style="s1" xml:id="subtitle308"><font face="FZZhunYuan-M02" size="45">不过  现在这状况也没法放心地回去工作啊</font></p>
+<p begin="8236300000t" end="8254700000t" region="bottomCenter" style="s1" xml:id="subtitle309"><font face="FZZhunYuan-M02" size="45">我也不是那么无情</font></p>
+<p begin="8261200000t" end="8285900000t" region="bottomCenter" style="s1" xml:id="subtitle310"><font face="FZZhunYuan-M02" size="45">能和影缝小姐取得联系吗</font></p>
+<p begin="8290700000t" end="8335000000t" region="bottomCenter" style="s1" xml:id="subtitle311"><font face="FZZhunYuan-M02" size="45">作为最后手段  还是有几个可以联系到姐姐的办法的</font></p>
+<p begin="8337400000t" end="8367900000t" region="bottomCenter" style="s1" xml:id="subtitle312"><font face="FZZhunYuan-M02" size="45">但这些办法在这深山里都没法用</font></p>
+<p begin="8370600000t" end="8392400000t" region="bottomCenter" style="s1" xml:id="subtitle313"><font face="FZZhunYuan-M02" size="45">你们不能通过心灵感应什么的沟通一下吗</font></p>
+<p begin="8393900000t" end="8401200000t" region="bottomCenter" style="s1" xml:id="subtitle314"><font face="FZZhunYuan-M02" size="45">很不巧</font></p>
+<p begin="8402700000t" end="8424900000t" region="bottomCenter" style="s1" xml:id="subtitle315"><font face="FZZhunYuan-M02" size="45">我们的联系并没有那么紧密</font></p>
+<p begin="8428600000t" end="8464900000t" region="bottomCenter" style="s1" xml:id="subtitle316"><font face="FZZhunYuan-M02" size="45">只能等下山后  用电话或是邮件什么的联系她了</font></p>
+<p begin="8477900000t" end="8479500000t" region="bottomCenter" style="s1" xml:id="subtitle317"><font face="FZZhunYuan-M02" size="33">{\an8}（但是）</font></p>
+<p begin="8479500000t" end="8482000000t" region="bottomCenter" style="s1" xml:id="subtitle318"><font face="FZZhunYuan-M02" size="33">{\an8}（姐姐她到了万不得已的时候）</font></p>
+<p begin="8482000000t" end="8485800000t" region="bottomCenter" style="s1" xml:id="subtitle319"><font face="FZZhunYuan-M02" size="33">{\an8}（应该是会毫不犹豫地抛弃我的）</font></p>
+<p begin="8502600000t" end="8521400000t" region="bottomCenter" style="s1" xml:id="subtitle320"><font face="FZZhunYuan-M02" size="45">话说回来  鬼哥哥</font></p>
+<p begin="8526200000t" end="8570900000t" region="bottomCenter" style="s1" xml:id="subtitle321"><font face="FZZhunYuan-M02" size="45">是不是该把怪异杀手从影子里拉出来了</font></p>
+<p begin="8570900000t" end="8573000000t" region="bottomCenter" style="s1" xml:id="subtitle322"><font face="FZZhunYuan-M02" size="33">{\an8}（哎？）</font></p>
+<p begin="8577800000t" end="8613600000t" region="bottomCenter" style="s1" xml:id="subtitle323"><font face="FZZhunYuan-M02" size="45">不知她是讨厌和我说话  还是在悠闲地睡大觉</font></p>
+<p begin="8616200000t" end="8640100000t" region="bottomCenter" style="s1" xml:id="subtitle324"><font face="FZZhunYuan-M02" size="45">总之从在这里着陆到现在她都没出来过</font></p>
+<p begin="8640100000t" end="8645100000t" region="bottomCenter" style="s1" xml:id="subtitle325"><font face="FZZhunYuan-M02" size="28">{\an7}这么说来</font></p>
+<p begin="8640100000t" end="8645100000t" region="bottomCenter" style="s1" xml:id="subtitle326"><font face="FZZhunYuan-M02" size="28">{\an7}忍确实不在——不</font></p>
+<p begin="8640100000t" end="8645100000t" region="bottomCenter" style="s1" xml:id="subtitle327"><font face="FZZhunYuan-M02" size="28">{\an7}对于她不在场这件事</font></p>
+<p begin="8640100000t" end="8645100000t" region="bottomCenter" style="s1" xml:id="subtitle328"><font face="FZZhunYuan-M02" size="28">{\an7}我从一开始就察觉到了</font></p>
+<p begin="8640100000t" end="8645100000t" region="bottomCenter" style="s1" xml:id="subtitle329"><font face="FZZhunYuan-M02" size="28">{\an7}所以说</font></p>
+<p begin="8640100000t" end="8645100000t" region="bottomCenter" style="s1" xml:id="subtitle330"><font face="FZZhunYuan-M02" size="28">{\an7}我就自然而然地以为忍还在我的影子里——</font></p>
+<p begin="8640100000t" end="8645100000t" region="bottomCenter" style="s1" xml:id="subtitle331"><font face="FZZhunYuan-M02" size="28">{\an7}和斧乃木妹妹还有八九寺不同</font></p>
+<p begin="8640100000t" end="8645100000t" region="bottomCenter" style="s1" xml:id="subtitle332"><font face="FZZhunYuan-M02" size="28">{\an7}我和忍之间是不会「失散」的</font></p>
+<p begin="8645100000t" end="8647200000t" region="bottomCenter" style="s1" xml:id="subtitle333"><font face="FZZhunYuan-M02" size="33">{\an8}（通过影子）</font></p>
+<p begin="8647200000t" end="8650100000t" region="bottomCenter" style="s1" xml:id="subtitle334"><font face="FZZhunYuan-M02" size="33">{\an8}（通过心——）</font></p>
+<p begin="8650100000t" end="8653500000t" region="bottomCenter" style="s1" xml:id="subtitle335"><font face="FZZhunYuan-M02" size="33">{\an8}（通过存在本身，互相紧密联系着）</font></p>
+<p begin="8654800000t" end="8661800000t" region="bottomCenter" style="s1" xml:id="subtitle336"><font face="FZZhunYuan-M02" size="45">忍她？</font></p>
+<p begin="8661800000t" end="8666800000t" region="bottomCenter" style="s1" xml:id="subtitle337"><font face="FZZhunYuan-M02" size="33">{\an7}我们不会分开——也就是说</font></p>
+<p begin="8661800000t" end="8666800000t" region="bottomCenter" style="s1" xml:id="subtitle338"><font face="FZZhunYuan-M02" size="33">{\an7}在这里看不到忍的身影的话</font></p>
+<p begin="8661800000t" end="8666800000t" region="bottomCenter" style="s1" xml:id="subtitle339"><font face="FZZhunYuan-M02" size="33">{\an7}归结为一种理所当然的理论，那家伙现在</font></p>
+<p begin="8661800000t" end="8666800000t" region="bottomCenter" style="s1" xml:id="subtitle340"><font face="FZZhunYuan-M02" size="33">{\an7}肯定还是在我的影子里</font></p>
+<p begin="8666800000t" end="8668900000t" region="bottomCenter" style="s1" xml:id="subtitle341"><font face="FZZhunYuan-M02" size="33">{\an8}（——可是）</font></p>
+<p begin="8668900000t" end="8671800000t" region="bottomCenter" style="s1" xml:id="subtitle342"><font face="FZZhunYuan-M02" size="33">{\an8}（可是）</font></p>
+<p begin="8671800000t" end="8675200000t" region="bottomCenter" style="s1" xml:id="subtitle343"><font face="FZZhunYuan-M02" size="33">{\an8}（仔细想想的话又有点奇怪）</font></p>
+<p begin="8677800000t" end="8692700000t" region="bottomCenter" style="s1" xml:id="subtitle344"><font face="FZZhunYuan-M02" size="45">因为现在是夜晚</font></p>
+<p begin="8692700000t" end="8697700000t" region="bottomCenter" style="s1" xml:id="subtitle345"><font face="FZZhunYuan-M02" size="33">{\an7}已经接近黎明</font></p>
+<p begin="8692700000t" end="8697700000t" region="bottomCenter" style="s1" xml:id="subtitle346"><font face="FZZhunYuan-M02" size="33">{\an7}虽然不能算作午夜</font></p>
+<p begin="8692700000t" end="8697700000t" region="bottomCenter" style="s1" xml:id="subtitle347"><font face="FZZhunYuan-M02" size="33">{\an7}但现在还是可以被归在「夜晚」的范畴</font></p>
+<p begin="8692700000t" end="8697700000t" region="bottomCenter" style="s1" xml:id="subtitle348"><font face="FZZhunYuan-M02" size="33">{\an7}这一点是没有错的——</font></p>
+<p begin="8697700000t" end="8701400000t" region="bottomCenter" style="s1" xml:id="subtitle349"><font face="FZZhunYuan-M02" size="33">{\an8}（尚未天明）</font></p>
+<p begin="8703800000t" end="8714700000t" region="bottomCenter" style="s1" xml:id="subtitle350"><font face="FZZhunYuan-M02" size="45">可那又是为什么…</font></p>
+<p begin="8719600000t" end="8739400000t" region="bottomCenter" style="s1" xml:id="subtitle351"><font face="FZZhunYuan-M02" size="45">为什么小忍没有醒</font></p>
+<p begin="8746700000t" end="8784000000t" region="bottomCenter" style="s1" xml:id="subtitle352"><font face="FZZhunYuan-M02" size="45">为什么…鬼哥哥  你就算问我…</font></p>
+<p begin="8784000000t" end="8786500000t" region="bottomCenter" style="s1" xml:id="subtitle353"><font face="FZZhunYuan-M02" size="33">{\an8}（强烈的不协调感）</font></p>
+<p begin="8788800000t" end="8795500000t" region="bottomCenter" style="s1" xml:id="subtitle354"><font face="FZZhunYuan-M02" size="45">我也没法回答</font></p>
+<p begin="8799100000t" end="8834100000t" region="bottomCenter" style="s1" xml:id="subtitle355"><font face="FZZhunYuan-M02" size="45">或者说  也许是她讨厌我吧</font></p>
+<p begin="8835600000t" end="8843000000t" region="bottomCenter" style="s1" xml:id="subtitle356"><font face="FZZhunYuan-M02" size="45">的确</font></p>
+<p begin="8846400000t" end="8869500000t" region="bottomCenter" style="s1" xml:id="subtitle357"><font face="FZZhunYuan-M02" size="45">小忍是不喜欢你</font></p>
+<p begin="8871800000t" end="8886000000t" region="bottomCenter" style="s1" xml:id="subtitle358"><font face="FZZhunYuan-M02" size="45">但仅凭这个理由</font></p>
+<p begin="8887600000t" end="8921600000t" region="bottomCenter" style="s1" xml:id="subtitle359"><font face="FZZhunYuan-M02" size="45">她应该不会在这个关键的时候如字面一般躲在影子里的</font></p>
+<p begin="8925900000t" end="8941900000t" region="bottomCenter" style="s1" xml:id="subtitle360"><font face="FZZhunYuan-M02" size="45">她不是这种人</font></p>
+<p begin="8948300000t" end="8961600000t" region="bottomCenter" style="s1" xml:id="subtitle361"><font face="FZZhunYuan-M02" size="45">你还挺信赖她的</font></p>
+<p begin="8998200000t" end="9019000000t" region="bottomCenter" style="s1" xml:id="subtitle362"><font face="FZZhunYuan-M02" size="45">那又是怎么回事</font></p>
+<p begin="9024200000t" end="9061100000t" region="bottomCenter" style="s1" xml:id="subtitle363"><font face="FZZhunYuan-M02" size="45">虽然我也不相信  但她会不会是在影子里晕过去了</font></p>
+<p begin="9064200000t" end="9091800000t" region="bottomCenter" style="s1" xml:id="subtitle364"><font face="FZZhunYuan-M02" size="45">或是因为什么理由受了重伤</font></p>
+<p begin="9094300000t" end="9126900000t" region="bottomCenter" style="s1" xml:id="subtitle365"><font face="FZZhunYuan-M02" size="45">在影子里也会受重伤吗</font></p>
+<p begin="9131000000t" end="9155600000t" region="bottomCenter" style="s1" xml:id="subtitle366"><font face="FZZhunYuan-M02" size="45">那里就像忍的超空间一样</font></p>
+<p begin="9157900000t" end="9191400000t" region="bottomCenter" style="s1" xml:id="subtitle367"><font face="FZZhunYuan-M02" size="45">应该是不会发生物理性冲击的</font></p>
+<p begin="9204400000t" end="9206900000t" region="bottomCenter" style="s1" xml:id="subtitle368"><font face="FZZhunYuan-M02" size="33">{\an8}（虽说是月光映照下的浅影，但那确实是我的影子——）</font></p>
+<p begin="9206900000t" end="9210700000t" region="bottomCenter" style="s1" xml:id="subtitle369"><font face="FZZhunYuan-M02" size="33">{\an8}（忍应该就在那里面）</font></p>
+<p begin="9210700000t" end="9215700000t" region="bottomCenter" style="s1" xml:id="subtitle370"><font face="FZZhunYuan-M02" size="33">{\an8}（不在就奇怪了——）</font></p>
+<p begin="9244700000t" end="9276600000t" region="bottomCenter" style="s1" xml:id="subtitle371"><font face="FZZhunYuan-M02" size="45">斧乃木妹妹  这样的话  就只有和你接吻一个办法了</font></p>
+<p begin="9287800000t" end="9301200000t" region="bottomCenter" style="s1" xml:id="subtitle372"><font face="FZZhunYuan-M02" size="45">你是怎么得出这个结论的</font></p>
+<p begin="9305500000t" end="9352900000t" region="bottomCenter" style="s1" xml:id="subtitle373"><font face="FZZhunYuan-M02" size="45">就像昨天一样  只能用这种行为的刺激来唤醒小忍</font></p>
+<p begin="9356200000t" end="9363500000t" region="bottomCenter" style="s1" xml:id="subtitle374"><font face="FZZhunYuan-M02" size="45">只有接吻</font></p>
+<p begin="9367500000t" end="9379200000t" region="bottomCenter" style="s1" xml:id="subtitle375"><font face="FZZhunYuan-M02" size="45">只有舌吻这一个办法了</font></p>
+<p begin="9379200000t" end="9382100000t" region="bottomCenter" style="s1" xml:id="subtitle376"><font face="FZZhunYuan-M02" size="33">{\an8}（没有其他办法）</font></p>
+<p begin="9382100000t" end="9385500000t" region="bottomCenter" style="s1" xml:id="subtitle377"><font face="FZZhunYuan-M02" size="33">{\an8}（只能靠双唇贴合）</font></p>
+<p begin="9385500000t" end="9390000000t" region="bottomCenter" style="s1" xml:id="subtitle378"><font face="FZZhunYuan-M02" size="33">{\an8}（没有其他选项！）</font></p>
+<p begin="9395200000t" end="9416700000t" region="bottomCenter" style="s1" xml:id="subtitle379"><font face="FZZhunYuan-M02" size="45">如果你非要这么做的话也可以</font></p>
+<p begin="9420600000t" end="9429600000t" region="bottomCenter" style="s1" xml:id="subtitle380"><font face="FZZhunYuan-M02" size="45">但总觉得好讨厌</font></p>
+<p begin="9430500000t" end="9434300000t" region="bottomCenter" style="s1" xml:id="subtitle381"><font face="FZZhunYuan-M02" size="33">{\an8}（好讨厌）</font></p>
+<p begin="9444200000t" end="9449300000t" region="bottomCenter" style="s1" xml:id="subtitle382"><font face="FZZhunYuan-M02" size="45">那个  阿良良木先生</font></p>
+<p begin="9449300000t" end="9458900000t" region="bottomCenter" style="s1" xml:id="subtitle383"><font face="FZZhunYuan-M02" size="45">那个  阿良良木先生</font></p>
+<p begin="9471100000t" end="9487200000t" region="bottomCenter" style="s1" xml:id="subtitle384"><font face="FZZhunYuan-M02" size="45">什么嘛八九寺  你嫉妒了？</font></p>
+<p begin="9492000000t" end="9516800000t" region="bottomCenter" style="s1" xml:id="subtitle385"><font face="FZZhunYuan-M02" size="45">要不把接吻的对象换成你也可以哦</font></p>
+<p begin="9520400000t" end="9543900000t" region="bottomCenter" style="s1" xml:id="subtitle386"><font face="FZZhunYuan-M02" size="45">既然你有这个想法早说不就行了</font></p>
+<p begin="9554400000t" end="9569800000t" region="bottomCenter" style="s1" xml:id="subtitle387"><font face="FZZhunYuan-M02" size="45">请你死一下  阿良良木先生</font></p>
+<p begin="9572300000t" end="9599800000t" region="bottomCenter" style="s1" xml:id="subtitle388"><font face="FZZhunYuan-M02" size="45">…不对  请你等一下  阿良良木先生</font></p>
+<p begin="9602000000t" end="9624200000t" region="bottomCenter" style="s1" xml:id="subtitle389"><font face="FZZhunYuan-M02" size="45">为什么我必须要等啊</font></p>
+<p begin="9627500000t" end="9642800000t" region="bottomCenter" style="s1" xml:id="subtitle390"><font face="FZZhunYuan-M02" size="45">我正要和斧乃木妹妹接吻呢</font></p>
+<p begin="9645000000t" end="9680800000t" region="bottomCenter" style="s1" xml:id="subtitle391"><font face="FZZhunYuan-M02" size="45">不  阿良良木先生  就算你有无数个理由</font></p>
+<p begin="9683100000t" end="9720400000t" region="bottomCenter" style="s1" xml:id="subtitle392"><font face="FZZhunYuan-M02" size="45">但在那之前  在那以前  关于忍小姐…</font></p>
+<p begin="9725400000t" end="9753200000t" region="bottomCenter" style="s1" xml:id="subtitle393"><font face="FZZhunYuan-M02" size="45">就是说  其实她并不在影子里吧</font></p>
+<p begin="9756800000t" end="9768000000t" region="bottomCenter" style="s1" xml:id="subtitle394"><font face="FZZhunYuan-M02" size="45">那个人  现在</font></p>
+<p begin="9775900000t" end="9791700000t" region="bottomCenter" style="s1" xml:id="subtitle395"><font face="FZZhunYuan-M02" size="45">不  怎么可能不在…</font></p>
+<p begin="9791700000t" end="9794200000t" region="bottomCenter" style="s1" xml:id="subtitle396"><font face="FZZhunYuan-M02" size="33">{\an8}（也许是在睡觉）</font></p>
+<p begin="9794200000t" end="9797500000t" region="bottomCenter" style="s1" xml:id="subtitle397"><font face="FZZhunYuan-M02" size="33">{\an8}（也许是失去了意识……）</font></p>
+<p begin="9804600000t" end="9813800000t" region="bottomCenter" style="s1" xml:id="subtitle398"><font face="FZZhunYuan-M02" size="45">鬼哥哥  让我试一下</font></p>
+<p begin="9813800000t" end="9823800000t" region="bottomCenter" style="s1" xml:id="subtitle399"><font face="FZZhunYuan-M02" size="45">鬼哥哥  让我试一下</font></p>
+<p begin="9845500000t" end="9853800000t" region="bottomCenter" style="s1" xml:id="subtitle400"><font face="FZZhunYuan-M02" size="45">斧乃木妹妹</font></p>
+<p begin="9856400000t" end="9878000000t" region="bottomCenter" style="s1" xml:id="subtitle401"><font face="FZZhunYuan-M02" size="45">闭嘴  现在正在调查</font></p>
+<p begin="9884400000t" end="9895200000t" region="bottomCenter" style="s1" xml:id="subtitle402"><font face="FZZhunYuan-M02" size="45">正在摸索</font></p>
+<p begin="9903900000t" end="9907200000t" region="bottomCenter" style="s1" xml:id="subtitle403"><font face="FZZhunYuan-M02" size="33">{\an8}（我只能等待）</font></p>
+<p begin="9907200000t" end="9912600000t" region="bottomCenter" style="s1" xml:id="subtitle404"><font face="FZZhunYuan-M02" size="33">{\an8}（似乎——已经得出答案的结论）</font></p>
+<p begin="9921400000t" end="9927700000t" region="bottomCenter" style="s1" xml:id="subtitle405"><font face="FZZhunYuan-M02" size="45">不在</font></p>
+<p begin="9927700000t" end="9929700000t" region="bottomCenter" style="s1" xml:id="subtitle406"><font face="FZZhunYuan-M02" size="33">{\an8}（终于）</font></p>
+<p begin="9929700000t" end="9932700000t" region="bottomCenter" style="s1" xml:id="subtitle407"><font face="FZZhunYuan-M02" size="33">{\an8}（说了出来）</font></p>
+<p begin="9932700000t" end="9936400000t" region="bottomCenter" style="s1" xml:id="subtitle408"><font face="FZZhunYuan-M02" size="33">{\an8}（用毫无修饰的语气）</font></p>
+<p begin="9939500000t" end="9946700000t" region="bottomCenter" style="s1" xml:id="subtitle409"><font face="FZZhunYuan-M02" size="45">她不在</font></p>
+<p begin="9969900000t" end="9988400000t" region="bottomCenter" style="s1" xml:id="subtitle410"><font face="FZZhunYuan-M02" size="45">那个时候我看到了</font></p>
+<p begin="9992800000t" end="10018600000t" region="bottomCenter" style="s1" xml:id="subtitle411"><font face="FZZhunYuan-M02" size="45">「黑暗」和阿良良木先生的影子重合在一起</font></p>
+<p begin="10021400000t" end="10068600000t" region="bottomCenter" style="s1" xml:id="subtitle412"><font face="FZZhunYuan-M02" size="45">该不会是在那个时候忍小姐被「黑暗」吞噬了吧</font></p>
+<p begin="10071400000t" end="10091200000t" region="bottomCenter" style="s1" xml:id="subtitle413"><font face="FZZhunYuan-M02" size="45">希望真的是「该不会」…</font></p>
+<p begin="10103100000t" end="10137600000t" region="bottomCenter" style="s1" xml:id="subtitle414"><font face="FZZhunYuan-M02" size="45">小忍被…被那个「黑暗」…吞噬了…</font></p>
+<p begin="10143400000t" end="10151200000t" region="bottomCenter" style="s1" xml:id="subtitle415"><font face="FZZhunYuan-M02" size="45">怎么会</font></p>
+<p begin="10153500000t" end="10171200000t" region="bottomCenter" style="s1" xml:id="subtitle416"><font face="FZZhunYuan-M02" size="45">不  我想应该不会</font></p>
+<p begin="10175800000t" end="10203000000t" region="bottomCenter" style="s1" xml:id="subtitle417"><font face="FZZhunYuan-M02" size="45">假若怪异杀手真被那个吞噬掉</font></p>
+<p begin="10206000000t" end="10245890000t" region="bottomCenter" style="s1" xml:id="subtitle418"><font face="FZZhunYuan-M02" size="45">鬼哥哥应该会失去一切吸血鬼的特性</font></p>
+<p begin="10248390000t" end="10267000000t" region="bottomCenter" style="s1" xml:id="subtitle419"><font face="FZZhunYuan-M02" size="45">变回普通的人类才对</font></p>
+<p begin="10272800000t" end="10288590000t" region="bottomCenter" style="s1" xml:id="subtitle420"><font face="FZZhunYuan-M02" size="45">可是  你并没有变成那样</font></p>
+<p begin="10288900000t" end="10291400000t" region="bottomCenter" style="s1" xml:id="subtitle421"><font face="FZZhunYuan-M02" size="33">{\an8}（……并没有变成那样……）</font></p>
+<p begin="10294300000t" end="10332200000t" region="bottomCenter" style="s1" xml:id="subtitle422"><font face="FZZhunYuan-M02" size="45">啊不  可是  关于我有没有失去吸血鬼特性</font></p>
+<p begin="10333000000t" end="10346400000t" region="bottomCenter" style="s1" xml:id="subtitle423"><font face="FZZhunYuan-M02" size="45">你有能辨别出来的方法吗</font></p>
+<p begin="10346400000t" end="10348900000t" region="bottomCenter" style="s1" xml:id="subtitle424"><font face="FZZhunYuan-M02" size="33">{\an8}（身为式神——）</font></p>
+<p begin="10348900000t" end="10353490000t" region="bottomCenter" style="s1" xml:id="subtitle425"><font face="FZZhunYuan-M02" size="33">{\an8}（身为怪异）</font></p>
+<p begin="10355890000t" end="10365990000t" region="bottomCenter" style="s1" xml:id="subtitle426"><font face="FZZhunYuan-M02" size="45">斧乃木妹妹你有方法吗…</font></p>
+<p begin="10367800000t" end="10408800000t" region="bottomCenter" style="s1" xml:id="subtitle427"><font face="FZZhunYuan-M02" size="45">不  如果只是单纯的辨别  鬼哥哥你自己也可以做到</font></p>
+<p begin="10413900000t" end="10456090000t" region="bottomCenter" style="s1" xml:id="subtitle428"><font face="FZZhunYuan-M02" size="45">因为  鬼哥哥你现在不是能看到八九寺吗</font></p>
+<p begin="10473190000t" end="10478190000t" region="bottomCenter" style="s1" xml:id="subtitle429"><font face="FZZhunYuan-M02" size="45">啊</font></p>
+<p begin="10481090000t" end="10512800000t" region="bottomCenter" style="s1" xml:id="subtitle430"><font face="FZZhunYuan-M02" size="45">能清楚地看见身为怪异的八九寺</font></p>
+<p begin="10514400000t" end="10548300000t" region="bottomCenter" style="s1" xml:id="subtitle431"><font face="FZZhunYuan-M02" size="45">这就说明鬼哥哥并没有失去吸血鬼的特性</font></p>
+<p begin="10550600000t" end="10555400000t" region="bottomCenter" style="s1" xml:id="subtitle432"><font face="FZZhunYuan-M02" size="45">能看见</font></p>
+<p begin="10561900000t" end="10567900000t" region="bottomCenter" style="s1" xml:id="subtitle433"><font face="FZZhunYuan-M02" size="45">能看得见</font></p>
+<p begin="10573900000t" end="10582900000t" region="bottomCenter" style="s1" xml:id="subtitle434"><font face="FZZhunYuan-M02" size="45">的确能看得见</font></p>
+<p begin="10610400000t" end="10612900000t" region="bottomCenter" style="s1" xml:id="subtitle435"><font face="FZZhunYuan-M02" size="33">{\an8}（那家伙现在）</font></p>
+<p begin="10612900000t" end="10616300000t" region="bottomCenter" style="s1" xml:id="subtitle436"><font face="FZZhunYuan-M02" size="33">{\an8}（并不在我的影子里这件事）</font></p>
+<p begin="10616300000t" end="10620900000t" region="bottomCenter" style="s1" xml:id="subtitle437"><font face="FZZhunYuan-M02" size="33">{\an8}（也是事实）</font></p>
+<p begin="10626400000t" end="10633800000t" region="bottomCenter" style="s1" xml:id="subtitle438"><font face="FZZhunYuan-M02" size="45">是吗</font></p>
+<p begin="10640200000t" end="10660900000t" region="bottomCenter" style="s1" xml:id="subtitle439"><font face="FZZhunYuan-M02" size="45">怪异杀手并没有被消灭</font></p>
+<p begin="10666800000t" end="10678000000t" region="bottomCenter" style="s1" xml:id="subtitle440"><font face="FZZhunYuan-M02" size="45">但现在这个状况</font></p>
+<p begin="10681600000t" end="10721000000t" region="bottomCenter" style="s1" xml:id="subtitle441"><font face="FZZhunYuan-M02" size="45">还是认为鬼哥哥和怪异杀手的联系已被切断比较好</font></p>
+<p begin="10723200000t" end="10738700000t" region="bottomCenter" style="s1" xml:id="subtitle442"><font face="FZZhunYuan-M02" size="45">联系被切断</font></p>
+<p begin="10745900000t" end="10762200000t" region="bottomCenter" style="s1" xml:id="subtitle443"><font face="FZZhunYuan-M02" size="45">用更准确的说法的话</font></p>
+<p begin="10765600000t" end="10796400000t" region="bottomCenter" style="s1" xml:id="subtitle444"><font face="FZZhunYuan-M02" size="45">也许应该说是「联系已经被消灭」</font></p>
+<p begin="10813100000t" end="10839800000t" region="bottomCenter" style="s1" xml:id="subtitle445"><font face="FZZhunYuan-M02" size="45">拜那个「黑暗」与你的影子重合所赐</font></p>
+<p begin="10839800000t" end="10841900000t" region="bottomCenter" style="s1" xml:id="subtitle446"><font face="FZZhunYuan-M02" size="33">{\an8}（影子）</font></p>
+<p begin="10841900000t" end="10844800000t" region="bottomCenter" style="s1" xml:id="subtitle447"><font face="FZZhunYuan-M02" size="33">{\an8}（踩影子）</font></p>
+<p begin="10844800000t" end="10848600000t" region="bottomCenter" style="s1" xml:id="subtitle448"><font face="FZZhunYuan-M02" size="33">{\an8}（真成了踩影子游戏）</font></p>
+<p begin="10854000000t" end="10897800000t" region="bottomCenter" style="s1" xml:id="subtitle449"><font face="FZZhunYuan-M02" size="45">如果因为那时候被踩了影子  联系就被切断</font></p>
+<p begin="10902000000t" end="10921400000t" region="bottomCenter" style="s1" xml:id="subtitle450"><font face="FZZhunYuan-M02" size="45">如果真是那样  那又意味着什么？</font></p>
+<p begin="10928200000t" end="10974100000t" region="bottomCenter" style="s1" xml:id="subtitle451"><font face="FZZhunYuan-M02" size="45">难道是说  小忍已经不会被我的影子所束缚了吗</font></p>
+<p begin="10989000000t" end="10997800000t" region="bottomCenter" style="s1" xml:id="subtitle452"><font face="FZZhunYuan-M02" size="45">这样一来…</font></p>
+<p begin="11002700000t" end="11052400000t" region="bottomCenter" style="s1" xml:id="subtitle453"><font face="FZZhunYuan-M02" size="45">也许这意味着我们那时候是丢下了怪异杀手自己逃跑</font></p>
+<p begin="11059900000t" end="11073500000t" region="bottomCenter" style="s1" xml:id="subtitle454"><font face="FZZhunYuan-M02" size="45">别开玩笑了</font></p>
+<p begin="11076700000t" end="11134400000t" region="bottomCenter" style="s1" xml:id="subtitle455"><font face="FZZhunYuan-M02" size="45">这岂不是等于我们把小忍丢给那团来历不明的「黑暗」了吗？</font></p>
+<p begin="11165400000t" end="11183500000t" region="bottomCenter" style="s1" xml:id="subtitle456"><font face="FZZhunYuan-M02" size="45">请冷静点  阿良良木先生</font></p>
+<p begin="11183500000t" end="11190600000t" region="bottomCenter" style="s1" xml:id="subtitle457"><font face="FZZhunYuan-M02" size="33">{\an8}（根本没有时间再这样沮丧下去了）</font></p>
+<p begin="11192800000t" end="11232300000t" region="bottomCenter" style="s1" xml:id="subtitle458"><font face="FZZhunYuan-M02" size="45">请不要自责  斧乃木小姐不是说了吗</font></p>
+<p begin="11235600000t" end="11287400000t" region="bottomCenter" style="s1" xml:id="subtitle459"><font face="FZZhunYuan-M02" size="45">你还能看到我就说明  忍小姐目前还生存着</font></p>
+<p begin="11287400000t" end="11288600000t" region="bottomCenter" style="s1" xml:id="subtitle460"><font face="FZZhunYuan-M02" size="33">{\an8}（必须快点和那家伙汇合）</font></p>
+<p begin="11288600000t" end="11291100000t" region="bottomCenter" style="s1" xml:id="subtitle461"><font face="FZZhunYuan-M02" size="33">{\an8}（必须快点向那家伙道歉）</font></p>
+<p begin="11291100000t" end="11294900000t" region="bottomCenter" style="s1" xml:id="subtitle462"><font face="FZZhunYuan-M02" size="33">{\an8}（想要向她道歉）</font></p>
+<p begin="11297000000t" end="11314900000t" region="bottomCenter" style="s1" xml:id="subtitle463"><font face="FZZhunYuan-M02" size="45">现在并不是最坏的局面</font></p>
+<p begin="11314900000t" end="11317400000t" region="bottomCenter" style="s1" xml:id="subtitle464"><font face="FZZhunYuan-M02" size="33">{\an8}（…不知道能不能哄她开心）</font></p>
+<p begin="11317400000t" end="11321100000t" region="bottomCenter" style="s1" xml:id="subtitle465"><font face="FZZhunYuan-M02" size="33">{\an8}（虽然不知道——）</font></p>
+<p begin="11321100000t" end="11325700000t" region="bottomCenter" style="s1" xml:id="subtitle466"><font face="FZZhunYuan-M02" size="33">{\an8}（但至少想要向她道歉）</font></p>
+<p begin="11331400000t" end="11353300000t" region="bottomCenter" style="s1" xml:id="subtitle467"><font face="FZZhunYuan-M02" size="45">是啊  的确是这样</font></p>
+<p begin="11353300000t" end="11355300000t" region="bottomCenter" style="s1" xml:id="subtitle468"><font face="FZZhunYuan-M02" size="33">{\an8}（最重要的是，好想见到她）</font></p>
+<p begin="11367800000t" end="11369900000t" region="bottomCenter" style="s1" xml:id="subtitle469"><font face="FZZhunYuan-M02" size="33">{\an8}（无法原谅。无法原谅。）</font></p>
+<p begin="11369900000t" end="11371600000t" region="bottomCenter" style="s1" xml:id="subtitle470"><font face="FZZhunYuan-M02" size="33">{\an8}（居然敢）</font></p>
+<p begin="11371600000t" end="11374500000t" region="bottomCenter" style="s1" xml:id="subtitle471"><font face="FZZhunYuan-M02" size="33">{\an8}（居然敢让小忍，遭受那种境遇——）</font></p>
+<p begin="11381900000t" end="11413300000t" region="bottomCenter" style="s1" xml:id="subtitle472"><font face="FZZhunYuan-M02" size="45">下山吧  必须得快点和小忍汇合</font></p>
+<p begin="11415500000t" end="11439200000t" region="bottomCenter" style="s1" xml:id="subtitle473"><font face="FZZhunYuan-M02" size="45">我虽然能理解你的心情  鬼哥哥</font></p>
+<p begin="11441800000t" end="11451700000t" region="bottomCenter" style="s1" xml:id="subtitle474"><font face="FZZhunYuan-M02" size="45">但不要着急</font></p>
+<p begin="11451700000t" end="11453800000t" region="bottomCenter" style="s1" xml:id="subtitle475"><font face="FZZhunYuan-M02" size="33">{\an8}（不好）</font></p>
+<p begin="11453800000t" end="11456300000t" region="bottomCenter" style="s1" xml:id="subtitle476"><font face="FZZhunYuan-M02" size="33">{\an8}（头脑不听使唤）</font></p>
+<p begin="11456300000t" end="11460400000t" region="bottomCenter" style="s1" xml:id="subtitle477"><font face="FZZhunYuan-M02" size="33">{\an8}（行动一片混杂可怎么行）</font></p>
+<p begin="11463600000t" end="11510200000t" region="bottomCenter" style="s1" xml:id="subtitle478"><font face="FZZhunYuan-M02" size="45">虽然我也赞成下山  但在和怪异杀手汇合之前</font></p>
+<p begin="11511900000t" end="11529300000t" region="bottomCenter" style="s1" xml:id="subtitle479"><font face="FZZhunYuan-M02" size="45">应该先和姐姐取得联系</font></p>
+<p begin="11531200000t" end="11543000000t" region="bottomCenter" style="s1" xml:id="subtitle480"><font face="FZZhunYuan-M02" size="45">啊  是吗</font></p>
+<p begin="11543000000t" end="11545500000t" region="bottomCenter" style="s1" xml:id="subtitle481"><font face="FZZhunYuan-M02" size="33">{\an8}（顺序）</font></p>
+<p begin="11545500000t" end="11549300000t" region="bottomCenter" style="s1" xml:id="subtitle482"><font face="FZZhunYuan-M02" size="33">{\an8}（最优顺序）</font></p>
+<p begin="11549300000t" end="11553900000t" region="bottomCenter" style="s1" xml:id="subtitle483"><font face="FZZhunYuan-M02" size="33">{\an8}（必须选择这样的顺序）</font></p>
+<p begin="11555200000t" end="11565100000t" region="bottomCenter" style="s1" xml:id="subtitle484"><font face="FZZhunYuan-M02" size="45">但不管怎么说</font></p>
+<p begin="11571900000t" end="11611000000t" region="bottomCenter" style="s1" xml:id="subtitle485"><font face="FZZhunYuan-M02" size="45">只能靠斧乃木妹妹的「多数例外规则·脱离版」来移动吧</font></p>
+<p begin="11615900000t" end="11641900000t" region="bottomCenter" style="s1" xml:id="subtitle486"><font face="FZZhunYuan-M02" size="45">不  不是这样的  鬼哥哥</font></p>
+<p begin="11646400000t" end="11686900000t" region="bottomCenter" style="s1" xml:id="subtitle487"><font face="FZZhunYuan-M02" size="45">很遗憾  「多数例外规则·脱离版」已经没法再用了</font></p>
+<p begin="11688600000t" end="11699600000t" region="bottomCenter" style="s1" xml:id="subtitle488"><font face="FZZhunYuan-M02" size="45">呃  为什么</font></p>
+<p begin="11705500000t" end="11735000000t" region="bottomCenter" style="s1" xml:id="subtitle489"><font face="FZZhunYuan-M02" size="45">和怪异杀手的联系被切断这一点说明</font></p>
+<p begin="11746000000t" end="11776400000t" region="bottomCenter" style="s1" xml:id="subtitle490"><font face="FZZhunYuan-M02" size="45">你现在至少不是不死之身</font></p>
+<p begin="11793900000t" end="11833700000t" region="bottomCenter" style="s1" xml:id="subtitle491"><font face="FZZhunYuan-M02" size="45">正因为如此  你没能忍受刚才脱离时产生的冲击</font></p>
+<p begin="11846000000t" end="11881300000t" region="bottomCenter" style="s1" xml:id="subtitle492"><font face="FZZhunYuan-M02" size="45">鬼哥哥你现在  变弱了</font></p>
+<p begin="11885000000t" end="11913400000t" region="bottomCenter" style="s1" xml:id="subtitle493"><font face="FZZhunYuan-M02" size="45">并不仅仅是「多数例外规则·脱离版」</font></p>
+<p begin="11919000000t" end="11963000000t" region="bottomCenter" style="s1" xml:id="subtitle494"><font face="FZZhunYuan-M02" size="45">你最好明白至少这两个月以来你乱来的那些行为都无法做到了</font></p>
+<p begin="12003400000t" end="12014600000t" region="bottomCenter" style="s1" xml:id="subtitle495"><font face="FZZhunYuan-M02" size="45">变弱了…</font></p>
+<p begin="12017900000t" end="12061400000t" region="bottomCenter" style="s1" xml:id="subtitle496"><font face="FZZhunYuan-M02" size="45">斧乃木妹妹这样说道  但正确地说又不是这样</font></p>
+<p begin="12065200000t" end="12098800000t" region="bottomCenter" style="s1" xml:id="subtitle497"><font face="FZZhunYuan-M02" size="45">应该说不是变弱  而是正在渐渐变回原样</font></p>
+<p begin="12106000000t" end="12136200000t" region="bottomCenter" style="s1" xml:id="subtitle498"><font face="FZZhunYuan-M02" size="45">吸血鬼的特性虽然没有消失  但正在减弱</font></p>
+<p begin="12139800000t" end="12170700000t" region="bottomCenter" style="s1" xml:id="subtitle499"><font face="FZZhunYuan-M02" size="45">不死身也一样  虽然没有消失  但正在减弱</font></p>
+<p begin="12170700000t" end="12173700000t" region="bottomCenter" style="s1" xml:id="subtitle500"><font face="FZZhunYuan-M02" size="33">{\an8}（不会是好事）</font></p>
+<p begin="12173700000t" end="12177400000t" region="bottomCenter" style="s1" xml:id="subtitle501"><font face="FZZhunYuan-M02" size="33">{\an8}（就像这样）</font></p>
+<p begin="12177400000t" end="12182000000t" region="bottomCenter" style="s1" xml:id="subtitle502"><font face="FZZhunYuan-M02" size="33">{\an8}（事态正在渐渐恶化）</font></p>
+<p begin="12193900000t" end="12243000000t" region="bottomCenter" style="s1" xml:id="subtitle503"><font face="FZZhunYuan-M02" size="45">可是  这是不是说明小忍的吸血鬼度正在上升呢</font></p>
+<p begin="12247000000t" end="12271500000t" region="bottomCenter" style="s1" xml:id="subtitle504"><font face="FZZhunYuan-M02" size="45">既然切断了联系  相对地…</font></p>
+<p begin="12275600000t" end="12310700000t" region="bottomCenter" style="s1" xml:id="subtitle505"><font face="FZZhunYuan-M02" size="45">不  恐怕那边的吸血鬼度也在下降呢</font></p>
+<p begin="12317000000t" end="12327000000t" region="bottomCenter" style="s1" xml:id="subtitle506"><font face="FZZhunYuan-M02" size="45">连锁反应</font></p>
+<p begin="12332800000t" end="12360900000t" region="bottomCenter" style="s1" xml:id="subtitle507"><font face="FZZhunYuan-M02" size="45">你们的关系就是这样的</font></p>
+<p begin="12368400000t" end="12370100000t" region="bottomCenter" style="s1" xml:id="subtitle508"><font face="FZZhunYuan-M02" size="33">{\an8}（没错）</font></p>
+<p begin="12377600000t" end="12379700000t" region="bottomCenter" style="s1" xml:id="subtitle509"><font face="FZZhunYuan-M02" size="33">{\an8}（就是这样的构造）</font></p>
+<p begin="12382200000t" end="12432400000t" region="bottomCenter" style="s1" xml:id="subtitle510"><font face="FZZhunYuan-M02" size="45">就是说  不仅是我  小忍那边的状况也是急转直下</font></p>
+<p begin="12441000000t" end="12466800000t" region="bottomCenter" style="s1" xml:id="subtitle511"><font face="FZZhunYuan-M02" size="45">但是先冷静点  还没有结束</font></p>
+<p begin="12473200000t" end="12496600000t" region="bottomCenter" style="s1" xml:id="subtitle512"><font face="FZZhunYuan-M02" size="45">故事还在继续</font></p>
+<p begin="12520800000t" end="12549200000t" region="bottomCenter" style="s1" xml:id="subtitle513"><font face="FZZhunYuan-M02" size="45">你和影缝小姐应该能用邮件之类的手段联系到吧</font></p>
+<p begin="12554600000t" end="12558600000t" region="bottomCenter" style="s1" xml:id="subtitle514"><font face="FZZhunYuan-M02" size="45">嗯</font></p>
+<p begin="12563100000t" end="12578200000t" region="bottomCenter" style="s1" xml:id="subtitle515"><font face="FZZhunYuan-M02" size="45">那内容该怎么写？</font></p>
+<p begin="12581200000t" end="12619400000t" region="bottomCenter" style="s1" xml:id="subtitle516"><font face="FZZhunYuan-M02" size="45">暗语  还有代表「等你联络」的暗号</font></p>
+<p begin="12662800000t" end="12692200000t" region="bottomCenter" style="s1" xml:id="subtitle517"><font face="FZZhunYuan-M02" size="45">如果说「顺便」显得有些那个  我也给战场原和羽川</font></p>
+<p begin="12693900000t" end="12739200000t" region="bottomCenter" style="s1" xml:id="subtitle518"><font face="FZZhunYuan-M02" size="45">还有火怜和月火都发了自报平安的邮件</font></p>
+<p begin="12751700000t" end="12756700000t" region="bottomCenter" style="s1" xml:id="subtitle519"><font face="FZZhunYuan-M02" size="33">{\an8}（因为不想让她们担心）</font></p>
+<p begin="12756700000t" end="12761700000t" region="bottomCenter" style="s1" xml:id="subtitle520"><font face="FZZhunYuan-M02" size="33">{\an8}（暂时不会回来  不用但心）</font></p>
+<p begin="12764200000t" end="12767200000t" region="bottomCenter" style="s1" xml:id="subtitle521"><font face="FZZhunYuan-M02" size="33">{\an8}（哼哼）</font></p>
+<p begin="12793000000t" end="12798000000t" region="bottomCenter" style="s1" xml:id="subtitle522"><font face="FZZhunYuan-M02" size="33">{\an8}（我也成长成懂得为他人着想的男人了）</font></p>
+<p begin="12799800000t" end="12808700000t" region="bottomCenter" style="s1" xml:id="subtitle523"><font face="FZZhunYuan-M02" size="45">阿良良木先生</font></p>
+<p begin="12810700000t" end="12821500000t" region="bottomCenter" style="s1" xml:id="subtitle524"><font face="FZZhunYuan-M02" size="45">怎么了  八九寺</font></p>
+<p begin="12826800000t" end="12851500000t" region="bottomCenter" style="s1" xml:id="subtitle525"><font face="FZZhunYuan-M02" size="45">在你发信之后才说这些感觉有些那个</font></p>
+<p begin="12854000000t" end="12873100000t" region="bottomCenter" style="s1" xml:id="subtitle526"><font face="FZZhunYuan-M02" size="45">可你给羽川小姐她们发的邮件</font></p>
+<p begin="12875500000t" end="12906100000t" region="bottomCenter" style="s1" xml:id="subtitle527"><font face="FZZhunYuan-M02" size="45">内容里写的是「不用但心」</font></p>
+<p begin="12919500000t" end="12943600000t" region="bottomCenter" style="s1" xml:id="subtitle528"><font face="FZZhunYuan-M02" size="45">发信之后才说这些也太那个了吧！</font></p>
+<p begin="13024300000t" end="13057000000t" region="bottomCenter" style="s1" xml:id="subtitle529"><font face="FZZhunYuan-M02" size="45">鬼哥哥  手机的信号怎么样了</font></p>
+<p begin="13061200000t" end="13064100000t" region="bottomCenter" style="s1" xml:id="subtitle530"><font face="FZZhunYuan-M02" size="33">{\an8}（没有回信）</font></p>
+<p begin="13072600000t" end="13087200000t" region="bottomCenter" style="s1" xml:id="subtitle531"><font face="FZZhunYuan-M02" size="45">还是老样子  信号很弱</font></p>
+<p begin="13092600000t" end="13109800000t" region="bottomCenter" style="s1" xml:id="subtitle532"><font face="FZZhunYuan-M02" size="45">幸好不是完全没有信号</font></p>
+<p begin="13114200000t" end="13131800000t" region="bottomCenter" style="s1" xml:id="subtitle533"><font face="FZZhunYuan-M02" size="45">刚才还真是运气好呢</font></p>
+<p begin="13135000000t" end="13170400000t" region="bottomCenter" style="s1" xml:id="subtitle534"><font face="FZZhunYuan-M02" size="45">是嘛  可是还没有收到影缝小姐的回复呢</font></p>
+<p begin="13174700000t" end="13178800000t" region="bottomCenter" style="s1" xml:id="subtitle535"><font face="FZZhunYuan-M02" size="45">哼</font></p>
+<p begin="13184600000t" end="13216300000t" region="bottomCenter" style="s1" xml:id="subtitle536"><font face="FZZhunYuan-M02" size="45">那么  还是直接打过去比较好</font></p>
+<p begin="13220300000t" end="13236700000t" region="bottomCenter" style="s1" xml:id="subtitle537"><font face="FZZhunYuan-M02" size="45">只好打扰一下附近的人家了</font></p>
+<p begin="13242200000t" end="13287100000t" region="bottomCenter" style="s1" xml:id="subtitle538"><font face="FZZhunYuan-M02" size="45">虽然手机有时候会信号不好  但固定电话就不会了</font></p>
+<p begin="13292400000t" end="13337100000t" region="bottomCenter" style="s1" xml:id="subtitle539"><font face="FZZhunYuan-M02" size="45">假设她工作已经结束的话  就可以直接打给影缝小姐了吗</font></p>
+<p begin="13341100000t" end="13377500000t" region="bottomCenter" style="s1" xml:id="subtitle540"><font face="FZZhunYuan-M02" size="45">这个嘛  有时可以有时也不可以</font></p>
+<p begin="13382000000t" end="13393400000t" region="bottomCenter" style="s1" xml:id="subtitle541"><font face="FZZhunYuan-M02" size="45">她相当随意的</font></p>
+<p begin="13396700000t" end="13407100000t" region="bottomCenter" style="s1" xml:id="subtitle542"><font face="FZZhunYuan-M02" size="45">随意…</font></p>
+<p begin="13412000000t" end="13453500000t" region="bottomCenter" style="s1" xml:id="subtitle543"><font face="FZZhunYuan-M02" size="45">给生活加上固定模式是相当危险的  这是姐姐她自己的理论</font></p>
+<p begin="13463300000t" end="13473300000t" region="bottomCenter" style="s1" xml:id="subtitle544"><font face="FZZhunYuan-M02" size="33">{\an8}（是这样吗）</font></p>
+<p begin="13494600000t" end="13547100000t" region="bottomCenter" style="s1" xml:id="subtitle545"><font face="FZZhunYuan-M02" size="45">不给生活加上固定模式  说起来忍野也是那样的呢</font></p>
+<p begin="13565800000t" end="13623000000t" region="bottomCenter" style="s1" xml:id="subtitle546"><font face="FZZhunYuan-M02" size="45">怎么说呢  难道是曾经超自然研究会成员的共通规则吗</font></p>
+<p begin="13632700000t" end="13681400000t" region="bottomCenter" style="s1" xml:id="subtitle547"><font face="FZZhunYuan-M02" size="45">卧烟伊豆湖似乎也是那个社团的成员  说起来…</font></p>
+<p begin="13682800000t" end="13695500000t" region="bottomCenter" style="s1" xml:id="subtitle548"><font face="FZZhunYuan-M02" size="45">啊  是吗</font></p>
+<p begin="13698600000t" end="13725500000t" region="bottomCenter" style="s1" xml:id="subtitle549"><font face="FZZhunYuan-M02" size="45">那她也是忍野的熟人啦</font></p>
+<p begin="13730300000t" end="13762300000t" region="bottomCenter" style="s1" xml:id="subtitle550"><font face="FZZhunYuan-M02" size="45">忍野也是贝木也是  这缘分可是够奇怪的</font></p>
+<p begin="13764700000t" end="13814900000t" region="bottomCenter" style="s1" xml:id="subtitle551"><font face="FZZhunYuan-M02" size="45">姐姐说那个人是她的学姐  性格很糟糕的学姐</font></p>
+<p begin="13814900000t" end="13818600000t" region="bottomCenter" style="s1" xml:id="subtitle552"><font face="FZZhunYuan-M02" size="33">{\an8}（怎么回事）</font></p>
+<p begin="13818600000t" end="13824100000t" region="bottomCenter" style="s1" xml:id="subtitle553"><font face="FZZhunYuan-M02" size="33">{\an8}（那个社团里难道就没有一个性格好的人吗）</font></p>
+<p begin="13872000000t" end="13891100000t" region="bottomCenter" style="s1" xml:id="subtitle554"><font face="FZZhunYuan-M02" size="45">不好意思  我们是从这里路过的</font></p>
+<p begin="13894000000t" end="13918700000t" region="bottomCenter" style="s1" xml:id="subtitle555"><font face="FZZhunYuan-M02" size="45">请给我们一点吃的…不对</font></p>
+<p begin="13921400000t" end="13951700000t" region="bottomCenter" style="s1" xml:id="subtitle556"><font face="FZZhunYuan-M02" size="45">那个…请把电话借给我们用一下好吗</font></p>
+<p begin="13951700000t" end="13955400000t" region="bottomCenter" style="s1" xml:id="subtitle557"><font face="FZZhunYuan-M02" size="33">{\an8}（我一定抱着决心把电话借来）</font></p>
+<p begin="13955400000t" end="13960000000t" region="bottomCenter" style="s1" xml:id="subtitle558"><font face="FZZhunYuan-M02" size="33">{\an8}（为了能和搭档再会）</font></p>
+<p begin="13960000000t" end="13964200000t" region="bottomCenter" style="s1" xml:id="subtitle559"><font face="FZZhunYuan-M02" size="33">{\an8}（和一辈子的搭档再会）</font></p>
+<p begin="13966800000t" end="13985400000t" region="bottomCenter" style="s1" xml:id="subtitle560"><font face="FZZhunYuan-M02" size="45">不好意思  我们是从这里路过的</font></p>
+<p begin="13988400000t" end="13999200000t" region="bottomCenter" style="s1" xml:id="subtitle561"><font face="FZZhunYuan-M02" size="45">来了来了</font></p>
+<p begin="14044600000t" end="14053000000t" region="bottomCenter" style="s1" xml:id="subtitle562"><font face="FZZhunYuan-M02" size="45">让你们久等了</font></p>
+<p begin="14062600000t" end="14069900000t" region="bottomCenter" style="s1" xml:id="subtitle563"><font face="FZZhunYuan-M02" size="45">这个…</font></p>
+<p begin="14072600000t" end="14119800000t" region="bottomCenter" style="s1" xml:id="subtitle564"><font face="FZZhunYuan-M02" size="45">话说  与其说让你们久等了  其实是我等了很久才对啦</font></p>
+<p begin="14140800000t" end="14169400000t" region="bottomCenter" style="s1" xml:id="subtitle565"><font face="FZZhunYuan-M02" size="45">初次见面  我叫卧烟伊豆湖</font></p>
+<p begin="14176200000t" end="14194200000t" region="bottomCenter" style="s1" xml:id="subtitle566"><font face="FZZhunYuan-M02" size="45">是个无所不知的大姐姐</font></p>
+<p begin="14202600000t" end="14273700000t" region="bottomCenter" style="s1" xml:id="subtitle567"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}今もずっとその声を覚えてるから</font></p>
+<p begin="14202600000t" end="14273700000t" region="bottomCenter" style="s1" xml:id="subtitle568"><font face="STZhongsong" size="39" color="#f6d440">现在我也记得你的声音</font></p>
+<p begin="14368600000t" end="14394700000t" region="bottomCenter" style="s1" xml:id="subtitle569"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}あの日走った道に</font></p>
+<p begin="14368600000t" end="14394700000t" region="bottomCenter" style="s1" xml:id="subtitle570"><font face="STZhongsong" size="39" color="#f6d440">那些日子走过的路</font></p>
+<p begin="14396700000t" end="14422900000t" region="bottomCenter" style="s1" xml:id="subtitle571"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}あの日見上げた空に</font></p>
+<p begin="14396700000t" end="14422900000t" region="bottomCenter" style="s1" xml:id="subtitle572"><font face="STZhongsong" size="39" color="#f6d440">那些日子仰望的天空</font></p>
+<p begin="14425300000t" end="14475400000t" region="bottomCenter" style="s1" xml:id="subtitle573"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}二度と返らない時を重ねてる</font></p>
+<p begin="14425300000t" end="14475400000t" region="bottomCenter" style="s1" xml:id="subtitle574"><font face="STZhongsong" size="39" color="#f6d440">无法回去的曾经反复叠加</font></p>
+<p begin="14481000000t" end="14507400000t" region="bottomCenter" style="s1" xml:id="subtitle575"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}君は笑うだろうか</font></p>
+<p begin="14481000000t" end="14507400000t" region="bottomCenter" style="s1" xml:id="subtitle576"><font face="STZhongsong" size="39" color="#f6d440">你恐怕会笑我吧</font></p>
+<p begin="14508700000t" end="14535300000t" region="bottomCenter" style="s1" xml:id="subtitle577"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}少し怒るだろうね</font></p>
+<p begin="14508700000t" end="14535300000t" region="bottomCenter" style="s1" xml:id="subtitle578"><font face="STZhongsong" size="39" color="#f6d440">会有一丝生气吧</font></p>
+<p begin="14537500000t" end="14592600000t" region="bottomCenter" style="s1" xml:id="subtitle579"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}こんな諦め悪い僕のことを</font></p>
+<p begin="14537500000t" end="14592600000t" region="bottomCenter" style="s1" xml:id="subtitle580"><font face="STZhongsong" size="39" color="#f6d440">我就是这么一个无法死心的人</font></p>
+<p begin="14599100000t" end="14629500000t" region="bottomCenter" style="s1" xml:id="subtitle581"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}何度でも</font></p>
+<p begin="14599100000t" end="14629500000t" region="bottomCenter" style="s1" xml:id="subtitle582"><font face="STZhongsong" size="39" color="#f6d440">一次又一次</font></p>
+<p begin="14632600000t" end="14688900000t" region="bottomCenter" style="s1" xml:id="subtitle583"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}迂闊に願う可能性を清書して  （いつまでも）</font></p>
+<p begin="14632600000t" end="14688900000t" region="bottomCenter" style="s1" xml:id="subtitle584"><font face="STZhongsong" size="39" color="#f6d440">将那些恍惚间许愿的可能性整理起来  （直到永远）</font></p>
+<p begin="14688900000t" end="14734600000t" region="bottomCenter" style="s1" xml:id="subtitle585"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}まだ迷いそうに騙されてたくて</font></p>
+<p begin="14688900000t" end="14734600000t" region="bottomCenter" style="s1" xml:id="subtitle586"><font face="STZhongsong" size="39" color="#f6d440">都想这样迷茫地被自己所欺骗</font></p>
+<p begin="14739000000t" end="14790200000t" region="bottomCenter" style="s1" xml:id="subtitle587"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}だから「どうかせめて」なんて思う心は</font></p>
+<p begin="14739000000t" end="14790200000t" region="bottomCenter" style="s1" xml:id="subtitle588"><font face="STZhongsong" size="39" color="#f6d440">因此许下这些愿望的心情</font></p>
+<p begin="14791500000t" end="14825100000t" region="bottomCenter" style="s1" xml:id="subtitle589"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}一時的な感傷だって</font></p>
+<p begin="14791500000t" end="14825100000t" region="bottomCenter" style="s1" xml:id="subtitle590"><font face="STZhongsong" size="39" color="#f6d440">这些暂时的感伤</font></p>
+<p begin="14827100000t" end="14849800000t" region="bottomCenter" style="s1" xml:id="subtitle591"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}許せばいい</font></p>
+<p begin="14827100000t" end="14849800000t" region="bottomCenter" style="s1" xml:id="subtitle592"><font face="STZhongsong" size="39" color="#f6d440">只要认可就好</font></p>
+<p begin="14851700000t" end="14880200000t" region="bottomCenter" style="s1" xml:id="subtitle593"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}だからそうさ君がやっと</font></p>
+<p begin="14851700000t" end="14880200000t" region="bottomCenter" style="s1" xml:id="subtitle594"><font face="STZhongsong" size="39" color="#f6d440">因此请让我对你说</font></p>
+<p begin="14881500000t" end="14903000000t" region="bottomCenter" style="s1" xml:id="subtitle595"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}絶望の先で</font></p>
+<p begin="14881500000t" end="14903000000t" region="bottomCenter" style="s1" xml:id="subtitle596"><font face="STZhongsong" size="39" color="#f6d440">在我绝望的时候</font></p>
+<p begin="14904900000t" end="14994900000t" region="bottomCenter" style="s1" xml:id="subtitle597"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}くれた日々に偽りなんてないと言ってあげよう</font></p>
+<p begin="14904900000t" end="14994900000t" region="bottomCenter" style="s1" xml:id="subtitle598"><font face="STZhongsong" size="39" color="#f6d440">你曾给我带来的那些日子没有虚假</font></p>
+<p begin="15011800000t" end="15054700000t" region="bottomCenter" style="s1" xml:id="subtitle599"><font face="DFGHSMincho-W5" size="36" color="#f6d440">{\an8}忘れないで</font></p>
+<p begin="15011800000t" end="15054700000t" region="bottomCenter" style="s1" xml:id="subtitle600"><font face="STZhongsong" size="39" color="#f6d440">不要将我忘记</font></p>
+<p begin="15109800000t" end="15116900000t" region="bottomCenter" style="s1" xml:id="subtitle601"><font face="@FZZhunYuan-M02" size="33">{\an7}火怜DaZe！</font></p>
+<p begin="15110100000t" end="15116800000t" region="bottomCenter" style="s1" xml:id="subtitle602"><font face="FZZhunYuan-M02" size="45">火怜Da☆Ze！</font></p>
+<p begin="15116900000t" end="15124000000t" region="bottomCenter" style="s1" xml:id="subtitle603"><font face="FZZhunYuan-M02" size="45">月火Da☆Yo！</font></p>
+<p begin="15116900000t" end="15125600000t" region="bottomCenter" style="s1" xml:id="subtitle604"><font face="@FZZhunYuan-M02" size="33">{\an7}月火DaYo！</font></p>
+<p begin="15125600000t" end="15144400000t" region="bottomCenter" style="s1" xml:id="subtitle605"><font face="FZZhunYuan-M02" size="33">{\an8}我们是Fire Sisters！</font></p>
+<p begin="15127700000t" end="15144400000t" region="bottomCenter" style="s1" xml:id="subtitle606"><font face="FZZhunYuan-M02" size="45">两个人合在一起就是Fire Sisters！</font></p>
+<p begin="15144400000t" end="15234100000t" region="bottomCenter" style="s1" xml:id="subtitle607"><font face="@FZZhunYuan-M02" size="33">{\an7}黑暗</font></p>
+<p begin="15144400000t" end="15234100000t" region="bottomCenter" style="s1" xml:id="subtitle608"><font face="FZZhunYuan-M02" size="33">{\an8}出现了一个好厉害的东西！</font></p>
+<p begin="15144400000t" end="15234100000t" region="bottomCenter" style="s1" xml:id="subtitle609"><font face="FZZhunYuan-M02" size="33">{\an8}连我也</font></p>
+<p begin="15144400000t" end="15234100000t" region="bottomCenter" style="s1" xml:id="subtitle610"><font face="FZZhunYuan-M02" size="33">{\an8}拿它没办法啊</font></p>
+<p begin="15150000000t" end="15194900000t" region="bottomCenter" style="s1" xml:id="subtitle611"><font face="FZZhunYuan-M02" size="45">转眼间物语系列第二季也要迎来总数第二十话了</font></p>
+<p begin="15194900000t" end="15214600000t" region="bottomCenter" style="s1" xml:id="subtitle612"><font face="FZZhunYuan-M02" size="45">干脆一口气播个四十话算了！</font></p>
+<p begin="15214600000t" end="15225000000t" region="bottomCenter" style="s1" xml:id="subtitle613"><font face="FZZhunYuan-M02" size="45">那不就要追上原作了吗？</font></p>
+<p begin="15225000000t" end="15253700000t" region="bottomCenter" style="s1" xml:id="subtitle614"><font face="FZZhunYuan-M02" size="45">笨蛋  这时候就轮到我们Fire Sisters的外传登场了</font></p>
+<p begin="15234100000t" end="15323300000t" region="bottomCenter" style="s1" xml:id="subtitle615"><font face="FZZhunYuan-M02" size="33">{\an8}哎？你知道镇住这个的方法？</font></p>
+<p begin="15234100000t" end="15323300000t" region="bottomCenter" style="s1" xml:id="subtitle616"><font face="FZZhunYuan-M02" size="33">{\an8}我什么都知道</font></p>
+<p begin="15253700000t" end="15263700000t" region="bottomCenter" style="s1" xml:id="subtitle617"><font face="FZZhunYuan-M02" size="45">预告篇Quiz！</font></p>
+<p begin="15263700000t" end="15271400000t" region="bottomCenter" style="s1" xml:id="subtitle618"><font face="FZZhunYuan-M02" size="45">Quiz！</font></p>
+<p begin="15272600000t" end="15298500000t" region="bottomCenter" style="s1" xml:id="subtitle619"><font face="FZZhunYuan-M02" size="45">说起圣诞节就是12月25日</font></p>
+<p begin="15298500000t" end="15309800000t" region="bottomCenter" style="s1" xml:id="subtitle620"><font face="FZZhunYuan-M02" size="45">的确是25日呢</font></p>
+<p begin="15309800000t" end="15336600000t" region="bottomCenter" style="s1" xml:id="subtitle621"><font face="FZZhunYuan-M02" size="45">另外圣诞<font size="56">树</font>节可是12月7日哦</font></p>
+<p begin="15309800000t" end="15336600000t" region="bottomCenter" style="s1" xml:id="subtitle622"><font face="FZZhunYuan-M02" size="45">另外圣诞<font size="45">Tree</font>节可是12月7日哦</font></p>
+<p begin="15323300000t" end="15411700000t" region="bottomCenter" style="s1" xml:id="subtitle623"><font face="FZZhunYuan-M02" size="33">{\an8}镇内少女选美大赛</font></p>
+<p begin="15323300000t" end="15411700000t" region="bottomCenter" style="s1" xml:id="subtitle624"><font face="FZZhunYuan-M02" size="33">{\an8}就用这个？</font></p>
+<p begin="15336600000t" end="15343200000t" region="bottomCenter" style="s1" xml:id="subtitle625"><font face="FZZhunYuan-M02" size="45">为啥？</font></p>
+<p begin="15344600000t" end="15377700000t" region="bottomCenter" style="s1" xml:id="subtitle626"><font face="FZZhunYuan-M02" size="45">恐怕从圣诞树节开始到圣诞节的18天里</font></p>
+<p begin="15377700000t" end="15402100000t" region="bottomCenter" style="s1" xml:id="subtitle627"><font face="FZZhunYuan-M02" size="45">大家都在忙着装饰圣诞树吧</font></p>
+<p begin="15402100000t" end="15411700000t" region="bottomCenter" style="s1" xml:id="subtitle628"><font face="FZZhunYuan-M02" size="45">还真是费工夫</font></p>
+<p begin="15411700000t" end="15425800000t" region="bottomCenter" style="s1" xml:id="subtitle629"><font face="FZZhunYuan-M02" size="45">接下来就是Quiz了</font></p>
+<p begin="15411700000t" end="15500600000t" region="bottomCenter" style="s1" xml:id="subtitle630"><font face="FZZhunYuan-M02" size="33">{\an8}一齐出现  一齐出现</font></p>
+<p begin="15411700000t" end="15500600000t" region="bottomCenter" style="s1" xml:id="subtitle631"><font face="@FZZhunYuan-M02" size="33">{\an7}吾有自信</font></p>
+<p begin="15411700000t" end="15500600000t" region="bottomCenter" style="s1" xml:id="subtitle632"><font face="@FZZhunYuan-M02" size="33">{\an7}亮相！</font></p>
+<p begin="15411700000t" end="15500600000t" region="bottomCenter" style="s1" xml:id="subtitle633"><font face="FZZhunYuan-M02" size="33">{\an8}这能行吗？</font></p>
+<p begin="15427600000t" end="15450200000t" region="bottomCenter" style="s1" xml:id="subtitle634"><font face="FZZhunYuan-M02" size="45">雏祭是3月3日</font></p>
+<p begin="15450200000t" end="15475200000t" region="bottomCenter" style="s1" xml:id="subtitle635"><font face="FZZhunYuan-M02" size="45">那么雏<font size="56">祭</font>是哪一天呢？</font></p>
+<p begin="15450200000t" end="15475200000t" region="bottomCenter" style="s1" xml:id="subtitle636"><font face="FZZhunYuan-M02" size="45">那么雏<font size="45">Tree</font>是哪一天呢？</font></p>
+<p begin="15477000000t" end="15491300000t" region="bottomCenter" style="s1" xml:id="subtitle637"><font face="FZZhunYuan-M02" size="45">3月7日吗？</font></p>
+<p begin="15491300000t" end="15505300000t" region="bottomCenter" style="s1" xml:id="subtitle638"><font face="FZZhunYuan-M02" size="45">还是3月3日</font></p>
+<p begin="15508100000t" end="15528200000t" region="bottomCenter" style="s1" xml:id="subtitle639"><font face="FZZhunYuan-M02" size="45">下集  鬼物语  第四话</font></p>
+<p begin="15528800000t" end="15542100000t" region="bottomCenter" style="s1" xml:id="subtitle640"><font face="FZZhunYuan-M02" size="45">忍与时间  其四</font></p>
+<p begin="15536900000t" end="15622400000t" region="bottomCenter" style="s1" xml:id="subtitle641"><font face="FZZhunYuan-M02" size="33">{\an8}吸血鬼  傀儡  幽灵</font></p>
+<p begin="15536900000t" end="15622400000t" region="bottomCenter" style="s1" xml:id="subtitle642"><font face="FZZhunYuan-M02" size="33">{\an8}果然没戏啊！</font></p>
+<p begin="15543800000t" end="15569000000t" region="bottomCenter" style="s1" xml:id="subtitle643"><font face="FZZhunYuan-M02" size="45">我又没说成<font size="56">雏</font>祭来误导你</font></p>
+<p begin="15543800000t" end="15569000000t" region="bottomCenter" style="s1" xml:id="subtitle644"><font face="FZZhunYuan-M02" size="45">我又没说成雏<font size="36">Tree</font>来误导你</font></p>
+<p begin="15569000000t" end="15585600000t" region="bottomCenter" style="s1" xml:id="subtitle645"><font face="FZZhunYuan-M02" size="45">你那么说Tree不就更明显了吗</font></p>
+</div>
+</body>
+</tt>

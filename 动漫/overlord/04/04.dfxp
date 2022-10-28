@@ -1,0 +1,901 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="200000t" end="30200000t" region="bottomCenter" style="s1" xml:id="subtitle0"><font face="216A9306" size="65">{\an8}本字幕由桜</font><font size="48">都字幕组制作 仅供交流试看之用 请于下载后24小时内删除</font></p>
+<p begin="20700000t" end="32100000t" region="bottomCenter" style="s1" xml:id="subtitle1"><font face="0661519E" size="68">各位观众</font></p>
+<p begin="30200000t" end="60200000t" region="bottomCenter" style="s1" xml:id="subtitle2"><font face="216A9306" size="65">{\an8}<font size="60">翻译：大友阵 hi 流火  时轴：澄空秋色  繁化：Laputa  校对：名字普通  压制：bibi</font></font></p>
+<p begin="32100000t" end="50200000t" region="bottomCenter" style="s1" xml:id="subtitle3"><font face="0661519E" size="68">让你们久等了</font></p>
+<p begin="54900000t" end="74600000t" region="bottomCenter" style="s1" xml:id="subtitle4"><font face="0661519E" size="68">帝国最强的斗士</font></p>
+<p begin="74600000t" end="102600000t" region="bottomCenter" style="s1" xml:id="subtitle5"><font face="0661519E" size="68">在竞技场诞生的伟大英雄</font></p>
+<p begin="102600000t" end="124000000t" region="bottomCenter" style="s1" xml:id="subtitle6"><font face="0661519E" size="68">武王登场!</font></p>
+<p begin="204800000t" end="228800000t" region="bottomCenter" style="s1" xml:id="subtitle7"><font face="0661519E" size="68">忘记这里发生的事</font></p>
+<p begin="228800000t" end="242600000t" region="bottomCenter" style="s1" xml:id="subtitle8"><font face="0661519E" size="68">遵命</font></p>
+<p begin="267700000t" end="314900000t" region="bottomCenter" style="s1" xml:id="subtitle9"><font face="0661519E" size="68">在这个世界中 纳萨力克的力量毫无疑问是压倒性的</font></p>
+<p begin="318200000t" end="325700000t" region="bottomCenter" style="s1" xml:id="subtitle10"><font face="0661519E" size="68">但是…</font></p>
+<p begin="330200000t" end="363500000t" region="bottomCenter" style="s1" xml:id="subtitle11"><font face="0661519E" size="68">目前还没查清楚世界级道具拥有者的身份</font></p>
+<p begin="382200000t" end="434100000t" region="bottomCenter" style="s1" xml:id="subtitle12"><font face="0661519E" size="68">所以我虽不反对雅儿贝德他们推进的世界征服计划 但…</font></p>
+<p begin="471500000t" end="496900000t" region="bottomCenter" style="s1" xml:id="subtitle13"><font face="0661519E" size="68">但是对于我所统治的人们</font></p>
+<p begin="496900000t" end="521700000t" region="bottomCenter" style="s1" xml:id="subtitle14"><font face="0661519E" size="68">你们也应该怀抱一些慈悲之心吧</font></p>
+<p begin="526600000t" end="553900000t" region="bottomCenter" style="s1" xml:id="subtitle15"><font face="0661519E" size="68">因为他们是魔导国的子民</font></p>
+<p begin="553900000t" end="573000000t" region="bottomCenter" style="s1" xml:id="subtitle16"><font face="0661519E" size="68">如陛下所言</font></p>
+<p begin="592600000t" end="620100000t" region="bottomCenter" style="s1" xml:id="subtitle17"><font face="0661519E" size="68">那么 我想创造一个理想乡</font></p>
+<p begin="627800000t" end="663300000t" region="bottomCenter" style="s1" xml:id="subtitle18"><font face="0661519E" size="68">创造一个浸透了甜蜜的 温柔的梦幻世界</font></p>
+<p begin="684400000t" end="700200000t" region="bottomCenter" style="s1" xml:id="subtitle19"><font face="0661519E" size="68">恩威并施吗</font></p>
+<p begin="705300000t" end="745600000t" region="bottomCenter" style="s1" xml:id="subtitle20"><font face="0661519E" size="68">对啊 只要我主动地表达这个想法就好了</font></p>
+<p begin="749200000t" end="789500000t" region="bottomCenter" style="s1" xml:id="subtitle21"><font face="0661519E" size="68">以后招纳的冒险者们也会帮着我们宣传</font></p>
+<p begin="795600000t" end="818100000t" region="bottomCenter" style="s1" xml:id="subtitle22"><font face="0661519E" size="68">这主意真是妙极了</font></p>
+<p begin="842400000t" end="878300000t" region="bottomCenter" style="s1" xml:id="subtitle23"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="842400000t" end="879300000t" region="bottomCenter" style="s1" xml:id="subtitle24"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="842900000t" end="878800000t" region="bottomCenter" style="s1" xml:id="subtitle25"><font face="EA8553E2" size="40" color="#a60e21">{\an8}La</font></p>
+<p begin="842900000t" end="879800000t" region="bottomCenter" style="s1" xml:id="subtitle26"><font face="BE9974AE" size="57" color="#a60e21">{\an5}La</font></p>
+<p begin="843400000t" end="879300000t" region="bottomCenter" style="s1" xml:id="subtitle27"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="843400000t" end="880300000t" region="bottomCenter" style="s1" xml:id="subtitle28"><font face="BE9974AE" size="57" color="#a60e21">{\an5}ta</font></p>
+<p begin="843900000t" end="879800000t" region="bottomCenter" style="s1" xml:id="subtitle29"><font face="EA8553E2" size="40" color="#a60e21">{\an8}ta</font></p>
+<p begin="843900000t" end="880800000t" region="bottomCenter" style="s1" xml:id="subtitle30"><font face="BE9974AE" size="57" color="#a60e21">{\an5}ta</font></p>
+<p begin="844400000t" end="880300000t" region="bottomCenter" style="s1" xml:id="subtitle31"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="844400000t" end="881300000t" region="bottomCenter" style="s1" xml:id="subtitle32"><font face="BE9974AE" size="57" color="#a60e21">{\an5}永</font></p>
+<p begin="844900000t" end="880800000t" region="bottomCenter" style="s1" xml:id="subtitle33"><font face="EA8553E2" size="40" color="#a60e21">{\an8}ta</font></p>
+<p begin="844900000t" end="881800000t" region="bottomCenter" style="s1" xml:id="subtitle34"><font face="BE9974AE" size="57" color="#a60e21">{\an5}不</font></p>
+<p begin="845400000t" end="881300000t" region="bottomCenter" style="s1" xml:id="subtitle35"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="845400000t" end="882300000t" region="bottomCenter" style="s1" xml:id="subtitle36"><font face="BE9974AE" size="57" color="#a60e21">{\an5}苏</font></p>
+<p begin="845900000t" end="881800000t" region="bottomCenter" style="s1" xml:id="subtitle37"><font face="EA8553E2" size="40" color="#a60e21">{\an8}覚</font></p>
+<p begin="845900000t" end="882800000t" region="bottomCenter" style="s1" xml:id="subtitle38"><font face="BE9974AE" size="57" color="#a60e21">{\an5}醒</font></p>
+<p begin="846400000t" end="882300000t" region="bottomCenter" style="s1" xml:id="subtitle39"><font face="EA8553E2" size="40" color="#a60e21">{\an8}め</font></p>
+<p begin="846400000t" end="883300000t" region="bottomCenter" style="s1" xml:id="subtitle40"><font face="BE9974AE" size="57" color="#a60e21">{\an5}的</font></p>
+<p begin="846900000t" end="882800000t" region="bottomCenter" style="s1" xml:id="subtitle41"><font face="EA8553E2" size="40" color="#a60e21">{\an8}な</font></p>
+<p begin="846900000t" end="883800000t" region="bottomCenter" style="s1" xml:id="subtitle42"><font face="BE9974AE" size="57" color="#a60e21">{\an5}梦</font></p>
+<p begin="847400000t" end="883300000t" region="bottomCenter" style="s1" xml:id="subtitle43"><font face="EA8553E2" size="40" color="#a60e21">{\an8}い</font></p>
+<p begin="847400000t" end="884300000t" region="bottomCenter" style="s1" xml:id="subtitle44"><font face="BE9974AE" size="57" color="#a60e21">{\an5}幻</font></p>
+<p begin="847900000t" end="883800000t" region="bottomCenter" style="s1" xml:id="subtitle45"><font face="EA8553E2" size="40" color="#a60e21">{\an8}幻</font></p>
+<p begin="847900000t" end="884800000t" region="bottomCenter" style="s1" xml:id="subtitle46"><font face="BE9974AE" size="57" color="#a60e21">{\an5}啊</font></p>
+<p begin="848400000t" end="884300000t" region="bottomCenter" style="s1" xml:id="subtitle47"><font face="EA8553E2" size="40" color="#a60e21">{\an8}想</font></p>
+<p begin="848900000t" end="884800000t" region="bottomCenter" style="s1" xml:id="subtitle48"><font face="EA8553E2" size="40" color="#a60e21">{\an8}よ</font></p>
+<p begin="932900000t" end="958400000t" region="bottomCenter" style="s1" xml:id="subtitle49"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="932900000t" end="959900000t" region="bottomCenter" style="s1" xml:id="subtitle50"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="933400000t" end="958900000t" region="bottomCenter" style="s1" xml:id="subtitle51"><font face="EA8553E2" size="40" color="#a60e21">{\an8}Won</font></p>
+<p begin="933400000t" end="960400000t" region="bottomCenter" style="s1" xml:id="subtitle52"><font face="BE9974AE" size="57" color="#a60e21">{\an5}不</font></p>
+<p begin="933900000t" end="959400000t" region="bottomCenter" style="s1" xml:id="subtitle53"><font face="EA8553E2" size="40" color="#a60e21">{\an8}der</font></p>
+<p begin="933900000t" end="960900000t" region="bottomCenter" style="s1" xml:id="subtitle54"><font face="BE9974AE" size="57" color="#a60e21">{\an5}知</font></p>
+<p begin="934400000t" end="959900000t" region="bottomCenter" style="s1" xml:id="subtitle55"><font face="EA8553E2" size="40" color="#a60e21">{\an8}why</font></p>
+<p begin="934400000t" end="961400000t" region="bottomCenter" style="s1" xml:id="subtitle56"><font face="BE9974AE" size="57" color="#a60e21">{\an5}为</font></p>
+<p begin="934900000t" end="960400000t" region="bottomCenter" style="s1" xml:id="subtitle57"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="934900000t" end="961900000t" region="bottomCenter" style="s1" xml:id="subtitle58"><font face="BE9974AE" size="57" color="#a60e21">{\an5}何</font></p>
+<p begin="935400000t" end="960900000t" region="bottomCenter" style="s1" xml:id="subtitle59"><font face="EA8553E2" size="40" color="#a60e21">{\an8}I</font></p>
+<p begin="935400000t" end="962400000t" region="bottomCenter" style="s1" xml:id="subtitle60"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="935900000t" end="961400000t" region="bottomCenter" style="s1" xml:id="subtitle61"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="935900000t" end="962900000t" region="bottomCenter" style="s1" xml:id="subtitle62"><font face="BE9974AE" size="57" color="#a60e21">{\an5}难</font></p>
+<p begin="936400000t" end="961900000t" region="bottomCenter" style="s1" xml:id="subtitle63"><font face="EA8553E2" size="40" color="#a60e21">{\an8}can</font></p>
+<p begin="936400000t" end="963400000t" region="bottomCenter" style="s1" xml:id="subtitle64"><font face="BE9974AE" size="57" color="#a60e21">{\an5}以</font></p>
+<p begin="936900000t" end="962400000t" region="bottomCenter" style="s1" xml:id="subtitle65"><font face="EA8553E2" size="40" color="#a60e21">{\an8}’t</font></p>
+<p begin="936900000t" end="963900000t" region="bottomCenter" style="s1" xml:id="subtitle66"><font face="BE9974AE" size="57" color="#a60e21">{\an5}满</font></p>
+<p begin="937400000t" end="962900000t" region="bottomCenter" style="s1" xml:id="subtitle67"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="937400000t" end="964400000t" region="bottomCenter" style="s1" xml:id="subtitle68"><font face="BE9974AE" size="57" color="#a60e21">{\an5}足</font></p>
+<p begin="937900000t" end="963400000t" region="bottomCenter" style="s1" xml:id="subtitle69"><font face="EA8553E2" size="40" color="#a60e21">{\an8}sa</font></p>
+<p begin="938400000t" end="963900000t" region="bottomCenter" style="s1" xml:id="subtitle70"><font face="EA8553E2" size="40" color="#a60e21">{\an8}tis</font></p>
+<p begin="938900000t" end="964400000t" region="bottomCenter" style="s1" xml:id="subtitle71"><font face="EA8553E2" size="40" color="#a60e21">{\an8}fy</font></p>
+<p begin="963100000t" end="990100000t" region="bottomCenter" style="s1" xml:id="subtitle72"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="963100000t" end="990600000t" region="bottomCenter" style="s1" xml:id="subtitle73"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="963600000t" end="990600000t" region="bottomCenter" style="s1" xml:id="subtitle74"><font face="EA8553E2" size="40" color="#a60e21">{\an8}Over</font></p>
+<p begin="963600000t" end="991100000t" region="bottomCenter" style="s1" xml:id="subtitle75"><font face="BE9974AE" size="57" color="#a60e21">{\an5}亘</font></p>
+<p begin="964100000t" end="991100000t" region="bottomCenter" style="s1" xml:id="subtitle76"><font face="EA8553E2" size="40" color="#a60e21">{\an8}night</font></p>
+<p begin="964100000t" end="991600000t" region="bottomCenter" style="s1" xml:id="subtitle77"><font face="BE9974AE" size="57" color="#a60e21">{\an5}夜</font></p>
+<p begin="964600000t" end="991600000t" region="bottomCenter" style="s1" xml:id="subtitle78"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="964600000t" end="992100000t" region="bottomCenter" style="s1" xml:id="subtitle79"><font face="BE9974AE" size="57" color="#a60e21">{\an5}无</font></p>
+<p begin="965100000t" end="992100000t" region="bottomCenter" style="s1" xml:id="subtitle80"><font face="EA8553E2" size="40" color="#a60e21">{\an8}feel</font></p>
+<p begin="965100000t" end="992600000t" region="bottomCenter" style="s1" xml:id="subtitle81"><font face="BE9974AE" size="57" color="#a60e21">{\an5}眠</font></p>
+<p begin="965600000t" end="992600000t" region="bottomCenter" style="s1" xml:id="subtitle82"><font face="EA8553E2" size="40" color="#a60e21">{\an8}ing</font></p>
+<p begin="965600000t" end="993100000t" region="bottomCenter" style="s1" xml:id="subtitle83"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="966100000t" end="993100000t" region="bottomCenter" style="s1" xml:id="subtitle84"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="966100000t" end="993600000t" region="bottomCenter" style="s1" xml:id="subtitle85"><font face="BE9974AE" size="57" color="#a60e21">{\an5}生</font></p>
+<p begin="966600000t" end="993600000t" region="bottomCenter" style="s1" xml:id="subtitle86"><font face="EA8553E2" size="40" color="#a60e21">{\an8}like</font></p>
+<p begin="966600000t" end="994100000t" region="bottomCenter" style="s1" xml:id="subtitle87"><font face="BE9974AE" size="57" color="#a60e21">{\an5}不</font></p>
+<p begin="967100000t" end="994100000t" region="bottomCenter" style="s1" xml:id="subtitle88"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="967100000t" end="994600000t" region="bottomCenter" style="s1" xml:id="subtitle89"><font face="BE9974AE" size="57" color="#a60e21">{\an5}如</font></p>
+<p begin="967600000t" end="994600000t" region="bottomCenter" style="s1" xml:id="subtitle90"><font face="EA8553E2" size="40" color="#a60e21">{\an8}dy</font></p>
+<p begin="967600000t" end="995100000t" region="bottomCenter" style="s1" xml:id="subtitle91"><font face="BE9974AE" size="57" color="#a60e21">{\an5}死</font></p>
+<p begin="968100000t" end="995100000t" region="bottomCenter" style="s1" xml:id="subtitle92"><font face="EA8553E2" size="40" color="#a60e21">{\an8}ing</font></p>
+<p begin="992600000t" end="1020700000t" region="bottomCenter" style="s1" xml:id="subtitle93"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="992600000t" end="1021700000t" region="bottomCenter" style="s1" xml:id="subtitle94"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="993100000t" end="1021200000t" region="bottomCenter" style="s1" xml:id="subtitle95"><font face="EA8553E2" size="40" color="#a60e21">{\an8}こ</font></p>
+<p begin="993100000t" end="1022200000t" region="bottomCenter" style="s1" xml:id="subtitle96"><font face="BE9974AE" size="57" color="#a60e21">{\an5}这</font></p>
+<p begin="993600000t" end="1021700000t" region="bottomCenter" style="s1" xml:id="subtitle97"><font face="EA8553E2" size="40" color="#a60e21">{\an8}の</font></p>
+<p begin="993600000t" end="1022700000t" region="bottomCenter" style="s1" xml:id="subtitle98"><font face="BE9974AE" size="57" color="#a60e21">{\an5}双</font></p>
+<p begin="994100000t" end="1022200000t" region="bottomCenter" style="s1" xml:id="subtitle99"><font face="EA8553E2" size="40" color="#a60e21">{\an8}世</font></p>
+<p begin="994100000t" end="1023200000t" region="bottomCenter" style="s1" xml:id="subtitle100"><font face="BE9974AE" size="57" color="#a60e21">{\an5}手</font></p>
+<p begin="994600000t" end="1022700000t" region="bottomCenter" style="s1" xml:id="subtitle101"><font face="EA8553E2" size="40" color="#a60e21">{\an8}の</font></p>
+<p begin="994600000t" end="1023700000t" region="bottomCenter" style="s1" xml:id="subtitle102"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="995100000t" end="1023200000t" region="bottomCenter" style="s1" xml:id="subtitle103"><font face="EA8553E2" size="40" color="#a60e21">{\an8}す</font></p>
+<p begin="995100000t" end="1024200000t" region="bottomCenter" style="s1" xml:id="subtitle104"><font face="BE9974AE" size="57" color="#a60e21">{\an5}掌</font></p>
+<p begin="995600000t" end="1023700000t" region="bottomCenter" style="s1" xml:id="subtitle105"><font face="EA8553E2" size="40" color="#a60e21">{\an8}べ</font></p>
+<p begin="995600000t" end="1024700000t" region="bottomCenter" style="s1" xml:id="subtitle106"><font face="BE9974AE" size="57" color="#a60e21">{\an5}控</font></p>
+<p begin="996100000t" end="1024200000t" region="bottomCenter" style="s1" xml:id="subtitle107"><font face="EA8553E2" size="40" color="#a60e21">{\an8}て</font></p>
+<p begin="996100000t" end="1025200000t" region="bottomCenter" style="s1" xml:id="subtitle108"><font face="BE9974AE" size="57" color="#a60e21">{\an5}了</font></p>
+<p begin="996600000t" end="1024700000t" region="bottomCenter" style="s1" xml:id="subtitle109"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="996600000t" end="1025700000t" region="bottomCenter" style="s1" xml:id="subtitle110"><font face="BE9974AE" size="57" color="#a60e21">{\an5}世</font></p>
+<p begin="997100000t" end="1025200000t" region="bottomCenter" style="s1" xml:id="subtitle111"><font face="EA8553E2" size="40" color="#a60e21">{\an8}握</font></p>
+<p begin="997100000t" end="1026200000t" region="bottomCenter" style="s1" xml:id="subtitle112"><font face="BE9974AE" size="57" color="#a60e21">{\an5}间</font></p>
+<p begin="997600000t" end="1025700000t" region="bottomCenter" style="s1" xml:id="subtitle113"><font face="EA8553E2" size="40" color="#a60e21">{\an8}る</font></p>
+<p begin="997600000t" end="1026700000t" region="bottomCenter" style="s1" xml:id="subtitle114"><font face="BE9974AE" size="57" color="#a60e21">{\an5}一</font></p>
+<p begin="998100000t" end="1026200000t" region="bottomCenter" style="s1" xml:id="subtitle115"><font face="EA8553E2" size="40" color="#a60e21">{\an8}こ</font></p>
+<p begin="998100000t" end="1027200000t" region="bottomCenter" style="s1" xml:id="subtitle116"><font face="BE9974AE" size="57" color="#a60e21">{\an5}切</font></p>
+<p begin="998600000t" end="1026700000t" region="bottomCenter" style="s1" xml:id="subtitle117"><font face="EA8553E2" size="40" color="#a60e21">{\an8}の</font></p>
+<p begin="999100000t" end="1027200000t" region="bottomCenter" style="s1" xml:id="subtitle118"><font face="EA8553E2" size="40" color="#a60e21">{\an8}手</font></p>
+<p begin="1023200000t" end="1052800000t" region="bottomCenter" style="s1" xml:id="subtitle119"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="1023200000t" end="1047800000t" region="bottomCenter" style="s1" xml:id="subtitle120"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1023700000t" end="1053300000t" region="bottomCenter" style="s1" xml:id="subtitle121"><font face="EA8553E2" size="40" color="#a60e21">{\an8}I’ve</font></p>
+<p begin="1023700000t" end="1048300000t" region="bottomCenter" style="s1" xml:id="subtitle122"><font face="BE9974AE" size="57" color="#a60e21">{\an5}我</font></p>
+<p begin="1024200000t" end="1053800000t" region="bottomCenter" style="s1" xml:id="subtitle123"><font face="EA8553E2" size="40" color="#a60e21">{\an8}got…</font></p>
+<p begin="1024200000t" end="1048800000t" region="bottomCenter" style="s1" xml:id="subtitle124"><font face="BE9974AE" size="57" color="#a60e21">{\an5}所</font></p>
+<p begin="1024700000t" end="1054300000t" region="bottomCenter" style="s1" xml:id="subtitle125"><font face="EA8553E2" size="40" color="#a60e21">{\an8}I’ve</font></p>
+<p begin="1024700000t" end="1049300000t" region="bottomCenter" style="s1" xml:id="subtitle126"><font face="BE9974AE" size="57" color="#a60e21">{\an5}掌</font></p>
+<p begin="1025200000t" end="1054800000t" region="bottomCenter" style="s1" xml:id="subtitle127"><font face="EA8553E2" size="40" color="#a60e21">{\an8}got…</font></p>
+<p begin="1025200000t" end="1049800000t" region="bottomCenter" style="s1" xml:id="subtitle128"><font face="BE9974AE" size="57" color="#a60e21">{\an5}控</font></p>
+<p begin="1025700000t" end="1055300000t" region="bottomCenter" style="s1" xml:id="subtitle129"><font face="EA8553E2" size="40" color="#a60e21">{\an8}only</font></p>
+<p begin="1025700000t" end="1050300000t" region="bottomCenter" style="s1" xml:id="subtitle130"><font face="BE9974AE" size="57" color="#a60e21">{\an5}…</font></p>
+<p begin="1026200000t" end="1055800000t" region="bottomCenter" style="s1" xml:id="subtitle131"><font face="EA8553E2" size="40" color="#a60e21">{\an8}my</font></p>
+<p begin="1026200000t" end="1050800000t" region="bottomCenter" style="s1" xml:id="subtitle132"><font face="BE9974AE" size="57" color="#a60e21">{\an5}我</font></p>
+<p begin="1026700000t" end="1056300000t" region="bottomCenter" style="s1" xml:id="subtitle133"><font face="EA8553E2" size="40" color="#a60e21">{\an8}bones！</font></p>
+<p begin="1026700000t" end="1051300000t" region="bottomCenter" style="s1" xml:id="subtitle134"><font face="BE9974AE" size="57" color="#a60e21">{\an5}所</font></p>
+<p begin="1027200000t" end="1051800000t" region="bottomCenter" style="s1" xml:id="subtitle135"><font face="BE9974AE" size="57" color="#a60e21">{\an5}掌</font></p>
+<p begin="1027700000t" end="1052300000t" region="bottomCenter" style="s1" xml:id="subtitle136"><font face="BE9974AE" size="57" color="#a60e21">{\an5}控</font></p>
+<p begin="1028200000t" end="1052800000t" region="bottomCenter" style="s1" xml:id="subtitle137"><font face="BE9974AE" size="57" color="#a60e21">{\an5}…</font></p>
+<p begin="1028700000t" end="1053300000t" region="bottomCenter" style="s1" xml:id="subtitle138"><font face="BE9974AE" size="57" color="#a60e21">{\an5}只</font></p>
+<p begin="1029200000t" end="1053800000t" region="bottomCenter" style="s1" xml:id="subtitle139"><font face="BE9974AE" size="57" color="#a60e21">{\an5}有</font></p>
+<p begin="1029700000t" end="1054300000t" region="bottomCenter" style="s1" xml:id="subtitle140"><font face="BE9974AE" size="57" color="#a60e21">{\an5}此</font></p>
+<p begin="1030200000t" end="1054800000t" region="bottomCenter" style="s1" xml:id="subtitle141"><font face="BE9974AE" size="57" color="#a60e21">{\an5}身</font></p>
+<p begin="1030700000t" end="1055300000t" region="bottomCenter" style="s1" xml:id="subtitle142"><font face="BE9974AE" size="57" color="#a60e21">{\an5}我</font></p>
+<p begin="1031200000t" end="1055800000t" region="bottomCenter" style="s1" xml:id="subtitle143"><font face="BE9974AE" size="57" color="#a60e21">{\an5}骨</font></p>
+<p begin="1031700000t" end="1056300000t" region="bottomCenter" style="s1" xml:id="subtitle144"><font face="BE9974AE" size="57" color="#a60e21">{\an5}！</font></p>
+<p begin="1053000000t" end="1079900000t" region="bottomCenter" style="s1" xml:id="subtitle145"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="1053000000t" end="1079900000t" region="bottomCenter" style="s1" xml:id="subtitle146"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1053500000t" end="1080400000t" region="bottomCenter" style="s1" xml:id="subtitle147"><font face="EA8553E2" size="40" color="#a60e21">{\an8}Oh</font></p>
+<p begin="1053500000t" end="1080400000t" region="bottomCenter" style="s1" xml:id="subtitle148"><font face="BE9974AE" size="57" color="#a60e21">{\an5}啊</font></p>
+<p begin="1054000000t" end="1080900000t" region="bottomCenter" style="s1" xml:id="subtitle149"><font face="EA8553E2" size="40" color="#a60e21">{\an8}I’m</font></p>
+<p begin="1054000000t" end="1080900000t" region="bottomCenter" style="s1" xml:id="subtitle150"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1054500000t" end="1081400000t" region="bottomCenter" style="s1" xml:id="subtitle151"><font face="EA8553E2" size="40" color="#a60e21">{\an8}cry</font></p>
+<p begin="1054500000t" end="1081400000t" region="bottomCenter" style="s1" xml:id="subtitle152"><font face="BE9974AE" size="57" color="#a60e21">{\an5}我</font></p>
+<p begin="1055000000t" end="1081900000t" region="bottomCenter" style="s1" xml:id="subtitle153"><font face="EA8553E2" size="40" color="#a60e21">{\an8}ing</font></p>
+<p begin="1055000000t" end="1081900000t" region="bottomCenter" style="s1" xml:id="subtitle154"><font face="BE9974AE" size="57" color="#a60e21">{\an5}在</font></p>
+<p begin="1055500000t" end="1082400000t" region="bottomCenter" style="s1" xml:id="subtitle155"><font face="EA8553E2" size="40" color="#a60e21">{\an8}to</font></p>
+<p begin="1055500000t" end="1082400000t" region="bottomCenter" style="s1" xml:id="subtitle156"><font face="BE9974AE" size="57" color="#a60e21">{\an5}暗</font></p>
+<p begin="1056000000t" end="1082900000t" region="bottomCenter" style="s1" xml:id="subtitle157"><font face="EA8553E2" size="40" color="#a60e21">{\an8}the</font></p>
+<p begin="1056000000t" end="1082900000t" region="bottomCenter" style="s1" xml:id="subtitle158"><font face="BE9974AE" size="57" color="#a60e21">{\an5}夜</font></p>
+<p begin="1056500000t" end="1083400000t" region="bottomCenter" style="s1" xml:id="subtitle159"><font face="EA8553E2" size="40" color="#a60e21">{\an8}dark</font></p>
+<p begin="1056500000t" end="1083400000t" region="bottomCenter" style="s1" xml:id="subtitle160"><font face="BE9974AE" size="57" color="#a60e21">{\an5}中</font></p>
+<p begin="1057000000t" end="1083900000t" region="bottomCenter" style="s1" xml:id="subtitle161"><font face="EA8553E2" size="40" color="#a60e21">{\an8}est</font></p>
+<p begin="1057000000t" end="1083900000t" region="bottomCenter" style="s1" xml:id="subtitle162"><font face="BE9974AE" size="57" color="#a60e21">{\an5}啜</font></p>
+<p begin="1057500000t" end="1084400000t" region="bottomCenter" style="s1" xml:id="subtitle163"><font face="EA8553E2" size="40" color="#a60e21">{\an8}sky</font></p>
+<p begin="1057500000t" end="1084400000t" region="bottomCenter" style="s1" xml:id="subtitle164"><font face="BE9974AE" size="57" color="#a60e21">{\an5}泣</font></p>
+<p begin="1083100000t" end="1111300000t" region="bottomCenter" style="s1" xml:id="subtitle165"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="1083100000t" end="1110800000t" region="bottomCenter" style="s1" xml:id="subtitle166"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1083600000t" end="1111800000t" region="bottomCenter" style="s1" xml:id="subtitle167"><font face="EA8553E2" size="40" color="#a60e21">{\an8}There</font></p>
+<p begin="1083600000t" end="1111300000t" region="bottomCenter" style="s1" xml:id="subtitle168"><font face="BE9974AE" size="57" color="#a60e21">{\an5}长</font></p>
+<p begin="1084100000t" end="1112300000t" region="bottomCenter" style="s1" xml:id="subtitle169"><font face="EA8553E2" size="40" color="#a60e21">{\an8}’s</font></p>
+<p begin="1084100000t" end="1111800000t" region="bottomCenter" style="s1" xml:id="subtitle170"><font face="BE9974AE" size="57" color="#a60e21">{\an5}夜</font></p>
+<p begin="1084600000t" end="1112800000t" region="bottomCenter" style="s1" xml:id="subtitle171"><font face="EA8553E2" size="40" color="#a60e21">{\an8}no</font></p>
+<p begin="1084600000t" end="1112300000t" region="bottomCenter" style="s1" xml:id="subtitle172"><font face="BE9974AE" size="57" color="#a60e21">{\an5}伶</font></p>
+<p begin="1085100000t" end="1113300000t" region="bottomCenter" style="s1" xml:id="subtitle173"><font face="EA8553E2" size="40" color="#a60e21">{\an8}light</font></p>
+<p begin="1085100000t" end="1112800000t" region="bottomCenter" style="s1" xml:id="subtitle174"><font face="BE9974AE" size="57" color="#a60e21">{\an5}仃</font></p>
+<p begin="1085600000t" end="1113800000t" region="bottomCenter" style="s1" xml:id="subtitle175"><font face="EA8553E2" size="40" color="#a60e21">{\an8}in</font></p>
+<p begin="1085600000t" end="1113300000t" region="bottomCenter" style="s1" xml:id="subtitle176"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1086100000t" end="1114300000t" region="bottomCenter" style="s1" xml:id="subtitle177"><font face="EA8553E2" size="40" color="#a60e21">{\an8}this</font></p>
+<p begin="1086100000t" end="1113800000t" region="bottomCenter" style="s1" xml:id="subtitle178"><font face="BE9974AE" size="57" color="#a60e21">{\an5}黯</font></p>
+<p begin="1086600000t" end="1114800000t" region="bottomCenter" style="s1" xml:id="subtitle179"><font face="EA8553E2" size="40" color="#a60e21">{\an8}lonely</font></p>
+<p begin="1086600000t" end="1114300000t" region="bottomCenter" style="s1" xml:id="subtitle180"><font face="BE9974AE" size="57" color="#a60e21">{\an5}然</font></p>
+<p begin="1087100000t" end="1115300000t" region="bottomCenter" style="s1" xml:id="subtitle181"><font face="EA8553E2" size="40" color="#a60e21">{\an8}night</font></p>
+<p begin="1087100000t" end="1114800000t" region="bottomCenter" style="s1" xml:id="subtitle182"><font face="BE9974AE" size="57" color="#a60e21">{\an5}无</font></p>
+<p begin="1087600000t" end="1115300000t" region="bottomCenter" style="s1" xml:id="subtitle183"><font face="BE9974AE" size="57" color="#a60e21">{\an5}光</font></p>
+<p begin="1112200000t" end="1139800000t" region="bottomCenter" style="s1" xml:id="subtitle184"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="1112200000t" end="1141800000t" region="bottomCenter" style="s1" xml:id="subtitle185"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1112700000t" end="1140300000t" region="bottomCenter" style="s1" xml:id="subtitle186"><font face="EA8553E2" size="40" color="#a60e21">{\an8}欲</font></p>
+<p begin="1112700000t" end="1142300000t" region="bottomCenter" style="s1" xml:id="subtitle187"><font face="BE9974AE" size="57" color="#a60e21">{\an5}所</font></p>
+<p begin="1113200000t" end="1140800000t" region="bottomCenter" style="s1" xml:id="subtitle188"><font face="EA8553E2" size="40" color="#a60e21">{\an8}し</font></p>
+<p begin="1113200000t" end="1142800000t" region="bottomCenter" style="s1" xml:id="subtitle189"><font face="BE9974AE" size="57" color="#a60e21">{\an5}欲</font></p>
+<p begin="1113700000t" end="1141300000t" region="bottomCenter" style="s1" xml:id="subtitle190"><font face="EA8553E2" size="40" color="#a60e21">{\an8}い</font></p>
+<p begin="1113700000t" end="1143300000t" region="bottomCenter" style="s1" xml:id="subtitle191"><font face="BE9974AE" size="57" color="#a60e21">{\an5}之</font></p>
+<p begin="1114200000t" end="1141800000t" region="bottomCenter" style="s1" xml:id="subtitle192"><font face="EA8553E2" size="40" color="#a60e21">{\an8}も</font></p>
+<p begin="1114200000t" end="1143800000t" region="bottomCenter" style="s1" xml:id="subtitle193"><font face="BE9974AE" size="57" color="#a60e21">{\an5}物</font></p>
+<p begin="1114700000t" end="1142300000t" region="bottomCenter" style="s1" xml:id="subtitle194"><font face="EA8553E2" size="40" color="#a60e21">{\an8}の</font></p>
+<p begin="1114700000t" end="1144300000t" region="bottomCenter" style="s1" xml:id="subtitle195"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1115200000t" end="1142800000t" region="bottomCenter" style="s1" xml:id="subtitle196"><font face="EA8553E2" size="40" color="#a60e21">{\an8}は</font></p>
+<p begin="1115200000t" end="1144800000t" region="bottomCenter" style="s1" xml:id="subtitle197"><font face="BE9974AE" size="57" color="#a60e21">{\an5}为</font></p>
+<p begin="1115700000t" end="1143300000t" region="bottomCenter" style="s1" xml:id="subtitle198"><font face="EA8553E2" size="40" color="#a60e21">{\an8}も</font></p>
+<p begin="1115700000t" end="1145300000t" region="bottomCenter" style="s1" xml:id="subtitle199"><font face="BE9974AE" size="57" color="#a60e21">{\an5}何</font></p>
+<p begin="1116200000t" end="1143800000t" region="bottomCenter" style="s1" xml:id="subtitle200"><font face="EA8553E2" size="40" color="#a60e21">{\an8}う</font></p>
+<p begin="1116200000t" end="1145800000t" region="bottomCenter" style="s1" xml:id="subtitle201"><font face="BE9974AE" size="57" color="#a60e21">{\an5}不</font></p>
+<p begin="1116700000t" end="1144300000t" region="bottomCenter" style="s1" xml:id="subtitle202"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="1116700000t" end="1146300000t" region="bottomCenter" style="s1" xml:id="subtitle203"><font face="BE9974AE" size="57" color="#a60e21">{\an5}再</font></p>
+<p begin="1117200000t" end="1144800000t" region="bottomCenter" style="s1" xml:id="subtitle204"><font face="EA8553E2" size="40" color="#a60e21">{\an8}無</font></p>
+<p begin="1117200000t" end="1146800000t" region="bottomCenter" style="s1" xml:id="subtitle205"><font face="BE9974AE" size="57" color="#a60e21">{\an5}冀</font></p>
+<p begin="1117700000t" end="1145300000t" region="bottomCenter" style="s1" xml:id="subtitle206"><font face="EA8553E2" size="40" color="#a60e21">{\an8}く</font></p>
+<p begin="1117700000t" end="1147300000t" region="bottomCenter" style="s1" xml:id="subtitle207"><font face="BE9974AE" size="57" color="#a60e21">{\an5}求</font></p>
+<p begin="1118200000t" end="1145800000t" region="bottomCenter" style="s1" xml:id="subtitle208"><font face="EA8553E2" size="40" color="#a60e21">{\an8}と</font></p>
+<p begin="1118700000t" end="1146300000t" region="bottomCenter" style="s1" xml:id="subtitle209"><font face="EA8553E2" size="40" color="#a60e21">{\an8}も</font></p>
+<p begin="1119200000t" end="1146800000t" region="bottomCenter" style="s1" xml:id="subtitle210"><font face="EA8553E2" size="40" color="#a60e21">{\an8}な</font></p>
+<p begin="1119700000t" end="1147300000t" region="bottomCenter" style="s1" xml:id="subtitle211"><font face="EA8553E2" size="40" color="#a60e21">{\an8}ぜ</font></p>
+<p begin="1143300000t" end="1159900000t" region="bottomCenter" style="s1" xml:id="subtitle212"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="1143300000t" end="1159900000t" region="bottomCenter" style="s1" xml:id="subtitle213"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1143800000t" end="1160400000t" region="bottomCenter" style="s1" xml:id="subtitle214"><font face="EA8553E2" size="40" color="#a60e21">{\an8}Can’t</font></p>
+<p begin="1143800000t" end="1160400000t" region="bottomCenter" style="s1" xml:id="subtitle215"><font face="BE9974AE" size="57" color="#a60e21">{\an5}仍</font></p>
+<p begin="1144300000t" end="1160900000t" region="bottomCenter" style="s1" xml:id="subtitle216"><font face="EA8553E2" size="40" color="#a60e21">{\an8}stop</font></p>
+<p begin="1144300000t" end="1160900000t" region="bottomCenter" style="s1" xml:id="subtitle217"><font face="BE9974AE" size="57" color="#a60e21">{\an5}难</font></p>
+<p begin="1144800000t" end="1161400000t" region="bottomCenter" style="s1" xml:id="subtitle218"><font face="EA8553E2" size="40" color="#a60e21">{\an8}get</font></p>
+<p begin="1144800000t" end="1161400000t" region="bottomCenter" style="s1" xml:id="subtitle219"><font face="BE9974AE" size="57" color="#a60e21">{\an5}以</font></p>
+<p begin="1145300000t" end="1161900000t" region="bottomCenter" style="s1" xml:id="subtitle220"><font face="EA8553E2" size="40" color="#a60e21">{\an8}ting</font></p>
+<p begin="1145300000t" end="1161900000t" region="bottomCenter" style="s1" xml:id="subtitle221"><font face="BE9974AE" size="57" color="#a60e21">{\an5}摆</font></p>
+<p begin="1145800000t" end="1162400000t" region="bottomCenter" style="s1" xml:id="subtitle222"><font face="EA8553E2" size="40" color="#a60e21">{\an8}all</font></p>
+<p begin="1145800000t" end="1162400000t" region="bottomCenter" style="s1" xml:id="subtitle223"><font face="BE9974AE" size="57" color="#a60e21">{\an5}脱</font></p>
+<p begin="1173200000t" end="1226900000t" region="bottomCenter" style="s1" xml:id="subtitle224"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="1173200000t" end="1225400000t" region="bottomCenter" style="s1" xml:id="subtitle225"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1173700000t" end="1227400000t" region="bottomCenter" style="s1" xml:id="subtitle226"><font face="EA8553E2" size="40" color="#a60e21">{\an8}栄</font></p>
+<p begin="1173700000t" end="1225900000t" region="bottomCenter" style="s1" xml:id="subtitle227"><font face="BE9974AE" size="57" color="#a60e21">{\an5}建</font></p>
+<p begin="1174200000t" end="1227900000t" region="bottomCenter" style="s1" xml:id="subtitle228"><font face="EA8553E2" size="40" color="#a60e21">{\an8}光</font></p>
+<p begin="1174200000t" end="1226400000t" region="bottomCenter" style="s1" xml:id="subtitle229"><font face="BE9974AE" size="57" color="#a60e21">{\an5}立</font></p>
+<p begin="1174700000t" end="1228400000t" region="bottomCenter" style="s1" xml:id="subtitle230"><font face="EA8553E2" size="40" color="#a60e21">{\an8}と</font></p>
+<p begin="1174700000t" end="1226900000t" region="bottomCenter" style="s1" xml:id="subtitle231"><font face="BE9974AE" size="57" color="#a60e21">{\an5}光</font></p>
+<p begin="1175200000t" end="1228900000t" region="bottomCenter" style="s1" xml:id="subtitle232"><font face="EA8553E2" size="40" color="#a60e21">{\an8}虚</font></p>
+<p begin="1175200000t" end="1227400000t" region="bottomCenter" style="s1" xml:id="subtitle233"><font face="BE9974AE" size="57" color="#a60e21">{\an5}荣</font></p>
+<p begin="1175700000t" end="1229400000t" region="bottomCenter" style="s1" xml:id="subtitle234"><font face="EA8553E2" size="40" color="#a60e21">{\an8}構</font></p>
+<p begin="1175700000t" end="1227900000t" region="bottomCenter" style="s1" xml:id="subtitle235"><font face="BE9974AE" size="57" color="#a60e21">{\an5}与</font></p>
+<p begin="1176200000t" end="1229900000t" region="bottomCenter" style="s1" xml:id="subtitle236"><font face="EA8553E2" size="40" color="#a60e21">{\an8}の</font></p>
+<p begin="1176200000t" end="1228400000t" region="bottomCenter" style="s1" xml:id="subtitle237"><font face="BE9974AE" size="57" color="#a60e21">{\an5}虚</font></p>
+<p begin="1176700000t" end="1230400000t" region="bottomCenter" style="s1" xml:id="subtitle238"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="1176700000t" end="1228900000t" region="bottomCenter" style="s1" xml:id="subtitle239"><font face="BE9974AE" size="57" color="#a60e21">{\an5}构</font></p>
+<p begin="1177200000t" end="1230900000t" region="bottomCenter" style="s1" xml:id="subtitle240"><font face="EA8553E2" size="40" color="#a60e21">{\an8}城</font></p>
+<p begin="1177200000t" end="1229400000t" region="bottomCenter" style="s1" xml:id="subtitle241"><font face="BE9974AE" size="57" color="#a60e21">{\an5}之</font></p>
+<p begin="1177700000t" end="1231400000t" region="bottomCenter" style="s1" xml:id="subtitle242"><font face="EA8553E2" size="40" color="#a60e21">{\an8}塞</font></p>
+<p begin="1177700000t" end="1229900000t" region="bottomCenter" style="s1" xml:id="subtitle243"><font face="BE9974AE" size="57" color="#a60e21">{\an5}上</font></p>
+<p begin="1178200000t" end="1231900000t" region="bottomCenter" style="s1" xml:id="subtitle244"><font face="EA8553E2" size="40" color="#a60e21">{\an8}の</font></p>
+<p begin="1178200000t" end="1230400000t" region="bottomCenter" style="s1" xml:id="subtitle245"><font face="BE9974AE" size="57" color="#a60e21">{\an5}的</font></p>
+<p begin="1178700000t" end="1232400000t" region="bottomCenter" style="s1" xml:id="subtitle246"><font face="EA8553E2" size="40" color="#a60e21">{\an8}頂</font></p>
+<p begin="1178700000t" end="1230900000t" region="bottomCenter" style="s1" xml:id="subtitle247"><font face="BE9974AE" size="57" color="#a60e21">{\an5}城</font></p>
+<p begin="1179200000t" end="1232900000t" region="bottomCenter" style="s1" xml:id="subtitle248"><font face="EA8553E2" size="40" color="#a60e21">{\an8}上</font></p>
+<p begin="1179200000t" end="1231400000t" region="bottomCenter" style="s1" xml:id="subtitle249"><font face="BE9974AE" size="57" color="#a60e21">{\an5}池</font></p>
+<p begin="1179700000t" end="1233400000t" region="bottomCenter" style="s1" xml:id="subtitle250"><font face="EA8553E2" size="40" color="#a60e21">{\an8}で</font></p>
+<p begin="1179700000t" end="1231900000t" region="bottomCenter" style="s1" xml:id="subtitle251"><font face="BE9974AE" size="57" color="#a60e21">{\an5}之</font></p>
+<p begin="1180200000t" end="1233900000t" region="bottomCenter" style="s1" xml:id="subtitle252"><font face="EA8553E2" size="40" color="#a60e21">{\an8}迷</font></p>
+<p begin="1180200000t" end="1232400000t" region="bottomCenter" style="s1" xml:id="subtitle253"><font face="BE9974AE" size="57" color="#a60e21">{\an5}巅</font></p>
+<p begin="1180700000t" end="1234400000t" region="bottomCenter" style="s1" xml:id="subtitle254"><font face="EA8553E2" size="40" color="#a60e21">{\an8}う</font></p>
+<p begin="1180700000t" end="1232900000t" region="bottomCenter" style="s1" xml:id="subtitle255"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1181200000t" end="1234900000t" region="bottomCenter" style="s1" xml:id="subtitle256"><font face="EA8553E2" size="40" color="#a60e21">{\an8}未</font></p>
+<p begin="1181200000t" end="1233400000t" region="bottomCenter" style="s1" xml:id="subtitle257"><font face="BE9974AE" size="57" color="#a60e21">{\an5}彷</font></p>
+<p begin="1181700000t" end="1235400000t" region="bottomCenter" style="s1" xml:id="subtitle258"><font face="EA8553E2" size="40" color="#a60e21">{\an8}来</font></p>
+<p begin="1181700000t" end="1233900000t" region="bottomCenter" style="s1" xml:id="subtitle259"><font face="BE9974AE" size="57" color="#a60e21">{\an5}徨</font></p>
+<p begin="1182200000t" end="1234400000t" region="bottomCenter" style="s1" xml:id="subtitle260"><font face="BE9974AE" size="57" color="#a60e21">{\an5}的</font></p>
+<p begin="1182700000t" end="1234900000t" region="bottomCenter" style="s1" xml:id="subtitle261"><font face="BE9974AE" size="57" color="#a60e21">{\an5}未</font></p>
+<p begin="1183200000t" end="1235400000t" region="bottomCenter" style="s1" xml:id="subtitle262"><font face="BE9974AE" size="57" color="#a60e21">{\an5}来</font></p>
+<p begin="1232100000t" end="1291600000t" region="bottomCenter" style="s1" xml:id="subtitle263"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="1232100000t" end="1291100000t" region="bottomCenter" style="s1" xml:id="subtitle264"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1232600000t" end="1292100000t" region="bottomCenter" style="s1" xml:id="subtitle265"><font face="EA8553E2" size="40" color="#a60e21">{\an8}潰</font></p>
+<p begin="1232600000t" end="1291600000t" region="bottomCenter" style="s1" xml:id="subtitle266"><font face="BE9974AE" size="57" color="#a60e21">{\an5}毁</font></p>
+<p begin="1233100000t" end="1292590000t" region="bottomCenter" style="s1" xml:id="subtitle267"><font face="EA8553E2" size="40" color="#a60e21">{\an8}え</font></p>
+<p begin="1233100000t" end="1292100000t" region="bottomCenter" style="s1" xml:id="subtitle268"><font face="BE9974AE" size="57" color="#a60e21">{\an5}灭</font></p>
+<p begin="1233600000t" end="1293100000t" region="bottomCenter" style="s1" xml:id="subtitle269"><font face="EA8553E2" size="40" color="#a60e21">{\an8}て</font></p>
+<p begin="1233600000t" end="1292590000t" region="bottomCenter" style="s1" xml:id="subtitle270"><font face="BE9974AE" size="57" color="#a60e21">{\an5}而</font></p>
+<p begin="1234100000t" end="1293600000t" region="bottomCenter" style="s1" xml:id="subtitle271"><font face="EA8553E2" size="40" color="#a60e21">{\an8}も</font></p>
+<p begin="1234100000t" end="1293100000t" region="bottomCenter" style="s1" xml:id="subtitle272"><font face="BE9974AE" size="57" color="#a60e21">{\an5}后</font></p>
+<p begin="1234600000t" end="1294100000t" region="bottomCenter" style="s1" xml:id="subtitle273"><font face="EA8553E2" size="40" color="#a60e21">{\an8}願</font></p>
+<p begin="1234600000t" end="1293600000t" region="bottomCenter" style="s1" xml:id="subtitle274"><font face="BE9974AE" size="57" color="#a60e21">{\an5}重</font></p>
+<p begin="1235100000t" end="1294600000t" region="bottomCenter" style="s1" xml:id="subtitle275"><font face="EA8553E2" size="40" color="#a60e21">{\an8}う</font></p>
+<p begin="1235100000t" end="1294100000t" region="bottomCenter" style="s1" xml:id="subtitle276"><font face="BE9974AE" size="57" color="#a60e21">{\an5}生</font></p>
+<p begin="1235600000t" end="1295090000t" region="bottomCenter" style="s1" xml:id="subtitle277"><font face="EA8553E2" size="40" color="#a60e21">{\an8}希</font></p>
+<p begin="1235600000t" end="1294600000t" region="bottomCenter" style="s1" xml:id="subtitle278"><font face="BE9974AE" size="57" color="#a60e21">{\an5}的</font></p>
+<p begin="1236100000t" end="1295600000t" region="bottomCenter" style="s1" xml:id="subtitle279"><font face="EA8553E2" size="40" color="#a60e21">{\an8}望</font></p>
+<p begin="1236100000t" end="1295090000t" region="bottomCenter" style="s1" xml:id="subtitle280"><font face="BE9974AE" size="57" color="#a60e21">{\an5}希</font></p>
+<p begin="1236600000t" end="1296100000t" region="bottomCenter" style="s1" xml:id="subtitle281"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="1236600000t" end="1295600000t" region="bottomCenter" style="s1" xml:id="subtitle282"><font face="BE9974AE" size="57" color="#a60e21">{\an5}望</font></p>
+<p begin="1237100000t" end="1296600000t" region="bottomCenter" style="s1" xml:id="subtitle283"><font face="EA8553E2" size="40" color="#a60e21">{\an8}屍</font></p>
+<p begin="1237100000t" end="1296100000t" region="bottomCenter" style="s1" xml:id="subtitle284"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1237600000t" end="1297100000t" region="bottomCenter" style="s1" xml:id="subtitle285"><font face="EA8553E2" size="40" color="#a60e21">{\an8}の</font></p>
+<p begin="1237600000t" end="1296600000t" region="bottomCenter" style="s1" xml:id="subtitle286"><font face="BE9974AE" size="57" color="#a60e21">{\an5}如</font></p>
+<p begin="1238100000t" end="1297590000t" region="bottomCenter" style="s1" xml:id="subtitle287"><font face="EA8553E2" size="40" color="#a60e21">{\an8}よ</font></p>
+<p begin="1238100000t" end="1297100000t" region="bottomCenter" style="s1" xml:id="subtitle288"><font face="BE9974AE" size="57" color="#a60e21">{\an5}行</font></p>
+<p begin="1238600000t" end="1298100000t" region="bottomCenter" style="s1" xml:id="subtitle289"><font face="EA8553E2" size="40" color="#a60e21">{\an8}う</font></p>
+<p begin="1238600000t" end="1297590000t" region="bottomCenter" style="s1" xml:id="subtitle290"><font face="BE9974AE" size="57" color="#a60e21">{\an5}尸</font></p>
+<p begin="1239100000t" end="1298600000t" region="bottomCenter" style="s1" xml:id="subtitle291"><font face="EA8553E2" size="40" color="#a60e21">{\an8}に</font></p>
+<p begin="1239100000t" end="1298100000t" region="bottomCenter" style="s1" xml:id="subtitle292"><font face="BE9974AE" size="57" color="#a60e21">{\an5}走</font></p>
+<p begin="1239600000t" end="1298600000t" region="bottomCenter" style="s1" xml:id="subtitle293"><font face="BE9974AE" size="57" color="#a60e21">{\an5}肉</font></p>
+<p begin="1294600000t" end="1309490000t" region="bottomCenter" style="s1" xml:id="subtitle294"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="1294600000t" end="1309000000t" region="bottomCenter" style="s1" xml:id="subtitle295"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1295090000t" end="1310000000t" region="bottomCenter" style="s1" xml:id="subtitle296"><font face="EA8553E2" size="40" color="#a60e21">{\an8}Just</font></p>
+<p begin="1295090000t" end="1309490000t" region="bottomCenter" style="s1" xml:id="subtitle297"><font face="BE9974AE" size="57" color="#a60e21">{\an5}予</font></p>
+<p begin="1295600000t" end="1310500000t" region="bottomCenter" style="s1" xml:id="subtitle298"><font face="EA8553E2" size="40" color="#a60e21">{\an8}give</font></p>
+<p begin="1295600000t" end="1310000000t" region="bottomCenter" style="s1" xml:id="subtitle299"><font face="BE9974AE" size="57" color="#a60e21">{\an5}我</font></p>
+<p begin="1296100000t" end="1311000000t" region="bottomCenter" style="s1" xml:id="subtitle300"><font face="EA8553E2" size="40" color="#a60e21">{\an8}me</font></p>
+<p begin="1296100000t" end="1310500000t" region="bottomCenter" style="s1" xml:id="subtitle301"><font face="BE9974AE" size="57" color="#a60e21">{\an5}更</font></p>
+<p begin="1296600000t" end="1311500000t" region="bottomCenter" style="s1" xml:id="subtitle302"><font face="EA8553E2" size="40" color="#a60e21">{\an8}more</font></p>
+<p begin="1296600000t" end="1311000000t" region="bottomCenter" style="s1" xml:id="subtitle303"><font face="BE9974AE" size="57" color="#a60e21">{\an5}多</font></p>
+<p begin="1297100000t" end="1312000000t" region="bottomCenter" style="s1" xml:id="subtitle304"><font face="EA8553E2" size="40" color="#a60e21">{\an8}power</font></p>
+<p begin="1297100000t" end="1311500000t" region="bottomCenter" style="s1" xml:id="subtitle305"><font face="BE9974AE" size="57" color="#a60e21">{\an5}力</font></p>
+<p begin="1297590000t" end="1312000000t" region="bottomCenter" style="s1" xml:id="subtitle306"><font face="BE9974AE" size="57" color="#a60e21">{\an5}量</font></p>
+<p begin="1308000000t" end="1361600000t" region="bottomCenter" style="s1" xml:id="subtitle307"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="1308000000t" end="1363100000t" region="bottomCenter" style="s1" xml:id="subtitle308"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1308500000t" end="1362100000t" region="bottomCenter" style="s1" xml:id="subtitle309"><font face="EA8553E2" size="40" color="#a60e21">{\an8}賽</font></p>
+<p begin="1308500000t" end="1363600000t" region="bottomCenter" style="s1" xml:id="subtitle310"><font face="BE9974AE" size="57" color="#a60e21">{\an5}破</font></p>
+<p begin="1309000000t" end="1362600000t" region="bottomCenter" style="s1" xml:id="subtitle311"><font face="EA8553E2" size="40" color="#a60e21">{\an8}を</font></p>
+<p begin="1309000000t" end="1364100000t" region="bottomCenter" style="s1" xml:id="subtitle312"><font face="BE9974AE" size="57" color="#a60e21">{\an5}釜</font></p>
+<p begin="1309490000t" end="1363100000t" region="bottomCenter" style="s1" xml:id="subtitle313"><font face="EA8553E2" size="40" color="#a60e21">{\an8}振</font></p>
+<p begin="1309490000t" end="1364600000t" region="bottomCenter" style="s1" xml:id="subtitle314"><font face="BE9974AE" size="57" color="#a60e21">{\an5}沉</font></p>
+<p begin="1310000000t" end="1363600000t" region="bottomCenter" style="s1" xml:id="subtitle315"><font face="EA8553E2" size="40" color="#a60e21">{\an8}る</font></p>
+<p begin="1310000000t" end="1365100000t" region="bottomCenter" style="s1" xml:id="subtitle316"><font face="BE9974AE" size="57" color="#a60e21">{\an5}舟</font></p>
+<p begin="1310500000t" end="1364100000t" region="bottomCenter" style="s1" xml:id="subtitle317"><font face="EA8553E2" size="40" color="#a60e21">{\an8}っ</font></p>
+<p begin="1310500000t" end="1365600000t" region="bottomCenter" style="s1" xml:id="subtitle318"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1311000000t" end="1364600000t" region="bottomCenter" style="s1" xml:id="subtitle319"><font face="EA8553E2" size="40" color="#a60e21">{\an8}て</font></p>
+<p begin="1311000000t" end="1366100000t" region="bottomCenter" style="s1" xml:id="subtitle320"><font face="BE9974AE" size="57" color="#a60e21">{\an5}跳</font></p>
+<p begin="1311500000t" end="1365100000t" region="bottomCenter" style="s1" xml:id="subtitle321"><font face="EA8553E2" size="40" color="#a60e21">{\an8}踊</font></p>
+<p begin="1311500000t" end="1366600000t" region="bottomCenter" style="s1" xml:id="subtitle322"><font face="BE9974AE" size="57" color="#a60e21">{\an5}起</font></p>
+<p begin="1312000000t" end="1365600000t" region="bottomCenter" style="s1" xml:id="subtitle323"><font face="EA8553E2" size="40" color="#a60e21">{\an8}り</font></p>
+<p begin="1312000000t" end="1367100000t" region="bottomCenter" style="s1" xml:id="subtitle324"><font face="BE9974AE" size="57" color="#a60e21">{\an5}舞</font></p>
+<p begin="1312500000t" end="1366100000t" region="bottomCenter" style="s1" xml:id="subtitle325"><font face="EA8553E2" size="40" color="#a60e21">{\an8}ま</font></p>
+<p begin="1312500000t" end="1367600000t" region="bottomCenter" style="s1" xml:id="subtitle326"><font face="BE9974AE" size="57" color="#a60e21">{\an5}吧</font></p>
+<p begin="1313000000t" end="1366600000t" region="bottomCenter" style="s1" xml:id="subtitle327"><font face="EA8553E2" size="40" color="#a60e21">{\an8}し</font></p>
+<p begin="1313500000t" end="1367100000t" region="bottomCenter" style="s1" xml:id="subtitle328"><font face="EA8553E2" size="40" color="#a60e21">{\an8}ょ</font></p>
+<p begin="1314000000t" end="1367600000t" region="bottomCenter" style="s1" xml:id="subtitle329"><font face="EA8553E2" size="40" color="#a60e21">{\an8}う</font></p>
+<p begin="1368100000t" end="1425200000t" region="bottomCenter" style="s1" xml:id="subtitle330"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="1368100000t" end="1426200000t" region="bottomCenter" style="s1" xml:id="subtitle331"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1368600000t" end="1425700000t" region="bottomCenter" style="s1" xml:id="subtitle332"><font face="EA8553E2" size="40" color="#a60e21">{\an8}悪</font></p>
+<p begin="1368600000t" end="1426700000t" region="bottomCenter" style="s1" xml:id="subtitle333"><font face="BE9974AE" size="57" color="#a60e21">{\an5}陷</font></p>
+<p begin="1369100000t" end="1426200000t" region="bottomCenter" style="s1" xml:id="subtitle334"><font face="EA8553E2" size="40" color="#a60e21">{\an8}夢</font></p>
+<p begin="1369100000t" end="1427200000t" region="bottomCenter" style="s1" xml:id="subtitle335"><font face="BE9974AE" size="57" color="#a60e21">{\an5}入</font></p>
+<p begin="1369600000t" end="1426700000t" region="bottomCenter" style="s1" xml:id="subtitle336"><font face="EA8553E2" size="40" color="#a60e21">{\an8}に</font></p>
+<p begin="1369600000t" end="1427700000t" region="bottomCenter" style="s1" xml:id="subtitle337"><font face="BE9974AE" size="57" color="#a60e21">{\an5}使</font></p>
+<p begin="1370100000t" end="1427200000t" region="bottomCenter" style="s1" xml:id="subtitle338"><font face="EA8553E2" size="40" color="#a60e21">{\an8}狂</font></p>
+<p begin="1370100000t" end="1428200000t" region="bottomCenter" style="s1" xml:id="subtitle339"><font face="BE9974AE" size="57" color="#a60e21">{\an5}人</font></p>
+<p begin="1370600000t" end="1427700000t" region="bottomCenter" style="s1" xml:id="subtitle340"><font face="EA8553E2" size="40" color="#a60e21">{\an8}わ</font></p>
+<p begin="1370600000t" end="1428700000t" region="bottomCenter" style="s1" xml:id="subtitle341"><font face="BE9974AE" size="57" color="#a60e21">{\an5}疯</font></p>
+<p begin="1371100000t" end="1428200000t" region="bottomCenter" style="s1" xml:id="subtitle342"><font face="EA8553E2" size="40" color="#a60e21">{\an8}さ</font></p>
+<p begin="1371100000t" end="1429200000t" region="bottomCenter" style="s1" xml:id="subtitle343"><font face="BE9974AE" size="57" color="#a60e21">{\an5}狂</font></p>
+<p begin="1371600000t" end="1428700000t" region="bottomCenter" style="s1" xml:id="subtitle344"><font face="EA8553E2" size="40" color="#a60e21">{\an8}れ</font></p>
+<p begin="1371600000t" end="1429700000t" region="bottomCenter" style="s1" xml:id="subtitle345"><font face="BE9974AE" size="57" color="#a60e21">{\an5}的</font></p>
+<p begin="1372100000t" end="1429200000t" region="bottomCenter" style="s1" xml:id="subtitle346"><font face="EA8553E2" size="40" color="#a60e21">{\an8}る</font></p>
+<p begin="1372100000t" end="1430200000t" region="bottomCenter" style="s1" xml:id="subtitle347"><font face="BE9974AE" size="57" color="#a60e21">{\an5}噩</font></p>
+<p begin="1372600000t" end="1429700000t" region="bottomCenter" style="s1" xml:id="subtitle348"><font face="EA8553E2" size="40" color="#a60e21">{\an8}ま</font></p>
+<p begin="1372600000t" end="1430700000t" region="bottomCenter" style="s1" xml:id="subtitle349"><font face="BE9974AE" size="57" color="#a60e21">{\an5}梦</font></p>
+<p begin="1373100000t" end="1430200000t" region="bottomCenter" style="s1" xml:id="subtitle350"><font face="EA8553E2" size="40" color="#a60e21">{\an8}ま</font></p>
+<p begin="1373600000t" end="1430700000t" region="bottomCenter" style="s1" xml:id="subtitle351"><font face="EA8553E2" size="40" color="#a60e21">{\an8}に</font></p>
+<p begin="1427400000t" end="1482200000t" region="bottomCenter" style="s1" xml:id="subtitle352"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="1427400000t" end="1483700000t" region="bottomCenter" style="s1" xml:id="subtitle353"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1427900000t" end="1482700000t" region="bottomCenter" style="s1" xml:id="subtitle354"><font face="EA8553E2" size="40" color="#a60e21">{\an8}罪</font></p>
+<p begin="1427900000t" end="1484200000t" region="bottomCenter" style="s1" xml:id="subtitle355"><font face="BE9974AE" size="57" color="#a60e21">{\an5}罄</font></p>
+<p begin="1428400000t" end="1483200000t" region="bottomCenter" style="s1" xml:id="subtitle356"><font face="EA8553E2" size="40" color="#a60e21">{\an8}科</font></p>
+<p begin="1428400000t" end="1484700000t" region="bottomCenter" style="s1" xml:id="subtitle357"><font face="BE9974AE" size="57" color="#a60e21">{\an5}竹</font></p>
+<p begin="1428900000t" end="1483700000t" region="bottomCenter" style="s1" xml:id="subtitle358"><font face="EA8553E2" size="40" color="#a60e21">{\an8}尽</font></p>
+<p begin="1428900000t" end="1485200000t" region="bottomCenter" style="s1" xml:id="subtitle359"><font face="BE9974AE" size="57" color="#a60e21">{\an5}难</font></p>
+<p begin="1429400000t" end="1484200000t" region="bottomCenter" style="s1" xml:id="subtitle360"><font face="EA8553E2" size="40" color="#a60e21">{\an8}く</font></p>
+<p begin="1429400000t" end="1485700000t" region="bottomCenter" style="s1" xml:id="subtitle361"><font face="BE9974AE" size="57" color="#a60e21">{\an5}书</font></p>
+<p begin="1429900000t" end="1484700000t" region="bottomCenter" style="s1" xml:id="subtitle362"><font face="EA8553E2" size="40" color="#a60e21">{\an8}し</font></p>
+<p begin="1429900000t" end="1486200000t" region="bottomCenter" style="s1" xml:id="subtitle363"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1430400000t" end="1485200000t" region="bottomCenter" style="s1" xml:id="subtitle364"><font face="EA8553E2" size="40" color="#a60e21">{\an8}て</font></p>
+<p begin="1430400000t" end="1486700000t" region="bottomCenter" style="s1" xml:id="subtitle365"><font face="BE9974AE" size="57" color="#a60e21">{\an5}跳</font></p>
+<p begin="1430900000t" end="1485700000t" region="bottomCenter" style="s1" xml:id="subtitle366"><font face="EA8553E2" size="40" color="#a60e21">{\an8}踊</font></p>
+<p begin="1430900000t" end="1487200000t" region="bottomCenter" style="s1" xml:id="subtitle367"><font face="BE9974AE" size="57" color="#a60e21">{\an5}起</font></p>
+<p begin="1431400000t" end="1486200000t" region="bottomCenter" style="s1" xml:id="subtitle368"><font face="EA8553E2" size="40" color="#a60e21">{\an8}り</font></p>
+<p begin="1431400000t" end="1487700000t" region="bottomCenter" style="s1" xml:id="subtitle369"><font face="BE9974AE" size="57" color="#a60e21">{\an5}舞</font></p>
+<p begin="1431900000t" end="1486700000t" region="bottomCenter" style="s1" xml:id="subtitle370"><font face="EA8553E2" size="40" color="#a60e21">{\an8}ま</font></p>
+<p begin="1431900000t" end="1488200000t" region="bottomCenter" style="s1" xml:id="subtitle371"><font face="BE9974AE" size="57" color="#a60e21">{\an5}吧</font></p>
+<p begin="1432400000t" end="1487200000t" region="bottomCenter" style="s1" xml:id="subtitle372"><font face="EA8553E2" size="40" color="#a60e21">{\an8}し</font></p>
+<p begin="1432900000t" end="1487700000t" region="bottomCenter" style="s1" xml:id="subtitle373"><font face="EA8553E2" size="40" color="#a60e21">{\an8}ょ</font></p>
+<p begin="1433400000t" end="1488200000t" region="bottomCenter" style="s1" xml:id="subtitle374"><font face="EA8553E2" size="40" color="#a60e21">{\an8}う</font></p>
+<p begin="1487900000t" end="1533100000t" region="bottomCenter" style="s1" xml:id="subtitle375"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="1487900000t" end="1533100000t" region="bottomCenter" style="s1" xml:id="subtitle376"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1488400000t" end="1533600000t" region="bottomCenter" style="s1" xml:id="subtitle377"><font face="EA8553E2" size="40" color="#a60e21">{\an8}虚</font></p>
+<p begin="1488400000t" end="1533600000t" region="bottomCenter" style="s1" xml:id="subtitle378"><font face="BE9974AE" size="57" color="#a60e21">{\an5}沉</font></p>
+<p begin="1488900000t" end="1534100000t" region="bottomCenter" style="s1" xml:id="subtitle379"><font face="EA8553E2" size="40" color="#a60e21">{\an8}し</font></p>
+<p begin="1488900000t" end="1534100000t" region="bottomCenter" style="s1" xml:id="subtitle380"><font face="BE9974AE" size="57" color="#a60e21">{\an5}入</font></p>
+<p begin="1489400000t" end="1534600000t" region="bottomCenter" style="s1" xml:id="subtitle381"><font face="EA8553E2" size="40" color="#a60e21">{\an8}さ</font></p>
+<p begin="1489400000t" end="1534600000t" region="bottomCenter" style="s1" xml:id="subtitle382"><font face="BE9974AE" size="57" color="#a60e21">{\an5}无</font></p>
+<p begin="1489900000t" end="1535100000t" region="bottomCenter" style="s1" xml:id="subtitle383"><font face="EA8553E2" size="40" color="#a60e21">{\an8}に</font></p>
+<p begin="1489900000t" end="1535100000t" region="bottomCenter" style="s1" xml:id="subtitle384"><font face="BE9974AE" size="57" color="#a60e21">{\an5}边</font></p>
+<p begin="1490400000t" end="1535600000t" region="bottomCenter" style="s1" xml:id="subtitle385"><font face="EA8553E2" size="40" color="#a60e21">{\an8}呑</font></p>
+<p begin="1490400000t" end="1535600000t" region="bottomCenter" style="s1" xml:id="subtitle386"><font face="BE9974AE" size="57" color="#a60e21">{\an5}无</font></p>
+<p begin="1490900000t" end="1536100000t" region="bottomCenter" style="s1" xml:id="subtitle387"><font face="EA8553E2" size="40" color="#a60e21">{\an8}ま</font></p>
+<p begin="1490900000t" end="1536100000t" region="bottomCenter" style="s1" xml:id="subtitle388"><font face="BE9974AE" size="57" color="#a60e21">{\an5}尽</font></p>
+<p begin="1491400000t" end="1536600000t" region="bottomCenter" style="s1" xml:id="subtitle389"><font face="EA8553E2" size="40" color="#a60e21">{\an8}れ</font></p>
+<p begin="1491400000t" end="1536600000t" region="bottomCenter" style="s1" xml:id="subtitle390"><font face="BE9974AE" size="57" color="#a60e21">{\an5}的</font></p>
+<p begin="1491900000t" end="1537100000t" region="bottomCenter" style="s1" xml:id="subtitle391"><font face="EA8553E2" size="40" color="#a60e21">{\an8}て</font></p>
+<p begin="1491900000t" end="1537100000t" region="bottomCenter" style="s1" xml:id="subtitle392"><font face="BE9974AE" size="57" color="#a60e21">{\an5}虚</font></p>
+<p begin="1492400000t" end="1537600000t" region="bottomCenter" style="s1" xml:id="subtitle393"><font face="EA8553E2" size="40" color="#a60e21">{\an8}も</font></p>
+<p begin="1492400000t" end="1537600000t" region="bottomCenter" style="s1" xml:id="subtitle394"><font face="BE9974AE" size="57" color="#a60e21">{\an5}无</font></p>
+<p begin="1533600000t" end="1584600000t" region="bottomCenter" style="s1" xml:id="subtitle395"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="1533600000t" end="1582600000t" region="bottomCenter" style="s1" xml:id="subtitle396"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1534100000t" end="1585100000t" region="bottomCenter" style="s1" xml:id="subtitle397"><font face="EA8553E2" size="40" color="#a60e21">{\an8}La</font></p>
+<p begin="1534100000t" end="1583100000t" region="bottomCenter" style="s1" xml:id="subtitle398"><font face="BE9974AE" size="57" color="#a60e21">{\an5}La</font></p>
+<p begin="1534600000t" end="1585600000t" region="bottomCenter" style="s1" xml:id="subtitle399"><font face="EA8553E2" size="40" color="#a60e21">{\an8}ta</font></p>
+<p begin="1534600000t" end="1583600000t" region="bottomCenter" style="s1" xml:id="subtitle400"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1535100000t" end="1586100000t" region="bottomCenter" style="s1" xml:id="subtitle401"><font face="EA8553E2" size="40" color="#a60e21">{\an8}ta</font></p>
+<p begin="1535100000t" end="1584100000t" region="bottomCenter" style="s1" xml:id="subtitle402"><font face="BE9974AE" size="57" color="#a60e21">{\an5}ta</font></p>
+<p begin="1535600000t" end="1586600000t" region="bottomCenter" style="s1" xml:id="subtitle403"><font face="EA8553E2" size="40" color="#a60e21">{\an8}覚</font></p>
+<p begin="1535600000t" end="1584600000t" region="bottomCenter" style="s1" xml:id="subtitle404"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1536100000t" end="1587100000t" region="bottomCenter" style="s1" xml:id="subtitle405"><font face="EA8553E2" size="40" color="#a60e21">{\an8}め</font></p>
+<p begin="1536100000t" end="1585100000t" region="bottomCenter" style="s1" xml:id="subtitle406"><font face="BE9974AE" size="57" color="#a60e21">{\an5}ta</font></p>
+<p begin="1536600000t" end="1587600000t" region="bottomCenter" style="s1" xml:id="subtitle407"><font face="EA8553E2" size="40" color="#a60e21">{\an8}な</font></p>
+<p begin="1536600000t" end="1585600000t" region="bottomCenter" style="s1" xml:id="subtitle408"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1537100000t" end="1588100000t" region="bottomCenter" style="s1" xml:id="subtitle409"><font face="EA8553E2" size="40" color="#a60e21">{\an8}い</font></p>
+<p begin="1537100000t" end="1586100000t" region="bottomCenter" style="s1" xml:id="subtitle410"><font face="BE9974AE" size="57" color="#a60e21">{\an5}永</font></p>
+<p begin="1537600000t" end="1588600000t" region="bottomCenter" style="s1" xml:id="subtitle411"><font face="EA8553E2" size="40" color="#a60e21">{\an8}幻</font></p>
+<p begin="1537600000t" end="1586600000t" region="bottomCenter" style="s1" xml:id="subtitle412"><font face="BE9974AE" size="57" color="#a60e21">{\an5}不</font></p>
+<p begin="1538100000t" end="1589100000t" region="bottomCenter" style="s1" xml:id="subtitle413"><font face="EA8553E2" size="40" color="#a60e21">{\an8}想</font></p>
+<p begin="1538100000t" end="1587100000t" region="bottomCenter" style="s1" xml:id="subtitle414"><font face="BE9974AE" size="57" color="#a60e21">{\an5}苏</font></p>
+<p begin="1538600000t" end="1589600000t" region="bottomCenter" style="s1" xml:id="subtitle415"><font face="EA8553E2" size="40" color="#a60e21">{\an8}よ</font></p>
+<p begin="1538600000t" end="1587600000t" region="bottomCenter" style="s1" xml:id="subtitle416"><font face="BE9974AE" size="57" color="#a60e21">{\an5}醒</font></p>
+<p begin="1539100000t" end="1588100000t" region="bottomCenter" style="s1" xml:id="subtitle417"><font face="BE9974AE" size="57" color="#a60e21">{\an5}的</font></p>
+<p begin="1539600000t" end="1588600000t" region="bottomCenter" style="s1" xml:id="subtitle418"><font face="BE9974AE" size="57" color="#a60e21">{\an5}梦</font></p>
+<p begin="1540100000t" end="1589100000t" region="bottomCenter" style="s1" xml:id="subtitle419"><font face="BE9974AE" size="57" color="#a60e21">{\an5}幻</font></p>
+<p begin="1540600000t" end="1589600000t" region="bottomCenter" style="s1" xml:id="subtitle420"><font face="BE9974AE" size="57" color="#a60e21">{\an5}啊</font></p>
+<p begin="1585600000t" end="1612000000t" region="bottomCenter" style="s1" xml:id="subtitle421"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="1585600000t" end="1607000000t" region="bottomCenter" style="s1" xml:id="subtitle422"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1586100000t" end="1612500000t" region="bottomCenter" style="s1" xml:id="subtitle423"><font face="EA8553E2" size="40" color="#a60e21">{\an8}La</font></p>
+<p begin="1586100000t" end="1607500000t" region="bottomCenter" style="s1" xml:id="subtitle424"><font face="BE9974AE" size="57" color="#a60e21">{\an5}La</font></p>
+<p begin="1586600000t" end="1613000000t" region="bottomCenter" style="s1" xml:id="subtitle425"><font face="EA8553E2" size="40" color="#a60e21">{\an8}ta</font></p>
+<p begin="1586600000t" end="1608000000t" region="bottomCenter" style="s1" xml:id="subtitle426"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1587100000t" end="1613500000t" region="bottomCenter" style="s1" xml:id="subtitle427"><font face="EA8553E2" size="40" color="#a60e21">{\an8}ta</font></p>
+<p begin="1587100000t" end="1608500000t" region="bottomCenter" style="s1" xml:id="subtitle428"><font face="BE9974AE" size="57" color="#a60e21">{\an5}ta</font></p>
+<p begin="1587600000t" end="1614000000t" region="bottomCenter" style="s1" xml:id="subtitle429"><font face="EA8553E2" size="40" color="#a60e21">{\an8}Get</font></p>
+<p begin="1587600000t" end="1609000000t" region="bottomCenter" style="s1" xml:id="subtitle430"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1588100000t" end="1614500000t" region="bottomCenter" style="s1" xml:id="subtitle431"><font face="EA8553E2" size="40" color="#a60e21">{\an8}away,</font></p>
+<p begin="1588100000t" end="1609500000t" region="bottomCenter" style="s1" xml:id="subtitle432"><font face="BE9974AE" size="57" color="#a60e21">{\an5}ta</font></p>
+<p begin="1588600000t" end="1615000000t" region="bottomCenter" style="s1" xml:id="subtitle433"><font face="EA8553E2" size="40" color="#a60e21">{\an8}hurry！</font></p>
+<p begin="1588600000t" end="1610000000t" region="bottomCenter" style="s1" xml:id="subtitle434"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1589100000t" end="1615500000t" region="bottomCenter" style="s1" xml:id="subtitle435"><font face="EA8553E2" size="40" color="#a60e21">{\an8}hurry！</font></p>
+<p begin="1589100000t" end="1610500000t" region="bottomCenter" style="s1" xml:id="subtitle436"><font face="BE9974AE" size="57" color="#a60e21">{\an5}速</font></p>
+<p begin="1589600000t" end="1611000000t" region="bottomCenter" style="s1" xml:id="subtitle437"><font face="BE9974AE" size="57" color="#a60e21">{\an5}速</font></p>
+<p begin="1590100000t" end="1611500000t" region="bottomCenter" style="s1" xml:id="subtitle438"><font face="BE9974AE" size="57" color="#a60e21">{\an5}离</font></p>
+<p begin="1590600000t" end="1612000000t" region="bottomCenter" style="s1" xml:id="subtitle439"><font face="BE9974AE" size="57" color="#a60e21">{\an5}开</font></p>
+<p begin="1591100000t" end="1612500000t" region="bottomCenter" style="s1" xml:id="subtitle440"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1591600000t" end="1613000000t" region="bottomCenter" style="s1" xml:id="subtitle441"><font face="BE9974AE" size="57" color="#a60e21">{\an5}快</font></p>
+<p begin="1592100000t" end="1613500000t" region="bottomCenter" style="s1" xml:id="subtitle442"><font face="BE9974AE" size="57" color="#a60e21">{\an5}点</font></p>
+<p begin="1592600000t" end="1614000000t" region="bottomCenter" style="s1" xml:id="subtitle443"><font face="BE9974AE" size="57" color="#a60e21">{\an5}！</font></p>
+<p begin="1593100000t" end="1614500000t" region="bottomCenter" style="s1" xml:id="subtitle444"><font face="BE9974AE" size="57" color="#a60e21">{\an5}快</font></p>
+<p begin="1593600000t" end="1615000000t" region="bottomCenter" style="s1" xml:id="subtitle445"><font face="BE9974AE" size="57" color="#a60e21">{\an5}点</font></p>
+<p begin="1594100000t" end="1615500000t" region="bottomCenter" style="s1" xml:id="subtitle446"><font face="BE9974AE" size="57" color="#a60e21">{\an5}！</font></p>
+<p begin="1611500000t" end="1644200000t" region="bottomCenter" style="s1" xml:id="subtitle447"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="1611500000t" end="1641700000t" region="bottomCenter" style="s1" xml:id="subtitle448"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1612000000t" end="1644700000t" region="bottomCenter" style="s1" xml:id="subtitle449"><font face="EA8553E2" size="40" color="#a60e21">{\an8}La</font></p>
+<p begin="1612000000t" end="1642200000t" region="bottomCenter" style="s1" xml:id="subtitle450"><font face="BE9974AE" size="57" color="#a60e21">{\an5}La</font></p>
+<p begin="1612500000t" end="1645200000t" region="bottomCenter" style="s1" xml:id="subtitle451"><font face="EA8553E2" size="40" color="#a60e21">{\an8}ta</font></p>
+<p begin="1612500000t" end="1642700000t" region="bottomCenter" style="s1" xml:id="subtitle452"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1613000000t" end="1645700000t" region="bottomCenter" style="s1" xml:id="subtitle453"><font face="EA8553E2" size="40" color="#a60e21">{\an8}ta</font></p>
+<p begin="1613000000t" end="1643200000t" region="bottomCenter" style="s1" xml:id="subtitle454"><font face="BE9974AE" size="57" color="#a60e21">{\an5}ta</font></p>
+<p begin="1613500000t" end="1646200000t" region="bottomCenter" style="s1" xml:id="subtitle455"><font face="EA8553E2" size="40" color="#a60e21">{\an8}果</font></p>
+<p begin="1613500000t" end="1643700000t" region="bottomCenter" style="s1" xml:id="subtitle456"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1614000000t" end="1646700000t" region="bottomCenter" style="s1" xml:id="subtitle457"><font face="EA8553E2" size="40" color="#a60e21">{\an8}て</font></p>
+<p begin="1614000000t" end="1644200000t" region="bottomCenter" style="s1" xml:id="subtitle458"><font face="BE9974AE" size="57" color="#a60e21">{\an5}ta</font></p>
+<p begin="1614500000t" end="1647200000t" region="bottomCenter" style="s1" xml:id="subtitle459"><font face="EA8553E2" size="40" color="#a60e21">{\an8}な</font></p>
+<p begin="1614500000t" end="1644700000t" region="bottomCenter" style="s1" xml:id="subtitle460"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1615000000t" end="1647700000t" region="bottomCenter" style="s1" xml:id="subtitle461"><font face="EA8553E2" size="40" color="#a60e21">{\an8}き</font></p>
+<p begin="1615000000t" end="1645200000t" region="bottomCenter" style="s1" xml:id="subtitle462"><font face="BE9974AE" size="57" color="#a60e21">{\an5}无</font></p>
+<p begin="1615500000t" end="1648200000t" region="bottomCenter" style="s1" xml:id="subtitle463"><font face="EA8553E2" size="40" color="#a60e21">{\an8}闇</font></p>
+<p begin="1615500000t" end="1645700000t" region="bottomCenter" style="s1" xml:id="subtitle464"><font face="BE9974AE" size="57" color="#a60e21">{\an5}边</font></p>
+<p begin="1616000000t" end="1648700000t" region="bottomCenter" style="s1" xml:id="subtitle465"><font face="EA8553E2" size="40" color="#a60e21">{\an8}夜</font></p>
+<p begin="1616000000t" end="1646200000t" region="bottomCenter" style="s1" xml:id="subtitle466"><font face="BE9974AE" size="57" color="#a60e21">{\an5}无</font></p>
+<p begin="1616500000t" end="1646700000t" region="bottomCenter" style="s1" xml:id="subtitle467"><font face="BE9974AE" size="57" color="#a60e21">{\an5}尽</font></p>
+<p begin="1617000000t" end="1647200000t" region="bottomCenter" style="s1" xml:id="subtitle468"><font face="BE9974AE" size="57" color="#a60e21">{\an5}的</font></p>
+<p begin="1617500000t" end="1647700000t" region="bottomCenter" style="s1" xml:id="subtitle469"><font face="BE9974AE" size="57" color="#a60e21">{\an5}黑</font></p>
+<p begin="1618000000t" end="1648200000t" region="bottomCenter" style="s1" xml:id="subtitle470"><font face="BE9974AE" size="57" color="#a60e21">{\an5}夜</font></p>
+<p begin="1618500000t" end="1648700000t" region="bottomCenter" style="s1" xml:id="subtitle471"><font face="BE9974AE" size="57" color="#a60e21">{\an5}啊</font></p>
+<p begin="1644700000t" end="1669600000t" region="bottomCenter" style="s1" xml:id="subtitle472"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="1644700000t" end="1668100000t" region="bottomCenter" style="s1" xml:id="subtitle473"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1645200000t" end="1670100000t" region="bottomCenter" style="s1" xml:id="subtitle474"><font face="EA8553E2" size="40" color="#a60e21">{\an8}La</font></p>
+<p begin="1645200000t" end="1668600000t" region="bottomCenter" style="s1" xml:id="subtitle475"><font face="BE9974AE" size="57" color="#a60e21">{\an5}La</font></p>
+<p begin="1645700000t" end="1670600000t" region="bottomCenter" style="s1" xml:id="subtitle476"><font face="EA8553E2" size="40" color="#a60e21">{\an8}ta</font></p>
+<p begin="1645700000t" end="1669100000t" region="bottomCenter" style="s1" xml:id="subtitle477"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1646200000t" end="1671100000t" region="bottomCenter" style="s1" xml:id="subtitle478"><font face="EA8553E2" size="40" color="#a60e21">{\an8}ta</font></p>
+<p begin="1646200000t" end="1669600000t" region="bottomCenter" style="s1" xml:id="subtitle479"><font face="BE9974AE" size="57" color="#a60e21">{\an5}ta</font></p>
+<p begin="1646700000t" end="1671600000t" region="bottomCenter" style="s1" xml:id="subtitle480"><font face="EA8553E2" size="40" color="#a60e21">{\an8}壊</font></p>
+<p begin="1646700000t" end="1670100000t" region="bottomCenter" style="s1" xml:id="subtitle481"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1647200000t" end="1672100000t" region="bottomCenter" style="s1" xml:id="subtitle482"><font face="EA8553E2" size="40" color="#a60e21">{\an8}れ</font></p>
+<p begin="1647200000t" end="1670600000t" region="bottomCenter" style="s1" xml:id="subtitle483"><font face="BE9974AE" size="57" color="#a60e21">{\an5}ta</font></p>
+<p begin="1647700000t" end="1672600000t" region="bottomCenter" style="s1" xml:id="subtitle484"><font face="EA8553E2" size="40" color="#a60e21">{\an8}る</font></p>
+<p begin="1647700000t" end="1671100000t" region="bottomCenter" style="s1" xml:id="subtitle485"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1648200000t" end="1673100000t" region="bottomCenter" style="s1" xml:id="subtitle486"><font face="EA8553E2" size="40" color="#a60e21">{\an8}よ</font></p>
+<p begin="1648200000t" end="1671600000t" region="bottomCenter" style="s1" xml:id="subtitle487"><font face="BE9974AE" size="57" color="#a60e21">{\an5}马</font></p>
+<p begin="1648700000t" end="1673600000t" region="bottomCenter" style="s1" xml:id="subtitle488"><font face="EA8553E2" size="40" color="#a60e21">{\an8}う</font></p>
+<p begin="1648700000t" end="1672100000t" region="bottomCenter" style="s1" xml:id="subtitle489"><font face="BE9974AE" size="57" color="#a60e21">{\an5}上</font></p>
+<p begin="1649200000t" end="1674100000t" region="bottomCenter" style="s1" xml:id="subtitle490"><font face="EA8553E2" size="40" color="#a60e21">{\an8}に</font></p>
+<p begin="1649200000t" end="1672600000t" region="bottomCenter" style="s1" xml:id="subtitle491"><font face="BE9974AE" size="57" color="#a60e21">{\an5}便</font></p>
+<p begin="1649700000t" end="1673100000t" region="bottomCenter" style="s1" xml:id="subtitle492"><font face="BE9974AE" size="57" color="#a60e21">{\an5}要</font></p>
+<p begin="1650200000t" end="1673600000t" region="bottomCenter" style="s1" xml:id="subtitle493"><font face="BE9974AE" size="57" color="#a60e21">{\an5}毁</font></p>
+<p begin="1650700000t" end="1674100000t" region="bottomCenter" style="s1" xml:id="subtitle494"><font face="BE9974AE" size="57" color="#a60e21">{\an5}灭</font></p>
+<p begin="1670100000t" end="1698600000t" region="bottomCenter" style="s1" xml:id="subtitle495"><font face="EA8553E2" size="40" color="#a60e21">{\an8}</font></p>
+<p begin="1670100000t" end="1696600000t" region="bottomCenter" style="s1" xml:id="subtitle496"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1670600000t" end="1699100000t" region="bottomCenter" style="s1" xml:id="subtitle497"><font face="EA8553E2" size="40" color="#a60e21">{\an8}Oh</font></p>
+<p begin="1670600000t" end="1697100000t" region="bottomCenter" style="s1" xml:id="subtitle498"><font face="BE9974AE" size="57" color="#a60e21">{\an5}啊</font></p>
+<p begin="1671100000t" end="1699600000t" region="bottomCenter" style="s1" xml:id="subtitle499"><font face="EA8553E2" size="40" color="#a60e21">{\an8}no！</font></p>
+<p begin="1671100000t" end="1697600000t" region="bottomCenter" style="s1" xml:id="subtitle500"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1671600000t" end="1700100000t" region="bottomCenter" style="s1" xml:id="subtitle501"><font face="EA8553E2" size="40" color="#a60e21">{\an8}I’m</font></p>
+<p begin="1671600000t" end="1698100000t" region="bottomCenter" style="s1" xml:id="subtitle502"><font face="BE9974AE" size="57" color="#a60e21">{\an5}不</font></p>
+<p begin="1672100000t" end="1700600000t" region="bottomCenter" style="s1" xml:id="subtitle503"><font face="EA8553E2" size="40" color="#a60e21">{\an8}fal</font></p>
+<p begin="1672100000t" end="1698600000t" region="bottomCenter" style="s1" xml:id="subtitle504"><font face="BE9974AE" size="57" color="#a60e21">{\an5}！</font></p>
+<p begin="1672600000t" end="1701100000t" region="bottomCenter" style="s1" xml:id="subtitle505"><font face="EA8553E2" size="40" color="#a60e21">{\an8}ling</font></p>
+<p begin="1672600000t" end="1699100000t" region="bottomCenter" style="s1" xml:id="subtitle506"><font face="BE9974AE" size="57" color="#a60e21">{\an5}</font></p>
+<p begin="1673100000t" end="1701600000t" region="bottomCenter" style="s1" xml:id="subtitle507"><font face="EA8553E2" size="40" color="#a60e21">{\an8}down</font></p>
+<p begin="1673100000t" end="1699600000t" region="bottomCenter" style="s1" xml:id="subtitle508"><font face="BE9974AE" size="57" color="#a60e21">{\an5}我</font></p>
+<p begin="1673600000t" end="1700100000t" region="bottomCenter" style="s1" xml:id="subtitle509"><font face="BE9974AE" size="57" color="#a60e21">{\an5}就</font></p>
+<p begin="1674100000t" end="1700600000t" region="bottomCenter" style="s1" xml:id="subtitle510"><font face="BE9974AE" size="57" color="#a60e21">{\an5}此</font></p>
+<p begin="1674600000t" end="1701100000t" region="bottomCenter" style="s1" xml:id="subtitle511"><font face="BE9974AE" size="57" color="#a60e21">{\an5}堕</font></p>
+<p begin="1675100000t" end="1701600000t" region="bottomCenter" style="s1" xml:id="subtitle512"><font face="BE9974AE" size="57" color="#a60e21">{\an5}落</font></p>
+<p begin="1735700000t" end="1779100000t" region="bottomCenter" style="s1" xml:id="subtitle513"><font size="48"><font face="BE9974AE"><font color="#ba0f0e"><font size="60">第四集|谋略的统治者</font></font></font></font></p>
+<p begin="1735700000t" end="1779100000t" region="bottomCenter" style="s1" xml:id="subtitle514"><font size="48"><font face="BE9974AE"><font color="#ba0f0e"><font size="60">第四集|谋略的统治者</font></font></font></font></p>
+<p begin="1796400000t" end="1807900000t" region="bottomCenter" style="s1" xml:id="subtitle515"><font face="0661519E" size="68">陛下 请问…</font></p>
+<p begin="1812200000t" end="1861300000t" region="bottomCenter" style="s1" xml:id="subtitle516"><font face="0661519E" size="68">在下猜想这里应该是帝国的首都 欧温塔尔</font></p>
+<p begin="1861300000t" end="1874600000t" region="bottomCenter" style="s1" xml:id="subtitle517"><font face="0661519E" size="68">没错</font></p>
+<p begin="1874600000t" end="1915200000t" region="bottomCenter" style="s1" xml:id="subtitle518"><font face="0661519E" size="68">可是我不记得我们通过了边境哨站</font></p>
+<p begin="1919100000t" end="1933300000t" region="bottomCenter" style="s1" xml:id="subtitle519"><font face="0661519E" size="68">细枝末节而已</font></p>
+<p begin="1933300000t" end="1968600000t" region="bottomCenter" style="s1" xml:id="subtitle520"><font face="0661519E" size="68">一国之国王秘密潜入他国境内可是国家层面的问题啊!</font></p>
+<p begin="1973300000t" end="1997700000t" region="bottomCenter" style="s1" xml:id="subtitle521"><font face="0661519E" size="68">我和艾尔·尼克斯私交甚笃</font></p>
+<p begin="2002300000t" end="2026800000t" region="bottomCenter" style="s1" xml:id="subtitle522"><font face="0661519E" size="68">他肯定会以博大的胸怀原谅我的</font></p>
+<p begin="2032000000t" end="2043300000t" region="bottomCenter" style="s1" xml:id="subtitle523"><font face="0661519E" size="68">既然这样…</font></p>
+<p begin="2060600000t" end="2071900000t" region="bottomCenter" style="s1" xml:id="subtitle524"><font face="0661519E" size="68">话虽这么说</font></p>
+<p begin="2076100000t" end="2099600000t" region="bottomCenter" style="s1" xml:id="subtitle525"><font face="0661519E" size="68">要是皇帝举办欢迎仪式</font></p>
+<p begin="2099600000t" end="2124800000t" region="bottomCenter" style="s1" xml:id="subtitle526"><font face="0661519E" size="68">我全然不懂贵族礼节一事就会暴露</font></p>
+<p begin="2124800000t" end="2147500000t" region="bottomCenter" style="s1" xml:id="subtitle527"><font face="0661519E" size="68">而且我也不打算见吉克尼夫</font></p>
+<p begin="2152800000t" end="2179000000t" region="bottomCenter" style="s1" xml:id="subtitle528"><font face="0661519E" size="68">好不容易用传送门偷渡进来</font></p>
+<p begin="2179000000t" end="2203200000t" region="bottomCenter" style="s1" xml:id="subtitle529"><font face="0661519E" size="68">就这样悄悄把要事做完</font></p>
+<p begin="2203200000t" end="2216800000t" region="bottomCenter" style="s1" xml:id="subtitle530"><font face="0661519E" size="68">魔导王陛下</font></p>
+<p begin="2220800000t" end="2267200000t" region="bottomCenter" style="s1" xml:id="subtitle531"><font face="0661519E" size="68">是时候告诉在下来此有何贵干了吧</font></p>
+<p begin="2278400000t" end="2309900000t" region="bottomCenter" style="s1" xml:id="subtitle532"><font face="0661519E" size="68">将帝国的冒险者聘请至我国</font></p>
+<p begin="2316300000t" end="2336600000t" region="bottomCenter" style="s1" xml:id="subtitle533"><font face="0661519E" size="68">难道说您要挖人吗</font></p>
+<p begin="2340800000t" end="2349500000t" region="bottomCenter" style="s1" xml:id="subtitle534"><font face="0661519E" size="68">是的</font></p>
+<p begin="2366200000t" end="2376100000t" region="bottomCenter" style="s1" xml:id="subtitle535"><font face="0661519E" size="68">可是陛下</font></p>
+<p begin="2381500000t" end="2419900000t" region="bottomCenter" style="s1" xml:id="subtitle536"><font face="0661519E" size="68">您觉得现役冒险者愿意舍弃已经获得的利益吗</font></p>
+<p begin="2424500000t" end="2454800000t" region="bottomCenter" style="s1" xml:id="subtitle537"><font face="0661519E" size="68">我想结果应该无法使陛下满意</font></p>
+<p begin="2469500000t" end="2496100000t" region="bottomCenter" style="s1" xml:id="subtitle538"><font face="0661519E" size="68">这种带有质疑的反论还真新鲜</font></p>
+<p begin="2510100000t" end="2528200000t" region="bottomCenter" style="s1" xml:id="subtitle539"><font face="0661519E" size="68">对不起 在下提出了无礼的意见</font></p>
+<p begin="2532900000t" end="2562790000t" region="bottomCenter" style="s1" xml:id="subtitle540"><font face="0661519E" size="68">不 我与你们境界与经历不同</font></p>
+<p begin="2562790000t" end="2610700000t" region="bottomCenter" style="s1" xml:id="subtitle541"><font face="0661519E" size="68">所以 有关人类行为之事项 我有可能会出错</font></p>
+<p begin="2610700000t" end="2639600000t" region="bottomCenter" style="s1" xml:id="subtitle542"><font face="0661519E" size="68">到时候 你还要像现在这样提出建议</font></p>
+<p begin="2639600000t" end="2647000000t" region="bottomCenter" style="s1" xml:id="subtitle543"><font face="0661519E" size="68">是</font></p>
+<p begin="2651800000t" end="2668800000t" region="bottomCenter" style="s1" xml:id="subtitle544"><font face="0661519E" size="68">请恕我僭越</font></p>
+<p begin="2672300000t" end="2715800000t" region="bottomCenter" style="s1" xml:id="subtitle545"><font face="0661519E" size="68">前几日陛下说要向冒险者发布探索未知区域的工作</font></p>
+<p begin="2715800000t" end="2747200000t" region="bottomCenter" style="s1" xml:id="subtitle546"><font face="0661519E" size="68">并且给予后援</font></p>
+<p begin="2758800000t" end="2808400000t" region="bottomCenter" style="s1" xml:id="subtitle547"><font face="0661519E" size="68">此话对今后的新星冒险者也适用吗</font></p>
+<p begin="2808400000t" end="2822800000t" region="bottomCenter" style="s1" xml:id="subtitle548"><font face="0661519E" size="68">我是这样打算的</font></p>
+<p begin="2822800000t" end="2867300000t" region="bottomCenter" style="s1" xml:id="subtitle549"><font face="0661519E" size="68">没错 我认为建立一个冒险者培育机构也是件好事</font></p>
+<p begin="2867300000t" end="2888500000t" region="bottomCenter" style="s1" xml:id="subtitle550"><font face="0661519E" size="68">没想到您如此远虑</font></p>
+<p begin="2888500000t" end="2916100000t" region="bottomCenter" style="s1" xml:id="subtitle551"><font face="0661519E" size="68">那么募集好苗子并加以培养 您看如何</font></p>
+<p begin="2936200000t" end="2962100000t" region="bottomCenter" style="s1" xml:id="subtitle552"><font face="0661519E" size="68">强者总是受万人敬仰</font></p>
+<p begin="2962100000t" end="2972500000t" region="bottomCenter" style="s1" xml:id="subtitle553"><font face="0661519E" size="68">这里是帝都</font></p>
+<p begin="2977500000t" end="3002500000t" region="bottomCenter" style="s1" xml:id="subtitle554"><font face="0661519E" size="68">陛下可前往斗技场展现魔导王的力量</font></p>
+<p begin="3002500000t" end="3019900000t" region="bottomCenter" style="s1" xml:id="subtitle555"><font face="0661519E" size="68">借此宣传 如何</font></p>
+<p begin="3028500000t" end="3041800000t" region="bottomCenter" style="s1" xml:id="subtitle556"><font face="0661519E" size="68">原来如此</font></p>
+<p begin="3041800000t" end="3054400000t" region="bottomCenter" style="s1" xml:id="subtitle557"><font face="0661519E" size="68">听起来挺有意思的啊</font></p>
+<p begin="3057900000t" end="3103900000t" region="bottomCenter" style="s1" xml:id="subtitle558"><font face="0661519E" size="68">帝国有一位最强且声名远扬的剑斗士——「武王」</font></p>
+<p begin="3103900000t" end="3130600000t" region="bottomCenter" style="s1" xml:id="subtitle559"><font face="0661519E" size="68">武之王? 了不得的名号</font></p>
+<p begin="3135700000t" end="3192500000t" region="bottomCenter" style="s1" xml:id="subtitle560"><font face="0661519E" size="68">现在的第八代 在历代武王中也是足以称得上最强</font></p>
+<p begin="3204500000t" end="3237500000t" region="bottomCenter" style="s1" xml:id="subtitle561"><font face="0661519E" size="68">我正好认识他的主人 也是斗技场的承办人之一</font></p>
+<p begin="3237500000t" end="3266900000t" region="bottomCenter" style="s1" xml:id="subtitle562"><font face="0661519E" size="68">要是您乐意的话让我来引见吧</font></p>
+<p begin="3301000000t" end="3317100000t" region="bottomCenter" style="s1" xml:id="subtitle563"><font face="0661519E" size="68">好大的宅邸</font></p>
+<p begin="3323600000t" end="3369900000t" region="bottomCenter" style="s1" xml:id="subtitle564"><font face="0661519E" size="68">据艾恩扎克所说 于斗技场开展节目的承办人之中</font></p>
+<p begin="3369900000t" end="3398200000t" region="bottomCenter" style="s1" xml:id="subtitle565"><font face="0661519E" size="68">他是最有权势的人物</font></p>
+<p begin="3417700000t" end="3437200000t" region="bottomCenter" style="s1" xml:id="subtitle566"><font face="0661519E" size="68">陛下 按照您的吩咐</font></p>
+<p begin="3437200000t" end="3478500000t" region="bottomCenter" style="s1" xml:id="subtitle567"><font face="0661519E" size="68">我与对方协商 将时间定到了明日十点</font></p>
+<p begin="3503000000t" end="3520500000t" region="bottomCenter" style="s1" xml:id="subtitle568"><font face="0661519E" size="68">可是这样真的好吗</font></p>
+<p begin="3526100000t" end="3566300000t" region="bottomCenter" style="s1" xml:id="subtitle569"><font face="0661519E" size="68">只要说出陛下的名字 今日便能立刻举办对决</font></p>
+<p begin="3569900000t" end="3583300000t" region="bottomCenter" style="s1" xml:id="subtitle570"><font face="0661519E" size="68">没有必要</font></p>
+<p begin="3587300000t" end="3621200000t" region="bottomCenter" style="s1" xml:id="subtitle571"><font face="0661519E" size="68">最快明天就能举行 反而应该感谢这份好运</font></p>
+<p begin="3635200000t" end="3641600000t" region="bottomCenter" style="s1" xml:id="subtitle572"><font face="0661519E" size="68">怎么了</font></p>
+<p begin="3645100000t" end="3691200000t" region="bottomCenter" style="s1" xml:id="subtitle573"><font face="0661519E" size="68">没事 陛下广阔的胸怀实在让我佩服</font></p>
+<p begin="3705100000t" end="3735800000t" region="bottomCenter" style="s1" xml:id="subtitle574"><font face="0661519E" size="68">那么 明天也要让你陪同了</font></p>
+<p begin="3739300000t" end="3775000000t" region="bottomCenter" style="s1" xml:id="subtitle575"><font face="0661519E" size="68">今天先用转移魔法让你回到耶·兰提尔</font></p>
+<p begin="3778700000t" end="3794900000t" region="bottomCenter" style="s1" xml:id="subtitle576"><font face="0661519E" size="68">放轻松</font></p>
+<p begin="3807100000t" end="3825100000t" region="bottomCenter" style="s1" xml:id="subtitle577"><font face="0661519E" size="68">上级传送</font></p>
+<p begin="3851300000t" end="3897900000t" region="bottomCenter" style="s1" xml:id="subtitle578"><font face="0661519E" size="68">好了 想查的事情也查到了 该联系他了</font></p>
+<p begin="3912900000t" end="3948600000t" region="bottomCenter" style="s1" xml:id="subtitle579"><font face="0661519E" size="68">欢迎莅临寒舍 吾之师</font></p>
+<p begin="3948600000t" end="3981700000t" region="bottomCenter" style="s1" xml:id="subtitle580"><font face="0661519E" size="68">夫路达 我命令你的事情办得怎么样了</font></p>
+<p begin="3984800000t" end="3993900000t" region="bottomCenter" style="s1" xml:id="subtitle581"><font face="0661519E" size="68">是</font></p>
+<p begin="3993900000t" end="4031200000t" region="bottomCenter" style="s1" xml:id="subtitle582"><font face="0661519E" size="68">帝国掌握的各国情报已经到手了</font></p>
+<p begin="4031200000t" end="4067000000t" region="bottomCenter" style="s1" xml:id="subtitle583"><font face="0661519E" size="68">只是… 不愧是皇帝</font></p>
+<p begin="4067000000t" end="4097600000t" region="bottomCenter" style="s1" xml:id="subtitle584"><font face="0661519E" size="68">他好像已经察觉到了我的背叛</font></p>
+<p begin="4097600000t" end="4107100000t" region="bottomCenter" style="s1" xml:id="subtitle585"><font face="0661519E" size="68">是吗</font></p>
+<p begin="4107100000t" end="4146300000t" region="bottomCenter" style="s1" xml:id="subtitle586"><font face="0661519E" size="68">那么你今后的安生之计我会帮你考虑的</font></p>
+<p begin="4153100000t" end="4165100000t" region="bottomCenter" style="s1" xml:id="subtitle587"><font face="0661519E" size="68">先坐吧</font></p>
+<p begin="4165100000t" end="4173200000t" region="bottomCenter" style="s1" xml:id="subtitle588"><font face="0661519E" size="68">是!</font></p>
+<p begin="4217300000t" end="4229600000t" region="bottomCenter" style="s1" xml:id="subtitle589"><font face="0661519E" size="68">这…这是</font></p>
+<p begin="4229600000t" end="4244800000t" region="bottomCenter" style="s1" xml:id="subtitle590"><font face="0661519E" size="68">这是给你的奖励</font></p>
+<p begin="4249400000t" end="4280900000t" region="bottomCenter" style="s1" xml:id="subtitle591"><font face="0661519E" size="68">将约定好的吾智慧之一隅赠与你</font></p>
+<p begin="4348900000t" end="4380900000t" region="bottomCenter" style="s1" xml:id="subtitle592"><font face="0661519E" size="68">恕我冒昧 我看不懂</font></p>
+<p begin="4394700000t" end="4413100000t" region="bottomCenter" style="s1" xml:id="subtitle593"><font face="0661519E" size="68">那你试试戴上这个</font></p>
+<p begin="4417300000t" end="4422700000t" region="bottomCenter" style="s1" xml:id="subtitle594"><font face="0661519E" size="68">是!</font></p>
+<p begin="4463200000t" end="4490100000t" region="bottomCenter" style="s1" xml:id="subtitle595"><font face="0661519E" size="68">因为我并无这个世界的魔法知识</font></p>
+<p begin="4493400000t" end="4529400000t" region="bottomCenter" style="s1" xml:id="subtitle596"><font face="0661519E" size="68">我还特意选了自有物中 可能最有魔法性质的物品</font></p>
+<p begin="4529400000t" end="4549200000t" region="bottomCenter" style="s1" xml:id="subtitle597"><font face="0661519E" size="68">这…这是!</font></p>
+<p begin="4559000000t" end="4623700000t" region="bottomCenter" style="s1" xml:id="subtitle598"><font face="0661519E" size="68">也就是说灵魂如同从浩荡的世界洪流中飞射出的泡沫一般</font></p>
+<p begin="4623700000t" end="4660800000t" region="bottomCenter" style="s1" xml:id="subtitle599"><font face="0661519E" size="68">即便有大小的区别 任何灵魂都是同样的性质</font></p>
+<p begin="4660800000t" end="4676600000t" region="bottomCenter" style="s1" xml:id="subtitle600"><font face="0661519E" size="68">如果真的是这样!</font></p>
+<p begin="4676600000t" end="4719800000t" region="bottomCenter" style="s1" xml:id="subtitle601"><font face="0661519E" size="68">师父! 这正是我梦寐以求的知识!</font></p>
+<p begin="4719800000t" end="4755700000t" region="bottomCenter" style="s1" xml:id="subtitle602"><font face="0661519E" size="68">是吗 那么把镜片还给我吧</font></p>
+<p begin="4755700000t" end="4770900000t" region="bottomCenter" style="s1" xml:id="subtitle603"><font face="0661519E" size="68">我也只有一个</font></p>
+<p begin="4777900000t" end="4796600000t" region="bottomCenter" style="s1" xml:id="subtitle604"><font face="0661519E" size="68">可是 这个…</font></p>
+<p begin="4796600000t" end="4833600000t" region="bottomCenter" style="s1" xml:id="subtitle605"><font face="0661519E" size="68">当你能够翻译、领会、理解此书时</font></p>
+<p begin="4833600000t" end="4861200000t" region="bottomCenter" style="s1" xml:id="subtitle606"><font face="0661519E" size="68">想必你就能踏入更高一层的领域了</font></p>
+<p begin="4888200000t" end="4928000000t" region="bottomCenter" style="s1" xml:id="subtitle607"><font face="0661519E" size="68">我明白了 我遵从老师的教诲</font></p>
+<p begin="4955700000t" end="4970400000t" region="bottomCenter" style="s1" xml:id="subtitle608"><font face="0661519E" size="68">那么最后</font></p>
+<p begin="4975900000t" end="5002000000t" region="bottomCenter" style="s1" xml:id="subtitle609"><font face="0661519E" size="68">我想知道有关武王的情报</font></p>
+<p begin="5067500000t" end="5082500000t" region="bottomCenter" style="s1" xml:id="subtitle610"><font face="0661519E" size="68">她是兔人</font></p>
+<p begin="5088000000t" end="5110200000t" region="bottomCenter" style="s1" xml:id="subtitle611"><font face="0661519E" size="68">是从东方来的吗</font></p>
+<p begin="5110200000t" end="5122890000t" region="bottomCenter" style="s1" xml:id="subtitle612"><font face="0661519E" size="68">真少见</font></p>
+<p begin="5147300000t" end="5168900000t" region="bottomCenter" style="s1" xml:id="subtitle613"><font face="0661519E" size="68">请进</font></p>
+<p begin="5275900000t" end="5295200000t" region="bottomCenter" style="s1" xml:id="subtitle614"><font face="0661519E" size="68">能入您的法眼吗</font></p>
+<p begin="5321400000t" end="5338300000t" region="bottomCenter" style="s1" xml:id="subtitle615"><font face="0661519E" size="68">真是不错的收藏品</font></p>
+<p begin="5357600000t" end="5374900000t" region="bottomCenter" style="s1" xml:id="subtitle616"><font face="0661519E" size="68">您看中了什么</font></p>
+<p begin="5384400000t" end="5397100000t" region="bottomCenter" style="s1" xml:id="subtitle617"><font face="0661519E" size="68">是那个吧</font></p>
+<p begin="5404600000t" end="5416000000t" region="bottomCenter" style="s1" xml:id="subtitle618"><font face="0661519E" size="68">我可以拿起来吗</font></p>
+<p begin="5420000000t" end="5429000000t" region="bottomCenter" style="s1" xml:id="subtitle619"><font face="0661519E" size="68">当然可以</font></p>
+<p begin="5453300000t" end="5479200000t" region="bottomCenter" style="s1" xml:id="subtitle620"><font face="0661519E" size="68">这是卢恩文字吗</font></p>
+<p begin="5488500000t" end="5505900000t" region="bottomCenter" style="s1" xml:id="subtitle621"><font face="0661519E" size="68">真不愧是魔导王殿下</font></p>
+<p begin="5505900000t" end="5519500000t" region="bottomCenter" style="s1" xml:id="subtitle622"><font face="0661519E" size="68">您知道啊</font></p>
+<p begin="5524300000t" end="5547400000t" region="bottomCenter" style="s1" xml:id="subtitle623"><font face="0661519E" size="68">为什么这个世界会有卢恩文字</font></p>
+<p begin="5547400000t" end="5563500000t" region="bottomCenter" style="s1" xml:id="subtitle624"><font face="0661519E" size="68">是玩家留下的吗</font></p>
+<p begin="5570000000t" end="5593800000t" region="bottomCenter" style="s1" xml:id="subtitle625"><font face="0661519E" size="68">这是哪位名匠铸造的</font></p>
+<p begin="5599700000t" end="5631900000t" region="bottomCenter" style="s1" xml:id="subtitle626"><font face="0661519E" size="68">是坐落于安杰利西亚山脉的矮人王国之中</font></p>
+<p begin="5631900000t" end="5662800000t" region="bottomCenter" style="s1" xml:id="subtitle627"><font face="0661519E" size="68">卢恩工房制作的刀</font></p>
+<p begin="5662800000t" end="5685700000t" region="bottomCenter" style="s1" xml:id="subtitle628"><font face="0661519E" size="68">矮人的卢恩工房?</font></p>
+<p begin="5694700000t" end="5703500000t" region="bottomCenter" style="s1" xml:id="subtitle629"><font face="0661519E" size="68">喂 奥斯科</font></p>
+<p begin="5707800000t" end="5725900000t" region="bottomCenter" style="s1" xml:id="subtitle630"><font face="0661519E" size="68">我明明什么都没说</font></p>
+<p begin="5725900000t" end="5748700000t" region="bottomCenter" style="s1" xml:id="subtitle631"><font face="0661519E" size="68">为什么你知道陛下会和我一起来</font></p>
+<p begin="5752700000t" end="5787000000t" region="bottomCenter" style="s1" xml:id="subtitle632"><font face="0661519E" size="68">你从被魔导国统治的耶·兰提尔而来</font></p>
+<p begin="5787000000t" end="5824100000t" region="bottomCenter" style="s1" xml:id="subtitle633"><font face="0661519E" size="68">和你同行的看起来是个贵人</font></p>
+<p begin="5824100000t" end="5853800000t" region="bottomCenter" style="s1" xml:id="subtitle634"><font face="0661519E" size="68">这只能让我想到一个人</font></p>
+<p begin="5853800000t" end="5872300000t" region="bottomCenter" style="s1" xml:id="subtitle635"><font face="0661519E" size="68">那就让我重新介绍一下自己</font></p>
+<p begin="5872300000t" end="5919200000t" region="bottomCenter" style="s1" xml:id="subtitle636"><font face="0661519E" size="68">我是一介商人奥斯科</font></p>
+<p begin="5919200000t" end="5962900000t" region="bottomCenter" style="s1" xml:id="subtitle637"><font face="0661519E" size="68">我是安兹·乌尔·恭魔导王</font></p>
+<p begin="5967800000t" end="5981700000t" region="bottomCenter" style="s1" xml:id="subtitle638"><font face="0661519E" size="68">原来如此</font></p>
+<p begin="5981700000t" end="6042800000t" region="bottomCenter" style="s1" xml:id="subtitle639"><font face="0661519E" size="68">陛下今天前来所为何事</font></p>
+<p begin="6042800000t" end="6076500000t" region="bottomCenter" style="s1" xml:id="subtitle640"><font face="0661519E" size="68">请你让我在竞技场和武王决斗</font></p>
+<p begin="6076500000t" end="6100400000t" region="bottomCenter" style="s1" xml:id="subtitle641"><font face="0661519E" size="68">是陛下您要决斗吗</font></p>
+<p begin="6100400000t" end="6109900000t" region="bottomCenter" style="s1" xml:id="subtitle642"><font face="0661519E" size="68">不错</font></p>
+<p begin="6118900000t" end="6144200000t" region="bottomCenter" style="s1" xml:id="subtitle643"><font face="0661519E" size="68">陛下可是一国之王啊</font></p>
+<p begin="6144200000t" end="6153800000t" region="bottomCenter" style="s1" xml:id="subtitle644"><font face="0661519E" size="68">那又如何</font></p>
+<p begin="6153800000t" end="6188600000t" region="bottomCenter" style="s1" xml:id="subtitle645"><font face="0661519E" size="68">这…那个</font></p>
+<p begin="6188600000t" end="6201100000t" region="bottomCenter" style="s1" xml:id="subtitle646"><font face="0661519E" size="68">放心吧</font></p>
+<p begin="6201100000t" end="6230500000t" region="bottomCenter" style="s1" xml:id="subtitle647"><font face="0661519E" size="68">不管我怎么样都不会怪罪于你</font></p>
+<p begin="6230500000t" end="6251900000t" region="bottomCenter" style="s1" xml:id="subtitle648"><font face="0661519E" size="68">我会写下保证书</font></p>
+<p begin="6265700000t" end="6299000000t" region="bottomCenter" style="s1" xml:id="subtitle649"><font face="0661519E" size="68">我收集了能够进入竞技场的</font></p>
+<p begin="6299000000t" end="6341700000t" region="bottomCenter" style="s1" xml:id="subtitle650"><font face="0661519E" size="68">强者的怪物的各种情报</font></p>
+<p begin="6341700000t" end="6369400000t" region="bottomCenter" style="s1" xml:id="subtitle651"><font face="0661519E" size="68">其中也包括陛下的情报</font></p>
+<p begin="6374800000t" end="6395500000t" region="bottomCenter" style="s1" xml:id="subtitle652"><font face="0661519E" size="68">您真的只用了一个魔法</font></p>
+<p begin="6395500000t" end="6432000000t" region="bottomCenter" style="s1" xml:id="subtitle653"><font face="0661519E" size="68">就杀掉了数万的王国的人民吗</font></p>
+<p begin="6432000000t" end="6471000000t" region="bottomCenter" style="s1" xml:id="subtitle654"><font face="0661519E" size="68">正是如此 但那是…</font></p>
+<p begin="6471000000t" end="6479700000t" region="bottomCenter" style="s1" xml:id="subtitle655"><font face="0661519E" size="68">没错</font></p>
+<p begin="6479700000t" end="6512100000t" region="bottomCenter" style="s1" xml:id="subtitle656"><font face="0661519E" size="68">那是我所有魔法中最强的杀手锏</font></p>
+<p begin="6516600000t" end="6547900000t" region="bottomCenter" style="s1" xml:id="subtitle657"><font face="0661519E" size="68">应艾尔·尼克斯陛下的请求不得已而为之</font></p>
+<p begin="6547900000t" end="6575800000t" region="bottomCenter" style="s1" xml:id="subtitle658"><font face="0661519E" size="68">十年才能用一次的大魔法</font></p>
+<p begin="6575800000t" end="6618400000t" region="bottomCenter" style="s1" xml:id="subtitle659"><font face="0661519E" size="68">因此接下来十年我需要积累力量</font></p>
+<p begin="6631400000t" end="6665400000t" region="bottomCenter" style="s1" xml:id="subtitle660"><font face="0661519E" size="68">但是把这件事告诉我没关系吗</font></p>
+<p begin="6669300000t" end="6698300000t" region="bottomCenter" style="s1" xml:id="subtitle661"><font face="0661519E" size="68">在某种意义上这是陛下的弱点</font></p>
+<p begin="6698300000t" end="6709700000t" region="bottomCenter" style="s1" xml:id="subtitle662"><font face="0661519E" size="68">没关系</font></p>
+<p begin="6709700000t" end="6743300000t" region="bottomCenter" style="s1" xml:id="subtitle663"><font face="0661519E" size="68">我又不是无法使用所有的魔法</font></p>
+<p begin="6743300000t" end="6773500000t" region="bottomCenter" style="s1" xml:id="subtitle664"><font face="0661519E" size="68">原来如此 最后一个问题</font></p>
+<p begin="6773500000t" end="6820800000t" region="bottomCenter" style="s1" xml:id="subtitle665"><font face="0661519E" size="68">为什么一国之王要和武王战斗</font></p>
+<p begin="6824300000t" end="6849400000t" region="bottomCenter" style="s1" xml:id="subtitle666"><font face="0661519E" size="68">因为我听说有一个强大的对手</font></p>
+<p begin="6854300000t" end="6870900000t" region="bottomCenter" style="s1" xml:id="subtitle667"><font face="0661519E" size="68">所以我产生了兴趣</font></p>
+<p begin="6875400000t" end="6913900000t" region="bottomCenter" style="s1" xml:id="subtitle668"><font face="0661519E" size="68">想知道他和葛杰夫·史托罗诺夫哪个更强</font></p>
+<p begin="6941200000t" end="6954900000t" region="bottomCenter" style="s1" xml:id="subtitle669"><font face="0661519E" size="68">我明白了</font></p>
+<p begin="6954900000t" end="6991200000t" region="bottomCenter" style="s1" xml:id="subtitle670"><font face="0661519E" size="68">我会尽快安排陛下和武王的比赛</font></p>
+<p begin="6991200000t" end="7029100000t" region="bottomCenter" style="s1" xml:id="subtitle671"><font face="0661519E" size="68">但请您遵守竞技场的规则</font></p>
+<p begin="7029100000t" end="7041300000t" region="bottomCenter" style="s1" xml:id="subtitle672"><font face="0661519E" size="68">那是当然</font></p>
+<p begin="7041300000t" end="7090500000t" region="bottomCenter" style="s1" xml:id="subtitle673"><font face="0661519E" size="68">请陛下用武技而不用魔法战斗</font></p>
+<p begin="7090500000t" end="7108800000t" region="bottomCenter" style="s1" xml:id="subtitle674"><font face="0661519E" size="68">陛下可是魔法咏唱者啊</font></p>
+<p begin="7108800000t" end="7124200000t" region="bottomCenter" style="s1" xml:id="subtitle675"><font face="0661519E" size="68">我不介意</font></p>
+<p begin="7142000000t" end="7167600000t" region="bottomCenter" style="s1" xml:id="subtitle676"><font face="0661519E" size="68">我以安兹·乌尔·恭之名发誓</font></p>
+<p begin="7171600000t" end="7195600000t" region="bottomCenter" style="s1" xml:id="subtitle677"><font face="0661519E" size="68">在与武王的战斗中</font></p>
+<p begin="7195600000t" end="7213200000t" region="bottomCenter" style="s1" xml:id="subtitle678"><font face="0661519E" size="68">我不会使用魔法</font></p>
+<p begin="7238400000t" end="7253200000t" region="bottomCenter" style="s1" xml:id="subtitle679"><font face="0661519E" size="68">猎头兔</font></p>
+<p begin="7259000000t" end="7266400000t" region="bottomCenter" style="s1" xml:id="subtitle680"><font face="0661519E" size="68">什么事</font></p>
+<p begin="7276800000t" end="7309100000t" region="bottomCenter" style="s1" xml:id="subtitle681"><font face="0661519E" size="68">告诉我你见到魔导王陛下的感想</font></p>
+<p begin="7313100000t" end="7337300000t" region="bottomCenter" style="s1" xml:id="subtitle682"><font face="0661519E" size="68">想要拼尽全力逃跑</font></p>
+<p begin="7358600000t" end="7378700000t" region="bottomCenter" style="s1" xml:id="subtitle683"><font face="0661519E" size="68">你在看哪里 变态</font></p>
+<p begin="7386100000t" end="7409000000t" region="bottomCenter" style="s1" xml:id="subtitle684"><font face="0661519E" size="68">我觉得你的手很好看</font></p>
+<p begin="7409000000t" end="7424800000t" region="bottomCenter" style="s1" xml:id="subtitle685"><font face="0661519E" size="68">不要露出这种表情</font></p>
+<p begin="7428600000t" end="7455400000t" region="bottomCenter" style="s1" xml:id="subtitle686"><font face="0661519E" size="68">我的理想对象是苍蔷薇战士</font></p>
+<p begin="7455400000t" end="7476600000t" region="bottomCenter" style="s1" xml:id="subtitle687"><font face="0661519E" size="68">格格兰殿下</font></p>
+<p begin="7476600000t" end="7510100000t" region="bottomCenter" style="s1" xml:id="subtitle688"><font face="0661519E" size="68">和她比起来 你还是略逊一筹</font></p>
+<p begin="7515400000t" end="7539700000t" region="bottomCenter" style="s1" xml:id="subtitle689"><font face="0661519E" size="68">明年你别想和我更新契约了</font></p>
+<p begin="7543100000t" end="7566400000t" region="bottomCenter" style="s1" xml:id="subtitle690"><font face="0661519E" size="68">不好 跑题了呢</font></p>
+<p begin="7566400000t" end="7576000000t" region="bottomCenter" style="s1" xml:id="subtitle691"><font face="0661519E" size="68">然后呢</font></p>
+<p begin="7585400000t" end="7603400000t" region="bottomCenter" style="s1" xml:id="subtitle692"><font face="0661519E" size="68">超级不妙</font></p>
+<p begin="7615300000t" end="7642200000t" region="bottomCenter" style="s1" xml:id="subtitle693"><font face="0661519E" size="68">{\an8}这位挑战者应该是无人不知的吧</font></p>
+<p begin="7649100000t" end="7663600000t" region="bottomCenter" style="s1" xml:id="subtitle694"><font face="0661519E" size="68">{\an8}他就是魔导国国王</font></p>
+<p begin="7660900000t" end="7671100000t" region="bottomCenter" style="s1" xml:id="subtitle695"><font face="0661519E" size="68">武王</font></p>
+<p begin="7667700000t" end="7691000000t" region="bottomCenter" style="s1" xml:id="subtitle696"><font face="0661519E" size="68">{\an8}安兹·乌尔·恭陛下</font></p>
+<p begin="7671100000t" end="7684800000t" region="bottomCenter" style="s1" xml:id="subtitle697"><font face="0661519E" size="68">状态如何</font></p>
+<p begin="7723500000t" end="7737600000t" region="bottomCenter" style="s1" xml:id="subtitle698"><font face="0661519E" size="68">感激不尽</font></p>
+<p begin="7757300000t" end="7793900000t" region="bottomCenter" style="s1" xml:id="subtitle699"><font face="0661519E" size="68">我和你的约定你都完成了</font></p>
+<p begin="7798100000t" end="7823500000t" region="bottomCenter" style="s1" xml:id="subtitle700"><font face="0661519E" size="68">所以我变得现在这么强</font></p>
+<p begin="7827500000t" end="7837800000t" region="bottomCenter" style="s1" xml:id="subtitle701"><font face="0661519E" size="68">武王</font></p>
+<p begin="7900300000t" end="7925900000t" region="bottomCenter" style="s1" xml:id="subtitle702"><font face="0661519E" size="68">别输了啊 武王</font></p>
+<p begin="7999200000t" end="8016200000t" region="bottomCenter" style="s1" xml:id="subtitle703"><font face="0661519E" size="68">武王 加油</font></p>
+<p begin="8021300000t" end="8039200000t" region="bottomCenter" style="s1" xml:id="subtitle704"><font face="0661519E" size="68">加油 武王</font></p>
+<p begin="8044500000t" end="8075900000t" region="bottomCenter" style="s1" xml:id="subtitle705"><font face="0661519E" size="68">武王…</font></p>
+<p begin="8075900000t" end="8106100000t" region="bottomCenter" style="s1" xml:id="subtitle706"><font face="0661519E" size="68">我就是「武王」战斗食人妖</font></p>
+<p begin="8110500000t" end="8118600000t" region="bottomCenter" style="s1" xml:id="subtitle707"><font face="0661519E" size="68">戈·金</font></p>
+<p begin="8127100000t" end="8154000000t" region="bottomCenter" style="s1" xml:id="subtitle708"><font face="0661519E" size="68">我是安兹·乌尔·恭魔导王</font></p>
+<p begin="8157400000t" end="8180200000t" region="bottomCenter" style="s1" xml:id="subtitle709"><font face="0661519E" size="68">不死者的最高阶种族</font></p>
+<p begin="8186600000t" end="8202200000t" region="bottomCenter" style="s1" xml:id="subtitle710"><font face="0661519E" size="68">死之统治者</font></p>
+<p begin="8209700000t" end="8220900000t" region="bottomCenter" style="s1" xml:id="subtitle711"><font face="0661519E" size="68">是吗</font></p>
+<p begin="8225800000t" end="8246900000t" region="bottomCenter" style="s1" xml:id="subtitle712"><font face="0661519E" size="68">那就让我使出全力挑战你</font></p>
+<p begin="8262300000t" end="8286900000t" region="bottomCenter" style="s1" xml:id="subtitle713"><font face="0661519E" size="68">你不嘲笑我的名字吗</font></p>
+<p begin="8291000000t" end="8319800000t" region="bottomCenter" style="s1" xml:id="subtitle714"><font face="0661519E" size="68">比如名字真长什么的</font></p>
+<p begin="8319800000t" end="8332200000t" region="bottomCenter" style="s1" xml:id="subtitle715"><font face="0661519E" size="68">原来如此</font></p>
+<p begin="8337100000t" end="8370900000t" region="bottomCenter" style="s1" xml:id="subtitle716"><font face="0661519E" size="68">魔导王陛下好像对战斗食人妖十分了解</font></p>
+<p begin="8376100000t" end="8407500000t" region="bottomCenter" style="s1" xml:id="subtitle717"><font face="0661519E" size="68">但我是不会让强者之名蒙羞的</font></p>
+<p begin="8412000000t" end="8421700000t" region="bottomCenter" style="s1" xml:id="subtitle718"><font face="0661519E" size="68">是吗</font></p>
+<p begin="8426800000t" end="8470300000t" region="bottomCenter" style="s1" xml:id="subtitle719"><font face="0661519E" size="68">看来我有必要对你们种族改观了</font></p>
+<p begin="8483400000t" end="8500600000t" region="bottomCenter" style="s1" xml:id="subtitle720"><font face="0661519E" size="68">没必要</font></p>
+<p begin="8500600000t" end="8537300000t" region="bottomCenter" style="s1" xml:id="subtitle721"><font face="0661519E" size="68">任何种族都有不同想法的人</font></p>
+<p begin="8537300000t" end="8551900000t" region="bottomCenter" style="s1" xml:id="subtitle722"><font face="0661519E" size="68">仅此而已</font></p>
+<p begin="8568900000t" end="8594000000t" region="bottomCenter" style="s1" xml:id="subtitle723"><font face="0661519E" size="68">没错 我很中意你</font></p>
+<p begin="8594000000t" end="8603100000t" region="bottomCenter" style="s1" xml:id="subtitle724"><font face="0661519E" size="68">武王</font></p>
+<p begin="8603100000t" end="8627100000t" region="bottomCenter" style="s1" xml:id="subtitle725"><font face="0661519E" size="68">如果我赢了 你就归顺于我吧</font></p>
+<p begin="8638400000t" end="8673500000t" region="bottomCenter" style="s1" xml:id="subtitle726"><font face="0661519E" size="68">好 如果我输了就当你的属下</font></p>
+<p begin="8673500000t" end="8698600000t" region="bottomCenter" style="s1" xml:id="subtitle727"><font face="0661519E" size="68">相对地 如果我赢了</font></p>
+<p begin="8705500000t" end="8721900000t" region="bottomCenter" style="s1" xml:id="subtitle728"><font face="0661519E" size="68">我就吃了陛下</font></p>
+<p begin="8738500000t" end="8790000000t" region="bottomCenter" style="s1" xml:id="subtitle729"><font face="0661519E" size="68">我至今还没遇到过值得打败并吃掉的人</font></p>
+<p begin="8790000000t" end="8815800000t" region="bottomCenter" style="s1" xml:id="subtitle730"><font face="0661519E" size="68">但只要吃掉比我强的陛下</font></p>
+<p begin="8815800000t" end="8839300000t" region="bottomCenter" style="s1" xml:id="subtitle731"><font face="0661519E" size="68">我就能得到你的力量</font></p>
+<p begin="8842700000t" end="8850800000t" region="bottomCenter" style="s1" xml:id="subtitle732"><font face="0661519E" size="68">好啊</font></p>
+<p begin="8856500000t" end="8896600000t" region="bottomCenter" style="s1" xml:id="subtitle733"><font face="0661519E" size="68">生杀予夺都在胜者手中</font></p>
+<p begin="8903400000t" end="8927500000t" region="bottomCenter" style="s1" xml:id="subtitle734"><font face="0661519E" size="68">因此即使我杀了你</font></p>
+<p begin="8934200000t" end="8954500000t" region="bottomCenter" style="s1" xml:id="subtitle735"><font face="0661519E" size="68">你也不能拒绝复活</font></p>
+<p begin="9062400000t" end="9087400000t" region="bottomCenter" style="s1" xml:id="subtitle736"><font face="0661519E" size="68">武王 干掉他</font></p>
+<p begin="9160400000t" end="9182900000t" region="bottomCenter" style="s1" xml:id="subtitle737"><font face="0661519E" size="68">他应该是用了某种武技</font></p>
+<p begin="9182900000t" end="9205700000t" region="bottomCenter" style="s1" xml:id="subtitle738"><font face="0661519E" size="68">{\an8}干掉他 就是现在</font></p>
+<p begin="9209200000t" end="9222800000t" region="bottomCenter" style="s1" xml:id="subtitle739"><font face="0661519E" size="68">{\an8}上啊 武王</font></p>
+<p begin="9222800000t" end="9241100000t" region="bottomCenter" style="s1" xml:id="subtitle740"><font face="0661519E" size="68">没想到你这家伙还真有趣啊</font></p>
+<p begin="9227300000t" end="9245700000t" region="bottomCenter" style="s1" xml:id="subtitle741"><font face="0661519E" size="68">{\an8}武王…</font></p>
+<p begin="9245700000t" end="9287800000t" region="bottomCenter" style="s1" xml:id="subtitle742"><font face="0661519E" size="68">但你想用这个架势来攻击我吗</font></p>
+<p begin="9287800000t" end="9297300000t" region="bottomCenter" style="s1" xml:id="subtitle743"><font face="0661519E" size="68">既然如此</font></p>
+<p begin="9417100000t" end="9436000000t" region="bottomCenter" style="s1" xml:id="subtitle744"><font face="0661519E" size="68">他果然有在防备火焰</font></p>
+<p begin="9441700000t" end="9474000000t" region="bottomCenter" style="s1" xml:id="subtitle745"><font face="0661519E" size="68">因为这会让战斗食人妖无法再生</font></p>
+<p begin="9474000000t" end="9480000000t" region="bottomCenter" style="s1" xml:id="subtitle746"><font face="0661519E" size="68">但是…</font></p>
+<p begin="9480000000t" end="9500500000t" region="bottomCenter" style="s1" xml:id="subtitle747"><font face="0661519E" size="68">{\an8}武王 上啊 武王</font></p>
+<p begin="9500500000t" end="9521000000t" region="bottomCenter" style="s1" xml:id="subtitle748"><font face="0661519E" size="68">{\an8}给他最后一击</font></p>
+<p begin="9511500000t" end="9538700000t" region="bottomCenter" style="s1" xml:id="subtitle749"><font face="0661519E" size="68">你啊 好歹是同盟国</font></p>
+<p begin="9524500000t" end="9583000000t" region="bottomCenter" style="s1" xml:id="subtitle750"><font face="0661519E" size="68">{\an8}上啊 武王 了结 了结了他 武王</font></p>
+<p begin="9538700000t" end="9570400000t" region="bottomCenter" style="s1" xml:id="subtitle751"><font face="0661519E" size="68">你多少也该担心下我这个国王啊</font></p>
+<p begin="9629100000t" end="9670000000t" region="bottomCenter" style="s1" xml:id="subtitle752"><font face="0661519E" size="68">我能把负能量送进碰触的对手</font></p>
+<p begin="9674800000t" end="9691300000t" region="bottomCenter" style="s1" xml:id="subtitle753"><font face="0661519E" size="68">不是毒?</font></p>
+<p begin="9691300000t" end="9734200000t" region="bottomCenter" style="s1" xml:id="subtitle754"><font face="0661519E" size="68">受到一般伤害 你能凭食人妖的自愈能力恢复</font></p>
+<p begin="9742700000t" end="9804000000t" region="bottomCenter" style="s1" xml:id="subtitle755"><font face="0661519E" size="68">但这个能力能同时削弱你的力量和敏捷</font></p>
+<p begin="9808900000t" end="9829900000t" region="bottomCenter" style="s1" xml:id="subtitle756"><font face="0661519E" size="68">这些都是你不能自愈的</font></p>
+<p begin="9841200000t" end="9860900000t" region="bottomCenter" style="s1" xml:id="subtitle757"><font face="0661519E" size="68">我在和你的比赛中</font></p>
+<p begin="9864300000t" end="9902100000t" region="bottomCenter" style="s1" xml:id="subtitle758"><font face="0661519E" size="68">除了不使用魔法之外还为自己加了规定</font></p>
+<p begin="9910000000t" end="9946100000t" region="bottomCenter" style="s1" xml:id="subtitle759"><font face="0661519E" size="68">我在使用的魔法道具上加了限制</font></p>
+<p begin="9988200000t" end="10010700000t" region="bottomCenter" style="s1" xml:id="subtitle760"><font face="0661519E" size="68">这是向飞飞借来的武器</font></p>
+<p begin="10028800000t" end="10045500000t" region="bottomCenter" style="s1" xml:id="subtitle761"><font face="0661519E" size="68">那么 我上了</font></p>
+<p begin="10124900000t" end="10136400000t" region="bottomCenter" style="s1" xml:id="subtitle762"><font face="0661519E" size="68">外皮强化</font></p>
+<p begin="10136400000t" end="10151100000t" region="bottomCenter" style="s1" xml:id="subtitle763"><font face="0661519E" size="68">外皮超强化</font></p>
+<p begin="10158200000t" end="10165000000t" region="bottomCenter" style="s1" xml:id="subtitle764"><font face="0661519E" size="68">启动</font></p>
+<p begin="10236400000t" end="10253490000t" region="bottomCenter" style="s1" xml:id="subtitle765"><font face="0661519E" size="68">{\an8}快把他干掉</font></p>
+<p begin="10253490000t" end="10300600000t" region="bottomCenter" style="s1" xml:id="subtitle766"><font face="0661519E" size="68">咦 我还想差不多该出现支持我的人了吧</font></p>
+<p begin="10307100000t" end="10329900000t" region="bottomCenter" style="s1" xml:id="subtitle767"><font face="0661519E" size="68">远程还是对武王不利啊</font></p>
+<p begin="10340000000t" end="10352400000t" region="bottomCenter" style="s1" xml:id="subtitle768"><font face="0661519E" size="68">那么 武王</font></p>
+<p begin="10352400000t" end="10366190000t" region="bottomCenter" style="s1" xml:id="subtitle769"><font face="0661519E" size="68">下一击我会杀了你</font></p>
+<p begin="10374500000t" end="10403590000t" region="bottomCenter" style="s1" xml:id="subtitle770"><font face="0661519E" size="68">如果你认输我们就到此为止</font></p>
+<p begin="10403590000t" end="10431190000t" region="bottomCenter" style="s1" xml:id="subtitle771"><font face="0661519E" size="68">不 就算这样我也是武王</font></p>
+<p begin="10431190000t" end="10449600000t" region="bottomCenter" style="s1" xml:id="subtitle772"><font face="0661519E" size="68">这个竞技场的王</font></p>
+<p begin="10449600000t" end="10473490000t" region="bottomCenter" style="s1" xml:id="subtitle773"><font face="0661519E" size="68">我会反抗到死</font></p>
+<p begin="10473490000t" end="10503500000t" region="bottomCenter" style="s1" xml:id="subtitle774"><font face="0661519E" size="68">那么就取下头盔让我看一下你的脸吧</font></p>
+<p begin="10572900000t" end="10584300000t" region="bottomCenter" style="s1" xml:id="subtitle775"><font face="0661519E" size="68">很好的眼神</font></p>
+<p begin="10589100000t" end="10597100000t" region="bottomCenter" style="s1" xml:id="subtitle776"><font face="0661519E" size="68">我问你</font></p>
+<p begin="10602500000t" end="10629500000t" region="bottomCenter" style="s1" xml:id="subtitle777"><font face="0661519E" size="68">你拥有能赢过我的技能吗</font></p>
+<p begin="10636900000t" end="10658800000t" region="bottomCenter" style="s1" xml:id="subtitle778"><font face="0661519E" size="68">能逆转这个局面的技能</font></p>
+<p begin="10670600000t" end="10711300000t" region="bottomCenter" style="s1" xml:id="subtitle779"><font face="0661519E" size="68">没有 但即使这样 我仍想一战</font></p>
+<p begin="10716800000t" end="10743900000t" region="bottomCenter" style="s1" xml:id="subtitle780"><font face="0661519E" size="68">那就尽管来吧 武王</font></p>
+<p begin="10767900000t" end="10800800000t" region="bottomCenter" style="s1" xml:id="subtitle781"><font face="0661519E" size="68">很快 但仅此而已</font></p>
+<p begin="10800800000t" end="10827200000t" region="bottomCenter" style="s1" xml:id="subtitle782"><font face="0661519E" size="68">绝望灵气I</font></p>
+<p begin="10827200000t" end="10835300000t" region="bottomCenter" style="s1" xml:id="subtitle783"><font face="0661519E" size="68">刚撃</font></p>
+<p begin="10835300000t" end="10848000000t" region="bottomCenter" style="s1" xml:id="subtitle784"><font face="0661519E" size="68">神技一闪</font></p>
+<p begin="10868500000t" end="10881600000t" region="bottomCenter" style="s1" xml:id="subtitle785"><font face="0661519E" size="68">流水加速</font></p>
+<p begin="10957800000t" end="10969500000t" region="bottomCenter" style="s1" xml:id="subtitle786"><font face="0661519E" size="68">可恶!</font></p>
+<p begin="10974800000t" end="10993300000t" region="bottomCenter" style="s1" xml:id="subtitle787"><font face="0661519E" size="68">「没有能逆转的方法」吗</font></p>
+<p begin="10993300000t" end="11004300000t" region="bottomCenter" style="s1" xml:id="subtitle788"><font face="0661519E" size="68">看来我被骗了</font></p>
+<p begin="11008800000t" end="11032600000t" region="bottomCenter" style="s1" xml:id="subtitle789"><font face="0661519E" size="68">差点就要被布妞萌先生斥责了</font></p>
+<p begin="11032600000t" end="11059400000t" region="bottomCenter" style="s1" xml:id="subtitle790"><font face="0661519E" size="68">快上 快把他干掉 武王</font></p>
+<p begin="11059400000t" end="11069900000t" region="bottomCenter" style="s1" xml:id="subtitle791"><font face="0661519E" size="68">吵死了</font></p>
+<p begin="11079300000t" end="11095600000t" region="bottomCenter" style="s1" xml:id="subtitle792"><font face="0661519E" size="68">吉克尼夫 说的就是你</font></p>
+<p begin="11100100000t" end="11116500000t" region="bottomCenter" style="s1" xml:id="subtitle793"><font face="0661519E" size="68">什么鬼「快上」 真是的</font></p>
+<p begin="11147500000t" end="11175200000t" region="bottomCenter" style="s1" xml:id="subtitle794"><font face="0661519E" size="68">我和你之间有一项绝对的差距</font></p>
+<p begin="11295700000t" end="11310600000t" region="bottomCenter" style="s1" xml:id="subtitle795"><font face="0661519E" size="68">我是100级</font></p>
+<p begin="11314100000t" end="11344800000t" region="bottomCenter" style="s1" xml:id="subtitle796"><font face="0661519E" size="68">我的HP跟你天差地别</font></p>
+<p begin="11429900000t" end="11467200000t" region="bottomCenter" style="s1" xml:id="subtitle797"><font face="0661519E" size="68">尽可能减轻重量来继续进攻吗</font></p>
+<p begin="11471100000t" end="11486100000t" region="bottomCenter" style="s1" xml:id="subtitle798"><font face="0661519E" size="68">真是孤注一掷</font></p>
+<p begin="11493600000t" end="11511500000t" region="bottomCenter" style="s1" xml:id="subtitle799"><font face="0661519E" size="68">请告诉我</font></p>
+<p begin="11511500000t" end="11527900000t" region="bottomCenter" style="s1" xml:id="subtitle800"><font face="0661519E" size="68">我弱吗</font></p>
+<p begin="11537600000t" end="11569500000t" region="bottomCenter" style="s1" xml:id="subtitle801"><font face="0661519E" size="68">陛下您完全没有使出全力</font></p>
+<p begin="11569500000t" end="11597100000t" region="bottomCenter" style="s1" xml:id="subtitle802"><font face="0661519E" size="68">即使摘下了名为魔法的翅膀</font></p>
+<p begin="11597100000t" end="11619200000t" region="bottomCenter" style="s1" xml:id="subtitle803"><font face="0661519E" size="68">也显得一派从容</font></p>
+<p begin="11625600000t" end="11658800000t" region="bottomCenter" style="s1" xml:id="subtitle804"><font face="0661519E" size="68">我真的如此地弱吗</font></p>
+<p begin="11658800000t" end="11710100000t" region="bottomCenter" style="s1" xml:id="subtitle805"><font face="0661519E" size="68">我在这场战斗中 禁用了众多魔法道具</font></p>
+<p begin="11710100000t" end="11748800000t" region="bottomCenter" style="s1" xml:id="subtitle806"><font face="0661519E" size="68">并且为自己加了多种能力的使用禁令</font></p>
+<p begin="11748800000t" end="11784100000t" region="bottomCenter" style="s1" xml:id="subtitle807"><font face="0661519E" size="68">因为没有这些规则  战斗会在一瞬间决出胜负吗</font></p>
+<p begin="11787800000t" end="11812200000t" region="bottomCenter" style="s1" xml:id="subtitle808"><font face="0661519E" size="68">没办法 是你挑错对手了</font></p>
+<p begin="11815700000t" end="11836600000t" region="bottomCenter" style="s1" xml:id="subtitle809"><font face="0661519E" size="68">如果你是帝国最强的话</font></p>
+<p begin="11840800000t" end="11869600000t" region="bottomCenter" style="s1" xml:id="subtitle810"><font face="0661519E" size="68">我大概可以自称为全世界屈指可数的强者了吧</font></p>
+<p begin="11878800000t" end="11892600000t" region="bottomCenter" style="s1" xml:id="subtitle811"><font face="0661519E" size="68">原来如此</font></p>
+<p begin="11892600000t" end="11919200000t" region="bottomCenter" style="s1" xml:id="subtitle812"><font face="0661519E" size="68">但真是快乐</font></p>
+<p begin="11919200000t" end="11942100000t" region="bottomCenter" style="s1" xml:id="subtitle813"><font face="0661519E" size="68">这种天外有天的感觉</font></p>
+<p begin="11947300000t" end="11968600000t" region="bottomCenter" style="s1" xml:id="subtitle814"><font face="0661519E" size="68">我明白你这种心情</font></p>
+<p begin="11978400000t" end="11986300000t" region="bottomCenter" style="s1" xml:id="subtitle815"><font face="0661519E" size="68">塔其先生…</font></p>
+<p begin="12000600000t" end="12027200000t" region="bottomCenter" style="s1" xml:id="subtitle816"><font face="0661519E" size="68">魔导王安兹·乌尔·恭陛下</font></p>
+<p begin="12032300000t" end="12052800000t" region="bottomCenter" style="s1" xml:id="subtitle817"><font face="0661519E" size="68">我想在最后见识一下</font></p>
+<p begin="12056500000t" end="12072500000t" region="bottomCenter" style="s1" xml:id="subtitle818"><font face="0661519E" size="68">在下戈·金</font></p>
+<p begin="12072500000t" end="12092500000t" region="bottomCenter" style="s1" xml:id="subtitle819"><font face="0661519E" size="68">就算只是一部分也好</font></p>
+<p begin="12092500000t" end="12122100000t" region="bottomCenter" style="s1" xml:id="subtitle820"><font face="0661519E" size="68">我想感受顶峰之高</font></p>
+<p begin="12129400000t" end="12139400000t" region="bottomCenter" style="s1" xml:id="subtitle821"><font face="0661519E" size="68">好吧</font></p>
+<p begin="12145400000t" end="12170100000t" region="bottomCenter" style="s1" xml:id="subtitle822"><font face="0661519E" size="68">那么 感受巅峰吧!</font></p>
+<p begin="12175300000t" end="12203700000t" region="bottomCenter" style="s1" xml:id="subtitle823"><font face="0661519E" size="68">上位物理无效化 解放</font></p>
+<p begin="12425200000t" end="12434900000t" region="bottomCenter" style="s1" xml:id="subtitle824"><font face="0661519E" size="68">启动</font></p>
+<p begin="12565600000t" end="12593700000t" region="bottomCenter" style="s1" xml:id="subtitle825"><font face="0661519E" size="68">听好了 帝国的人民们</font></p>
+<p begin="12593700000t" end="12641800000t" region="bottomCenter" style="s1" xml:id="subtitle826"><font face="0661519E" size="68">我打算在自己的国家建立冒险者培育机构</font></p>
+<p begin="12644600000t" end="12693300000t" region="bottomCenter" style="s1" xml:id="subtitle827"><font face="0661519E" size="68">我相信培育并保护冒险者向着全世界出发</font></p>
+<p begin="12693300000t" end="12725900000t" region="bottomCenter" style="s1" xml:id="subtitle828"><font face="0661519E" size="68">对我们国家是有利的</font></p>
+<p begin="12732200000t" end="12774300000t" region="bottomCenter" style="s1" xml:id="subtitle829"><font face="0661519E" size="68">我不打算将冒险者变成国家的战争工具</font></p>
+<p begin="12774300000t" end="12796300000t" region="bottomCenter" style="s1" xml:id="subtitle830"><font face="0661519E" size="68">就像刚才证明的一样</font></p>
+<p begin="12796300000t" end="12818000000t" region="bottomCenter" style="s1" xml:id="subtitle831"><font face="0661519E" size="68">我们的武力已经足够了</font></p>
+<p begin="12822900000t" end="12843700000t" region="bottomCenter" style="s1" xml:id="subtitle832"><font face="0661519E" size="68">真正冒险之人</font></p>
+<p begin="12843700000t" end="12881800000t" region="bottomCenter" style="s1" xml:id="subtitle833"><font face="0661519E" size="68">渴求未知 愿意了解世界的人啊</font></p>
+<p begin="12881800000t" end="12899700000t" region="bottomCenter" style="s1" xml:id="subtitle834"><font face="0661519E" size="68">聚集于我麾下吧</font></p>
+<p begin="12899700000t" end="12924500000t" region="bottomCenter" style="s1" xml:id="subtitle835"><font face="0661519E" size="68">帮助你们的力量</font></p>
+<p begin="12924500000t" end="12947400000t" region="bottomCenter" style="s1" xml:id="subtitle836"><font face="0661519E" size="68">将会远超你们的想象</font></p>
+<p begin="12954200000t" end="12966900000t" region="bottomCenter" style="s1" xml:id="subtitle837"><font face="0661519E" size="68">有我在</font></p>
+<p begin="12966900000t" end="12992700000t" region="bottomCenter" style="s1" xml:id="subtitle838"><font face="0661519E" size="68">连绝对的死亡也能对抗</font></p>
+<p begin="13056400000t" end="13099000000t" region="bottomCenter" style="s1" xml:id="subtitle839"><font face="0661519E" size="68">「死」也能征服的我将成为诸君的助力</font></p>
+<p begin="13099000000t" end="13116900000t" region="bottomCenter" style="s1" xml:id="subtitle840"><font face="0661519E" size="68">辅助你们成长</font></p>
+<p begin="13125800000t" end="13144300000t" region="bottomCenter" style="s1" xml:id="subtitle841"><font face="0661519E" size="68">来我的国家吧</font></p>
+<p begin="13144300000t" end="13172000000t" region="bottomCenter" style="s1" xml:id="subtitle842"><font face="0661519E" size="68">想成为真正冒险者之人!</font></p>
+<p begin="13199800000t" end="13206800000t" region="bottomCenter" style="s1" xml:id="subtitle843"><font face="0661519E" size="68">飞行</font></p>
+<p begin="13234200000t" end="13251500000t" region="bottomCenter" style="s1" xml:id="subtitle844"><font face="0661519E" size="68">刚才真是失礼了</font></p>
+<p begin="13256300000t" end="13275700000t" region="bottomCenter" style="s1" xml:id="subtitle845"><font face="0661519E" size="68">不愧是恭大人</font></p>
+<p begin="13275700000t" end="13299700000t" region="bottomCenter" style="s1" xml:id="subtitle846"><font face="0661519E" size="68">竟然能够压倒性地赢过帝国最强的战士</font></p>
+<p begin="13299700000t" end="13316500000t" region="bottomCenter" style="s1" xml:id="subtitle847"><font face="0661519E" size="68">真是一场干脆利落的胜利</font></p>
+<p begin="13321300000t" end="13347500000t" region="bottomCenter" style="s1" xml:id="subtitle848"><font face="0661519E" size="68">虽然哪边胜利了都不奇怪</font></p>
+<p begin="13347500000t" end="13372300000t" region="bottomCenter" style="s1" xml:id="subtitle849"><font face="0661519E" size="68">但看来幸运站在了我这边</font></p>
+<p begin="13387700000t" end="13405300000t" region="bottomCenter" style="s1" xml:id="subtitle850"><font face="0661519E" size="68">那么 我就此…</font></p>
+<p begin="13405300000t" end="13412800000t" region="bottomCenter" style="s1" xml:id="subtitle851"><font face="0661519E" size="68">等等!</font></p>
+<p begin="13422900000t" end="13451700000t" region="bottomCenter" style="s1" xml:id="subtitle852"><font face="0661519E" size="68">魔导王陛下 我…</font></p>
+<p begin="13451700000t" end="13519000000t" region="bottomCenter" style="s1" xml:id="subtitle853"><font face="0661519E" size="68">不 巴哈斯帝国 希望成为安兹·乌尔·恭魔导国的附庸</font></p>
+<p begin="13530700000t" end="13547900000t" region="bottomCenter" style="s1" xml:id="subtitle854"><font face="0661519E" size="68">附庸?!</font></p>
+<p begin="13547900000t" end="13555000000t" region="bottomCenter" style="s1" xml:id="subtitle855"><font face="0661519E" size="68">陛下</font></p>
+<p begin="13555000000t" end="13566900000t" region="bottomCenter" style="s1" xml:id="subtitle856"><font face="0661519E" size="68">这是怎么回事?</font></p>
+<p begin="13577500000t" end="13590400000t" region="bottomCenter" style="s1" xml:id="subtitle857"><font face="0661519E" size="68">吉克尼夫先生</font></p>
+<p begin="13590400000t" end="13624100000t" region="bottomCenter" style="s1" xml:id="subtitle858"><font face="0661519E" size="68">贵国要成为附庸什么的…</font></p>
+<p begin="13628200000t" end="13662500000t" region="bottomCenter" style="s1" xml:id="subtitle859"><font face="0661519E" size="68">这么重要的要求请你不要以口头提出</font></p>
+<p begin="13662500000t" end="13682300000t" region="bottomCenter" style="s1" xml:id="subtitle860"><font face="0661519E" size="68">而是以书面提出</font></p>
+<p begin="13686400000t" end="13716900000t" region="bottomCenter" style="s1" xml:id="subtitle861"><font face="0661519E" size="68">也就是说 以书面形式提出的话您就会答应吗</font></p>
+<p begin="13723400000t" end="13740600000t" region="bottomCenter" style="s1" xml:id="subtitle862"><font face="0661519E" size="68">请把你构想的</font></p>
+<p begin="13740600000t" end="13785000000t" region="bottomCenter" style="s1" xml:id="subtitle863"><font face="0661519E" size="68">令帝国变为附庸的草案送到我手上吧</font></p>
+<p begin="13803900000t" end="13812400000t" region="bottomCenter" style="s1" xml:id="subtitle864"><font face="0661519E" size="68">陛下</font></p>
+<p begin="13819700000t" end="13836100000t" region="bottomCenter" style="s1" xml:id="subtitle865"><font face="0661519E" size="68">我们已经没有胜算了</font></p>
+<p begin="13840300000t" end="13866400000t" region="bottomCenter" style="s1" xml:id="subtitle866"><font face="0661519E" size="68">魔导王陛下的智慧远胜于我</font></p>
+<p begin="13870500000t" end="13896900000t" region="bottomCenter" style="s1" xml:id="subtitle867"><font face="0661519E" size="68">我们的一举一动都被看透了</font></p>
+<p begin="13900600000t" end="13943800000t" region="bottomCenter" style="s1" xml:id="subtitle868"><font face="0661519E" size="68">你认为他为什么要拒绝我们成为他附庸的提议</font></p>
+<p begin="13943800000t" end="13966100000t" region="bottomCenter" style="s1" xml:id="subtitle869"><font face="0661519E" size="68">本来他根本没有拒绝的理由</font></p>
+<p begin="13973100000t" end="14001900000t" region="bottomCenter" style="s1" xml:id="subtitle870"><font face="0661519E" size="68">一定是有些不合他原本想法的事情发生了</font></p>
+<p begin="14009500000t" end="14040800000t" region="bottomCenter" style="s1" xml:id="subtitle871"><font face="0661519E" size="68">难道他想在帝国进行一些可怕的实验吗</font></p>
+<p begin="14047800000t" end="14085100000t" region="bottomCenter" style="s1" xml:id="subtitle872"><font face="0661519E" size="68">还是说跟刚才宣言中冒险者的事有关</font></p>
+<p begin="14085100000t" end="14101700000t" region="bottomCenter" style="s1" xml:id="subtitle873"><font face="0661519E" size="68">说不定他根本什么都没在想…</font></p>
+<p begin="14101700000t" end="14115000000t" region="bottomCenter" style="s1" xml:id="subtitle874"><font face="0661519E" size="68">怎么可能!</font></p>
+<p begin="14129900000t" end="14160000000t" region="bottomCenter" style="s1" xml:id="subtitle875"><font face="0661519E" size="68">别担心 即使是附庸也种类繁多</font></p>
+<p begin="14164400000t" end="14195900000t" region="bottomCenter" style="s1" xml:id="subtitle876"><font face="0661519E" size="68">为了能保留大部分的自治权 我会尽力的</font></p>
+<p begin="14199700000t" end="14227100000t" region="bottomCenter" style="s1" xml:id="subtitle877"><font face="0661519E" size="68">但是 陛下自身没有问题吗</font></p>
+<p begin="14230500000t" end="14242700000t" region="bottomCenter" style="s1" xml:id="subtitle878"><font face="0661519E" size="68">谁知道呢</font></p>
+<p begin="14242700000t" end="14287900000t" region="bottomCenter" style="s1" xml:id="subtitle879"><font face="0661519E" size="68">我会向他表明有我在的话 附庸统治将以最有效率的形式进行</font></p>
+<p begin="14293600000t" end="14307400000t" region="bottomCenter" style="s1" xml:id="subtitle880"><font face="0661519E" size="68">但仅凭这一点会怎样…</font></p>
+<p begin="14316800000t" end="14341200000t" region="bottomCenter" style="s1" xml:id="subtitle881"><font face="0661519E" size="68">现在世界上最不幸的人…</font></p>
+<p begin="14348500000t" end="14364800000t" region="bottomCenter" style="s1" xml:id="subtitle882"><font face="0661519E" size="68">是我</font></p>
+</div>
+</body>
+</tt>

@@ -6,7 +6,8 @@ import glob
 import time
 from datetime import datetime
 
-# offset=-118500
+# offset=-1400
+# offset=5700
 offset=0
 
 def str_data_to_num(str_data):
@@ -16,6 +17,7 @@ def str_data_to_num(str_data):
     return str(rtnValue)+"t"
 
 path = "."
+# path = "./02Eternal.srt"
 if not os.path.exists(path):
     print("No such path exists.\n")
 else:
@@ -92,6 +94,7 @@ for filepath in files:
             if sectionLine == 1:
                 # times = (line.replace(",", ".")).split("-->")
                 # newFile.write("<p begin=\"" + times[0].strip() + "\" end=\"" + times[1].strip() + "\">")
+                # print(line)
                 times = line.replace(" ", "").split("-->")
                 newFile.write("<p begin=\"" + str_data_to_num(times[0]).strip() + "\" end=\"" + str_data_to_num(times[1]).strip() + "\" region=\"bottomCenter\" style=\"s1\" xml:id=\"subtitle"+str(section-2)+"\">")
 

@@ -1,0 +1,577 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="82000000t" end="99200000t" region="bottomCenter" style="s1" xml:id="subtitle0"><font face="方正准圆_GBK" size="50"><b>我回來了!</b></font></p>
+<p begin="106600000t" end="116000000t" region="bottomCenter" style="s1" xml:id="subtitle1"><font face="方正准圆_GBK" size="50"><b>姐姐  姐姐</b></font></p>
+<p begin="118500000t" end="144200000t" region="bottomCenter" style="s1" xml:id="subtitle2"><font face="方正准圆_GBK" size="50"><b>客人好像還沒睡醒的樣子</b></font></p>
+<p begin="148900000t" end="154700000t" region="bottomCenter" style="s1" xml:id="subtitle3"><font face="方正准圆_GBK" size="50"><b>雷姆  雷姆</b></font></p>
+<p begin="158900000t" end="190300000t" region="bottomCenter" style="s1" xml:id="subtitle4"><font face="方正准圆_GBK" size="50"><b>客人怪可憐的  好像小小年紀就痴呆了</b></font></p>
+<p begin="284400000t" end="313200000t" region="bottomCenter" style="s1" xml:id="subtitle5"><font face="方正准圆_GBK" size="50"><b>客人您怎麼了  身體哪裡不舒服嗎</b></font></p>
+<p begin="315900000t" end="344200000t" region="bottomCenter" style="s1" xml:id="subtitle6"><font face="方正准圆_GBK" size="50"><b>客人您怎麼了  難道是舊病復發了嗎</b></font></p>
+<p begin="349500000t" end="360800000t" region="bottomCenter" style="s1" xml:id="subtitle7"><font face="方正准圆_GBK" size="50"><b>稍微握一下</b></font></p>
+<p begin="423200000t" end="437500000t" region="bottomCenter" style="s1" xml:id="subtitle8"><font face="方正准圆_GBK" size="50"><b>果然是這樣</b></font></p>
+<p begin="445300000t" end="475600000t" region="bottomCenter" style="s1" xml:id="subtitle9"><font face="方正准圆_GBK" size="50"><b>我並沒有搞錯</b></font></p>
+<p begin="479100000t" end="488300000t" region="bottomCenter" style="s1" xml:id="subtitle10"><font face="方正准圆_GBK" size="50"><b>不對  客人</b></font></p>
+<p begin="491000000t" end="510900000t" region="bottomCenter" style="s1" xml:id="subtitle11"><font face="方正准圆_GBK" size="50"><b>我覺得您完全搞錯了</b></font></p>
+<p begin="514500000t" end="522600000t" region="bottomCenter" style="s1" xml:id="subtitle12"><font face="方正准圆_GBK" size="50"><b>不對  客人</b></font></p>
+<p begin="528000000t" end="544600000t" region="bottomCenter" style="s1" xml:id="subtitle13"><font face="方正准圆_GBK" size="50"><b>您出生一定就是個錯誤</b></font></p>
+<p begin="549900000t" end="582800000t" region="bottomCenter" style="s1" xml:id="subtitle14"><font face="方正准圆_GBK" size="50"><b>考慮到以後的事  這些話真叫人笑不出來</b></font></p>
+<p begin="589900000t" end="607100000t" region="bottomCenter" style="s1" xml:id="subtitle15"><font face="方正准圆_GBK" size="50"><b>不過現在感覺也還不錯</b></font></p>
+<p begin="609800000t" end="618300000t" region="bottomCenter" style="s1" xml:id="subtitle16"><font face="方正准圆_GBK" size="50"><b>姐姐  姐姐</b></font></p>
+<p begin="620800000t" end="649100000t" region="bottomCenter" style="s1" xml:id="subtitle17"><font face="方正准圆_GBK" size="50"><b>客人說不定是被責備後會開心的麻煩人士</b></font></p>
+<p begin="652690000t" end="658200000t" region="bottomCenter" style="s1" xml:id="subtitle18"><font face="方正准圆_GBK" size="50"><b>雷姆  雷姆</b></font></p>
+<p begin="660400000t" end="691900000t" region="bottomCenter" style="s1" xml:id="subtitle19"><font face="方正准圆_GBK" size="50"><b>客人看起來是被痛罵後會興奮的變態人士</b></font></p>
+<p begin="696200000t" end="712300000t" region="bottomCenter" style="s1" xml:id="subtitle20"><font face="方正准圆_GBK" size="50"><b>突然就這麼說  真是抱歉了</b></font></p>
+<p begin="719400000t" end="740700000t" region="bottomCenter" style="s1" xml:id="subtitle21"><font face="方正准圆_GBK" size="50"><b>但是  我相信著你們</b></font></p>
+<p begin="756600000t" end="767800000t" region="bottomCenter" style="s1" xml:id="subtitle22"><font face="方正准圆_GBK" size="50"><b>讓我們好好相處吧</b></font></p>
+<p begin="795400000t" end="815300000t" region="bottomCenter" style="s1" xml:id="subtitle23"><font face="方正准圆_GBK" size="50"><b>還說怎麼吵吵鬧鬧的  然後過來看看</b></font></p>
+<p begin="821300000t" end="838500000t" region="bottomCenter" style="s1" xml:id="subtitle24"><font face="方正准圆_GBK" size="50"><b>昴看起來很有精神  真是太好了</b></font></p>
+<p begin="844400000t" end="867800000t" region="bottomCenter" style="s1" xml:id="subtitle25"><font face="方正准圆_GBK" size="50"><b>直到剛剛為止心情還很複雜</b></font></p>
+<p begin="869500000t" end="891400000t" region="bottomCenter" style="s1" xml:id="subtitle26"><font face="方正准圆_GBK" size="50"><b>但是看見愛蜜莉雅炭後就煙消雲散了</b></font></p>
+<p begin="895200000t" end="922900000t" region="bottomCenter" style="s1" xml:id="subtitle27"><font face="方正准圆_GBK" size="50"><b>愛蜜莉雅炭就是治療我心房的特效藥呢</b></font></p>
+<p begin="928900000t" end="950300000t" region="bottomCenter" style="s1" xml:id="subtitle28"><font face="方正准圆_GBK" size="50"><b>抱歉  我不太明白你在說什麼</b></font></p>
+<p begin="956500000t" end="975300000t" region="bottomCenter" style="s1" xml:id="subtitle29"><font face="方正准圆_GBK" size="50"><b>不過早安  看到你沒事真是太好了</b></font></p>
+<p begin="978900000t" end="990700000t" region="bottomCenter" style="s1" xml:id="subtitle30"><font face="方正准圆_GBK" size="50"><b>嗯  早安</b></font></p>
+<p begin="1002200000t" end="1025000000t" region="bottomCenter" style="s1" xml:id="subtitle31"><font face="方正准圆_GBK" size="50"><b>那麼就來開始吧</b></font></p>
+<p begin="1137100000t" end="1188400000t" region="bottomCenter" style="s1" xml:id="subtitle32"><font face="DFGHSGothic-W5" size="37"><b>自分の過去に囚われ迷って</b></font></p>
+<p begin="1137100000t" end="1188400000t" region="bottomCenter" style="s1" xml:id="subtitle33"><font face="方正兰亭中黑_GBK" size="42"><b>{\an8}無法擺脫自己過去的束縛  迷失了前進方向</b></font></p>
+<p begin="1188800000t" end="1238500000t" region="bottomCenter" style="s1" xml:id="subtitle34"><font face="DFGHSGothic-W5" size="37"><b>そうじゃないよと　言い聞かせて　全てを</b></font></p>
+<p begin="1188800000t" end="1238500000t" region="bottomCenter" style="s1" xml:id="subtitle35"><font face="方正兰亭中黑_GBK" size="42"><b>{\an8}還自欺述說那並不是全部</b></font></p>
+<p begin="1238900000t" end="1289400000t" region="bottomCenter" style="s1" xml:id="subtitle36"><font face="DFGHSGothic-W5" size="37"><b>自由に操れるかなんて</b></font></p>
+<p begin="1238900000t" end="1289400000t" region="bottomCenter" style="s1" xml:id="subtitle37"><font face="方正兰亭中黑_GBK" size="42"><b>{\an8}不知道這些是否能自由控制</b></font></p>
+<p begin="1290200000t" end="1314400000t" region="bottomCenter" style="s1" xml:id="subtitle38"><font face="DFGHSGothic-W5" size="37"><b>分からないよと　空は霞んで</b></font></p>
+<p begin="1290200000t" end="1314400000t" region="bottomCenter" style="s1" xml:id="subtitle39"><font face="方正兰亭中黑_GBK" size="42"><b>{\an8}天色為何又如此朦朧</b></font></p>
+<p begin="1315200000t" end="1339000000t" region="bottomCenter" style="s1" xml:id="subtitle40"><font face="DFGHSGothic-W5" size="37"><b>正解はどこ</b></font></p>
+<p begin="1315200000t" end="1339000000t" region="bottomCenter" style="s1" xml:id="subtitle41"><font face="方正兰亭中黑_GBK" size="42"><b>{\an8}答案又在何處</b></font></p>
+<p begin="1340200000t" end="1391500000t" region="bottomCenter" style="s1" xml:id="subtitle42"><font face="DFGHSGothic-W5" size="37"><b>僕の手のひらに　残る大事なもの</b></font></p>
+<p begin="1340200000t" end="1391500000t" region="bottomCenter" style="s1" xml:id="subtitle43"><font face="方正兰亭中黑_GBK" size="42"><b>{\an8}雙手還殘留著有什麼很重要的事尚未完成的感覺</b></font></p>
+<p begin="1392000000t" end="1440300000t" region="bottomCenter" style="s1" xml:id="subtitle44"><font face="DFGHSGothic-W5" size="37"><b>忘れない記憶　何度でも</b></font></p>
+<p begin="1392000000t" end="1440300000t" region="bottomCenter" style="s1" xml:id="subtitle45"><font face="方正兰亭中黑_GBK" size="42"><b>{\an8}這段記憶將塵封於心  永久保存</b></font></p>
+<p begin="1440300000t" end="1491600000t" region="bottomCenter" style="s1" xml:id="subtitle46"><font face="DFGHSGothic-W5" size="37"><b>君を守り抜くと叫んで</b></font></p>
+<p begin="1440300000t" end="1491600000t" region="bottomCenter" style="s1" xml:id="subtitle47"><font face="方正兰亭中黑_GBK" size="42"><b>{\an8}誓要將你保護到底的決心已化作言語放聲吶喊</b></font></p>
+<p begin="1494100000t" end="1541700000t" region="bottomCenter" style="s1" xml:id="subtitle48"><font face="DFGHSGothic-W5" size="37"><b>巻き戻しの中　掴んだ愛は　そう</b></font></p>
+<p begin="1494100000t" end="1541700000t" region="bottomCenter" style="s1" xml:id="subtitle49"><font face="方正兰亭中黑_GBK" size="42"><b>{\an8}回放逝去的倒帶  把對你永恆的摯愛捧在心中</b></font></p>
+<p begin="1542900000t" end="1565000000t" region="bottomCenter" style="s1" xml:id="subtitle50"><font face="DFGHSGothic-W5" size="37"><b>離しはしないから</b></font></p>
+<p begin="1542900000t" end="1565000000t" region="bottomCenter" style="s1" xml:id="subtitle51"><font face="方正兰亭中黑_GBK" size="42"><b>{\an8}定不會輕易放手</b></font></p>
+<p begin="1566700000t" end="1618000000t" region="bottomCenter" style="s1" xml:id="subtitle52"><font face="DFGHSGothic-W5" size="37"><b>散りばめた想い　今一度きりの願いへ</b></font></p>
+<p begin="1566700000t" end="1618000000t" region="bottomCenter" style="s1" xml:id="subtitle53"><font face="方正兰亭中黑_GBK" size="42"><b>{\an8}這是最後一次請求  將這散落一地的思念</b></font></p>
+<p begin="1577600000t" end="1578000000t" region="bottomCenter" style="s1" xml:id="subtitle54"><font face="方正兰亭粗黑_GBK" size="70" color="#a098ce"><b><font face="方正小标宋_GBK"><font size="3">D</font>mg</font></b></font><font face="方正准圆_GBK" size="50"><b><font color="#bebdc4"><font face="方正准圆_GBK">:</font></font></b></font><font face="方正准圆_GBK" size="50"><b><font color="#bebdc4">        <font face="方正小标宋_GBK">國<br />\h\h\h\h\h<font face="方正兰亭粗黑_GBK">        <font face="方正小标宋_GBK"></font>組</font></font></font></b></font></p>
+<p begin="1577600000t" end="1578000000t" region="bottomCenter" style="s1" xml:id="subtitle55"><font face="方正兰亭粗黑_GBK" size="70" color="#a098ce"><b><font color="#bebdc4">動</font></b></font></p>
+<p begin="1577600000t" end="1578000000t" region="bottomCenter" style="s1" xml:id="subtitle56"><font face="方正兰亭粗黑_GBK" size="70" color="#a098ce"><b><font color="#bebdc4">漫</font></b></font></p>
+<p begin="1577600000t" end="1578000000t" region="bottomCenter" style="s1" xml:id="subtitle57"><font face="方正兰亭粗黑_GBK" size="70" color="#a098ce"><b><font color="#bebdc4"></font>字</b></font></p>
+<p begin="1577600000t" end="1578000000t" region="bottomCenter" style="s1" xml:id="subtitle58"><font face="方正兰亭粗黑_GBK" size="70" color="#a098ce"><b><font color="#bebdc4"></font>幕</b></font></p>
+<p begin="1577600000t" end="1578000000t" region="bottomCenter" style="s1" xml:id="subtitle59"><font face="方正兰亭粗黑_GBK" size="70" color="#a098ce"><b><font face="方正小标宋_GBK"><font color="#bebdc4"><font size="35">dmguo.org</font></font></font></b></font></p>
+<p begin="1578000000t" end="1578400000t" region="bottomCenter" style="s1" xml:id="subtitle60"><font face="方正兰亭粗黑_GBK" size="70" color="#a098ce"><b><font face="方正小标宋_GBK"><font size="3">D</font>mg</font></b></font><font face="方正准圆_GBK" size="50"><b><font color="#bebdc4"><font face="方正准圆_GBK">:</font></font></b></font><font face="方正准圆_GBK" size="50"><b><font color="#bebdc4">        <font face="方正小标宋_GBK">國<br />\h\h\h\h\h<font face="方正兰亭粗黑_GBK">        <font face="方正小标宋_GBK"></font>組</font></font></font></b></font></p>
+<p begin="1578000000t" end="1578400000t" region="bottomCenter" style="s1" xml:id="subtitle61"><font face="方正兰亭粗黑_GBK" size="70" color="#a098ce"><b><font color="#bebdc4">動</font></b></font></p>
+<p begin="1578000000t" end="1578400000t" region="bottomCenter" style="s1" xml:id="subtitle62"><font face="方正兰亭粗黑_GBK" size="70" color="#a098ce"><b><font color="#bebdc4">漫</font></b></font></p>
+<p begin="1578000000t" end="1578400000t" region="bottomCenter" style="s1" xml:id="subtitle63"><font face="方正兰亭粗黑_GBK" size="70" color="#a098ce"><b><font color="#bebdc4"></font>字</b></font></p>
+<p begin="1578000000t" end="1578400000t" region="bottomCenter" style="s1" xml:id="subtitle64"><font face="方正兰亭粗黑_GBK" size="70" color="#a098ce"><b><font color="#bebdc4"></font>幕</b></font></p>
+<p begin="1578000000t" end="1578400000t" region="bottomCenter" style="s1" xml:id="subtitle65"><font face="方正兰亭粗黑_GBK" size="70" color="#a098ce"><b><font face="方正小标宋_GBK"><font color="#bebdc4"><font size="35">dmguo.org</font></font></font></b></font></p>
+<p begin="1578400000t" end="1578800000t" region="bottomCenter" style="s1" xml:id="subtitle66"><font face="方正兰亭粗黑_GBK" size="70" color="#a098ce"><b><font face="方正小标宋_GBK"><font size="3">D</font>mg</font></b></font><font face="方正准圆_GBK" size="50"><b><font color="#65646d"><font face="方正准圆_GBK">:</font></font></b></font><font face="方正准圆_GBK" size="50"><b><font color="#65646d">        <font face="方正小标宋_GBK">國<br />\h\h\h\h\h<font face="方正兰亭粗黑_GBK">        <font face="方正小标宋_GBK"></font>組</font></font></font></b></font></p>
+<p begin="1578400000t" end="1578800000t" region="bottomCenter" style="s1" xml:id="subtitle67"><font face="方正兰亭粗黑_GBK" size="70" color="#a098ce"><b><font color="#65646d">動</font></b></font></p>
+<p begin="1578400000t" end="1578800000t" region="bottomCenter" style="s1" xml:id="subtitle68"><font face="方正兰亭粗黑_GBK" size="70" color="#a098ce"><b><font color="#65646d">漫</font></b></font></p>
+<p begin="1578400000t" end="1578800000t" region="bottomCenter" style="s1" xml:id="subtitle69"><font face="方正兰亭粗黑_GBK" size="70" color="#a098ce"><b><font color="#65646d"></font>字</b></font></p>
+<p begin="1578400000t" end="1578800000t" region="bottomCenter" style="s1" xml:id="subtitle70"><font face="方正兰亭粗黑_GBK" size="70" color="#a098ce"><b><font color="#65646d"></font>幕</b></font></p>
+<p begin="1578400000t" end="1578800000t" region="bottomCenter" style="s1" xml:id="subtitle71"><font face="方正兰亭粗黑_GBK" size="70" color="#a098ce"><b><font face="方正小标宋_GBK"><font color="#65646d"><font size="35">dmguo.org</font></font></font></b></font></p>
+<p begin="1578800000t" end="1617200000t" region="bottomCenter" style="s1" xml:id="subtitle72"><font face="方正兰亭粗黑_GBK" size="70" color="#a098ce"><b><font face="方正小标宋_GBK"><font size="3">D</font>mg</font></b></font><font face="方正准圆_GBK" size="50"><b><font color="#000000"><font face="方正准圆_GBK">:</font></font></b></font><font face="方正准圆_GBK" size="50"><b><font color="#000000">        <font face="方正小标宋_GBK">國<br />\h\h\h\h\h<font face="方正兰亭粗黑_GBK">        <font face="方正小标宋_GBK"></font>組</font></font></font></b></font></p>
+<p begin="1578800000t" end="1617200000t" region="bottomCenter" style="s1" xml:id="subtitle73"><font face="方正兰亭粗黑_GBK" size="70" color="#a098ce"><b><font color="#000000">動</font></b></font></p>
+<p begin="1578800000t" end="1617200000t" region="bottomCenter" style="s1" xml:id="subtitle74"><font face="方正兰亭粗黑_GBK" size="70" color="#a098ce"><b><font color="#000000">漫</font></b></font></p>
+<p begin="1578800000t" end="1617200000t" region="bottomCenter" style="s1" xml:id="subtitle75"><font face="方正兰亭粗黑_GBK" size="70" color="#a098ce"><b><font color="#000000"></font>字</b></font></p>
+<p begin="1578800000t" end="1617200000t" region="bottomCenter" style="s1" xml:id="subtitle76"><font face="方正兰亭粗黑_GBK" size="70" color="#a098ce"><b><font color="#000000"></font>幕</b></font></p>
+<p begin="1578800000t" end="1617200000t" region="bottomCenter" style="s1" xml:id="subtitle77"><font face="方正兰亭粗黑_GBK" size="70" color="#a098ce"><b><font face="方正小标宋_GBK"><font color="#000000"><font size="35">dmguo.org</font></font></font></b></font></p>
+<p begin="1619700000t" end="1667600000t" region="bottomCenter" style="s1" xml:id="subtitle78"><font face="DFGHSGothic-W5" size="37"><b>次への僕に　託したよ</b></font></p>
+<p begin="1619700000t" end="1667600000t" region="bottomCenter" style="s1" xml:id="subtitle79"><font face="方正兰亭中黑_GBK" size="42"><b>{\an8}託付給未來的自己</b></font></p>
+<p begin="1668100000t" end="1718900000t" region="bottomCenter" style="s1" xml:id="subtitle80"><font face="DFGHSGothic-W5" size="37"><b>いつかの約束　光の道しるべになる</b></font></p>
+<p begin="1668100000t" end="1718900000t" region="bottomCenter" style="s1" xml:id="subtitle81"><font face="方正兰亭中黑_GBK" size="42"><b>{\an8}曾經的約定  化作黎明的燈塔指引我前進</b></font></p>
+<p begin="1718900000t" end="1829500000t" region="bottomCenter" style="s1" xml:id="subtitle82"><font face="DFGHSGothic-W5" size="37"><b>誓いをさあ　君のため　最期まで</b></font></p>
+<p begin="1718900000t" end="1829500000t" region="bottomCenter" style="s1" xml:id="subtitle83"><font face="方正兰亭中黑_GBK" size="42"><b>{\an8}我發誓將為了你支撐到最後一刻</b></font></p>
+<p begin="1831600000t" end="1880400000t" region="bottomCenter" style="s1" xml:id="subtitle84"><font face="DFGHSGothic-W5" size="37"><b>涙さえ力に変えてきっと　描いていた望む未来へ</b></font></p>
+<p begin="1831600000t" end="1880400000t" region="bottomCenter" style="s1" xml:id="subtitle85"><font face="方正兰亭中黑_GBK" size="42"><b>{\an8}連淚水也化作力量  一定會將心中描繪的所期待的未來</b></font></p>
+<p begin="1882400000t" end="1907100000t" region="bottomCenter" style="s1" xml:id="subtitle86"><font face="DFGHSGothic-W5" size="37"><b>繋ぐよ</b></font></p>
+<p begin="1882400000t" end="1907100000t" region="bottomCenter" style="s1" xml:id="subtitle87"><font face="方正兰亭中黑_GBK" size="42"><b>{\an8}與現實銜接</b></font></p>
+<p begin="1960400000t" end="1984400000t" region="bottomCenter" style="s1" xml:id="subtitle88"><font face="方正准圆_GBK" size="50"><b>讓我在這座宅邸工作吧</b></font></p>
+<p begin="1998700000t" end="2044600000t" region="bottomCenter" style="s1" xml:id="subtitle89"><font face="方正准圆_GBK" size="50"><b>想在羅茲瓦爾的宅邸支撐過一星期  有兩個必要的條件</b></font></p>
+<p begin="2052500000t" end="2081300000t" region="bottomCenter" style="s1" xml:id="subtitle90"><font face="方正准圆_GBK" size="50"><b>第一條是取得宅邸有關人員的信賴</b></font></p>
+<p begin="2089700000t" end="2136100000t" region="bottomCenter" style="s1" xml:id="subtitle91"><font face="方正准圆_GBK" size="50"><b>如果沒有通過他們的審視  就很有可能被殺人滅口</b></font></p>
+<p begin="2152800000t" end="2200800000t" region="bottomCenter" style="s1" xml:id="subtitle92"><font face="方正准圆_GBK" size="50"><b>這不僅指雷姆和拉姆  還包含他們的主人羅茲瓦爾</b></font></p>
+<p begin="2212500000t" end="2223800000t" region="bottomCenter" style="s1" xml:id="subtitle93"><font face="方正准圆_GBK" size="50"><b>然後第二條</b></font></p>
+<p begin="2229800000t" end="2251400000t" region="bottomCenter" style="s1" xml:id="subtitle94"><font face="方正准圆_GBK" size="50"><b>就是把襲擊羅茲瓦爾宅邸的咒術師…</b></font></p>
+<p begin="2263800000t" end="2269300000t" region="bottomCenter" style="s1" xml:id="subtitle95"><font face="方正准圆_GBK" size="50"><b>給予擊破</b></font></p>
+<p begin="2298200000t" end="2313500000t" region="bottomCenter" style="s1" xml:id="subtitle96"><font face="方正准圆_GBK" size="50"><b>累壞了</b></font></p>
+<p begin="2313500000t" end="2329400000t" region="bottomCenter" style="s1" xml:id="subtitle97"><font face="方正准圆_GBK" size="50"><b>還真勤奮</b></font></p>
+<p begin="2334900000t" end="2349600000t" region="bottomCenter" style="s1" xml:id="subtitle98"><font face="方正准圆_GBK" size="50"><b>還沒結束呢</b></font></p>
+<p begin="2351700000t" end="2368200000t" region="bottomCenter" style="s1" xml:id="subtitle99"><font face="方正准圆_GBK" size="50"><b>還有晚飯的準備和房間打掃</b></font></p>
+<p begin="2371700000t" end="2394400000t" region="bottomCenter" style="s1" xml:id="subtitle100"><font face="方正准圆_GBK" size="50"><b>稍微休息一下後  就得回去工作</b></font></p>
+<p begin="2395600000t" end="2415500000t" region="bottomCenter" style="s1" xml:id="subtitle101"><font face="方正准圆_GBK" size="50"><b>第一天就幹勁十足呢</b></font></p>
+<p begin="2417000000t" end="2428500000t" region="bottomCenter" style="s1" xml:id="subtitle102"><font face="方正准圆_GBK" size="50"><b>那是當然</b></font></p>
+<p begin="2443900000t" end="2468600000t" region="bottomCenter" style="s1" xml:id="subtitle103"><font face="方正准圆_GBK" size="50"><b>畢竟關係著很多重要的東西</b></font></p>
+<p begin="2516900000t" end="2524100000t" region="bottomCenter" style="s1" xml:id="subtitle104"><font face="方正准圆_GBK" size="50"><b>話說回來…</b></font></p>
+<p begin="2534500000t" end="2562400000t" region="bottomCenter" style="s1" xml:id="subtitle105"><font face="方正准圆_GBK" size="50"><b>愛蜜莉雅炭是適用什麼魔法的魔法使?</b></font></p>
+<p begin="2565890000t" end="2593500000t" region="bottomCenter" style="s1" xml:id="subtitle106"><font face="方正准圆_GBK" size="50"><b>嚴格來說莉雅不是魔法使</b></font></p>
+<p begin="2596490000t" end="2613800000t" region="bottomCenter" style="s1" xml:id="subtitle107"><font face="方正准圆_GBK" size="50"><b>與我的契約也是</b></font></p>
+<p begin="2625600000t" end="2637800000t" region="bottomCenter" style="s1" xml:id="subtitle108"><font face="方正准圆_GBK" size="50"><b>她是精靈使</b></font></p>
+<p begin="2644100000t" end="2669500000t" region="bottomCenter" style="s1" xml:id="subtitle109"><font face="方正准圆_GBK" size="50"><b>魔法使和精靈使是不一樣的啊</b></font></p>
+<p begin="2674000000t" end="2708200000t" region="bottomCenter" style="s1" xml:id="subtitle110"><font face="方正准圆_GBK" size="50"><b>魔法使是用自己體內的魔力來使用魔法</b></font></p>
+<p begin="2713500000t" end="2753900000t" region="bottomCenter" style="s1" xml:id="subtitle111"><font face="方正准圆_GBK" size="50"><b>反過來精靈使是用大氣中的魔力來使用法術</b></font></p>
+<p begin="2756900000t" end="2779000000t" region="bottomCenter" style="s1" xml:id="subtitle112"><font face="方正准圆_GBK" size="50"><b>所以這兩者有什麼區別呢  老師</b></font></p>
+<p begin="2780100000t" end="2804100000t" region="bottomCenter" style="s1" xml:id="subtitle113"><font face="方正准圆_GBK" size="50"><b>簡單地說就是會不會使用到生命門</b></font></p>
+<p begin="2808500000t" end="2813500000t" region="bottomCenter" style="s1" xml:id="subtitle114"><font face="方正准圆_GBK" size="50"><b>生命門?</b></font></p>
+<p begin="2820500000t" end="2849900000t" region="bottomCenter" style="s1" xml:id="subtitle115"><font face="方正准圆_GBK" size="50"><b>就是指在體內的魔力通過的門</b></font></p>
+<p begin="2855100000t" end="2896600000t" region="bottomCenter" style="s1" xml:id="subtitle116"><font face="方正准圆_GBK" size="50"><b>通過生命門來獲得魔力  再通過生命門來釋放魔力</b></font></p>
+<p begin="2899600000t" end="2927600000t" region="bottomCenter" style="s1" xml:id="subtitle117"><font face="方正准圆_GBK" size="50"><b>原來如此  就是指控制魔力值的水龍頭</b></font></p>
+<p begin="2931300000t" end="2946300000t" region="bottomCenter" style="s1" xml:id="subtitle118"><font face="方正准圆_GBK" size="50"><b>昴你也應該有的哦</b></font></p>
+<p begin="2951400000t" end="2980600000t" region="bottomCenter" style="s1" xml:id="subtitle119"><font face="方正准圆_GBK" size="50"><b>真的嗎?  也就是說我也能使用魔法嗎</b></font></p>
+<p begin="2983600000t" end="3007000000t" region="bottomCenter" style="s1" xml:id="subtitle120"><font face="方正准圆_GBK" size="50"><b>總之先調查一下昴的屬性吧</b></font></p>
+<p begin="3013800000t" end="3059600000t" region="bottomCenter" style="s1" xml:id="subtitle121"><font face="方正准圆_GBK" size="50"><b>在魔法裡有著火  水  風  土四種魔力屬性</b></font></p>
+<p begin="3087300000t" end="3103600000t" region="bottomCenter" style="s1" xml:id="subtitle122"><font face="方正准圆_GBK" size="50"><b>好有魔法的效果音</b></font></p>
+<p begin="3106100000t" end="3122600000t" region="bottomCenter" style="s1" xml:id="subtitle123"><font face="方正准圆_GBK" size="50"><b>我知道了  昴的屬性</b></font></p>
+<p begin="3123600000t" end="3135700000t" region="bottomCenter" style="s1" xml:id="subtitle124"><font face="方正准圆_GBK" size="50"><b>來了  我就等此刻了</b></font></p>
+<p begin="3140900000t" end="3152000000t" region="bottomCenter" style="s1" xml:id="subtitle125"><font face="方正准圆_GBK" size="50"><b>果然是熱情的火?</b></font></p>
+<p begin="3156100000t" end="3178300000t" region="bottomCenter" style="s1" xml:id="subtitle126"><font face="方正准圆_GBK" size="50"><b>又或者是冷靜沉著並帥氣的水?</b></font></p>
+<p begin="3184000000t" end="3203000000t" region="bottomCenter" style="s1" xml:id="subtitle127"><font face="方正准圆_GBK" size="50"><b>亦或者是拂過草原清爽的風</b></font></p>
+<p begin="3208100000t" end="3232300000t" region="bottomCenter" style="s1" xml:id="subtitle128"><font face="方正准圆_GBK" size="50"><b>還是如穩重的大地般的可靠的土</b></font></p>
+<p begin="3239000000t" end="3243800000t" region="bottomCenter" style="s1" xml:id="subtitle129"><font face="方正准圆_GBK" size="50"><b>是陰呢</b></font></p>
+<p begin="3243800000t" end="3254200000t" region="bottomCenter" style="s1" xml:id="subtitle130"><font face="方正准圆_GBK" size="50"><b>居然全部駁回!</b></font></p>
+<p begin="3258400000t" end="3282900000t" region="bottomCenter" style="s1" xml:id="subtitle131"><font face="方正准圆_GBK" size="50"><b>還真少見  居然是陰屬性</b></font></p>
+<p begin="3287500000t" end="3316700000t" region="bottomCenter" style="s1" xml:id="subtitle132"><font face="方正准圆_GBK" size="50"><b>話說陰是什麼  分類不是只有四個嗎</b></font></p>
+<p begin="3317100000t" end="3330800000t" region="bottomCenter" style="s1" xml:id="subtitle133"><font face="方正准圆_GBK" size="50"><b>分類都出錯了</b></font></p>
+<p begin="3333800000t" end="3372800000t" region="bottomCenter" style="s1" xml:id="subtitle134"><font face="方正准圆_GBK" size="50"><b>四個基本屬性外  還有陰與陽的兩種屬性</b></font></p>
+<p begin="3375400000t" end="3396100000t" region="bottomCenter" style="s1" xml:id="subtitle135"><font face="方正准圆_GBK" size="50"><b>聽起來好像是非常厲害的能力</b></font></p>
+<p begin="3399500000t" end="3420100000t" region="bottomCenter" style="s1" xml:id="subtitle136"><font face="方正准圆_GBK" size="50"><b>比方是五千年一遇的天才這種</b></font></p>
+<p begin="3424000000t" end="3441400000t" region="bottomCenter" style="s1" xml:id="subtitle137"><font face="方正准圆_GBK" size="50"><b>要說陰屬性的魔法</b></font></p>
+<p begin="3449100000t" end="3478100000t" region="bottomCenter" style="s1" xml:id="subtitle138"><font face="方正准圆_GBK" size="50"><b>就是阻礙對手的視野  屏蔽聲音</b></font></p>
+<p begin="3481100000t" end="3498400000t" region="bottomCenter" style="s1" xml:id="subtitle139"><font face="方正准圆_GBK" size="50"><b>還有延緩別人的動作這類的吧</b></font></p>
+<p begin="3500100000t" end="3510700000t" region="bottomCenter" style="s1" xml:id="subtitle140"><font face="方正准圆_GBK" size="50"><b><font size="32">Debuff</font></b></font></p>
+<p begin="3500100000t" end="3510700000t" region="bottomCenter" style="s1" xml:id="subtitle141"><font face="方正准圆_GBK" size="50"><b>「減益魔法」特化</b></font></p>
+<p begin="3516200000t" end="3536600000t" region="bottomCenter" style="s1" xml:id="subtitle142"><font face="方正准圆_GBK" size="50"><b>簡單來說就是遮幕之類的吧</b></font></p>
+<p begin="3542300000t" end="3563700000t" region="bottomCenter" style="s1" xml:id="subtitle143"><font face="方正准圆_GBK" size="50"><b>記得是障眼法類型的魔法呢</b></font></p>
+<p begin="3581200000t" end="3594600000t" region="bottomCenter" style="s1" xml:id="subtitle144"><font face="方正准圆_GBK" size="50"><b>稍微試一下吧</b></font></p>
+<p begin="3596400000t" end="3612200000t" region="bottomCenter" style="s1" xml:id="subtitle145"><font face="方正准圆_GBK" size="50"><b>真的嗎?  讓我見識一下</b></font></p>
+<p begin="3598600000t" end="3609000000t" region="bottomCenter" style="s1" xml:id="subtitle146"><font face="方正准圆_GBK" size="39"><b>{\an8}等下  帕克</b></font></p>
+<p begin="3623500000t" end="3631300000t" region="bottomCenter" style="s1" xml:id="subtitle147"><font face="方正准圆_GBK" size="50"><b>遮幕</b></font></p>
+<p begin="3768500000t" end="3779600000t" region="bottomCenter" style="s1" xml:id="subtitle148"><font face="方正准圆_GBK" size="50"><b>好了  結束</b></font></p>
+<p begin="3796900000t" end="3815600000t" region="bottomCenter" style="s1" xml:id="subtitle149"><font face="方正准圆_GBK" size="50"><b>怎麼樣  剛剛那個就是遮幕</b></font></p>
+<p begin="3822800000t" end="3832500000t" region="bottomCenter" style="s1" xml:id="subtitle150"><font face="方正准圆_GBK" size="50"><b>你還好嗎</b></font></p>
+<p begin="3856300000t" end="3872600000t" region="bottomCenter" style="s1" xml:id="subtitle151"><font face="方正准圆_GBK" size="50"><b>沒事</b></font></p>
+<p begin="3873400000t" end="3895900000t" region="bottomCenter" style="s1" xml:id="subtitle152"><font face="方正准圆_GBK" size="50"><b>雖然很不起眼  但是效果非常強</b></font></p>
+<p begin="3900100000t" end="3925800000t" region="bottomCenter" style="s1" xml:id="subtitle153"><font face="方正准圆_GBK" size="50"><b>我也能使用那個叫遮幕的魔法吧</b></font></p>
+<p begin="3927600000t" end="3944900000t" region="bottomCenter" style="s1" xml:id="subtitle154"><font face="方正准圆_GBK" size="50"><b>這取決於修行了</b></font></p>
+<p begin="3950800000t" end="3965200000t" region="bottomCenter" style="s1" xml:id="subtitle155"><font face="方正准圆_GBK" size="50"><b>要試試體驗入學嗎</b></font></p>
+<p begin="3969000000t" end="3981300000t" region="bottomCenter" style="s1" xml:id="subtitle156"><font face="方正准圆_GBK" size="50"><b>拜託您了  師父</b></font></p>
+<p begin="4001100000t" end="4031100000t" region="bottomCenter" style="s1" xml:id="subtitle157"><font face="方正准圆_GBK" size="50"><b>我來輔助  因為會使用到昴體內的魔力</b></font></p>
+<p begin="4033900000t" end="4057400000t" region="bottomCenter" style="s1" xml:id="subtitle158"><font face="方正准圆_GBK" size="50"><b>所以魔法本身是從昴的生命門裡出來的</b></font></p>
+<p begin="4061700000t" end="4096000000t" region="bottomCenter" style="s1" xml:id="subtitle159"><font face="方正准圆_GBK" size="50"><b>萬一昴的魔力暴走導致身體爆炸</b></font></p>
+<p begin="4099000000t" end="4120900000t" region="bottomCenter" style="s1" xml:id="subtitle160"><font face="方正准圆_GBK" size="50"><b>會弄髒莉雅的衣服  你就離遠一點吧</b></font></p>
+<p begin="4131900000t" end="4164700000t" region="bottomCenter" style="s1" xml:id="subtitle161"><font face="方正准圆_GBK" size="50"><b>會變成那樣的機率應該是超級低吧</b></font></p>
+<p begin="4167200000t" end="4191100000t" region="bottomCenter" style="s1" xml:id="subtitle162"><font face="方正准圆_GBK" size="50"><b>還能從容地說這些話  就說明你沒問題</b></font></p>
+<p begin="4198500000t" end="4214100000t" region="bottomCenter" style="s1" xml:id="subtitle163"><font face="方正准圆_GBK" size="50"><b>那麼  想像一下</b></font></p>
+<p begin="4220000000t" end="4238600000t" region="bottomCenter" style="s1" xml:id="subtitle164"><font face="方正准圆_GBK" size="50"><b>你體內的魔力的流動</b></font></p>
+<p begin="4244300000t" end="4279300000t" region="bottomCenter" style="s1" xml:id="subtitle165"><font face="方正准圆_GBK" size="50"><b>然後其中一部分從生命門中流出體外</b></font></p>
+<p begin="4286000000t" end="4316200000t" region="bottomCenter" style="s1" xml:id="subtitle166"><font face="方正准圆_GBK" size="50"><b>想像的話就交給本人吧  我可是很擅長腦洞的</b></font></p>
+<p begin="4395700000t" end="4430400000t" region="bottomCenter" style="s1" xml:id="subtitle167"><font face="方正准圆_GBK" size="50"><b>真傷腦筋  生命門突然有些…</b></font></p>
+<p begin="4499600000t" end="4536500000t" region="bottomCenter" style="s1" xml:id="subtitle168"><font face="方正准圆_GBK" size="50"><b>從結果來說  因為昴的生命門很難控制</b></font></p>
+<p begin="4536500000t" end="4550500000t" region="bottomCenter" style="s1" xml:id="subtitle169"><font face="方正准圆_GBK" size="50"><b>所以還是不要勉強比較好</b></font></p>
+<p begin="4554200000t" end="4576400000t" region="bottomCenter" style="s1" xml:id="subtitle170"><font face="方正准圆_GBK" size="50"><b>說沒問題的不是你嗎</b></font></p>
+<p begin="4589600000t" end="4601800000t" region="bottomCenter" style="s1" xml:id="subtitle171"><font face="方正准圆_GBK" size="50"><b>一點都不可愛</b></font></p>
+<p begin="4603900000t" end="4639900000t" region="bottomCenter" style="s1" xml:id="subtitle172"><font face="方正准圆_GBK" size="50"><b>不管如何  是因為昴還不會控管生命門</b></font></p>
+<p begin="4644500000t" end="4686700000t" region="bottomCenter" style="s1" xml:id="subtitle173"><font face="方正准圆_GBK" size="50"><b>所以才會無視使用方的意志  從體內一下子噴了出來</b></font></p>
+<p begin="4690300000t" end="4724300000t" region="bottomCenter" style="s1" xml:id="subtitle174"><font face="方正准圆_GBK" size="50"><b>我是沒蓋好瓶蓋的醬油嗎</b></font></p>
+<p begin="4736000000t" end="4746600000t" region="bottomCenter" style="s1" xml:id="subtitle175"><font face="方正准圆_GBK" size="50"><b>不可以亂動</b></font></p>
+<p begin="4754000000t" end="4774300000t" region="bottomCenter" style="s1" xml:id="subtitle176"><font face="方正准圆_GBK" size="50"><b>畢竟你身內的魔力都用光了</b></font></p>
+<p begin="4781500000t" end="4802100000t" region="bottomCenter" style="s1" xml:id="subtitle177"><font face="方正准圆_GBK" size="50"><b>看來今天可能沒辦法工作了</b></font></p>
+<p begin="4802100000t" end="4811600000t" region="bottomCenter" style="s1" xml:id="subtitle178"><font face="方正准圆_GBK" size="50"><b>那可不行</b></font></p>
+<p begin="4816300000t" end="4829100000t" region="bottomCenter" style="s1" xml:id="subtitle179"><font face="方正准圆_GBK" size="50"><b>你不可以勉強自己</b></font></p>
+<p begin="4836500000t" end="4856000000t" region="bottomCenter" style="s1" xml:id="subtitle180"><font face="方正准圆_GBK" size="50"><b>現在就算要勉強  也要堅持下去</b></font></p>
+<p begin="4860700000t" end="4877100000t" region="bottomCenter" style="s1" xml:id="subtitle181"><font face="方正准圆_GBK" size="50"><b>現在一天也不能浪費</b></font></p>
+<p begin="4893000000t" end="4911500000t" region="bottomCenter" style="s1" xml:id="subtitle182"><font face="方正准圆_GBK" size="50"><b>真拿你沒辦法</b></font></p>
+<p begin="4915400000t" end="4918900000t" region="bottomCenter" style="s1" xml:id="subtitle183"><font face="方正准圆_GBK" size="50"><b>真是的</b></font></p>
+<p begin="4931500000t" end="4943600000t" region="bottomCenter" style="s1" xml:id="subtitle184"><font face="方正准圆_GBK" size="50"><b>你要做什麼</b></font></p>
+<p begin="4958600000t" end="4962500000t" region="bottomCenter" style="s1" xml:id="subtitle185"><font face="方正准圆_GBK" size="50"><b>咬一下</b></font></p>
+<p begin="4966500000t" end="4969000000t" region="bottomCenter" style="s1" xml:id="subtitle186"><font face="方正准圆_GBK" size="50"><b>嗯?</b></font></p>
+<p begin="4976900000t" end="4998500000t" region="bottomCenter" style="s1" xml:id="subtitle187"><font face="方正准圆_GBK" size="50"><b>咬一咬之後吞下去  來吧</b></font></p>
+<p begin="5039500000t" end="5059000000t" region="bottomCenter" style="s1" xml:id="subtitle188"><font face="方正准圆_GBK" size="50"><b>剛剛那是…</b></font></p>
+<p begin="5072400000t" end="5089700000t" region="bottomCenter" style="s1" xml:id="subtitle189"><font face="方正准圆_GBK" size="50"><b>這是一種叫做波克果實的水果</b></font></p>
+<p begin="5094200000t" end="5118500000t" region="bottomCenter" style="s1" xml:id="subtitle190"><font face="方正准圆_GBK" size="50"><b>吃下去之後  身體中的魔力會活性化</b></font></p>
+<p begin="5121100000t" end="5145490000t" region="bottomCenter" style="s1" xml:id="subtitle191"><font face="方正准圆_GBK" size="50"><b>能讓生命門獲得一些力量</b></font></p>
+<p begin="5165700000t" end="5191900000t" region="bottomCenter" style="s1" xml:id="subtitle192"><font face="方正准圆_GBK" size="50"><b>抱歉  總覺得好像給你添麻煩了</b></font></p>
+<p begin="5208090000t" end="5225900000t" region="bottomCenter" style="s1" xml:id="subtitle193"><font face="方正准圆_GBK" size="50"><b>昴真是不懂</b></font></p>
+<p begin="5241200000t" end="5258800000t" region="bottomCenter" style="s1" xml:id="subtitle194"><font face="方正准圆_GBK" size="50"><b>比起說好幾次的抱歉</b></font></p>
+<p begin="5262900000t" end="5296000000t" region="bottomCenter" style="s1" xml:id="subtitle195"><font face="方正准圆_GBK" size="50"><b>說一次謝謝  會讓對方更加滿意</b></font></p>
+<p begin="5307200000t" end="5321000000t" region="bottomCenter" style="s1" xml:id="subtitle196"><font face="方正准圆_GBK" size="50"><b>我不是要你道歉</b></font></p>
+<p begin="5325400000t" end="5342500000t" region="bottomCenter" style="s1" xml:id="subtitle197"><font face="方正准圆_GBK" size="50"><b>是因為想幫你才做的</b></font></p>
+<p begin="5350600000t" end="5355100000t" region="bottomCenter" style="s1" xml:id="subtitle198"><font face="方正准圆_GBK" size="50"><b>知道嗎</b></font></p>
+<p begin="5400000000t" end="5431700000t" region="bottomCenter" style="s1" xml:id="subtitle199"><font face="方正准圆_GBK" size="50"><b>然後拉姆  在你看來</b></font></p>
+<p begin="5433400000t" end="5455200000t" region="bottomCenter" style="s1" xml:id="subtitle200"><font face="方正准圆_GBK" size="50"><b>你對他的評價是如何</b></font></p>
+<p begin="5465600000t" end="5490700000t" region="bottomCenter" style="s1" xml:id="subtitle201"><font face="方正准圆_GBK" size="50"><b>從能力上說  可以算是無能</b></font></p>
+<p begin="5495000000t" end="5518500000t" region="bottomCenter" style="s1" xml:id="subtitle202"><font face="方正准圆_GBK" size="50"><b>不過在重要的地方又有些過於機靈</b></font></p>
+<p begin="5527500000t" end="5555800000t" region="bottomCenter" style="s1" xml:id="subtitle203"><font face="方正准圆_GBK" size="50"><b>我覺得還需要觀察一陣子</b></font></p>
+<p begin="5563200000t" end="5601200000t" region="bottomCenter" style="s1" xml:id="subtitle204"><font face="方正准圆_GBK" size="50"><b>這件事需要非常慎重地處理</b></font></p>
+<p begin="5609000000t" end="5632100000t" region="bottomCenter" style="s1" xml:id="subtitle205"><font face="方正准圆_GBK" size="50"><b>請身為姐姐的你要好好注意</b></font></p>
+<p begin="5635800000t" end="5663800000t" region="bottomCenter" style="s1" xml:id="subtitle206"><font face="方正准圆_GBK" size="50"><b>別讓雷姆過於衝動</b></font></p>
+<p begin="5683200000t" end="5706800000t" region="bottomCenter" style="s1" xml:id="subtitle207"><font face="方正准圆_GBK" size="50"><b>第一天的表現還算過得去吧</b></font></p>
+<p begin="5711600000t" end="5749600000t" region="bottomCenter" style="s1" xml:id="subtitle208"><font face="方正准圆_GBK" size="50"><b>應該贏得不少雷姆和拉姆的信賴</b></font></p>
+<p begin="5756800000t" end="5779500000t" region="bottomCenter" style="s1" xml:id="subtitle209"><font face="方正准圆_GBK" size="50"><b>但是問題果然還是在於咒術師的襲擊嗎</b></font></p>
+<p begin="5782600000t" end="5796900000t" region="bottomCenter" style="s1" xml:id="subtitle210"><font face="方正准圆_GBK" size="50"><b>該如何與之對抗才好</b></font></p>
+<p begin="5824300000t" end="5847600000t" region="bottomCenter" style="s1" xml:id="subtitle211"><font face="方正准圆_GBK" size="50"><b>想知道咒術師更多的情報?</b></font></p>
+<p begin="5850000000t" end="5878300000t" region="bottomCenter" style="s1" xml:id="subtitle212"><font face="方正准圆_GBK" size="50"><b>沒錯  要如何才能防止詛咒?</b></font></p>
+<p begin="5884600000t" end="5900200000t" region="bottomCenter" style="s1" xml:id="subtitle213"><font face="方正准圆_GBK" size="50"><b>沒辦法</b></font></p>
+<p begin="5903100000t" end="5906100000t" region="bottomCenter" style="s1" xml:id="subtitle214"><font face="方正准圆_GBK" size="50"><b>什麼?</b></font></p>
+<p begin="5912400000t" end="5950200000t" region="bottomCenter" style="s1" xml:id="subtitle215"><font face="方正准圆_GBK" size="50"><b>咒術一旦發動  就沒有可解之法</b></font></p>
+<p begin="5956500000t" end="5984300000t" region="bottomCenter" style="s1" xml:id="subtitle216"><font face="方正准圆_GBK" size="50"><b>一旦發動就回天無力  這就是咒術</b></font></p>
+<p begin="5992700000t" end="6019800000t" region="bottomCenter" style="s1" xml:id="subtitle217"><font face="方正准圆_GBK" size="50"><b>居然能把即死抗性給無效化  也太強大了</b></font></p>
+<p begin="6024600000t" end="6061700000t" region="bottomCenter" style="s1" xml:id="subtitle218"><font face="方正准圆_GBK" size="50"><b>不過發動之前的咒術  就只是單純的術式</b></font></p>
+<p begin="6063600000t" end="6082500000t" region="bottomCenter" style="s1" xml:id="subtitle219"><font face="方正准圆_GBK" size="50"><b>對碧蒂而言  要解除就是小菜一碟</b></font></p>
+<p begin="6112300000t" end="6123400000t" region="bottomCenter" style="s1" xml:id="subtitle220"><font face="方正准圆_GBK" size="50"><b>魔女遺留的氣味</b></font></p>
+<p begin="6130400000t" end="6153900000t" region="bottomCenter" style="s1" xml:id="subtitle221"><font face="方正准圆_GBK" size="50"><b>說起來  雷姆也這麼說過</b></font></p>
+<p begin="6157800000t" end="6169000000t" region="bottomCenter" style="s1" xml:id="subtitle222"><font face="方正准圆_GBK" size="50"><b>魔女是什麼</b></font></p>
+<p begin="6176600000t" end="6197600000t" region="bottomCenter" style="s1" xml:id="subtitle223"><font face="方正准圆_GBK" size="50"><b>難道說是咒術師的夥伴嗎</b></font></p>
+<p begin="6224000000t" end="6268000000t" region="bottomCenter" style="s1" xml:id="subtitle224"><font face="方正准圆_GBK" size="50"><b>在這世上能代表「魔女」這詞的僅有一個存在</b></font></p>
+<p begin="6290000000t" end="6302500000t" region="bottomCenter" style="s1" xml:id="subtitle225"><font face="方正准圆_GBK" size="50"><b>嫉妒魔女嗎</b></font></p>
+<p begin="6305700000t" end="6332700000t" region="bottomCenter" style="s1" xml:id="subtitle226"><font face="方正准圆_GBK" size="50"><b>就是她  嫉妒魔女莎緹拉</b></font></p>
+<p begin="6337500000t" end="6377900000t" region="bottomCenter" style="s1" xml:id="subtitle227"><font face="方正准圆_GBK" size="50"><b>曾經把冠有大罪之名的六位魔女全部都吞噬掉</b></font></p>
+<p begin="6380000000t" end="6416300000t" region="bottomCenter" style="s1" xml:id="subtitle228"><font face="方正准圆_GBK" size="50"><b>併吞下半個世界的最惡劣的災難</b></font></p>
+<p begin="6425900000t" end="6449500000t" region="bottomCenter" style="s1" xml:id="subtitle229"><font face="方正准圆_GBK" size="50"><b>有人說  她渴望愛</b></font></p>
+<p begin="6455700000t" end="6483200000t" region="bottomCenter" style="s1" xml:id="subtitle230"><font face="方正准圆_GBK" size="50"><b>有人說  她不懂人言</b></font></p>
+<p begin="6488300000t" end="6532600000t" region="bottomCenter" style="s1" xml:id="subtitle231"><font face="方正准圆_GBK" size="50"><b>有人說  她的身軀永不腐朽衰敗  永恆的存在</b></font></p>
+<p begin="6539000000t" end="6580600000t" region="bottomCenter" style="s1" xml:id="subtitle232"><font face="方正准圆_GBK" size="50"><b>有人說  就算以龍與英雄以及賢者的力量將其封印</b></font></p>
+<p begin="6582900000t" end="6601800000t" region="bottomCenter" style="s1" xml:id="subtitle233"><font face="方正准圆_GBK" size="50"><b>也無法消滅她的身軀</b></font></p>
+<p begin="6608800000t" end="6650900000t" region="bottomCenter" style="s1" xml:id="subtitle234"><font face="方正准圆_GBK" size="50"><b>有人說  她的真身是銀髮半妖精</b></font></p>
+<p begin="6686000000t" end="6706500000t" region="bottomCenter" style="s1" xml:id="subtitle235"><font face="方正准圆_GBK" size="50"><b>我是  莎緹拉</b></font></p>
+<p begin="6727100000t" end="6757900000t" region="bottomCenter" style="s1" xml:id="subtitle236"><font face="方正准圆_GBK" size="50"><b>在什麼時候才會假冒嫉妒魔女之名呢</b></font></p>
+<p begin="6761500000t" end="6786100000t" region="bottomCenter" style="s1" xml:id="subtitle237"><font face="方正准圆_GBK" size="50"><b>不  說是假冒也不好</b></font></p>
+<p begin="6792100000t" end="6825200000t" region="bottomCenter" style="s1" xml:id="subtitle238"><font face="方正准圆_GBK" size="50"><b>改成借用嫉妒魔女之名比較好吧</b></font></p>
+<p begin="6830400000t" end="6854100000t" region="bottomCenter" style="s1" xml:id="subtitle239"><font face="方正准圆_GBK" size="50"><b>不管怎麼說  這都是不要命的舉動</b></font></p>
+<p begin="6860300000t" end="6897200000t" region="bottomCenter" style="s1" xml:id="subtitle240"><font face="方正准圆_GBK" size="50"><b>居然假冒魔女之名  我只能說那個人頭腦有問題</b></font></p>
+<p begin="6946100000t" end="6966000000t" region="bottomCenter" style="s1" xml:id="subtitle241"><font face="方正准圆_GBK" size="50"><b>這樣啊  所以才…</b></font></p>
+<p begin="6977500000t" end="6997900000t" region="bottomCenter" style="s1" xml:id="subtitle242"><font face="方正准圆_GBK" size="50"><b>如果是故意裝成奇怪的傢伙  讓別人避而遠之</b></font></p>
+<p begin="7001100000t" end="7029900000t" region="bottomCenter" style="s1" xml:id="subtitle243"><font face="方正准圆_GBK" size="50"><b>就不會讓別人捲進王選的紛爭之中</b></font></p>
+<p begin="7035000000t" end="7047000000t" region="bottomCenter" style="s1" xml:id="subtitle244"><font face="方正准圆_GBK" size="50"><b>你在說什麼</b></font></p>
+<p begin="7072800000t" end="7084000000t" region="bottomCenter" style="s1" xml:id="subtitle245"><font face="方正准圆_GBK" size="50"><b>沒什麼</b></font></p>
+<p begin="7103000000t" end="7118900000t" region="bottomCenter" style="s1" xml:id="subtitle246"><font face="方正准圆_GBK" size="50"><b>Good Morning</b></font></p>
+<p begin="7121100000t" end="7143900000t" region="bottomCenter" style="s1" xml:id="subtitle247"><font face="方正准圆_GBK" size="50"><b>今天也是非常適合曬衣服的大晴天</b></font></p>
+<p begin="7146100000t" end="7165000000t" region="bottomCenter" style="s1" xml:id="subtitle248"><font face="方正准圆_GBK" size="50"><b>一起來度過Happiness的一天吧</b></font></p>
+<p begin="7167300000t" end="7193000000t" region="bottomCenter" style="s1" xml:id="subtitle249"><font face="方正准圆_GBK" size="50"><b>好  Victory</b></font></p>
+<p begin="7210900000t" end="7232700000t" region="bottomCenter" style="s1" xml:id="subtitle250"><font face="方正准圆_GBK" size="39"><b>{\an8}Victory!</b></font></p>
+<p begin="7223700000t" end="7246300000t" region="bottomCenter" style="s1" xml:id="subtitle251"><font face="方正准圆_GBK" size="50"><b>今天也是從早上開始就精神飽滿</b></font></p>
+<p begin="7255200000t" end="7290900000t" region="bottomCenter" style="s1" xml:id="subtitle252"><font face="方正准圆_GBK" size="50"><b>今天除了接受女僕姐妹的教訓和差遣的同時</b></font></p>
+<p begin="7291700000t" end="7310900000t" region="bottomCenter" style="s1" xml:id="subtitle253"><font face="方正准圆_GBK" size="50"><b>也要充分享受傭人的生活</b></font></p>
+<p begin="7312100000t" end="7332700000t" region="bottomCenter" style="s1" xml:id="subtitle254"><font face="方正准圆_GBK" size="50"><b>但是如果我在這種生活感到疲憊不堪了</b></font></p>
+<p begin="7334000000t" end="7353900000t" region="bottomCenter" style="s1" xml:id="subtitle255"><font face="方正准圆_GBK" size="50"><b>說不定會飛到愛蜜莉雅炭的膝蓋上</b></font></p>
+<p begin="7354300000t" end="7366300000t" region="bottomCenter" style="s1" xml:id="subtitle256"><font face="方正准圆_GBK" size="50"><b>所以要記得幫我預留位置</b></font></p>
+<p begin="7368900000t" end="7394500000t" region="bottomCenter" style="s1" xml:id="subtitle257"><font face="方正准圆_GBK" size="50"><b>看你洗臉的樣子  還真像貓啊</b></font></p>
+<p begin="7396700000t" end="7429800000t" region="bottomCenter" style="s1" xml:id="subtitle258"><font face="方正准圆_GBK" size="50"><b>精靈果然也會犯睏  也還是會睡過頭嗎?</b></font></p>
+<p begin="7439800000t" end="7468900000t" region="bottomCenter" style="s1" xml:id="subtitle259"><font face="方正准圆_GBK" size="50"><b>你們如果過於疲憊也會犯睏吧</b></font></p>
+<p begin="7475500000t" end="7507000000t" region="bottomCenter" style="s1" xml:id="subtitle260"><font face="方正准圆_GBK" size="50"><b>精靈也是  只要作為行動之源的魔力減少的話</b></font></p>
+<p begin="7513100000t" end="7540100000t" region="bottomCenter" style="s1" xml:id="subtitle261"><font face="方正准圆_GBK" size="50"><b>也會出現類似的情況</b></font></p>
+<p begin="7545100000t" end="7562900000t" region="bottomCenter" style="s1" xml:id="subtitle262"><font face="方正准圆_GBK" size="50"><b>你們兩個竟然一起熬夜</b></font></p>
+<p begin="7565200000t" end="7594100000t" region="bottomCenter" style="s1" xml:id="subtitle263"><font face="方正准圆_GBK" size="50"><b>反正是在討論喜歡的人的話題  一直熱聊到深夜吧</b></font></p>
+<p begin="7596300000t" end="7608600000t" region="bottomCenter" style="s1" xml:id="subtitle264"><font face="方正准圆_GBK" size="50"><b>也算我一份吧</b></font></p>
+<p begin="7620400000t" end="7631200000t" region="bottomCenter" style="s1" xml:id="subtitle265"><font face="方正准圆_GBK" size="50"><b>問我喜歡的人?</b></font></p>
+<p begin="7631200000t" end="7647500000t" region="bottomCenter" style="s1" xml:id="subtitle266"><font face="方正准圆_GBK" size="50"><b>那個雖然很害羞  但是…</b></font></p>
+<p begin="7647500000t" end="7679000000t" region="bottomCenter" style="s1" xml:id="subtitle267"><font face="方正准圆_GBK" size="50"><b>我喜歡的是帕克  而帕克喜歡的是我</b></font></p>
+<p begin="7683500000t" end="7695700000t" region="bottomCenter" style="s1" xml:id="subtitle268"><font face="方正准圆_GBK" size="50"><b>好  話題結束了</b></font></p>
+<p begin="7697400000t" end="7722200000t" region="bottomCenter" style="s1" xml:id="subtitle269"><font face="方正准圆_GBK" size="50"><b>相親相愛!?  我的介入餘地呢</b></font></p>
+<p begin="7724400000t" end="7733700000t" region="bottomCenter" style="s1" xml:id="subtitle270"><font face="方正准圆_GBK" size="50"><b>當然沒有</b></font></p>
+<p begin="7736500000t" end="7756900000t" region="bottomCenter" style="s1" xml:id="subtitle271"><font face="方正准圆_GBK" size="50"><b>莉雅可是被我迷得神魂顛倒</b></font></p>
+<p begin="7763500000t" end="7803500000t" region="bottomCenter" style="s1" xml:id="subtitle272"><font face="方正准圆_GBK" size="50"><b>雖然昴也不差  不過和我比起來就差遠了</b></font></p>
+<p begin="7807800000t" end="7826700000t" region="bottomCenter" style="s1" xml:id="subtitle273"><font face="方正准圆_GBK" size="50"><b>還是老實放棄莉雅…</b></font></p>
+<p begin="7836600000t" end="7853500000t" region="bottomCenter" style="s1" xml:id="subtitle274"><font face="方正准圆_GBK" size="50"><b>兩位不要太得寸進尺了!</b></font></p>
+<p begin="7857500000t" end="7880100000t" region="bottomCenter" style="s1" xml:id="subtitle275"><font face="方正准圆_GBK" size="50"><b>太過火的話  我也是會生氣的</b></font></p>
+<p begin="7881800000t" end="7903100000t" region="bottomCenter" style="s1" xml:id="subtitle276"><font face="方正准圆_GBK" size="50"><b>好痛好痛  生氣了生氣了</b></font></p>
+<p begin="7918700000t" end="7943500000t" region="bottomCenter" style="s1" xml:id="subtitle277"><font face="方正准圆_GBK" size="50"><b>差不多該走了  不然女僕姐妹可是會發火的</b></font></p>
+<p begin="7946500000t" end="7951900000t" region="bottomCenter" style="s1" xml:id="subtitle278"><font face="方正准圆_GBK" size="50"><b>那麼再見了</b></font></p>
+<p begin="7986800000t" end="8009200000t" region="bottomCenter" style="s1" xml:id="subtitle279"><font face="方正准圆_GBK" size="50"><b>你怎麼了  一臉無法釋懷的樣子</b></font></p>
+<p begin="8024700000t" end="8074100000t" region="bottomCenter" style="s1" xml:id="subtitle280"><font face="方正准圆_GBK" size="50"><b>總覺得心裡有些煩悶  我也不太會形容</b></font></p>
+<p begin="8084800000t" end="8108700000t" region="bottomCenter" style="s1" xml:id="subtitle281"><font face="方正准圆_GBK" size="50"><b>莉雅會感到困惑  也是在所難免</b></font></p>
+<p begin="8112600000t" end="8136300000t" region="bottomCenter" style="s1" xml:id="subtitle282"><font face="方正准圆_GBK" size="50"><b>畢竟事態變得有點傷腦筋了</b></font></p>
+<p begin="8153300000t" end="8171600000t" region="bottomCenter" style="s1" xml:id="subtitle283"><font face="方正准圆_GBK" size="50"><b>Don't mind  Don't mind  別在意</b></font></p>
+<p begin="8173900000t" end="8180700000t" region="bottomCenter" style="s1" xml:id="subtitle284"><font face="方正准圆_GBK" size="50"><b>沒問題</b></font></p>
+<p begin="8185300000t" end="8194300000t" region="bottomCenter" style="s1" xml:id="subtitle285"><font face="方正准圆_GBK" size="50"><b>傷腦筋?</b></font></p>
+<p begin="8196700000t" end="8216700000t" region="bottomCenter" style="s1" xml:id="subtitle286"><font face="方正准圆_GBK" size="50"><b>放心吧  我會迅速收拾好</b></font></p>
+<p begin="8217400000t" end="8235800000t" region="bottomCenter" style="s1" xml:id="subtitle287"><font face="方正准圆_GBK" size="50"><b>可不會讓任何人受傷的</b></font></p>
+<p begin="8239400000t" end="8267100000t" region="bottomCenter" style="s1" xml:id="subtitle288"><font face="方正准圆_GBK" size="50"><b>昴的心變得亂七八糟的</b></font></p>
+<p begin="8273300000t" end="8293000000t" region="bottomCenter" style="s1" xml:id="subtitle289"><font face="方正准圆_GBK" size="50"><b>裡外都一蹋糊塗了</b></font></p>
+<p begin="8309800000t" end="8332000000t" region="bottomCenter" style="s1" xml:id="subtitle290"><font face="方正准圆_GBK" size="50"><b>雖然我覺得你的那份用心是很好</b></font></p>
+<p begin="8335800000t" end="8354100000t" region="bottomCenter" style="s1" xml:id="subtitle291"><font face="方正准圆_GBK" size="50"><b>可是弄掉花瓶的人也是昴吧</b></font></p>
+<p begin="8365700000t" end="8379200000t" region="bottomCenter" style="s1" xml:id="subtitle292"><font face="方正准圆_GBK" size="50"><b>我去拿替換的花瓶</b></font></p>
+<p begin="8379200000t" end="8390400000t" region="bottomCenter" style="s1" xml:id="subtitle293"><font face="方正准圆_GBK" size="50"><b>不  不用勞煩你</b></font></p>
+<p begin="8393000000t" end="8412800000t" region="bottomCenter" style="s1" xml:id="subtitle294"><font face="方正准圆_GBK" size="50"><b>替換花瓶和花的照料都由我來做</b></font></p>
+<p begin="8416600000t" end="8431600000t" region="bottomCenter" style="s1" xml:id="subtitle295"><font face="方正准圆_GBK" size="50"><b>前輩只要做好自己分內工作就行</b></font></p>
+<p begin="8449300000t" end="8492200000t" region="bottomCenter" style="s1" xml:id="subtitle296"><font face="方正准圆_GBK" size="50"><b>再那樣下去  不久之後他的心就像鉛筆般被削斷</b></font></p>
+<p begin="8533200000t" end="8562600000t" region="bottomCenter" style="s1" xml:id="subtitle297"><font face="方正准圆_GBK" size="50"><b>雷姆琳做完一項工作  真是心情暢快</b></font></p>
+<p begin="8567000000t" end="8595800000t" region="bottomCenter" style="s1" xml:id="subtitle298"><font face="方正准圆_GBK" size="50"><b>雖然是完成自己無故增加的工作量</b></font></p>
+<p begin="8616400000t" end="8639800000t" region="bottomCenter" style="s1" xml:id="subtitle299"><font face="方正准圆_GBK" size="50"><b>你是什麼時候問到存放花瓶的地方…</b></font></p>
+<p begin="8649900000t" end="8655400000t" region="bottomCenter" style="s1" xml:id="subtitle300"><font face="方正准圆_GBK" size="50"><b>向姐姐</b></font></p>
+<p begin="8658700000t" end="8682300000t" region="bottomCenter" style="s1" xml:id="subtitle301"><font face="方正准圆_GBK" size="50"><b>沒錯  是向姐姐問的</b></font></p>
+<p begin="8685700000t" end="8719900000t" region="bottomCenter" style="s1" xml:id="subtitle302"><font face="方正准圆_GBK" size="50"><b>畢竟是我  她說你一定會打破花瓶的</b></font></p>
+<p begin="8721200000t" end="8759900000t" region="bottomCenter" style="s1" xml:id="subtitle303"><font face="方正准圆_GBK" size="50"><b>以防萬一  我還是先告訴你存放花瓶的地方</b></font></p>
+<p begin="8769400000t" end="8774300000t" region="bottomCenter" style="s1" xml:id="subtitle304"><font face="方正准圆_GBK" size="50"><b>昴…</b></font></p>
+<p begin="8775900000t" end="8809000000t" region="bottomCenter" style="s1" xml:id="subtitle305"><font face="方正准圆_GBK" size="50"><b>不好  忘記還有拉姆親吩咐我的工作</b></font></p>
+<p begin="8812700000t" end="8834200000t" region="bottomCenter" style="s1" xml:id="subtitle306"><font face="方正准圆_GBK" size="50"><b>我趕緊過去解決  稍微失陪一下</b></font></p>
+<p begin="8838200000t" end="8866300000t" region="bottomCenter" style="s1" xml:id="subtitle307"><font face="方正准圆_GBK" size="50"><b>待會見  馬上就來會合</b></font></p>
+<p begin="8880900000t" end="8891500000t" region="bottomCenter" style="s1" xml:id="subtitle308"><font face="方正准圆_GBK" size="50"><b>好難受</b></font></p>
+<p begin="8917700000t" end="8953300000t" region="bottomCenter" style="s1" xml:id="subtitle309"><font face="方正准圆_GBK" size="50"><b>我的刀工只花一天就變得如此爐火純青了</b></font></p>
+<p begin="8955200000t" end="8969800000t" region="bottomCenter" style="s1" xml:id="subtitle310"><font face="方正准圆_GBK" size="50"><b>我的才能開花結果了嗎</b></font></p>
+<p begin="8966200000t" end="8996100000t" region="bottomCenter" style="s1" xml:id="subtitle311"><font face="方正准圆_GBK" size="39"><b>{\an8}好難受  好難受  好難受…</b></font></p>
+<p begin="8985000000t" end="8998700000t" region="bottomCenter" style="s1" xml:id="subtitle312"><font face="方正准圆_GBK" size="50"><b>雷姆琳  快看</b></font></p>
+<p begin="8998700000t" end="9021900000t" region="bottomCenter" style="s1" xml:id="subtitle313"><font face="方正准圆_GBK" size="50"><b>只有過人的技術才能實現的這種精藝</b></font></p>
+<p begin="9024900000t" end="9052100000t" region="bottomCenter" style="s1" xml:id="subtitle314"><font face="方正准圆_GBK" size="50"><b>現在我的指尖正是寄宿著奇蹟</b></font></p>
+<p begin="9053900000t" end="9065900000t" region="bottomCenter" style="s1" xml:id="subtitle315"><font face="方正准圆_GBK" size="50"><b>幻想!</b></font></p>
+<p begin="9065900000t" end="9116800000t" region="bottomCenter" style="s1" xml:id="subtitle316"><font face="方正准圆_GBK" size="50"><b>好難受  好難受  好難受…</b></font></p>
+<p begin="9116800000t" end="9145500000t" region="bottomCenter" style="s1" xml:id="subtitle317"><font face="方正准圆_GBK" size="50"><b>愛蜜莉雅炭真是每次遇到你都會讓我心神激盪</b></font></p>
+<p begin="9147700000t" end="9172300000t" region="bottomCenter" style="s1" xml:id="subtitle318"><font face="方正准圆_GBK" size="50"><b>真是罪孽深重</b></font></p>
+<p begin="9185000000t" end="9202800000t" region="bottomCenter" style="s1" xml:id="subtitle319"><font face="方正准圆_GBK" size="50"><b>我應該能笑得更自然一點</b></font></p>
+<p begin="9206300000t" end="9225900000t" region="bottomCenter" style="s1" xml:id="subtitle320"><font face="方正准圆_GBK" size="50"><b>我應該能讓他們多笑一些</b></font></p>
+<p begin="9230700000t" end="9242400000t" region="bottomCenter" style="s1" xml:id="subtitle321"><font face="方正准圆_GBK" size="50"><b>這次不能失敗</b></font></p>
+<p begin="9246800000t" end="9263300000t" region="bottomCenter" style="s1" xml:id="subtitle322"><font face="方正准圆_GBK" size="50"><b>一秒都不能夠浪費</b></font></p>
+<p begin="9267100000t" end="9302000000t" region="bottomCenter" style="s1" xml:id="subtitle323"><font face="方正准圆_GBK" size="50"><b>一定要專注於眼前的工作  拿出成果來</b></font></p>
+<p begin="9310300000t" end="9335000000t" region="bottomCenter" style="s1" xml:id="subtitle324"><font face="方正准圆_GBK" size="50"><b>拉姆親  我可不是偷懶</b></font></p>
+<p begin="9335000000t" end="9352700000t" region="bottomCenter" style="s1" xml:id="subtitle325"><font face="方正准圆_GBK" size="50"><b>我當然有好好工作</b></font></p>
+<p begin="9354300000t" end="9386600000t" region="bottomCenter" style="s1" xml:id="subtitle326"><font face="方正准圆_GBK" size="50"><b>前輩甚至可以回房間睡個午覺也可以</b></font></p>
+<p begin="9457700000t" end="9476100000t" region="bottomCenter" style="s1" xml:id="subtitle327"><font face="方正准圆_GBK" size="50"><b>可惡  真遜</b></font></p>
+<p begin="9487800000t" end="9530800000t" region="bottomCenter" style="s1" xml:id="subtitle328"><font face="方正准圆_GBK" size="50"><b>笨蛋  現在可沒有說洩氣話的時間</b></font></p>
+<p begin="9558100000t" end="9564000000t" region="bottomCenter" style="s1" xml:id="subtitle329"><font face="方正准圆_GBK" size="50"><b>昴</b></font></p>
+<p begin="9584100000t" end="9598400000t" region="bottomCenter" style="s1" xml:id="subtitle330"><font face="方正准圆_GBK" size="50"><b>愛蜜莉雅炭</b></font></p>
+<p begin="9598400000t" end="9613200000t" region="bottomCenter" style="s1" xml:id="subtitle331"><font face="方正准圆_GBK" size="50"><b>昴  稍微過來下</b></font></p>
+<p begin="9615600000t" end="9637500000t" region="bottomCenter" style="s1" xml:id="subtitle332"><font face="方正准圆_GBK" size="50"><b>真幸福  愛蜜莉雅炭點名找我</b></font></p>
+<p begin="9637500000t" end="9656900000t" region="bottomCenter" style="s1" xml:id="subtitle333"><font face="方正准圆_GBK" size="50"><b>真是開心害羞少見</b></font></p>
+<p begin="9659500000t" end="9680100000t" region="bottomCenter" style="s1" xml:id="subtitle334"><font face="方正准圆_GBK" size="50"><b>有什麼事就儘管吩咐吧</b></font></p>
+<p begin="9680600000t" end="9719600000t" region="bottomCenter" style="s1" xml:id="subtitle335"><font face="方正准圆_GBK" size="50"><b>為了你上刀山下油鍋  去贓物庫我也在所不辭</b></font></p>
+<p begin="9719600000t" end="9726200000t" region="bottomCenter" style="s1" xml:id="subtitle336"><font face="方正准圆_GBK" size="50"><b>昴…</b></font></p>
+<p begin="9734200000t" end="9764700000t" region="bottomCenter" style="s1" xml:id="subtitle337"><font face="方正准圆_GBK" size="50"><b>喂喂  我認識的愛蜜莉雅炭這時應該說…</b></font></p>
+<p begin="9771700000t" end="9789200000t" region="bottomCenter" style="s1" xml:id="subtitle338"><font face="方正准圆_GBK" size="50"><b>難道你是冒牌貨?</b></font></p>
+<p begin="9792900000t" end="9821900000t" region="bottomCenter" style="s1" xml:id="subtitle339"><font face="方正准圆_GBK" size="50"><b>但這麼可愛  讓人想要抱住的美少女模樣</b></font></p>
+<p begin="9822200000t" end="9842800000t" region="bottomCenter" style="s1" xml:id="subtitle340"><font face="方正准圆_GBK" size="50"><b>其他人真能重現出來嗎</b></font></p>
+<p begin="9844300000t" end="9849400000t" region="bottomCenter" style="s1" xml:id="subtitle341"><font face="方正准圆_GBK" size="50"><b>好</b></font></p>
+<p begin="9859100000t" end="9872400000t" region="bottomCenter" style="s1" xml:id="subtitle342"><font face="方正准圆_GBK" size="50"><b>昴  跟我來</b></font></p>
+<p begin="9873300000t" end="9879300000t" region="bottomCenter" style="s1" xml:id="subtitle343"><font face="方正准圆_GBK" size="50"><b>等…</b></font></p>
+<p begin="9880800000t" end="9886000000t" region="bottomCenter" style="s1" xml:id="subtitle344"><font face="方正准圆_GBK" size="50"><b>別說了</b></font></p>
+<p begin="9900100000t" end="9911900000t" region="bottomCenter" style="s1" xml:id="subtitle345"><font face="方正准圆_GBK" size="50"><b>那麼  你過來坐下</b></font></p>
+<p begin="9914300000t" end="9937600000t" region="bottomCenter" style="s1" xml:id="subtitle346"><font face="方正准圆_GBK" size="50"><b>坐床上或者椅子上不是更好點嗎</b></font></p>
+<p begin="9940400000t" end="9952800000t" region="bottomCenter" style="s1" xml:id="subtitle347"><font face="方正准圆_GBK" size="50"><b>為什麼非要坐在地板上</b></font></p>
+<p begin="9954500000t" end="9963800000t" region="bottomCenter" style="s1" xml:id="subtitle348"><font face="方正准圆_GBK" size="50"><b>別說了  快坐下</b></font></p>
+<p begin="9965900000t" end="9983900000t" region="bottomCenter" style="s1" xml:id="subtitle349"><font face="方正准圆_GBK" size="50"><b>好  樂意至極</b></font></p>
+<p begin="10109900000t" end="10127900000t" region="bottomCenter" style="s1" xml:id="subtitle350"><font face="方正准圆_GBK" size="50"><b>這次是…特別的</b></font></p>
+<p begin="10170100000t" end="10183000000t" region="bottomCenter" style="s1" xml:id="subtitle351"><font face="方正准圆_GBK" size="50"><b>位置有點不好</b></font></p>
+<p begin="10189600000t" end="10215200000t" region="bottomCenter" style="s1" xml:id="subtitle352"><font face="方正准圆_GBK" size="50"><b>而且…有點刺刺的</b></font></p>
+<p begin="10224300000t" end="10239100000t" region="bottomCenter" style="s1" xml:id="subtitle353"><font face="方正准圆_GBK" size="50"><b>膝枕?</b></font></p>
+<p begin="10244100000t" end="10262800000t" region="bottomCenter" style="s1" xml:id="subtitle354"><font face="方正准圆_GBK" size="50"><b>不要說出來  很害羞的</b></font></p>
+<p begin="10267000000t" end="10302500000t" region="bottomCenter" style="s1" xml:id="subtitle355"><font face="方正准圆_GBK" size="50"><b>還有不要看這邊  閉上眼</b></font></p>
+<p begin="10308590000t" end="10333190000t" region="bottomCenter" style="s1" xml:id="subtitle356"><font face="方正准圆_GBK" size="50"><b>害羞的愛蜜莉雅炭也很棒</b></font></p>
+<p begin="10340790000t" end="10362500000t" region="bottomCenter" style="s1" xml:id="subtitle357"><font face="方正准圆_GBK" size="50"><b>話說回來  這是什麼情況</b></font></p>
+<p begin="10371400000t" end="10400400000t" region="bottomCenter" style="s1" xml:id="subtitle358"><font face="方正准圆_GBK" size="50"><b>我做了什麼值得嘉獎的事情了嗎</b></font></p>
+<p begin="10404200000t" end="10444100000t" region="bottomCenter" style="s1" xml:id="subtitle359"><font face="方正准圆_GBK" size="50"><b>你那奇怪的逞強  現在可以先放下了</b></font></p>
+<p begin="10457600000t" end="10472400000t" region="bottomCenter" style="s1" xml:id="subtitle360"><font face="方正准圆_GBK" size="50"><b>你不是說過嗎  昴</b></font></p>
+<p begin="10480790000t" end="10500900000t" region="bottomCenter" style="s1" xml:id="subtitle361"><font face="方正准圆_GBK" size="50"><b>如果你真累壞了  就會找我提供膝枕</b></font></p>
+<p begin="10512400000t" end="10531800000t" region="bottomCenter" style="s1" xml:id="subtitle362"><font face="方正准圆_GBK" size="50"><b>雖然不能每次都會這樣</b></font></p>
+<p begin="10539600000t" end="10548400000t" region="bottomCenter" style="s1" xml:id="subtitle363"><font face="方正准圆_GBK" size="50"><b>今天是特別的</b></font></p>
+<p begin="10552800000t" end="10576700000t" region="bottomCenter" style="s1" xml:id="subtitle364"><font face="方正准圆_GBK" size="50"><b>什麼特別  今天才第二天</b></font></p>
+<p begin="10578800000t" end="10613700000t" region="bottomCenter" style="s1" xml:id="subtitle365"><font face="方正准圆_GBK" size="50"><b>如果這就筋疲力盡  那我也太貧弱了吧</b></font></p>
+<p begin="10619500000t" end="10645600000t" region="bottomCenter" style="s1" xml:id="subtitle366"><font face="方正准圆_GBK" size="50"><b>你被累垮了  我一看就知道了</b></font></p>
+<p begin="10657900000t" end="10681400000t" region="bottomCenter" style="s1" xml:id="subtitle367"><font face="方正准圆_GBK" size="50"><b>詳細的事情你肯定不會告訴我吧</b></font></p>
+<p begin="10701100000t" end="10726800000t" region="bottomCenter" style="s1" xml:id="subtitle368"><font face="方正准圆_GBK" size="50"><b>雖然我不認為這樣就能讓你輕鬆一些</b></font></p>
+<p begin="10739200000t" end="10760700000t" region="bottomCenter" style="s1" xml:id="subtitle369"><font face="方正准圆_GBK" size="50"><b>但我只能做到這些</b></font></p>
+<p begin="10788400000t" end="10817700000t" region="bottomCenter" style="s1" xml:id="subtitle370"><font face="方正准圆_GBK" size="50"><b>愛蜜莉雅炭你真是的  太大驚小怪…</b></font></p>
+<p begin="10824200000t" end="10830800000t" region="bottomCenter" style="s1" xml:id="subtitle371"><font face="方正准圆_GBK" size="50"><b>累了嗎?</b></font></p>
+<p begin="10838500000t" end="10859500000t" region="bottomCenter" style="s1" xml:id="subtitle372"><font face="方正准圆_GBK" size="50"><b>我還精神得很呢</b></font></p>
+<p begin="10871600000t" end="10877800000t" region="bottomCenter" style="s1" xml:id="subtitle373"><font face="方正准圆_GBK" size="50"><b>感到無從應對嗎</b></font></p>
+<p begin="10884400000t" end="10914100000t" region="bottomCenter" style="s1" xml:id="subtitle374"><font face="方正准圆_GBK" size="50"><b>你對我這麼溫柔  我會迷上你的</b></font></p>
+<p begin="10917200000t" end="10936000000t" region="bottomCenter" style="s1" xml:id="subtitle375"><font face="方正准圆_GBK" size="50"><b>你又這樣…</b></font></p>
+<p begin="10939700000t" end="10946900000t" region="bottomCenter" style="s1" xml:id="subtitle376"><font face="方正准圆_GBK" size="50"><b>這是不…</b></font></p>
+<p begin="10956000000t" end="10961700000t" region="bottomCenter" style="s1" xml:id="subtitle377"><font face="方正准圆_GBK" size="50"><b>受了…</b></font></p>
+<p begin="10976800000t" end="10983500000t" region="bottomCenter" style="s1" xml:id="subtitle378"><font face="方正准圆_GBK" size="50"><b>很多苦呢</b></font></p>
+<p begin="11068300000t" end="11087000000t" region="bottomCenter" style="s1" xml:id="subtitle379"><font face="方正准圆_GBK" size="50"><b>很苦…</b></font></p>
+<p begin="11096300000t" end="11151700000t" region="bottomCenter" style="s1" xml:id="subtitle380"><font face="方正准圆_GBK" size="50"><b>我好痛苦  好害怕  好難過</b></font></p>
+<p begin="11120000000t" end="11180800000t" region="bottomCenter" style="s1" xml:id="subtitle381"><font face="Reishoreiryu" size="36"><b>{\an9}小さな人の子よ</b></font></p>
+<p begin="11120000000t" end="11180800000t" region="bottomCenter" style="s1" xml:id="subtitle382"><font face="方正隶变_GBK" size="40"><b>{\an9}人之子的小孩</b></font></p>
+<p begin="11159900000t" end="11182900000t" region="bottomCenter" style="s1" xml:id="subtitle383"><font face="方正准圆_GBK" size="50"><b>痛到都快要死了</b></font></p>
+<p begin="11180800000t" end="11256800000t" region="bottomCenter" style="s1" xml:id="subtitle384"><font face="Reishoreiryu" size="36"><b>{\an9}森へ迷い込んだ</b></font></p>
+<p begin="11180800000t" end="11256800000t" region="bottomCenter" style="s1" xml:id="subtitle385"><font face="方正隶变_GBK" size="40"><b>{\an9}游失在森林之中</b></font></p>
+<p begin="11191600000t" end="11194800000t" region="bottomCenter" style="s1" xml:id="subtitle386"><font face="方正准圆_GBK" size="50"><b>嗯</b></font></p>
+<p begin="11202700000t" end="11239300000t" region="bottomCenter" style="s1" xml:id="subtitle387"><font face="方正准圆_GBK" size="50"><b>我努力了  拚命努力過了</b></font></p>
+<p begin="11244000000t" end="11267100000t" region="bottomCenter" style="s1" xml:id="subtitle388"><font face="方正准圆_GBK" size="50"><b>非常拚命  拚命做了各種嘗試</b></font></p>
+<p begin="11256800000t" end="11392900000t" region="bottomCenter" style="s1" xml:id="subtitle389"><font face="Reishoreiryu" size="36"><b>{\an9}大きなこの羽が  ぼうやは見えないのね</b></font></p>
+<p begin="11256800000t" end="11392900000t" region="bottomCenter" style="s1" xml:id="subtitle390"><font face="方正隶变_GBK" size="40"><b>{\an9}小男孩是看不見這雙巨翼吧</b></font></p>
+<p begin="11275300000t" end="11301300000t" region="bottomCenter" style="s1" xml:id="subtitle391"><font face="方正准圆_GBK" size="50"><b>努力嘗試讓一切變好</b></font></p>
+<p begin="11308700000t" end="11374100000t" region="bottomCenter" style="s1" xml:id="subtitle392"><font face="方正准圆_GBK" size="50"><b>真的  真的從未如此努力過</b></font></p>
+<p begin="11374500000t" end="11393100000t" region="bottomCenter" style="s1" xml:id="subtitle393"><font face="方正准圆_GBK" size="50"><b>嗯  我知道</b></font></p>
+<p begin="11392900000t" end="11521700000t" region="bottomCenter" style="s1" xml:id="subtitle394"><font face="Reishoreiryu" size="36"><b>{\an9}なにも知らない  まあるいほっぺよ</b></font></p>
+<p begin="11392900000t" end="11521700000t" region="bottomCenter" style="s1" xml:id="subtitle395"><font face="方正隶变_GBK" size="40"><b>{\an9}那一臉對世事無知的嘟嘟圓臉</b></font></p>
+<p begin="11411500000t" end="11434800000t" region="bottomCenter" style="s1" xml:id="subtitle396"><font face="方正准圆_GBK" size="50"><b>我喜歡這裡</b></font></p>
+<p begin="11444200000t" end="11477500000t" region="bottomCenter" style="s1" xml:id="subtitle397"><font face="方正准圆_GBK" size="50"><b>我很珍視這裡</b></font></p>
+<p begin="11484400000t" end="11521300000t" region="bottomCenter" style="s1" xml:id="subtitle398"><font face="方正准圆_GBK" size="50"><b>所以  我才拚命想要把它奪回來</b></font></p>
+<p begin="11529200000t" end="11664400000t" region="bottomCenter" style="s1" xml:id="subtitle399"><font face="Reishoreiryu" size="36"><b>{\an9}ねむれやねむれ しずかな水辺においで</b></font></p>
+<p begin="11529200000t" end="11664400000t" region="bottomCenter" style="s1" xml:id="subtitle400"><font face="方正隶变_GBK" size="40"><b>{\an9}在寂靜的水邊好好地休息睡覺吧</b></font></p>
+<p begin="11530000000t" end="11560400000t" region="bottomCenter" style="s1" xml:id="subtitle401"><font face="方正准圆_GBK" size="50"><b>好害怕  我好害怕</b></font></p>
+<p begin="11569800000t" end="11591000000t" region="bottomCenter" style="s1" xml:id="subtitle402"><font face="方正准圆_GBK" size="50"><b>我害怕再次被人投以那種眼神</b></font></p>
+<p begin="11595900000t" end="11655700000t" region="bottomCenter" style="s1" xml:id="subtitle403"><font face="方正准圆_GBK" size="50"><b>我好討厭這樣想的自己  不想要這樣</b></font></p>
+<p begin="11664400000t" end="11732400000t" region="bottomCenter" style="s1" xml:id="subtitle404"><font face="Reishoreiryu" size="36"><b>{\an9}ぼうやの夢は</b></font></p>
+<p begin="11664400000t" end="11732400000t" region="bottomCenter" style="s1" xml:id="subtitle405"><font face="方正隶变_GBK" size="40"><b>{\an9}在小男孩的夢中</b></font></p>
+<p begin="11731900000t" end="11740500000t" region="bottomCenter" style="s1" xml:id="subtitle406"><font face="方正准圆_GBK" size="50"><b>昴</b></font></p>
+<p begin="11732400000t" end="11865300000t" region="bottomCenter" style="s1" xml:id="subtitle407"><font face="Reishoreiryu" size="36"><b>{\an9}竜の背に運ばれて  山の向こうへ消える</b></font></p>
+<p begin="11732400000t" end="11865300000t" region="bottomCenter" style="s1" xml:id="subtitle408"><font face="方正隶变_GBK" size="40"><b>{\an9}夢見自己坐在龍背上雲遊  並在山的另一側隱去</b></font></p>
+<p begin="11751000000t" end="11760400000t" region="bottomCenter" style="s1" xml:id="subtitle409"><font face="方正准圆_GBK" size="50"><b>噓</b></font></p>
+<p begin="11772200000t" end="11791200000t" region="bottomCenter" style="s1" xml:id="subtitle410"><font face="方正准圆_GBK" size="50"><b>昴  只是睡著了嗎</b></font></p>
+<p begin="11798300000t" end="11801900000t" region="bottomCenter" style="s1" xml:id="subtitle411"><font face="方正准圆_GBK" size="50"><b>沒錯</b></font></p>
+<p begin="11821600000t" end="11839900000t" region="bottomCenter" style="s1" xml:id="subtitle412"><font face="方正准圆_GBK" size="50"><b>看  他跟小孩一樣吧</b></font></p>
+<p begin="11848900000t" end="11882600000t" region="bottomCenter" style="s1" xml:id="subtitle413"><font face="方正准圆_GBK" size="50"><b>看來昴今天沒法再工作了呢</b></font></p>
+<p begin="11893000000t" end="11916500000t" region="bottomCenter" style="s1" xml:id="subtitle414"><font face="方正准圆_GBK" size="50"><b>是啊  今天就讓他休息吧</b></font></p>
+<p begin="11925300000t" end="11963100000t" region="bottomCenter" style="s1" xml:id="subtitle415"><font face="方正准圆_GBK" size="50"><b>工作才第二天就休息  真是個壞孩子</b></font></p>
+<p begin="11972300000t" end="11995500000t" region="bottomCenter" style="s1" xml:id="subtitle416"><font face="方正准圆_GBK" size="50"><b>等他恢復了  記得懲罰他</b></font></p>
+<p begin="12007100000t" end="12032500000t" region="bottomCenter" style="s1" xml:id="subtitle417"><font face="方正准圆_GBK" size="50"><b>這樣看著他  都沒心思懲罰他了</b></font></p>
+<p begin="12039000000t" end="12169400000t" region="bottomCenter" style="s1" xml:id="subtitle418"><font face="Reishoreiryu" size="36"><b>{\an9}竜の背に運ばれて  山の向こうへ消える</b></font></p>
+<p begin="12039000000t" end="12169400000t" region="bottomCenter" style="s1" xml:id="subtitle419"><font face="方正隶变_GBK" size="40"><b>{\an9}夢見自己坐在龍背上雲遊  並在山的另一側隱去</b></font></p>
+<p begin="12053900000t" end="12058200000t" region="bottomCenter" style="s1" xml:id="subtitle420"><font face="方正准圆_GBK" size="50"><b>嗯</b></font></p>
+<p begin="12102200000t" end="12134900000t" region="bottomCenter" style="s1" xml:id="subtitle421"><font face="方正准圆_GBK" size="50"><b>我去告訴姐姐  昴今天派不上用場</b></font></p>
+<p begin="12143700000t" end="12147700000t" region="bottomCenter" style="s1" xml:id="subtitle422"><font face="方正准圆_GBK" size="50"><b>雷姆</b></font></p>
+<p begin="12163600000t" end="12177000000t" region="bottomCenter" style="s1" xml:id="subtitle423"><font face="方正准圆_GBK" size="50"><b>昴是個乖孩子</b></font></p>
+<p begin="12278800000t" end="12305700000t" region="bottomCenter" style="s1" xml:id="subtitle424"><font face="方正准圆_GBK" size="50"><b>在喜歡的女生面前放聲大哭</b></font></p>
+<p begin="12308000000t" end="12339300000t" region="bottomCenter" style="s1" xml:id="subtitle425"><font face="方正准圆_GBK" size="50"><b>最後還帶著滿臉鼻涕眼淚睡過去了</b></font></p>
+<p begin="12342400000t" end="12360800000t" region="bottomCenter" style="s1" xml:id="subtitle426"><font face="方正准圆_GBK" size="50"><b>這算是哪門子的羞恥Play</b></font></p>
+<p begin="12360800000t" end="12376700000t" region="bottomCenter" style="s1" xml:id="subtitle427"><font face="方正准圆_GBK" size="50"><b>不行  我沒救了</b></font></p>
+<p begin="12380300000t" end="12410400000t" region="bottomCenter" style="s1" xml:id="subtitle428"><font face="方正准圆_GBK" size="50"><b>你半夜三更跑進來就要跟我說這些嗎</b></font></p>
+<p begin="12415100000t" end="12430800000t" region="bottomCenter" style="s1" xml:id="subtitle429"><font face="方正准圆_GBK" size="50"><b>別這麼說  碧翠子</b></font></p>
+<p begin="12430800000t" end="12449800000t" region="bottomCenter" style="s1" xml:id="subtitle430"><font face="方正准圆_GBK" size="50"><b>畢竟我們關係那麼好</b></font></p>
+<p begin="12449800000t" end="12471000000t" region="bottomCenter" style="s1" xml:id="subtitle431"><font face="方正准圆_GBK" size="50"><b>碧蒂和你有什麼關係嗎</b></font></p>
+<p begin="12479100000t" end="12504000000t" region="bottomCenter" style="s1" xml:id="subtitle432"><font face="方正准圆_GBK" size="50"><b>慢著  你剛叫我什麼</b></font></p>
+<p begin="12506800000t" end="12520900000t" region="bottomCenter" style="s1" xml:id="subtitle433"><font face="方正准圆_GBK" size="50"><b>你說碧翠子啊</b></font></p>
+<p begin="12526900000t" end="12559500000t" region="bottomCenter" style="s1" xml:id="subtitle434"><font face="方正准圆_GBK" size="50"><b>我認為要表現親近感  愛稱是必不可少的</b></font></p>
+<p begin="12564700000t" end="12584800000t" region="bottomCenter" style="s1" xml:id="subtitle435"><font face="方正准圆_GBK" size="50"><b>所以我以後就叫你碧翠子了</b></font></p>
+<p begin="12589700000t" end="12617400000t" region="bottomCenter" style="s1" xml:id="subtitle436"><font face="方正准圆_GBK" size="50"><b>這是我對你能盡到的最大程度的親近的證明</b></font></p>
+<p begin="12619500000t" end="12640100000t" region="bottomCenter" style="s1" xml:id="subtitle437"><font face="方正准圆_GBK" size="50"><b>你那強加於人的善意是怎麼回事</b></font></p>
+<p begin="12644400000t" end="12669600000t" region="bottomCenter" style="s1" xml:id="subtitle438"><font face="方正准圆_GBK" size="50"><b>何止讓人噁心  簡直讓人想吐</b></font></p>
+<p begin="12671400000t" end="12696000000t" region="bottomCenter" style="s1" xml:id="subtitle439"><font face="方正准圆_GBK" size="50"><b>別這麼冷淡  碧翠子</b></font></p>
+<p begin="12704700000t" end="12712600000t" region="bottomCenter" style="s1" xml:id="subtitle440"><font face="方正准圆_GBK" size="50"><b>實際上…</b></font></p>
+<p begin="12733300000t" end="12754600000t" region="bottomCenter" style="s1" xml:id="subtitle441"><font face="方正准圆_GBK" size="50"><b>我已經被逼到死路上了</b></font></p>
+<p begin="12757000000t" end="12780400000t" region="bottomCenter" style="s1" xml:id="subtitle442"><font face="方正准圆_GBK" size="50"><b>老實說關於詛咒的事  希望你能幫我</b></font></p>
+<p begin="12784200000t" end="12814200000t" region="bottomCenter" style="s1" xml:id="subtitle443"><font face="方正准圆_GBK" size="50"><b>我應該說過  咒術一旦發動就無法解除</b></font></p>
+<p begin="12816100000t" end="12829200000t" region="bottomCenter" style="s1" xml:id="subtitle444"><font face="方正准圆_GBK" size="50"><b>你確實說過</b></font></p>
+<p begin="12831700000t" end="12869900000t" region="bottomCenter" style="s1" xml:id="subtitle445"><font face="方正准圆_GBK" size="50"><b>不過在詛咒發動前  能查出術式嗎</b></font></p>
+<p begin="12871500000t" end="12906000000t" region="bottomCenter" style="s1" xml:id="subtitle446"><font face="方正准圆_GBK" size="50"><b>如果是還沒發動的術式  我是可以找出來</b></font></p>
+<p begin="12930900000t" end="12946300000t" region="bottomCenter" style="s1" xml:id="subtitle447"><font face="方正准圆_GBK" size="50"><b>詛咒是如何釋放到人身上的</b></font></p>
+<p begin="12957100000t" end="12990700000t" region="bottomCenter" style="s1" xml:id="subtitle448"><font face="方正准圆_GBK" size="50"><b>咒術有一個絕對不能違背的規則</b></font></p>
+<p begin="12997600000t" end="13009900000t" region="bottomCenter" style="s1" xml:id="subtitle449"><font face="方正准圆_GBK" size="50"><b>不能違背的規則?</b></font></p>
+<p begin="13024500000t" end="13068800000t" region="bottomCenter" style="s1" xml:id="subtitle450"><font face="方正准圆_GBK" size="50"><b>接觸施咒對象  這是必要條件</b></font></p>
+<p begin="13083600000t" end="13100900000t" region="bottomCenter" style="s1" xml:id="subtitle451"><font face="方正准圆_GBK" size="50"><b>要說接觸到誰…</b></font></p>
+<p begin="13105300000t" end="13130300000t" region="bottomCenter" style="s1" xml:id="subtitle452"><font face="方正准圆_GBK" size="50"><b>除了宅邸裡的人  就只剩山腳下的村子了</b></font></p>
+<p begin="13140800000t" end="13175500000t" region="bottomCenter" style="s1" xml:id="subtitle453"><font face="方正准圆_GBK" size="50"><b>也就是我在村裡被人下了咒術  當晚咒術發動</b></font></p>
+<p begin="13177600000t" end="13192800000t" region="bottomCenter" style="s1" xml:id="subtitle454"><font face="方正准圆_GBK" size="50"><b>最後致死亡的情況嗎</b></font></p>
+<p begin="13205000000t" end="13238800000t" region="bottomCenter" style="s1" xml:id="subtitle455"><font face="方正准圆_GBK" size="50"><b>這樣來說上次咒術師對雷姆下手也能說得通了</b></font></p>
+<p begin="13245700000t" end="13279000000t" region="bottomCenter" style="s1" xml:id="subtitle456"><font face="方正准圆_GBK" size="50"><b>因為我沒去村裡  所以對方把目標轉向了雷姆</b></font></p>
+<p begin="13289800000t" end="13314900000t" region="bottomCenter" style="s1" xml:id="subtitle457"><font face="方正准圆_GBK" size="50"><b>連起來了  所有的事情都連起來了</b></font></p>
+<p begin="13321900000t" end="13338700000t" region="bottomCenter" style="s1" xml:id="subtitle458"><font face="方正准圆_GBK" size="50"><b>終於讓我抓到線索了</b></font></p>
+<p begin="13341700000t" end="13356800000t" region="bottomCenter" style="s1" xml:id="subtitle459"><font face="方正准圆_GBK" size="50"><b>可惡!</b></font></p>
+<p begin="13364300000t" end="13398400000t" region="bottomCenter" style="s1" xml:id="subtitle460"><font face="方正准圆_GBK" size="50"><b>這就是你求人的態度嗎</b></font></p>
+<p begin="13403500000t" end="13436400000t" region="bottomCenter" style="s1" xml:id="subtitle461"><font face="方正准圆_GBK" size="50"><b>既然剛才的話有幫助  你不覺得該說點什麼嗎</b></font></p>
+<p begin="13441500000t" end="13455000000t" region="bottomCenter" style="s1" xml:id="subtitle462"><font face="方正准圆_GBK" size="50"><b>嗯  沒錯</b></font></p>
+<p begin="13461600000t" end="13469100000t" region="bottomCenter" style="s1" xml:id="subtitle463"><font face="方正准圆_GBK" size="50"><b>你幫大忙了</b></font></p>
+<p begin="13469700000t" end="13491300000t" region="bottomCenter" style="s1" xml:id="subtitle464"><font face="方正准圆_GBK" size="50"><b>多虧你讓我看到了光明</b></font></p>
+<p begin="13494800000t" end="13521300000t" region="bottomCenter" style="s1" xml:id="subtitle465"><font face="方正准圆_GBK" size="50"><b>碧翠子  我愛你</b></font></p>
+<p begin="13505300000t" end="13510100000t" region="bottomCenter" style="s1" xml:id="subtitle466"><font face="方正准圆_GBK" size="39"><b>{\an8}放手…</b></font></p>
+<p begin="13525400000t" end="13536800000t" region="bottomCenter" style="s1" xml:id="subtitle467"><font face="方正准圆_GBK" size="50"><b>放我下來!</b></font></p>
+<p begin="13561500000t" end="13602800000t" region="bottomCenter" style="s1" xml:id="subtitle468"><font face="方正准圆_GBK" size="35">{\an8}本字幕由動漫國字幕組製作(dmguo.org)<br />僅供試看,請支持購買正版音像製品</font></p>
+<p begin="13603900000t" end="13621200000t" region="bottomCenter" style="s1" xml:id="subtitle469"><font face="方正准圆_GBK" size="50"><b>總之  雖然發生了不少事</b></font></p>
+<p begin="13613200000t" end="13651200000t" region="bottomCenter" style="s1" xml:id="subtitle470"><font face="方正准圆_GBK" size="35">{\an8}翻譯:Ino17&小勳&我不是小呆   校對:初夏   時軸:秋穗姬   後期&MKV:小聖   特效:鎖定</font></p>
+<p begin="13621200000t" end="13645000000t" region="bottomCenter" style="s1" xml:id="subtitle471"><font face="方正准圆_GBK" size="50"><b>不過今天就要轉換心情  煥發新面貌</b></font></p>
+<p begin="13645000000t" end="13655700000t" region="bottomCenter" style="s1" xml:id="subtitle472"><font face="方正准圆_GBK" size="50"><b>是膝枕吧</b></font></p>
+<p begin="13659300000t" end="13669600000t" region="bottomCenter" style="s1" xml:id="subtitle473"><font face="方正准圆_GBK" size="50"><b>是膝枕呢</b></font></p>
+<p begin="13689100000t" end="13706200000t" region="bottomCenter" style="s1" xml:id="subtitle474"><font face="方正准圆_GBK" size="50"><b>難道你們都知道了?</b></font></p>
+<p begin="13715700000t" end="13728300000t" region="bottomCenter" style="s1" xml:id="subtitle475"><font face="方正准圆_GBK" size="50"><b>昴  早</b></font></p>
+<p begin="13730200000t" end="13751900000t" region="bottomCenter" style="s1" xml:id="subtitle476"><font face="Reishoreiryu" size="36"><b>{\an9}Oh,please don't let me die</b></font></p>
+<p begin="13730200000t" end="13751900000t" region="bottomCenter" style="s1" xml:id="subtitle477"><font face="方正隶变_GBK" size="40"><b>{\an9}請不要讓我離開</b></font></p>
+<p begin="13730200000t" end="13740100000t" region="bottomCenter" style="s1" xml:id="subtitle478"><font face="方正准圆_GBK" size="50"><b>愛蜜莉雅炭</b></font></p>
+<p begin="13752700000t" end="13774400000t" region="bottomCenter" style="s1" xml:id="subtitle479"><font face="Reishoreiryu" size="36"><b>{\an9}Waiting for your touch</b></font></p>
+<p begin="13752700000t" end="13774400000t" region="bottomCenter" style="s1" xml:id="subtitle480"><font face="方正隶变_GBK" size="40"><b>{\an9}你的觸碰  我的等待</b></font></p>
+<p begin="13754300000t" end="13785200000t" region="bottomCenter" style="s1" xml:id="subtitle481"><font face="方正准圆_GBK" size="50"><b>那個  總覺得有點害羞呢</b></font></p>
+<p begin="13807200000t" end="13823100000t" region="bottomCenter" style="s1" xml:id="subtitle482"><font face="方正准圆_GBK" size="50"><b>你身體什麼的都沒事了嗎</b></font></p>
+<p begin="13808600000t" end="13829500000t" region="bottomCenter" style="s1" xml:id="subtitle483"><font face="Reishoreiryu" size="36"><b>{\an9}No,don't give up on life</b></font></p>
+<p begin="13808600000t" end="13829500000t" region="bottomCenter" style="s1" xml:id="subtitle484"><font face="方正隶变_GBK" size="40"><b>{\an9}不  請不要對生命無愛</b></font></p>
+<p begin="13825400000t" end="13854100000t" region="bottomCenter" style="s1" xml:id="subtitle485"><font face="方正准圆_GBK" size="50"><b>雖然在聽到愛蜜莉雅炭的聲音前  還有點危險</b></font></p>
+<p begin="13830700000t" end="13849900000t" region="bottomCenter" style="s1" xml:id="subtitle486"><font face="Reishoreiryu" size="36"><b>{\an9}This endless dead end</b></font></p>
+<p begin="13830700000t" end="13849900000t" region="bottomCenter" style="s1" xml:id="subtitle487"><font face="方正隶变_GBK" size="40"><b>{\an9}儘管這絕望  不竭不衰</b></font></p>
+<p begin="13888600000t" end="13900700000t" region="bottomCenter" style="s1" xml:id="subtitle488"><font face="方正准圆_GBK" size="50"><b>我已經沒事了</b></font></p>
+<p begin="13906700000t" end="13922800000t" region="bottomCenter" style="s1" xml:id="subtitle489"><font face="方正准圆_GBK" size="50"><b>那個  怎麼說呢</b></font></p>
+<p begin="13907900000t" end="13947100000t" region="bottomCenter" style="s1" xml:id="subtitle490"><font face="Reishoreiryu" size="36"><b>{\an9}狂った時計　刻む命</b></font></p>
+<p begin="13907900000t" end="13947100000t" region="bottomCenter" style="s1" xml:id="subtitle491"><font face="方正隶变_GBK" size="40"><b>{\an9}失準的時鐘  記錄著生命</b></font></p>
+<p begin="13931300000t" end="13941500000t" region="bottomCenter" style="s1" xml:id="subtitle492"><font face="方正准圆_GBK" size="50"><b>感覺有很多方面都抱…</b></font></p>
+<p begin="13947900000t" end="13985900000t" region="bottomCenter" style="s1" xml:id="subtitle493"><font face="Reishoreiryu" size="36"><b>{\an9}こぼれてく記憶の砂</b></font></p>
+<p begin="13947900000t" end="13985900000t" region="bottomCenter" style="s1" xml:id="subtitle494"><font face="方正隶变_GBK" size="40"><b>{\an9}散落滿地的記憶之砂</b></font></p>
+<p begin="13969300000t" end="13991900000t" region="bottomCenter" style="s1" xml:id="subtitle495"><font face="方正准圆_GBK" size="50"><b>不  感謝你為我做的一切</b></font></p>
+<p begin="13986700000t" end="14024700000t" region="bottomCenter" style="s1" xml:id="subtitle496"><font face="Reishoreiryu" size="36"><b>{\an9}芽生えた想いまで</b></font></p>
+<p begin="13986700000t" end="14024700000t" region="bottomCenter" style="s1" xml:id="subtitle497"><font face="方正隶变_GBK" size="40"><b>{\an9}以及萌生的思念</b></font></p>
+<p begin="14013000000t" end="14040100000t" region="bottomCenter" style="s1" xml:id="subtitle498"><font face="方正准圆_GBK" size="50"><b>沒事  不客氣</b></font></p>
+<p begin="14025500000t" end="14074300000t" region="bottomCenter" style="s1" xml:id="subtitle499"><font face="Reishoreiryu" size="36"><b>{\an9}ねえ　こんなに呆気なく</b></font></p>
+<p begin="14025500000t" end="14074300000t" region="bottomCenter" style="s1" xml:id="subtitle500"><font face="方正隶变_GBK" size="40"><b>{\an9}你看  卻是那麼輕易</b></font></p>
+<p begin="14055200000t" end="14084700000t" region="bottomCenter" style="s1" xml:id="subtitle501"><font face="方正准圆_GBK" size="50"><b>那麼昴  該準備開始早晨的工作吧</b></font></p>
+<p begin="14086900000t" end="14107700000t" region="bottomCenter" style="s1" xml:id="subtitle502"><font face="方正准圆_GBK" size="50"><b>要開始早晨的任務了</b></font></p>
+<p begin="14093900000t" end="14147300000t" region="bottomCenter" style="s1" xml:id="subtitle503"><font face="Reishoreiryu" size="36"><b>{\an9}消えてしまうの</b></font></p>
+<p begin="14093900000t" end="14147300000t" region="bottomCenter" style="s1" xml:id="subtitle504"><font face="方正隶变_GBK" size="40"><b>{\an9}消失殆盡</b></font></p>
+<p begin="14116000000t" end="14148900000t" region="bottomCenter" style="s1" xml:id="subtitle505"><font face="方正准圆_GBK" size="50"><b>在此之前  我有個請求</b></font></p>
+<p begin="14147300000t" end="14159800000t" region="bottomCenter" style="s1" xml:id="subtitle506"><font face="Reishoreiryu" size="36"><b>{\an9}I wish I was there</b></font></p>
+<p begin="14147300000t" end="14159800000t" region="bottomCenter" style="s1" xml:id="subtitle507"><font face="方正隶变_GBK" size="40"><b>{\an9}我希望能與你同在</b></font></p>
+<p begin="14149600000t" end="14159700000t" region="bottomCenter" style="s1" xml:id="subtitle508"><font face="方正准圆_GBK" size="50"><b>是膝枕吧</b></font></p>
+<p begin="14159700000t" end="14168900000t" region="bottomCenter" style="s1" xml:id="subtitle509"><font face="方正准圆_GBK" size="50"><b>肯定是膝枕</b></font></p>
+<p begin="14160200000t" end="14180300000t" region="bottomCenter" style="s1" xml:id="subtitle510"><font face="Reishoreiryu" size="36"><b>{\an9}Oh,please don't let me die</b></font></p>
+<p begin="14160200000t" end="14180300000t" region="bottomCenter" style="s1" xml:id="subtitle511"><font face="方正隶变_GBK" size="40"><b>{\an9}請不要讓我離開</b></font></p>
+<p begin="14168900000t" end="14184900000t" region="bottomCenter" style="s1" xml:id="subtitle512"><font face="方正准圆_GBK" size="50"><b>才不是那麼沒節操的請求!</b></font></p>
+<p begin="14181100000t" end="14201100000t" region="bottomCenter" style="s1" xml:id="subtitle513"><font face="Reishoreiryu" size="36"><b>{\an9}Waiting for your touch</b></font></p>
+<p begin="14181100000t" end="14201100000t" region="bottomCenter" style="s1" xml:id="subtitle514"><font face="方正隶变_GBK" size="40"><b>{\an9}你的觸碰  我的等待</b></font></p>
+<p begin="14189300000t" end="14206500000t" region="bottomCenter" style="s1" xml:id="subtitle515"><font face="方正准圆_GBK" size="50"><b>實際上我想去一趟村裡</b></font></p>
+<p begin="14202800000t" end="14246200000t" region="bottomCenter" style="s1" xml:id="subtitle516"><font face="Reishoreiryu" size="36"><b>{\an9}二度となにも失くさぬように</b></font></p>
+<p begin="14202800000t" end="14246200000t" region="bottomCenter" style="s1" xml:id="subtitle517"><font face="方正隶变_GBK" size="40"><b>{\an9}為了不再失去曾經擁有的寶物</b></font></p>
+<p begin="14209400000t" end="14220300000t" region="bottomCenter" style="s1" xml:id="subtitle518"><font face="方正准圆_GBK" size="50"><b>就在這附近吧</b></font></p>
+<p begin="14227600000t" end="14245500000t" region="bottomCenter" style="s1" xml:id="subtitle519"><font face="方正准圆_GBK" size="50"><b>有沒有外出採購之類的預定呢</b></font></p>
+<p begin="14247000000t" end="14314100000t" region="bottomCenter" style="s1" xml:id="subtitle520"><font face="Reishoreiryu" size="36"><b>{\an9}私を忘れて　始めて　Restart</b></font></p>
+<p begin="14247000000t" end="14314100000t" region="bottomCenter" style="s1" xml:id="subtitle521"><font face="方正隶变_GBK" size="40"><b>{\an9}讓我忘卻自己的過去  重新開始旅途</b></font></p>
+<p begin="14254200000t" end="14278000000t" region="bottomCenter" style="s1" xml:id="subtitle522"><font face="方正准圆_GBK" size="50"><b>香料確實有些不夠了</b></font></p>
+<p begin="14280500000t" end="14305900000t" region="bottomCenter" style="s1" xml:id="subtitle523"><font face="方正准圆_GBK" size="50"><b>我打算明天去一趟村裡</b></font></p>
+<p begin="14307300000t" end="14328300000t" region="bottomCenter" style="s1" xml:id="subtitle524"><font face="方正准圆_GBK" size="50"><b>那就改變下預定  今天去如何</b></font></p>
+<p begin="14315000000t" end="14336200000t" region="bottomCenter" style="s1" xml:id="subtitle525"><font face="Reishoreiryu" size="36"><b>{\an9}No,don't give up on life</b></font></p>
+<p begin="14315000000t" end="14336200000t" region="bottomCenter" style="s1" xml:id="subtitle526"><font face="方正隶变_GBK" size="40"><b>{\an9}不  請不要對生命無愛</b></font></p>
+<p begin="14330900000t" end="14353200000t" region="bottomCenter" style="s1" xml:id="subtitle527"><font face="方正准圆_GBK" size="50"><b>既然快用完了  那肯定是快點採購回來比較好</b></font></p>
+<p begin="14338300000t" end="14357100000t" region="bottomCenter" style="s1" xml:id="subtitle528"><font face="Reishoreiryu" size="36"><b>{\an9}This endless dead end</b></font></p>
+<p begin="14338300000t" end="14357100000t" region="bottomCenter" style="s1" xml:id="subtitle529"><font face="方正隶变_GBK" size="40"><b>{\an9}儘管這絕望  不竭不衰</b></font></p>
+<p begin="14359200000t" end="14401700000t" region="bottomCenter" style="s1" xml:id="subtitle530"><font face="Reishoreiryu" size="36"><b>{\an9}君を砕くこの悲しみが</b></font></p>
+<p begin="14359200000t" end="14401700000t" region="bottomCenter" style="s1" xml:id="subtitle531"><font face="方正隶变_GBK" size="40"><b>{\an9}願那讓你苦不堪言的悲傷</b></font></p>
+<p begin="14382800000t" end="14395200000t" region="bottomCenter" style="s1" xml:id="subtitle532"><font face="方正准圆_GBK" size="50"><b>這點小事  沒什麼不好的</b></font></p>
+<p begin="14401000000t" end="14407900000t" region="bottomCenter" style="s1" xml:id="subtitle533"><font face="方正准圆_GBK" size="50"><b>姐姐…</b></font></p>
+<p begin="14405900000t" end="14457200000t" region="bottomCenter" style="s1" xml:id="subtitle534"><font face="Reishoreiryu" size="36"><b>{\an9}いつか終わりますように</b></font></p>
+<p begin="14405900000t" end="14457200000t" region="bottomCenter" style="s1" xml:id="subtitle535"><font face="方正隶变_GBK" size="40"><b>{\an9}會迎來完結的一天</b></font></p>
+<p begin="14411900000t" end="14430400000t" region="bottomCenter" style="s1" xml:id="subtitle536"><font face="方正准圆_GBK" size="50"><b>反正遲早要去採購</b></font></p>
+<p begin="14431400000t" end="14441500000t" region="bottomCenter" style="s1" xml:id="subtitle537"><font face="方正准圆_GBK" size="50"><b>現在也沒什麼要緊的事</b></font></p>
+<p begin="14446200000t" end="14466600000t" region="bottomCenter" style="s1" xml:id="subtitle538"><font face="方正准圆_GBK" size="50"><b>而且還有巴魯斯負責拿東西</b></font></p>
+<p begin="14457600000t" end="14493500000t" region="bottomCenter" style="s1" xml:id="subtitle539"><font face="Reishoreiryu" size="36"><b>{\an9}For now I'll see you off</b></font></p>
+<p begin="14457600000t" end="14493500000t" region="bottomCenter" style="s1" xml:id="subtitle540"><font face="方正隶变_GBK" size="40"><b>{\an9}而我卻要目送你離開</b></font></p>
+<p begin="14478200000t" end="14494300000t" region="bottomCenter" style="s1" xml:id="subtitle541"><font face="方正准圆_GBK" size="50"><b>既然姐姐都這麼說了</b></font></p>
+<p begin="14496300000t" end="14507400000t" region="bottomCenter" style="s1" xml:id="subtitle542"><font face="方正准圆_GBK" size="50"><b>太好了</b></font></p>
+<p begin="14513900000t" end="14527700000t" region="bottomCenter" style="s1" xml:id="subtitle543"><font face="Reishoreiryu" size="36"><b>{\an9}And we'll die</b></font></p>
+<p begin="14513900000t" end="14527700000t" region="bottomCenter" style="s1" xml:id="subtitle544"><font face="方正隶变_GBK" size="40"><b>{\an9}我們終將會重來</b></font></p>
+<p begin="14515500000t" end="14535400000t" region="bottomCenter" style="s1" xml:id="subtitle545"><font face="方正准圆_GBK" size="50"><b>不過  拉姆也要一起去</b></font></p>
+<p begin="14528500000t" end="14548500000t" region="bottomCenter" style="s1" xml:id="subtitle546"><font face="Reishoreiryu" size="36"><b>{\an9}Waiting for a new day</b></font></p>
+<p begin="14528500000t" end="14548500000t" region="bottomCenter" style="s1" xml:id="subtitle547"><font face="方正隶变_GBK" size="40"><b>{\an9}重來對新一天的期待</b></font></p>
+<p begin="14542400000t" end="14561500000t" region="bottomCenter" style="s1" xml:id="subtitle548"><font face="方正准圆_GBK" size="50"><b>你真是被群花擁簇啊  巴魯斯</b></font></p>
+<p begin="14549400000t" end="14559400000t" region="bottomCenter" style="s1" xml:id="subtitle549"><font face="Reishoreiryu" size="36"><b>{\an9}二度と</b></font></p>
+<p begin="14549400000t" end="14559400000t" region="bottomCenter" style="s1" xml:id="subtitle550"><font face="方正隶变_GBK" size="40"><b>{\an9}再一次的期待</b></font></p>
+<p begin="14577200000t" end="14611100000t" region="bottomCenter" style="s1" xml:id="subtitle551"><font face="方正准圆_GBK" size="50"><b>真希望那些花不帶毒…</b></font></p>
+<p begin="14591900000t" end="14603600000t" region="bottomCenter" style="s1" xml:id="subtitle552"><font face="Reishoreiryu" size="36"><b>{\an9}And we'll die</b></font></p>
+<p begin="14591900000t" end="14603600000t" region="bottomCenter" style="s1" xml:id="subtitle553"><font face="方正隶变_GBK" size="40"><b>{\an9}我們終將會重來</b></font></p>
+<p begin="14605700000t" end="14624900000t" region="bottomCenter" style="s1" xml:id="subtitle554"><font face="Reishoreiryu" size="36"><b>{\an9}Waiting for a new day</b></font></p>
+<p begin="14605700000t" end="14624900000t" region="bottomCenter" style="s1" xml:id="subtitle555"><font face="方正隶变_GBK" size="40"><b>{\an9}重來對新一天的期待</b></font></p>
+<p begin="14620100000t" end="14652300000t" region="bottomCenter" style="s1" xml:id="subtitle556"><font face="方正兰亭粗黑_GBK" size="70" color="#a098ce"><b><font color="#ffffff">哭過喊過  便不再哭<font color="#abacba">泣</font></font></b></font></p>
+<p begin="14627000000t" end="14637800000t" region="bottomCenter" style="s1" xml:id="subtitle557"><font face="Reishoreiryu" size="36"><b>{\an9}君と</b></font></p>
+<p begin="14627000000t" end="14637800000t" region="bottomCenter" style="s1" xml:id="subtitle558"><font face="方正隶变_GBK" size="40"><b>{\an9}與你攜手邁進</b></font></p>
+</div>
+</body>
+</tt>

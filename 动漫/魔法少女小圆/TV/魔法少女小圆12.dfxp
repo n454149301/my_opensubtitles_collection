@@ -1,0 +1,582 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="28700000t" end="48100000t" region="bottomCenter" style="s1" xml:id="subtitle0">ほむらちゃん ごめんね</p>
+<p begin="28700000t" end="48100000t" region="bottomCenter" style="s1" xml:id="subtitle1">小焰  抱歉呢</p>
+<p begin="64100000t" end="86500000t" region="bottomCenter" style="s1" xml:id="subtitle2">私 魔法少女になる</p>
+<p begin="64100000t" end="86500000t" region="bottomCenter" style="s1" xml:id="subtitle3">我要成为魔法少女</p>
+<p begin="99900000t" end="124900000t" region="bottomCenter" style="s1" xml:id="subtitle4">まどか そんな</p>
+<p begin="99900000t" end="124900000t" region="bottomCenter" style="s1" xml:id="subtitle5">小圆…  为什么</p>
+<p begin="130700000t" end="151900000t" region="bottomCenter" style="s1" xml:id="subtitle6">私 やっとわかったの</p>
+<p begin="130700000t" end="151900000t" region="bottomCenter" style="s1" xml:id="subtitle7">我终于明白了</p>
+<p begin="157400000t" end="177500000t" region="bottomCenter" style="s1" xml:id="subtitle8">叶えたい願いごと見つけたの</p>
+<p begin="157400000t" end="177500000t" region="bottomCenter" style="s1" xml:id="subtitle9">找到想要实现的愿望了</p>
+<p begin="182700000t" end="210000000t" region="bottomCenter" style="s1" xml:id="subtitle10">だからそのために この命を使うね</p>
+<p begin="182700000t" end="210000000t" region="bottomCenter" style="s1" xml:id="subtitle11">所以我要为了它使用这生命</p>
+<p begin="210500000t" end="220400000t" region="bottomCenter" style="s1" xml:id="subtitle12">やめて</p>
+<p begin="210500000t" end="220400000t" region="bottomCenter" style="s1" xml:id="subtitle13">不要</p>
+<p begin="223600000t" end="253600000t" region="bottomCenter" style="s1" xml:id="subtitle14">それじゃ それじゃ私は</p>
+<p begin="223600000t" end="253600000t" region="bottomCenter" style="s1" xml:id="subtitle15">那样  那样的话我…</p>
+<p begin="259500000t" end="271900000t" region="bottomCenter" style="s1" xml:id="subtitle16">何のために</p>
+<p begin="259500000t" end="271900000t" region="bottomCenter" style="s1" xml:id="subtitle17">是为了什么…</p>
+<p begin="338500000t" end="361500000t" region="bottomCenter" style="s1" xml:id="subtitle18">ごめん ホントにごめん</p>
+<p begin="338500000t" end="361500000t" region="bottomCenter" style="s1" xml:id="subtitle19">抱歉  真的很抱歉</p>
+<p begin="367100000t" end="380200000t" region="bottomCenter" style="s1" xml:id="subtitle20">これまでずっと</p>
+<p begin="367100000t" end="380200000t" region="bottomCenter" style="s1" xml:id="subtitle21">至今为止一直</p>
+<p begin="383800000t" end="428200000t" region="bottomCenter" style="s1" xml:id="subtitle22">ずっとずっと ほむらちゃんに守られて 望まれてきたから</p>
+<p begin="383800000t" end="428200000t" region="bottomCenter" style="s1" xml:id="subtitle23">一直都被小焰保护着  期望着</p>
+<p begin="429000000t" end="447500000t" region="bottomCenter" style="s1" xml:id="subtitle24">今の私があるんだと思う</p>
+<p begin="429000000t" end="447500000t" region="bottomCenter" style="s1" xml:id="subtitle25">才有了现在的我</p>
+<p begin="457700000t" end="468300000t" region="bottomCenter" style="s1" xml:id="subtitle26">ホントにごめん</p>
+<p begin="457700000t" end="468300000t" region="bottomCenter" style="s1" xml:id="subtitle27">真的抱歉</p>
+<p begin="512000000t" end="543700000t" region="bottomCenter" style="s1" xml:id="subtitle28">そんな私が やっと見つけ出した答えなの</p>
+<p begin="512000000t" end="543700000t" region="bottomCenter" style="s1" xml:id="subtitle29">这是这样的我所终于找到的答案</p>
+<p begin="551000000t" end="558000000t" region="bottomCenter" style="s1" xml:id="subtitle30">信じて</p>
+<p begin="551000000t" end="558000000t" region="bottomCenter" style="s1" xml:id="subtitle31">相信我吧</p>
+<p begin="569500000t" end="609500000t" region="bottomCenter" style="s1" xml:id="subtitle32">絶対に 今日までのほむらちゃんを無駄にしたりしないから</p>
+<p begin="569500000t" end="609500000t" region="bottomCenter" style="s1" xml:id="subtitle33">绝对不会让小焰至今为止的努力白费的</p>
+<p begin="614100000t" end="623900000t" region="bottomCenter" style="s1" xml:id="subtitle34">まどか</p>
+<p begin="614100000t" end="623900000t" region="bottomCenter" style="s1" xml:id="subtitle35">小圆…</p>
+<p begin="672100000t" end="693900000t" region="bottomCenter" style="s1" xml:id="subtitle36">数多の世界の運命を束ね</p>
+<p begin="672100000t" end="693900000t" region="bottomCenter" style="s1" xml:id="subtitle37">收束了无数世界的命运</p>
+<p begin="694400000t" end="716000000t" region="bottomCenter" style="s1" xml:id="subtitle38">因果の特異点となった君なら</p>
+<p begin="694400000t" end="716000000t" region="bottomCenter" style="s1" xml:id="subtitle39">成了因果的特异点的你的话</p>
+<p begin="718300000t" end="749300000t" region="bottomCenter" style="s1" xml:id="subtitle40">どんな途方もない望みだろうと 叶えられるだろう</p>
+<p begin="718300000t" end="749300000t" region="bottomCenter" style="s1" xml:id="subtitle41">无论是多么荒诞的愿望  都可以实现的吧</p>
+<p begin="753500000t" end="762000000t" region="bottomCenter" style="s1" xml:id="subtitle42">本当だね</p>
+<p begin="753500000t" end="762000000t" region="bottomCenter" style="s1" xml:id="subtitle43">是真的吧</p>
+<p begin="772600000t" end="788700000t" region="bottomCenter" style="s1" xml:id="subtitle44">さあ 鹿目まどか</p>
+<p begin="772600000t" end="788700000t" region="bottomCenter" style="s1" xml:id="subtitle45">那么  鹿目圆</p>
+<p begin="791600000t" end="807500000t" region="bottomCenter" style="s1" xml:id="subtitle46">その魂を代価にして</p>
+<p begin="791600000t" end="807500000t" region="bottomCenter" style="s1" xml:id="subtitle47">以那灵魂为代价</p>
+<p begin="813400000t" end="828900000t" region="bottomCenter" style="s1" xml:id="subtitle48">君は何を願う</p>
+<p begin="813400000t" end="828900000t" region="bottomCenter" style="s1" xml:id="subtitle49">你要许下什么愿望</p>
+<p begin="857400000t" end="864500000t" region="bottomCenter" style="s1" xml:id="subtitle50">私</p>
+<p begin="857400000t" end="864500000t" region="bottomCenter" style="s1" xml:id="subtitle51">我…</p>
+<p begin="948200000t" end="980200000t" region="bottomCenter" style="s1" xml:id="subtitle52">全ての魔女を 生まれる前に消し去りたい</p>
+<p begin="948200000t" end="980200000t" region="bottomCenter" style="s1" xml:id="subtitle53">想要把所有的魔女在诞生之前消灭</p>
+<p begin="985600000t" end="1018600000t" region="bottomCenter" style="s1" xml:id="subtitle54">全ての宇宙 過去と未来の全ての魔女を</p>
+<p begin="985600000t" end="1018600000t" region="bottomCenter" style="s1" xml:id="subtitle55">把所有的宇宙中  过去和未来所有的魔女</p>
+<p begin="1019100000t" end="1025700000t" region="bottomCenter" style="s1" xml:id="subtitle56">この手で</p>
+<p begin="1019100000t" end="1025700000t" region="bottomCenter" style="s1" xml:id="subtitle57">亲手…</p>
+<p begin="1075300000t" end="1109900000t" region="bottomCenter" style="s1" xml:id="subtitle58">その祈りは そんな祈りが叶うとすれば</p>
+<p begin="1075300000t" end="1109900000t" region="bottomCenter" style="s1" xml:id="subtitle59">那种祈愿  那种祈愿要是实现了的话</p>
+<p begin="1111000000t" end="1133800000t" region="bottomCenter" style="s1" xml:id="subtitle60">それは時間干渉なんてレベルじゃない</p>
+<p begin="1111000000t" end="1133800000t" region="bottomCenter" style="s1" xml:id="subtitle61">那就不只是时间干涉的程度了</p>
+<p begin="1137000000t" end="1161700000t" region="bottomCenter" style="s1" xml:id="subtitle62">因果律そのものに対する反逆だ</p>
+<p begin="1137000000t" end="1161700000t" region="bottomCenter" style="s1" xml:id="subtitle63">而是对因果律本身的叛逆</p>
+<p begin="1175300000t" end="1200600000t" region="bottomCenter" style="s1" xml:id="subtitle64">君は 本当に神になるつもりかい</p>
+<p begin="1175300000t" end="1200600000t" region="bottomCenter" style="s1" xml:id="subtitle65">你真的打算成为神吗</p>
+<p begin="1204000000t" end="1218900000t" region="bottomCenter" style="s1" xml:id="subtitle66">神様でも何でもいい</p>
+<p begin="1204000000t" end="1218900000t" region="bottomCenter" style="s1" xml:id="subtitle67">神也好什么都好</p>
+<p begin="1231400000t" end="1254800000t" region="bottomCenter" style="s1" xml:id="subtitle68">今日まで魔女と戦ってきたみんなを</p>
+<p begin="1231400000t" end="1254800000t" region="bottomCenter" style="s1" xml:id="subtitle69">至今为止和魔女战斗着的大家</p>
+<p begin="1258100000t" end="1277000000t" region="bottomCenter" style="s1" xml:id="subtitle70">希望を信じた魔法少女を</p>
+<p begin="1258100000t" end="1277000000t" region="bottomCenter" style="s1" xml:id="subtitle71">相信着希望的魔法少女</p>
+<p begin="1279200000t" end="1293700000t" region="bottomCenter" style="s1" xml:id="subtitle72">私は泣かせたくない</p>
+<p begin="1279200000t" end="1293700000t" region="bottomCenter" style="s1" xml:id="subtitle73">我不想让她们哭泣</p>
+<p begin="1299000000t" end="1316800000t" region="bottomCenter" style="s1" xml:id="subtitle74">最後まで笑顔でいてほしい</p>
+<p begin="1299000000t" end="1316800000t" region="bottomCenter" style="s1" xml:id="subtitle75">希望到最后都能带着笑脸</p>
+<p begin="1326500000t" end="1344400000t" region="bottomCenter" style="s1" xml:id="subtitle76">それを邪魔するルールなんて</p>
+<p begin="1326500000t" end="1344400000t" region="bottomCenter" style="s1" xml:id="subtitle77">妨碍这些的规则</p>
+<p begin="1346800000t" end="1368600000t" region="bottomCenter" style="s1" xml:id="subtitle78">壊してみせる 変えてみせる</p>
+<p begin="1346800000t" end="1368600000t" region="bottomCenter" style="s1" xml:id="subtitle79">我来破坏  来改变</p>
+<p begin="1380200000t" end="1411400000t" region="bottomCenter" style="s1" xml:id="subtitle80">これが私の祈り 私の願い</p>
+<p begin="1380200000t" end="1411400000t" region="bottomCenter" style="s1" xml:id="subtitle81">这就是我的祈愿  我的愿望</p>
+<p begin="1416700000t" end="1433200000t" region="bottomCenter" style="s1" xml:id="subtitle82">さあ 叶えてよ</p>
+<p begin="1416700000t" end="1433200000t" region="bottomCenter" style="s1" xml:id="subtitle83">来  实现它吧！</p>
+<p begin="1439200000t" end="1448000000t" region="bottomCenter" style="s1" xml:id="subtitle84">インキュベーター</p>
+<p begin="1439200000t" end="1448000000t" region="bottomCenter" style="s1" xml:id="subtitle85">incubator</p>
+<p begin="1439200000t" end="1448000000t" region="bottomCenter" style="s1" xml:id="subtitle86">孵化者</p>
+<p begin="1582000000t" end="1642500000t" region="bottomCenter" style="s1" xml:id="subtitle87">最終話       我最好的朋友</p>
+<p begin="1688500000t" end="1729200000t" region="bottomCenter" style="s1" xml:id="subtitle88">鹿目さん それがどんなに恐ろしい願いかわかっているの</p>
+<p begin="1688500000t" end="1729200000t" region="bottomCenter" style="s1" xml:id="subtitle89">鹿目同学  那是多么可怕的愿望你知道吗</p>
+<p begin="1734600000t" end="1741300000t" region="bottomCenter" style="s1" xml:id="subtitle90">たぶん</p>
+<p begin="1734600000t" end="1741300000t" region="bottomCenter" style="s1" xml:id="subtitle91">大概…</p>
+<p begin="1772200000t" end="1798700000t" region="bottomCenter" style="s1" xml:id="subtitle92">未来と過去と 全ての時間で</p>
+<p begin="1772200000t" end="1798700000t" region="bottomCenter" style="s1" xml:id="subtitle93">未来和过去  在所有的时间中</p>
+<p begin="1799700000t" end="1829200000t" region="bottomCenter" style="s1" xml:id="subtitle94">あなたは永遠に戦い続けることになるのよ</p>
+<p begin="1799700000t" end="1829200000t" region="bottomCenter" style="s1" xml:id="subtitle95">你都会永远战斗下去哦</p>
+<p begin="1848000000t" end="1889200000t" region="bottomCenter" style="s1" xml:id="subtitle96">そうなればきっと あなたはあなたという個体を保てなくなる</p>
+<p begin="1848000000t" end="1889200000t" region="bottomCenter" style="s1" xml:id="subtitle97">那样的话  你一定会无法保持自我的个体</p>
+<p begin="1894100000t" end="1916300000t" region="bottomCenter" style="s1" xml:id="subtitle98">死ぬなんて生易しいものじゃない</p>
+<p begin="1894100000t" end="1916300000t" region="bottomCenter" style="s1" xml:id="subtitle99">可不光是死这么容易的事情了</p>
+<p begin="1919900000t" end="1958600000t" region="bottomCenter" style="s1" xml:id="subtitle100">未来永劫に終わりなく 魔女を滅ぼす概念として</p>
+<p begin="1919900000t" end="1958600000t" region="bottomCenter" style="s1" xml:id="subtitle101">未来永远没有终结地  作为毁灭魔女的概念</p>
+<p begin="1960100000t" end="1983000000t" region="bottomCenter" style="s1" xml:id="subtitle102">この宇宙に固定されてしまうわ</p>
+<p begin="1960100000t" end="1983000000t" region="bottomCenter" style="s1" xml:id="subtitle103">被固定在这宇宙中</p>
+<p begin="1985900000t" end="2008700000t" region="bottomCenter" style="s1" xml:id="subtitle104">いいんです そのつもりです</p>
+<p begin="1985900000t" end="2008700000t" region="bottomCenter" style="s1" xml:id="subtitle105">没关系  我就是这么打算的</p>
+<p begin="2017700000t" end="2045400000t" region="bottomCenter" style="s1" xml:id="subtitle106">希望を抱くのが間違いだなんて言われたら</p>
+<p begin="2017700000t" end="2045400000t" region="bottomCenter" style="s1" xml:id="subtitle107">如果有人说抱有希望是错误的话</p>
+<p begin="2048100000t" end="2089700000t" region="bottomCenter" style="s1" xml:id="subtitle108">私 そんなのは違うって 何度でもそう言い返せます</p>
+<p begin="2048100000t" end="2089700000t" region="bottomCenter" style="s1" xml:id="subtitle109">「不是这样的」  无论多少次我都会这样回答</p>
+<p begin="2098200000t" end="2115600000t" region="bottomCenter" style="s1" xml:id="subtitle110">きっといつまでも言い張れます</p>
+<p begin="2098200000t" end="2115600000t" region="bottomCenter" style="s1" xml:id="subtitle111">一定无论什么时候都可以这样坚持</p>
+<p begin="2125100000t" end="2139200000t" region="bottomCenter" style="s1" xml:id="subtitle112">いいんじゃねぇの</p>
+<p begin="2125100000t" end="2139200000t" region="bottomCenter" style="s1" xml:id="subtitle113">那不挺好的吗</p>
+<p begin="2146100000t" end="2168700000t" region="bottomCenter" style="s1" xml:id="subtitle114">やれるもんならやってみなよ</p>
+<p begin="2146100000t" end="2168700000t" region="bottomCenter" style="s1" xml:id="subtitle115">能做的话就去做吧</p>
+<p begin="2183500000t" end="2206500000t" region="bottomCenter" style="s1" xml:id="subtitle116">戦う理由 見つけたんだろ</p>
+<p begin="2183500000t" end="2206500000t" region="bottomCenter" style="s1" xml:id="subtitle117">找到战斗的理由了吧</p>
+<p begin="2209800000t" end="2231700000t" region="bottomCenter" style="s1" xml:id="subtitle118">逃げないって自分で決めたんだろ</p>
+<p begin="2209800000t" end="2231700000t" region="bottomCenter" style="s1" xml:id="subtitle119">自己决定不会逃避了吧</p>
+<p begin="2233900000t" end="2248100000t" region="bottomCenter" style="s1" xml:id="subtitle120">なら仕方ないじゃん</p>
+<p begin="2233900000t" end="2248100000t" region="bottomCenter" style="s1" xml:id="subtitle121">那就没办法了嘛</p>
+<p begin="2248600000t" end="2282500000t" region="bottomCenter" style="s1" xml:id="subtitle122">後はもう とことん突っ走るしかねぇんだからさ</p>
+<p begin="2248600000t" end="2282500000t" region="bottomCenter" style="s1" xml:id="subtitle123">之后就只剩下一口气往前冲了啊</p>
+<p begin="2283000000t" end="2304900000t" region="bottomCenter" style="s1" xml:id="subtitle124">うん ありがとう杏子ちゃん</p>
+<p begin="2283000000t" end="2304900000t" region="bottomCenter" style="s1" xml:id="subtitle125">嗯  谢谢你杏子</p>
+<p begin="2314900000t" end="2342600000t" region="bottomCenter" style="s1" xml:id="subtitle126">じゃあ 預かっていた物を返さないとね</p>
+<p begin="2314900000t" end="2342600000t" region="bottomCenter" style="s1" xml:id="subtitle127">那么  寄放在我这的东西就得还给你了</p>
+<p begin="2357300000t" end="2367900000t" region="bottomCenter" style="s1" xml:id="subtitle128">はい コレ</p>
+<p begin="2357300000t" end="2367900000t" region="bottomCenter" style="s1" xml:id="subtitle129">给  这个</p>
+<p begin="2412900000t" end="2434100000t" region="bottomCenter" style="s1" xml:id="subtitle130">あなたは希望を叶えるんじゃない</p>
+<p begin="2412900000t" end="2434100000t" region="bottomCenter" style="s1" xml:id="subtitle131">你不是要实现希望</p>
+<p begin="2442700000t" end="2463400000t" region="bottomCenter" style="s1" xml:id="subtitle132">あなた自身が希望になるのよ</p>
+<p begin="2442700000t" end="2463400000t" region="bottomCenter" style="s1" xml:id="subtitle133">而是你自身成为了希望</p>
+<p begin="2469900000t" end="2497000000t" region="bottomCenter" style="s1" xml:id="subtitle134">私達 全ての希望に</p>
+<p begin="2469900000t" end="2497000000t" region="bottomCenter" style="s1" xml:id="subtitle135">成为了我们人所有的希望</p>
+<p begin="3663700000t" end="3678200000t" region="bottomCenter" style="s1" xml:id="subtitle136">あなた達の祈りを</p>
+<p begin="3663700000t" end="3678200000t" region="bottomCenter" style="s1" xml:id="subtitle137">你们的祈愿</p>
+<p begin="3682700000t" end="3702500000t" region="bottomCenter" style="s1" xml:id="subtitle138">絶望で終わらせたりしない</p>
+<p begin="3682700000t" end="3702500000t" region="bottomCenter" style="s1" xml:id="subtitle139">我不会让它以绝望终结</p>
+<p begin="3793800000t" end="3833700000t" region="bottomCenter" style="s1" xml:id="subtitle140">あなた達は 誰も呪わない 祟らない</p>
+<p begin="3793800000t" end="3833700000t" region="bottomCenter" style="s1" xml:id="subtitle141">你们不会去诅咒  怨恨任何人</p>
+<p begin="3840600000t" end="3867400000t" region="bottomCenter" style="s1" xml:id="subtitle142">因果はすべて 私が受け止める</p>
+<p begin="3840600000t" end="3867400000t" region="bottomCenter" style="s1" xml:id="subtitle143">因果全部由我来承受</p>
+<p begin="3874000000t" end="3884700000t" region="bottomCenter" style="s1" xml:id="subtitle144">だからお願い</p>
+<p begin="3874000000t" end="3884700000t" region="bottomCenter" style="s1" xml:id="subtitle145">所以拜托了</p>
+<p begin="3888800000t" end="3914600000t" region="bottomCenter" style="s1" xml:id="subtitle146">最後まで 自分を信じて</p>
+<p begin="3888800000t" end="3914600000t" region="bottomCenter" style="s1" xml:id="subtitle147">到最后都要相信自己</p>
+<p begin="4127600000t" end="4136600000t" region="bottomCenter" style="s1" xml:id="subtitle148">もういいの</p>
+<p begin="4127600000t" end="4136600000t" region="bottomCenter" style="s1" xml:id="subtitle149">已经够了</p>
+<p begin="4144500000t" end="4158700000t" region="bottomCenter" style="s1" xml:id="subtitle150">もう いいんだよ</p>
+<p begin="4144500000t" end="4158700000t" region="bottomCenter" style="s1" xml:id="subtitle151">已经…足够了</p>
+<p begin="4168600000t" end="4187600000t" region="bottomCenter" style="s1" xml:id="subtitle152">もう誰も恨まなくていいの</p>
+<p begin="4168600000t" end="4187600000t" region="bottomCenter" style="s1" xml:id="subtitle153">已经不用再怨恨任何人了</p>
+<p begin="4194400000t" end="4221700000t" region="bottomCenter" style="s1" xml:id="subtitle154">誰も 呪わなくていいんだよ</p>
+<p begin="4194400000t" end="4221700000t" region="bottomCenter" style="s1" xml:id="subtitle155">不用再诅咒任何人了</p>
+<p begin="4227100000t" end="4244400000t" region="bottomCenter" style="s1" xml:id="subtitle156">そんな姿になる前に</p>
+<p begin="4227100000t" end="4244400000t" region="bottomCenter" style="s1" xml:id="subtitle157">在变成那种样子之前</p>
+<p begin="4246700000t" end="4274200000t" region="bottomCenter" style="s1" xml:id="subtitle158">あなたは 私が受け止めてあげるから</p>
+<p begin="4246700000t" end="4274200000t" region="bottomCenter" style="s1" xml:id="subtitle159">就让我来接受你吧</p>
+<p begin="4576900000t" end="4586400000t" region="bottomCenter" style="s1" xml:id="subtitle160">ここは</p>
+<p begin="4576900000t" end="4586400000t" region="bottomCenter" style="s1" xml:id="subtitle161">这里是…</p>
+<p begin="4589200000t" end="4641700000t" region="bottomCenter" style="s1" xml:id="subtitle162">まどかがもたらした新しい法則に基づいて 宇宙が再編されているんだよ</p>
+<p begin="4589200000t" end="4641700000t" region="bottomCenter" style="s1" xml:id="subtitle163">根据小圆所带来的新的法则  宇宙被重组了</p>
+<p begin="4660300000t" end="4707900000t" region="bottomCenter" style="s1" xml:id="subtitle164">そうか 君もまた 時間を越える魔法の使い手だったね</p>
+<p begin="4660300000t" end="4707900000t" region="bottomCenter" style="s1" xml:id="subtitle165">对了  你也是能够穿越时间的魔法使啊</p>
+<p begin="4714500000t" end="4731400000t" region="bottomCenter" style="s1" xml:id="subtitle166">じゃあ一緒に見届けようか</p>
+<p begin="4714500000t" end="4731400000t" region="bottomCenter" style="s1" xml:id="subtitle167">那么就来一起见证吧</p>
+<p begin="4735100000t" end="4763000000t" region="bottomCenter" style="s1" xml:id="subtitle168">鹿目まどかという 存在の結末を</p>
+<p begin="4735100000t" end="4763000000t" region="bottomCenter" style="s1" xml:id="subtitle169">鹿目圆这一存在的结局</p>
+<p begin="4788000000t" end="4818300000t" region="bottomCenter" style="s1" xml:id="subtitle170">あれが 彼女の祈りがもたらしたソウルジェムだ</p>
+<p begin="4788000000t" end="4818300000t" region="bottomCenter" style="s1" xml:id="subtitle171">soul gem</p>
+<p begin="4788000000t" end="4818300000t" region="bottomCenter" style="s1" xml:id="subtitle172">那就是她的祈愿所带来的灵魂宝石</p>
+<p begin="4829400000t" end="4840300000t" region="bottomCenter" style="s1" xml:id="subtitle173">そんな</p>
+<p begin="4829400000t" end="4840300000t" region="bottomCenter" style="s1" xml:id="subtitle174">怎么…</p>
+<p begin="4866000000t" end="4894300000t" region="bottomCenter" style="s1" xml:id="subtitle175">その壮大過ぎる祈りを叶えた対価に</p>
+<p begin="4866000000t" end="4894300000t" region="bottomCenter" style="s1" xml:id="subtitle176">作为那过分强大的祈愿实现的代价</p>
+<p begin="4896600000t" end="4926400000t" region="bottomCenter" style="s1" xml:id="subtitle177">どかが背負うことになる呪いの量が分かるかい</p>
+<p begin="4896600000t" end="4926400000t" region="bottomCenter" style="s1" xml:id="subtitle178">小圆所背负的诅咒的量你知道吗</p>
+<p begin="4932600000t" end="4967800000t" region="bottomCenter" style="s1" xml:id="subtitle179">一つの宇宙を作り出すに等しい希望が遂げられた</p>
+<p begin="4932600000t" end="4967800000t" region="bottomCenter" style="s1" xml:id="subtitle180">与制造出一个宇宙等同的量的希望被解放出来了</p>
+<p begin="4971600000t" end="5025400000t" region="bottomCenter" style="s1" xml:id="subtitle181">それは即ち 一つの宇宙を終わらせるほどの絶望をもたらすことを意味する</p>
+<p begin="4971600000t" end="5025400000t" region="bottomCenter" style="s1" xml:id="subtitle182">那也就意味着将带来足以让一个宇宙终结的绝望</p>
+<p begin="5034300000t" end="5047200000t" region="bottomCenter" style="s1" xml:id="subtitle183">当然だよね</p>
+<p begin="5034300000t" end="5047200000t" region="bottomCenter" style="s1" xml:id="subtitle184">这是当然的呢</p>
+<p begin="5366300000t" end="5383100000t" region="bottomCenter" style="s1" xml:id="subtitle185">ううん 大丈夫</p>
+<p begin="5366300000t" end="5383100000t" region="bottomCenter" style="s1" xml:id="subtitle186">不  没关系</p>
+<p begin="5424200000t" end="5458000000t" region="bottomCenter" style="s1" xml:id="subtitle187">私の願いは 全ての魔女を消し去ること</p>
+<p begin="5424200000t" end="5458000000t" region="bottomCenter" style="s1" xml:id="subtitle188">我的愿望是消灭所有的魔女</p>
+<p begin="5494600000t" end="5517700000t" region="bottomCenter" style="s1" xml:id="subtitle189">本当にそれが叶ったんだとしたら</p>
+<p begin="5494600000t" end="5517700000t" region="bottomCenter" style="s1" xml:id="subtitle190">如果那真的实现了的话</p>
+<p begin="5524700000t" end="5534300000t" region="bottomCenter" style="s1" xml:id="subtitle191">私だって</p>
+<p begin="5524700000t" end="5534300000t" region="bottomCenter" style="s1" xml:id="subtitle192">我也是——</p>
+<p begin="5548400000t" end="5575600000t" region="bottomCenter" style="s1" xml:id="subtitle193">もう絶望する必要なんて ない</p>
+<p begin="5548400000t" end="5575600000t" region="bottomCenter" style="s1" xml:id="subtitle194">再没有绝望的必要了！</p>
+<p begin="5801600000t" end="5854500000t" region="bottomCenter" style="s1" xml:id="subtitle195">まどか これで君の人生は 始まりも 終わりもなくなった</p>
+<p begin="5801600000t" end="5854500000t" region="bottomCenter" style="s1" xml:id="subtitle196">小圆  这样你的人生就没有开始  也没有结束了</p>
+<p begin="5880100000t" end="5908900000t" region="bottomCenter" style="s1" xml:id="subtitle197">この世界に生きた証も その記憶も</p>
+<p begin="5880100000t" end="5908900000t" region="bottomCenter" style="s1" xml:id="subtitle198">在这世界上活过的证明和那些记忆</p>
+<p begin="5909900000t" end="5927700000t" region="bottomCenter" style="s1" xml:id="subtitle199">もう何処にも残されていない</p>
+<p begin="5909900000t" end="5927700000t" region="bottomCenter" style="s1" xml:id="subtitle200">再也不会留在任何地方</p>
+<p begin="5932400000t" end="5964800000t" region="bottomCenter" style="s1" xml:id="subtitle201">君という存在は 一つ上の領域にシフトして</p>
+<p begin="5932400000t" end="5964800000t" region="bottomCenter" style="s1" xml:id="subtitle202">你的存在  转移到了一个更高的领域</p>
+<p begin="5965300000t" end="5988800000t" region="bottomCenter" style="s1" xml:id="subtitle203">ただの概念に成り果ててしまった</p>
+<p begin="5965300000t" end="5988800000t" region="bottomCenter" style="s1" xml:id="subtitle204">仅仅成为了一种概念</p>
+<p begin="5993100000t" end="6014800000t" region="bottomCenter" style="s1" xml:id="subtitle205">もう誰も君を認識できないし</p>
+<p begin="5993100000t" end="6014800000t" region="bottomCenter" style="s1" xml:id="subtitle206">已经谁都无法认识到你</p>
+<p begin="6016700000t" end="6041800000t" region="bottomCenter" style="s1" xml:id="subtitle207">君もまた 誰にも干渉できない</p>
+<p begin="6016700000t" end="6041800000t" region="bottomCenter" style="s1" xml:id="subtitle208">你也无法干涉任何人</p>
+<p begin="6048400000t" end="6079600000t" region="bottomCenter" style="s1" xml:id="subtitle209">君はこの宇宙の一員では なくなった</p>
+<p begin="6048400000t" end="6079600000t" region="bottomCenter" style="s1" xml:id="subtitle210">你已经不再是这宇宙中的一员了</p>
+<p begin="6087100000t" end="6131400000t" region="bottomCenter" style="s1" xml:id="subtitle211">何よそれ これがまどかの望んだ結末だって言うの</p>
+<p begin="6087100000t" end="6131400000t" region="bottomCenter" style="s1" xml:id="subtitle212">什么啊那是  这就是小圆所希望的结局吗</p>
+<p begin="6133300000t" end="6161600000t" region="bottomCenter" style="s1" xml:id="subtitle213">こんな終わり方で まどかは報われるの</p>
+<p begin="6133300000t" end="6161600000t" region="bottomCenter" style="s1" xml:id="subtitle214">这样的结果  她会得到回报吗</p>
+<p begin="6166000000t" end="6179200000t" region="bottomCenter" style="s1" xml:id="subtitle215">冗談じゃないわ</p>
+<p begin="6166000000t" end="6179200000t" region="bottomCenter" style="s1" xml:id="subtitle216">别开玩笑了！</p>
+<p begin="6210900000t" end="6264500000t" region="bottomCenter" style="s1" xml:id="subtitle217">これじゃ 死ぬよりも もっとひどい ひどい</p>
+<p begin="6210900000t" end="6264500000t" region="bottomCenter" style="s1" xml:id="subtitle218">这样比死掉还要过分  太过分…</p>
+<p begin="6271100000t" end="6296400000t" region="bottomCenter" style="s1" xml:id="subtitle219">ううん 違うよ ほむらちゃん</p>
+<p begin="6271100000t" end="6296400000t" region="bottomCenter" style="s1" xml:id="subtitle220">不  不是的哦  小焰</p>
+<p begin="6307400000t" end="6349700000t" region="bottomCenter" style="s1" xml:id="subtitle221">今の私にはね 過去と未来の全てが見えるの</p>
+<p begin="6307400000t" end="6349700000t" region="bottomCenter" style="s1" xml:id="subtitle222">现在的我  看得到过去和未来的一切</p>
+<p begin="6355700000t" end="6378700000t" region="bottomCenter" style="s1" xml:id="subtitle223">かつてあった宇宙も</p>
+<p begin="6355700000t" end="6378700000t" region="bottomCenter" style="s1" xml:id="subtitle224">曾经可能存在过的宇宙也好</p>
+<p begin="6386300000t" end="6411800000t" region="bottomCenter" style="s1" xml:id="subtitle225">いつかあり得るかもしれない宇宙も</p>
+<p begin="6386300000t" end="6411800000t" region="bottomCenter" style="s1" xml:id="subtitle226">不知何时会出现的宇宙也好</p>
+<p begin="6414300000t" end="6421100000t" region="bottomCenter" style="s1" xml:id="subtitle227">みんな</p>
+<p begin="6414300000t" end="6421100000t" region="bottomCenter" style="s1" xml:id="subtitle228">全部</p>
+<p begin="6425700000t" end="6433100000t" region="bottomCenter" style="s1" xml:id="subtitle229">まどか</p>
+<p begin="6425700000t" end="6433100000t" region="bottomCenter" style="s1" xml:id="subtitle230">小圆</p>
+<p begin="6438700000t" end="6462200000t" region="bottomCenter" style="s1" xml:id="subtitle231">だからね 全部わかったよ</p>
+<p begin="6438700000t" end="6462200000t" region="bottomCenter" style="s1" xml:id="subtitle232">所以呢  我全都知道了</p>
+<p begin="6470200000t" end="6484300000t" region="bottomCenter" style="s1" xml:id="subtitle233">いくつもの時間で</p>
+<p begin="6470200000t" end="6484300000t" region="bottomCenter" style="s1" xml:id="subtitle234">在很多的时间上</p>
+<p begin="6490100000t" end="6524800000t" region="bottomCenter" style="s1" xml:id="subtitle235">ほむらちゃんが 私のためにがんばってくれたこと</p>
+<p begin="6490100000t" end="6524800000t" region="bottomCenter" style="s1" xml:id="subtitle236">小焰为了我所做过的努力</p>
+<p begin="6528400000t" end="6537600000t" region="bottomCenter" style="s1" xml:id="subtitle237">何もかも</p>
+<p begin="6528400000t" end="6537600000t" region="bottomCenter" style="s1" xml:id="subtitle238">所有的一切</p>
+<p begin="6545500000t" end="6575500000t" region="bottomCenter" style="s1" xml:id="subtitle239">何度も泣いて 傷だらけになりながら</p>
+<p begin="6545500000t" end="6575500000t" region="bottomCenter" style="s1" xml:id="subtitle240">多少次地哭泣  变得伤痕累累</p>
+<p begin="6580200000t" end="6597100000t" region="bottomCenter" style="s1" xml:id="subtitle241">それでも私のために</p>
+<p begin="6580200000t" end="6597100000t" region="bottomCenter" style="s1" xml:id="subtitle242">尽管这样还是为了我…</p>
+<p begin="6614900000t" end="6638900000t" region="bottomCenter" style="s1" xml:id="subtitle243">ずっと気づけなくてごめん</p>
+<p begin="6614900000t" end="6638900000t" region="bottomCenter" style="s1" xml:id="subtitle244">一直没能发现  抱歉</p>
+<p begin="6648700000t" end="6657600000t" region="bottomCenter" style="s1" xml:id="subtitle245">ごめんね</p>
+<p begin="6648700000t" end="6657600000t" region="bottomCenter" style="s1" xml:id="subtitle246">抱歉呢</p>
+<p begin="6747600000t" end="6791600000t" region="bottomCenter" style="s1" xml:id="subtitle247">今の私になったから 本当のあなたを知ることができた</p>
+<p begin="6747600000t" end="6791600000t" region="bottomCenter" style="s1" xml:id="subtitle248">因为成了现在的我  才得以知道了真正的你</p>
+<p begin="6796800000t" end="6840500000t" region="bottomCenter" style="s1" xml:id="subtitle249">私には こんなにも大切な友達がいてくれたんだって</p>
+<p begin="6796800000t" end="6840500000t" region="bottomCenter" style="s1" xml:id="subtitle250">我原来有着这么重要的朋友呢</p>
+<p begin="6850200000t" end="6862000000t" region="bottomCenter" style="s1" xml:id="subtitle251">だから嬉しいよ</p>
+<p begin="6850200000t" end="6862000000t" region="bottomCenter" style="s1" xml:id="subtitle252">所以我很高兴啊</p>
+<p begin="6879200000t" end="6899200000t" region="bottomCenter" style="s1" xml:id="subtitle253">ほむらちゃん ありがとう</p>
+<p begin="6879200000t" end="6899200000t" region="bottomCenter" style="s1" xml:id="subtitle254">小焰  谢谢你</p>
+<p begin="6912300000t" end="6948500000t" region="bottomCenter" style="s1" xml:id="subtitle255">あなたは私の 最高の友達だったんだね</p>
+<p begin="6912300000t" end="6948500000t" region="bottomCenter" style="s1" xml:id="subtitle256">你是我最好的朋友呢</p>
+<p begin="6960100000t" end="7001000000t" region="bottomCenter" style="s1" xml:id="subtitle257">だからって あなたはこのまま 帰る場所もなくなって</p>
+<p begin="6960100000t" end="7001000000t" region="bottomCenter" style="s1" xml:id="subtitle258">所以难道你就要这样无处可归</p>
+<p begin="7001500000t" end="7027200000t" region="bottomCenter" style="s1" xml:id="subtitle259">大好きな人たちとも離れ離れになって</p>
+<p begin="7001500000t" end="7027200000t" region="bottomCenter" style="s1" xml:id="subtitle260">跟最喜欢的人们分离</p>
+<p begin="7030500000t" end="7072700000t" region="bottomCenter" style="s1" xml:id="subtitle261">こんな場所に 一人ぼっちで永遠に取り残されるって言うの</p>
+<p begin="7030500000t" end="7072700000t" region="bottomCenter" style="s1" xml:id="subtitle262">永远一个人孤单地被留在这种地方吗</p>
+<p begin="7086700000t" end="7099500000t" region="bottomCenter" style="s1" xml:id="subtitle263">一人じゃないよ</p>
+<p begin="7086700000t" end="7099500000t" region="bottomCenter" style="s1" xml:id="subtitle264">不是一个人哟</p>
+<p begin="7104600000t" end="7136600000t" region="bottomCenter" style="s1" xml:id="subtitle265">みんな みんないつまでも私と一緒だよ</p>
+<p begin="7104600000t" end="7136600000t" region="bottomCenter" style="s1" xml:id="subtitle266">大家  大家一直都会跟我在一起哦</p>
+<p begin="7145400000t" end="7180900000t" region="bottomCenter" style="s1" xml:id="subtitle267">これからの私はね いつでもどこにでもいるの</p>
+<p begin="7145400000t" end="7180900000t" region="bottomCenter" style="s1" xml:id="subtitle268">今后的我呢  无论何时何地都会存在</p>
+<p begin="7188700000t" end="7212400000t" region="bottomCenter" style="s1" xml:id="subtitle269">だから見えなくても聞こえなくても</p>
+<p begin="7188700000t" end="7212400000t" region="bottomCenter" style="s1" xml:id="subtitle270">所以就算看不见听不见</p>
+<p begin="7213300000t" end="7235600000t" region="bottomCenter" style="s1" xml:id="subtitle271">私はほむらちゃんの傍にいるよ</p>
+<p begin="7213300000t" end="7235600000t" region="bottomCenter" style="s1" xml:id="subtitle272">我也会在小焰的身边</p>
+<p begin="7243700000t" end="7268700000t" region="bottomCenter" style="s1" xml:id="subtitle273">まどかは それでもいいの</p>
+<p begin="7243700000t" end="7268700000t" region="bottomCenter" style="s1" xml:id="subtitle274">小圆  那样就好吗</p>
+<p begin="7273700000t" end="7296400000t" region="bottomCenter" style="s1" xml:id="subtitle275">私はあなたを忘れちゃうのに</p>
+<p begin="7273700000t" end="7296400000t" region="bottomCenter" style="s1" xml:id="subtitle276">我可是会把你忘掉的</p>
+<p begin="7302800000t" end="7347400000t" region="bottomCenter" style="s1" xml:id="subtitle277">まどかのこと もう二度と感じ取ることさえできなくなっちゃうのに</p>
+<p begin="7302800000t" end="7347400000t" region="bottomCenter" style="s1" xml:id="subtitle278">可是会再也无法感觉到小圆的啊</p>
+<p begin="7350600000t" end="7383200000t" region="bottomCenter" style="s1" xml:id="subtitle279">ううん 諦めるのはまだ早いよ</p>
+<p begin="7350600000t" end="7383200000t" region="bottomCenter" style="s1" xml:id="subtitle280">不  要放弃还太早了</p>
+<p begin="7389600000t" end="7420800000t" region="bottomCenter" style="s1" xml:id="subtitle281">ほむらちゃんはこんな場所まで付いて来てくれたんだもん</p>
+<p begin="7389600000t" end="7420800000t" region="bottomCenter" style="s1" xml:id="subtitle282">小焰都跟到了这种地方来了嘛</p>
+<p begin="7426500000t" end="7457700000t" region="bottomCenter" style="s1" xml:id="subtitle283">だから 元の世界に戻っても</p>
+<p begin="7426500000t" end="7457700000t" region="bottomCenter" style="s1" xml:id="subtitle284">所以  就算回到原来的世界中</p>
+<p begin="7478400000t" end="7516100000t" region="bottomCenter" style="s1" xml:id="subtitle285">もしかしたら私のこと 忘れずにいてくれるかも</p>
+<p begin="7478400000t" end="7516100000t" region="bottomCenter" style="s1" xml:id="subtitle286">说不定也不会忘记我</p>
+<p begin="7558200000t" end="7580400000t" region="bottomCenter" style="s1" xml:id="subtitle287">大丈夫 きっと大丈夫</p>
+<p begin="7558200000t" end="7580400000t" region="bottomCenter" style="s1" xml:id="subtitle288">没关系  一定没关系</p>
+<p begin="7589900000t" end="7600500000t" region="bottomCenter" style="s1" xml:id="subtitle289">信じようよ</p>
+<p begin="7589900000t" end="7600500000t" region="bottomCenter" style="s1" xml:id="subtitle290">相信吧</p>
+<p begin="7603700000t" end="7614700000t" region="bottomCenter" style="s1" xml:id="subtitle291">まどか</p>
+<p begin="7603700000t" end="7614700000t" region="bottomCenter" style="s1" xml:id="subtitle292">小圆…</p>
+<p begin="7625100000t" end="7664600000t" region="bottomCenter" style="s1" xml:id="subtitle293">だって魔法少女はさ 夢と希望を叶えるんだから</p>
+<p begin="7625100000t" end="7664600000t" region="bottomCenter" style="s1" xml:id="subtitle294">因为魔法少女啊  是可以实现梦想和希望的</p>
+<p begin="7690900000t" end="7706900000t" region="bottomCenter" style="s1" xml:id="subtitle295">きっとほんの少しなら</p>
+<p begin="7690900000t" end="7706900000t" region="bottomCenter" style="s1" xml:id="subtitle296">一定只有一点点的话</p>
+<p begin="7712900000t" end="7734400000t" region="bottomCenter" style="s1" xml:id="subtitle297">本当の奇跡があるかもしれない</p>
+<p begin="7712900000t" end="7734400000t" region="bottomCenter" style="s1" xml:id="subtitle298">也许真正的奇迹也是存在的</p>
+<p begin="7740800000t" end="7749900000t" region="bottomCenter" style="s1" xml:id="subtitle299">そうでしょ</p>
+<p begin="7740800000t" end="7749900000t" region="bottomCenter" style="s1" xml:id="subtitle300">没错吧</p>
+<p begin="7749900000t" end="7772200000t" region="bottomCenter" style="s1" xml:id="subtitle301">まどか 行かないで</p>
+<p begin="7749900000t" end="7772200000t" region="bottomCenter" style="s1" xml:id="subtitle302">小圆  不要去！</p>
+<p begin="7777900000t" end="7815700000t" region="bottomCenter" style="s1" xml:id="subtitle303">ごめんね 私 みんなを迎えに行かないと</p>
+<p begin="7777900000t" end="7815700000t" region="bottomCenter" style="s1" xml:id="subtitle304">抱歉  我必须要去接大家了</p>
+<p begin="7826300000t" end="7859600000t" region="bottomCenter" style="s1" xml:id="subtitle305">いつかまた もう一度ほむらちゃんとも会えるから</p>
+<p begin="7826300000t" end="7859600000t" region="bottomCenter" style="s1" xml:id="subtitle306">总有一天也会再次和小焰重逢的</p>
+<p begin="7872600000t" end="7903900000t" region="bottomCenter" style="s1" xml:id="subtitle307">それまでは ほんのちょっとだけお別れだね</p>
+<p begin="7872600000t" end="7903900000t" region="bottomCenter" style="s1" xml:id="subtitle308">在那之前  只是短暂的离别而已</p>
+<p begin="7916400000t" end="7943400000t" region="bottomCenter" style="s1" xml:id="subtitle309">まどかあぁぁぁッ</p>
+<p begin="7916400000t" end="7943400000t" region="bottomCenter" style="s1" xml:id="subtitle310">小圆！</p>
+<p begin="8119800000t" end="8147000000t" region="bottomCenter" style="s1" xml:id="subtitle311">25番 上条恭介です</p>
+<p begin="8119800000t" end="8147000000t" region="bottomCenter" style="s1" xml:id="subtitle312">我是25号  上条恭介</p>
+<p begin="8156100000t" end="8166300000t" region="bottomCenter" style="s1" xml:id="subtitle313">課題曲は</p>
+<p begin="8156100000t" end="8166300000t" region="bottomCenter" style="s1" xml:id="subtitle314">课题曲是</p>
+<p begin="8177200000t" end="8186600000t" region="bottomCenter" style="s1" xml:id="subtitle315">アヴェ マリア</p>
+<p begin="8177200000t" end="8186600000t" region="bottomCenter" style="s1" xml:id="subtitle316">Ave Maria</p>
+<p begin="8177200000t" end="8186600000t" region="bottomCenter" style="s1" xml:id="subtitle317">「圣母颂」</p>
+<p begin="8321400000t" end="8350800000t" region="bottomCenter" style="s1" xml:id="subtitle318">何か 手間かけさせちゃったね</p>
+<p begin="8321400000t" end="8350800000t" region="bottomCenter" style="s1" xml:id="subtitle319">好像…让你费了不少工夫呢</p>
+<p begin="8354400000t" end="8379000000t" region="bottomCenter" style="s1" xml:id="subtitle320">ううん こっちこそごめん</p>
+<p begin="8354400000t" end="8379000000t" region="bottomCenter" style="s1" xml:id="subtitle321">不  我才是抱歉</p>
+<p begin="8387300000t" end="8435100000t" region="bottomCenter" style="s1" xml:id="subtitle322">さやかちゃんを救うには 何もかもなかったことにするしかなくて</p>
+<p begin="8387300000t" end="8435100000t" region="bottomCenter" style="s1" xml:id="subtitle323">如果要救沙耶香  就只能将一切都归零</p>
+<p begin="8445200000t" end="8480600000t" region="bottomCenter" style="s1" xml:id="subtitle324">そしたら この未来も消えてなくなっちゃうの</p>
+<p begin="8445200000t" end="8480600000t" region="bottomCenter" style="s1" xml:id="subtitle325">这样的话这个未来也会消失掉</p>
+<p begin="8489400000t" end="8541400000t" region="bottomCenter" style="s1" xml:id="subtitle326">でも それはたぶん さやかちゃんが望む形じゃないんだろうなって</p>
+<p begin="8489400000t" end="8541400000t" region="bottomCenter" style="s1" xml:id="subtitle327">但是  我觉得那大概不是沙耶香所期望的形式吧</p>
+<p begin="8578000000t" end="8617400000t" region="bottomCenter" style="s1" xml:id="subtitle328">さやかちゃんが祈ったことも そのためにがんばってきたことも</p>
+<p begin="8578000000t" end="8617400000t" region="bottomCenter" style="s1" xml:id="subtitle329">我认为沙耶香的祈愿  还有为它所做过的努力</p>
+<p begin="8619400000t" end="8661400000t" region="bottomCenter" style="s1" xml:id="subtitle330">とっても大切で 絶対 無意味じゃなかったと思うの</p>
+<p begin="8619400000t" end="8661400000t" region="bottomCenter" style="s1" xml:id="subtitle331">非常重要  绝对不是无意义的</p>
+<p begin="8670600000t" end="8677000000t" region="bottomCenter" style="s1" xml:id="subtitle332">だから</p>
+<p begin="8670600000t" end="8677000000t" region="bottomCenter" style="s1" xml:id="subtitle333">所以…</p>
+<p begin="8705300000t" end="8711200000t" region="bottomCenter" style="s1" xml:id="subtitle334">うん</p>
+<p begin="8705300000t" end="8711200000t" region="bottomCenter" style="s1" xml:id="subtitle335">嗯</p>
+<p begin="8725800000t" end="8737400000t" region="bottomCenter" style="s1" xml:id="subtitle336">これでいいよ</p>
+<p begin="8725800000t" end="8737400000t" region="bottomCenter" style="s1" xml:id="subtitle337">这样就好了</p>
+<p begin="8747600000t" end="8808000000t" region="bottomCenter" style="s1" xml:id="subtitle338">そうだよ 私はただ もう一度 アイツの演奏が聴きたかっただけなんだ</p>
+<p begin="8747600000t" end="8808000000t" region="bottomCenter" style="s1" xml:id="subtitle339">是啊  我只是想再听一次他的演奏而已</p>
+<p begin="8814200000t" end="8859900000t" region="bottomCenter" style="s1" xml:id="subtitle340">あのヴァイオリンを もっともっと大勢の人に聴いてほしかった</p>
+<p begin="8814200000t" end="8859900000t" region="bottomCenter" style="s1" xml:id="subtitle341">想让那小提琴被更多更多的人听到</p>
+<p begin="8867500000t" end="8896800000t" region="bottomCenter" style="s1" xml:id="subtitle342">それを思い出せただけで 十分だよ</p>
+<p begin="8867500000t" end="8896800000t" region="bottomCenter" style="s1" xml:id="subtitle343">只是能回想起这个  就足够了</p>
+<p begin="8906600000t" end="8926400000t" region="bottomCenter" style="s1" xml:id="subtitle344">もう何の後悔もない</p>
+<p begin="8906600000t" end="8926400000t" region="bottomCenter" style="s1" xml:id="subtitle345">已经没有任何后悔</p>
+<p begin="8941400000t" end="8974200000t" region="bottomCenter" style="s1" xml:id="subtitle346">まあ そりゃ ちょっぴり悔しいけどさ</p>
+<p begin="8941400000t" end="8974200000t" region="bottomCenter" style="s1" xml:id="subtitle347">不过  虽然那也稍微有点不甘心</p>
+<p begin="8976500000t" end="8993100000t" region="bottomCenter" style="s1" xml:id="subtitle348">仁美じゃ仕方ないや</p>
+<p begin="8976500000t" end="8993100000t" region="bottomCenter" style="s1" xml:id="subtitle349">是仁美的话也没办法了</p>
+<p begin="8999900000t" end="9026800000t" region="bottomCenter" style="s1" xml:id="subtitle350">恭介にはもったいないくらいいい子だし</p>
+<p begin="8999900000t" end="9026800000t" region="bottomCenter" style="s1" xml:id="subtitle351">因为是配恭介都有些浪费的好女孩啊</p>
+<p begin="9032300000t" end="9064600000t" region="bottomCenter" style="s1" xml:id="subtitle352">幸せになって くれるよね</p>
+<p begin="9032300000t" end="9064600000t" region="bottomCenter" style="s1" xml:id="subtitle353">会变得幸福的吧</p>
+<p begin="9099700000t" end="9105200000t" region="bottomCenter" style="s1" xml:id="subtitle354">うん</p>
+<p begin="9099700000t" end="9105200000t" region="bottomCenter" style="s1" xml:id="subtitle355">嗯</p>
+<p begin="9131200000t" end="9145900000t" region="bottomCenter" style="s1" xml:id="subtitle356">じゃ いこっか</p>
+<p begin="9131200000t" end="9145900000t" region="bottomCenter" style="s1" xml:id="subtitle357">那  我们走吧</p>
+<p begin="9157800000t" end="9164700000t" region="bottomCenter" style="s1" xml:id="subtitle358">うん</p>
+<p begin="9157800000t" end="9164700000t" region="bottomCenter" style="s1" xml:id="subtitle359">嗯</p>
+<p begin="9446500000t" end="9456200000t" region="bottomCenter" style="s1" xml:id="subtitle360">さやか</p>
+<p begin="9446500000t" end="9456200000t" region="bottomCenter" style="s1" xml:id="subtitle361">沙耶香？</p>
+<p begin="9534600000t" end="9544000000t" region="bottomCenter" style="s1" xml:id="subtitle362">さやかは</p>
+<p begin="9534600000t" end="9544000000t" region="bottomCenter" style="s1" xml:id="subtitle363">沙耶香呢</p>
+<p begin="9546200000t" end="9561700000t" region="bottomCenter" style="s1" xml:id="subtitle364">オイ さやかはどうした</p>
+<p begin="9546200000t" end="9561700000t" region="bottomCenter" style="s1" xml:id="subtitle365">喂  沙耶香怎么了</p>
+<p begin="9567400000t" end="9580400000t" region="bottomCenter" style="s1" xml:id="subtitle366">行ってしまったわ</p>
+<p begin="9567400000t" end="9580400000t" region="bottomCenter" style="s1" xml:id="subtitle367">去了呢</p>
+<p begin="9585300000t" end="9608900000t" region="bottomCenter" style="s1" xml:id="subtitle368">円環の理に導かれて</p>
+<p begin="9585300000t" end="9608900000t" region="bottomCenter" style="s1" xml:id="subtitle369">被圆环之理所指引</p>
+<p begin="9615800000t" end="9671200000t" region="bottomCenter" style="s1" xml:id="subtitle370">美樹さん さっきのあの一撃に 全ての力を使ってしまったのね</p>
+<p begin="9615800000t" end="9671200000t" region="bottomCenter" style="s1" xml:id="subtitle371">美树同学在刚才的一击中用尽了所有的力量呢</p>
+<p begin="9685800000t" end="9719800000t" region="bottomCenter" style="s1" xml:id="subtitle372">バカ野郎 惚れた男のためだからって</p>
+<p begin="9685800000t" end="9719800000t" region="bottomCenter" style="s1" xml:id="subtitle373">那个笨蛋  就算是为了喜欢的男人</p>
+<p begin="9720300000t" end="9746200000t" region="bottomCenter" style="s1" xml:id="subtitle374">自分が消えちまってどうするんだよ</p>
+<p begin="9720300000t" end="9746200000t" region="bottomCenter" style="s1" xml:id="subtitle375">自己消失了又算什么啊</p>
+<p begin="9761400000t" end="9793500000t" region="bottomCenter" style="s1" xml:id="subtitle376">バカ やっと友達になれたのに</p>
+<p begin="9761400000t" end="9793500000t" region="bottomCenter" style="s1" xml:id="subtitle377">笨蛋  好不容易才成为朋友了的</p>
+<p begin="9804100000t" end="9825900000t" region="bottomCenter" style="s1" xml:id="subtitle378">それが魔法少女の運命よ</p>
+<p begin="9804100000t" end="9825900000t" region="bottomCenter" style="s1" xml:id="subtitle379">那就是魔法少女的命运</p>
+<p begin="9832000000t" end="9862700000t" region="bottomCenter" style="s1" xml:id="subtitle380">この力を手に入れた時からわかっていたはずでしょう</p>
+<p begin="9832000000t" end="9862700000t" region="bottomCenter" style="s1" xml:id="subtitle381">在得到这力量的时候应该就已经明白了吧</p>
+<p begin="9871500000t" end="9911900000t" region="bottomCenter" style="s1" xml:id="subtitle382">希望を求めた因果が この世に呪いをもたらす前に</p>
+<p begin="9871500000t" end="9911900000t" region="bottomCenter" style="s1" xml:id="subtitle383">在寻求希望的因果给这世界带来诅咒之前</p>
+<p begin="9917700000t" end="9948800000t" region="bottomCenter" style="s1" xml:id="subtitle384">私達はああやって 消え去るしかないのよ</p>
+<p begin="9917700000t" end="9948800000t" region="bottomCenter" style="s1" xml:id="subtitle385">我们就只能像那样消失了</p>
+<p begin="10006300000t" end="10016400000t" region="bottomCenter" style="s1" xml:id="subtitle386">まどか</p>
+<p begin="10006300000t" end="10016400000t" region="bottomCenter" style="s1" xml:id="subtitle387">小圆</p>
+<p begin="10044800000t" end="10087200000t" region="bottomCenter" style="s1" xml:id="subtitle388">暁美さん まどかって</p>
+<p begin="10044800000t" end="10087200000t" region="bottomCenter" style="s1" xml:id="subtitle389">晓美同学？  小圆是…</p>
+<p begin="10101100000t" end="10110800000t" region="bottomCenter" style="s1" xml:id="subtitle390">誰だよ</p>
+<p begin="10101100000t" end="10110800000t" region="bottomCenter" style="s1" xml:id="subtitle391">谁啊</p>
+<p begin="10275700000t" end="10295100000t" region="bottomCenter" style="s1" xml:id="subtitle392">まどか まどかぁ</p>
+<p begin="10275700000t" end="10295100000t" region="bottomCenter" style="s1" xml:id="subtitle393">小圆  小圆</p>
+<p begin="10304390000t" end="10339490000t" region="bottomCenter" style="s1" xml:id="subtitle394">うん そうだね そっくりだよ</p>
+<p begin="10304390000t" end="10339490000t" region="bottomCenter" style="s1" xml:id="subtitle395">嗯  是呢  很像哟</p>
+<p begin="10369290000t" end="10390900000t" region="bottomCenter" style="s1" xml:id="subtitle396">コラ ダメじゃないかタツヤ</p>
+<p begin="10369290000t" end="10390900000t" region="bottomCenter" style="s1" xml:id="subtitle397">喂  不行的  达也</p>
+<p begin="10394590000t" end="10416200000t" region="bottomCenter" style="s1" xml:id="subtitle398">女の人の髪を引っ張るのダメ</p>
+<p begin="10394590000t" end="10416200000t" region="bottomCenter" style="s1" xml:id="subtitle399">不能拉女孩子的头发</p>
+<p begin="10416690000t" end="10438600000t" region="bottomCenter" style="s1" xml:id="subtitle400">まどかぁ まどかぁ</p>
+<p begin="10416690000t" end="10438600000t" region="bottomCenter" style="s1" xml:id="subtitle401">小圆小圆  小圆</p>
+<p begin="10438600000t" end="10461790000t" region="bottomCenter" style="s1" xml:id="subtitle402">すみません 大丈夫でしたか</p>
+<p begin="10438600000t" end="10461790000t" region="bottomCenter" style="s1" xml:id="subtitle403">不好意思  不要紧吧？</p>
+<p begin="10465900000t" end="10499300000t" region="bottomCenter" style="s1" xml:id="subtitle404">いえ こちらこそお邪魔してしまって</p>
+<p begin="10465900000t" end="10499300000t" region="bottomCenter" style="s1" xml:id="subtitle405">不  我才是  打扰了</p>
+<p begin="10515900000t" end="10532500000t" region="bottomCenter" style="s1" xml:id="subtitle406">まどか だね</p>
+<p begin="10515900000t" end="10532500000t" region="bottomCenter" style="s1" xml:id="subtitle407">是小圆呢</p>
+<p begin="10562200000t" end="10569700000t" region="bottomCenter" style="s1" xml:id="subtitle408">はい</p>
+<p begin="10562200000t" end="10569700000t" region="bottomCenter" style="s1" xml:id="subtitle409">是</p>
+<p begin="10603400000t" end="10618000000t" region="bottomCenter" style="s1" xml:id="subtitle410">行くよ</p>
+<p begin="10603400000t" end="10618000000t" region="bottomCenter" style="s1" xml:id="subtitle411">要去咯</p>
+<p begin="10618900000t" end="10627900000t" region="bottomCenter" style="s1" xml:id="subtitle412">さぁ来い よっと</p>
+<p begin="10618900000t" end="10627900000t" region="bottomCenter" style="s1" xml:id="subtitle413">好  来吧</p>
+<p begin="10651900000t" end="10662000000t" region="bottomCenter" style="s1" xml:id="subtitle414">まぁその</p>
+<p begin="10651900000t" end="10662000000t" region="bottomCenter" style="s1" xml:id="subtitle415">那个…</p>
+<p begin="10667800000t" end="10705900000t" region="bottomCenter" style="s1" xml:id="subtitle416">あの子が一人遊びする時の見えないお友達ってやつ</p>
+<p begin="10667800000t" end="10705900000t" region="bottomCenter" style="s1" xml:id="subtitle417">算是那孩子自己玩的时候看不见的朋友吧？</p>
+<p begin="10710600000t" end="10739800000t" region="bottomCenter" style="s1" xml:id="subtitle418">子供の頃にはよくあることなんだけどねぇ</p>
+<p begin="10710600000t" end="10739800000t" region="bottomCenter" style="s1" xml:id="subtitle419">在小时候是常有的事情呢</p>
+<p begin="10741300000t" end="10768000000t" region="bottomCenter" style="s1" xml:id="subtitle420">ええ 私にも覚えがあります</p>
+<p begin="10741300000t" end="10768000000t" region="bottomCenter" style="s1" xml:id="subtitle421">嗯  我也有印象</p>
+<p begin="10775300000t" end="10807100000t" region="bottomCenter" style="s1" xml:id="subtitle422">まどか ってさ あなたも知ってるの</p>
+<p begin="10775300000t" end="10807100000t" region="bottomCenter" style="s1" xml:id="subtitle423">小圆啊  你也认识吗</p>
+<p begin="10809700000t" end="10827300000t" region="bottomCenter" style="s1" xml:id="subtitle424">アニメか何かのキャラとか</p>
+<p begin="10809700000t" end="10827300000t" region="bottomCenter" style="s1" xml:id="subtitle425">不是动画片什么之类的角色吗</p>
+<p begin="10828400000t" end="10844700000t" region="bottomCenter" style="s1" xml:id="subtitle426">さあ どうだったか</p>
+<p begin="10828400000t" end="10844700000t" region="bottomCenter" style="s1" xml:id="subtitle427">不知道  会是怎样的呢</p>
+<p begin="10848200000t" end="10872900000t" region="bottomCenter" style="s1" xml:id="subtitle428">聞き覚えがあるような ないような</p>
+<p begin="10848200000t" end="10872900000t" region="bottomCenter" style="s1" xml:id="subtitle429">好像听说过又好像没有…</p>
+<p begin="10878900000t" end="10923400000t" region="bottomCenter" style="s1" xml:id="subtitle430">そっか アタシもどっかでタツヤと一緒に見たのかなぁ</p>
+<p begin="10878900000t" end="10923400000t" region="bottomCenter" style="s1" xml:id="subtitle431">这样啊  我也在哪里和达也一起见过吗</p>
+<p begin="10944900000t" end="11003300000t" region="bottomCenter" style="s1" xml:id="subtitle432">たまにね すっごく懐かしい響きだなって思うことがあるんだよね</p>
+<p begin="10944900000t" end="11003300000t" region="bottomCenter" style="s1" xml:id="subtitle433">偶尔啊  会觉得这发音非常令人怀念呢</p>
+<p begin="11015400000t" end="11025100000t" region="bottomCenter" style="s1" xml:id="subtitle434">まどか</p>
+<p begin="11015400000t" end="11025100000t" region="bottomCenter" style="s1" xml:id="subtitle435">「圆」…</p>
+<p begin="11051400000t" end="11061200000t" region="bottomCenter" style="s1" xml:id="subtitle436">そうですか</p>
+<p begin="11051400000t" end="11061200000t" region="bottomCenter" style="s1" xml:id="subtitle437">是吗</p>
+<p begin="11086500000t" end="11110000000t" region="bottomCenter" style="s1" xml:id="subtitle438">そのリボン すごくかわいいね</p>
+<p begin="11086500000t" end="11110000000t" region="bottomCenter" style="s1" xml:id="subtitle439">那缎带非常可爱呢</p>
+<p begin="11111800000t" end="11133900000t" region="bottomCenter" style="s1" xml:id="subtitle440">アタシの好みにド直球だわぁ</p>
+<p begin="11111800000t" end="11133900000t" region="bottomCenter" style="s1" xml:id="subtitle441">跟我的喜好完全一致</p>
+<p begin="11136300000t" end="11152800000t" region="bottomCenter" style="s1" xml:id="subtitle442">ちょっとビックリしたくらい</p>
+<p begin="11136300000t" end="11152800000t" region="bottomCenter" style="s1" xml:id="subtitle443">稍微有点吃惊了呢</p>
+<p begin="11170700000t" end="11183900000t" region="bottomCenter" style="s1" xml:id="subtitle444">差し上げましょうか</p>
+<p begin="11170700000t" end="11183900000t" region="bottomCenter" style="s1" xml:id="subtitle445">送给你吧</p>
+<p begin="11199500000t" end="11225500000t" region="bottomCenter" style="s1" xml:id="subtitle446">こんなおばさんには似合わないって</p>
+<p begin="11199500000t" end="11225500000t" region="bottomCenter" style="s1" xml:id="subtitle447">不适合我这种大妈啦</p>
+<p begin="11232400000t" end="11267000000t" region="bottomCenter" style="s1" xml:id="subtitle448">まあ娘とかいたら 付けさせたかもしれないね</p>
+<p begin="11232400000t" end="11267000000t" region="bottomCenter" style="s1" xml:id="subtitle449">不过如果有女儿的话  可能会让她戴的吧</p>
+<p begin="11340300000t" end="11350100000t" region="bottomCenter" style="s1" xml:id="subtitle450">なるほどね</p>
+<p begin="11340300000t" end="11350100000t" region="bottomCenter" style="s1" xml:id="subtitle451">原来如此呢</p>
+<p begin="11353900000t" end="11392400000t" region="bottomCenter" style="s1" xml:id="subtitle452">確かに君の話は 一つの仮説としては成り立つね</p>
+<p begin="11353900000t" end="11392400000t" region="bottomCenter" style="s1" xml:id="subtitle453">确实你的话作为一个假说能够成立呢</p>
+<p begin="11404100000t" end="11428100000t" region="bottomCenter" style="s1" xml:id="subtitle454">仮説じゃなくて 本当のことよ</p>
+<p begin="11404100000t" end="11428100000t" region="bottomCenter" style="s1" xml:id="subtitle455">不是假说  而是事实</p>
+<p begin="11469500000t" end="11493900000t" region="bottomCenter" style="s1" xml:id="subtitle456">だとしても 証明しようがないよ</p>
+<p begin="11469500000t" end="11493900000t" region="bottomCenter" style="s1" xml:id="subtitle457">就算是那样也无法证明啊</p>
+<p begin="11499100000t" end="11543700000t" region="bottomCenter" style="s1" xml:id="subtitle458">君が言うように 宇宙のルールが書き換えられてしまったのだとすれば</p>
+<p begin="11499100000t" end="11543700000t" region="bottomCenter" style="s1" xml:id="subtitle459">如果像你所说宇宙的规则被改写了的话</p>
+<p begin="11544600000t" end="11579800000t" region="bottomCenter" style="s1" xml:id="subtitle460">今の僕らにそれを確かめる手段なんてない訳だし</p>
+<p begin="11544600000t" end="11579800000t" region="bottomCenter" style="s1" xml:id="subtitle461">现在的我们也没有可以确认的手段啊</p>
+<p begin="11582900000t" end="11612300000t" region="bottomCenter" style="s1" xml:id="subtitle462">君だけがその記憶を持ち越しているのだとしても</p>
+<p begin="11582900000t" end="11612300000t" region="bottomCenter" style="s1" xml:id="subtitle463">就算只有你留有那份记忆</p>
+<p begin="11614200000t" end="11659800000t" region="bottomCenter" style="s1" xml:id="subtitle464">それは 君の頭の中にしかない夢物語と区別がつかない</p>
+<p begin="11614200000t" end="11659800000t" region="bottomCenter" style="s1" xml:id="subtitle465">也无法分辨那是否只是你脑中的幻想</p>
+<p begin="11684600000t" end="11736800000t" region="bottomCenter" style="s1" xml:id="subtitle466">まあ確かに 浄化しきれなくなったソウルジェムが 何故消滅してしまうのか</p>
+<p begin="11684600000t" end="11736800000t" region="bottomCenter" style="s1" xml:id="subtitle467">不过确实无法完全净化的灵魂宝石为什么会消失</p>
+<p begin="11738100000t" end="11763700000t" region="bottomCenter" style="s1" xml:id="subtitle468">その原理は僕たちでも解明できてない</p>
+<p begin="11738100000t" end="11763700000t" region="bottomCenter" style="s1" xml:id="subtitle469">其中的原理我们也无法解释</p>
+<p begin="11768200000t" end="11817300000t" region="bottomCenter" style="s1" xml:id="subtitle470">その点 君の話にあった『魔女』の概念は 中々興味深くはある</p>
+<p begin="11768200000t" end="11817300000t" region="bottomCenter" style="s1" xml:id="subtitle471">这点上  你话中魔女的概念很让人感兴趣</p>
+<p begin="11821500000t" end="11867700000t" region="bottomCenter" style="s1" xml:id="subtitle472">人間の感情エネルギーを収集する方法としては 確かに魅力的だ</p>
+<p begin="11821500000t" end="11867700000t" region="bottomCenter" style="s1" xml:id="subtitle473">作为吸收人类感情能量的方法确实很有魅力</p>
+<p begin="11872700000t" end="11892300000t" region="bottomCenter" style="s1" xml:id="subtitle474">そんな上手い方法があるなら</p>
+<p begin="11872700000t" end="11892300000t" region="bottomCenter" style="s1" xml:id="subtitle475">有那么好的方法的话</p>
+<p begin="11894000000t" end="11936900000t" region="bottomCenter" style="s1" xml:id="subtitle476">僕たちインキュベイターの戦略も もっと違ったものになっただろうね</p>
+<p begin="11894000000t" end="11936900000t" region="bottomCenter" style="s1" xml:id="subtitle477">我们孵化者的战略也许会变得大为不同了呢</p>
+<p begin="11946500000t" end="11955100000t" region="bottomCenter" style="s1" xml:id="subtitle478">そうね</p>
+<p begin="11946500000t" end="11955100000t" region="bottomCenter" style="s1" xml:id="subtitle479">也是呢</p>
+<p begin="11961100000t" end="11981900000t" region="bottomCenter" style="s1" xml:id="subtitle480">あなたたちはそういう奴らよね</p>
+<p begin="11961100000t" end="11981900000t" region="bottomCenter" style="s1" xml:id="subtitle481">你们就是这样的家伙呢</p>
+<p begin="11988700000t" end="12010600000t" region="bottomCenter" style="s1" xml:id="subtitle482">君が言う 『魔女』のいた世界では</p>
+<p begin="11988700000t" end="12010600000t" region="bottomCenter" style="s1" xml:id="subtitle483">在你所说有魔女存在的世界中</p>
+<p begin="12012600000t" end="12051400000t" region="bottomCenter" style="s1" xml:id="subtitle484">今僕らが戦っているような魔獣なんて 存在しなかったんだろう</p>
+<p begin="12012600000t" end="12051400000t" region="bottomCenter" style="s1" xml:id="subtitle485">像现在和我们战斗的魔兽是不存在的吧</p>
+<p begin="12056600000t" end="12092400000t" region="bottomCenter" style="s1" xml:id="subtitle486">呪いを集める方法としては 余程手っ取り早いじゃないか</p>
+<p begin="12056600000t" end="12092400000t" region="bottomCenter" style="s1" xml:id="subtitle487">作为收集诅咒的方法的话  会更有效率吧</p>
+<p begin="12093400000t" end="12110600000t" region="bottomCenter" style="s1" xml:id="subtitle488">そう簡単じゃなかったわ</p>
+<p begin="12093400000t" end="12110600000t" region="bottomCenter" style="s1" xml:id="subtitle489">不是那么简单的</p>
+<p begin="12115200000t" end="12150000000t" region="bottomCenter" style="s1" xml:id="subtitle490">あなたたちとの関係だって かなり険悪だったし</p>
+<p begin="12115200000t" end="12150000000t" region="bottomCenter" style="s1" xml:id="subtitle491">跟你们的关系也相当地恶劣</p>
+<p begin="12166600000t" end="12199500000t" region="bottomCenter" style="s1" xml:id="subtitle492">やっぱり理解できないなあ 人間の価値観は</p>
+<p begin="12166600000t" end="12199500000t" region="bottomCenter" style="s1" xml:id="subtitle493">果然无法理解呢  人类的价值观</p>
+<p begin="12253100000t" end="12282000000t" region="bottomCenter" style="s1" xml:id="subtitle494">たとえ 魔女が生まれなくなった世界でも</p>
+<p begin="12253100000t" end="12282000000t" region="bottomCenter" style="s1" xml:id="subtitle495">就算在没有魔女诞生的世界</p>
+<p begin="12288900000t" end="12323200000t" region="bottomCenter" style="s1" xml:id="subtitle496">それで人の世の呪いが消え失せるわけではない</p>
+<p begin="12288900000t" end="12323200000t" region="bottomCenter" style="s1" xml:id="subtitle497">那也不代表人世间的诅咒就会消失</p>
+<p begin="12333700000t" end="12387700000t" region="bottomCenter" style="s1" xml:id="subtitle498">世界の歪みは形を変えて 今も闇の底から人々を狙っている</p>
+<p begin="12333700000t" end="12387700000t" region="bottomCenter" style="s1" xml:id="subtitle499">世界的扭曲改变了形式  现在也仍在黑暗中威胁着人们</p>
+<p begin="12454500000t" end="12479900000t" region="bottomCenter" style="s1" xml:id="subtitle500">今夜はつくづく瘴気が濃いね</p>
+<p begin="12454500000t" end="12479900000t" region="bottomCenter" style="s1" xml:id="subtitle501">今晚瘴气越来越浓了呢</p>
+<p begin="12481300000t" end="12508800000t" region="bottomCenter" style="s1" xml:id="subtitle502">魔獣どもも 次から次へと湧いてくる</p>
+<p begin="12481300000t" end="12508800000t" region="bottomCenter" style="s1" xml:id="subtitle503">魔兽们也一个接一个地出现</p>
+<p begin="12511500000t" end="12529200000t" region="bottomCenter" style="s1" xml:id="subtitle504">幾ら倒してもキリがない</p>
+<p begin="12511500000t" end="12529200000t" region="bottomCenter" style="s1" xml:id="subtitle505">不管打倒多少都没完</p>
+<p begin="12533600000t" end="12549200000t" region="bottomCenter" style="s1" xml:id="subtitle506">ボヤいたって仕方ないわ</p>
+<p begin="12533600000t" end="12549200000t" region="bottomCenter" style="s1" xml:id="subtitle507">发牢骚也是没用的</p>
+<p begin="12553600000t" end="12567500000t" region="bottomCenter" style="s1" xml:id="subtitle508">さあ 行くわよ</p>
+<p begin="12553600000t" end="12567500000t" region="bottomCenter" style="s1" xml:id="subtitle509">来  要上了</p>
+<p begin="12610800000t" end="12633800000t" region="bottomCenter" style="s1" xml:id="subtitle510">悲しみと憎しみばかりを繰り返す</p>
+<p begin="12610800000t" end="12633800000t" region="bottomCenter" style="s1" xml:id="subtitle511">虽然是不断重复着悲伤和憎恨</p>
+<p begin="12637100000t" end="12655400000t" region="bottomCenter" style="s1" xml:id="subtitle512">救いようのない世界だけれど</p>
+<p begin="12637100000t" end="12655400000t" region="bottomCenter" style="s1" xml:id="subtitle513">无药可救的世界</p>
+<p begin="12666600000t" end="12710600000t" region="bottomCenter" style="s1" xml:id="subtitle514">だとしてもここは かつてあの子が守ろうとした場所なんだ</p>
+<p begin="12666600000t" end="12710600000t" region="bottomCenter" style="s1" xml:id="subtitle515">既便如此这里  也是曾经她想要守护的地方</p>
+<p begin="12772800000t" end="12822600000t" region="bottomCenter" style="s1" xml:id="subtitle516">それを覚えてる 決して 忘れたりしない</p>
+<p begin="12772800000t" end="12822600000t" region="bottomCenter" style="s1" xml:id="subtitle517">我会记住这些  绝对不会忘记</p>
+<p begin="12835000000t" end="12845900000t" region="bottomCenter" style="s1" xml:id="subtitle518">だから私は</p>
+<p begin="12835000000t" end="12845900000t" region="bottomCenter" style="s1" xml:id="subtitle519">所以我</p>
+<p begin="12858000000t" end="12869100000t" region="bottomCenter" style="s1" xml:id="subtitle520">戦い続ける</p>
+<p begin="12858000000t" end="12869100000t" region="bottomCenter" style="s1" xml:id="subtitle521">要继续战斗下去</p>
+<p begin="12890700000t" end="12923900000t" region="bottomCenter" style="s1" xml:id="subtitle522">交わした約束忘れないよ</p>
+<p begin="12890700000t" end="12923900000t" region="bottomCenter" style="s1" xml:id="subtitle523">为了不忘记交换过的约定</p>
+<p begin="12923900000t" end="12947400000t" region="bottomCenter" style="s1" xml:id="subtitle524">目を閉じ確かめる</p>
+<p begin="12923900000t" end="12947400000t" region="bottomCenter" style="s1" xml:id="subtitle525">而闭上眼睛再次确定</p>
+<p begin="12947400000t" end="13002500000t" region="bottomCenter" style="s1" xml:id="subtitle526">押し寄せた闇　振り払って進むよ</p>
+<p begin="12947400000t" end="13002500000t" region="bottomCenter" style="s1" xml:id="subtitle527">驱散聚集的黑暗继续前进吧</p>
+<p begin="13117100000t" end="13162800000t" region="bottomCenter" style="s1" xml:id="subtitle528">いつになったらなくした未来を</p>
+<p begin="13117100000t" end="13162800000t" region="bottomCenter" style="s1" xml:id="subtitle529">要到什么时候  失去的未来</p>
+<p begin="13163300000t" end="13224200000t" region="bottomCenter" style="s1" xml:id="subtitle530">私ここでまた見ることできるの</p>
+<p begin="13163300000t" end="13224200000t" region="bottomCenter" style="s1" xml:id="subtitle531">我才能在这里再次眺望</p>
+<p begin="13226600000t" end="13271500000t" region="bottomCenter" style="s1" xml:id="subtitle532">溢れ出した不安の影を</p>
+<p begin="13226600000t" end="13271500000t" region="bottomCenter" style="s1" xml:id="subtitle533">无数次撕裂漫溢的不安的阴影</p>
+<p begin="13272400000t" end="13326600000t" region="bottomCenter" style="s1" xml:id="subtitle534">何度でも裂いてこの世界歩んでこう</p>
+<p begin="13272400000t" end="13326600000t" region="bottomCenter" style="s1" xml:id="subtitle535">在这世界上不断前行</p>
+<p begin="13328800000t" end="13383500000t" region="bottomCenter" style="s1" xml:id="subtitle536">とめどなく刻まれた</p>
+<p begin="13328800000t" end="13383500000t" region="bottomCenter" style="s1" xml:id="subtitle537">打上无尽的刻印的</p>
+<p begin="13384000000t" end="13438400000t" region="bottomCenter" style="s1" xml:id="subtitle538">時は今始まり告げ</p>
+<p begin="13384000000t" end="13438400000t" region="bottomCenter" style="s1" xml:id="subtitle539">时间此刻宣告着开始</p>
+<p begin="13438900000t" end="13489400000t" region="bottomCenter" style="s1" xml:id="subtitle540">変わらない思いをのせ</p>
+<p begin="13438900000t" end="13489400000t" region="bottomCenter" style="s1" xml:id="subtitle541">乘载着不变的思念</p>
+<p begin="13490000000t" end="13544200000t" region="bottomCenter" style="s1" xml:id="subtitle542">閉ざされた扉開けよう</p>
+<p begin="13490000000t" end="13544200000t" region="bottomCenter" style="s1" xml:id="subtitle543">去打开闭锁的门扉吧</p>
+<p begin="13544900000t" end="13577700000t" region="bottomCenter" style="s1" xml:id="subtitle544">目覚めた心は走り出した</p>
+<p begin="13544900000t" end="13602100000t" region="bottomCenter" style="s1" xml:id="subtitle545">苏醒的心为了描绘未来而奔跑</p>
+<p begin="13577700000t" end="13602100000t" region="bottomCenter" style="s1" xml:id="subtitle546">未来を描くため</p>
+<p begin="13602100000t" end="13654000000t" region="bottomCenter" style="s1" xml:id="subtitle547">難しい道で立ち止まっても空は</p>
+<p begin="13602100000t" end="13654000000t" region="bottomCenter" style="s1" xml:id="subtitle548">即使在泥泞的路上停滞不前天空也</p>
+<p begin="13654900000t" end="13701900000t" region="bottomCenter" style="s1" xml:id="subtitle549">きれいな青さでいつも待っててくれる</p>
+<p begin="13654900000t" end="13701900000t" region="bottomCenter" style="s1" xml:id="subtitle550">带着美丽的蔚蓝一直等待着我</p>
+<p begin="13701900000t" end="13723500000t" region="bottomCenter" style="s1" xml:id="subtitle551">だから怖くない</p>
+<p begin="13701900000t" end="13723500000t" region="bottomCenter" style="s1" xml:id="subtitle552">所以不用害怕</p>
+<p begin="13724000000t" end="13754000000t" region="bottomCenter" style="s1" xml:id="subtitle553">もう何があっても</p>
+<p begin="13724000000t" end="13754000000t" region="bottomCenter" style="s1" xml:id="subtitle554">无论发生什么</p>
+<p begin="13754500000t" end="13781300000t" region="bottomCenter" style="s1" xml:id="subtitle555">くじけない</p>
+<p begin="13754500000t" end="13781300000t" region="bottomCenter" style="s1" xml:id="subtitle556">也不会气馁</p>
+<p begin="13818800000t" end="13867800000t" region="bottomCenter" style="s1" xml:id="subtitle557">请君勿忘</p>
+<p begin="13818800000t" end="13867800000t" region="bottomCenter" style="s1" xml:id="subtitle558">茫茫俗世</p>
+<p begin="13818800000t" end="13867800000t" region="bottomCenter" style="s1" xml:id="subtitle559">总有一人  为卿而战</p>
+<p begin="13818800000t" end="13867800000t" region="bottomCenter" style="s1" xml:id="subtitle560">若心谨记</p>
+<p begin="13818800000t" end="13867800000t" region="bottomCenter" style="s1" xml:id="subtitle561">定无孤意</p>
+<p begin="14091400000t" end="14101200000t" region="bottomCenter" style="s1" xml:id="subtitle562">がんばって</p>
+<p begin="14091400000t" end="14101200000t" region="bottomCenter" style="s1" xml:id="subtitle563">加油</p>
+</div>
+</body>
+</tt>
