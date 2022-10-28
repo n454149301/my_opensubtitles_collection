@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="14300000t" end="29200000t" region="bottomCenter" style="s1" xml:id="subtitle0">845年</p>
+<p begin="39900000t" end="92900000t" region="bottomCenter" style="s1" xml:id="subtitle1">突然出现的超大型巨人与铠之巨人</p>
+<p begin="99100000t" end="134800000t" region="bottomCenter" style="s1" xml:id="subtitle2">将人类的所有日常生活连同墙壁一并摧毁</p>
+<p begin="165400000t" end="188400000t" region="bottomCenter" style="s1" xml:id="subtitle3">人类放弃了玛利亚之墙</p>
+<p begin="197900000t" end="229200000t" region="bottomCenter" style="s1" xml:id="subtitle4">失去了2成人口及3分之1的领土</p>
+<p begin="235800000t" end="273100000t" region="bottomCenter" style="s1" xml:id="subtitle5">并将活动领域退到了罗塞之墙以内</p>
+<p begin="303800000t" end="316700000t" region="bottomCenter" style="s1" xml:id="subtitle6">850年</p>
+<p begin="327500000t" end="371000000t" region="bottomCenter" style="s1" xml:id="subtitle7">墙壁被再次现身的超大型巨人摧毁</p>
+<p begin="376300000t" end="411000000t" region="bottomCenter" style="s1" xml:id="subtitle8">人类再一次让巨人成功侵入了墙内</p>
+<p begin="423500000t" end="456100000t" region="bottomCenter" style="s1" xml:id="subtitle9">士兵们接二连三地在巨人面前倒下</p>
+<p begin="465400000t" end="472900000t" region="bottomCenter" style="s1" xml:id="subtitle10">并且…</p>
+<p begin="480900000t" end="499100000t" region="bottomCenter" style="s1" xml:id="subtitle11">艾连  快…</p>
+<p begin="541900000t" end="574800000t" region="bottomCenter" style="s1" xml:id="subtitle12">一度成为巨人饵食的艾连·叶卡</p>
+<p begin="613700000t" end="652600000t" region="bottomCenter" style="s1" xml:id="subtitle13">从谜之巨人的体内再度显身</p>
+<p begin="679000000t" end="703600000t" region="bottomCenter" style="s1" xml:id="subtitle14">注意！</p>
+<p begin="714000000t" end="751900000t" region="bottomCenter" style="s1" xml:id="subtitle15">南部领土最高负责人  达特·皮克希斯</p>
+<p begin="756300000t" end="798800000t" region="bottomCenter" style="s1" xml:id="subtitle16">注意到了艾连·叶卡在战斗中巨人化的力量</p>
+<p begin="802500000t" end="834700000t" region="bottomCenter" style="s1" xml:id="subtitle17">下令决定执行一个奇计</p>
+<p begin="847000000t" end="873500000t" region="bottomCenter" style="s1" xml:id="subtitle18">巨人化后的他将举起巨石</p>
+<p begin="878300000t" end="906800000t" region="bottomCenter" style="s1" xml:id="subtitle19">搬至被破坏的门前  堵住洞口</p>
+<p begin="924400000t" end="940600000t" region="bottomCenter" style="s1" xml:id="subtitle20">而这个作战成功之时</p>
+<p begin="946700000t" end="994300000t" region="bottomCenter" style="s1" xml:id="subtitle21">人类将首次成功从巨人手中夺回领土</p>
+<p begin="1006700000t" end="1032700000t" region="bottomCenter" style="s1" xml:id="subtitle22">这一小步对我们人类而言</p>
+<p begin="1036700000t" end="1053200000t" region="bottomCenter" style="s1" xml:id="subtitle23">将成为一次伟大的进击！</p>
+<p begin="1089700000t" end="1119900000t" region="bottomCenter" style="s1" xml:id="subtitle24">然而  这场作战刚开始</p>
+<p begin="1124100000t" end="1141400000t" region="bottomCenter" style="s1" xml:id="subtitle25">就露出了失败的征兆</p>
+<p begin="1169500000t" end="1180200000t" region="bottomCenter" style="s1" xml:id="subtitle26">Seid ihr das Essen?</p>
+<p begin="1169500000t" end="1180200000t" region="bottomCenter" style="s1" xml:id="subtitle27">你们是食物吗？</p>
+<p begin="1169500000t" end="1180200000t" region="bottomCenter" style="s1" xml:id="subtitle28">Seid ihr das Essen?</p>
+<p begin="1169500000t" end="1180200000t" region="bottomCenter" style="s1" xml:id="subtitle29">你们是食物吗？</p>
+<p begin="1180200000t" end="1197100000t" region="bottomCenter" style="s1" xml:id="subtitle30">Nein, wir sind der Jäger!</p>
+<p begin="1180200000t" end="1197100000t" region="bottomCenter" style="s1" xml:id="subtitle31">不，我们是猎人！</p>
+<p begin="1180200000t" end="1197100000t" region="bottomCenter" style="s1" xml:id="subtitle32">Nein, wir sind der Jäger!</p>
+<p begin="1180200000t" end="1197100000t" region="bottomCenter" style="s1" xml:id="subtitle33">不，我们是猎人！</p>
+<p begin="1318000000t" end="1369400000t" region="bottomCenter" style="s1" xml:id="subtitle34">踏まれた花の  名前も知らずに</p>
+<p begin="1318000000t" end="1369400000t" region="bottomCenter" style="s1" xml:id="subtitle35">肆意践踏着未名之花</p>
+<p begin="1318000000t" end="1369400000t" region="bottomCenter" style="s1" xml:id="subtitle36">踏まれた花の  名前も知らずに</p>
+<p begin="1318000000t" end="1369400000t" region="bottomCenter" style="s1" xml:id="subtitle37">肆意践踏着未名之花</p>
+<p begin="1369400000t" end="1422600000t" region="bottomCenter" style="s1" xml:id="subtitle38">地に墜ちた鳥は  風を待ち侘びる</p>
+<p begin="1369400000t" end="1422600000t" region="bottomCenter" style="s1" xml:id="subtitle39">坠地雏鸟渴求着风之救赎</p>
+<p begin="1369400000t" end="1422600000t" region="bottomCenter" style="s1" xml:id="subtitle40">地に墜ちた鳥は  風を待ち侘びる</p>
+<p begin="1369400000t" end="1422600000t" region="bottomCenter" style="s1" xml:id="subtitle41">坠地雏鸟渴求着风之救赎</p>
+<p begin="1422600000t" end="1475400000t" region="bottomCenter" style="s1" xml:id="subtitle42">祈ったところで  何も変わらない</p>
+<p begin="1422600000t" end="1475400000t" region="bottomCenter" style="s1" xml:id="subtitle43">一次次祈祷只换来永恒的绝望</p>
+<p begin="1422600000t" end="1475400000t" region="bottomCenter" style="s1" xml:id="subtitle44">祈ったところで  何も変わらない</p>
+<p begin="1422600000t" end="1475400000t" region="bottomCenter" style="s1" xml:id="subtitle45">一次次祈祷只换来永恒的绝望</p>
+<p begin="1475400000t" end="1528400000t" region="bottomCenter" style="s1" xml:id="subtitle46">《不本意な現状》を変えるのは  闘う覚悟だ！</p>
+<p begin="1475400000t" end="1528400000t" region="bottomCenter" style="s1" xml:id="subtitle47">唯有战斗的觉悟才能改变现状！</p>
+<p begin="1475400000t" end="1528400000t" region="bottomCenter" style="s1" xml:id="subtitle48">《不本意な現状》を変えるのは  闘う覚悟だ！</p>
+<p begin="1475400000t" end="1528400000t" region="bottomCenter" style="s1" xml:id="subtitle49">唯有战斗的觉悟才能改变现状！</p>
+<p begin="1528400000t" end="1580200000t" region="bottomCenter" style="s1" xml:id="subtitle50">屍踏み越えて  進む意思を  嗤う豚よ</p>
+<p begin="1528400000t" end="1580200000t" region="bottomCenter" style="s1" xml:id="subtitle51">跨越尸骸毅然前行  隐忍猪猡们的耻笑</p>
+<p begin="1528400000t" end="1580200000t" region="bottomCenter" style="s1" xml:id="subtitle52">屍踏み越えて  進む意思を  嗤う豚よ</p>
+<p begin="1528400000t" end="1580200000t" region="bottomCenter" style="s1" xml:id="subtitle53">跨越尸骸毅然前行  隐忍猪猡们的耻笑</p>
+<p begin="1580200000t" end="1606600000t" region="bottomCenter" style="s1" xml:id="subtitle54">家畜の安寧  虚偽の繁栄</p>
+<p begin="1580200000t" end="1606600000t" region="bottomCenter" style="s1" xml:id="subtitle55">安于现状的家畜  极度虚伪的繁荣</p>
+<p begin="1580200000t" end="1606600000t" region="bottomCenter" style="s1" xml:id="subtitle56">家畜の安寧  虚偽の繁栄</p>
+<p begin="1580200000t" end="1606600000t" region="bottomCenter" style="s1" xml:id="subtitle57">安于现状的家畜  极度虚伪的繁荣</p>
+<p begin="1606600000t" end="1634400000t" region="bottomCenter" style="s1" xml:id="subtitle58">死せる餓狼の『自由』を！</p>
+<p begin="1606600000t" end="1634400000t" region="bottomCenter" style="s1" xml:id="subtitle59">僵死的饿狼必须重获自由！</p>
+<p begin="1606600000t" end="1634400000t" region="bottomCenter" style="s1" xml:id="subtitle60">死せる餓狼の『自由』を！</p>
+<p begin="1606600000t" end="1634400000t" region="bottomCenter" style="s1" xml:id="subtitle61">僵死的饿狼必须重获自由！</p>
+<p begin="1634400000t" end="1688000000t" region="bottomCenter" style="s1" xml:id="subtitle62">囚われた屈辱は  反撃の嚆だ</p>
+<p begin="1634400000t" end="1688000000t" region="bottomCenter" style="s1" xml:id="subtitle63">囚破之耻将化为反击的嚆矢</p>
+<p begin="1634400000t" end="1688000000t" region="bottomCenter" style="s1" xml:id="subtitle64">囚われた屈辱は  反撃の嚆だ</p>
+<p begin="1634400000t" end="1688000000t" region="bottomCenter" style="s1" xml:id="subtitle65">囚破之耻将化为反击的嚆矢</p>
+<p begin="1688000000t" end="1737800000t" region="bottomCenter" style="s1" xml:id="subtitle66">城壁のその彼方  獲物を屠る《狩人》</p>
+<p begin="1688000000t" end="1737800000t" region="bottomCenter" style="s1" xml:id="subtitle67">仇敌徘徊在城墙彼方  是那群杀伐屠戮的猎人</p>
+<p begin="1688000000t" end="1737800000t" region="bottomCenter" style="s1" xml:id="subtitle68">城壁のその彼方  獲物を屠る《狩人》</p>
+<p begin="1688000000t" end="1737800000t" region="bottomCenter" style="s1" xml:id="subtitle69">仇敌徘徊在城墙彼方  是那群杀伐屠戮的猎人</p>
+<p begin="1740800000t" end="1794400000t" region="bottomCenter" style="s1" xml:id="subtitle70">迸る《殺意》に  その身を灼きながら</p>
+<p begin="1740800000t" end="1794400000t" region="bottomCenter" style="s1" xml:id="subtitle71">忍受着难以自制的强烈杀意</p>
+<p begin="1740800000t" end="1794400000t" region="bottomCenter" style="s1" xml:id="subtitle72">迸る《殺意》に  その身を灼きながら</p>
+<p begin="1740800000t" end="1794400000t" region="bottomCenter" style="s1" xml:id="subtitle73">忍受着难以自制的强烈杀意</p>
+<p begin="1794400000t" end="1856800000t" region="bottomCenter" style="s1" xml:id="subtitle74">黄昏に緋を穿つ  紅蓮の弓矢</p>
+<p begin="1794400000t" end="1856800000t" region="bottomCenter" style="s1" xml:id="subtitle75">用鲜红的弓矢穿透晦暗的黄昏</p>
+<p begin="1794400000t" end="1856800000t" region="bottomCenter" style="s1" xml:id="subtitle76">黄昏に緋を穿つ  紅蓮の弓矢</p>
+<p begin="1794400000t" end="1856800000t" region="bottomCenter" style="s1" xml:id="subtitle77">用鲜红的弓矢穿透晦暗的黄昏</p>
+<p begin="2084900000t" end="2134900000t" region="bottomCenter" style="s1" xml:id="subtitle78">伤口</p>
+<p begin="2163900000t" end="2211400000t" region="bottomCenter" style="s1" xml:id="subtitle79">虽然我们终于成功将大部分巨人都聚到了墙角</p>
+<p begin="2218900000t" end="2241300000t" region="bottomCenter" style="s1" xml:id="subtitle80">但就算我们极力避免战斗</p>
+<p begin="2246800000t" end="2267100000t" region="bottomCenter" style="s1" xml:id="subtitle81">还是损失了大约2成士兵</p>
+<p begin="2281500000t" end="2299400000t" region="bottomCenter" style="s1" xml:id="subtitle82">不是损失了</p>
+<p begin="2308900000t" end="2331900000t" region="bottomCenter" style="s1" xml:id="subtitle83">士兵们并不是自己去送死</p>
+<p begin="2355700000t" end="2380100000t" region="bottomCenter" style="s1" xml:id="subtitle84">而是我命令他们去死的</p>
+<p begin="2400700000t" end="2426100000t" region="bottomCenter" style="s1" xml:id="subtitle85">现在正是人类生死存亡的紧要关头</p>
+<p begin="2434000000t" end="2458600000t" region="bottomCenter" style="s1" xml:id="subtitle86">只要能让人类活下来</p>
+<p begin="2465700000t" end="2490600000t" region="bottomCenter" style="s1" xml:id="subtitle87">就算被人叫成刽子手我也不在乎</p>
+<p begin="2669500000t" end="2677700000t" region="bottomCenter" style="s1" xml:id="subtitle88">阿卡曼</p>
+<p begin="2805200000t" end="2823400000t" region="bottomCenter" style="s1" xml:id="subtitle89">喂  阿卡曼  快住手</p>
+<p begin="2826500000t" end="2839900000t" region="bottomCenter" style="s1" xml:id="subtitle90">快远离那家伙</p>
+<p begin="2841800000t" end="2864700000t" region="bottomCenter" style="s1" xml:id="subtitle91">艾连  你不认得我了吗</p>
+<p begin="2868400000t" end="2880100000t" region="bottomCenter" style="s1" xml:id="subtitle92">我是三笠</p>
+<p begin="2885000000t" end="2892100000t" region="bottomCenter" style="s1" xml:id="subtitle93">是你的…</p>
+<p begin="2898600000t" end="2906500000t" region="bottomCenter" style="s1" xml:id="subtitle94">…家人</p>
+<p begin="2911100000t" end="2940500000t" region="bottomCenter" style="s1" xml:id="subtitle95">你必须用那个石头堵住洞口</p>
+<p begin="2951300000t" end="2966300000t" region="bottomCenter" style="s1" xml:id="subtitle96">作战失败了</p>
+<p begin="2974800000t" end="3014800000t" region="bottomCenter" style="s1" xml:id="subtitle97">我早就知道  根本就没有什么秘密武器</p>
+<p begin="3067900000t" end="3086900000t" region="bottomCenter" style="s1" xml:id="subtitle98">艾连  你是人类</p>
+<p begin="3089500000t" end="3097000000t" region="bottomCenter" style="s1" xml:id="subtitle99">你是…</p>
+<p begin="3104500000t" end="3116500000t" region="bottomCenter" style="s1" xml:id="subtitle100">快躲开  阿卡曼</p>
+<p begin="3266900000t" end="3279100000t" region="bottomCenter" style="s1" xml:id="subtitle101">那家伙怎么回事</p>
+<p begin="3285500000t" end="3306900000t" region="bottomCenter" style="s1" xml:id="subtitle102">他和脑子不好使的普通巨人根本就没什么区别啊</p>
+<p begin="3306900000t" end="3312700000t" region="bottomCenter" style="s1" xml:id="subtitle103">艾连</p>
+<p begin="3314300000t" end="3347100000t" region="bottomCenter" style="s1" xml:id="subtitle104">伊安队长  前方有两只巨人接近</p>
+<p begin="3350000000t" end="3370800000t" region="bottomCenter" style="s1" xml:id="subtitle105">是10米级和6米级</p>
+<p begin="3377200000t" end="3388200000t" region="bottomCenter" style="s1" xml:id="subtitle106">后方也来了一只</p>
+<p begin="3390500000t" end="3414100000t" region="bottomCenter" style="s1" xml:id="subtitle107">是12米级  正朝这边走来</p>
+<p begin="3440200000t" end="3451900000t" region="bottomCenter" style="s1" xml:id="subtitle108">伊安  我们撤吧</p>
+<p begin="3458100000t" end="3488200000t" region="bottomCenter" style="s1" xml:id="subtitle109">如今那小鬼的样子  还谈什么堵门</p>
+<p begin="3490500000t" end="3527600000t" region="bottomCenter" style="s1" xml:id="subtitle110">嗯  虽然很不情愿  但只能把他丢下了</p>
+<p begin="3606500000t" end="3632400000t" region="bottomCenter" style="s1" xml:id="subtitle111">确认到精英小队发出的红色烟雾弹</p>
+<p begin="3637000000t" end="3672100000t" region="bottomCenter" style="s1" xml:id="subtitle112">封门作战似乎出现了重大问题</p>
+<p begin="3683100000t" end="3722800000t" region="bottomCenter" style="s1" xml:id="subtitle113">白死了  伙伴们都白死了啊…</p>
+<p begin="3756100000t" end="3770900000t" region="bottomCenter" style="s1" xml:id="subtitle114">喂  快看那个</p>
+<p begin="3773300000t" end="3786600000t" region="bottomCenter" style="s1" xml:id="subtitle115">怎么了  出什么事了</p>
+<p begin="3797800000t" end="3820200000t" region="bottomCenter" style="s1" xml:id="subtitle116">失败…了吗</p>
+<p begin="3826800000t" end="3834100000t" region="bottomCenter" style="s1" xml:id="subtitle117">为什么</p>
+<p begin="3883300000t" end="3904200000t" region="bottomCenter" style="s1" xml:id="subtitle118">喂  阿尔敏你去哪里</p>
+<p begin="3915900000t" end="3959600000t" region="bottomCenter" style="s1" xml:id="subtitle119">皮克希斯司令  如今应该立即恢复防御大门的部署</p>
+<p begin="3963100000t" end="3971400000t" region="bottomCenter" style="s1" xml:id="subtitle120">您看如何</p>
+<p begin="3974000000t" end="3980700000t" region="bottomCenter" style="s1" xml:id="subtitle121">不可</p>
+<p begin="3991700000t" end="4011300000t" region="bottomCenter" style="s1" xml:id="subtitle122">向精英小队发出撤退命令吧…</p>
+<p begin="4012900000t" end="4019900000t" region="bottomCenter" style="s1" xml:id="subtitle123">不需要</p>
+<p begin="4022800000t" end="4056700000t" region="bottomCenter" style="s1" xml:id="subtitle124">让士兵们接着把巨人吸引向城镇角落</p>
+<p begin="4070500000t" end="4106900000t" region="bottomCenter" style="s1" xml:id="subtitle125">至于精英小队  我把现场决定权交给他们了</p>
+<p begin="4113500000t" end="4131600000t" region="bottomCenter" style="s1" xml:id="subtitle126">他们不只是技艺高超</p>
+<p begin="4135700000t" end="4170800000t" region="bottomCenter" style="s1" xml:id="subtitle127">而是身负全人类命运的精英中的精英</p>
+<p begin="4180700000t" end="4217200000t" region="bottomCenter" style="s1" xml:id="subtitle128">我可不允许他们轻易服输</p>
+<p begin="4223600000t" end="4253200000t" region="bottomCenter" style="s1" xml:id="subtitle129">为了不让死去的士兵白白牺牲</p>
+<p begin="4265000000t" end="4296400000t" region="bottomCenter" style="s1" xml:id="subtitle130">他们只要还有一口气在  就必须继续顽抗</p>
+<p begin="4309500000t" end="4327100000t" region="bottomCenter" style="s1" xml:id="subtitle131">喂  你犹豫什么呢</p>
+<p begin="4327100000t" end="4336700000t" region="bottomCenter" style="s1" xml:id="subtitle132">快下令啊</p>
+<p begin="4340500000t" end="4359100000t" region="bottomCenter" style="s1" xml:id="subtitle133">伊安  这不是你的错</p>
+<p begin="4364400000t" end="4384900000t" region="bottomCenter" style="s1" xml:id="subtitle134">这场作战从一开始就几乎毫无根据可言</p>
+<p begin="4389700000t" end="4399300000t" region="bottomCenter" style="s1" xml:id="subtitle135">大家都明白</p>
+<p begin="4402900000t" end="4418300000t" region="bottomCenter" style="s1" xml:id="subtitle136">虽然这确实有一试的价值</p>
+<p begin="4420100000t" end="4435600000t" region="bottomCenter" style="s1" xml:id="subtitle137">但我们已经试过了！</p>
+<p begin="4445500000t" end="4470600000t" region="bottomCenter" style="s1" xml:id="subtitle138">告诉你  我们小队要登上城墙了</p>
+<p begin="4501500000t" end="4508100000t" region="bottomCenter" style="s1" xml:id="subtitle139">住手</p>
+<p begin="4517700000t" end="4524500000t" region="bottomCenter" style="s1" xml:id="subtitle140">等等…</p>
+<p begin="4530500000t" end="4540400000t" region="bottomCenter" style="s1" xml:id="subtitle141">冷静点  阿卡曼</p>
+<p begin="4548400000t" end="4574000000t" region="bottomCenter" style="s1" xml:id="subtitle142">里柯小队  去干掉后方的12米级巨人</p>
+<p begin="4583700000t" end="4602800000t" region="bottomCenter" style="s1" xml:id="subtitle143">米塔比小队和我的小队负责前方的两只</p>
+<p begin="4606100000t" end="4616200000t" region="bottomCenter" style="s1" xml:id="subtitle144">你说什么！</p>
+<p begin="4617300000t" end="4632700000t" region="bottomCenter" style="s1" xml:id="subtitle145">被认命为指挥官的人是我</p>
+<p begin="4641000000t" end="4655400000t" region="bottomCenter" style="s1" xml:id="subtitle146">给我闭上嘴乖乖服从命令</p>
+<p begin="4667600000t" end="4692200000t" region="bottomCenter" style="s1" xml:id="subtitle147">我们不能将叶卡毫无防备地丢在这</p>
+<p begin="4706600000t" end="4717000000t" region="bottomCenter" style="s1" xml:id="subtitle148">作战目标变更</p>
+<p begin="4722600000t" end="4753200000t" region="bottomCenter" style="s1" xml:id="subtitle149">在回收叶卡前  保护他不受巨人攻击</p>
+<p begin="4762000000t" end="4785300000t" region="bottomCenter" style="s1" xml:id="subtitle150">对人类来说  他是宝贵的可能性</p>
+<p begin="4791300000t" end="4809300000t" region="bottomCenter" style="s1" xml:id="subtitle151">不是可以随便就放弃的东西</p>
+<p begin="4818000000t" end="4854100000t" region="bottomCenter" style="s1" xml:id="subtitle152">他和我们不同  没人能代替他的位置</p>
+<p begin="4859900000t" end="4882600000t" region="bottomCenter" style="s1" xml:id="subtitle153">为了那个饭桶人体兵器</p>
+<p begin="4885700000t" end="4910900000t" region="bottomCenter" style="s1" xml:id="subtitle154">光是这次作战大概就已经死掉了数百人</p>
+<p begin="4914300000t" end="4948400000t" region="bottomCenter" style="s1" xml:id="subtitle155">你要我们回收他  然后再让他重复这种事吗</p>
+<p begin="4952400000t" end="4962100000t" region="bottomCenter" style="s1" xml:id="subtitle156">没错</p>
+<p begin="4965200000t" end="4994600000t" region="bottomCenter" style="s1" xml:id="subtitle157">不管死多少人  我们也要不断尝试</p>
+<p begin="5065000000t" end="5083300000t" region="bottomCenter" style="s1" xml:id="subtitle158">艾连那家伙怎么了</p>
+<p begin="5090100000t" end="5105300000t" region="bottomCenter" style="s1" xml:id="subtitle159">阿尔敏已经一个人赶去了</p>
+<p begin="5111300000t" end="5131590000t" region="bottomCenter" style="s1" xml:id="subtitle160">大概没事吧…</p>
+<p begin="5136200000t" end="5141790000t" region="bottomCenter" style="s1" xml:id="subtitle161">大概？</p>
+<p begin="5147890000t" end="5165490000t" region="bottomCenter" style="s1" xml:id="subtitle162">一定没事的</p>
+<p begin="5172700000t" end="5182300000t" region="bottomCenter" style="s1" xml:id="subtitle163">艾连肯定能成功</p>
+<p begin="5202300000t" end="5242600000t" region="bottomCenter" style="s1" xml:id="subtitle164">我觉得把巨人聚在城镇的角落完全就是白费功夫</p>
+<p begin="5245500000t" end="5279100000t" region="bottomCenter" style="s1" xml:id="subtitle165">与巨人之间的战争势必会演变成消耗战</p>
+<p begin="5282100000t" end="5312400000t" region="bottomCenter" style="s1" xml:id="subtitle166">大概他们只是不想在现阶段损失兵力吧</p>
+<p begin="5336500000t" end="5366500000t" region="bottomCenter" style="s1" xml:id="subtitle167">你是说现阶段牺牲的士兵都白死了吗</p>
+<p begin="5374100000t" end="5388200000t" region="bottomCenter" style="s1" xml:id="subtitle168">我们迟早会迎来总体战的</p>
+<p begin="5392100000t" end="5439600000t" region="bottomCenter" style="s1" xml:id="subtitle169">为了将兵力保存到那一刻  当然要将牺牲减少到最小</p>
+<p begin="5447300000t" end="5456900000t" region="bottomCenter" style="s1" xml:id="subtitle170">上头是对的</p>
+<p begin="5460100000t" end="5475400000t" region="bottomCenter" style="s1" xml:id="subtitle171">真是这样吗…</p>
+<p begin="5476500000t" end="5487700000t" region="bottomCenter" style="s1" xml:id="subtitle172">当然是！</p>
+<p begin="5497000000t" end="5526600000t" region="bottomCenter" style="s1" xml:id="subtitle173">好吧  那就尽量不要造成损失吧</p>
+<p begin="5533200000t" end="5542300000t" region="bottomCenter" style="s1" xml:id="subtitle174">你我也一样…</p>
+<p begin="5554000000t" end="5568200000t" region="bottomCenter" style="s1" xml:id="subtitle175">伊安  你是认真的吗</p>
+<p begin="5573200000t" end="5598300000t" region="bottomCenter" style="s1" xml:id="subtitle176">那你说我们人类该如何战胜巨人</p>
+<p begin="5601800000t" end="5617700000t" region="bottomCenter" style="s1" xml:id="subtitle177">里柯  告诉我</p>
+<p begin="5622600000t" end="5647700000t" region="bottomCenter" style="s1" xml:id="subtitle178">除此之外我们还有什么办法能打破现在的局面</p>
+<p begin="5653500000t" end="5667900000t" region="bottomCenter" style="s1" xml:id="subtitle179">一直死抱着我们的人性不放</p>
+<p begin="5670800000t" end="5682600000t" region="bottomCenter" style="s1" xml:id="subtitle180">不想牺牲任何人</p>
+<p begin="5685800000t" end="5721800000t" region="bottomCenter" style="s1" xml:id="subtitle181">该如何战胜巨人那压倒性的力量！</p>
+<p begin="5730900000t" end="5766600000t" region="bottomCenter" style="s1" xml:id="subtitle182">我怎么知道该如何战胜巨人</p>
+<p begin="5793500000t" end="5826300000t" region="bottomCenter" style="s1" xml:id="subtitle183">所以我们现在该做的就只有这一件事</p>
+<p begin="5835300000t" end="5861800000t" region="bottomCenter" style="s1" xml:id="subtitle184">就是为了那个什么莫名其妙的人体兵器</p>
+<p begin="5874100000t" end="5905500000t" region="bottomCenter" style="s1" xml:id="subtitle185">豁出性命  英勇就义</p>
+<p begin="5919900000t" end="5926000000t" region="bottomCenter" style="s1" xml:id="subtitle186">很可悲吧</p>
+<p begin="5938300000t" end="5968500000t" region="bottomCenter" style="s1" xml:id="subtitle187">我们人类唯一能做到的就是这个</p>
+<p begin="5981500000t" end="6001000000t" region="bottomCenter" style="s1" xml:id="subtitle188">好了  你们要怎么做</p>
+<p begin="6010300000t" end="6029200000t" region="bottomCenter" style="s1" xml:id="subtitle189">这是我们能办到的战斗</p>
+<p begin="6042000000t" end="6058500000t" region="bottomCenter" style="s1" xml:id="subtitle190">这是我们仅剩的挣扎方式</p>
+<p begin="6165700000t" end="6187600000t" region="bottomCenter" style="s1" xml:id="subtitle191">这种说法我没法认同</p>
+<p begin="6195400000t" end="6201500000t" region="bottomCenter" style="s1" xml:id="subtitle192">里柯！</p>
+<p begin="6212500000t" end="6225800000t" region="bottomCenter" style="s1" xml:id="subtitle193">我会服从作战命令的</p>
+<p begin="6237700000t" end="6261300000t" region="bottomCenter" style="s1" xml:id="subtitle194">我认为你的话是正确的</p>
+<p begin="6271600000t" end="6311700000t" region="bottomCenter" style="s1" xml:id="subtitle195">我要拚死挣扎  让它们尝尝我们人类的厉害</p>
+<p begin="6321800000t" end="6342100000t" region="bottomCenter" style="s1" xml:id="subtitle196">白白送死这种事我绝不认同</p>
+<p begin="6350800000t" end="6381500000t" region="bottomCenter" style="s1" xml:id="subtitle197">后方的12米级巨人就交给我们小队吧</p>
+<p begin="6419400000t" end="6446500000t" region="bottomCenter" style="s1" xml:id="subtitle198">走吧  我们来对付前面的那两只</p>
+<p begin="6449700000t" end="6453800000t" region="bottomCenter" style="s1" xml:id="subtitle199">嗯</p>
+<p begin="6491700000t" end="6512200000t" region="bottomCenter" style="s1" xml:id="subtitle200">谢谢你  伊安队长</p>
+<p begin="6515700000t" end="6538600000t" region="bottomCenter" style="s1" xml:id="subtitle201">阿卡曼  用不着谢我</p>
+<p begin="6550000000t" end="6582300000t" region="bottomCenter" style="s1" xml:id="subtitle202">虽然不知道你会干出什么事这点让我有些害怕</p>
+<p begin="6592400000t" end="6611900000t" region="bottomCenter" style="s1" xml:id="subtitle203">不过你就按之前作战计划中定的那样  自由行动吧</p>
+<p begin="6617000000t" end="6637500000t" region="bottomCenter" style="s1" xml:id="subtitle204">那样才能让你的能力得到发挥吧</p>
+<p begin="6645500000t" end="6649700000t" region="bottomCenter" style="s1" xml:id="subtitle205">是的</p>
+<p begin="6660700000t" end="6678300000t" region="bottomCenter" style="s1" xml:id="subtitle206">这可是为了保护你的恋人啊</p>
+<p begin="6689500000t" end="6699300000t" region="bottomCenter" style="s1" xml:id="subtitle207">是家人啦…</p>
+<p begin="6766600000t" end="6771400000t" region="bottomCenter" style="s1" xml:id="subtitle208">咦？</p>
+<p begin="6782100000t" end="6803900000t" region="bottomCenter" style="s1" xml:id="subtitle209">受损的部分没有自动修复？</p>
+<p begin="6812200000t" end="6827400000t" region="bottomCenter" style="s1" xml:id="subtitle210">是之前受伤的原因吗</p>
+<p begin="6853500000t" end="6866600000t" region="bottomCenter" style="s1" xml:id="subtitle211">那个对艾连会有影响吗</p>
+<p begin="6872100000t" end="6910900000t" region="bottomCenter" style="s1" xml:id="subtitle212">说到底  谁能保证艾连能恢复到原样？</p>
+<p begin="6926500000t" end="6934600000t" region="bottomCenter" style="s1" xml:id="subtitle213">不  别想了</p>
+<p begin="6939900000t" end="6959100000t" region="bottomCenter" style="s1" xml:id="subtitle214">我就算想也想不明白的</p>
+<p begin="6967400000t" end="6994100000t" region="bottomCenter" style="s1" xml:id="subtitle215">我现在只需做我能做到的事</p>
+<p begin="7082900000t" end="7101200000t" region="bottomCenter" style="s1" xml:id="subtitle216">艾连  三笠…</p>
+<p begin="7107700000t" end="7117700000t" region="bottomCenter" style="s1" xml:id="subtitle217">究竟发生了什么…</p>
+<p begin="7264700000t" end="7314700000t" region="bottomCenter" style="s1" xml:id="subtitle218">▇</p>
+<p begin="7264700000t" end="7314700000t" region="bottomCenter" style="s1" xml:id="subtitle219">目前可以公开的情报</p>
+<p begin="7314800000t" end="7364700000t" region="bottomCenter" style="s1" xml:id="subtitle220">▇</p>
+<p begin="7314800000t" end="7364700000t" region="bottomCenter" style="s1" xml:id="subtitle221">目前可以公开的情报</p>
+<p begin="7405300000t" end="7411700000t" region="bottomCenter" style="s1" xml:id="subtitle222">奇怪</p>
+<p begin="7421700000t" end="7430400000t" region="bottomCenter" style="s1" xml:id="subtitle223">我…</p>
+<p begin="7447000000t" end="7470400000t" region="bottomCenter" style="s1" xml:id="subtitle224">现在在干什么</p>
+<p begin="7482100000t" end="7495000000t" region="bottomCenter" style="s1" xml:id="subtitle225">我在坐着吗？</p>
+<p begin="7507800000t" end="7542700000t" region="bottomCenter" style="s1" xml:id="subtitle226">什么都看不见  今天是几号啊</p>
+<p begin="7562700000t" end="7570500000t" region="bottomCenter" style="s1" xml:id="subtitle227">这里是…</p>
+<p begin="7639000000t" end="7645400000t" region="bottomCenter" style="s1" xml:id="subtitle228">什么嘛</p>
+<p begin="7660100000t" end="7668500000t" region="bottomCenter" style="s1" xml:id="subtitle229">原来是在家啊</p>
+<p begin="7745100000t" end="7752100000t" region="bottomCenter" style="s1" xml:id="subtitle230">睡觉吧</p>
+<p begin="7833100000t" end="7839700000t" region="bottomCenter" style="s1" xml:id="subtitle231">艾连</p>
+<p begin="7861700000t" end="7880800000t" region="bottomCenter" style="s1" xml:id="subtitle232">你在干什么啊  艾连</p>
+<p begin="7899300000t" end="7943300000t" region="bottomCenter" style="s1" xml:id="subtitle233">听好了  总之不能让巨人从那角落里离开</p>
+<p begin="7950900000t" end="7976900000t" region="bottomCenter" style="s1" xml:id="subtitle234">你们只需专心把它们吸引过来</p>
+<p begin="7985300000t" end="8018400000t" region="bottomCenter" style="s1" xml:id="subtitle235">明白吗  你们不必跟它们战斗</p>
+<p begin="8024800000t" end="8051200000t" region="bottomCenter" style="s1" xml:id="subtitle236">训练兵3人一组  在地上吸引它们</p>
+<p begin="8056800000t" end="8088800000t" region="bottomCenter" style="s1" xml:id="subtitle237">到达墙边就登上城墙  别给我死了啊</p>
+<p begin="8093100000t" end="8118500000t" region="bottomCenter" style="s1" xml:id="subtitle238">万一出现遗漏的巨人  就交给我们解决</p>
+<p begin="8131000000t" end="8142700000t" region="bottomCenter" style="s1" xml:id="subtitle239">万一？</p>
+<p begin="8146900000t" end="8168900000t" region="bottomCenter" style="s1" xml:id="subtitle240">这明明是十分之一左右的机率啊</p>
+<p begin="8172100000t" end="8192500000t" region="bottomCenter" style="s1" xml:id="subtitle241">如果察觉到危险</p>
+<p begin="8195000000t" end="8216100000t" region="bottomCenter" style="s1" xml:id="subtitle242">我们可以视情况自主行动吗</p>
+<p begin="8221700000t" end="8239500000t" region="bottomCenter" style="s1" xml:id="subtitle243">如果你们觉得能起作用就行</p>
+<p begin="8266400000t" end="8281400000t" region="bottomCenter" style="s1" xml:id="subtitle244">基尔休坦小队  开始作战</p>
+<p begin="8282400000t" end="8286700000t" region="bottomCenter" style="s1" xml:id="subtitle245">是</p>
+<p begin="8483700000t" end="8495800000t" region="bottomCenter" style="s1" xml:id="subtitle246">糟糕  看后面！</p>
+<p begin="8509300000t" end="8543700000t" region="bottomCenter" style="s1" xml:id="subtitle247">13米级一只  正在接近叶卡</p>
+<p begin="8551000000t" end="8575800000t" region="bottomCenter" style="s1" xml:id="subtitle248">大门也有新的巨人入侵</p>
+<p begin="8586200000t" end="8604000000t" region="bottomCenter" style="s1" xml:id="subtitle249">估计是4只10米级</p>
+<p begin="8610700000t" end="8627800000t" region="bottomCenter" style="s1" xml:id="subtitle250">阿卡曼  后方交给你</p>
+<p begin="8628800000t" end="8635000000t" region="bottomCenter" style="s1" xml:id="subtitle251">了解</p>
+<p begin="8637100000t" end="8655500000t" region="bottomCenter" style="s1" xml:id="subtitle252">别让它们接近叶卡</p>
+<p begin="8663700000t" end="8676000000t" region="bottomCenter" style="s1" xml:id="subtitle253">在这里挡住它们</p>
+<p begin="8677100000t" end="8681900000t" region="bottomCenter" style="s1" xml:id="subtitle254">了解</p>
+<p begin="8689400000t" end="8701100000t" region="bottomCenter" style="s1" xml:id="subtitle255">就算是精英小队</p>
+<p begin="8703800000t" end="8719300000t" region="bottomCenter" style="s1" xml:id="subtitle256">两队同时对付4只巨人也实在是…</p>
+<p begin="8877600000t" end="8911700000t" region="bottomCenter" style="s1" xml:id="subtitle257">怎么这样  为什么会有这么多巨人</p>
+<p begin="8920800000t" end="8936100000t" region="bottomCenter" style="s1" xml:id="subtitle258">我们人数明明这么少</p>
+<p begin="8944100000t" end="8975300000t" region="bottomCenter" style="s1" xml:id="subtitle259">难道是被艾连吸引过来的吗？</p>
+<p begin="8980600000t" end="8987800000t" region="bottomCenter" style="s1" xml:id="subtitle260">三笠</p>
+<p begin="8997300000t" end="9009600000t" region="bottomCenter" style="s1" xml:id="subtitle261">作战怎样了</p>
+<p begin="9011500000t" end="9018200000t" region="bottomCenter" style="s1" xml:id="subtitle262">阿尔敏</p>
+<p begin="9023200000t" end="9039700000t" region="bottomCenter" style="s1" xml:id="subtitle263">艾连他怎么了</p>
+<p begin="9044000000t" end="9057400000t" region="bottomCenter" style="s1" xml:id="subtitle264">很危险  快离开</p>
+<p begin="9061400000t" end="9088000000t" region="bottomCenter" style="s1" xml:id="subtitle265">那个巨人不具有艾连的意志</p>
+<p begin="9094100000t" end="9116000000t" region="bottomCenter" style="s1" xml:id="subtitle266">我对他说话也毫无反应</p>
+<p begin="9120000000t" end="9138900000t" region="bottomCenter" style="s1" xml:id="subtitle267">不管换谁都一样没意义</p>
+<p begin="9141900000t" end="9149600000t" region="bottomCenter" style="s1" xml:id="subtitle268">那作战呢？</p>
+<p begin="9151200000t" end="9161700000t" region="bottomCenter" style="s1" xml:id="subtitle269">失败了</p>
+<p begin="9165900000t" end="9193700000t" region="bottomCenter" style="s1" xml:id="subtitle270">不能丢下艾连  所以大家都在战斗</p>
+<p begin="9197600000t" end="9214100000t" region="bottomCenter" style="s1" xml:id="subtitle271">但是这样下去…</p>
+<p begin="9218500000t" end="9240300000t" region="bottomCenter" style="s1" xml:id="subtitle272">巨人越来越多  我们只会全军覆没</p>
+<p begin="9354900000t" end="9374500000t" region="bottomCenter" style="s1" xml:id="subtitle273">头部下方后颈部…</p>
+<p begin="9383800000t" end="9414200000t" region="bottomCenter" style="s1" xml:id="subtitle274">长1米  宽10厘米</p>
+<p begin="9421400000t" end="9428800000t" region="bottomCenter" style="s1" xml:id="subtitle275">阿尔敏！</p>
+<p begin="9431800000t" end="9449900000t" region="bottomCenter" style="s1" xml:id="subtitle276">我要把艾连从这里拖出来</p>
+<p begin="9453600000t" end="9479700000t" region="bottomCenter" style="s1" xml:id="subtitle277">三笠你别让巨人接近这里</p>
+<p begin="9492900000t" end="9499700000t" region="bottomCenter" style="s1" xml:id="subtitle278">你要干什么？</p>
+<p begin="9512800000t" end="9540900000t" region="bottomCenter" style="s1" xml:id="subtitle279">艾连曾经从巨人的弱点处现身</p>
+<p begin="9558700000t" end="9604800000t" region="bottomCenter" style="s1" xml:id="subtitle280">这恐怕和巨人的本质之谜有关</p>
+<p begin="9614500000t" end="9644000000t" region="bottomCenter" style="s1" xml:id="subtitle281">别担心  只要避开中央要害…</p>
+<p begin="9658700000t" end="9675200000t" region="bottomCenter" style="s1" xml:id="subtitle282">就不会死</p>
+<p begin="9677600000t" end="9699500000t" region="bottomCenter" style="s1" xml:id="subtitle283">只是会…</p>
+<p begin="9709400000t" end="9724000000t" region="bottomCenter" style="s1" xml:id="subtitle284">有点痛而已！</p>
+<p begin="9724000000t" end="9732500000t" region="bottomCenter" style="s1" xml:id="subtitle285">阿尔敏！</p>
+<p begin="9833400000t" end="9851500000t" region="bottomCenter" style="s1" xml:id="subtitle286">阿尔敏  别乱来</p>
+<p begin="9852900000t" end="9883800000t" region="bottomCenter" style="s1" xml:id="subtitle287">三笠  现在快去做你能做的事</p>
+<p begin="9884900000t" end="9909100000t" region="bottomCenter" style="s1" xml:id="subtitle288">你过去的话  一定会有人因你而得救</p>
+<p begin="9911300000t" end="9932300000t" region="bottomCenter" style="s1" xml:id="subtitle289">艾连就交给我  你快走</p>
+<p begin="10009400000t" end="10027800000t" region="bottomCenter" style="s1" xml:id="subtitle290">艾连  能听见吗</p>
+<p begin="10033400000t" end="10045700000t" region="bottomCenter" style="s1" xml:id="subtitle291">你要振作啊</p>
+<p begin="10051000000t" end="10077700000t" region="bottomCenter" style="s1" xml:id="subtitle292">如果你不出来  我们大家都会死</p>
+<p begin="10081900000t" end="10103800000t" region="bottomCenter" style="s1" xml:id="subtitle293">别输给巨人的身体</p>
+<p begin="10107000000t" end="10146200000t" region="bottomCenter" style="s1" xml:id="subtitle294">总之快点从这团肉块里出来</p>
+<p begin="10153600000t" end="10169600000t" region="bottomCenter" style="s1" xml:id="subtitle295">要我从这里出去？</p>
+<p begin="10180500000t" end="10189600000t" region="bottomCenter" style="s1" xml:id="subtitle296">为什么…</p>
+<p begin="10200000000t" end="10221600000t" region="bottomCenter" style="s1" xml:id="subtitle297">我现在很困啊…</p>
+<p begin="10227300000t" end="10247800000t" region="bottomCenter" style="s1" xml:id="subtitle298">艾连  快出来</p>
+<p begin="10252600000t" end="10285890000t" region="bottomCenter" style="s1" xml:id="subtitle299">快啊  艾连  艾连</p>
+<p begin="10332000000t" end="10359500000t" region="bottomCenter" style="s1" xml:id="subtitle300">你妈妈的仇不报了吗</p>
+<p begin="10362400000t" end="10384100000t" region="bottomCenter" style="s1" xml:id="subtitle301">你不是要把巨人全都赶走吗？</p>
+<p begin="10388490000t" end="10418190000t" region="bottomCenter" style="s1" xml:id="subtitle302">你不是痛恨杀死你妈妈的家伙吗？</p>
+<p begin="10432600000t" end="10452100000t" region="bottomCenter" style="s1" xml:id="subtitle303">你在说什么啊  阿尔敏</p>
+<p begin="10470200000t" end="10495200000t" region="bottomCenter" style="s1" xml:id="subtitle304">妈妈就在这里啊</p>
+<p begin="10506100000t" end="10534200000t" region="bottomCenter" style="s1" xml:id="subtitle305">艾连  艾连快醒醒</p>
+<p begin="10535000000t" end="10569100000t" region="bottomCenter" style="s1" xml:id="subtitle306">艾连  你在这里面吧  艾连</p>
+<p begin="10570200000t" end="10598500000t" region="bottomCenter" style="s1" xml:id="subtitle307">你继续待在里面的话会被巨人杀死的</p>
+<p begin="10604600000t" end="10622400000t" region="bottomCenter" style="s1" xml:id="subtitle308">这样一切都完了</p>
+<p begin="10641300000t" end="10682200000t" region="bottomCenter" style="s1" xml:id="subtitle309">都说了我不懂你在说什么啊  阿尔敏</p>
+<p begin="10711700000t" end="10736100000t" region="bottomCenter" style="s1" xml:id="subtitle310">为什么非得出去不可…</p>
+<p begin="10742100000t" end="10777900000t" region="bottomCenter" style="s1" xml:id="subtitle311">是啊  为什么一定要出去…</p>
+<p begin="10820800000t" end="10841400000t" region="bottomCenter" style="s1" xml:id="subtitle312">为什么要加入调查兵团…</p>
+<p begin="10937600000t" end="10963800000t" region="bottomCenter" style="s1" xml:id="subtitle313">事到如今  我们只能根据自己判断行动了</p>
+<p begin="11073600000t" end="11087200000t" region="bottomCenter" style="s1" xml:id="subtitle314">得手了</p>
+<p begin="11151500000t" end="11175300000t" region="bottomCenter" style="s1" xml:id="subtitle315">总算死了  该死的家伙</p>
+<p begin="11234400000t" end="11246100000t" region="bottomCenter" style="s1" xml:id="subtitle316">先拉开距离</p>
+<p begin="11247700000t" end="11260000000t" region="bottomCenter" style="s1" xml:id="subtitle317">阿卡曼现已归队</p>
+<p begin="11265900000t" end="11281700000t" region="bottomCenter" style="s1" xml:id="subtitle318">与米塔比小队会合</p>
+<p begin="11386900000t" end="11392000000t" region="bottomCenter" style="s1" xml:id="subtitle319">诶？</p>
+<p begin="11454500000t" end="11460100000t" region="bottomCenter" style="s1" xml:id="subtitle320">让</p>
+<p begin="11463800000t" end="11475000000t" region="bottomCenter" style="s1" xml:id="subtitle321">赶快逃</p>
+<p begin="11516000000t" end="11544100000t" region="bottomCenter" style="s1" xml:id="subtitle322">我已经受够同伴因我而死了</p>
+<p begin="11697400000t" end="11717600000t" region="bottomCenter" style="s1" xml:id="subtitle323">可恶  竟然在这种时候出现故障</p>
+<p begin="11908800000t" end="11913900000t" region="bottomCenter" style="s1" xml:id="subtitle324">让</p>
+<p begin="11972000000t" end="12010900000t" region="bottomCenter" style="s1" xml:id="subtitle325">怎么了  为什么不用立体机动装置啊</p>
+<p begin="12025400000t" end="12054500000t" region="bottomCenter" style="s1" xml:id="subtitle326">难道是…出现故障了吗</p>
+<p begin="12069400000t" end="12084000000t" region="bottomCenter" style="s1" xml:id="subtitle327">总会有办法的</p>
+<p begin="12204100000t" end="12239800000t" region="bottomCenter" style="s1" xml:id="subtitle328">可恶  我怎么能拖大家后腿</p>
+<p begin="12376000000t" end="12402100000t" region="bottomCenter" style="s1" xml:id="subtitle329">这办法能行得通吗…</p>
+<p begin="12440800000t" end="12467000000t" region="bottomCenter" style="s1" xml:id="subtitle330">艾连  艾连</p>
+<p begin="12479000000t" end="12485400000t" region="bottomCenter" style="s1" xml:id="subtitle331">艾连</p>
+<p begin="12508100000t" end="12514900000t" region="bottomCenter" style="s1" xml:id="subtitle332">艾连</p>
+<p begin="12533300000t" end="12577400000t" region="bottomCenter" style="s1" xml:id="subtitle333">我们不是说好总有一天要去外面的世界探险吗？</p>
+<p begin="12606100000t" end="12633300000t" region="bottomCenter" style="s1" xml:id="subtitle334">在墙外很遥远的地方…</p>
+<p begin="12646100000t" end="12670100000t" region="bottomCenter" style="s1" xml:id="subtitle335">有火焰之水  冰之大地</p>
+<p begin="12684000000t" end="12703200000t" region="bottomCenter" style="s1" xml:id="subtitle336">还有宽广的砂之雪原…</p>
+<p begin="12714400000t" end="12745400000t" region="bottomCenter" style="s1" xml:id="subtitle337">那是我的父母向往已久的世界</p>
+<p begin="12799800000t" end="12818100000t" region="bottomCenter" style="s1" xml:id="subtitle338">虽然我曾以为你已经忘了</p>
+<p begin="12830500000t" end="12848600000t" region="bottomCenter" style="s1" xml:id="subtitle339">但是你之所以不再提起这番话</p>
+<p begin="12853900000t" end="12883500000t" region="bottomCenter" style="s1" xml:id="subtitle340">是因为不想我进入调查兵团吧</p>
+<p begin="12898500000t" end="12920500000t" region="bottomCenter" style="s1" xml:id="subtitle341">外面的世界…</p>
+<p begin="12961100000t" end="12982500000t" region="bottomCenter" style="s1" xml:id="subtitle342">艾连  回答我</p>
+<p begin="12990400000t" end="13031800000t" region="bottomCenter" style="s1" xml:id="subtitle343">只要跨出城墙一步  外面就是炼狱般的世界</p>
+<p begin="13040900000t" end="13086400000t" region="bottomCenter" style="s1" xml:id="subtitle344">或许就会像我的父母那样凄惨地死去</p>
+<p begin="13094100000t" end="13136000000t" region="bottomCenter" style="s1" xml:id="subtitle345">但是为什么  艾连还会想要去外面的世界呢</p>
+<p begin="13170900000t" end="13180900000t" region="bottomCenter" style="s1" xml:id="subtitle346">你问为什么？</p>
+<p begin="13198700000t" end="13224500000t" region="bottomCenter" style="s1" xml:id="subtitle347">这还用问吗？</p>
+<p begin="13257100000t" end="13288800000t" region="bottomCenter" style="s1" xml:id="subtitle348">那是因为我出生在这个世界上啊</p>
+<p begin="13305000000t" end="13345000000t" region="bottomCenter" style="s1" xml:id="subtitle349">本字幕由 动漫国字幕组&恶魔岛字幕组 联合制作</p>
+<p begin="13345000000t" end="13385000000t" region="bottomCenter" style="s1" xml:id="subtitle350">翻译:小呆&小呓  校对:TL旧民  特效:Re·write  后期:EinAlive  MKV:Holy</p>
+<p begin="13569200000t" end="13616900000t" region="bottomCenter" style="s1" xml:id="subtitle351">その夢は  こころの居場所</p>
+<p begin="13569200000t" end="13616900000t" region="bottomCenter" style="s1" xml:id="subtitle352">那个梦境是心灵的栖息地</p>
+<p begin="13619600000t" end="13671200000t" region="bottomCenter" style="s1" xml:id="subtitle353">生命より  壊れやすきもの</p>
+<p begin="13619600000t" end="13671200000t" region="bottomCenter" style="s1" xml:id="subtitle354">它比生命更为脆弱</p>
+<p begin="13681700000t" end="13728100000t" region="bottomCenter" style="s1" xml:id="subtitle355">何度でも  捨てては見つけ</p>
+<p begin="13681700000t" end="13728100000t" region="bottomCenter" style="s1" xml:id="subtitle356">在发现与遗弃的无限轮回中</p>
+<p begin="13729200000t" end="13787600000t" region="bottomCenter" style="s1" xml:id="subtitle357">安らかに  さぁ眠れ</p>
+<p begin="13729200000t" end="13787600000t" region="bottomCenter" style="s1" xml:id="subtitle358">来吧  安祥地入睡吧</p>
+<p begin="13796300000t" end="13904000000t" region="bottomCenter" style="s1" xml:id="subtitle359">脈打つ衝動に  願いは犯され</p>
+<p begin="13796300000t" end="13904000000t" region="bottomCenter" style="s1" xml:id="subtitle360">即便曾经的愿望被逐渐侵蚀</p>
+<p begin="13908600000t" end="14008400000t" region="bottomCenter" style="s1" xml:id="subtitle361">忘れてしまうほど  また想い出すよ</p>
+<p begin="13908600000t" end="14008400000t" region="bottomCenter" style="s1" xml:id="subtitle362">即便强烈的冲动几乎占据一切  记忆必将再次唤醒</p>
+<p begin="14011000000t" end="14067500000t" region="bottomCenter" style="s1" xml:id="subtitle363">この  美しき残酷な世界では</p>
+<p begin="14011000000t" end="14067500000t" region="bottomCenter" style="s1" xml:id="subtitle364">在这个美丽而残酷的世界里</p>
+<p begin="14070800000t" end="14122200000t" region="bottomCenter" style="s1" xml:id="subtitle365">まだ生きていること「何故」と問うばかりで…</p>
+<p begin="14070800000t" end="14122200000t" region="bottomCenter" style="s1" xml:id="subtitle366">人们不断质问上天  为何如此生不如死</p>
+<p begin="14123800000t" end="14179200000t" region="bottomCenter" style="s1" xml:id="subtitle367">嗚呼ボクたちは  この強さ  弱さで</p>
+<p begin="14123800000t" end="14179200000t" region="bottomCenter" style="s1" xml:id="subtitle368">啊  软弱而坚强的我们</p>
+<p begin="14180400000t" end="14270200000t" region="bottomCenter" style="s1" xml:id="subtitle369">何を護るのだろう  もう理性など  無いならば</p>
+<p begin="14180400000t" end="14270200000t" region="bottomCenter" style="s1" xml:id="subtitle370">癫狂而绝望的我们  到底能守护什么</p>
+<p begin="14341100000t" end="14364100000t" region="bottomCenter" style="s1" xml:id="subtitle371">前进  奔跑  活下去</p>
+<p begin="14375000000t" end="14394700000t" region="bottomCenter" style="s1" xml:id="subtitle372">许多话语相互交错</p>
+<p begin="14397400000t" end="14419600000t" region="bottomCenter" style="s1" xml:id="subtitle373">生命之花相继凋落的战场上</p>
+<p begin="14428400000t" end="14463600000t" region="bottomCenter" style="s1" xml:id="subtitle374">艾连高举希望  向门走去</p>
+<p begin="14459000000t" end="14474700000t" region="bottomCenter" style="s1" xml:id="subtitle375">原始的欲望</p>
+</div>
+</body>
+</tt>

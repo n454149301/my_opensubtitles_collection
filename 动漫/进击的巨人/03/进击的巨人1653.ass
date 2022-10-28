@@ -1,0 +1,426 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,75,100,3,0,1,1,0,2,5,5,8,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:06.00,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\an8\1c&HC0C0C0&\b1}本字幕由豌豆字幕组制作 仅供学习交流 禁止用于商业用途
+Dialogue: 0,0:00:06.00,0:00:11.00,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\an8\1c&HC0C0C0&\b1}翻译/校对/时间轴：海底  压制：小圣
+Dialogue: 0,0:00:09.00,0:00:11.00,Default,,0000,0000,0000,,
+Dialogue: 0,0:02:10.98,0:02:13.69,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}あの日人類は思い出した
+Dialogue: 0,0:02:13.69,0:02:18.40,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}薄闇の中進む影は　誰も心許なく
+Dialogue: 0,0:02:18.86,0:02:23.70,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}不確かな未来は何時だって　薄氷の上に咲く
+Dialogue: 0,0:02:24.12,0:02:26.91,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}夜は訪れる度に幾度も
+Dialogue: 0,0:02:26.91,0:02:30.67,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}冷たい手で俺達の首筋を
+Dialogue: 0,0:02:30.67,0:02:33.71,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}優しく撫でた
+Dialogue: 0,0:02:34.96,0:02:40.13,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}黄昏を裏切って　灯る希望の背に縋り
+Dialogue: 0,0:02:40.80,0:02:47.06,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}追い駆けた　地獄へと　向かってると知っても
+Dialogue: 0,0:02:47.06,0:02:52.52,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}夢の続きが見たいなら　お前は何を差し出せる
+Dialogue: 0,0:02:52.52,0:02:57.40,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}悪魔は甘く囁いた　屍で道を作れ
+Dialogue: 0,0:02:57.74,0:03:00.24,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}『この壁の向こうに何がある？』
+Dialogue: 0,0:03:00.53,0:03:02.99,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}幼き日々に憧れた
+Dialogue: 0,0:03:03.28,0:03:05.95,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}真実がすぐそこにある
+Dialogue: 0,0:03:05.95,0:03:08.96,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}屍の道の先に
+Dialogue: 0,0:03:08.96,0:03:11.50,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}《紅蓮の衝動》が翔け抜けた軌跡
+Dialogue: 0,0:03:08.96,0:03:11.50,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}弓矢
+Dialogue: 0,0:03:11.50,0:03:14.34,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}《自由への覚悟》を散らして
+Dialogue: 0,0:03:11.50,0:03:14.34,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}翼
+Dialogue: 0,0:03:14.34,0:03:16.71,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}《捧げられた花弁》を束ねても
+Dialogue: 0,0:03:14.34,0:03:16.71,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}心臓
+Dialogue: 0,0:03:16.71,0:03:19.72,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}《手向けるべき真の暁》には早過ぎる
+Dialogue: 0,0:03:16.71,0:03:19.72,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}レクイエム
+Dialogue: 0,0:03:19.72,0:03:24.93,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}太陽はまだ沈んでいないのだから
+Dialogue: 0,0:03:24.93,0:03:33.02,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}進み続ける波の彼方へ…
+Dialogue: 0,0:02:09.94,0:02:10.98,Default,,0000,0000,0000,,
+Dialogue: 0,0:02:10.98,0:02:13.69,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}那一天 人类想起来了
+Dialogue: 0,0:02:13.69,0:02:18.40,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}那黑暗中前进的黑影 令人心忧
+Dialogue: 0,0:02:18.86,0:02:23.70,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}不确定的未来时刻都 如履薄冰
+Dialogue: 0,0:02:24.12,0:02:26.91,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}每当黑夜降临
+Dialogue: 0,0:02:26.91,0:02:30.67,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}那冰冷的手 将我们的脖颈
+Dialogue: 0,0:02:30.67,0:02:33.71,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}无数次轻抚
+Dialogue: 0,0:02:34.96,0:02:40.13,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}背叛黄昏 追寻希望的灯火
+Dialogue: 0,0:02:40.80,0:02:47.06,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}即便知晓前方是地狱 也依旧不懈追逐
+Dialogue: 0,0:02:47.06,0:02:52.52,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}若想目睹梦的后续 你又会献出什么
+Dialogue: 0,0:02:52.52,0:02:57.40,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}恶魔低语道 以尸骸铺路吧
+Dialogue: 0,0:02:57.74,0:03:00.24,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}『这道墙的那边有什么？』
+Dialogue: 0,0:03:00.53,0:03:02.99,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}是我们幼时的憧憬
+Dialogue: 0,0:03:03.28,0:03:05.95,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}真相已经近在咫尺
+Dialogue: 0,0:03:05.95,0:03:08.96,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}在尸骸之路的尽头
+Dialogue: 0,0:03:08.96,0:03:11.50,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}《红莲的冲动》划出轨迹
+Dialogue: 0,0:03:08.96,0:03:11.50,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}弓矢
+Dialogue: 0,0:03:11.50,0:03:14.34,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}《向往自由的决意》舒展而开
+Dialogue: 0,0:03:11.50,0:03:14.34,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}翅膀
+Dialogue: 0,0:03:14.34,0:03:16.71,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}《献上的花瓣》聚集起来
+Dialogue: 0,0:03:14.34,0:03:16.71,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}心脏
+Dialogue: 0,0:03:16.71,0:03:19.72,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}《应当告别的真正破晓》为时尚早
+Dialogue: 0,0:03:16.71,0:03:19.72,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}镇魂歌
+Dialogue: 0,0:03:19.72,0:03:24.93,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}只因太阳尚未西沉
+Dialogue: 0,0:03:24.93,0:03:33.02,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}前往波涛的另一头…
+Dialogue: 0,0:03:33.02,0:03:35.02,Default,,0000,0000,0000,,
+Dialogue: 0,0:22:21.44,0:22:21.44,Default,,0000,0000,0000,,
+Dialogue: 0,0:22:21.44,0:22:25.66,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}さよなら　世界
+Dialogue: 0,0:22:25.66,0:22:33.30,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}並ぶ影　伸びて　交わらない
+Dialogue: 0,0:22:35.32,0:22:46.98,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}願い　光　まだ知らない景色　探していたんだ
+Dialogue: 0,0:22:47.99,0:22:53.10,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}ただ一つ　約束交わそう
+Dialogue: 0,0:22:53.90,0:23:00.56,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}僕らだけの名前を呼び合って
+Dialogue: 0,0:23:00.56,0:23:07.04,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}僕らだけの喜び分かち合った
+Dialogue: 0,0:23:07.04,0:23:13.49,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}僕らだけの言葉で確かめて
+Dialogue: 0,0:23:13.49,0:23:20.72,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}僕らだけの痛みを抱きしめた
+Dialogue: 0,0:23:20.72,0:23:27.29,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}この世界のどこか　未来で会えるなら
+Dialogue: 0,0:23:27.29,0:23:30.59,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}忘れないでいて
+Dialogue: 0,0:23:30.59,0:23:35.00,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}僕のこと　本当のこと
+Dialogue: 0,0:22:19.44,0:22:21.44,Default,,0000,0000,0000,,
+Dialogue: 0,0:22:21.44,0:22:21.44,Default,,0000,0000,0000,,
+Dialogue: 0,0:22:21.44,0:22:25.66,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}再见 世界
+Dialogue: 0,0:22:25.66,0:22:33.30,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}一排影子 向前延伸 不会相交
+Dialogue: 0,0:22:35.32,0:22:46.98,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}去寻找希望 寻找光明 和未知的景色
+Dialogue: 0,0:22:47.99,0:22:53.10,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}只想许下一个诺言
+Dialogue: 0,0:22:53.90,0:23:00.56,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}用我们自己的名字互相称呼
+Dialogue: 0,0:23:00.56,0:23:07.04,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}分享我们自己的喜悦
+Dialogue: 0,0:23:07.04,0:23:13.49,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}用我们自己的语言互相交流
+Dialogue: 0,0:23:13.49,0:23:20.72,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}抱紧我们自己的痛苦
+Dialogue: 0,0:23:20.72,0:23:27.29,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}如果未来 我们能在这个世界相遇
+Dialogue: 0,0:23:27.29,0:23:30.59,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}请你一定
+Dialogue: 0,0:23:30.59,0:23:35.00,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\1c&H0080FF&\b1\i1}不要忘记我 不要忘记真相
+Dialogue: 0,0:23:35.00,0:23:37.00,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:21.01,0:00:22.15,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}喂 喂
+Dialogue: 0,0:00:26.11,0:00:27.92,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}房屋砸下来了
+Dialogue: 0,0:00:28.96,0:00:31.63,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}那里面说不定就有艾伦的…
+Dialogue: 0,0:00:32.65,0:00:33.60,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}艾伦的…
+Dialogue: 0,0:00:34.41,0:00:36.75,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}家啊
+Dialogue: 0,0:00:34.41,0:00:37.38,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}注：这是冷笑话 「艾伦的家」和「艾伦·耶格尔」发音相近
+Dialogue: 0,0:00:38.61,0:00:40.80,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}萨莎 揍康尼一发
+Dialogue: 0,0:00:43.12,0:00:45.14,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}他好像不知道我们在哪里
+Dialogue: 0,0:00:45.54,0:00:46.05,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}是啊
+Dialogue: 0,0:00:46.61,0:00:48.54,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}他打算四处抛撒着火的废墟
+Dialogue: 0,0:00:48.69,0:00:51.24,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}让希干希纳区化为一片火海
+Dialogue: 0,0:00:53.09,0:00:54.27,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}那混蛋
+Dialogue: 0,0:00:55.24,0:00:58.90,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}这次居然烧毁了我的故乡
+Dialogue: 0,0:01:01.20,0:01:02.32,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}阿 阿尔敏
+Dialogue: 0,0:01:02.49,0:01:04.26,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}火要烧过来了 快下命令
+Dialogue: 0,0:01:04.26,0:01:05.25,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}快点
+Dialogue: 0,0:01:07.42,0:01:08.43,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我知道
+Dialogue: 0,0:01:08.83,0:01:12.59,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}只是像这样不停颤抖 根本什么都做不到
+Dialogue: 0,0:01:16.11,0:01:18.43,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}让 你能代替我指挥吗
+Dialogue: 0,0:01:21.07,0:01:23.94,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我不知道该怎么办才好了
+Dialogue: 0,0:01:24.69,0:01:27.13,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}刚才也是 没能预测到贝鲁特尔德的行动
+Dialogue: 0,0:01:27.13,0:01:28.00,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}才会变成这样
+Dialogue: 0,0:01:28.72,0:01:30.95,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}让 你更适合当指挥官
+Dialogue: 0,0:01:35.46,0:01:37.33,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}河边 移动到河边去
+Dialogue: 0,0:01:38.28,0:01:41.02,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}都到艾伦背上来 节约压缩气体
+Dialogue: 0,0:01:46.12,0:01:46.61,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}艾伦
+Dialogue: 0,0:01:47.21,0:01:49.96,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}要抓准时机吸引贝鲁特尔德的注意力
+Dialogue: 0,0:01:50.28,0:01:51.84,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}在那之前不要被发现了
+Dialogue: 0,0:01:53.75,0:01:54.34,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}阿尔敏
+Dialogue: 0,0:01:56.65,0:01:58.35,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我虽然能认清现状
+Dialogue: 0,0:01:58.63,0:02:01.54,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}不过根本想不出打破局面的办法
+Dialogue: 0,0:02:02.43,0:02:04.45,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}最后还是要靠你
+Dialogue: 0,0:03:39.99,0:03:44.99,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}完美胜局
+Dialogue: 0,0:03:50.56,0:03:51.81,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}这边收拾干净了
+Dialogue: 0,0:03:52.48,0:03:55.76,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}剩下的小家伙只有前面那几只了
+Dialogue: 0,0:03:56.66,0:03:59.92,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}不过要怎么对付野兽巨人啊
+Dialogue: 0,0:04:00.35,0:04:03.81,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}他还是蹲在那里 根本一动不动
+Dialogue: 0,0:04:04.27,0:04:06.98,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}是啊 看来他胆子很小
+Dialogue: 0,0:04:07.63,0:04:09.89,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}再说 他连那玩意都没有 根本不算男人
+Dialogue: 0,0:04:10.71,0:04:11.84,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}你先好好休息
+Dialogue: 0,0:04:12.48,0:04:14.69,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我们去把小家伙全部收拾掉
+Dialogue: 0,0:04:15.06,0:04:15.76,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}走吧
+Dialogue: 0,0:04:16.10,0:04:17.01,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}明白
+Dialogue: 0,0:04:20.03,0:04:20.57,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}可恶
+Dialogue: 0,0:04:21.28,0:04:22.62,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}刚才的爆炸
+Dialogue: 0,0:04:23.36,0:04:24.81,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}不知道他们怎么样了
+Dialogue: 0,0:04:25.64,0:04:27.54,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}不知道汉吉他们躲开了没有
+Dialogue: 0,0:04:28.31,0:04:30.03,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}总之 我也快点过去…
+Dialogue: 0,0:05:01.37,0:05:03.91,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}偏高了一个球的距离
+Dialogue: 0,0:05:06.12,0:05:07.41,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}放在那边
+Dialogue: 0,0:05:11.77,0:05:14.38,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}算了 第一球只是看看情况
+Dialogue: 0,0:05:15.70,0:05:18.81,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}目标是 完美胜局
+Dialogue: 0,0:05:20.63,0:05:21.76,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}前方有炮击
+Dialogue: 0,0:05:22.12,0:05:23.94,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}全员 立刻找掩护趴下
+Dialogue: 0,0:05:25.15,0:05:25.76,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}什么
+Dialogue: 0,0:05:25.96,0:05:28.86,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}可恶 你们几个
+Dialogue: 0,0:05:55.73,0:05:58.54,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}这 这炮击声是怎么回事
+Dialogue: 0,0:05:58.90,0:06:00.70,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}敌人有大炮吗
+Dialogue: 0,0:06:00.86,0:06:02.65,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}看这样子 至少有100门吧
+Dialogue: 0,0:06:03.09,0:06:05.42,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}你们冷静点 马受惊了
+Dialogue: 0,0:06:05.84,0:06:07.31,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}这是巨人投来的石头
+Dialogue: 0,0:06:07.94,0:06:08.85,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}利威尔兵长
+Dialogue: 0,0:06:09.22,0:06:11.72,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}全员 牵着马后退到墙壁旁边去
+Dialogue: 0,0:06:12.98,0:06:13.65,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}明白
+Dialogue: 0,0:06:15.74,0:06:16.53,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}快点
+Dialogue: 0,0:06:16.68,0:06:18.16,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}在射线的死角内移动
+Dialogue: 0,0:06:24.35,0:06:25.20,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}喂 站起来
+Dialogue: 0,0:06:25.34,0:06:26.39,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}你想死吗
+Dialogue: 0,0:06:28.68,0:06:29.21,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}团长
+Dialogue: 0,0:06:30.64,0:06:31.44,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}情况怎样
+Dialogue: 0,0:06:32.10,0:06:32.93,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}非常糟糕
+Dialogue: 0,0:06:33.51,0:06:36.51,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}他投出的石头把前方的房屋都砸烂了
+Dialogue: 0,0:06:37.27,0:06:40.35,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}他要是继续投石 这一带也很快会被夷为平地
+Dialogue: 0,0:06:40.96,0:06:42.96,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}那样我们就无处可藏了
+Dialogue: 0,0:06:43.64,0:06:45.97,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}不能逃到墙壁那边去吗
+Dialogue: 0,0:06:46.69,0:06:47.09,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}不能
+Dialogue: 0,0:06:47.94,0:06:50.58,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}超大型巨人朝这边来了
+Dialogue: 0,0:06:51.35,0:06:53.58,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}一边四处放火
+Dialogue: 0,0:06:54.97,0:06:57.94,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}虽然士兵可以逃到墙壁上躲避投石
+Dialogue: 0,0:06:58.29,0:06:59.61,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}但那样就得舍弃马匹
+Dialogue: 0,0:07:00.66,0:07:03.57,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}就算躲过了这次攻击 也没办法取胜
+Dialogue: 0,0:07:04.37,0:07:06.01,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}汉吉他们怎么样了
+Dialogue: 0,0:07:06.34,0:07:07.33,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}艾伦没事吗
+Dialogue: 0,0:07:08.63,0:07:09.43,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}不知道
+Dialogue: 0,0:07:10.02,0:07:12.86,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}不过大部分的人都被卷入了爆风中
+Dialogue: 0,0:07:13.72,0:07:15.84,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我们损失惨重
+Dialogue: 0,0:07:17.17,0:07:19.73,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}野兽巨人操控着小型巨人
+Dialogue: 0,0:07:20.10,0:07:22.29,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}把士兵集中在了前方一处
+Dialogue: 0,0:07:23.05,0:07:29.14,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}在那里和小型巨人战斗的迪鲁克 马雷涅 克拉斯分队
+Dialogue: 0,0:07:29.50,0:07:31.69,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}在刚才投石下全部阵亡了
+Dialogue: 0,0:07:32.94,0:07:33.46,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}也就是说
+Dialogue: 0,0:07:34.16,0:07:36.06,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}内门一侧的残存兵力
+Dialogue: 0,0:07:36.85,0:07:38.99,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}就只有各位调查新兵
+Dialogue: 0,0:07:39.93,0:07:41.04,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}利威尔士兵长
+Dialogue: 0,0:07:41.53,0:07:43.47,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}还有我了
+Dialogue: 0,0:07:49.11,0:07:50.49,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}不行了
+Dialogue: 0,0:07:51.07,0:07:53.89,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}埃尔文 你有什么对策吗
+Dialogue: 0,0:07:58.05,0:07:59.05,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}艾伦 吼吧
+Dialogue: 0,0:07:59.36,0:08:01.83,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}不能再让贝鲁特尔德继续接近墙壁了
+Dialogue: 0,0:08:11.05,0:08:11.76,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}发现我们了
+Dialogue: 0,0:08:16.11,0:08:16.61,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}什…
+Dialogue: 0,0:08:16.96,0:08:18.61,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}那个混蛋 无视我们啊
+Dialogue: 0,0:08:19.15,0:08:20.87,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}喂 让 怎么办
+Dialogue: 0,0:08:21.01,0:08:21.65,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}这样下去的话…
+Dialogue: 0,0:08:22.09,0:08:23.10,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我知道
+Dialogue: 0,0:08:23.70,0:08:26.40,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}艾伦 去拖住大块头的脚
+Dialogue: 0,0:08:29.93,0:08:30.61,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}可是
+Dialogue: 0,0:08:31.06,0:08:32.61,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}要怎么打倒他啊
+Dialogue: 0,0:08:33.12,0:08:36.08,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}蒸汽产生的热风能让立体机动失效
+Dialogue: 0,0:08:36.69,0:08:37.57,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}没错吧
+Dialogue: 0,0:08:38.96,0:08:40.24,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我知道
+Dialogue: 0,0:08:41.14,0:08:41.84,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}所以现在…
+Dialogue: 0,0:08:42.42,0:08:43.92,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}只能都试试了
+Dialogue: 0,0:08:44.36,0:08:46.38,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}要让他暴露出弱点
+Dialogue: 0,0:08:46.82,0:08:47.73,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我来
+Dialogue: 0,0:08:48.05,0:08:49.38,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}大家吸引他的注意力
+Dialogue: 0,0:08:49.90,0:08:51.42,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}康尼 给我雷枪
+Dialogue: 0,0:08:52.60,0:08:53.27,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}好
+Dialogue: 0,0:08:53.92,0:08:56.85,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}阿尔敏 你在远一点的地方观察他
+Dialogue: 0,0:08:57.69,0:08:59.06,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}别哭鼻子了
+Dialogue: 0,0:08:59.38,0:09:01.41,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}要相信一定会有办法的
+Dialogue: 0,0:09:05.16,0:09:06.43,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}就是现在 散开
+Dialogue: 0,0:09:09.68,0:09:11.81,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}别一副看不起人的样子
+Dialogue: 0,0:09:12.10,0:09:13.28,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}你不就是…
+Dialogue: 0,0:09:13.63,0:09:16.38,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}块头大一点而已吗
+Dialogue: 0,0:09:33.97,0:09:35.18,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}推 推动了
+Dialogue: 0,0:09:35.54,0:09:36.97,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}上啊 艾伦
+Dialogue: 0,0:09:36.97,0:09:38.45,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}推倒他
+Dialogue: 0,0:09:38.69,0:09:41.21,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}一定会有办法的
+Dialogue: 0,0:09:45.26,0:09:45.65,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}什么
+Dialogue: 0,0:09:56.42,0:09:57.28,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}艾伦
+Dialogue: 0,0:10:02.19,0:10:02.64,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}喂
+Dialogue: 0,0:10:03.41,0:10:04.45,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}那是艾伦吗
+Dialogue: 0,0:10:05.62,0:10:07.92,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}居然被打飞到墙壁上面了
+Dialogue: 0,0:10:08.88,0:10:09.75,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}被那家伙
+Dialogue: 0,0:10:13.73,0:10:14.82,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}艾伦没动静了
+Dialogue: 0,0:10:15.17,0:10:18.50,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}他没死 专注于眼前的怪物
+Dialogue: 0,0:10:19.44,0:10:21.46,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}刚才还是太冒险了
+Dialogue: 0,0:10:22.20,0:10:24.80,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}他那么巨大 只凭蛮力去打就会变成那样
+Dialogue: 0,0:10:25.98,0:10:26.72,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}有什么办法
+Dialogue: 0,0:10:27.65,0:10:29.74,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}要是想不出一招逆转的办法
+Dialogue: 0,0:10:30.30,0:10:31.57,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}这次夺回作战
+Dialogue: 0,0:10:32.01,0:10:33.14,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我们的性命
+Dialogue: 0,0:10:33.63,0:10:35.78,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}还有人类的未来 就全都完了
+Dialogue: 0,0:10:36.88,0:10:37.72,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}就算这样
+Dialogue: 0,0:10:38.54,0:10:41.20,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我们也不能老老实实送给你杀
+Dialogue: 0,0:10:41.62,0:10:43.25,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}准备攻击
+Dialogue: 0,0:10:47.83,0:10:49.70,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}他还不知道我们有雷枪
+Dialogue: 0,0:10:49.92,0:10:51.92,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我 康妮 萨沙吸引他的注意力
+Dialogue: 0,0:10:52.61,0:10:54.62,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}三笠你趁机朝他射雷枪
+Dialogue: 0,0:10:54.77,0:10:55.43,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}明白
+Dialogue: 0,0:10:57.20,0:10:58.42,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}喂 大块头
+Dialogue: 0,0:10:58.42,0:11:00.18,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}看我不戳瞎你的眼睛
+Dialogue: 0,0:11:00.29,0:11:02.03,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}你个白痴
+Dialogue: 0,0:11:02.13,0:11:04.03,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}变态大魔王
+Dialogue: 0,0:11:05.61,0:11:07.34,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我们很明显就是佯攻
+Dialogue: 0,0:11:08.16,0:11:10.48,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}不过 只要给你吃一发雷枪
+Dialogue: 0,0:11:31.73,0:11:32.53,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}大家
+Dialogue: 0,0:11:34.02,0:11:35.16,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}果然不行啊
+Dialogue: 0,0:11:35.60,0:11:38.42,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}这热风能把射出去的雷枪都吹飞
+Dialogue: 0,0:11:40.70,0:11:41.40,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}康尼
+Dialogue: 0,0:11:41.54,0:11:42.23,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}可恶
+Dialogue: 0,0:11:42.43,0:11:44.13,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}吸了口气 烧伤了喉咙
+Dialogue: 0,0:11:45.61,0:11:46.18,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}三笠
+Dialogue: 0,0:11:46.80,0:11:47.38,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}你流血了
+Dialogue: 0,0:11:47.78,0:11:51.14,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}没事 只是被雷枪的碎片划伤了
+Dialogue: 0,0:11:51.59,0:11:52.95,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}比起这个 怎么样了
+Dialogue: 0,0:11:55.14,0:11:57.44,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}找到反击的办法了吗
+Dialogue: 0,0:12:01.78,0:12:02.42,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}没有
+Dialogue: 0,0:12:19.96,0:12:24.97,Default,,0000,0000,0000,,{\fs16\bord3\shad3\fsp0\an3\1c&H0080FF&\b1}{\u1}现在可以公开的情报\N\N超大型巨人的热风\N{\r\fs16\bord3\shad3\fsp0\an3\1c&H0080FF&\b1}\N\N巨人拥有的特殊能力\N均是通过消耗肉体产生。\N超大型巨人释放出的热风也一样，\N是通过消耗肌肉组织而产生的，\N并不能无限使用。
+Dialogue: 0,0:12:19.96,0:12:24.97,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}
+Dialogue: 0,0:12:38.93,0:12:41.40,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}野兽巨人开始朝这边攻击了
+Dialogue: 0,0:12:41.91,0:12:43.52,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}这里很快也会变成蜂窝的
+Dialogue: 0,0:12:45.06,0:12:45.61,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}埃尔文
+Dialogue: 0,0:12:46.58,0:12:49.39,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}要是没有反击的办法
+Dialogue: 0,0:12:49.89,0:12:51.35,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}那就做败退的准备吧
+Dialogue: 0,0:12:52.42,0:12:54.29,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}去把躺在那的艾伦叫起来
+Dialogue: 0,0:12:54.98,0:12:57.38,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}让艾伦带着你和其他几个人逃吧
+Dialogue: 0,0:12:58.18,0:13:00.02,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}至少要留几个生还者
+Dialogue: 0,0:13:02.02,0:13:03.78,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}喂 马逃跑了
+Dialogue: 0,0:13:04.36,0:13:05.74,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}那不是你们负责的吗
+Dialogue: 0,0:13:06.13,0:13:08.32,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}你闭嘴 都没意义了啊
+Dialogue: 0,0:13:08.45,0:13:09.49,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}你说什么
+Dialogue: 0,0:13:10.24,0:13:13.76,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}那么强大的调查兵团 瞬间就死光了
+Dialogue: 0,0:13:14.45,0:13:16.24,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}你也明白的吧
+Dialogue: 0,0:13:17.01,0:13:18.89,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}再怎么保护马匹都没意义了
+Dialogue: 0,0:13:19.78,0:13:22.51,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}根本没有人能骑着马回去
+Dialogue: 0,0:13:27.98,0:13:29.81,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}道理我都懂
+Dialogue: 0,0:13:30.77,0:13:33.21,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}人类如果一直躲在墙内
+Dialogue: 0,0:13:33.52,0:13:36.47,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}总有一天会被突然来袭的巨人吃干抹净
+Dialogue: 0,0:13:37.38,0:13:40.21,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}必须要有人冒着危险行动
+Dialogue: 0,0:13:41.17,0:13:46.73,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}需要有人能为了保护别人而牺牲自己
+Dialogue: 0,0:13:47.64,0:13:49.55,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}「谁是这样勇敢的士兵」
+Dialogue: 0,0:13:50.18,0:13:51.74,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}听到这句话的时候
+Dialogue: 0,0:13:52.72,0:13:56.80,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我想到 是我
+Dialogue: 0,0:13:57.93,0:13:59.56,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}可是 没想到
+Dialogue: 0,0:14:00.27,0:14:02.18,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我们会以这种方式死去
+Dialogue: 0,0:14:03.02,0:14:06.89,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}没想到我们会死得毫无意义
+Dialogue: 0,0:14:08.08,0:14:09.06,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}仔细想想
+Dialogue: 0,0:14:09.59,0:14:13.17,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}那么多人的牺牲都毫无意义
+Dialogue: 0,0:14:14.38,0:14:19.67,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}为什么会觉得只有自己是不同的呢
+Dialogue: 0,0:14:25.52,0:14:29.20,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}让新兵和汉吉分队的幸存者
+Dialogue: 0,0:14:29.68,0:14:31.17,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}骑上马分散逃离怎么样
+Dialogue: 0,0:14:31.88,0:14:35.57,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}以他们为诱饵 让艾伦带着你们逃跑
+Dialogue: 0,0:14:36.70,0:14:39.22,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}利威尔 你呢
+Dialogue: 0,0:14:40.07,0:14:43.06,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我去对付野兽巨人 吸引他的注意力
+Dialogue: 0,0:14:43.38,0:14:46.33,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}不行 你根本没法靠近他
+Dialogue: 0,0:14:47.35,0:14:48.08,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}应该吧
+Dialogue: 0,0:14:49.04,0:14:49.54,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}不过
+Dialogue: 0,0:14:49.98,0:14:53.31,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}只要你和艾伦活着回去 就还有希望
+Dialogue: 0,0:14:54.20,0:14:57.22,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}你不觉得吗 局势已经到这个地步了
+Dialogue: 0,0:14:58.60,0:14:59.57,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我们输得很惨
+Dialogue: 0,0:15:00.80,0:15:01.97,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}说实话
+Dialogue: 0,0:15:02.80,0:15:05.89,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我甚至觉得谁都没法活着回去了
+Dialogue: 0,0:15:07.28,0:15:07.70,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}是啊
+Dialogue: 0,0:15:08.52,0:15:10.68,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}前提是我们没有反击手段了
+Dialogue: 0,0:15:15.15,0:15:15.89,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}难道还有办法吗
+Dialogue: 0,0:15:16.92,0:15:17.24,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}对
+Dialogue: 0,0:15:18.53,0:15:20.11,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}那你怎么不早说
+Dialogue: 0,0:15:20.78,0:15:22.93,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}为什么要阴沉着脸一言不发
+Dialogue: 0,0:15:24.25,0:15:25.76,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}如果计划顺利
+Dialogue: 0,0:15:26.34,0:15:29.50,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}你应该可以干掉野兽巨人
+Dialogue: 0,0:15:30.25,0:15:34.07,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}但要牺牲这些新兵和我的性命
+Dialogue: 0,0:15:39.69,0:15:40.87,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}你说得对
+Dialogue: 0,0:15:42.03,0:15:44.32,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}不论如何 我们都会死伤殆尽
+Dialogue: 0,0:15:46.15,0:15:49.54,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}不 全军覆没的可能性要大得多
+Dialogue: 0,0:15:51.00,0:15:55.83,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}既然这样 我们也只能豁出性命去抓住胜机了
+Dialogue: 0,0:15:57.89,0:16:01.49,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}为此 要让那些年轻人去死
+Dialogue: 0,0:16:02.16,0:16:05.81,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我要像大骗子一样对他们花言巧语一番
+Dialogue: 0,0:16:07.01,0:16:10.90,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我必须跑在最前面 不然他们根本不会往前冲
+Dialogue: 0,0:16:11.62,0:16:13.46,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}然后我会第一个死
+Dialogue: 0,0:16:14.53,0:16:18.48,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}再也没法知道地下室里有什么
+Dialogue: 0,0:16:28.63,0:16:31.92,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我想就这样去地下室
+Dialogue: 0,0:16:33.65,0:16:35.30,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我之所以能走到这一步
+Dialogue: 0,0:16:36.14,0:16:38.31,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}就是因为坚信着这一天一定会到来
+Dialogue: 0,0:16:40.05,0:16:43.25,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}坚信着 总有一天能验证我的猜想
+Dialogue: 0,0:16:45.28,0:16:48.87,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我也无数次想 还不如死了算了
+Dialogue: 0,0:16:49.87,0:16:50.72,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}即便如此
+Dialogue: 0,0:16:52.07,0:16:54.36,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我和父亲的梦想却还是在脑海里挥之不去
+Dialogue: 0,0:16:55.20,0:16:56.26,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}而现在
+Dialogue: 0,0:16:57.08,0:16:59.94,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}答案就在触手可及的地方
+Dialogue: 0,0:17:03.32,0:17:05.11,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}已经近在咫尺了
+Dialogue: 0,0:17:08.69,0:17:09.52,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}但是 利威尔
+Dialogue: 0,0:17:12.16,0:17:14.54,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}你能看见我们的同伴吗
+Dialogue: 0,0:17:18.93,0:17:20.83,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}同伴们在看着我们
+Dialogue: 0,0:17:21.88,0:17:24.48,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}他们想知道自己献出的心脏现在怎么样了
+Dialogue: 0,0:17:25.99,0:17:28.05,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}战斗还没有结束
+Dialogue: 0,0:17:35.68,0:17:40.72,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}这一切都只是我幼稚的幻想吗
+Dialogue: 0,0:17:47.16,0:17:48.81,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}你很努力了
+Dialogue: 0,0:17:50.09,0:17:52.92,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}多亏了你 我们才能走到这一步
+Dialogue: 0,0:17:55.42,0:17:56.56,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我要选择了
+Dialogue: 0,0:17:59.28,0:18:01.36,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}放弃梦想去死吧
+Dialogue: 0,0:18:01.97,0:18:04.15,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}把新兵带到地狱去吧
+Dialogue: 0,0:18:05.26,0:18:07.92,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我会收拾掉野兽巨人
+Dialogue: 0,0:18:30.42,0:18:31.76,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}突击
+Dialogue: 0,0:18:36.98,0:18:41.17,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我也没觉得他们会就这么放弃
+Dialogue: 0,0:18:42.14,0:18:43.38,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}敢死队吗
+Dialogue: 0,0:18:44.18,0:18:47.20,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我还以为他们会有更机灵点的办法呢
+Dialogue: 0,0:18:48.37,0:18:50.35,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}就是现在 发射
+Dialogue: 0,0:18:54.96,0:18:55.90,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}烟雾？
+Dialogue: 0,0:18:57.91,0:19:00.03,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}信号枪吧
+Dialogue: 0,0:19:00.91,0:19:02.49,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}要来了 移动
+Dialogue: 0,0:19:06.90,0:19:08.81,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}接下来下达最后的作战计划
+Dialogue: 0,0:19:09.69,0:19:10.96,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}全体列队
+Dialogue: 0,0:19:13.39,0:19:15.23,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}全体骑马进行突击
+Dialogue: 0,0:19:15.61,0:19:17.98,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}目标是野兽巨人
+Dialogue: 0,0:19:18.68,0:19:19.30,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}当然
+Dialogue: 0,0:19:19.67,0:19:21.64,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}在目标看来 我们是绝好的靶子
+Dialogue: 0,0:19:22.71,0:19:27.15,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我们要看准目标投石的时机 一齐发射信号弹
+Dialogue: 0,0:19:27.56,0:19:29.89,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}尽可能降低投石的命中率
+Dialogue: 0,0:19:30.97,0:19:32.68,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我们做诱饵吸引目标
+Dialogue: 0,0:19:32.96,0:19:35.70,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}利威尔士兵长趁机讨伐野兽巨人
+Dialogue: 0,0:19:36.42,0:19:37.70,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}以上就是作战计划
+Dialogue: 0,0:19:38.92,0:19:39.40,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}什么
+Dialogue: 0,0:19:40.24,0:19:42.79,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}你要我一个人用立体机动接近野兽巨人？
+Dialogue: 0,0:19:43.65,0:19:45.39,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}野兽巨人周边可是空地啊
+Dialogue: 0,0:19:45.97,0:19:48.00,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}没有可以落脚的树木和房屋
+Dialogue: 0,0:19:49.01,0:19:49.54,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}不
+Dialogue: 0,0:19:51.29,0:19:54.88,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}不是有一排高度正合适的立体物站在那里吗
+Dialogue: 0,0:19:56.82,0:19:58.31,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}通过巨人靠近目标
+Dialogue: 0,0:19:59.80,0:20:01.53,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}对野兽巨人发动奇袭
+Dialogue: 0,0:20:09.40,0:20:10.38,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}对不住了
+Dialogue: 0,0:20:18.60,0:20:22.12,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}站在这不动也只会被飞来的碎石砸到
+Dialogue: 0,0:20:22.82,0:20:24.41,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}立刻开始准备
+Dialogue: 0,0:20:25.96,0:20:30.18,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我们这是要去送死吗
+Dialogue: 0,0:20:31.76,0:20:32.23,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}是的
+Dialogue: 0,0:20:33.62,0:20:39.43,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}反正都是一死 还不如在战斗中死掉是吗
+Dialogue: 0,0:20:40.42,0:20:40.98,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}是的
+Dialogue: 0,0:20:41.96,0:20:42.45,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}可是
+Dialogue: 0,0:20:43.11,0:20:44.36,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}反正都是死
+Dialogue: 0,0:20:45.00,0:20:46.24,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}不论是战死
+Dialogue: 0,0:20:46.88,0:20:48.44,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}还是违背命令而死
+Dialogue: 0,0:20:49.20,0:20:50.73,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}都毫无意义吧
+Dialogue: 0,0:20:51.35,0:20:52.64,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}你说得没错
+Dialogue: 0,0:20:54.45,0:20:55.90,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}全都毫无意义
+Dialogue: 0,0:20:56.46,0:20:58.40,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}不论拥有怎样的梦想和希望
+Dialogue: 0,0:21:00.08,0:21:02.64,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}不论过着怎样幸福的人生
+Dialogue: 0,0:21:03.94,0:21:06.00,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}都和被岩石打碎身体没有区别
+Dialogue: 0,0:21:07.07,0:21:08.31,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}结局都是死
+Dialogue: 0,0:21:10.15,0:21:12.27,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}那么人生是否没有意义呢
+Dialogue: 0,0:21:13.49,0:21:16.33,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}或者说 难道我们的出生就是毫无意义的吗
+Dialogue: 0,0:21:18.10,0:21:19.89,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}那些死去的同伴也是吗
+Dialogue: 0,0:21:20.74,0:21:24.04,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}那些牺牲的士兵们也毫无意义吗
+Dialogue: 0,0:21:26.24,0:21:27.18,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}不 不对
+Dialogue: 0,0:21:27.76,0:21:30.37,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}那些士兵的意义 将由我们赋予
+Dialogue: 0,0:21:31.22,0:21:34.03,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}那些勇敢的死者 那些可悲的死者
+Dialogue: 0,0:21:34.53,0:21:36.32,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我们之所以能这么想
+Dialogue: 0,0:21:36.74,0:21:38.29,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}是因为我们是生者
+Dialogue: 0,0:21:38.91,0:21:40.65,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}我们会死在这里
+Dialogue: 0,0:21:41.05,0:21:43.16,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}将意义托付给下一个生者
+Dialogue: 0,0:21:44.24,0:21:49.32,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}这就是与这个残酷世界抗争的唯一手段
+Dialogue: 0,0:21:50.34,0:21:51.92,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}士兵们 愤怒吧
+Dialogue: 0,0:21:52.53,0:21:54.34,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}士兵们 咆哮吧
+Dialogue: 0,0:21:54.77,0:21:56.80,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}士兵们 战斗吧
+Dialogue: 0,0:23:40.64,0:23:42.77,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}为了献出心脏的友人
+Dialogue: 0,0:23:43.27,0:23:45.20,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}为了放弃梦想的友人
+Dialogue: 0,0:23:45.79,0:23:49.36,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}他们不停奔跑 直到一切都化为灰烬
+Dialogue: 0,0:23:50.20,0:23:52.09,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}在混乱和恐惧中
+Dialogue: 0,0:23:53.04,0:23:54.95,Default,,0000,0000,0000,,{\fs22\bord3\shad3\1c&HC0C0C0&\b1}下集 勇者
+Dialogue: 0,0:23:55.04,0:23:57.04,Default,,0000,0000,0000,,
+

@@ -1,0 +1,295 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,22,&H00C0C0C0,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,75,100,3,0,1,3,3,2,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:22:12.52,0:22:22.53,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs18\fsp0\1c&H0080FF&\i1}大地と大空は 何故別れたのだろう
+Dialogue: 0,0:22:22.91,0:22:33.34,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs18\fsp0\1c&H0080FF&\i1}世界は残酷で されど美しい
+Dialogue: 0,0:22:33.94,0:22:39.02,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs18\fsp0\1c&H0080FF&\i1}石を投げる者と 投げられる者には
+Dialogue: 0,0:22:39.12,0:22:43.98,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs18\fsp0\1c&H0080FF&\i1}容易に越えられぬ 柵がある
+Dialogue: 0,0:22:44.48,0:22:49.40,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs18\fsp0\1c&H0080FF&\i1}立ち位置が替われば 正義は牙を剥く
+Dialogue: 0,0:22:49.72,0:22:55.06,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs18\fsp0\1c&H0080FF&\i1}檻の中で吼えているのは 果たしてどちらか
+Dialogue: 0,0:22:55.39,0:23:02.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs18\fsp0\1c&H0080FF&\i1}心臓を捧げた 戻せない黄昏に
+Dialogue: 0,0:23:02.26,0:23:09.53,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs18\fsp0\1c&H0080FF&\i1}進み続けた夜の果て 楽園は何処にある？
+Dialogue: 0,0:23:10.72,0:23:14.64,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs18\fsp0\1c&H0080FF&\i1}Requiem Requiem
+Dialogue: 0,0:23:14.92,0:23:18.10,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs18\fsp0\1c&H0080FF&\i1}この夜に散った名も無き花よ
+Dialogue: 0,0:23:18.21,0:23:26.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs18\fsp0\1c&H0080FF&\i1}どうか安らかに暁に眠れ
+Dialogue: 0,0:01:30.98,0:01:35.99,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}愿望
+Dialogue: 0,0:01:39.02,0:01:42.11,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}总算没有其他人在了
+Dialogue: 0,0:01:43.11,0:01:44.53,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}爸爸…
+Dialogue: 0,0:01:44.57,0:01:46.74,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}抱歉让你等了那么久
+Dialogue: 0,0:01:47.49,0:01:49.53,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}你听好了 希丝特莉亚
+Dialogue: 0,0:01:49.83,0:01:52.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}这么说听起来或许很奇怪
+Dialogue: 0,0:01:52.49,0:01:55.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}但芙莉妲其实没有死
+Dialogue: 0,0:01:57.00,0:01:59.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}芙莉妲的记忆还活着
+Dialogue: 0,0:02:00.38,0:02:03.09,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}你想见姐姐吗
+Dialogue: 0,0:02:14.64,0:02:16.10,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}听好了艾连
+Dialogue: 0,0:02:16.85,0:02:20.23,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}你要替妈妈报仇
+Dialogue: 0,0:02:32.20,0:02:33.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}闯进来了吗
+Dialogue: 0,0:02:35.75,0:02:37.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}那是
+Dialogue: 0,0:02:40.50,0:02:42.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}到底想做什么
+Dialogue: 0,0:02:46.38,0:02:47.34,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}火箭矢
+Dialogue: 0,0:02:52.10,0:02:53.60,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}火药
+Dialogue: 0,0:02:53.60,0:02:55.60,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}而且那燃烧的方式
+Dialogue: 0,0:02:55.64,0:02:58.39,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}装着油的袋子散落在各处
+Dialogue: 0,0:02:59.10,0:03:00.56,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}糟糕了
+Dialogue: 0,0:03:03.82,0:03:04.86,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}防线要被攻破了
+Dialogue: 0,0:03:04.86,0:03:05.98,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}想办法打下来
+Dialogue: 0,0:03:08.53,0:03:09.82,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}信号弹
+Dialogue: 0,0:03:12.78,0:03:14.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}喷烟雾扰乱视线无法瞄准
+Dialogue: 0,0:03:17.25,0:03:20.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}24…32…
+Dialogue: 0,0:03:21.00,0:03:22.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}敌方人数35
+Dialogue: 0,0:03:22.58,0:03:24.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}都聚集在前方柱子上
+Dialogue: 0,0:03:25.21,0:03:26.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}作战继续
+Dialogue: 0,0:03:26.71,0:03:28.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}在这里把所有敌人击溃
+Dialogue: 0,0:03:28.92,0:03:30.22,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}全员散开
+Dialogue: 0,0:03:30.26,0:03:32.30,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}围攻一个个击破
+Dialogue: 0,0:03:41.52,0:03:44.19,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}又是烟雾 可恶
+Dialogue: 0,0:03:44.19,0:03:45.23,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}敌人在哪
+Dialogue: 0,0:03:48.36,0:03:51.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}对人立体机动装置的其中一个弱点
+Dialogue: 0,0:03:51.41,0:03:56.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}就是霰弹枪枪口和锚头发射器朝同一方向
+Dialogue: 0,0:03:56.95,0:03:59.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}也就是说 敌人的背面
+Dialogue: 0,0:04:00.29,0:04:01.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}完全在自己的射程外
+Dialogue: 0,0:04:13.26,0:04:15.14,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}在那里 射击！
+Dialogue: 0,0:04:18.35,0:04:19.56,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}没射中
+Dialogue: 0,0:04:20.43,0:04:21.31,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}在哪
+Dialogue: 0,0:04:26.77,0:04:27.90,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}这家伙…
+Dialogue: 0,0:04:35.28,0:04:36.45,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}莎夏
+Dialogue: 0,0:04:36.49,0:04:39.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}柯尼 要藏在烟雾里战斗
+Dialogue: 0,0:04:41.41,0:04:42.41,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}吃我一枪
+Dialogue: 0,0:04:46.17,0:04:47.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}可恶
+Dialogue: 0,0:04:48.09,0:04:50.30,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}而最大的弱点就是
+Dialogue: 0,0:04:50.51,0:04:52.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}只要开了两枪
+Dialogue: 0,0:04:53.76,0:04:56.76,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}到填弹完成需要花一点时间
+Dialogue: 0,0:05:01.52,0:05:03.19,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}这样下去不行…
+Dialogue: 0,0:05:03.19,0:05:04.85,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}这个女的怎么回事
+Dialogue: 0,0:05:13.32,0:05:16.74,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}被拉到这么近的距离 白刃战反而有利
+Dialogue: 0,0:05:21.37,0:05:22.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}得阻止这些家伙
+Dialogue: 0,0:05:27.67,0:05:30.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}这样下去…会全军覆没
+Dialogue: 0,0:05:38.85,0:05:40.51,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}嗨 里维
+Dialogue: 0,0:05:40.85,0:05:44.35,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}我现在其实没空理你呢
+Dialogue: 0,0:05:44.73,0:05:48.36,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}但要是这里被突破 可就赔了夫人又折兵呢
+Dialogue: 0,0:05:50.69,0:05:54.11,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}没办法 我就陪你玩玩
+Dialogue: 0,0:05:54.15,0:05:55.49,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}来吧
+Dialogue: 0,0:06:03.75,0:06:05.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}真有精神啊 喂
+Dialogue: 0,0:06:22.31,0:06:24.73,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}你还玩不够啊
+Dialogue: 0,0:06:24.77,0:06:26.06,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}真是的…
+Dialogue: 0,0:06:28.90,0:06:30.73,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}我不是教过你了吗
+Dialogue: 0,0:06:30.77,0:06:34.23,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}追逐敌人的时候不要只顾着看眼前
+Dialogue: 0,0:06:39.66,0:06:41.24,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}这边啦 乌龟
+Dialogue: 0,0:07:03.01,0:07:05.27,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}混账…
+Dialogue: 0,0:07:06.48,0:07:08.27,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}痛死人了…
+Dialogue: 0,0:07:11.61,0:07:12.90,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}至少干掉一个…
+Dialogue: 0,0:07:12.94,0:07:14.65,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}让敌方出现破绽的话
+Dialogue: 0,0:07:22.03,0:07:24.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}两发都大落空耶
+Dialogue: 0,0:07:25.29,0:07:28.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}你也是那种赶投胎的类型
+Dialogue: 0,0:07:33.88,0:07:35.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}好痛
+Dialogue: 0,0:07:50.02,0:07:51.44,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}汉吉分队长
+Dialogue: 0,0:07:53.48,0:07:54.57,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}就是现在
+Dialogue: 0,0:07:54.57,0:07:57.19,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}所有人撤退到最后防卫点
+Dialogue: 0,0:07:57.65,0:07:59.15,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}重拉防守线
+Dialogue: 0,0:08:08.16,0:08:10.66,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}别再挡路咯 小矮子
+Dialogue: 0,0:08:11.37,0:08:12.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}痛…
+Dialogue: 0,0:08:17.92,0:08:18.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}放
+Dialogue: 0,0:08:23.51,0:08:25.30,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}队长请去仪式之间
+Dialogue: 0,0:08:25.68,0:08:27.89,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}啊啊 先走一步
+Dialogue: 0,0:08:28.94,0:08:33.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei\fs16\an3\1c&H0080FF&}现在可以公开的情报\N注射器\N罗德·雷斯为了让\N希丝特莉亚变成巨人而准备的器具\N注射以人类的脊髓为主成分的巨人化药剂\N似乎能赋予任一能力的巨人之力
+Dialogue: 0,0:08:28.94,0:08:33.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}
+Dialogue: 0,0:08:28.94,0:08:33.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}
+Dialogue: 0,0:08:28.94,0:08:33.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}
+Dialogue: 0,0:08:28.94,0:08:33.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}
+Dialogue: 0,0:08:28.94,0:08:33.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}
+Dialogue: 0,0:08:36.15,0:08:38.90,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}敌人似乎正在逼近
+Dialogue: 0,0:08:39.15,0:08:41.19,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}动作快 希丝特莉亚
+Dialogue: 0,0:08:47.95,0:08:51.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}艾连怎么了 为什么这样狠瞪我…
+Dialogue: 0,0:08:51.58,0:08:55.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}他一定是领悟了自己的命运了
+Dialogue: 0,0:08:56.29,0:09:01.09,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}被他夺去的力量应该会回到应在之处吧
+Dialogue: 0,0:09:01.72,0:09:05.72,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}希丝特莉亚 是回到你体内哦
+Dialogue: 0,0:09:11.10,0:09:15.19,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}这个洞窟是距今100年前
+Dialogue: 0,0:09:15.23,0:09:18.02,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}使用某个巨人的力量造出的
+Dialogue: 0,0:09:18.86,0:09:22.65,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}那三道墙壁也是那个巨人力量之下的产物
+Dialogue: 0,0:09:23.03,0:09:27.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}借由造出巨大墙壁守护了人类
+Dialogue: 0,0:09:27.82,0:09:32.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}那股巨人之力也进而影响人们的心
+Dialogue: 0,0:09:32.79,0:09:34.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}窜改了人类的记忆
+Dialogue: 0,0:09:36.04,0:09:39.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}因此 虽然不包含当时某几个家族
+Dialogue: 0,0:09:39.92,0:09:42.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}不过那些家族的后裔和其他人类
+Dialogue: 0,0:09:43.17,0:09:47.18,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}没有任何人记得100年前的世界的历史
+Dialogue: 0,0:09:48.55,0:09:52.43,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}只有一个人除外 那就是芙莉妲·雷斯
+Dialogue: 0,0:09:54.14,0:09:57.73,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}芙莉妲拥有的不只是巨人之力
+Dialogue: 0,0:09:58.61,0:10:04.40,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}也知道这个世界的构成和所有过程和理由
+Dialogue: 0,0:10:05.57,0:10:10.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}她得到力量与记忆是在15岁
+Dialogue: 0,0:10:11.28,0:10:14.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}距今八年前在这个地方
+Dialogue: 0,0:10:14.83,0:10:20.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}吃掉她的伯父 也就是我的弟弟的时候
+Dialogue: 0,0:10:36.89,0:10:40.27,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}芙莉妲继承了“始祖巨人之力”
+Dialogue: 0,0:10:40.27,0:10:43.07,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}和“世界的记忆”
+Dialogue: 0,0:10:43.53,0:10:49.07,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}这一行为在这100年间持续重复 代代传承
+Dialogue: 0,0:10:53.58,0:10:54.79,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}爸爸…
+Dialogue: 0,0:10:57.96,0:11:04.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}简单来说只要芙莉妲来使用 巨人之力就没有任何问题
+Dialogue: 0,0:11:04.92,0:11:08.93,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}应该也能将巨人从这世界中驱逐吧
+Dialogue: 0,0:11:09.30,0:11:13.64,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}只要当时没被他的父亲夺走的话
+Dialogue: 0,0:11:15.10,0:11:18.81,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}现在 那股力量存在于艾连体内
+Dialogue: 0,0:11:19.44,0:11:26.07,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}但非雷斯王家血统的人无法发挥那能力真正的力量
+Dialogue: 0,0:11:26.99,0:11:30.99,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}只要他还是力量的容器
+Dialogue: 0,0:11:31.49,0:11:33.95,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}这个人间炼狱就会继续下去
+Dialogue: 0,0:11:34.53,0:11:37.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}咦…那…
+Dialogue: 0,0:11:42.17,0:11:43.34,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}肯尼…
+Dialogue: 0,0:11:43.34,0:11:46.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}你的意思是只有雷斯家的人吃掉艾连
+Dialogue: 0,0:11:46.51,0:11:48.76,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}才能成为真正的王吗
+Dialogue: 0,0:11:49.09,0:11:50.30,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}是没错
+Dialogue: 0,0:11:50.63,0:11:56.77,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}那我变成巨人吃掉艾连也没意义吗
+Dialogue: 0,0:11:56.81,0:11:58.02,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}你在说什…
+Dialogue: 0,0:12:00.85,0:12:02.19,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}爸爸
+Dialogue: 0,0:12:02.19,0:12:04.94,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}你认为我在说谎吗
+Dialogue: 0,0:12:04.98,0:12:06.36,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}不…
+Dialogue: 0,0:12:06.36,0:12:10.82,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}我一直认为只有在这个继承仪式的瞬间 你才不会说谎
+Dialogue: 0,0:12:10.86,0:12:12.74,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}所以才一直等着这一天
+Dialogue: 0,0:12:12.86,0:12:16.74,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}真是的…明知道我在打什么算盘
+Dialogue: 0,0:12:16.74,0:12:19.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}还趁机彻底利用我了一番
+Dialogue: 0,0:12:19.00,0:12:21.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}真了不起呢 大情圣
+Dialogue: 0,0:12:22.12,0:12:23.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}我很感谢呀
+Dialogue: 0,0:12:24.17,0:12:29.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}感谢胡闹的弟弟心血来潮 把你这种流浪狗捡回来用
+Dialogue: 0,0:12:29.05,0:12:31.30,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}再说一句话侮辱乌利
+Dialogue: 0,0:12:31.30,0:12:34.18,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}你的脑袋可就要少一半咯
+Dialogue: 0,0:12:34.30,0:12:35.43,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}住手
+Dialogue: 0,0:12:36.26,0:12:37.64,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}放开我父亲
+Dialogue: 0,0:12:41.02,0:12:44.44,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}你真是太可怜了呢 希丝特莉亚
+Dialogue: 0,0:12:44.44,0:12:46.27,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}你应该懂了吧
+Dialogue: 0,0:12:46.65,0:12:52.61,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}这个大叔想让你变成怪物吃掉艾连哦
+Dialogue: 0,0:12:59.16,0:13:01.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}那就是我的使命对吧
+Dialogue: 0,0:13:03.21,0:13:08.42,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}没错 我会吃掉艾连找回姐姐
+Dialogue: 0,0:13:09.25,0:13:11.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}然后继承世界的历史
+Dialogue: 0,0:13:11.92,0:13:14.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}把巨人从这个世界驱除出去
+Dialogue: 0,0:13:15.34,0:13:17.85,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}那就是我的…使命
+Dialogue: 0,0:13:19.89,0:13:22.27,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}喂喂…希丝特莉亚
+Dialogue: 0,0:13:22.27,0:13:25.48,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}你忘了这大叔对你干过什么好事了吗
+Dialogue: 0,0:13:26.06,0:13:29.52,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}他需要的只是你的血统
+Dialogue: 0,0:13:29.94,0:13:32.61,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}而且是因为自己不想变成巨人
+Dialogue: 0,0:13:32.65,0:13:36.16,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}才把责任推给弟弟和女儿的人渣
+Dialogue: 0,0:13:36.62,0:13:38.70,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}这就是你的父亲
+Dialogue: 0,0:13:41.70,0:13:44.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}不是的 希丝特莉亚
+Dialogue: 0,0:13:44.58,0:13:48.00,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}不能由我来变成巨人…
+Dialogue: 0,0:13:48.46,0:13:52.55,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}不可以信任其他人…
+Dialogue: 0,0:13:56.22,0:13:58.14,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}是这样吗
+Dialogue: 0,0:13:58.39,0:13:59.68,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}爸爸
+Dialogue: 0,0:14:03.48,0:14:04.56,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}肯尼…
+Dialogue: 0,0:14:05.19,0:14:07.90,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}你至今很努力为我族付出了很多
+Dialogue: 0,0:14:07.94,0:14:09.73,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}你现在自由了
+Dialogue: 0,0:14:10.40,0:14:14.82,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}去寻找其他的生存意义 活久一点吧
+Dialogue: 0,0:14:20.03,0:14:22.49,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}那样就太无聊了
+Dialogue: 0,0:14:28.80,0:14:31.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}肯尼…你想做什么
+Dialogue: 0,0:14:32.25,0:14:34.13,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}你们就变成巨人吧
+Dialogue: 0,0:14:34.34,0:14:36.68,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}我不会再妨碍了
+Dialogue: 0,0:14:40.47,0:14:43.31,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}但是 要等我下口号
+Dialogue: 0,0:14:44.72,0:14:47.69,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}你们两个变成巨人厮杀
+Dialogue: 0,0:14:48.10,0:14:51.11,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}希丝特莉亚赢了 和平就会到来
+Dialogue: 0,0:14:51.73,0:14:56.15,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}要是输给艾连 状况就不会改变
+Dialogue: 0,0:14:59.91,0:15:02.78,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}要我活到咽气为止
+Dialogue: 0,0:15:03.49,0:15:06.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}那算是真的活过吗
+Dialogue: 0,0:15:07.83,0:15:09.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}希丝特莉亚
+Dialogue: 0,0:15:09.04,0:15:12.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}用这剂针就能变成很强大的巨人
+Dialogue: 0,0:15:12.38,0:15:18.30,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}说是吃 准确来说只要咬碎脊椎 吸取脊髓液就好
+Dialogue: 0,0:15:20.80,0:15:23.14,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}唉呀 我得离远一点呢
+Dialogue: 0,0:15:25.14,0:15:26.93,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}动作快 希丝特莉亚
+Dialogue: 0,0:15:33.73,0:15:35.48,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}为什么啊 艾连
+Dialogue: 0,0:15:35.90,0:15:37.69,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}你为什么不变成巨人
+Dialogue: 0,0:15:39.24,0:15:40.91,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}要是我变成巨人的话
+Dialogue: 0,0:15:41.16,0:15:44.20,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}你什么也不做的话就会被我吃掉啊
+Dialogue: 0,0:15:49.50,0:15:51.92,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}你必须这么做 希丝特莉亚
+Dialogue: 0,0:15:52.75,0:15:54.38,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}根本就没有意义
+Dialogue: 0,0:15:57.42,0:16:00.76,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}我 还有我老爸也是…
+Dialogue: 0,0:16:02.30,0:16:06.52,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}只要五年前老爸不在这做出这种事
+Dialogue: 0,0:16:07.18,0:16:12.31,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}你的姐姐应该就能解决所有事情了吧
+Dialogue: 0,0:16:13.98,0:16:18.15,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}因为老爸偷走了巨人之力
+Dialogue: 0,0:16:18.19,0:16:20.53,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}究竟害死多少人了啊
+Dialogue: 0,0:16:21.82,0:16:25.78,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}阿尔敏的爷爷…托马斯…奈克…
+Dialogue: 0,0:16:25.78,0:16:28.87,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}米娜…米力伍…斯马可…
+Dialogue: 0,0:16:29.12,0:16:32.83,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}里维班的大家…托洛斯特区的居民…
+Dialogue: 0,0:16:33.29,0:16:37.67,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}试着救我的士兵…汉尼斯大叔…
+Dialogue: 0,0:16:39.26,0:16:42.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}我实在无法补偿…
+Dialogue: 0,0:16:43.89,0:16:45.68,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}根本就没有意义啊
+Dialogue: 0,0:16:46.56,0:16:48.77,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}那些训练的日子…
+Dialogue: 0,0:16:49.64,0:16:52.60,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}还有想去墙外的梦想…
+Dialogue: 0,0:16:55.19,0:16:58.69,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}我什么都不要了
+Dialogue: 0,0:17:09.03,0:17:15.33,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}所以至少…用你的手来结束这一切吧
+Dialogue: 0,0:17:16.25,0:17:20.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}吃掉我…去拯救人类吧…
+Dialogue: 0,0:17:25.34,0:17:28.30,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}之后就…交给你了…
+Dialogue: 0,0:17:36.31,0:17:37.48,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}艾连…
+Dialogue: 0,0:17:38.06,0:17:39.40,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}那个时候
+Dialogue: 0,0:17:40.23,0:17:44.74,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}你说我只是个普通人 我真的很高兴
+Dialogue: 0,0:17:51.20,0:17:54.75,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}你一直想装成好孩子的样子吧
+Dialogue: 0,0:18:01.09,0:18:04.55,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}怎么了 希丝特莉亚 你怕了吗
+Dialogue: 0,0:18:05.18,0:18:08.76,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}只要把针筒里的液体打进身体里就好哦
+Dialogue: 0,0:18:10.31,0:18:13.64,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}爸爸…为什么…
+Dialogue: 0,0:18:14.56,0:18:18.36,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}为什么雷斯家整整一百年间
+Dialogue: 0,0:18:18.52,0:18:22.90,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}都不驱逐巨人解放人类呢
+Dialogue: 0,0:18:23.49,0:18:27.61,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}明明拥有“支配所有巨人的力量”…
+Dialogue: 0,0:18:31.37,0:18:32.74,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}那是因为…
+Dialogue: 0,0:18:32.74,0:18:36.46,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}创造这个城墙里的世界的初代雷斯之王
+Dialogue: 0,0:18:36.83,0:18:40.29,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}期望着被巨人支配的世界
+Dialogue: 0,0:18:41.25,0:18:46.22,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}初代王坚定相信那才是真正的和平
+Dialogue: 0,0:18:46.88,0:18:48.89,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}我不知道个中缘由
+Dialogue: 0,0:18:49.80,0:18:52.76,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}只有看过世界的记忆之人才能了解
+Dialogue: 0,0:18:54.31,0:19:03.57,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}我也曾经和弟弟一起向父亲多次要求 从巨人手中解放人类
+Dialogue: 0,0:19:04.03,0:19:07.78,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}但是 并没有实现
+Dialogue: 0,0:19:09.03,0:19:12.78,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}然后来到父亲将那份责任托付传人之时
+Dialogue: 0,0:19:13.66,0:19:17.58,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}我看着继承巨人之力的弟弟的眼睛
+Dialogue: 0,0:19:17.66,0:19:19.71,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}终于理解了那个意义
+Dialogue: 0,0:19:21.38,0:19:26.26,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}弟弟成了创造世界 掌管世界秩序
+Dialogue: 0,0:19:26.26,0:19:31.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}全知全能且独一无二的存在
+Dialogue: 0,0:19:31.80,0:19:34.52,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}你知道该如何称呼这样的存在吗
+Dialogue: 0,0:19:35.93,0:19:37.27,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}是神啊
+Dialogue: 0,0:19:37.94,0:19:41.31,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}我们称呼这样的存在为神
+Dialogue: 0,0:19:42.06,0:19:48.32,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}我的使命是把神唤回这个世界并献上祈梼
+Dialogue: 0,0:19:48.45,0:19:50.82,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}我为你祈祷啊 希丝特莉亚
+Dialogue: 0,0:19:51.32,0:19:55.04,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}祈祷神会引领人类
+Dialogue: 0,0:19:57.70,0:20:03.96,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}克里斯塔 我没有权利批评你的生存方式
+Dialogue: 0,0:20:04.88,0:20:09.63,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}所以这只不过是我任性的愿望
+Dialogue: 0,0:20:13.60,0:20:16.72,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}你要抬头挺胸 骄傲地活下去唷
+Dialogue: 0,0:20:30.95,0:20:33.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}希丝特莉亚
+Dialogue: 0,0:20:37.62,0:20:39.12,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}什么神啊
+Dialogue: 0,0:20:39.12,0:20:42.54,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}自私地替自己找后路 自私地煽动别人
+Dialogue: 0,0:20:43.04,0:20:46.88,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}我不会再忍受你继续抹杀我了
+Dialogue: 0,0:20:53.01,0:20:56.76,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}真不错啊 你们太有趣了
+Dialogue: 0,0:20:58.77,0:21:01.14,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}你在做什么 希丝特莉亚
+Dialogue: 0,0:21:01.23,0:21:02.52,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}艾连我们逃吧
+Dialogue: 0,0:21:02.81,0:21:04.81,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}喂 喂住手
+Dialogue: 0,0:21:04.81,0:21:07.90,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}我继续活下去只会让大家困扰而已
+Dialogue: 0,0:21:07.90,0:21:10.07,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}快点吃掉我吧
+Dialogue: 0,0:21:10.07,0:21:12.40,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}我就算活着也只是徒增痛苦而己
+Dialogue: 0,0:21:12.40,0:21:15.49,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}吵死了 笨蛋 爱哭鬼 闭嘴吧
+Dialogue: 0,0:21:15.49,0:21:16.24,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}什…
+Dialogue: 0,0:21:17.70,0:21:22.37,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}谁要做驱逐巨人那种麻烦事啊
+Dialogue: 0,0:21:22.37,0:21:24.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}不如说我最讨厌人类了
+Dialogue: 0,0:21:24.50,0:21:26.50,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}被巨人毁灭正好
+Dialogue: 0,0:21:26.92,0:21:29.21,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}也就是说我就是人类的敌人
+Dialogue: 0,0:21:29.59,0:21:33.05,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}懂了吗 是最低级最恶劣的超级坏孩子
+Dialogue: 0,0:21:34.84,0:21:36.80,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}我要让艾连从这里逃走
+Dialogue: 0,0:21:36.80,0:21:39.06,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}然后把一切全都毁掉
+Dialogue: 0,0:21:42.31,0:21:47.69,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}爸爸…乌利…芙莉妲…
+Dialogue: 0,0:21:48.44,0:21:51.53,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}你们等着…我…现在就…
+Dialogue: 0,0:23:40.22,0:23:42.60,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}罗德·雷斯变成了巨人
+Dialogue: 0,0:23:43.43,0:23:46.64,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}为了保护三笠他们不被落石所伤
+Dialogue: 0,0:23:46.81,0:23:50.23,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}艾连再次被逼迫做出选择
+Dialogue: 0,0:23:51.02,0:23:54.36,Default,,0000,0000,0000,,{\fnMicrosoft YaHei}下一回“奥尔福德区外墙”
+
