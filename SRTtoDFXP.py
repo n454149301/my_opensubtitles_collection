@@ -6,8 +6,8 @@ import glob
 import time
 from datetime import datetime
 
-# offset=-1400
-offset=500
+# offset=-400
+offset=800
 # offset=0
 
 def str_data_to_num(str_data):
