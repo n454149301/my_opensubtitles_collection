@@ -1,0 +1,652 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="110000000t" end="140000000t" region="bottomCenter" style="s1" xml:id="subtitle0">文字:死树懒 白心上人 西西 草泥马 时间轴:时末 葛蔓 后期:娜夏 竭力而为</p>
+<p begin="140000000t" end="180000000t" region="bottomCenter" style="s1" xml:id="subtitle1">本字幕由诸神字幕组制作 更多中日双语作品尽在www.kamigami.org</p>
+<p begin="217300000t" end="227400000t" region="bottomCenter" style="s1" xml:id="subtitle2">常守監視官</p>
+<p begin="217300000t" end="227400000t" region="bottomCenter" style="s1" xml:id="subtitle3">常守监视官</p>
+<p begin="233800000t" end="254100000t" region="bottomCenter" style="s1" xml:id="subtitle4">征陸を連れて狡噛を捜せ</p>
+<p begin="233800000t" end="254100000t" region="bottomCenter" style="s1" xml:id="subtitle5">你带上征陆去找狡啮</p>
+<p begin="264700000t" end="282000000t" region="bottomCenter" style="s1" xml:id="subtitle6">俺と縢　六合塚は</p>
+<p begin="264700000t" end="282000000t" region="bottomCenter" style="s1" xml:id="subtitle7">我和縢 六合塚分头行动</p>
+<p begin="287500000t" end="322100000t" region="bottomCenter" style="s1" xml:id="subtitle8">手分けして妨害電波の発信源を捜し出しつぶす</p>
+<p begin="287500000t" end="322100000t" region="bottomCenter" style="s1" xml:id="subtitle9">去寻找干扰电波的发信源 摧毁掉</p>
+<p begin="323400000t" end="328500000t" region="bottomCenter" style="s1" xml:id="subtitle10">はい</p>
+<p begin="323400000t" end="328500000t" region="bottomCenter" style="s1" xml:id="subtitle11">是</p>
+<p begin="367200000t" end="394200000t" region="bottomCenter" style="s1" xml:id="subtitle12">正直　何が何だかさっぱりだ</p>
+<p begin="367200000t" end="394200000t" region="bottomCenter" style="s1" xml:id="subtitle13">老实说 我现在仍是一头雾水</p>
+<p begin="400700000t" end="412300000t" region="bottomCenter" style="s1" xml:id="subtitle14">強力なジャミングに</p>
+<p begin="400700000t" end="412300000t" region="bottomCenter" style="s1" xml:id="subtitle15">超强干扰电波</p>
+<p begin="419000000t" end="433200000t" region="bottomCenter" style="s1" xml:id="subtitle16">記録にない地下空間</p>
+<p begin="419000000t" end="433200000t" region="bottomCenter" style="s1" xml:id="subtitle17">无记录可寻的地下空间</p>
+<p begin="439700000t" end="457500000t" region="bottomCenter" style="s1" xml:id="subtitle18">狡噛からの応援要請</p>
+<p begin="439700000t" end="457500000t" region="bottomCenter" style="s1" xml:id="subtitle19">狡啮发来的支援请求</p>
+<p begin="460500000t" end="484400000t" region="bottomCenter" style="s1" xml:id="subtitle20">ただ事じゃないのは間違いないっすよ</p>
+<p begin="460500000t" end="484400000t" region="bottomCenter" style="s1" xml:id="subtitle21">唯一能断定的是 这件事非同小可</p>
+<p begin="492700000t" end="504700000t" region="bottomCenter" style="s1" xml:id="subtitle22">お前もそう思うか</p>
+<p begin="492700000t" end="504700000t" region="bottomCenter" style="s1" xml:id="subtitle23">你也这么认为啊</p>
+<p begin="511500000t" end="542400000t" region="bottomCenter" style="s1" xml:id="subtitle24">コウちゃんのあんな声 初めて聞きました</p>
+<p begin="511500000t" end="542400000t" region="bottomCenter" style="s1" xml:id="subtitle25">我还是头一回听到狡那样的声音</p>
+<p begin="549700000t" end="565100000t" region="bottomCenter" style="s1" xml:id="subtitle26">マジで切羽詰まってた</p>
+<p begin="549700000t" end="565100000t" region="bottomCenter" style="s1" xml:id="subtitle27">是真走投无路了</p>
+<p begin="620400000t" end="662300000t" region="bottomCenter" style="s1" xml:id="subtitle28">誰にも見せられないもの</p>
+<p begin="620400000t" end="662300000t" region="bottomCenter" style="s1" xml:id="subtitle29">脑海里充斥着的喧嚣</p>
+<p begin="675300000t" end="713400000t" region="bottomCenter" style="s1" xml:id="subtitle30">頭の中溢れて</p>
+<p begin="675300000t" end="713400000t" region="bottomCenter" style="s1" xml:id="subtitle31">谁都无法看见</p>
+<p begin="730000000t" end="771300000t" region="bottomCenter" style="s1" xml:id="subtitle32">間違いさえも無い世界へ</p>
+<p begin="730000000t" end="771300000t" region="bottomCenter" style="s1" xml:id="subtitle33">我在这个不会犯错的机械世界里</p>
+<p begin="785000000t" end="805900000t" region="bottomCenter" style="s1" xml:id="subtitle34">迷い込んでる</p>
+<p begin="785000000t" end="805900000t" region="bottomCenter" style="s1" xml:id="subtitle35">一路行走一路彷徨</p>
+<p begin="893100000t" end="919900000t" region="bottomCenter" style="s1" xml:id="subtitle36">あり得ないほど擦り込まれてる</p>
+<p begin="893100000t" end="919900000t" region="bottomCenter" style="s1" xml:id="subtitle37">与你擦肩而过的次数多到近乎异常</p>
+<p begin="920800000t" end="951000000t" region="bottomCenter" style="s1" xml:id="subtitle38">目に見えるものだけの“世界”現象</p>
+<p begin="920800000t" end="951000000t" region="bottomCenter" style="s1" xml:id="subtitle39">我眼里能看到的 就是我全部的世界</p>
+<p begin="961400000t" end="979500000t" region="bottomCenter" style="s1" xml:id="subtitle40">暴きだせるかな</p>
+<p begin="961400000t" end="979500000t" region="bottomCenter" style="s1" xml:id="subtitle41">能否打破它</p>
+<p begin="987200000t" end="1005900000t" region="bottomCenter" style="s1" xml:id="subtitle42">Plastic Tac Tic</p>
+<p begin="987200000t" end="1005900000t" region="bottomCenter" style="s1" xml:id="subtitle43">plastic tac tic</p>
+<p begin="1006000000t" end="1032200000t" region="bottomCenter" style="s1" xml:id="subtitle44">もう誰もおかしくなれないよ</p>
+<p begin="1006000000t" end="1032200000t" region="bottomCenter" style="s1" xml:id="subtitle45">所有人都习以为常</p>
+<p begin="1033100000t" end="1059300000t" region="bottomCenter" style="s1" xml:id="subtitle46">貴様もplastic beautiful world</p>
+<p begin="1033100000t" end="1059300000t" region="bottomCenter" style="s1" xml:id="subtitle47">你也一样 plastic beautiful world</p>
+<p begin="1064600000t" end="1088600000t" region="bottomCenter" style="s1" xml:id="subtitle48">美しすぎる世界に</p>
+<p begin="1064600000t" end="1088600000t" region="bottomCenter" style="s1" xml:id="subtitle49">在这个过于完美的世界里</p>
+<p begin="1092100000t" end="1117400000t" region="bottomCenter" style="s1" xml:id="subtitle50">僕はなぜか</p>
+<p begin="1092100000t" end="1117400000t" region="bottomCenter" style="s1" xml:id="subtitle51">我为什么</p>
+<p begin="1133300000t" end="1157900000t" region="bottomCenter" style="s1" xml:id="subtitle52">光が見えなくて</p>
+<p begin="1133300000t" end="1157900000t" region="bottomCenter" style="s1" xml:id="subtitle53">看不到光明的方向</p>
+<p begin="1168900000t" end="1204500000t" region="bottomCenter" style="s1" xml:id="subtitle54">破裂していく心が</p>
+<p begin="1168900000t" end="1204500000t" region="bottomCenter" style="s1" xml:id="subtitle55">心在一步步碎裂</p>
+<p begin="1205000000t" end="1225400000t" region="bottomCenter" style="s1" xml:id="subtitle56">無限のリフレクション</p>
+<p begin="1205000000t" end="1225400000t" region="bottomCenter" style="s1" xml:id="subtitle57">回音无限</p>
+<p begin="1274700000t" end="1317500000t" region="bottomCenter" style="s1" xml:id="subtitle58">secret remains for you</p>
+<p begin="1274700000t" end="1317500000t" region="bottomCenter" style="s1" xml:id="subtitle59">为你留下这个秘密</p>
+<p begin="1335500000t" end="1362500000t" region="bottomCenter" style="s1" xml:id="subtitle60">見せかけの色と</p>
+<p begin="1335500000t" end="1362500000t" region="bottomCenter" style="s1" xml:id="subtitle61">徒有其表的鲜艳色彩及未来</p>
+<p begin="1382900000t" end="1424700000t" region="bottomCenter" style="s1" xml:id="subtitle62">未来を暴かないで</p>
+<p begin="1382900000t" end="1424700000t" region="bottomCenter" style="s1" xml:id="subtitle63">别打破它</p>
+<p begin="1439200000t" end="1467500000t" region="bottomCenter" style="s1" xml:id="subtitle64">keep it secret motion</p>
+<p begin="1439200000t" end="1467500000t" region="bottomCenter" style="s1" xml:id="subtitle65">就让秘密继续秘密下去</p>
+<p begin="1511300000t" end="1552600000t" region="bottomCenter" style="s1" xml:id="subtitle66"></p>
+<p begin="1512500000t" end="1552900000t" region="bottomCenter" style="s1" xml:id="subtitle67">圣者的晚餐</p>
+<p begin="1628400000t" end="1648400000t" region="bottomCenter" style="s1" xml:id="subtitle68">何をこそこそやっている</p>
+<p begin="1628400000t" end="1648400000t" region="bottomCenter" style="s1" xml:id="subtitle69">偷偷摸摸地在干什么</p>
+<p begin="1865600000t" end="1879400000t" region="bottomCenter" style="s1" xml:id="subtitle70">邪魔が入ったか</p>
+<p begin="1865600000t" end="1879400000t" region="bottomCenter" style="s1" xml:id="subtitle71">来碍事的了啊</p>
+<p begin="1962700000t" end="1974700000t" region="bottomCenter" style="s1" xml:id="subtitle72">こいつか</p>
+<p begin="1962700000t" end="1974700000t" region="bottomCenter" style="s1" xml:id="subtitle73">这玩意吗</p>
+<p begin="2177800000t" end="2207700000t" region="bottomCenter" style="s1" xml:id="subtitle74">「ユーザー認証 狡噛慎也執行官」</p>
+<p begin="2177800000t" end="2207700000t" region="bottomCenter" style="s1" xml:id="subtitle75">[用户认证 狡噛慎也执行官]</p>
+<p begin="2214000000t" end="2227000000t" region="bottomCenter" style="s1" xml:id="subtitle76">「適正ユーザーです」</p>
+<p begin="2214000000t" end="2227000000t" region="bottomCenter" style="s1" xml:id="subtitle77">[白名单用户]</p>
+<p begin="2253900000t" end="2282600000t" region="bottomCenter" style="s1" xml:id="subtitle78">「対象の脅威判定が更新されました」</p>
+<p begin="2253900000t" end="2282600000t" region="bottomCenter" style="s1" xml:id="subtitle79">[目标的危险等级已更新]</p>
+<p begin="2287100000t" end="2319700000t" region="bottomCenter" style="s1" xml:id="subtitle80">「執行モード デストロイ·デコンポーザー」</p>
+<p begin="2287100000t" end="2319700000t" region="bottomCenter" style="s1" xml:id="subtitle81">[执行模式 破坏·分解 ]</p>
+<p begin="2329300000t" end="2349900000t" region="bottomCenter" style="s1" xml:id="subtitle82">「対象を完全排除します」</p>
+<p begin="2329300000t" end="2349900000t" region="bottomCenter" style="s1" xml:id="subtitle83">[彻底清除目标]</p>
+<p begin="2353100000t" end="2364400000t" region="bottomCenter" style="s1" xml:id="subtitle84">「ご注意ください」</p>
+<p begin="2353100000t" end="2364400000t" region="bottomCenter" style="s1" xml:id="subtitle85">[请注意]</p>
+<p begin="2551600000t" end="2560700000t" region="bottomCenter" style="s1" xml:id="subtitle86">あの外観</p>
+<p begin="2551600000t" end="2560700000t" region="bottomCenter" style="s1" xml:id="subtitle87">那枪的形状…</p>
+<p begin="2564600000t" end="2578200000t" region="bottomCenter" style="s1" xml:id="subtitle88">２発ごとの空白</p>
+<p begin="2564600000t" end="2578200000t" region="bottomCenter" style="s1" xml:id="subtitle89">子弹每两发间的空白时间</p>
+<p begin="2585800000t" end="2610900000t" region="bottomCenter" style="s1" xml:id="subtitle90">敵の武器は　二連銃身の猟銃か</p>
+<p begin="2585800000t" end="2610900000t" region="bottomCenter" style="s1" xml:id="subtitle91">是双管霰弹枪吗</p>
+<p begin="2634200000t" end="2658800000t" region="bottomCenter" style="s1" xml:id="subtitle92">残念ながら　時間切れです</p>
+<p begin="2634200000t" end="2658800000t" region="bottomCenter" style="s1" xml:id="subtitle93">十分遗憾 时间到了</p>
+<p begin="2664000000t" end="2680600000t" region="bottomCenter" style="s1" xml:id="subtitle94">妨害電波が破られました</p>
+<p begin="2664000000t" end="2680600000t" region="bottomCenter" style="s1" xml:id="subtitle95">干扰电波的发信源已被破坏</p>
+<p begin="2689900000t" end="2719900000t" region="bottomCenter" style="s1" xml:id="subtitle96">間もなく公安局の本隊が駆け付けるでしょう</p>
+<p begin="2689900000t" end="2719900000t" region="bottomCenter" style="s1" xml:id="subtitle97">不久 公安局的大部队就会杀到这里吧</p>
+<p begin="2735000000t" end="2754200000t" region="bottomCenter" style="s1" xml:id="subtitle98">ラヴクラフトがやられた</p>
+<p begin="2735000000t" end="2754200000t" region="bottomCenter" style="s1" xml:id="subtitle99">洛夫克拉夫特被干掉了</p>
+<p begin="2758600000t" end="2777100000t" region="bottomCenter" style="s1" xml:id="subtitle100">撃たれて壊されたんだ</p>
+<p begin="2758600000t" end="2777100000t" region="bottomCenter" style="s1" xml:id="subtitle101">被击中而破坏</p>
+<p begin="2784600000t" end="2808000000t" region="bottomCenter" style="s1" xml:id="subtitle102">やつはとうとう撃ち返してきた</p>
+<p begin="2784600000t" end="2808000000t" region="bottomCenter" style="s1" xml:id="subtitle103">他终于开始了反击</p>
+<p begin="2812700000t" end="2823100000t" region="bottomCenter" style="s1" xml:id="subtitle104">泉宮寺さん…</p>
+<p begin="2812700000t" end="2823100000t" region="bottomCenter" style="s1" xml:id="subtitle105">泉公寺先生…</p>
+<p begin="2825800000t" end="2879400000t" region="bottomCenter" style="s1" xml:id="subtitle106">昔は発展途上国のインフラ設備に関わる工事が多くてね</p>
+<p begin="2825800000t" end="2879400000t" region="bottomCenter" style="s1" xml:id="subtitle107">过去 发展中国家的基础建设工程很多</p>
+<p begin="2885000000t" end="2909400000t" region="bottomCenter" style="s1" xml:id="subtitle108">危険な現場ほど金になった</p>
+<p begin="2885000000t" end="2909400000t" region="bottomCenter" style="s1" xml:id="subtitle109">现场越是危险 越能大赚一笔</p>
+<p begin="2915900000t" end="2932700000t" region="bottomCenter" style="s1" xml:id="subtitle110">紛争は突発的で</p>
+<p begin="2915900000t" end="2932700000t" region="bottomCenter" style="s1" xml:id="subtitle111">纷争总是说不准的</p>
+<p begin="2935400000t" end="2968200000t" region="bottomCenter" style="s1" xml:id="subtitle112">状況予測と危機管理には限界があった</p>
+<p begin="2935400000t" end="2968200000t" region="bottomCenter" style="s1" xml:id="subtitle113">由于对情势的预测及 危机管理能力有限</p>
+<p begin="2974800000t" end="3005300000t" region="bottomCenter" style="s1" xml:id="subtitle114">現地でゲリラの襲撃に遭ったことがある</p>
+<p begin="2974800000t" end="3005300000t" region="bottomCenter" style="s1" xml:id="subtitle115">在现场还遭遇过游击队的袭击</p>
+<p begin="3007700000t" end="3032900000t" region="bottomCenter" style="s1" xml:id="subtitle116">もう７０～８０年は前かな</p>
+<p begin="3007700000t" end="3032900000t" region="bottomCenter" style="s1" xml:id="subtitle117">那应该是七八十年前的事了</p>
+<p begin="3039000000t" end="3073000000t" region="bottomCenter" style="s1" xml:id="subtitle118">あのときも隣にいた同僚が撃たれたんだ</p>
+<p begin="3039000000t" end="3073000000t" region="bottomCenter" style="s1" xml:id="subtitle119">那时 在我身旁的同事被打死了</p>
+<p begin="3079000000t" end="3111600000t" region="bottomCenter" style="s1" xml:id="subtitle120">それまで泣いたり叫んだりしていた友人が</p>
+<p begin="3079000000t" end="3111600000t" region="bottomCenter" style="s1" xml:id="subtitle121">前一刻还会哭会叫的朋友</p>
+<p begin="3116000000t" end="3154200000t" region="bottomCenter" style="s1" xml:id="subtitle122">次の瞬間には肉の塊になっていた</p>
+<p begin="3116000000t" end="3154200000t" region="bottomCenter" style="s1" xml:id="subtitle123">下一个瞬间就变成了肉块</p>
+<p begin="3163300000t" end="3196000000t" region="bottomCenter" style="s1" xml:id="subtitle124">私は飛び散った血しぶきを頭から浴びてね</p>
+<p begin="3163300000t" end="3196000000t" region="bottomCenter" style="s1" xml:id="subtitle125">朋友的血肉飞溅出来 淋了我一身</p>
+<p begin="3197500000t" end="3245600000t" region="bottomCenter" style="s1" xml:id="subtitle126">彼の臭いが私の全身にべっとりとこびり付いて</p>
+<p begin="3197500000t" end="3245600000t" region="bottomCenter" style="s1" xml:id="subtitle127">我整个人都湿乎乎的 尽是那种味道</p>
+<p begin="3255900000t" end="3302700000t" region="bottomCenter" style="s1" xml:id="subtitle128">勘違いしないでほしいが これはいい思い出の話だ</p>
+<p begin="3255900000t" end="3302700000t" region="bottomCenter" style="s1" xml:id="subtitle129">希望你不要误会 这是我美好的回忆</p>
+<p begin="3318200000t" end="3387800000t" region="bottomCenter" style="s1" xml:id="subtitle130">あのときほど命を生きているという実感を痛烈に感じたことはない</p>
+<p begin="3318200000t" end="3387800000t" region="bottomCenter" style="s1" xml:id="subtitle131">之后我再也没那样 深切而真实地感受过生命的存在</p>
+<p begin="3392400000t" end="3427800000t" region="bottomCenter" style="s1" xml:id="subtitle132">それを今 私は再び味わっている</p>
+<p begin="3392400000t" end="3427800000t" region="bottomCenter" style="s1" xml:id="subtitle133">而现在 我再次尝到了这种感觉</p>
+<p begin="3431300000t" end="3483300000t" region="bottomCenter" style="s1" xml:id="subtitle134">この機械仕掛けの心臓に熱い血のたぎりが蘇っている</p>
+<p begin="3431300000t" end="3483300000t" region="bottomCenter" style="s1" xml:id="subtitle135">我这机械化的心脏里 再次热血沸腾</p>
+<p begin="3486800000t" end="3502400000t" region="bottomCenter" style="s1" xml:id="subtitle136">ここで逃げろだって</p>
+<p begin="3486800000t" end="3502400000t" region="bottomCenter" style="s1" xml:id="subtitle137">要我在这时候逃跑</p>
+<p begin="3505500000t" end="3527400000t" region="bottomCenter" style="s1" xml:id="subtitle138">それは残酷というものだよ</p>
+<p begin="3505500000t" end="3527400000t" region="bottomCenter" style="s1" xml:id="subtitle139">未免对我太残忍了吧</p>
+<p begin="3536200000t" end="3560600000t" region="bottomCenter" style="s1" xml:id="subtitle140">ここから先はゲームでは済みませんよ</p>
+<p begin="3536200000t" end="3560600000t" region="bottomCenter" style="s1" xml:id="subtitle141">接下来可不是玩游戏这么简单的哦</p>
+<p begin="3564600000t" end="3579000000t" region="bottomCenter" style="s1" xml:id="subtitle142">そのとおりだ</p>
+<p begin="3564600000t" end="3579000000t" region="bottomCenter" style="s1" xml:id="subtitle143">没错</p>
+<p begin="3584000000t" end="3621700000t" region="bottomCenter" style="s1" xml:id="subtitle144">これまでハンターとして多くの獲物を仕留めてきた</p>
+<p begin="3584000000t" end="3621700000t" region="bottomCenter" style="s1" xml:id="subtitle145">作为猎人 我这一生狩猎了太多</p>
+<p begin="3626500000t" end="3667400000t" region="bottomCenter" style="s1" xml:id="subtitle146">しかし今は　デュエリストとしてあの男と対峙したい</p>
+<p begin="3626500000t" end="3667400000t" region="bottomCenter" style="s1" xml:id="subtitle147">但是此刻 我希望以决斗者的身份和他对峙</p>
+<p begin="3676200000t" end="3737200000t" region="bottomCenter" style="s1" xml:id="subtitle148">槙島君 君とてまさかここで私が尻尾を巻くさまを見たくて</p>
+<p begin="3676200000t" end="3737200000t" region="bottomCenter" style="s1" xml:id="subtitle149">槙岛君 你该不会是为了看我狼狈逃串的样子</p>
+<p begin="3737400000t" end="3768400000t" region="bottomCenter" style="s1" xml:id="subtitle150">妙な小細工を弄したわけでもあるまい</p>
+<p begin="3737400000t" end="3768400000t" region="bottomCenter" style="s1" xml:id="subtitle151">动了些奇怪的手脚吧</p>
+<p begin="3781800000t" end="3817700000t" region="bottomCenter" style="s1" xml:id="subtitle152">仰せの通りです あなたの命の輝き</p>
+<p begin="3781800000t" end="3817700000t" region="bottomCenter" style="s1" xml:id="subtitle153">您说得很对 请允许我</p>
+<p begin="3827900000t" end="3850500000t" region="bottomCenter" style="s1" xml:id="subtitle154">最後まで見届けさせてもらいます</p>
+<p begin="3827900000t" end="3850500000t" region="bottomCenter" style="s1" xml:id="subtitle155">见证您生命绽放的最后光辉</p>
+<p begin="4654100000t" end="4688800000t" region="bottomCenter" style="s1" xml:id="subtitle156">チェックメートが近いぞ　執行官</p>
+<p begin="4654100000t" end="4688800000t" region="bottomCenter" style="s1" xml:id="subtitle157">要将军了哦 执行官</p>
+<p begin="4929200000t" end="4957100000t" region="bottomCenter" style="s1" xml:id="subtitle158">「犯罪係数　３２８」</p>
+<p begin="4929200000t" end="4957100000t" region="bottomCenter" style="s1" xml:id="subtitle159">[犯罪系数 328]</p>
+<p begin="4961300000t" end="4974400000t" region="bottomCenter" style="s1" xml:id="subtitle160">「執行対象です」</p>
+<p begin="4961300000t" end="4974400000t" region="bottomCenter" style="s1" xml:id="subtitle161">[判定为执行对象]</p>
+<p begin="5151000000t" end="5172000000t" region="bottomCenter" style="s1" xml:id="subtitle162">すごい…やったよ</p>
+<p begin="5151000000t" end="5172000000t" region="bottomCenter" style="s1" xml:id="subtitle163">好厉害…太棒了</p>
+<p begin="5181100000t" end="5193200000t" region="bottomCenter" style="s1" xml:id="subtitle164">私たち勝ったよ</p>
+<p begin="5181100000t" end="5193200000t" region="bottomCenter" style="s1" xml:id="subtitle165">我们赢了哦</p>
+<p begin="5284300000t" end="5308100000t" region="bottomCenter" style="s1" xml:id="subtitle166">すまん　無茶をさせたな</p>
+<p begin="5284300000t" end="5308100000t" region="bottomCenter" style="s1" xml:id="subtitle167">抱歉 难为你了</p>
+<p begin="5316200000t" end="5347700000t" region="bottomCenter" style="s1" xml:id="subtitle168">ここを出たら すぐにセラピーを受けろ</p>
+<p begin="5316200000t" end="5347700000t" region="bottomCenter" style="s1" xml:id="subtitle169">离开这里后 你立刻去接受治疗</p>
+<p begin="5356700000t" end="5396200000t" region="bottomCenter" style="s1" xml:id="subtitle170">あんたは見るべきじゃないものを見過ぎちまってる</p>
+<p begin="5356700000t" end="5396200000t" region="bottomCenter" style="s1" xml:id="subtitle171">今天你看了太多本不该看到的东西</p>
+<p begin="5401800000t" end="5433600000t" region="bottomCenter" style="s1" xml:id="subtitle172">いいよ 狡噛さん　すてきだったもん</p>
+<p begin="5401800000t" end="5433600000t" region="bottomCenter" style="s1" xml:id="subtitle173">我没事 狡啮警官你好厉害</p>
+<p begin="5439200000t" end="5467700000t" region="bottomCenter" style="s1" xml:id="subtitle174">私も潜在犯になっちゃいたいぐらいだよ</p>
+<p begin="5439200000t" end="5467700000t" region="bottomCenter" style="s1" xml:id="subtitle175">我都想当潜在犯了呢</p>
+<p begin="5475200000t" end="5484400000t" region="bottomCenter" style="s1" xml:id="subtitle176">バカを…</p>
+<p begin="5475200000t" end="5484400000t" region="bottomCenter" style="s1" xml:id="subtitle177">说什么傻话…</p>
+<p begin="5572400000t" end="5600200000t" region="bottomCenter" style="s1" xml:id="subtitle178">やめて　放して</p>
+<p begin="5572400000t" end="5600200000t" region="bottomCenter" style="s1" xml:id="subtitle179">住手 放开我</p>
+<p begin="5648700000t" end="5676400000t" region="bottomCenter" style="s1" xml:id="subtitle180">君と語り明かしたいのはやまやまだが</p>
+<p begin="5648700000t" end="5676400000t" region="bottomCenter" style="s1" xml:id="subtitle181">虽然有很多话想跟你聊个痛快</p>
+<p begin="5679800000t" end="5699800000t" region="bottomCenter" style="s1" xml:id="subtitle182">今は具合が悪そうだね</p>
+<p begin="5679800000t" end="5699800000t" region="bottomCenter" style="s1" xml:id="subtitle183">但似乎你现在的状态不大好</p>
+<p begin="5710400000t" end="5724200000t" region="bottomCenter" style="s1" xml:id="subtitle184">いずれまた会おう</p>
+<p begin="5710400000t" end="5724200000t" region="bottomCenter" style="s1" xml:id="subtitle185">我们后会有期</p>
+<p begin="5740700000t" end="5767800000t" region="bottomCenter" style="s1" xml:id="subtitle186">やめて狡噛さん</p>
+<p begin="5740700000t" end="5767800000t" region="bottomCenter" style="s1" xml:id="subtitle187">狡啮警官 救我</p>
+<p begin="5864000000t" end="5895500000t" region="bottomCenter" style="s1" xml:id="subtitle188">油断するな きな臭いなんてもんじゃないぞ</p>
+<p begin="5864000000t" end="5895500000t" region="bottomCenter" style="s1" xml:id="subtitle189">别大意 这里可不止火药味这么简单</p>
+<p begin="5901200000t" end="5915400000t" region="bottomCenter" style="s1" xml:id="subtitle190">あちこちに弾痕が</p>
+<p begin="5901200000t" end="5915400000t" region="bottomCenter" style="s1" xml:id="subtitle191">到处都是弹痕</p>
+<p begin="5916600000t" end="5927900000t" region="bottomCenter" style="s1" xml:id="subtitle192">散弾だな</p>
+<p begin="5916600000t" end="5927900000t" region="bottomCenter" style="s1" xml:id="subtitle193">应该是散弹</p>
+<p begin="5936000000t" end="5969800000t" region="bottomCenter" style="s1" xml:id="subtitle194">火薬を使った銃の痕跡なんて久しぶりだ</p>
+<p begin="5936000000t" end="5969800000t" region="bottomCenter" style="s1" xml:id="subtitle195">火药枪的弹痕 还真是久违了啊</p>
+<p begin="5993600000t" end="6002700000t" region="bottomCenter" style="s1" xml:id="subtitle196">征陸さん…</p>
+<p begin="5993600000t" end="6002700000t" region="bottomCenter" style="s1" xml:id="subtitle197">征陆叔 快看</p>
+<p begin="6048500000t" end="6057700000t" region="bottomCenter" style="s1" xml:id="subtitle198">狡噛さん…</p>
+<p begin="6048500000t" end="6057700000t" region="bottomCenter" style="s1" xml:id="subtitle199">狡啮…</p>
+<p begin="6078300000t" end="6088200000t" region="bottomCenter" style="s1" xml:id="subtitle200">誰か</p>
+<p begin="6078300000t" end="6088200000t" region="bottomCenter" style="s1" xml:id="subtitle201">救命啊</p>
+<p begin="6093200000t" end="6098200000t" region="bottomCenter" style="s1" xml:id="subtitle202">ゆき！</p>
+<p begin="6093200000t" end="6098200000t" region="bottomCenter" style="s1" xml:id="subtitle203">小雪</p>
+<p begin="6104000000t" end="6113600000t" region="bottomCenter" style="s1" xml:id="subtitle204">今の声は</p>
+<p begin="6104000000t" end="6113600000t" region="bottomCenter" style="s1" xml:id="subtitle205">刚才的声音是</p>
+<p begin="6117100000t" end="6153500000t" region="bottomCenter" style="s1" xml:id="subtitle206">行方が分からなくなってた私の友人の声だと思います</p>
+<p begin="6117100000t" end="6153500000t" region="bottomCenter" style="s1" xml:id="subtitle207">我觉得是我那个失踪朋友的声音</p>
+<p begin="6222900000t" end="6230800000t" region="bottomCenter" style="s1" xml:id="subtitle208">狡噛さん</p>
+<p begin="6222900000t" end="6230800000t" region="bottomCenter" style="s1" xml:id="subtitle209">狡啮</p>
+<p begin="6246000000t" end="6254300000t" region="bottomCenter" style="s1" xml:id="subtitle210">狡噛さん</p>
+<p begin="6246000000t" end="6254300000t" region="bottomCenter" style="s1" xml:id="subtitle211">狡啮</p>
+<p begin="6351600000t" end="6366200000t" region="bottomCenter" style="s1" xml:id="subtitle212">ひでぇな…</p>
+<p begin="6351600000t" end="6366200000t" region="bottomCenter" style="s1" xml:id="subtitle213">太残忍了</p>
+<p begin="6368500000t" end="6387900000t" region="bottomCenter" style="s1" xml:id="subtitle214">あちこちにもらってるじゃねえか</p>
+<p begin="6368500000t" end="6387900000t" region="bottomCenter" style="s1" xml:id="subtitle215">全身上下都是伤啊</p>
+<p begin="6394500000t" end="6412200000t" region="bottomCenter" style="s1" xml:id="subtitle216">嬢ちゃん　応急処置は</p>
+<p begin="6394500000t" end="6412200000t" region="bottomCenter" style="s1" xml:id="subtitle217">大小姐 会紧急救助吗</p>
+<p begin="6416200000t" end="6429500000t" region="bottomCenter" style="s1" xml:id="subtitle218">訓練だけは何度も…</p>
+<p begin="6416200000t" end="6429500000t" region="bottomCenter" style="s1" xml:id="subtitle219">只做过几次训练</p>
+<p begin="6433500000t" end="6457700000t" region="bottomCenter" style="s1" xml:id="subtitle220">でも 実際にやったことはなくて…</p>
+<p begin="6433500000t" end="6457700000t" region="bottomCenter" style="s1" xml:id="subtitle221">实际还没操作过…</p>
+<p begin="6460800000t" end="6479500000t" region="bottomCenter" style="s1" xml:id="subtitle222">なら　俺に任せとけ</p>
+<p begin="6460800000t" end="6479500000t" region="bottomCenter" style="s1" xml:id="subtitle223">那让我来吧</p>
+<p begin="6544100000t" end="6558400000t" region="bottomCenter" style="s1" xml:id="subtitle224">もう一人いる…</p>
+<p begin="6544100000t" end="6558400000t" region="bottomCenter" style="s1" xml:id="subtitle225">还有一个人</p>
+<p begin="6563000000t" end="6586000000t" region="bottomCenter" style="s1" xml:id="subtitle226">お前のダチを連れてった…</p>
+<p begin="6563000000t" end="6586000000t" region="bottomCenter" style="s1" xml:id="subtitle227">带着你的朋友跑了</p>
+<p begin="6602800000t" end="6616800000t" region="bottomCenter" style="s1" xml:id="subtitle228">どいてろ　嬢ちゃん</p>
+<p begin="6602800000t" end="6616800000t" region="bottomCenter" style="s1" xml:id="subtitle229">大小姐 让一下</p>
+<p begin="6621400000t" end="6635800000t" region="bottomCenter" style="s1" xml:id="subtitle230">とにかく血止めなきゃ</p>
+<p begin="6621400000t" end="6635800000t" region="bottomCenter" style="s1" xml:id="subtitle231">得先把血给止住才行</p>
+<p begin="6649900000t" end="6672000000t" region="bottomCenter" style="s1" xml:id="subtitle232">何考えてるんだ 監視官</p>
+<p begin="6649900000t" end="6672000000t" region="bottomCenter" style="s1" xml:id="subtitle233">你什么意思啊 监视官</p>
+<p begin="6673800000t" end="6692000000t" region="bottomCenter" style="s1" xml:id="subtitle234">まだ事件が終わってないんです</p>
+<p begin="6673800000t" end="6692000000t" region="bottomCenter" style="s1" xml:id="subtitle235">这次的事件还没结束</p>
+<p begin="6715000000t" end="6722700000t" region="bottomCenter" style="s1" xml:id="subtitle236">くそっ</p>
+<p begin="6715000000t" end="6722700000t" region="bottomCenter" style="s1" xml:id="subtitle237">可恶</p>
+<p begin="6789400000t" end="6823700000t" region="bottomCenter" style="s1" xml:id="subtitle238">まるで戦場… いや　処刑場だ</p>
+<p begin="6789400000t" end="6823700000t" region="bottomCenter" style="s1" xml:id="subtitle239">如战场一般 不 是刑场</p>
+<p begin="6824700000t" end="6850600000t" region="bottomCenter" style="s1" xml:id="subtitle240">こりゃ ３人や４人なんてもんじゃない</p>
+<p begin="6824700000t" end="6850600000t" region="bottomCenter" style="s1" xml:id="subtitle241">照这情况 可不单单只三四个人</p>
+<p begin="6853800000t" end="6871300000t" region="bottomCenter" style="s1" xml:id="subtitle242">数十人…いや</p>
+<p begin="6853800000t" end="6871300000t" region="bottomCenter" style="s1" xml:id="subtitle243">几十人…不对</p>
+<p begin="6879200000t" end="6904700000t" region="bottomCenter" style="s1" xml:id="subtitle244">下手したら１００人近く死んでますよね</p>
+<p begin="6879200000t" end="6904700000t" region="bottomCenter" style="s1" xml:id="subtitle245">搞不好有上百人丧命</p>
+<p begin="6910200000t" end="6931200000t" region="bottomCenter" style="s1" xml:id="subtitle246">ここに狡噛が誘い込まれた</p>
+<p begin="6910200000t" end="6931200000t" region="bottomCenter" style="s1" xml:id="subtitle247">狡啮被引诱到了这种地方</p>
+<p begin="6935500000t" end="6977000000t" region="bottomCenter" style="s1" xml:id="subtitle248">大量殺人　虐殺 犯人の目的は</p>
+<p begin="6935500000t" end="6977000000t" region="bottomCenter" style="s1" xml:id="subtitle249">大规模杀人 虐杀 犯人的目的…</p>
+<p begin="6980000000t" end="6994500000t" region="bottomCenter" style="s1" xml:id="subtitle250">ゲームじゃないっすか</p>
+<p begin="6980000000t" end="6994500000t" region="bottomCenter" style="s1" xml:id="subtitle251">不是进行一场游戏吗</p>
+<p begin="7007500000t" end="7048100000t" region="bottomCenter" style="s1" xml:id="subtitle252">いや この地下にやって来たときからずっと感じてたんすよ</p>
+<p begin="7007500000t" end="7048100000t" region="bottomCenter" style="s1" xml:id="subtitle253">不是 我是说从来到这地下开始 我一直有种感觉</p>
+<p begin="7052800000t" end="7076300000t" region="bottomCenter" style="s1" xml:id="subtitle254">対戦ゲームのステージみたいだなって…</p>
+<p begin="7052800000t" end="7076300000t" region="bottomCenter" style="s1" xml:id="subtitle255">这里就像对战游戏的场景一样</p>
+<p begin="7085200000t" end="7123600000t" region="bottomCenter" style="s1" xml:id="subtitle256">バーチャルならともかく 生きた人間を使ってゲームだと</p>
+<p begin="7085200000t" end="7123600000t" region="bottomCenter" style="s1" xml:id="subtitle257">虚拟的就算了 居然用活人来玩游戏</p>
+<p begin="7144000000t" end="7170200000t" region="bottomCenter" style="s1" xml:id="subtitle258">こちらハウンド１ 誰か聞こえるか</p>
+<p begin="7144000000t" end="7170200000t" region="bottomCenter" style="s1" xml:id="subtitle259">这里是猎犬1号 有谁听得到吗</p>
+<p begin="7176200000t" end="7199900000t" region="bottomCenter" style="s1" xml:id="subtitle260">こちらシェパード１ 状況は</p>
+<p begin="7176200000t" end="7199900000t" region="bottomCenter" style="s1" xml:id="subtitle261">这里是牧羊人1号 情况如何</p>
+<p begin="7205400000t" end="7219500000t" region="bottomCenter" style="s1" xml:id="subtitle262">ハウンド３を保護した</p>
+<p begin="7205400000t" end="7219500000t" region="bottomCenter" style="s1" xml:id="subtitle263">保护住了猎犬3号</p>
+<p begin="7223100000t" end="7244000000t" region="bottomCenter" style="s1" xml:id="subtitle264">生きているのが不思議なありさまだ</p>
+<p begin="7223100000t" end="7244000000t" region="bottomCenter" style="s1" xml:id="subtitle265">他能活下来就已经很不简单了</p>
+<p begin="7249900000t" end="7273800000t" region="bottomCenter" style="s1" xml:id="subtitle266">犯人は人質をとって依然逃走中</p>
+<p begin="7249900000t" end="7273800000t" region="bottomCenter" style="s1" xml:id="subtitle267">犯人劫持了人质 仍然在逃</p>
+<p begin="7280700000t" end="7308800000t" region="bottomCenter" style="s1" xml:id="subtitle268">シェパード２が単独で追跡を続行している</p>
+<p begin="7280700000t" end="7308800000t" region="bottomCenter" style="s1" xml:id="subtitle269">警犬2号已独自去追</p>
+<p begin="7310700000t" end="7318300000t" region="bottomCenter" style="s1" xml:id="subtitle270">急いでくれ</p>
+<p begin="7310700000t" end="7318300000t" region="bottomCenter" style="s1" xml:id="subtitle271">请快来支援</p>
+<p begin="7323100000t" end="7339500000t" region="bottomCenter" style="s1" xml:id="subtitle272">くそっ 了解した</p>
+<p begin="7323100000t" end="7339500000t" region="bottomCenter" style="s1" xml:id="subtitle273">该死 明白了</p>
+<p begin="7343900000t" end="7369400000t" region="bottomCenter" style="s1" xml:id="subtitle274">その場を動くな すぐに救援に向かう</p>
+<p begin="7343900000t" end="7369400000t" region="bottomCenter" style="s1" xml:id="subtitle275">呆在原地别动 马上就去支援你们</p>
+<p begin="7378600000t" end="7400400000t" region="bottomCenter" style="s1" xml:id="subtitle276">どうやらそのくそったれなゲームとやらは</p>
+<p begin="7378600000t" end="7400400000t" region="bottomCenter" style="s1" xml:id="subtitle277">看来这个混账的游戏</p>
+<p begin="7409000000t" end="7425300000t" region="bottomCenter" style="s1" xml:id="subtitle278">まだ終わっていないらしいな</p>
+<p begin="7409000000t" end="7425300000t" region="bottomCenter" style="s1" xml:id="subtitle279">还没有结束</p>
+<p begin="7474800000t" end="7486100000t" region="bottomCenter" style="s1" xml:id="subtitle280">体が重い</p>
+<p begin="7474800000t" end="7486100000t" region="bottomCenter" style="s1" xml:id="subtitle281">身体好重</p>
+<p begin="7497600000t" end="7519600000t" region="bottomCenter" style="s1" xml:id="subtitle282">自分の体じゃないみたいだ</p>
+<p begin="7497600000t" end="7519600000t" region="bottomCenter" style="s1" xml:id="subtitle283">好像不是自己的一样</p>
+<p begin="7524200000t" end="7543600000t" region="bottomCenter" style="s1" xml:id="subtitle284">弾はまだ抜いてねえからな</p>
+<p begin="7524200000t" end="7543600000t" region="bottomCenter" style="s1" xml:id="subtitle285">因为子弹还没取出来</p>
+<p begin="7549000000t" end="7565900000t" region="bottomCenter" style="s1" xml:id="subtitle286">俺がおっかなびっくりやって</p>
+<p begin="7549000000t" end="7565900000t" region="bottomCenter" style="s1" xml:id="subtitle287">要是我战战兢兢地弄</p>
+<p begin="7570300000t" end="7605600000t" region="bottomCenter" style="s1" xml:id="subtitle288">太い血管を傷つけたら本当に致命傷だ</p>
+<p begin="7570300000t" end="7605600000t" region="bottomCenter" style="s1" xml:id="subtitle289">伤到你的主动脉就真是致命伤了</p>
+<p begin="7611000000t" end="7631100000t" region="bottomCenter" style="s1" xml:id="subtitle290">搬送後　プロにやってもらえ</p>
+<p begin="7611000000t" end="7631100000t" region="bottomCenter" style="s1" xml:id="subtitle291">送出去以后 让专业的来吧</p>
+<p begin="7634600000t" end="7653600000t" region="bottomCenter" style="s1" xml:id="subtitle292">常守監視官はどこに</p>
+<p begin="7634600000t" end="7653600000t" region="bottomCenter" style="s1" xml:id="subtitle293">常守监视官在哪</p>
+<p begin="7657200000t" end="7671400000t" region="bottomCenter" style="s1" xml:id="subtitle294">こっちが聞きてえよ</p>
+<p begin="7657200000t" end="7671400000t" region="bottomCenter" style="s1" xml:id="subtitle295">我才想知道</p>
+<p begin="7675300000t" end="7708000000t" region="bottomCenter" style="s1" xml:id="subtitle296">突っ走っていった 誰かを追っていったみたいだ</p>
+<p begin="7675300000t" end="7708000000t" region="bottomCenter" style="s1" xml:id="subtitle297">突然就冲出去了 好像在追什么人</p>
+<p begin="7719200000t" end="7736900000t" region="bottomCenter" style="s1" xml:id="subtitle298">お前の応急処置が終わったから</p>
+<p begin="7719200000t" end="7736900000t" region="bottomCenter" style="s1" xml:id="subtitle299">你的应急措施也做完了</p>
+<p begin="7740700000t" end="7762300000t" region="bottomCenter" style="s1" xml:id="subtitle300">俺も今すぐ嬢ちゃんを追い掛ける</p>
+<p begin="7740700000t" end="7762300000t" region="bottomCenter" style="s1" xml:id="subtitle301">我现在就去追她</p>
+<p begin="7766700000t" end="7775500000t" region="bottomCenter" style="s1" xml:id="subtitle302">俺も行く</p>
+<p begin="7766700000t" end="7775500000t" region="bottomCenter" style="s1" xml:id="subtitle303">我也去</p>
+<p begin="7777200000t" end="7790000000t" region="bottomCenter" style="s1" xml:id="subtitle304">お前はアホか</p>
+<p begin="7777200000t" end="7790000000t" region="bottomCenter" style="s1" xml:id="subtitle305">你是白痴吗</p>
+<p begin="7792200000t" end="7797000000t" region="bottomCenter" style="s1" xml:id="subtitle306">だが…</p>
+<p begin="7792200000t" end="7797000000t" region="bottomCenter" style="s1" xml:id="subtitle307">但是</p>
+<p begin="7823600000t" end="7846200000t" region="bottomCenter" style="s1" xml:id="subtitle308">悪いな　重傷だってのに</p>
+<p begin="7823600000t" end="7846200000t" region="bottomCenter" style="s1" xml:id="subtitle309">对不住了 明明你受了重伤</p>
+<p begin="7849800000t" end="7882600000t" region="bottomCenter" style="s1" xml:id="subtitle310">でもな　これ以上時間の無駄は嫌なんだよ</p>
+<p begin="7849800000t" end="7882600000t" region="bottomCenter" style="s1" xml:id="subtitle311">但我不想再浪费时间了</p>
+<p begin="7890900000t" end="7906700000t" region="bottomCenter" style="s1" xml:id="subtitle312">お前がこんなになるんだ</p>
+<p begin="7890900000t" end="7906700000t" region="bottomCenter" style="s1" xml:id="subtitle313">你伤成这样</p>
+<p begin="7910900000t" end="7938900000t" region="bottomCenter" style="s1" xml:id="subtitle314">はっきり言って嬢ちゃんもかなりヤバい</p>
+<p begin="7910900000t" end="7938900000t" region="bottomCenter" style="s1" xml:id="subtitle315">老实说大小姐的情况很危险</p>
+<p begin="7943600000t" end="7953400000t" region="bottomCenter" style="s1" xml:id="subtitle316">征陸執行官</p>
+<p begin="7943600000t" end="7953400000t" region="bottomCenter" style="s1" xml:id="subtitle317">征陆执行官</p>
+<p begin="7966800000t" end="7987500000t" region="bottomCenter" style="s1" xml:id="subtitle318">ちょうどよかった 監視官</p>
+<p begin="7966800000t" end="7987500000t" region="bottomCenter" style="s1" xml:id="subtitle319">来得正好 监视官</p>
+<p begin="7994900000t" end="8021300000t" region="bottomCenter" style="s1" xml:id="subtitle320">狡噛が動かないように押さえ付けといてくれ</p>
+<p begin="7994900000t" end="8021300000t" region="bottomCenter" style="s1" xml:id="subtitle321">帮我按住狡啮 让他不要乱动</p>
+<p begin="8056800000t" end="8080500000t" region="bottomCenter" style="s1" xml:id="subtitle322">しぶといもんだな　まったく</p>
+<p begin="8056800000t" end="8080500000t" region="bottomCenter" style="s1" xml:id="subtitle323">命够硬的啊 真是</p>
+<p begin="8110700000t" end="8115200000t" region="bottomCenter" style="s1" xml:id="subtitle324">何だ</p>
+<p begin="8110700000t" end="8115200000t" region="bottomCenter" style="s1" xml:id="subtitle325">怎么了</p>
+<p begin="8120500000t" end="8141000000t" region="bottomCenter" style="s1" xml:id="subtitle326">コウちゃんが1人撃ったみたいっすね</p>
+<p begin="8120500000t" end="8141000000t" region="bottomCenter" style="s1" xml:id="subtitle327">看样子狡好像干掉了一个</p>
+<p begin="8181400000t" end="8196500000t" region="bottomCenter" style="s1" xml:id="subtitle328">泉宮寺豊久</p>
+<p begin="8181400000t" end="8196500000t" region="bottomCenter" style="s1" xml:id="subtitle329">泉宫寺丰久</p>
+<p begin="8202500000t" end="8212000000t" region="bottomCenter" style="s1" xml:id="subtitle330">泉宮寺だと</p>
+<p begin="8202500000t" end="8212000000t" region="bottomCenter" style="s1" xml:id="subtitle331">居然是泉宫寺</p>
+<p begin="8215000000t" end="8229100000t" region="bottomCenter" style="s1" xml:id="subtitle332">誰っすかそれ</p>
+<p begin="8215000000t" end="8229100000t" region="bottomCenter" style="s1" xml:id="subtitle333">他谁啊</p>
+<p begin="8231600000t" end="8256000000t" region="bottomCenter" style="s1" xml:id="subtitle334">厚生省の推薦ニュースも見てないの</p>
+<p begin="8231600000t" end="8256000000t" region="bottomCenter" style="s1" xml:id="subtitle335">你没有看厚生省的推荐新闻吗</p>
+<p begin="8258400000t" end="8275900000t" region="bottomCenter" style="s1" xml:id="subtitle336">見てねえよそんなもん</p>
+<p begin="8258400000t" end="8275900000t" region="bottomCenter" style="s1" xml:id="subtitle337">那种东西我才不看</p>
+<p begin="8405300000t" end="8413200000t" region="bottomCenter" style="s1" xml:id="subtitle338">止まりなさい</p>
+<p begin="8405300000t" end="8413200000t" region="bottomCenter" style="s1" xml:id="subtitle339">站住</p>
+<p begin="8431200000t" end="8463000000t" region="bottomCenter" style="s1" xml:id="subtitle340">公安局です 武器を捨てて投降しなさい</p>
+<p begin="8431200000t" end="8463000000t" region="bottomCenter" style="s1" xml:id="subtitle341">我是警察 放下武器立刻投降</p>
+<p begin="8500000000t" end="8522700000t" region="bottomCenter" style="s1" xml:id="subtitle342">「犯罪係数　７９」</p>
+<p begin="8500000000t" end="8522700000t" region="bottomCenter" style="s1" xml:id="subtitle343">[犯罪系数79]</p>
+<p begin="8525300000t" end="8543600000t" region="bottomCenter" style="s1" xml:id="subtitle344">「執行対象ではありません」</p>
+<p begin="8525300000t" end="8543600000t" region="bottomCenter" style="s1" xml:id="subtitle345">[非执行对象]</p>
+<p begin="8547000000t" end="8565200000t" region="bottomCenter" style="s1" xml:id="subtitle346">「トリガーをロックします」</p>
+<p begin="8547000000t" end="8565200000t" region="bottomCenter" style="s1" xml:id="subtitle347">[扣上扳机]</p>
+<p begin="8580000000t" end="8588800000t" region="bottomCenter" style="s1" xml:id="subtitle348">朱</p>
+<p begin="8580000000t" end="8588800000t" region="bottomCenter" style="s1" xml:id="subtitle349">小朱</p>
+<p begin="8591400000t" end="8611500000t" region="bottomCenter" style="s1" xml:id="subtitle350">待っててゆき 今助けるから</p>
+<p begin="8591400000t" end="8611500000t" region="bottomCenter" style="s1" xml:id="subtitle351">等我小雪 马上就来救你</p>
+<p begin="8632200000t" end="8654800000t" region="bottomCenter" style="s1" xml:id="subtitle352">ああ　君の顔は知っている</p>
+<p begin="8632200000t" end="8654800000t" region="bottomCenter" style="s1" xml:id="subtitle353">哦 我认识你</p>
+<p begin="8662500000t" end="8695800000t" region="bottomCenter" style="s1" xml:id="subtitle354">公安局の常守朱監視官だね</p>
+<p begin="8662500000t" end="8695800000t" region="bottomCenter" style="s1" xml:id="subtitle355">公安局的常守朱监视官对吧</p>
+<p begin="8700600000t" end="8728800000t" region="bottomCenter" style="s1" xml:id="subtitle356">あなたがゆきを巻き込んだのね　よくも…</p>
+<p begin="8700600000t" end="8728800000t" region="bottomCenter" style="s1" xml:id="subtitle357">是你把小雪卷进来的吧 竟敢</p>
+<p begin="8732300000t" end="8754500000t" region="bottomCenter" style="s1" xml:id="subtitle358">僕は槙島聖護</p>
+<p begin="8732300000t" end="8754500000t" region="bottomCenter" style="s1" xml:id="subtitle359">我叫槙岛圣护</p>
+<p begin="8764400000t" end="8772200000t" region="bottomCenter" style="s1" xml:id="subtitle360">槙島</p>
+<p begin="8764400000t" end="8772200000t" region="bottomCenter" style="s1" xml:id="subtitle361">槙岛</p>
+<p begin="8774600000t" end="8799000000t" region="bottomCenter" style="s1" xml:id="subtitle362">なるほど そこで驚くのか</p>
+<p begin="8774600000t" end="8799000000t" region="bottomCenter" style="s1" xml:id="subtitle363">原来如此 这就吃惊了吗</p>
+<p begin="8802000000t" end="8814500000t" region="bottomCenter" style="s1" xml:id="subtitle364">さすが公安局だ</p>
+<p begin="8802000000t" end="8814500000t" region="bottomCenter" style="s1" xml:id="subtitle365">真不愧是公安局</p>
+<p begin="8825300000t" end="8851500000t" region="bottomCenter" style="s1" xml:id="subtitle366">尻尾ぐらいはつかまれていたというわけか</p>
+<p begin="8825300000t" end="8851500000t" region="bottomCenter" style="s1" xml:id="subtitle367">就是说抓到我的一些痕迹了</p>
+<p begin="8856300000t" end="8906000000t" region="bottomCenter" style="s1" xml:id="subtitle368">あなたには複数の犯罪について重大な嫌疑が掛かっています</p>
+<p begin="8856300000t" end="8906000000t" region="bottomCenter" style="s1" xml:id="subtitle369">你面临多项重大犯罪嫌疑的指控</p>
+<p begin="8909700000t" end="8936600000t" region="bottomCenter" style="s1" xml:id="subtitle370">市民憲章に基づいて同行を要請します</p>
+<p begin="8909700000t" end="8936600000t" region="bottomCenter" style="s1" xml:id="subtitle371">根据市民宪章 要求你跟我走一趟</p>
+<p begin="8940700000t" end="8962400000t" region="bottomCenter" style="s1" xml:id="subtitle372">話があるならこの場で済まそう</p>
+<p begin="8940700000t" end="8962400000t" region="bottomCenter" style="s1" xml:id="subtitle373">有事要说的话就在这解决吧</p>
+<p begin="8968700000t" end="8985300000t" region="bottomCenter" style="s1" xml:id="subtitle374">お互い多忙な身の上だろ</p>
+<p begin="8968700000t" end="8985300000t" region="bottomCenter" style="s1" xml:id="subtitle375">我们彼此都很忙不是吗</p>
+<p begin="8993500000t" end="9008100000t" region="bottomCenter" style="s1" xml:id="subtitle376">逃げられると思ってるの</p>
+<p begin="8993500000t" end="9008100000t" region="bottomCenter" style="s1" xml:id="subtitle377">你以为逃得掉吗</p>
+<p begin="9011400000t" end="9043300000t" region="bottomCenter" style="s1" xml:id="subtitle378">君は応援が来るまでの時間稼ぎのためにも</p>
+<p begin="9011400000t" end="9043300000t" region="bottomCenter" style="s1" xml:id="subtitle379">你就算是为了拖延时间等待支援</p>
+<p begin="9046800000t" end="9074800000t" region="bottomCenter" style="s1" xml:id="subtitle380">ここで僕との会話を弾ませるべきじゃないかね</p>
+<p begin="9046800000t" end="9074800000t" region="bottomCenter" style="s1" xml:id="subtitle381">不也应该和我在这里多聊一会吗</p>
+<p begin="9086200000t" end="9116600000t" region="bottomCenter" style="s1" xml:id="subtitle382">熟練の刑事ならそう判断するはずだが…</p>
+<p begin="9086200000t" end="9116600000t" region="bottomCenter" style="s1" xml:id="subtitle383">老练刑警的话 应该会这样判断</p>
+<p begin="9128100000t" end="9160000000t" region="bottomCenter" style="s1" xml:id="subtitle384">君が言う「複数の犯罪」とはどれのことだろう</p>
+<p begin="9128100000t" end="9160000000t" region="bottomCenter" style="s1" xml:id="subtitle385">你所说的“多项犯罪”指的到底是哪件啊</p>
+<p begin="9165900000t" end="9176600000t" region="bottomCenter" style="s1" xml:id="subtitle386">御堂将剛</p>
+<p begin="9165900000t" end="9176600000t" region="bottomCenter" style="s1" xml:id="subtitle387">御堂将刚</p>
+<p begin="9182200000t" end="9198300000t" region="bottomCenter" style="s1" xml:id="subtitle388">それとも王陵璃華子</p>
+<p begin="9182200000t" end="9198300000t" region="bottomCenter" style="s1" xml:id="subtitle389">还是说王陵璃华子</p>
+<p begin="9202700000t" end="9212100000t" region="bottomCenter" style="s1" xml:id="subtitle390">やっぱり…</p>
+<p begin="9202700000t" end="9212100000t" region="bottomCenter" style="s1" xml:id="subtitle391">果然</p>
+<p begin="9226600000t" end="9273800000t" region="bottomCenter" style="s1" xml:id="subtitle392">僕はね　人は自らの意思に基づいて行動したときのみ</p>
+<p begin="9226600000t" end="9273800000t" region="bottomCenter" style="s1" xml:id="subtitle393">我呢 认为人只有因自己的意志而做出行动</p>
+<p begin="9280000000t" end="9293700000t" region="bottomCenter" style="s1" xml:id="subtitle394">価値を持つと思っている</p>
+<p begin="9280000000t" end="9293700000t" region="bottomCenter" style="s1" xml:id="subtitle395">才是有价值的</p>
+<p begin="9298700000t" end="9338500000t" region="bottomCenter" style="s1" xml:id="subtitle396">だから　様々な人間に秘めたる意思を問いただし</p>
+<p begin="9298700000t" end="9338500000t" region="bottomCenter" style="s1" xml:id="subtitle397">所以我才去询问形形色色的人们 他们本身的意志</p>
+<p begin="9344600000t" end="9363200000t" region="bottomCenter" style="s1" xml:id="subtitle398">その行いを観察してきた</p>
+<p begin="9344600000t" end="9363200000t" region="bottomCenter" style="s1" xml:id="subtitle399">从而观察他们的行为</p>
+<p begin="9366600000t" end="9379000000t" region="bottomCenter" style="s1" xml:id="subtitle400">いい気にならないで</p>
+<p begin="9366600000t" end="9379000000t" region="bottomCenter" style="s1" xml:id="subtitle401">不要太嚣张了</p>
+<p begin="9382600000t" end="9397900000t" region="bottomCenter" style="s1" xml:id="subtitle402">あなたはただの犯罪者よ</p>
+<p begin="9382600000t" end="9397900000t" region="bottomCenter" style="s1" xml:id="subtitle403">你就是个罪犯</p>
+<p begin="9405700000t" end="9435800000t" region="bottomCenter" style="s1" xml:id="subtitle404">そもそも何をもって犯罪と定義するんだ</p>
+<p begin="9405700000t" end="9435800000t" region="bottomCenter" style="s1" xml:id="subtitle405">说到底 你们究竟是拿什么来定义犯罪的</p>
+<p begin="9441400000t" end="9456800000t" region="bottomCenter" style="s1" xml:id="subtitle406">君が手にしたその銃</p>
+<p begin="9441400000t" end="9456800000t" region="bottomCenter" style="s1" xml:id="subtitle407">你手里的那把枪</p>
+<p begin="9466000000t" end="9498400000t" region="bottomCenter" style="s1" xml:id="subtitle408">ドミネーターをつかさどるシビュラシステムが決めるのか</p>
+<p begin="9466000000t" end="9498400000t" region="bottomCenter" style="s1" xml:id="subtitle409">是由掌控支配者的西比拉来决定的吗</p>
+<p begin="9514800000t" end="9538400000t" region="bottomCenter" style="s1" xml:id="subtitle410">「犯罪係数　アンダー５０」</p>
+<p begin="9514800000t" end="9538400000t" region="bottomCenter" style="s1" xml:id="subtitle411">[犯罪系数 低于50]</p>
+<p begin="9542700000t" end="9561100000t" region="bottomCenter" style="s1" xml:id="subtitle412">「執行対象ではありません」</p>
+<p begin="9542700000t" end="9561100000t" region="bottomCenter" style="s1" xml:id="subtitle413">[非执行对象]</p>
+<p begin="9564900000t" end="9582700000t" region="bottomCenter" style="s1" xml:id="subtitle414">「トリガーをロックします」</p>
+<p begin="9564900000t" end="9582700000t" region="bottomCenter" style="s1" xml:id="subtitle415">[扣上扳机]</p>
+<p begin="9592300000t" end="9627700000t" region="bottomCenter" style="s1" xml:id="subtitle416">サイマティックスキャンで読み取った生体力場を解析し</p>
+<p begin="9592300000t" end="9627700000t" region="bottomCenter" style="s1" xml:id="subtitle417">通过声相检测 读取生命力场并解析</p>
+<p begin="9633100000t" end="9656000000t" region="bottomCenter" style="s1" xml:id="subtitle418">人の心の在り方を解き明かす</p>
+<p begin="9633100000t" end="9656000000t" region="bottomCenter" style="s1" xml:id="subtitle419">查明人心的种种状态</p>
+<p begin="9662800000t" end="9701900000t" region="bottomCenter" style="s1" xml:id="subtitle420">科学の英知はついに魂の秘密を暴くに至り</p>
+<p begin="9662800000t" end="9701900000t" region="bottomCenter" style="s1" xml:id="subtitle421">科学的智慧终于能剖析出灵魂的秘密</p>
+<p begin="9706500000t" end="9723500000t" region="bottomCenter" style="s1" xml:id="subtitle422">この社会は激変した</p>
+<p begin="9706500000t" end="9723500000t" region="bottomCenter" style="s1" xml:id="subtitle423">这个社会发生了急速转变</p>
+<p begin="9729400000t" end="9765700000t" region="bottomCenter" style="s1" xml:id="subtitle424">だが　その判定には人の意思が介在しない</p>
+<p begin="9729400000t" end="9765700000t" region="bottomCenter" style="s1" xml:id="subtitle425">但是 这个判定中并没有人的意识介入</p>
+<p begin="9770200000t" end="9789800000t" region="bottomCenter" style="s1" xml:id="subtitle426">君たちはいったい何を基準に</p>
+<p begin="9770200000t" end="9789800000t" region="bottomCenter" style="s1" xml:id="subtitle427">你们究竟是在用什么基准</p>
+<p begin="9792800000t" end="9814200000t" region="bottomCenter" style="s1" xml:id="subtitle428">善と悪をより分けているんだろうね</p>
+<p begin="9792800000t" end="9814200000t" region="bottomCenter" style="s1" xml:id="subtitle429">来区分善与恶的呢</p>
+<p begin="9828200000t" end="9845200000t" region="bottomCenter" style="s1" xml:id="subtitle430">あなた　いったい…</p>
+<p begin="9828200000t" end="9845200000t" region="bottomCenter" style="s1" xml:id="subtitle431">你 究竟是…</p>
+<p begin="9848800000t" end="9879900000t" region="bottomCenter" style="s1" xml:id="subtitle432">僕は人の魂の輝きが見たい</p>
+<p begin="9848800000t" end="9879900000t" region="bottomCenter" style="s1" xml:id="subtitle433">我想要观察人类灵魂的光芒</p>
+<p begin="9890500000t" end="9918600000t" region="bottomCenter" style="s1" xml:id="subtitle434">それが本当に尊いものだと確かめたい</p>
+<p begin="9890500000t" end="9918600000t" region="bottomCenter" style="s1" xml:id="subtitle435">想要确认那是真正高贵的存在</p>
+<p begin="9923100000t" end="9950200000t" region="bottomCenter" style="s1" xml:id="subtitle436">だが 己の意思を問うこともせず</p>
+<p begin="9923100000t" end="9950200000t" region="bottomCenter" style="s1" xml:id="subtitle437">但是 不管自己的意愿如何</p>
+<p begin="9953600000t" end="9985700000t" region="bottomCenter" style="s1" xml:id="subtitle438">ただシビュラの神託のままに生きる人間たちに</p>
+<p begin="9953600000t" end="9985700000t" region="bottomCenter" style="s1" xml:id="subtitle439">一味听从西比拉系统的神谕而生的人类</p>
+<p begin="9988000000t" end="10012400000t" region="bottomCenter" style="s1" xml:id="subtitle440">果たして　価値はあるんだろうか</p>
+<p begin="9988000000t" end="10012400000t" region="bottomCenter" style="s1" xml:id="subtitle441">究竟 是否还有这种价值</p>
+<p begin="10038300000t" end="10071300000t" region="bottomCenter" style="s1" xml:id="subtitle442">せっかくだ 君にも問うてみるとしよう</p>
+<p begin="10038300000t" end="10071300000t" region="bottomCenter" style="s1" xml:id="subtitle443">机会难得 我也来问一下你吧</p>
+<p begin="10078100000t" end="10101700000t" region="bottomCenter" style="s1" xml:id="subtitle444">刑事としての判断と行動を</p>
+<p begin="10078100000t" end="10101700000t" region="bottomCenter" style="s1" xml:id="subtitle445">作为一个刑警的判断和行动</p>
+<p begin="10122500000t" end="10141000000t" region="bottomCenter" style="s1" xml:id="subtitle446">なっ…何をするつもり</p>
+<p begin="10122500000t" end="10141000000t" region="bottomCenter" style="s1" xml:id="subtitle447">你 你打算做什么</p>
+<p begin="10151100000t" end="10189400000t" region="bottomCenter" style="s1" xml:id="subtitle448">今からこの女船原ゆきを殺してみせよう</p>
+<p begin="10151100000t" end="10189400000t" region="bottomCenter" style="s1" xml:id="subtitle449">现在我准备杀掉这个叫船原雪的女人</p>
+<p begin="10203500000t" end="10218000000t" region="bottomCenter" style="s1" xml:id="subtitle450">君の目の前で</p>
+<p begin="10203500000t" end="10218000000t" region="bottomCenter" style="s1" xml:id="subtitle451">就在你的眼前</p>
+<p begin="10220400000t" end="10241700000t" region="bottomCenter" style="s1" xml:id="subtitle452">「犯罪係数　４８」</p>
+<p begin="10220400000t" end="10241700000t" region="bottomCenter" style="s1" xml:id="subtitle453">[犯罪系数48]</p>
+<p begin="10246800000t" end="10264600000t" region="bottomCenter" style="s1" xml:id="subtitle454">「執行対象ではありません」</p>
+<p begin="10246800000t" end="10264600000t" region="bottomCenter" style="s1" xml:id="subtitle455">[非执行对象]</p>
+<p begin="10269100000t" end="10288000000t" region="bottomCenter" style="s1" xml:id="subtitle456">「トリガーをロックします」</p>
+<p begin="10269100000t" end="10288000000t" region="bottomCenter" style="s1" xml:id="subtitle457">[扣上扳机]</p>
+<p begin="10298200000t" end="10309400000t" region="bottomCenter" style="s1" xml:id="subtitle458">止めたければ</p>
+<p begin="10298200000t" end="10309400000t" region="bottomCenter" style="s1" xml:id="subtitle459">若是想要阻止我的话</p>
+<p begin="10314200000t" end="10339200000t" region="bottomCenter" style="s1" xml:id="subtitle460">そんな役に立たない鉄くずではなく</p>
+<p begin="10314200000t" end="10339200000t" region="bottomCenter" style="s1" xml:id="subtitle461">就扔掉那种没用的废铁</p>
+<p begin="10342800000t" end="10364600000t" region="bottomCenter" style="s1" xml:id="subtitle462">今あげた銃を拾って使うといい</p>
+<p begin="10342800000t" end="10364600000t" region="bottomCenter" style="s1" xml:id="subtitle463">捡起我扔给你的枪就行了</p>
+<p begin="10373100000t" end="10396600000t" region="bottomCenter" style="s1" xml:id="subtitle464">引き金を引けば弾は出る</p>
+<p begin="10373100000t" end="10396600000t" region="bottomCenter" style="s1" xml:id="subtitle465">扣下扳机 子弹射出</p>
+<p begin="10399800000t" end="10416300000t" region="bottomCenter" style="s1" xml:id="subtitle466">で…できるわけない</p>
+<p begin="10399800000t" end="10416300000t" region="bottomCenter" style="s1" xml:id="subtitle467">怎 怎么可能做到</p>
+<p begin="10422100000t" end="10439200000t" region="bottomCenter" style="s1" xml:id="subtitle468">だって　あなたは…</p>
+<p begin="10422100000t" end="10439200000t" region="bottomCenter" style="s1" xml:id="subtitle469">因为 你是</p>
+<p begin="10443100000t" end="10466190000t" region="bottomCenter" style="s1" xml:id="subtitle470">善良な市民だからかね</p>
+<p begin="10443100000t" end="10466190000t" region="bottomCenter" style="s1" xml:id="subtitle471">善良的市民是吧</p>
+<p begin="10472100000t" end="10491900000t" region="bottomCenter" style="s1" xml:id="subtitle472">シビュラがそう判定したから</p>
+<p begin="10472100000t" end="10491900000t" region="bottomCenter" style="s1" xml:id="subtitle473">因为西比拉是这么判定的</p>
+<p begin="10527500000t" end="10547500000t" region="bottomCenter" style="s1" xml:id="subtitle474">「犯罪係数　３２」</p>
+<p begin="10527500000t" end="10547500000t" region="bottomCenter" style="s1" xml:id="subtitle475">[犯罪系数32]</p>
+<p begin="10555400000t" end="10572800000t" region="bottomCenter" style="s1" xml:id="subtitle476">「執行対象ではありません」</p>
+<p begin="10555400000t" end="10572800000t" region="bottomCenter" style="s1" xml:id="subtitle477">[非执行对象]</p>
+<p begin="10577000000t" end="10595300000t" region="bottomCenter" style="s1" xml:id="subtitle478">「トリガーをロックします」</p>
+<p begin="10577000000t" end="10595300000t" region="bottomCenter" style="s1" xml:id="subtitle479">[扣上扳机]</p>
+<p begin="10577400000t" end="10592200000t" region="bottomCenter" style="s1" xml:id="subtitle480">ど…どうして</p>
+<p begin="10577400000t" end="10592200000t" region="bottomCenter" style="s1" xml:id="subtitle481">为 为什么</p>
+<p begin="10599000000t" end="10620500000t" region="bottomCenter" style="s1" xml:id="subtitle482">なぜかは僕にも分からない</p>
+<p begin="10599000000t" end="10620500000t" region="bottomCenter" style="s1" xml:id="subtitle483">为什么这样我也不知道</p>
+<p begin="10624800000t" end="10644400000t" region="bottomCenter" style="s1" xml:id="subtitle484">子供のころから不思議だったよ</p>
+<p begin="10624800000t" end="10644400000t" region="bottomCenter" style="s1" xml:id="subtitle485">从小时候起我就觉得不可思议</p>
+<p begin="10649900000t" end="10678100000t" region="bottomCenter" style="s1" xml:id="subtitle486">僕のサイコパスはいつだって真っ白だった</p>
+<p begin="10649900000t" end="10678100000t" region="bottomCenter" style="s1" xml:id="subtitle487">我的反社会人格总是纯白的</p>
+<p begin="10685900000t" end="10705300000t" region="bottomCenter" style="s1" xml:id="subtitle488">ただの一度も曇ったことがない</p>
+<p begin="10685900000t" end="10705300000t" region="bottomCenter" style="s1" xml:id="subtitle489">一次也没有变浑浊过</p>
+<p begin="10711000000t" end="10740000000t" region="bottomCenter" style="s1" xml:id="subtitle490">この体のありとあらゆる生体反応が</p>
+<p begin="10711000000t" end="10740000000t" region="bottomCenter" style="s1" xml:id="subtitle491">这幅身躯的存在以及所有的生命反应</p>
+<p begin="10745400000t" end="10771200000t" region="bottomCenter" style="s1" xml:id="subtitle492">僕という人間を肯定しているんだろうね</p>
+<p begin="10745400000t" end="10771200000t" region="bottomCenter" style="s1" xml:id="subtitle493">都对我这个人做出了认可吧</p>
+<p begin="10780700000t" end="10819500000t" region="bottomCenter" style="s1" xml:id="subtitle494">これは健やかにして善なる人の行いだと</p>
+<p begin="10780700000t" end="10819500000t" region="bottomCenter" style="s1" xml:id="subtitle495">认为这是一个健全又善良的人的行为</p>
+<p begin="10841200000t" end="10849000000t" region="bottomCenter" style="s1" xml:id="subtitle496">やめて…</p>
+<p begin="10841200000t" end="10849000000t" region="bottomCenter" style="s1" xml:id="subtitle497">住手</p>
+<p begin="10854600000t" end="10877400000t" region="bottomCenter" style="s1" xml:id="subtitle498">助けて　朱</p>
+<p begin="10854600000t" end="10877400000t" region="bottomCenter" style="s1" xml:id="subtitle499">救救我 小朱</p>
+<p begin="10880200000t" end="10886200000t" region="bottomCenter" style="s1" xml:id="subtitle500">ゆき</p>
+<p begin="10880200000t" end="10886200000t" region="bottomCenter" style="s1" xml:id="subtitle501">小雪</p>
+<p begin="10893900000t" end="10921000000t" region="bottomCenter" style="s1" xml:id="subtitle502">君たちでは僕の罪をはかれない</p>
+<p begin="10893900000t" end="10921000000t" region="bottomCenter" style="s1" xml:id="subtitle503">你们无法测量我的罪行</p>
+<p begin="10928800000t" end="10951100000t" region="bottomCenter" style="s1" xml:id="subtitle504">僕を裁ける者がいるとしたら</p>
+<p begin="10928800000t" end="10951100000t" region="bottomCenter" style="s1" xml:id="subtitle505">如果有人可以制裁我的话</p>
+<p begin="10956200000t" end="10963100000t" region="bottomCenter" style="s1" xml:id="subtitle506">それは…</p>
+<p begin="10956200000t" end="10963100000t" region="bottomCenter" style="s1" xml:id="subtitle507">那一定是</p>
+<p begin="10982400000t" end="11013900000t" region="bottomCenter" style="s1" xml:id="subtitle508">自らの意思で人殺しになれる者だけさ</p>
+<p begin="10982400000t" end="11013900000t" region="bottomCenter" style="s1" xml:id="subtitle509">依靠自己的意志成为凶手的人</p>
+<p begin="11064800000t" end="11081800000t" region="bottomCenter" style="s1" xml:id="subtitle510">今すぐゆきを解放しなさい</p>
+<p begin="11064800000t" end="11081800000t" region="bottomCenter" style="s1" xml:id="subtitle511">现在马上给我放开小雪</p>
+<p begin="11089900000t" end="11098900000t" region="bottomCenter" style="s1" xml:id="subtitle512">さもないと…</p>
+<p begin="11089900000t" end="11098900000t" region="bottomCenter" style="s1" xml:id="subtitle513">不然的话</p>
+<p begin="11104200000t" end="11130600000t" region="bottomCenter" style="s1" xml:id="subtitle514">さもなければ僕は殺される</p>
+<p begin="11104200000t" end="11130600000t" region="bottomCenter" style="s1" xml:id="subtitle515">不然我就会死</p>
+<p begin="11136200000t" end="11152800000t" region="bottomCenter" style="s1" xml:id="subtitle516">君の殺意によってね</p>
+<p begin="11136200000t" end="11152800000t" region="bottomCenter" style="s1" xml:id="subtitle517">被你的杀意所干掉呢</p>
+<p begin="11159200000t" end="11181100000t" region="bottomCenter" style="s1" xml:id="subtitle518">それはそれで尊い結末だ</p>
+<p begin="11159200000t" end="11181100000t" region="bottomCenter" style="s1" xml:id="subtitle519">这样也是一种高贵的结局</p>
+<p begin="11197800000t" end="11238900000t" region="bottomCenter" style="s1" xml:id="subtitle520">ほら　人さし指に命の重みを感じるだろう</p>
+<p begin="11197800000t" end="11238900000t" region="bottomCenter" style="s1" xml:id="subtitle521">你瞧 这时候你的食指上能感受到生命的重量对吧</p>
+<p begin="11247200000t" end="11280200000t" region="bottomCenter" style="s1" xml:id="subtitle522">シビュラの傀儡でいる限りは決して味わえない</p>
+<p begin="11247200000t" end="11280200000t" region="bottomCenter" style="s1" xml:id="subtitle523">只要你还是西比拉的傀儡就绝不会感受到</p>
+<p begin="11289800000t" end="11312300000t" region="bottomCenter" style="s1" xml:id="subtitle524">それが決断と意思の重さだよ</p>
+<p begin="11289800000t" end="11312300000t" region="bottomCenter" style="s1" xml:id="subtitle525">那是决断和意志的重量</p>
+<p begin="11321800000t" end="11344600000t" region="bottomCenter" style="s1" xml:id="subtitle526">「犯罪係数　アンダー２０」</p>
+<p begin="11321800000t" end="11344600000t" region="bottomCenter" style="s1" xml:id="subtitle527">[犯罪系数 低于20]</p>
+<p begin="11349800000t" end="11366000000t" region="bottomCenter" style="s1" xml:id="subtitle528">「執行対象ではありません」</p>
+<p begin="11349800000t" end="11366000000t" region="bottomCenter" style="s1" xml:id="subtitle529">[非执行对象]</p>
+<p begin="11372500000t" end="11391500000t" region="bottomCenter" style="s1" xml:id="subtitle530">「トリガーをロックします」</p>
+<p begin="11372500000t" end="11391500000t" region="bottomCenter" style="s1" xml:id="subtitle531">[扣上扳机]</p>
+<p begin="11392400000t" end="11402300000t" region="bottomCenter" style="s1" xml:id="subtitle532">デカルトは</p>
+<p begin="11392400000t" end="11402300000t" region="bottomCenter" style="s1" xml:id="subtitle533">笛卡尔说过</p>
+<p begin="11409200000t" end="11472200000t" region="bottomCenter" style="s1" xml:id="subtitle534">「決断ができない人間は欲望が大き過ぎるか 悟性が足りないのだ」と言った</p>
+<p begin="11409200000t" end="11472200000t" region="bottomCenter" style="s1" xml:id="subtitle535">[选择困难症的人不是欲望太奢靡 就是觉悟还不够]</p>
+<p begin="11483800000t" end="11492300000t" region="bottomCenter" style="s1" xml:id="subtitle536">どうした</p>
+<p begin="11483800000t" end="11492300000t" region="bottomCenter" style="s1" xml:id="subtitle537">怎么了</p>
+<p begin="11499500000t" end="11522400000t" region="bottomCenter" style="s1" xml:id="subtitle538">ちゃんと構えないと弾が外れるよ</p>
+<p begin="11499500000t" end="11522400000t" region="bottomCenter" style="s1" xml:id="subtitle539">不好好瞄准的话子弹会射偏的哦</p>
+<p begin="11554800000t" end="11576900000t" region="bottomCenter" style="s1" xml:id="subtitle540">さあ　殺す気で狙え</p>
+<p begin="11554800000t" end="11576900000t" region="bottomCenter" style="s1" xml:id="subtitle541">来吧 用想杀死我的心瞄准我</p>
+<p begin="11757900000t" end="11774800000t" region="bottomCenter" style="s1" xml:id="subtitle542">あっ…朱</p>
+<p begin="11757900000t" end="11774800000t" region="bottomCenter" style="s1" xml:id="subtitle543">啊 小朱</p>
+<p begin="11787100000t" end="11838800000t" region="bottomCenter" style="s1" xml:id="subtitle544">残念だ とても残念だよ常守朱監視官</p>
+<p begin="11787100000t" end="11838800000t" region="bottomCenter" style="s1" xml:id="subtitle545">遗憾 真是遗憾 常守朱监视官</p>
+<p begin="11843800000t" end="11861900000t" region="bottomCenter" style="s1" xml:id="subtitle546">嫌っ 助けて</p>
+<p begin="11843800000t" end="11861900000t" region="bottomCenter" style="s1" xml:id="subtitle547">不要 快救我</p>
+<p begin="11865200000t" end="11874900000t" region="bottomCenter" style="s1" xml:id="subtitle548">朱</p>
+<p begin="11865200000t" end="11874900000t" region="bottomCenter" style="s1" xml:id="subtitle549">小朱</p>
+<p begin="11890100000t" end="11911300000t" region="bottomCenter" style="s1" xml:id="subtitle550">君は僕を失望させた</p>
+<p begin="11890100000t" end="11911300000t" region="bottomCenter" style="s1" xml:id="subtitle551">你让我很失望</p>
+<p begin="11918100000t" end="11944800000t" region="bottomCenter" style="s1" xml:id="subtitle552">だから 罰を与えなくてはならない</p>
+<p begin="11918100000t" end="11944800000t" region="bottomCenter" style="s1" xml:id="subtitle553">所以 必须要给你惩罚</p>
+<p begin="11945000000t" end="11967600000t" region="bottomCenter" style="s1" xml:id="subtitle554">やめて…お願い</p>
+<p begin="11945000000t" end="11967600000t" region="bottomCenter" style="s1" xml:id="subtitle555">住手 求求你</p>
+<p begin="11976200000t" end="12017300000t" region="bottomCenter" style="s1" xml:id="subtitle556">己の無力さを後悔し絶望するがいい</p>
+<p begin="11976200000t" end="12017300000t" region="bottomCenter" style="s1" xml:id="subtitle557">尽情绝望后悔自己的无能去吧</p>
+<p begin="12030600000t" end="12049000000t" region="bottomCenter" style="s1" xml:id="subtitle558">「犯罪係数　０」</p>
+<p begin="12030600000t" end="12049000000t" region="bottomCenter" style="s1" xml:id="subtitle559">[犯罪系数0]</p>
+<p begin="12052100000t" end="12084900000t" region="bottomCenter" style="s1" xml:id="subtitle560">「執行対象ではありませんトリガーを…」</p>
+<p begin="12052100000t" end="12084900000t" region="bottomCenter" style="s1" xml:id="subtitle561">[非执行对象 扣上…]</p>
+<p begin="12085200000t" end="12103800000t" region="bottomCenter" style="s1" xml:id="subtitle562">やめてーっ</p>
+<p begin="12085200000t" end="12103800000t" region="bottomCenter" style="s1" xml:id="subtitle563">住手！</p>
+<p begin="12148300000t" end="12156800000t" region="bottomCenter" style="s1" xml:id="subtitle564">お嬢ちゃん</p>
+<p begin="12148300000t" end="12156800000t" region="bottomCenter" style="s1" xml:id="subtitle565">大小姐</p>
+<p begin="12438200000t" end="12447100000t" region="bottomCenter" style="s1" xml:id="subtitle566">気が付いたか</p>
+<p begin="12438200000t" end="12447100000t" region="bottomCenter" style="s1" xml:id="subtitle567">醒了吗</p>
+<p begin="12479200000t" end="12494300000t" region="bottomCenter" style="s1" xml:id="subtitle568">常守監視官は</p>
+<p begin="12479200000t" end="12494300000t" region="bottomCenter" style="s1" xml:id="subtitle569">常守监视官呢</p>
+<p begin="12579700000t" end="12598200000t" region="bottomCenter" style="s1" xml:id="subtitle570">私がゆきを見殺しにした</p>
+<p begin="12579700000t" end="12598200000t" region="bottomCenter" style="s1" xml:id="subtitle571">我对小雪见死不救</p>
+<p begin="12614000000t" end="12633100000t" region="bottomCenter" style="s1" xml:id="subtitle572">私がゆきを見殺しにした</p>
+<p begin="12614000000t" end="12633100000t" region="bottomCenter" style="s1" xml:id="subtitle573">我对小雪见死不救</p>
+<p begin="12714100000t" end="12724000000t" region="bottomCenter" style="s1" xml:id="subtitle574">何があった</p>
+<p begin="12714100000t" end="12724000000t" region="bottomCenter" style="s1" xml:id="subtitle575">发生了什么</p>
+<p begin="12735500000t" end="12765200000t" region="bottomCenter" style="s1" xml:id="subtitle576">あの男と　会いました</p>
+<p begin="12735500000t" end="12765200000t" region="bottomCenter" style="s1" xml:id="subtitle577">我见到了 那个人</p>
+<p begin="12769400000t" end="12778600000t" region="bottomCenter" style="s1" xml:id="subtitle578">あの男</p>
+<p begin="12769400000t" end="12778600000t" region="bottomCenter" style="s1" xml:id="subtitle579">那个人？</p>
+<p begin="12790700000t" end="12804200000t" region="bottomCenter" style="s1" xml:id="subtitle580">槙島聖護は</p>
+<p begin="12790700000t" end="12804200000t" region="bottomCenter" style="s1" xml:id="subtitle581">槙岛圣护</p>
+<p begin="12815600000t" end="12845200000t" region="bottomCenter" style="s1" xml:id="subtitle582">ドミネーターで裁けません…</p>
+<p begin="12815600000t" end="12845200000t" region="bottomCenter" style="s1" xml:id="subtitle583">用支配者无法制裁</p>
+<p begin="12858300000t" end="12892100000t" region="bottomCenter" style="s1" xml:id="subtitle584">御伽話（フェアリーテイル）は</p>
+<p begin="12858300000t" end="12892100000t" region="bottomCenter" style="s1" xml:id="subtitle585">童话般的美好</p>
+<p begin="12911400000t" end="12948200000t" region="bottomCenter" style="s1" xml:id="subtitle586">さっき死んだみたい</p>
+<p begin="12911400000t" end="12948200000t" region="bottomCenter" style="s1" xml:id="subtitle587">在刚刚已经死去</p>
+<p begin="12965800000t" end="13000100000t" region="bottomCenter" style="s1" xml:id="subtitle588">煉瓦の病棟で</p>
+<p begin="12965800000t" end="13000100000t" region="bottomCenter" style="s1" xml:id="subtitle589">瓦墙下的病房</p>
+<p begin="13019100000t" end="13053400000t" region="bottomCenter" style="s1" xml:id="subtitle590">うまく歌えなくて</p>
+<p begin="13019100000t" end="13053400000t" region="bottomCenter" style="s1" xml:id="subtitle591">在这里我无法歌唱</p>
+<p begin="13071900000t" end="13105400000t" region="bottomCenter" style="s1" xml:id="subtitle592">霧に煙る夜</p>
+<p begin="13071900000t" end="13105400000t" region="bottomCenter" style="s1" xml:id="subtitle593">灰灰蒙蒙的夜</p>
+<p begin="13125200000t" end="13159300000t" region="bottomCenter" style="s1" xml:id="subtitle594">浮かべ赤い月</p>
+<p begin="13125200000t" end="13159300000t" region="bottomCenter" style="s1" xml:id="subtitle595">悬浮飘红的月</p>
+<p begin="13178700000t" end="13216100000t" region="bottomCenter" style="s1" xml:id="subtitle596">ほらみて　私を</p>
+<p begin="13178700000t" end="13216100000t" region="bottomCenter" style="s1" xml:id="subtitle597">快 看我</p>
+<p begin="13231700000t" end="13268400000t" region="bottomCenter" style="s1" xml:id="subtitle598">目を逸らさないで</p>
+<p begin="13231700000t" end="13268400000t" region="bottomCenter" style="s1" xml:id="subtitle599">别移开你的视线</p>
+<p begin="13292100000t" end="13318800000t" region="bottomCenter" style="s1" xml:id="subtitle600">黒い鉄格子の中で</p>
+<p begin="13292100000t" end="13318800000t" region="bottomCenter" style="s1" xml:id="subtitle601">黑色的铁栅背后</p>
+<p begin="13318900000t" end="13345400000t" region="bottomCenter" style="s1" xml:id="subtitle602">私は生まれてきたんだ</p>
+<p begin="13318900000t" end="13345400000t" region="bottomCenter" style="s1" xml:id="subtitle603">我来到这个世界</p>
+<p begin="13345500000t" end="13367900000t" region="bottomCenter" style="s1" xml:id="subtitle604">悪意の代償を願え</p>
+<p begin="13345500000t" end="13367900000t" region="bottomCenter" style="s1" xml:id="subtitle605">祈祷恶的代价</p>
+<p begin="13368000000t" end="13398700000t" region="bottomCenter" style="s1" xml:id="subtitle606">望むがままにお前に</p>
+<p begin="13368000000t" end="13398700000t" region="bottomCenter" style="s1" xml:id="subtitle607">如你所愿给你吧</p>
+<p begin="13398800000t" end="13425500000t" region="bottomCenter" style="s1" xml:id="subtitle608">さあ与えよう正義を</p>
+<p begin="13398800000t" end="13425500000t" region="bottomCenter" style="s1" xml:id="subtitle609">来吧 给予你正义</p>
+<p begin="13425600000t" end="13452200000t" region="bottomCenter" style="s1" xml:id="subtitle610">壊して　壊される前に</p>
+<p begin="13425600000t" end="13452200000t" region="bottomCenter" style="s1" xml:id="subtitle611">破坏它 在被破坏之前</p>
+<p begin="13452200000t" end="13475600000t" region="bottomCenter" style="s1" xml:id="subtitle612">因果の代償を払い</p>
+<p begin="13452200000t" end="13475600000t" region="bottomCenter" style="s1" xml:id="subtitle613">偿还因果的代价</p>
+<p begin="13475700000t" end="13505600000t" region="bottomCenter" style="s1" xml:id="subtitle614">報いよ名もな怪物</p>
+<p begin="13475700000t" end="13505600000t" region="bottomCenter" style="s1" xml:id="subtitle615">因果报应 无名怪兽</p>
+<p begin="13505700000t" end="13532100000t" region="bottomCenter" style="s1" xml:id="subtitle616">黒い雨　降らせこの空</p>
+<p begin="13505700000t" end="13532100000t" region="bottomCenter" style="s1" xml:id="subtitle617">黑黑的雨 天空中降落</p>
+<p begin="13532200000t" end="13558900000t" region="bottomCenter" style="s1" xml:id="subtitle618">私は望まれないもの</p>
+<p begin="13532200000t" end="13558900000t" region="bottomCenter" style="s1" xml:id="subtitle619">被流放抛弃的我</p>
+<p begin="13559000000t" end="13578300000t" region="bottomCenter" style="s1" xml:id="subtitle620">ひび割れたノイローゼ</p>
+<p begin="13559000000t" end="13578300000t" region="bottomCenter" style="s1" xml:id="subtitle621">神经撕裂般的痛</p>
+<p begin="13578500000t" end="13611500000t" region="bottomCenter" style="s1" xml:id="subtitle622">愛す同罪の傍観者に</p>
+<p begin="13578500000t" end="13611500000t" region="bottomCenter" style="s1" xml:id="subtitle623">与爱同罪的旁观者们</p>
+<p begin="13613000000t" end="13638800000t" region="bottomCenter" style="s1" xml:id="subtitle624">さあ　今ふるえ正義を</p>
+<p begin="13613000000t" end="13638800000t" region="bottomCenter" style="s1" xml:id="subtitle625">拥抱这颤抖的正义</p>
+<p begin="13638900000t" end="13665500000t" region="bottomCenter" style="s1" xml:id="subtitle626">消せない傷を抱きしめて</p>
+<p begin="13638900000t" end="13665500000t" region="bottomCenter" style="s1" xml:id="subtitle627">抹不掉的伤痕</p>
+<p begin="13665500000t" end="13688700000t" region="bottomCenter" style="s1" xml:id="subtitle628">この身体を受け入れ</p>
+<p begin="13665500000t" end="13688700000t" region="bottomCenter" style="s1" xml:id="subtitle629">接受这残破的身躯</p>
+<p begin="13688800000t" end="13702000000t" region="bottomCenter" style="s1" xml:id="subtitle630">共に行こう</p>
+<p begin="13688800000t" end="13702000000t" region="bottomCenter" style="s1" xml:id="subtitle631">一起走吧</p>
+<p begin="13702100000t" end="13769200000t" region="bottomCenter" style="s1" xml:id="subtitle632">名前のない怪物</p>
+<p begin="13702100000t" end="13769200000t" region="bottomCenter" style="s1" xml:id="subtitle633">无名怪兽</p>
+</div>
+</body>
+</tt>

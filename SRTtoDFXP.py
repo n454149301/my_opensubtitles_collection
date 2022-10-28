@@ -7,8 +7,8 @@ import time
 from datetime import datetime
 
 # offset=-1400
-# offset=5700
-offset=0
+offset=10000
+# offset=0
 
 def str_data_to_num(str_data):
     rtnValue=0
