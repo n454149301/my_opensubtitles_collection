@@ -1,0 +1,936 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="548900000t" end="573810000t" region="bottomCenter" style="s1" xml:id="subtitle0">先知早就发出警告</p>
+<p begin="580930000t" end="591170000t" region="bottomCenter" style="s1" xml:id="subtitle1">一个预言</p>
+<p begin="610300000t" end="628270000t" region="bottomCenter" style="s1" xml:id="subtitle2">〝斯巴达会殒落〞</p>
+<p begin="633310000t" end="660620000t" region="bottomCenter" style="s1" xml:id="subtitle3">〝希腊亦会全军覆没〞</p>
+<p begin="728750000t" end="764700000t" region="bottomCenter" style="s1" xml:id="subtitle4">波斯烈焰会将雅典城烧成灰烬</p>
+<p begin="772460000t" end="797710000t" region="bottomCenter" style="s1" xml:id="subtitle5">毕竟雅典只是由木石…</p>
+<p begin="800490000t" end="817100000t" region="bottomCenter" style="s1" xml:id="subtitle6">及尘土搭建</p>
+<p begin="822510000t" end="859140000t" region="bottomCenter" style="s1" xml:id="subtitle7">而尘土终将灰飞烟灭</p>
+<p begin="862550000t" end="887800000t" region="bottomCenter" style="s1" xml:id="subtitle8">最终留下的只有雅典人民</p>
+<p begin="890580000t" end="920500000t" region="bottomCenter" style="s1" xml:id="subtitle9">世界的命运<br />悬在雅典议会的最终决议</p>
+<p begin="989680000t" end="1001620000t" region="bottomCenter" style="s1" xml:id="subtitle10">最终留下的只有雅典人</p>
+<p begin="1021710000t" end="1046390000t" region="bottomCenter" style="s1" xml:id="subtitle11">唯有强健的舰队才能拯救他们</p>
+<p begin="1064080000t" end="1080690000t" region="bottomCenter" style="s1" xml:id="subtitle12">木制的军舰</p>
+<p begin="1086440000t" end="1109420000t" region="bottomCenter" style="s1" xml:id="subtitle13">还有英雄热血卷起的惊涛骇浪</p>
+<p begin="1205220000t" end="1231840000t" region="bottomCenter" style="s1" xml:id="subtitle14">我的先夫雷奥尼达</p>
+<p begin="1239260000t" end="1254500000t" region="bottomCenter" style="s1" xml:id="subtitle15">你们的国王雷奥尼达</p>
+<p begin="1271280000t" end="1307920000t" region="bottomCenter" style="s1" xml:id="subtitle16">他和三百壮士经已壮烈牺牲</p>
+<p begin="1321010000t" end="1336930000t" region="bottomCenter" style="s1" xml:id="subtitle17">希腊的自由人民</p>
+<p begin="1339690000t" end="1366990000t" region="bottomCenter" style="s1" xml:id="subtitle18">不觉得有义务替他们复仇</p>
+<p begin="1371060000t" end="1390970000t" region="bottomCenter" style="s1" xml:id="subtitle19">他们不热衷征战</p>
+<p begin="1393410000t" end="1416730000t" region="bottomCenter" style="s1" xml:id="subtitle20">而他却自愿为他们牺牲</p>
+<p begin="1419440000t" end="1439120000t" region="bottomCenter" style="s1" xml:id="subtitle21">只为了希腊承诺的远景</p>
+<p begin="1466490000t" end="1506420000t" region="bottomCenter" style="s1" xml:id="subtitle22">敌人的战火将促使我们争取自由</p>
+<p begin="1517870000t" end="1548470000t" region="bottomCenter" style="s1" xml:id="subtitle23">大流士国王前来巧取豪夺</p>
+<p begin="1559580000t" end="1592230000t" region="bottomCenter" style="s1" xml:id="subtitle24">在十年前，当我们仍年轻气盛</p>
+<p begin="1595610000t" end="1632920000t" region="bottomCenter" style="s1" xml:id="subtitle25">在残酷战争迫使男孩快速成熟前</p>
+<p begin="1649330000t" end="1688350000t" region="bottomCenter" style="s1" xml:id="subtitle26">十年前，这场战争展开</p>
+<p begin="1690710000t" end="1710620000t" region="bottomCenter" style="s1" xml:id="subtitle27">如同其他战争的开端</p>
+<p begin="1718740000t" end="1737050000t" region="bottomCenter" style="s1" xml:id="subtitle28">由嫌隙挑起</p>
+<p begin="1767120000t" end="1782020000t" region="bottomCenter" style="s1" xml:id="subtitle29">马拉松之战</p>
+<p begin="1796480000t" end="1814790000t" region="bottomCenter" style="s1" xml:id="subtitle30">波斯国王大流士</p>
+<p begin="1819840000t" end="1843840000t" region="bottomCenter" style="s1" xml:id="subtitle31">视自由的希腊城邦为眼中钉</p>
+<p begin="1852200000t" end="1875520000t" region="bottomCenter" style="s1" xml:id="subtitle32">决定挥兵征服希腊</p>
+<p begin="1900920000t" end="1921850000t" region="bottomCenter" style="s1" xml:id="subtitle33">他的舰队在马拉松平原登陆</p>
+<p begin="1924610000t" end="1948610000t" region="bottomCenter" style="s1" xml:id="subtitle34">以三比一悬殊兵力</p>
+<p begin="1950970000t" end="1970650000t" region="bottomCenter" style="s1" xml:id="subtitle35">直逼希腊联军</p>
+<p begin="1973320000t" end="2004600000t" region="bottomCenter" style="s1" xml:id="subtitle36">黎明时，雅典人决意背水一战</p>
+<p begin="2012360000t" end="2027260000t" region="bottomCenter" style="s1" xml:id="subtitle37">他们发动攻势</p>
+<p begin="2030050000t" end="2053710000t" region="bottomCenter" style="s1" xml:id="subtitle38">就在疲惫的兵团历经整月航程</p>
+<p begin="2056070000t" end="2090650000t" region="bottomCenter" style="s1" xml:id="subtitle39">步履蹒跚下船时袭击</p>
+<p begin="2100450000t" end="2125360000t" region="bottomCenter" style="s1" xml:id="subtitle40">他们在波斯大军开始扎营</p>
+<p begin="2127810000t" end="2142480000t" region="bottomCenter" style="s1" xml:id="subtitle41">和补给军备前就展开攻势</p>
+<p begin="2152500000t" end="2162740000t" region="bottomCenter" style="s1" xml:id="subtitle42">是谁</p>
+<p begin="2165180000t" end="2188840000t" region="bottomCenter" style="s1" xml:id="subtitle43">策划出如此疯狂的策略？</p>
+<p begin="2195210000t" end="2205450000t" region="bottomCenter" style="s1" xml:id="subtitle44">一位名不经传的雅典</p>
+<p begin="2207230000t" end="2222130000t" region="bottomCenter" style="s1" xml:id="subtitle45">士兵</p>
+<p begin="2231250000t" end="2247170000t" region="bottomCenter" style="s1" xml:id="subtitle46">他的弟兄们叫他</p>
+<p begin="2249930000t" end="2267560000t" region="bottomCenter" style="s1" xml:id="subtitle47">帝米斯托克力</p>
+<p begin="2270290000t" end="2306240000t" region="bottomCenter" style="s1" xml:id="subtitle48">他用雅典威吓战术款待波斯大军</p>
+<p begin="3730750000t" end="3746670000t" region="bottomCenter" style="s1" xml:id="subtitle49">此时荣誉的念头已褪去</p>
+<p begin="3762450000t" end="3772690000t" region="bottomCenter" style="s1" xml:id="subtitle50">敌方死伤数千</p>
+<p begin="3779130000t" end="3794370000t" region="bottomCenter" style="s1" xml:id="subtitle51">雅典也折损数百人命</p>
+<p begin="3823840000t" end="3857850000t" region="bottomCenter" style="s1" xml:id="subtitle52">一切只为了希腊自由的信念</p>
+<p begin="3860540000t" end="3889550000t" region="bottomCenter" style="s1" xml:id="subtitle53">这个由雅典人发起<br />名为〝民主〞的实验</p>
+<p begin="3925940000t" end="3938910000t" region="bottomCenter" style="s1" xml:id="subtitle54">为这个信念牺牲值得吗？</p>
+<p begin="3950970000t" end="3977930000t" region="bottomCenter" style="s1" xml:id="subtitle55">所有的死伤和苦难</p>
+<p begin="3999020000t" end="4022340000t" region="bottomCenter" style="s1" xml:id="subtitle56">帝米斯托克力让大流士国王决定</p>
+<p begin="4055400000t" end="4071670000t" region="bottomCenter" style="s1" xml:id="subtitle57">突然在兵荒马乱中</p>
+<p begin="4074090000t" end="4089330000t" region="bottomCenter" style="s1" xml:id="subtitle58">一个契机浮现</p>
+<p begin="4124810000t" end="4141760000t" region="bottomCenter" style="s1" xml:id="subtitle59">帝米斯托克力决定机不可失</p>
+<p begin="4253940000t" end="4264180000t" region="bottomCenter" style="s1" xml:id="subtitle60">这一刻</p>
+<p begin="4266950000t" end="4284580000t" region="bottomCenter" style="s1" xml:id="subtitle61">在历史中将永被传颂</p>
+<p begin="4287300000t" end="4297540000t" region="bottomCenter" style="s1" xml:id="subtitle62">这一刻</p>
+<p begin="4299650000t" end="4317280000t" region="bottomCenter" style="s1" xml:id="subtitle63">会让他从平凡士兵</p>
+<p begin="4319670000t" end="4341280000t" region="bottomCenter" style="s1" xml:id="subtitle64">晋升雅典政治权力顶端</p>
+<p begin="4344030000t" end="4369280000t" region="bottomCenter" style="s1" xml:id="subtitle65">不</p>
+<p begin="4393410000t" end="4427770000t" region="bottomCenter" style="s1" xml:id="subtitle66">这一刻帝米斯托克力化为传奇</p>
+<p begin="4615300000t" end="4631570000t" region="bottomCenter" style="s1" xml:id="subtitle67">即使此举</p>
+<p begin="4634320000t" end="4652630000t" region="bottomCenter" style="s1" xml:id="subtitle68">让他备享尊荣拥戴</p>
+<p begin="4655000000t" end="4684350000t" region="bottomCenter" style="s1" xml:id="subtitle69">帝米斯托克力心知他铸下大错</p>
+<p begin="4696710000t" end="4722990000t" region="bottomCenter" style="s1" xml:id="subtitle70">他在大流士之子薛西斯眼中</p>
+<p begin="4725410000t" end="4749750000t" region="bottomCenter" style="s1" xml:id="subtitle71">看到未来命运的不祥征兆</p>
+<p begin="4770450000t" end="4795360000t" region="bottomCenter" style="s1" xml:id="subtitle72">帝米斯托克力知道他该杀了王子</p>
+<p begin="4814500000t" end="4845100000t" region="bottomCenter" style="s1" xml:id="subtitle73">这滔天大错日后势必酿成大祸</p>
+<p begin="4908260000t" end="4925210000t" region="bottomCenter" style="s1" xml:id="subtitle74">帝米斯托克力</p>
+<p begin="4927940000t" end="4943860000t" region="bottomCenter" style="s1" xml:id="subtitle75">不仅让波斯帝国首度吃了败仗</p>
+<p begin="4961310000t" end="4978260000t" region="bottomCenter" style="s1" xml:id="subtitle76">也让帝国决心卷土重来</p>
+<p begin="4980660000t" end="5007960000t" region="bottomCenter" style="s1" xml:id="subtitle77">日后再度直取希腊中心</p>
+<p begin="5035050000t" end="5054050000t" region="bottomCenter" style="s1" xml:id="subtitle78">大流士国王重伤命危</p>
+<p begin="5056740000t" end="5071410000t" region="bottomCenter" style="s1" xml:id="subtitle79">所有将军</p>
+<p begin="5073760000t" end="5103680000t" region="bottomCenter" style="s1" xml:id="subtitle80">重臣都被召唤前来</p>
+<p begin="5107120000t" end="5118710000t" region="bottomCenter" style="s1" xml:id="subtitle81">其中最位高权重的</p>
+<p begin="5121470000t" end="5158440000t" region="bottomCenter" style="s1" xml:id="subtitle82">就属海军统帅雅特米西亚</p>
+<p begin="5162840000t" end="5189120000t" region="bottomCenter" style="s1" xml:id="subtitle83">她的残暴<br />与她的美艳程度不相上下</p>
+<p begin="5191870000t" end="5224180000t" region="bottomCenter" style="s1" xml:id="subtitle84">而她的美貌只有<br />对国王的死忠程度能比拟</p>
+<p begin="5285630000t" end="5308270000t" region="bottomCenter" style="s1" xml:id="subtitle85">大流士偏爱雅特米西亚</p>
+<p begin="5310660000t" end="5340010000t" region="bottomCenter" style="s1" xml:id="subtitle86">因为她战功彪炳</p>
+<p begin="5346030000t" end="5357970000t" region="bottomCenter" style="s1" xml:id="subtitle87">在他眼中</p>
+<p begin="5360380000t" end="5389390000t" region="bottomCenter" style="s1" xml:id="subtitle88">她是完美的军事神童</p>
+<p begin="5392070000t" end="5411070000t" region="bottomCenter" style="s1" xml:id="subtitle89">那是薛西斯王子永远无法比拟的</p>
+<p begin="5453470000t" end="5487140000t" region="bottomCenter" style="s1" xml:id="subtitle90">我甜美的孩子</p>
+<p begin="5497180000t" end="5515150000t" region="bottomCenter" style="s1" xml:id="subtitle91">我甜美的</p>
+<p begin="5522540000t" end="5538810000t" region="bottomCenter" style="s1" xml:id="subtitle92">孩子</p>
+<p begin="5622640000t" end="5637540000t" region="bottomCenter" style="s1" xml:id="subtitle93">父王</p>
+<p begin="5644660000t" end="5660240000t" region="bottomCenter" style="s1" xml:id="subtitle94">薛西斯</p>
+<p begin="5665350000t" end="5699020000t" region="bottomCenter" style="s1" xml:id="subtitle95">不要重复父王的错误</p>
+<p begin="5712390000t" end="5749020000t" region="bottomCenter" style="s1" xml:id="subtitle96">让那些低劣的希腊人去吧</p>
+<p begin="5760440000t" end="5791380000t" region="bottomCenter" style="s1" xml:id="subtitle97">只有诸神能击败他们</p>
+<p begin="5800820000t" end="5831420000t" region="bottomCenter" style="s1" xml:id="subtitle98">只有诸神</p>
+<p begin="5952300000t" end="5972550000t" region="bottomCenter" style="s1" xml:id="subtitle99">薛西斯足足哀悼了七天</p>
+<p begin="5974990000t" end="5995920000t" region="bottomCenter" style="s1" xml:id="subtitle100">被哀伤彻底击垮</p>
+<p begin="5998680000t" end="6031670000t" region="bottomCenter" style="s1" xml:id="subtitle101">第八日，雅特米西亚埋下</p>
+<p begin="6034380000t" end="6051670000t" region="bottomCenter" style="s1" xml:id="subtitle102">将从此吞噬他的疯狂种子</p>
+<p begin="6054400000t" end="6091710000t" region="bottomCenter" style="s1" xml:id="subtitle103">你父王的话不是对你的警告</p>
+<p begin="6099780000t" end="6116050000t" region="bottomCenter" style="s1" xml:id="subtitle104">而是对你的挑战</p>
+<p begin="6131150000t" end="6160160000t" region="bottomCenter" style="s1" xml:id="subtitle105">只有诸神能击败希腊人？</p>
+<p begin="6186200000t" end="6226130000t" region="bottomCenter" style="s1" xml:id="subtitle106">你会成为神王</p>
+<p begin="6269620000t" end="6292600000t" region="bottomCenter" style="s1" xml:id="subtitle107">雅特米西亚结集帝国内</p>
+<p begin="6294980000t" end="6325920000t" region="bottomCenter" style="s1" xml:id="subtitle108">所有祭司、巫师和秘宗</p>
+<p begin="6330010000t" end="6341270000t" region="bottomCenter" style="s1" xml:id="subtitle109">他们</p>
+<p begin="6344020000t" end="6377690000t" region="bottomCenter" style="s1" xml:id="subtitle110">用浸了古老丹药的<br />西米里纱布包裹年轻国王</p>
+<p begin="6381730000t" end="6405390000t" region="bottomCenter" style="s1" xml:id="subtitle111">送他去沙漠里游荡</p>
+<p begin="6417760000t" end="6450070000t" region="bottomCenter" style="s1" xml:id="subtitle112">当他因高温和脱水神智不清时</p>
+<p begin="6452800000t" end="6466450000t" region="bottomCenter" style="s1" xml:id="subtitle113">无意间去到一群隐士的洞穴</p>
+<p begin="6506190000t" end="6531440000t" region="bottomCenter" style="s1" xml:id="subtitle114">薛西斯穿过这些</p>
+<p begin="6534210000t" end="6548200000t" region="bottomCenter" style="s1" xml:id="subtitle115">空洞的眼神和灵魂</p>
+<p begin="6550560000t" end="6590490000t" region="bottomCenter" style="s1" xml:id="subtitle116">这群虚无的怪物<br />潜匿在人世间最黑暗的角落</p>
+<p begin="6616630000t" end="6637900000t" region="bottomCenter" style="s1" xml:id="subtitle117">在黑暗虚无中</p>
+<p begin="6651330000t" end="6669640000t" region="bottomCenter" style="s1" xml:id="subtitle118">他将全部的自己</p>
+<p begin="6672020000t" end="6702280000t" region="bottomCenter" style="s1" xml:id="subtitle119">奉献给邪恶的黑暗势力</p>
+<p begin="6738750000t" end="6755700000t" region="bottomCenter" style="s1" xml:id="subtitle120">当他再度浮现时</p>
+<p begin="6758440000t" end="6791770000t" region="bottomCenter" style="s1" xml:id="subtitle121">薛西斯过往的人性完全被抹灭</p>
+<p begin="6878220000t" end="6910190000t" region="bottomCenter" style="s1" xml:id="subtitle122">他的双眼像炭火般猩红闪耀</p>
+<p begin="6928940000t" end="6968300000t" region="bottomCenter" style="s1" xml:id="subtitle123">他被淘空洗净</p>
+<p begin="6970650000t" end="6985550000t" region="bottomCenter" style="s1" xml:id="subtitle124">光滑平顺</p>
+<p begin="7005020000t" end="7017300000t" region="bottomCenter" style="s1" xml:id="subtitle125">薛西斯转生</p>
+<p begin="7020030000t" end="7034700000t" region="bottomCenter" style="s1" xml:id="subtitle126">为邪神</p>
+<p begin="7087770000t" end="7109720000t" region="bottomCenter" style="s1" xml:id="subtitle127">雅特米西亚不相信任何人</p>
+<p begin="7116800000t" end="7135450000t" region="bottomCenter" style="s1" xml:id="subtitle128">藉着夜幕的掩护</p>
+<p begin="7137820000t" end="7175480000t" region="bottomCenter" style="s1" xml:id="subtitle129">皇宫内所有薛西斯亲信都被铲除</p>
+<p begin="7208890000t" end="7225840000t" region="bottomCenter" style="s1" xml:id="subtitle130">那些他信任过的</p>
+<p begin="7272620000t" end="7295260000t" region="bottomCenter" style="s1" xml:id="subtitle131">那些抚育过他的</p>
+<p begin="7343020000t" end="7366340000t" region="bottomCenter" style="s1" xml:id="subtitle132">那些他曾征询采纳过意见的</p>
+<p begin="7385060000t" end="7412360000t" region="bottomCenter" style="s1" xml:id="subtitle133">都惨遭她毒手</p>
+<p begin="7669680000t" end="7684580000t" region="bottomCenter" style="s1" xml:id="subtitle134">当神王终于</p>
+<p begin="7687370000t" end="7703980000t" region="bottomCenter" style="s1" xml:id="subtitle135">现身子民前时</p>
+<p begin="7715730000t" end="7744060000t" region="bottomCenter" style="s1" xml:id="subtitle136">雅特米西亚<br />精心操纵的计划终于实现</p>
+<p begin="7746430000t" end="7774070000t" region="bottomCenter" style="s1" xml:id="subtitle137">为荣耀之名</p>
+<p begin="7776460000t" end="7802400000t" region="bottomCenter" style="s1" xml:id="subtitle138">以复仇之名</p>
+<p begin="7824840000t" end="7837810000t" region="bottomCenter" style="s1" xml:id="subtitle139">开战</p>
+<p begin="7843520000t" end="7858190000t" region="bottomCenter" style="s1" xml:id="subtitle140">开战</p>
+<p begin="7885900000t" end="7911150000t" region="bottomCenter" style="s1" xml:id="subtitle141">战争即将席卷希腊</p>
+<p begin="7913590000t" end="7948510000t" region="bottomCenter" style="s1" xml:id="subtitle142">面临军容壮盛的百万大军</p>
+<p begin="7957640000t" end="7989610000t" region="bottomCenter" style="s1" xml:id="subtitle143">理所当然应由马拉松之战的英雄</p>
+<p begin="7992000000t" end="8008610000t" region="bottomCenter" style="s1" xml:id="subtitle144">帝米斯托克力</p>
+<p begin="8011360000t" end="8031610000t" region="bottomCenter" style="s1" xml:id="subtitle145">来了结他挑起的恩怨</p>
+<p begin="8043720000t" end="8053960000t" region="bottomCenter" style="s1" xml:id="subtitle146">各位</p>
+<p begin="8056070000t" end="8079390000t" region="bottomCenter" style="s1" xml:id="subtitle147">我们要跟薛西斯理性协商</p>
+<p begin="8081760000t" end="8092000000t" region="bottomCenter" style="s1" xml:id="subtitle148">懦夫</p>
+<p begin="8094770000t" end="8117070000t" region="bottomCenter" style="s1" xml:id="subtitle149">雅典城全是懦夫</p>
+<p begin="8119800000t" end="8126050000t" region="bottomCenter" style="s1" xml:id="subtitle150">闭上你的嘴</p>
+<p begin="8127810000t" end="8138390000t" region="bottomCenter" style="s1" xml:id="subtitle151">你才是</p>
+<p begin="8141150000t" end="8160830000t" region="bottomCenter" style="s1" xml:id="subtitle152">我要杀了你，去他的斯巴达人</p>
+<p begin="8163180000t" end="8179450000t" region="bottomCenter" style="s1" xml:id="subtitle153">叫那些爱跟男人鬼混的莽夫去死</p>
+<p begin="8181860000t" end="8189820000t" region="bottomCenter" style="s1" xml:id="subtitle154">安静</p>
+<p begin="8191540000t" end="8206780000t" region="bottomCenter" style="s1" xml:id="subtitle155">让马拉松英雄说话</p>
+<p begin="8209550000t" end="8234460000t" region="bottomCenter" style="s1" xml:id="subtitle156">这里讲求的是民主<br />不是街头混战</p>
+<p begin="8236920000t" end="8254890000t" region="bottomCenter" style="s1" xml:id="subtitle157">安静，听帝米斯托克力的</p>
+<p begin="8257270000t" end="8293220000t" region="bottomCenter" style="s1" xml:id="subtitle158">波斯大军会从南北夹击分批进攻</p>
+<p begin="8295970000t" end="8321570000t" region="bottomCenter" style="s1" xml:id="subtitle159">城邦该试图协商求和</p>
+<p begin="8324000000t" end="8348000000t" region="bottomCenter" style="s1" xml:id="subtitle160">对对，我们要谈判</p>
+<p begin="8358040000t" end="8373620000t" region="bottomCenter" style="s1" xml:id="subtitle161">跟这个暴君谈判？</p>
+<p begin="8386060000t" end="8415070000t" region="bottomCenter" style="s1" xml:id="subtitle162">历史上有哪个国家因此得利</p>
+<p begin="8417430000t" end="8431420000t" region="bottomCenter" style="s1" xml:id="subtitle163">说得对，我们要团结起来</p>
+<p begin="8433780000t" end="8445380000t" region="bottomCenter" style="s1" xml:id="subtitle164">我的同胞</p>
+<p begin="8452460000t" end="8479080000t" region="bottomCenter" style="s1" xml:id="subtitle165">我们只能从历史的教训</p>
+<p begin="8481830000t" end="8508450000t" region="bottomCenter" style="s1" xml:id="subtitle166">推断未来</p>
+<p begin="8522200000t" end="8548480000t" region="bottomCenter" style="s1" xml:id="subtitle167">你们许多人曾在马拉松<br />与我并肩奋战</p>
+<p begin="8560240000t" end="8580150000t" region="bottomCenter" style="s1" xml:id="subtitle168">那些曾在战争血腥残暴中</p>
+<p begin="8582590000t" end="8603860000t" region="bottomCenter" style="s1" xml:id="subtitle169">存活下来的人</p>
+<p begin="8606620000t" end="8631870000t" region="bottomCenter" style="s1" xml:id="subtitle170">知道真正的和平是如何得来的</p>
+<p begin="8641320000t" end="8658270000t" region="bottomCenter" style="s1" xml:id="subtitle171">别被愚弄了</p>
+<p begin="8660670000t" end="8681260000t" region="bottomCenter" style="s1" xml:id="subtitle172">大流士之子薛西斯</p>
+<p begin="8683700000t" end="8704290000t" region="bottomCenter" style="s1" xml:id="subtitle173">绝非善类</p>
+<p begin="8712390000t" end="8734000000t" region="bottomCenter" style="s1" xml:id="subtitle174">此时此刻</p>
+<p begin="8742750000t" end="8760040000t" region="bottomCenter" style="s1" xml:id="subtitle175">我们必须选择</p>
+<p begin="8764110000t" end="8790730000t" region="bottomCenter" style="s1" xml:id="subtitle176">是否要挺身扞卫希腊</p>
+<p begin="8802480000t" end="8814080000t" region="bottomCenter" style="s1" xml:id="subtitle177">阿哥斯</p>
+<p begin="8816830000t" end="8828430000t" region="bottomCenter" style="s1" xml:id="subtitle178">哥林斯</p>
+<p begin="8830840000t" end="8842440000t" region="bottomCenter" style="s1" xml:id="subtitle179">梅加拉</p>
+<p begin="8845190000t" end="8861460000t" region="bottomCenter" style="s1" xml:id="subtitle180">雅典</p>
+<p begin="8863880000t" end="8888560000t" region="bottomCenter" style="s1" xml:id="subtitle181">即便斯巴达都无法单挑波斯大军</p>
+<p begin="8890900000t" end="8912850000t" region="bottomCenter" style="s1" xml:id="subtitle182">我们要联合御敌方能存活</p>
+<p begin="8915590000t" end="8937890000t" region="bottomCenter" style="s1" xml:id="subtitle183">不然只能</p>
+<p begin="8940620000t" end="8957230000t" region="bottomCenter" style="s1" xml:id="subtitle184">抱着私利灭亡</p>
+<p begin="8968650000t" end="9001980000t" region="bottomCenter" style="s1" xml:id="subtitle185">提供我们足以防御希腊的舰队</p>
+<p begin="9004350000t" end="9028690000t" region="bottomCenter" style="s1" xml:id="subtitle186">帝米斯托克力不止需要<br />各城邦的船舰</p>
+<p begin="9031040000t" end="9050950000t" region="bottomCenter" style="s1" xml:id="subtitle187">他会要求送所有孩子上战场</p>
+<p begin="9071750000t" end="9085400000t" region="bottomCenter" style="s1" xml:id="subtitle188">那斯巴达呢？</p>
+<p begin="9087770000t" end="9116100000t" region="bottomCenter" style="s1" xml:id="subtitle189">你们负责结集城邦所有船舰</p>
+<p begin="9118800000t" end="9142120000t" region="bottomCenter" style="s1" xml:id="subtitle190">到优卑亚北岸</p>
+<p begin="9154500000t" end="9193180000t" region="bottomCenter" style="s1" xml:id="subtitle191">我会去寻求伟大斯巴达人的协助</p>
+<p begin="9412420000t" end="9420720000t" region="bottomCenter" style="s1" xml:id="subtitle192">你派往</p>
+<p begin="9422430000t" end="9443020000t" region="bottomCenter" style="s1" xml:id="subtitle193">斯巴达的特使仍没回音</p>
+<p begin="9453460000t" end="9484740000t" region="bottomCenter" style="s1" xml:id="subtitle194">雷奥尼达国王或许<br />被你慷慨的条件激怒了</p>
+<p begin="9487500000t" end="9527090000t" region="bottomCenter" style="s1" xml:id="subtitle195">也许我该挥军斯巴达<br />将它烧成灰烬</p>
+<p begin="9546560000t" end="9561460000t" region="bottomCenter" style="s1" xml:id="subtitle196">别忘了</p>
+<p begin="9564240000t" end="9581190000t" region="bottomCenter" style="s1" xml:id="subtitle197">像我这般备受爱戴的国王</p>
+<p begin="9595940000t" end="9618240000t" region="bottomCenter" style="s1" xml:id="subtitle198">可完成许多大业</p>
+<p begin="9633640000t" end="9667310000t" region="bottomCenter" style="s1" xml:id="subtitle199">若试图抵抗我的天赋神权<br />就太愚蠢了</p>
+<p begin="9669680000t" end="9697660000t" region="bottomCenter" style="s1" xml:id="subtitle200">雅典正在努力联合其他城邦</p>
+<p begin="9700040000t" end="9724720000t" region="bottomCenter" style="s1" xml:id="subtitle201">就算成功也只是堆拼凑的破船</p>
+<p begin="9746760000t" end="9784760000t" region="bottomCenter" style="s1" xml:id="subtitle202">一旦横渡海洋，我会朝陆路推进</p>
+<p begin="9787460000t" end="9810440000t" region="bottomCenter" style="s1" xml:id="subtitle203">提醒那些希腊懦夫</p>
+<p begin="9813160000t" end="9847520000t" region="bottomCenter" style="s1" xml:id="subtitle204">我们没有忘记他们的傲慢行径</p>
+<p begin="9946620000t" end="9964590000t" region="bottomCenter" style="s1" xml:id="subtitle205">休息一下，让马匹饮水</p>
+<p begin="9966980000t" end="9981310000t" region="bottomCenter" style="s1" xml:id="subtitle206">我最好单独前往</p>
+<p begin="9983660000t" end="10018020000t" region="bottomCenter" style="s1" xml:id="subtitle207">斯巴达人不喜与外族往来</p>
+<p begin="10532540000t" end="10550510000t" region="bottomCenter" style="s1" xml:id="subtitle208">﹣斯巴达人<br />﹣帝米斯托克力</p>
+<p begin="10564240000t" end="10578910000t" region="bottomCenter" style="s1" xml:id="subtitle209">你这只老狐狸</p>
+<p begin="10581260000t" end="10609590000t" region="bottomCenter" style="s1" xml:id="subtitle210">﹣何事让你远行南下？<br />﹣来警告雷奥尼达</p>
+<p begin="10612290000t" end="10641300000t" region="bottomCenter" style="s1" xml:id="subtitle211">﹣波斯人来犯<br />﹣你来迟了</p>
+<p begin="10643990000t" end="10675620000t" region="bottomCenter" style="s1" xml:id="subtitle212">波斯特使已将招降条件<br />呈给雷奥尼达</p>
+<p begin="10683360000t" end="10707020000t" region="bottomCenter" style="s1" xml:id="subtitle213">象征性供上土地和水源</p>
+<p begin="10793470000t" end="10807120000t" region="bottomCenter" style="s1" xml:id="subtitle214">斯巴达人</p>
+<p begin="10809490000t" end="10826440000t" region="bottomCenter" style="s1" xml:id="subtitle215">谨记这点</p>
+<p begin="10834840000t" end="10860780000t" region="bottomCenter" style="s1" xml:id="subtitle216">斯巴达人最至高无上的一刻</p>
+<p begin="10868540000t" end="10882530000t" region="bottomCenter" style="s1" xml:id="subtitle217">生命中最挚爱</p>
+<p begin="10884890000t" end="10903540000t" region="bottomCenter" style="s1" xml:id="subtitle218">和最大的成就</p>
+<p begin="10905920000t" end="10918890000t" region="bottomCenter" style="s1" xml:id="subtitle219">就是当你们</p>
+<p begin="10921260000t" end="10942530000t" region="bottomCenter" style="s1" xml:id="subtitle220">为了保存斯巴达文化</p>
+<p begin="10944950000t" end="10973620000t" region="bottomCenter" style="s1" xml:id="subtitle221">而穷尽全力奋战</p>
+<p begin="10975990000t" end="11009320000t" region="bottomCenter" style="s1" xml:id="subtitle222">进而战死沙场</p>
+<p begin="11011690000t" end="11028980000t" region="bottomCenter" style="s1" xml:id="subtitle223">取得胜利</p>
+<p begin="11046720000t" end="11059340000t" region="bottomCenter" style="s1" xml:id="subtitle224">现在</p>
+<p begin="11064410000t" end="11096720000t" region="bottomCenter" style="s1" xml:id="subtitle225">谁愿意与吾王一同赴死？</p>
+<p begin="11129810000t" end="11145730000t" region="bottomCenter" style="s1" xml:id="subtitle226">帝米斯托克力</p>
+<p begin="11165170000t" end="11204530000t" region="bottomCenter" style="s1" xml:id="subtitle227">你老远来就为了边纳凉<br />边看真男人锻链吗？</p>
+<p begin="11206880000t" end="11217460000t" region="bottomCenter" style="s1" xml:id="subtitle228">歌果王后</p>
+<p begin="11229240000t" end="11258930000t" region="bottomCenter" style="s1" xml:id="subtitle229">他不该训练孩子为国王舍命吧？</p>
+<p begin="11274620000t" end="11287590000t" region="bottomCenter" style="s1" xml:id="subtitle230">新时代已来临，歌果</p>
+<p begin="11307650000t" end="11345990000t" region="bottomCenter" style="s1" xml:id="subtitle231">不久后，人们将起身<br />推翻神秘信仰和暴君</p>
+<p begin="11348360000t" end="11373040000t" region="bottomCenter" style="s1" xml:id="subtitle232">﹣听起来像是威胁<br />﹣不是</p>
+<p begin="11377050000t" end="11414020000t" region="bottomCenter" style="s1" xml:id="subtitle233">我邀请你们加入自由希腊城邦<br />共同抵抗暴君</p>
+<p begin="11430110000t" end="11466400000t" region="bottomCenter" style="s1" xml:id="subtitle234">除非你和雷奥尼达<br />已和薛西斯达成协议</p>
+<p begin="11469140000t" end="11486430000t" region="bottomCenter" style="s1" xml:id="subtitle235">我们没能达成共识</p>
+<p begin="11492170000t" end="11511170000t" region="bottomCenter" style="s1" xml:id="subtitle236">薛西斯的特使很…</p>
+<p begin="11513520000t" end="11538200000t" region="bottomCenter" style="s1" xml:id="subtitle237">他很无礼并出言不逊</p>
+<p begin="11540550000t" end="11580480000t" region="bottomCenter" style="s1" xml:id="subtitle238">他不了解恐吓底比斯<br />和雅典的手法，在这并不管用</p>
+<p begin="11588260000t" end="11621590000t" region="bottomCenter" style="s1" xml:id="subtitle239">这里是世上最伟大战士的诞生地</p>
+<p begin="11634640000t" end="11672300000t" region="bottomCenter" style="s1" xml:id="subtitle240">国王和战士并肩作战，为彼此牺牲</p>
+<p begin="11683020000t" end="11694960000t" region="bottomCenter" style="s1" xml:id="subtitle241">薛西斯特使不了解</p>
+<p begin="11697370000t" end="11729680000t" region="bottomCenter" style="s1" xml:id="subtitle242">这里不是一般的希腊城邦</p>
+<p begin="11760440000t" end="11778750000t" region="bottomCenter" style="s1" xml:id="subtitle243">这里是斯巴达</p>
+<p begin="11792470000t" end="11821480000t" region="bottomCenter" style="s1" xml:id="subtitle244">所以特使了解斯巴达不归顺？</p>
+<p begin="11823830000t" end="11834410000t" region="bottomCenter" style="s1" xml:id="subtitle245">非常清楚</p>
+<p begin="11836850000t" end="11869840000t" region="bottomCenter" style="s1" xml:id="subtitle246">此刻雷奥尼达正与先知<br />讨论作战计划</p>
+<p begin="11872210000t" end="11898830000t" region="bottomCenter" style="s1" xml:id="subtitle247">唯一出兵的阻碍是喀尼雅节</p>
+<p begin="11901580000t" end="11928540000t" region="bottomCenter" style="s1" xml:id="subtitle248">先知当然了解我们非战不可</p>
+<p begin="11930940000t" end="11946860000t" region="bottomCenter" style="s1" xml:id="subtitle249">那我来对时机了</p>
+<p begin="11954960000t" end="11986590000t" region="bottomCenter" style="s1" xml:id="subtitle250">我将率领代表联合希腊的舰队</p>
+<p begin="11989000000t" end="12011640000t" region="bottomCenter" style="s1" xml:id="subtitle251">我需要斯巴达的加入</p>
+<p begin="12020700000t" end="12035030000t" region="bottomCenter" style="s1" xml:id="subtitle252">把舰队交给我吧，歌果</p>
+<p begin="12037380000t" end="12065710000t" region="bottomCenter" style="s1" xml:id="subtitle253">我会让薛西斯后悔渡过爱琴海</p>
+<p begin="12068410000t" end="12100720000t" region="bottomCenter" style="s1" xml:id="subtitle254">斯巴达的舰队不会加入<br />我们对统一希腊没有兴趣</p>
+<p begin="12103440000t" end="12129040000t" region="bottomCenter" style="s1" xml:id="subtitle255">那是你的梦想，帝米斯托克力<br />不是我们的</p>
+<p begin="12135480000t" end="12156750000t" region="bottomCenter" style="s1" xml:id="subtitle256">我只在乎</p>
+<p begin="12159170000t" end="12170430000t" region="bottomCenter" style="s1" xml:id="subtitle257">斯巴达的存亡</p>
+<p begin="12182190000t" end="12201190000t" region="bottomCenter" style="s1" xml:id="subtitle258">我的侍卫会护送你离开</p>
+<p begin="12225230000t" end="12241150000t" region="bottomCenter" style="s1" xml:id="subtitle259">你们嘲讽自由</p>
+<p begin="12243920000t" end="12262570000t" region="bottomCenter" style="s1" xml:id="subtitle260">自私锁国的行径真可笑</p>
+<p begin="12272280000t" end="12293550000t" region="bottomCenter" style="s1" xml:id="subtitle261">因为冥冥之中</p>
+<p begin="12295970000t" end="12318950000t" region="bottomCenter" style="s1" xml:id="subtitle262">上天选择你们扞卫自由</p>
+<p begin="12349360000t" end="12361300000t" region="bottomCenter" style="s1" xml:id="subtitle263">我的王后</p>
+<p begin="12397410000t" end="12419020000t" region="bottomCenter" style="s1" xml:id="subtitle264">斯巴达会加入我军吗？</p>
+<p begin="12432440000t" end="12469070000t" region="bottomCenter" style="s1" xml:id="subtitle265">显然波斯为斯巴达带来<br />他们无法抗拒的诱惑</p>
+<p begin="12471480000t" end="12484450000t" region="bottomCenter" style="s1" xml:id="subtitle266">那是什么？</p>
+<p begin="12487500000t" end="12504110000t" region="bottomCenter" style="s1" xml:id="subtitle267">壮烈牺牲的机会</p>
+<p begin="12687360000t" end="12720350000t" region="bottomCenter" style="s1" xml:id="subtitle268">大家都说你是战俘里最英勇的</p>
+<p begin="12726070000t" end="12760990000t" region="bottomCenter" style="s1" xml:id="subtitle269">大家都说你是来自东海的娼妓</p>
+<p begin="12795470000t" end="12821070000t" region="bottomCenter" style="s1" xml:id="subtitle270">却不是最聪明的</p>
+<p begin="12845520000t" end="12865430000t" region="bottomCenter" style="s1" xml:id="subtitle271">你们的统帅是希腊人</p>
+<p begin="12867880000t" end="12887560000t" region="bottomCenter" style="s1" xml:id="subtitle272">跟我一样</p>
+<p begin="12900570000t" end="12932880000t" region="bottomCenter" style="s1" xml:id="subtitle273">一群波斯男人任由希腊娘们使唤</p>
+<p begin="12935610000t" end="12968600000t" region="bottomCenter" style="s1" xml:id="subtitle274">是的兄弟，我的确生为希腊人</p>
+<p begin="12971310000t" end="13001570000t" region="bottomCenter" style="s1" xml:id="subtitle275">体内也流着希腊血液</p>
+<p begin="13028700000t" end="13046330000t" region="bottomCenter" style="s1" xml:id="subtitle276">但我的心</p>
+<p begin="13071410000t" end="13084380000t" region="bottomCenter" style="s1" xml:id="subtitle277">属于波斯</p>
+<p begin="13408750000t" end="13423080000t" region="bottomCenter" style="s1" xml:id="subtitle278">数小时内</p>
+<p begin="13430100000t" end="13453760000t" region="bottomCenter" style="s1" xml:id="subtitle279">希腊舰队就会被瓦解</p>
+<p begin="13456460000t" end="13484100000t" region="bottomCenter" style="s1" xml:id="subtitle280">那我们主子<br />和人人敬畏的斯巴达人呢？</p>
+<p begin="13486830000t" end="13508100000t" region="bottomCenter" style="s1" xml:id="subtitle281">没什么好怕的</p>
+<p begin="13513850000t" end="13552530000t" region="bottomCenter" style="s1" xml:id="subtitle282">只有雷奥尼达国王和<br />他三百名贴身侍卫</p>
+<p begin="13555230000t" end="13575480000t" region="bottomCenter" style="s1" xml:id="subtitle283">﹣前来应战<br />﹣他们会立刻…</p>
+<p begin="13578250000t" end="13588490000t" region="bottomCenter" style="s1" xml:id="subtitle284">被歼灭</p>
+<p begin="13621630000t" end="13631870000t" region="bottomCenter" style="s1" xml:id="subtitle285">你</p>
+<p begin="13698370000t" end="13712700000t" region="bottomCenter" style="s1" xml:id="subtitle286">你同意吗？</p>
+<p begin="13738410000t" end="13752060000t" region="bottomCenter" style="s1" xml:id="subtitle287">会死伤惨重</p>
+<p begin="13766440000t" end="13797380000t" region="bottomCenter" style="s1" xml:id="subtitle288">你的信心让我惊艳</p>
+<p begin="13812490000t" end="13834100000t" region="bottomCenter" style="s1" xml:id="subtitle289">卑微船员被我问话</p>
+<p begin="13836840000t" end="13864140000t" region="bottomCenter" style="s1" xml:id="subtitle290">而不低头还真罕见</p>
+<p begin="13875550000t" end="13902850000t" region="bottomCenter" style="s1" xml:id="subtitle291">这可被解读为缺乏纪律</p>
+<p begin="13915250000t" end="13939590000t" region="bottomCenter" style="s1" xml:id="subtitle292">但男人的双手不会说谎</p>
+<p begin="13942280000t" end="13952860000t" region="bottomCenter" style="s1" xml:id="subtitle293">它们会揭露</p>
+<p begin="13955630000t" end="13995560000t" region="bottomCenter" style="s1" xml:id="subtitle294">主人的破绽和缺陷</p>
+<p begin="14005340000t" end="14024680000t" region="bottomCenter" style="s1" xml:id="subtitle295">你的手对船上粗活来说</p>
+<p begin="14027370000t" end="14047620000t" region="bottomCenter" style="s1" xml:id="subtitle296">不够粗糙</p>
+<p begin="14063070000t" end="14090710000t" region="bottomCenter" style="s1" xml:id="subtitle297">我麾下每个人我都认识</p>
+<p begin="14093100000t" end="14131100000t" region="bottomCenter" style="s1" xml:id="subtitle298">你能解释我为何不认识你吗？</p>
+<p begin="14149490000t" end="14171790000t" region="bottomCenter" style="s1" xml:id="subtitle299">原谅我，统帅</p>
+<p begin="14198870000t" end="14218780000t" region="bottomCenter" style="s1" xml:id="subtitle300">请容我自我介绍</p>
+<p begin="14235570000t" end="14245810000t" region="bottomCenter" style="s1" xml:id="subtitle301">拿下奸细</p>
+<p begin="14437440000t" end="14453020000t" region="bottomCenter" style="s1" xml:id="subtitle302">懦夫</p>
+<p begin="14465140000t" end="14484480000t" region="bottomCenter" style="s1" xml:id="subtitle303">暴风雨来袭了</p>
+<p begin="14512850000t" end="14541520000t" region="bottomCenter" style="s1" xml:id="subtitle304">典型的希腊烂天气</p>
+<p begin="14667340000t" end="14689640000t" region="bottomCenter" style="s1" xml:id="subtitle305">﹣帝米斯托克力<br />﹣进来</p>
+<p begin="14725060000t" end="14738030000t" region="bottomCenter" style="s1" xml:id="subtitle306">克里斯托</p>
+<p begin="14740410000t" end="14766350000t" region="bottomCenter" style="s1" xml:id="subtitle307">这房里的对话不可外传</p>
+<p begin="14771110000t" end="14783050000t" region="bottomCenter" style="s1" xml:id="subtitle308">谁都不能说</p>
+<p begin="14812480000t" end="14844450000t" region="bottomCenter" style="s1" xml:id="subtitle309">小犬还不配跟身经百战的将士<br />平起平坐</p>
+<p begin="14846850000t" end="14870510000t" region="bottomCenter" style="s1" xml:id="subtitle310">﹣但你可以相信他<br />﹣很好</p>
+<p begin="14889900000t" end="14908210000t" region="bottomCenter" style="s1" xml:id="subtitle311">﹣告诉我<br />﹣波斯南下舰队</p>
+<p begin="14910580000t" end="14933560000t" region="bottomCenter" style="s1" xml:id="subtitle312">由一名女子统帅</p>
+<p begin="14947950000t" end="14963870000t" region="bottomCenter" style="s1" xml:id="subtitle313">雅特米西亚</p>
+<p begin="14973980000t" end="14984220000t" region="bottomCenter" style="s1" xml:id="subtitle314">我听说过她</p>
+<p begin="14994670000t" end="15023680000t" region="bottomCenter" style="s1" xml:id="subtitle315">雅特米西亚是娴熟的杀手<br />也深暗水性</p>
+<p begin="15026360000t" end="15043990000t" region="bottomCenter" style="s1" xml:id="subtitle316">她一心渴望复仇</p>
+<p begin="15050390000t" end="15065290000t" region="bottomCenter" style="s1" xml:id="subtitle317">传闻她全家</p>
+<p begin="15068070000t" end="15090710000t" region="bottomCenter" style="s1" xml:id="subtitle318">惨遭希腊民兵杀害</p>
+<p begin="15101770000t" end="15126450000t" region="bottomCenter" style="s1" xml:id="subtitle319">我听说过那些故事</p>
+<p begin="15137140000t" end="15165120000t" region="bottomCenter" style="s1" xml:id="subtitle320">那天民兵肆虐，无人生还</p>
+<p begin="15428100000t" end="15448690000t" region="bottomCenter" style="s1" xml:id="subtitle321">据说她全家</p>
+<p begin="15451120000t" end="15465790000t" region="bottomCenter" style="s1" xml:id="subtitle322">惨遭强奸杀害</p>
+<p begin="15486160000t" end="15515510000t" region="bottomCenter" style="s1" xml:id="subtitle323">之后她也惨遭毒手</p>
+<p begin="15744080000t" end="15779000000t" region="bottomCenter" style="s1" xml:id="subtitle324">被囚禁在希腊奴隶船舱多年后</p>
+<p begin="15790800000t" end="15816050000t" region="bottomCenter" style="s1" xml:id="subtitle325">她被弃置，任其自生自灭</p>
+<p begin="15825830000t" end="15851430000t" region="bottomCenter" style="s1" xml:id="subtitle326">她在濒死边缘被波斯特使救起</p>
+<p begin="16064070000t" end="16089670000t" region="bottomCenter" style="s1" xml:id="subtitle327">雅特米西亚发誓当她返回希腊时</p>
+<p begin="16104440000t" end="16121390000t" region="bottomCenter" style="s1" xml:id="subtitle328">定要将它烧为灰烬</p>
+<p begin="16237570000t" end="16273180000t" region="bottomCenter" style="s1" xml:id="subtitle329">她被波斯帝国<br />最精锐战士养育和训练</p>
+<p begin="16314320000t" end="16328990000t" region="bottomCenter" style="s1" xml:id="subtitle330">直到她的剑术</p>
+<p begin="16331340000t" end="16343280000t" region="bottomCenter" style="s1" xml:id="subtitle331">所向无敌</p>
+<p begin="16625630000t" end="16650540000t" region="bottomCenter" style="s1" xml:id="subtitle332">大流士深为她的毅力所折服</p>
+<p begin="16663670000t" end="16685620000t" region="bottomCenter" style="s1" xml:id="subtitle333">她快速晋升高位，随侍在侧</p>
+<p begin="16723390000t" end="16739660000t" region="bottomCenter" style="s1" xml:id="subtitle334">她已将灵魂</p>
+<p begin="16742080000t" end="16756750000t" region="bottomCenter" style="s1" xml:id="subtitle335">出卖给死神</p>
+<p begin="16770110000t" end="16793430000t" region="bottomCenter" style="s1" xml:id="subtitle336">有些人也说我将灵魂卖给希腊</p>
+<p begin="16835840000t" end="16846080000t" region="bottomCenter" style="s1" xml:id="subtitle337">你怎么看？</p>
+<p begin="16848520000t" end="16865470000t" region="bottomCenter" style="s1" xml:id="subtitle338">﹣我？<br />﹣对</p>
+<p begin="16868200000t" end="16886850000t" region="bottomCenter" style="s1" xml:id="subtitle339">你是国家的未来栋梁</p>
+<p begin="16897230000t" end="16910880000t" region="bottomCenter" style="s1" xml:id="subtitle340">我准备好作战了</p>
+<p begin="16945950000t" end="16970630000t" region="bottomCenter" style="s1" xml:id="subtitle341">我喜欢他，他很像你</p>
+<p begin="16978650000t" end="16985930000t" region="bottomCenter" style="s1" xml:id="subtitle342">我们需要</p>
+<p begin="16987660000t" end="16996640000t" region="bottomCenter" style="s1" xml:id="subtitle343">所有男丁</p>
+<p begin="16998330000t" end="17008910000t" region="bottomCenter" style="s1" xml:id="subtitle344">他还是个孩子</p>
+<p begin="17011680000t" end="17024990000t" region="bottomCenter" style="s1" xml:id="subtitle345">很多人比我年轻</p>
+<p begin="17027360000t" end="17045330000t" region="bottomCenter" style="s1" xml:id="subtitle346">﹣都挺身报国<br />﹣够了</p>
+<p begin="17050050000t" end="17077350000t" region="bottomCenter" style="s1" xml:id="subtitle347">你只会做白日梦，不准再提了</p>
+<p begin="17115790000t" end="17135700000t" region="bottomCenter" style="s1" xml:id="subtitle348">我已将你的计划付诸实行</p>
+<p begin="17138470000t" end="17167480000t" region="bottomCenter" style="s1" xml:id="subtitle349">我的陆军第二天就会结集完成</p>
+<p begin="17170170000t" end="17198500000t" region="bottomCenter" style="s1" xml:id="subtitle350">到时会需要你们支援<br />我可以保证这点</p>
+<p begin="17236240000t" end="17255580000t" region="bottomCenter" style="s1" xml:id="subtitle351">还有则坏消息</p>
+<p begin="17257930000t" end="17287620000t" region="bottomCenter" style="s1" xml:id="subtitle352">雷奥尼达已出兵北上温泉关</p>
+<p begin="17305640000t" end="17325320000t" region="bottomCenter" style="s1" xml:id="subtitle353">坏消息？有斯巴达镇守温泉关</p>
+<p begin="17327660000t" end="17366000000t" region="bottomCenter" style="s1" xml:id="subtitle354">﹣我们必胜无疑<br />﹣若他率领大军肯定如此</p>
+<p begin="17376050000t" end="17395390000t" region="bottomCenter" style="s1" xml:id="subtitle355">但因先知和喀尼雅节</p>
+<p begin="17397730000t" end="17424010000t" region="bottomCenter" style="s1" xml:id="subtitle356">雷奥尼达只带领三百壮士<br />前往温泉关</p>
+<p begin="17435770000t" end="17470350000t" region="bottomCenter" style="s1" xml:id="subtitle357">所以介于雅典</p>
+<p begin="17472810000t" end="17487710000t" region="bottomCenter" style="s1" xml:id="subtitle358">和彻底灭亡的命运之间</p>
+<p begin="17498170000t" end="17524110000t" region="bottomCenter" style="s1" xml:id="subtitle359">只有雷奥尼达<br />和斯巴达三百壮士</p>
+<p begin="17572580000t" end="17593170000t" region="bottomCenter" style="s1" xml:id="subtitle360">我会找出有作战经验的人</p>
+<p begin="17595930000t" end="17623230000t" region="bottomCenter" style="s1" xml:id="subtitle361">﹣在志愿兵间建立起秩序<br />﹣很好</p>
+<p begin="17630630000t" end="17661570000t" region="bottomCenter" style="s1" xml:id="subtitle362">没时间教这些农夫战术了</p>
+<p begin="17667670000t" end="17687920000t" region="bottomCenter" style="s1" xml:id="subtitle363">尽量让他们吃饱</p>
+<p begin="17697700000t" end="17711350000t" region="bottomCenter" style="s1" xml:id="subtitle364">别让他们喝醉</p>
+<p begin="17718050000t" end="17732380000t" region="bottomCenter" style="s1" xml:id="subtitle365">还有呢？</p>
+<p begin="17737740000t" end="17756740000t" region="bottomCenter" style="s1" xml:id="subtitle366">能教会他们用剑也不错</p>
+<p begin="17786120000t" end="17803070000t" region="bottomCenter" style="s1" xml:id="subtitle367">不是吧</p>
+<p begin="17817820000t" end="17828060000t" region="bottomCenter" style="s1" xml:id="subtitle368">糟了</p>
+<p begin="17830500000t" end="17859510000t" region="bottomCenter" style="s1" xml:id="subtitle369">﹣你父亲知道吗？<br />﹣不，大人</p>
+<p begin="17861860000t" end="17882450000t" region="bottomCenter" style="s1" xml:id="subtitle370">这盾牌和剑哪来的？</p>
+<p begin="17884890000t" end="17899790000t" region="bottomCenter" style="s1" xml:id="subtitle371">我外公的</p>
+<p begin="17902570000t" end="17930550000t" region="bottomCenter" style="s1" xml:id="subtitle372">我母亲今早将它们托付给我</p>
+<p begin="17935600000t" end="17968250000t" region="bottomCenter" style="s1" xml:id="subtitle373">﹣当她为你祈福时？<br />﹣是的，大人</p>
+<p begin="17974640000t" end="17996940000t" region="bottomCenter" style="s1" xml:id="subtitle374">她还替你把剑磨了</p>
+<p begin="18015020000t" end="18043350000t" region="bottomCenter" style="s1" xml:id="subtitle375">你父亲正在准备<br />明天要给敌人的惊喜</p>
+<p begin="18046050000t" end="18079380000t" region="bottomCenter" style="s1" xml:id="subtitle376">我选择此时此刻在这里作战</p>
+<p begin="18100100000t" end="18117730000t" region="bottomCenter" style="s1" xml:id="subtitle377">登上我的船舰</p>
+<p begin="18123790000t" end="18137780000t" region="bottomCenter" style="s1" xml:id="subtitle378">你在那里迎敌</p>
+<p begin="18140140000t" end="18152760000t" region="bottomCenter" style="s1" xml:id="subtitle379">是的，大人</p>
+<p begin="18195860000t" end="18208140000t" region="bottomCenter" style="s1" xml:id="subtitle380">我们只有五十几艘船</p>
+<p begin="18210880000t" end="18238180000t" region="bottomCenter" style="s1" xml:id="subtitle381">据报波斯大军有上千艘</p>
+<p begin="18240910000t" end="18273900000t" region="bottomCenter" style="s1" xml:id="subtitle382">﹣我们的船看起来不堪一击<br />﹣跟波斯舰队</p>
+<p begin="18276610000t" end="18309600000t" region="bottomCenter" style="s1" xml:id="subtitle383">﹣那些庞然大物无法比<br />﹣我们的速度和敏捷度都占了上风</p>
+<p begin="18312310000t" end="18349620000t" region="bottomCenter" style="s1" xml:id="subtitle384">其他城邦分别派来一到数艘船</p>
+<p begin="18352020000t" end="18385010000t" region="bottomCenter" style="s1" xml:id="subtitle385">﹣然后由雅典来补足数量<br />﹣我们收到消息</p>
+<p begin="18387390000t" end="18427320000t" region="bottomCenter" style="s1" xml:id="subtitle386">一支波斯小型先遣舰队<br />在海峡对面躲避暴风雨</p>
+<p begin="18430430000t" end="18453410000t" region="bottomCenter" style="s1" xml:id="subtitle387">若天气好转，我们可在黎明突袭</p>
+<p begin="18472140000t" end="18482380000t" region="bottomCenter" style="s1" xml:id="subtitle388">提早迎来希腊捷报</p>
+<p begin="18485150000t" end="18503120000t" region="bottomCenter" style="s1" xml:id="subtitle389">诸神给我们机会</p>
+<p begin="18505510000t" end="18525190000t" region="bottomCenter" style="s1" xml:id="subtitle390">挫伤波斯大军<br />提升希腊士气</p>
+<p begin="18546880000t" end="18558140000t" region="bottomCenter" style="s1" xml:id="subtitle391">听起来很诱人</p>
+<p begin="18560560000t" end="18581490000t" region="bottomCenter" style="s1" xml:id="subtitle392">但我们按原定作战计划</p>
+<p begin="18583920000t" end="18615200000t" region="bottomCenter" style="s1" xml:id="subtitle393">今天落日时，我们出航<br />迎战波斯主力舰队</p>
+<p begin="18617620000t" end="18648220000t" region="bottomCenter" style="s1" xml:id="subtitle394">在开阔海域上<br />让他们无法拉短战线</p>
+<p begin="18650650000t" end="18668960000t" region="bottomCenter" style="s1" xml:id="subtitle395">用微小的舰队去袭击上千艘船</p>
+<p begin="18671670000t" end="18689300000t" region="bottomCenter" style="s1" xml:id="subtitle396">简直是自杀</p>
+<p begin="18705040000t" end="18724380000t" region="bottomCenter" style="s1" xml:id="subtitle397">我的计划正是如此</p>
+<p begin="18766430000t" end="18792030000t" region="bottomCenter" style="s1" xml:id="subtitle398">他们的海军真是太可笑了</p>
+<p begin="18800800000t" end="18824460000t" region="bottomCenter" style="s1" xml:id="subtitle399">那些船舰完全不具威胁</p>
+<p begin="18833500000t" end="18855800000t" region="bottomCenter" style="s1" xml:id="subtitle400">我需要副手，阿尔塔费尼斯</p>
+<p begin="18858530000t" end="18898460000t" region="bottomCenter" style="s1" xml:id="subtitle401">只要能证明自己能力<br />便可在我身边当左右手</p>
+<p begin="18912580000t" end="18940910000t" region="bottomCenter" style="s1" xml:id="subtitle402">班德瑞将军自愿带领首波攻势</p>
+<p begin="18943610000t" end="18955550000t" region="bottomCenter" style="s1" xml:id="subtitle403">班德瑞</p>
+<p begin="18983650000t" end="18994230000t" region="bottomCenter" style="s1" xml:id="subtitle404">统帅</p>
+<p begin="18997000000t" end="19016000000t" region="bottomCenter" style="s1" xml:id="subtitle405">若让你率领首波攻势</p>
+<p begin="19018690000t" end="19048950000t" region="bottomCenter" style="s1" xml:id="subtitle406">你如何担保我方快速致胜？</p>
+<p begin="19051720000t" end="19070720000t" region="bottomCenter" style="s1" xml:id="subtitle407">我的承诺和性命</p>
+<p begin="19076740000t" end="19086980000t" region="bottomCenter" style="s1" xml:id="subtitle408">很好</p>
+<p begin="19092090000t" end="19107330000t" region="bottomCenter" style="s1" xml:id="subtitle409">我的交战守则是？</p>
+<p begin="19113780000t" end="19150410000t" region="bottomCenter" style="s1" xml:id="subtitle410">羞辱希腊人，摧毁所有船舰</p>
+<p begin="19160490000t" end="19184490000t" region="bottomCenter" style="s1" xml:id="subtitle411">他们会全军覆没</p>
+<p begin="19290960000t" end="19307230000t" region="bottomCenter" style="s1" xml:id="subtitle412">我的弟兄们</p>
+<p begin="19312310000t" end="19332220000t" region="bottomCenter" style="s1" xml:id="subtitle413">静下心来</p>
+<p begin="19350680000t" end="19367290000t" region="bottomCenter" style="s1" xml:id="subtitle414">深切反思内心</p>
+<p begin="19409740000t" end="19440680000t" region="bottomCenter" style="s1" xml:id="subtitle415">今日你将面临最大试炼</p>
+<p begin="19479150000t" end="19501450000t" region="bottomCenter" style="s1" xml:id="subtitle416">若在战火延烧中</p>
+<p begin="19515180000t" end="19542140000t" region="bottomCenter" style="s1" xml:id="subtitle417">你需要继续作战的理由</p>
+<p begin="19553220000t" end="19580180000t" region="bottomCenter" style="s1" xml:id="subtitle418">一个你愿为其…</p>
+<p begin="19586590000t" end="19609230000t" region="bottomCenter" style="s1" xml:id="subtitle419">牺牲一切的理由</p>
+<p begin="19621290000t" end="19650980000t" region="bottomCenter" style="s1" xml:id="subtitle420">只需环顾和你并肩作战的兄弟</p>
+<p begin="19670340000t" end="19695250000t" region="bottomCenter" style="s1" xml:id="subtitle421">这就是作战的理由</p>
+<p begin="19698030000t" end="19726010000t" region="bottomCenter" style="s1" xml:id="subtitle422">这就是军人间的歃血盟约</p>
+<p begin="19736400000t" end="19751070000t" region="bottomCenter" style="s1" xml:id="subtitle423">一个坚不可摧的连结</p>
+<p begin="19753420000t" end="19783340000t" region="bottomCenter" style="s1" xml:id="subtitle424">历经严峻考验而益发强壮</p>
+<p begin="19798130000t" end="19835440000t" region="bottomCenter" style="s1" xml:id="subtitle425">再不会有比浴血兄弟更深的情谊</p>
+<p begin="19855190000t" end="19876120000t" region="bottomCenter" style="s1" xml:id="subtitle426">再也没有比…</p>
+<p begin="19878550000t" end="19911880000t" region="bottomCenter" style="s1" xml:id="subtitle427">为同生共死的弟兄奋战<br />更高贵的目标</p>
+<p begin="19931930000t" end="19956270000t" region="bottomCenter" style="s1" xml:id="subtitle428">所以今日务必坚韧不懈</p>
+<p begin="19967630000t" end="19988220000t" region="bottomCenter" style="s1" xml:id="subtitle429">为你的弟兄而战</p>
+<p begin="20001330000t" end="20021580000t" region="bottomCenter" style="s1" xml:id="subtitle430">为你的家人而战</p>
+<p begin="20029700000t" end="20049610000t" region="bottomCenter" style="s1" xml:id="subtitle431">更重要的是，为希腊而战</p>
+<p begin="20052050000t" end="20062630000t" region="bottomCenter" style="s1" xml:id="subtitle432">希腊</p>
+<p begin="20073070000t" end="20083310000t" region="bottomCenter" style="s1" xml:id="subtitle433">对</p>
+<p begin="20105110000t" end="20138100000t" region="bottomCenter" style="s1" xml:id="subtitle434">开战后只需确保一件事</p>
+<p begin="20140470000t" end="20150710000t" region="bottomCenter" style="s1" xml:id="subtitle435">什么事？</p>
+<p begin="20161830000t" end="20180140000t" region="bottomCenter" style="s1" xml:id="subtitle436">别在第一天阵亡</p>
+<p begin="20195200000t" end="20217150000t" region="bottomCenter" style="s1" xml:id="subtitle437">你们都一样</p>
+<p begin="20534200000t" end="20542500000t" region="bottomCenter" style="s1" xml:id="subtitle438">波斯船舰</p>
+<p begin="20544200000t" end="20559110000t" region="bottomCenter" style="s1" xml:id="subtitle439">船头坚固</p>
+<p begin="20561880000t" end="20572130000t" region="bottomCenter" style="s1" xml:id="subtitle440">但中段</p>
+<p begin="20574240000t" end="20588570000t" region="bottomCenter" style="s1" xml:id="subtitle441">却十分脆弱</p>
+<p begin="20590920000t" end="20609220000t" region="bottomCenter" style="s1" xml:id="subtitle442">我们就攻击那里</p>
+<p begin="20712040000t" end="20728640000t" region="bottomCenter" style="s1" xml:id="subtitle443">预备</p>
+<p begin="20938930000t" end="20949520000t" region="bottomCenter" style="s1" xml:id="subtitle444">攻击</p>
+<p begin="21231560000t" end="21245210000t" region="bottomCenter" style="s1" xml:id="subtitle445">撞击他们</p>
+<p begin="21354690000t" end="21385290000t" region="bottomCenter" style="s1" xml:id="subtitle446">弓箭手，放箭，放箭</p>
+<p begin="21478140000t" end="21492810000t" region="bottomCenter" style="s1" xml:id="subtitle447">后退</p>
+<p begin="21496160000t" end="21510150000t" region="bottomCenter" style="s1" xml:id="subtitle448">现在</p>
+<p begin="21578240000t" end="21591890000t" region="bottomCenter" style="s1" xml:id="subtitle449">撞断他们</p>
+<p begin="22142470000t" end="22153390000t" region="bottomCenter" style="s1" xml:id="subtitle450">敌军的战术</p>
+<p begin="22155820000t" end="22169810000t" region="bottomCenter" style="s1" xml:id="subtitle451">真有创意</p>
+<p begin="22172170000t" end="22196170000t" region="bottomCenter" style="s1" xml:id="subtitle452">环状防线让我们无法攻击</p>
+<p begin="22202200000t" end="22215850000t" region="bottomCenter" style="s1" xml:id="subtitle453">我们节节败退</p>
+<p begin="22218550000t" end="22235160000t" region="bottomCenter" style="s1" xml:id="subtitle454">不，是你节节败退</p>
+<p begin="22299960000t" end="22313610000t" region="bottomCenter" style="s1" xml:id="subtitle455">撤退</p>
+<p begin="22318650000t" end="22335260000t" region="bottomCenter" style="s1" xml:id="subtitle456">今天算赏他们甜头</p>
+<p begin="22341340000t" end="22371940000t" region="bottomCenter" style="s1" xml:id="subtitle457">你的失败让我厌烦，班德瑞</p>
+<p begin="22423750000t" end="22447750000t" region="bottomCenter" style="s1" xml:id="subtitle458">我不会让这点小伤阻碍我</p>
+<p begin="22457790000t" end="22469050000t" region="bottomCenter" style="s1" xml:id="subtitle459">我相信你</p>
+<p begin="22471470000t" end="22493770000t" region="bottomCenter" style="s1" xml:id="subtitle460">我明早就会把剑磨利准备就绪</p>
+<p begin="22503830000t" end="22530450000t" region="bottomCenter" style="s1" xml:id="subtitle461">很好，你将和你父亲并肩作战</p>
+<p begin="22551220000t" end="22561460000t" region="bottomCenter" style="s1" xml:id="subtitle462">对一群…</p>
+<p begin="22563890000t" end="22598250000t" region="bottomCenter" style="s1" xml:id="subtitle463">﹣农夫来说还不错<br />﹣还有诗人和雕塑家</p>
+<p begin="22600930000t" end="22615600000t" region="bottomCenter" style="s1" xml:id="subtitle464">谁会想到一群没经验的人</p>
+<p begin="22617950000t" end="22645930000t" region="bottomCenter" style="s1" xml:id="subtitle465">会把波斯大军打得落花流水</p>
+<p begin="22669670000t" end="22702320000t" region="bottomCenter" style="s1" xml:id="subtitle466">我们需要所有精力应付明天战役</p>
+<p begin="22708370000t" end="22730670000t" region="bottomCenter" style="s1" xml:id="subtitle467">你觉得我们能抵挡多久？</p>
+<p begin="22760420000t" end="22782720000t" region="bottomCenter" style="s1" xml:id="subtitle468">如果我的计划成功</p>
+<p begin="22801130000t" end="22831390000t" region="bottomCenter" style="s1" xml:id="subtitle469">会撑到斯巴达加入希腊为止</p>
+<p begin="22844510000t" end="22857480000t" region="bottomCenter" style="s1" xml:id="subtitle470">弟兄们</p>
+<p begin="22862860000t" end="22886860000t" region="bottomCenter" style="s1" xml:id="subtitle471">谁要陪我喝一杯？</p>
+<p begin="23014680000t" end="23025600000t" region="bottomCenter" style="s1" xml:id="subtitle472">回报状况</p>
+<p begin="23028030000t" end="23046000000t" region="bottomCenter" style="s1" xml:id="subtitle473">我们还在统计损伤</p>
+<p begin="23052050000t" end="23077990000t" region="bottomCenter" style="s1" xml:id="subtitle474">请谅解，海象和天色</p>
+<p begin="23080740000t" end="23103720000t" region="bottomCenter" style="s1" xml:id="subtitle475">让情况棘手</p>
+<p begin="23106440000t" end="23122710000t" region="bottomCenter" style="s1" xml:id="subtitle476">很难精确统计…</p>
+<p begin="23234560000t" end="23245820000t" region="bottomCenter" style="s1" xml:id="subtitle477">回报状况</p>
+<p begin="23253580000t" end="23266200000t" region="bottomCenter" style="s1" xml:id="subtitle478">损失七十五艘船</p>
+<p begin="23268600000t" end="23282250000t" region="bottomCenter" style="s1" xml:id="subtitle479">三十艘无法修复</p>
+<p begin="23284950000t" end="23315210000t" region="bottomCenter" style="s1" xml:id="subtitle480">二十艘在安全港口<br />修补后可再参战</p>
+<p begin="23357020000t" end="23386370000t" region="bottomCenter" style="s1" xml:id="subtitle481">那位希腊统帅名叫帝米斯托克力</p>
+<p begin="23388720000t" end="23408630000t" region="bottomCenter" style="s1" xml:id="subtitle482">是的，他是位雅典将军</p>
+<p begin="23417080000t" end="23435390000t" region="bottomCenter" style="s1" xml:id="subtitle483">据说就是他放箭</p>
+<p begin="23438100000t" end="23463350000t" region="bottomCenter" style="s1" xml:id="subtitle484">杀了吾王大流士</p>
+<p begin="23588920000t" end="23608600000t" region="bottomCenter" style="s1" xml:id="subtitle485">不</p>
+<p begin="23755080000t" end="23795010000t" region="bottomCenter" style="s1" xml:id="subtitle486">这个帝米斯托克力显然<br />是位杰出战士</p>
+<p begin="23811470000t" end="23832060000t" region="bottomCenter" style="s1" xml:id="subtitle487">这胜过我对你们所有人的评价</p>
+<p begin="23845840000t" end="23877810000t" region="bottomCenter" style="s1" xml:id="subtitle488">各位觉得我的要求不合理吗？</p>
+<p begin="23882550000t" end="23909170000t" region="bottomCenter" style="s1" xml:id="subtitle489">想要获胜太贪心了吗？</p>
+<p begin="23911910000t" end="23946490000t" region="bottomCenter" style="s1" xml:id="subtitle490">您对昨日战败的失望可以理解</p>
+<p begin="23960960000t" end="23980870000t" region="bottomCenter" style="s1" xml:id="subtitle491">我的失望</p>
+<p begin="23994320000t" end="24018660000t" region="bottomCenter" style="s1" xml:id="subtitle492">我失望的不是战败</p>
+<p begin="24021020000t" end="24057310000t" region="bottomCenter" style="s1" xml:id="subtitle493">区区几艘破船和死了几个奴隶<br />对我毫无意义</p>
+<p begin="24059720000t" end="24097720000t" region="bottomCenter" style="s1" xml:id="subtitle494">不，我的失望</p>
+<p begin="24123120000t" end="24140410000t" region="bottomCenter" style="s1" xml:id="subtitle495">是对你们这些人</p>
+<p begin="24153150000t" end="24163390000t" region="bottomCenter" style="s1" xml:id="subtitle496">因为我身处</p>
+<p begin="24165830000t" end="24186760000t" region="bottomCenter" style="s1" xml:id="subtitle497">一万将士之中</p>
+<p begin="24189850000t" end="24204520000t" region="bottomCenter" style="s1" xml:id="subtitle498">却还是孤独一人</p>
+<p begin="24225550000t" end="24259220000t" region="bottomCenter" style="s1" xml:id="subtitle499">我渴望一个和我并肩作战</p>
+<p begin="24261920000t" end="24273180000t" region="bottomCenter" style="s1" xml:id="subtitle500">值得信任之人</p>
+<p begin="24334000000t" end="24356980000t" region="bottomCenter" style="s1" xml:id="subtitle501">告诉我，卡沙尼将军</p>
+<p begin="24363030000t" end="24381340000t" region="bottomCenter" style="s1" xml:id="subtitle502">你是那个人吗？</p>
+<p begin="24400060000t" end="24432710000t" region="bottomCenter" style="s1" xml:id="subtitle503">今日结束之时，您会品尝到胜利滋味</p>
+<p begin="24437430000t" end="24460750000t" region="bottomCenter" style="s1" xml:id="subtitle504">我会确保这点</p>
+<p begin="24473140000t" end="24491110000t" region="bottomCenter" style="s1" xml:id="subtitle505">希望如此</p>
+<p begin="25407070000t" end="25428680000t" region="bottomCenter" style="s1" xml:id="subtitle506">推进</p>
+<p begin="25500160000t" end="25535430000t" region="bottomCenter" style="s1" xml:id="subtitle507">现在</p>
+<p begin="25772430000t" end="25795410000t" region="bottomCenter" style="s1" xml:id="subtitle508">别追丢了</p>
+<p begin="25938930000t" end="25977270000t" region="bottomCenter" style="s1" xml:id="subtitle509">﹣希腊人撤退了<br />﹣这正中他的下怀</p>
+<p begin="25979640000t" end="25998640000t" region="bottomCenter" style="s1" xml:id="subtitle510">卡沙尼用兵如神</p>
+<p begin="26004670000t" end="26031290000t" region="bottomCenter" style="s1" xml:id="subtitle511">我说的是帝米斯托克力</p>
+<p begin="26129790000t" end="26140030000t" region="bottomCenter" style="s1" xml:id="subtitle512">岩石</p>
+<p begin="26171830000t" end="26186730000t" region="bottomCenter" style="s1" xml:id="subtitle513">停，快停</p>
+<p begin="26189520000t" end="26202490000t" region="bottomCenter" style="s1" xml:id="subtitle514">停下来</p>
+<p begin="26209540000t" end="26226490000t" region="bottomCenter" style="s1" xml:id="subtitle515">大家抓紧船身</p>
+<p begin="27884540000t" end="27898530000t" region="bottomCenter" style="s1" xml:id="subtitle516">你在这里做什么？</p>
+<p begin="27901230000t" end="27936150000t" region="bottomCenter" style="s1" xml:id="subtitle517">一个男人有责任扞卫家人和国家</p>
+<p begin="27938600000t" end="27968290000t" region="bottomCenter" style="s1" xml:id="subtitle518">﹣这是谁说的？<br />﹣我父亲</p>
+<p begin="28602590000t" end="28632510000t" region="bottomCenter" style="s1" xml:id="subtitle519">看到帝米斯托克力<br />如何巧妙地引君入瓮吗？</p>
+<p begin="28638300000t" end="28666970000t" region="bottomCenter" style="s1" xml:id="subtitle520">﹣要求战胜怎么就这么难呢？<br />﹣我如何能弥补？</p>
+<p begin="28669330000t" end="28683320000t" region="bottomCenter" style="s1" xml:id="subtitle521">闭嘴</p>
+<p begin="28717380000t" end="28741380000t" region="bottomCenter" style="s1" xml:id="subtitle522">你去替我传个口信</p>
+<p begin="28752080000t" end="28766410000t" region="bottomCenter" style="s1" xml:id="subtitle523">现在他们怕了</p>
+<p begin="28768760000t" end="28801750000t" region="bottomCenter" style="s1" xml:id="subtitle524">现在他们会敬畏希腊战士了</p>
+<p begin="28820810000t" end="28831050000t" region="bottomCenter" style="s1" xml:id="subtitle525">他说得对</p>
+<p begin="28838500000t" end="28857150000t" region="bottomCenter" style="s1" xml:id="subtitle526">要对希腊战士戒慎恐惧</p>
+<p begin="28859520000t" end="28870780000t" region="bottomCenter" style="s1" xml:id="subtitle527">敬畏他的剑</p>
+<p begin="28873530000t" end="28886840000t" region="bottomCenter" style="s1" xml:id="subtitle528">他的盾</p>
+<p begin="28891550000t" end="28917150000t" region="bottomCenter" style="s1" xml:id="subtitle529">敬畏他对母国希腊的爱</p>
+<p begin="28919580000t" end="28934480000t" region="bottomCenter" style="s1" xml:id="subtitle530">但最重要的是</p>
+<p begin="28940600000t" end="28957210000t" region="bottomCenter" style="s1" xml:id="subtitle531">敬畏他的自由</p>
+<p begin="29017680000t" end="29037020000t" region="bottomCenter" style="s1" xml:id="subtitle532">别生孩子的气</p>
+<p begin="29039700000t" end="29052670000t" region="bottomCenter" style="s1" xml:id="subtitle533">我将他纳入我麾下</p>
+<p begin="29055380000t" end="29085300000t" region="bottomCenter" style="s1" xml:id="subtitle534">我只对敌人生气</p>
+<p begin="29167830000t" end="29183750000t" region="bottomCenter" style="s1" xml:id="subtitle535">帝米斯托克力</p>
+<p begin="29387040000t" end="29424010000t" region="bottomCenter" style="s1" xml:id="subtitle536">雅特米西亚的船停泊在中立水域</p>
+<p begin="29426420000t" end="29448030000t" region="bottomCenter" style="s1" xml:id="subtitle537">她想邀帝米斯托克力会面</p>
+<p begin="29450770000t" end="29479440000t" region="bottomCenter" style="s1" xml:id="subtitle538">﹣如何确保他安全返回？<br />﹣小子</p>
+<p begin="29482140000t" end="29501140000t" region="bottomCenter" style="s1" xml:id="subtitle539">她想雪耻的方式</p>
+<p begin="29503490000t" end="29537500000t" region="bottomCenter" style="s1" xml:id="subtitle540">是看着你们破碎的舰队</p>
+<p begin="29539860000t" end="29559200000t" region="bottomCenter" style="s1" xml:id="subtitle541">沉没在爱琴海</p>
+<p begin="29561550000t" end="29577470000t" region="bottomCenter" style="s1" xml:id="subtitle542">还要看到你</p>
+<p begin="29579900000t" end="29610840000t" region="bottomCenter" style="s1" xml:id="subtitle543">被她用剑钉在你船首上</p>
+<p begin="29613270000t" end="29640910000t" region="bottomCenter" style="s1" xml:id="subtitle544">再随着你的船葬身海底</p>
+<p begin="29694690000t" end="29719600000t" region="bottomCenter" style="s1" xml:id="subtitle545">你怎么不早说呢？</p>
+<p begin="29993980000t" end="30018890000t" region="bottomCenter" style="s1" xml:id="subtitle546">欢迎来到我的小船</p>
+<p begin="30021680000t" end="30046930000t" region="bottomCenter" style="s1" xml:id="subtitle547">我们因您大驾光临深感荣幸</p>
+<p begin="30071730000t" end="30094030000t" region="bottomCenter" style="s1" xml:id="subtitle548">你的小船和你</p>
+<p begin="30101420000t" end="30117690000t" region="bottomCenter" style="s1" xml:id="subtitle549">都令人惊艳</p>
+<p begin="30165490000t" end="30183800000t" region="bottomCenter" style="s1" xml:id="subtitle550">您客气了</p>
+<p begin="30200190000t" end="30232160000t" region="bottomCenter" style="s1" xml:id="subtitle551">来吧，帝米斯托克力<br />我们有很多要谈的</p>
+<p begin="30249240000t" end="30275860000t" region="bottomCenter" style="s1" xml:id="subtitle552">你相信希腊人是诸神的后裔？</p>
+<p begin="30278600000t" end="30294180000t" region="bottomCenter" style="s1" xml:id="subtitle553">我听过这种说法</p>
+<p begin="30296950000t" end="30329940000t" region="bottomCenter" style="s1" xml:id="subtitle554">那你呢？族谱中有神吗？</p>
+<p begin="30332320000t" end="30366680000t" region="bottomCenter" style="s1" xml:id="subtitle555">我的手下认为如此<br />加上过去两天的战况</p>
+<p begin="30371690000t" end="30404000000t" region="bottomCenter" style="s1" xml:id="subtitle556">我会说你的确天纵英才</p>
+<p begin="30416070000t" end="30442010000t" region="bottomCenter" style="s1" xml:id="subtitle557">现在是谁客气了？</p>
+<p begin="30510830000t" end="30526750000t" region="bottomCenter" style="s1" xml:id="subtitle558">听说是你</p>
+<p begin="30529190000t" end="30560820000t" region="bottomCenter" style="s1" xml:id="subtitle559">在马拉松之战时杀了大流士国王</p>
+<p begin="30563550000t" end="30587550000t" region="bottomCenter" style="s1" xml:id="subtitle560">那天发生许多英雄事蹟</p>
+<p begin="30590250000t" end="30607200000t" region="bottomCenter" style="s1" xml:id="subtitle561">但毕竟是十年前</p>
+<p begin="30609600000t" end="30634510000t" region="bottomCenter" style="s1" xml:id="subtitle562">而战争史实常被夸大</p>
+<p begin="30637290000t" end="30655600000t" region="bottomCenter" style="s1" xml:id="subtitle563">这种功业想必会记得</p>
+<p begin="30668990000t" end="30700270000t" region="bottomCenter" style="s1" xml:id="subtitle564">为了扞卫希腊，我愿赴汤蹈火</p>
+<p begin="30702690000t" end="30728290000t" region="bottomCenter" style="s1" xml:id="subtitle565">为了击败希腊，我也愿意</p>
+<p begin="30759420000t" end="30789340000t" region="bottomCenter" style="s1" xml:id="subtitle566">每一个希腊士兵阵亡<br />你就要杀一千个波斯士兵</p>
+<p begin="30809470000t" end="30826080000t" region="bottomCenter" style="s1" xml:id="subtitle567">我每击沉一艘船</p>
+<p begin="30835830000t" end="30853800000t" region="bottomCenter" style="s1" xml:id="subtitle568">你就要击沉一百艘</p>
+<p begin="30863850000t" end="30883760000t" region="bottomCenter" style="s1" xml:id="subtitle569">我顶的住数周战败</p>
+<p begin="30886210000t" end="30909190000t" region="bottomCenter" style="s1" xml:id="subtitle570">如果必要，数月也行</p>
+<p begin="30911570000t" end="30926470000t" region="bottomCenter" style="s1" xml:id="subtitle571">我会用人海战术打垮你</p>
+<p begin="30929250000t" end="30956210000t" region="bottomCenter" style="s1" xml:id="subtitle572">我会用剑摧毁你珍爱的舰队</p>
+<p begin="30958950000t" end="30974530000t" region="bottomCenter" style="s1" xml:id="subtitle573">我会践踏希腊的自由</p>
+<p begin="30981640000t" end="31009970000t" region="bottomCenter" style="s1" xml:id="subtitle574">你想跟我谈招降条件吗？</p>
+<p begin="31012670000t" end="31022910000t" region="bottomCenter" style="s1" xml:id="subtitle575">不</p>
+<p begin="31033020000t" end="31062710000t" region="bottomCenter" style="s1" xml:id="subtitle576">我给你机会免除痛苦<br />并让你加入我</p>
+<p begin="31078730000t" end="31103980000t" region="bottomCenter" style="s1" xml:id="subtitle577">我需要像你这样的领导人才</p>
+<p begin="31114100000t" end="31130020000t" region="bottomCenter" style="s1" xml:id="subtitle578">看你建立的防御战线</p>
+<p begin="31150810000t" end="31165140000t" region="bottomCenter" style="s1" xml:id="subtitle579">几艘三列桨船</p>
+<p begin="31173830000t" end="31198740000t" region="bottomCenter" style="s1" xml:id="subtitle580">雷奥尼达和三百名斯巴达士兵</p>
+<p begin="31213870000t" end="31225810000t" region="bottomCenter" style="s1" xml:id="subtitle581">这样应付史上最强的帝国</p>
+<p begin="31228220000t" end="31259500000t" region="bottomCenter" style="s1" xml:id="subtitle582">也未免太污辱人了</p>
+<p begin="31281260000t" end="31302870000t" region="bottomCenter" style="s1" xml:id="subtitle583">我不怪你，帝米斯托克力</p>
+<p begin="31311290000t" end="31338930000t" region="bottomCenter" style="s1" xml:id="subtitle584">你骁勇善战</p>
+<p begin="31341320000t" end="31362590000t" region="bottomCenter" style="s1" xml:id="subtitle585">宛如海神转世</p>
+<p begin="31365020000t" end="31384360000t" region="bottomCenter" style="s1" xml:id="subtitle586">不，我怪罪的是希腊</p>
+<p begin="31393380000t" end="31423300000t" region="bottomCenter" style="s1" xml:id="subtitle587">那些吵闹不休的政客为了自保</p>
+<p begin="31426080000t" end="31454750000t" region="bottomCenter" style="s1" xml:id="subtitle588">让你来此送死</p>
+<p begin="31488470000t" end="31511450000t" region="bottomCenter" style="s1" xml:id="subtitle589">但你仍然奋战不懈</p>
+<p begin="31527180000t" end="31545150000t" region="bottomCenter" style="s1" xml:id="subtitle590">所以一定有…</p>
+<p begin="31561880000t" end="31574850000t" region="bottomCenter" style="s1" xml:id="subtitle591">什么？</p>
+<p begin="31588240000t" end="31628170000t" region="bottomCenter" style="s1" xml:id="subtitle592">在雅典的一家大小迫使你</p>
+<p begin="31639290000t" end="31665230000t" region="bottomCenter" style="s1" xml:id="subtitle593">如此热切的奋战？</p>
+<p begin="31688000000t" end="31713600000t" region="bottomCenter" style="s1" xml:id="subtitle594">老实说，我无暇照顾家庭</p>
+<p begin="31716370000t" end="31740710000t" region="bottomCenter" style="s1" xml:id="subtitle595">我成年就将身心</p>
+<p begin="31743390000t" end="31761360000t" region="bottomCenter" style="s1" xml:id="subtitle596">奉献给唯一挚爱</p>
+<p begin="31770750000t" end="31786670000t" region="bottomCenter" style="s1" xml:id="subtitle597">希腊海军</p>
+<p begin="31794440000t" end="31812410000t" region="bottomCenter" style="s1" xml:id="subtitle598">我唯一目标</p>
+<p begin="31815130000t" end="31833780000t" region="bottomCenter" style="s1" xml:id="subtitle599">就是准备迎战你</p>
+<p begin="31875530000t" end="31890430000t" region="bottomCenter" style="s1" xml:id="subtitle600">那真让我开心</p>
+<p begin="31893210000t" end="31927570000t" region="bottomCenter" style="s1" xml:id="subtitle601">想到你全心全意为我准备</p>
+<p begin="31936920000t" end="31962520000t" region="bottomCenter" style="s1" xml:id="subtitle602">放弃家庭和爱情</p>
+<p begin="31965280000t" end="31996910000t" region="bottomCenter" style="s1" xml:id="subtitle603">为的是更向往无法自拔的迷恋</p>
+<p begin="32067380000t" end="32101740000t" region="bottomCenter" style="s1" xml:id="subtitle604">钢铁和血肉之躯的快感</p>
+<p begin="32113430000t" end="32142780000t" region="bottomCenter" style="s1" xml:id="subtitle605">死亡与存活</p>
+<p begin="32161140000t" end="32176720000t" region="bottomCenter" style="s1" xml:id="subtitle606">欲望中…</p>
+<p begin="32185500000t" end="32208820000t" region="bottomCenter" style="s1" xml:id="subtitle607">汗水淋漓的肌肉</p>
+<p begin="32220200000t" end="32239200000t" region="bottomCenter" style="s1" xml:id="subtitle608">最纯粹的喜悦</p>
+<p begin="32249230000t" end="32270840000t" region="bottomCenter" style="s1" xml:id="subtitle609">和最深沉的哀愁</p>
+<p begin="32283600000t" end="32321940000t" region="bottomCenter" style="s1" xml:id="subtitle610">每晚和我一同死去<br />早晨再一起重生</p>
+<p begin="32328640000t" end="32367320000t" region="bottomCenter" style="s1" xml:id="subtitle611">将你的剑刺向我们敌人的心中</p>
+<p begin="32405050000t" end="32421320000t" region="bottomCenter" style="s1" xml:id="subtitle612">你为自由而战</p>
+<p begin="32427080000t" end="32464390000t" region="bottomCenter" style="s1" xml:id="subtitle613">我提供你不计后果<br />没有责任义务的自由</p>
+<p begin="32497150000t" end="32511480000t" region="bottomCenter" style="s1" xml:id="subtitle614">加入我</p>
+<p begin="32526180000t" end="32543130000t" region="bottomCenter" style="s1" xml:id="subtitle615">在我身旁</p>
+<p begin="32546200000t" end="32586130000t" region="bottomCenter" style="s1" xml:id="subtitle616">和我一起呼吸<br />仿佛那是你最后一口气</p>
+<p begin="33676990000t" end="33691890000t" region="bottomCenter" style="s1" xml:id="subtitle617">加入我</p>
+<p begin="33752400000t" end="33764340000t" region="bottomCenter" style="s1" xml:id="subtitle618">不</p>
+<p begin="33875860000t" end="33908510000t" region="bottomCenter" style="s1" xml:id="subtitle619">你不是神，你只是凡人</p>
+<p begin="34059710000t" end="34082350000t" region="bottomCenter" style="s1" xml:id="subtitle620">下手快一点</p>
+<p begin="34117100000t" end="34139050000t" region="bottomCenter" style="s1" xml:id="subtitle621">今晚还不是你的死期</p>
+<p begin="34144460000t" end="34156060000t" region="bottomCenter" style="s1" xml:id="subtitle622">侍卫</p>
+<p begin="34172490000t" end="34194100000t" region="bottomCenter" style="s1" xml:id="subtitle623">把这个下三滥赶下船</p>
+<p begin="34454430000t" end="34464670000t" region="bottomCenter" style="s1" xml:id="subtitle624">怎么？</p>
+<p begin="34474120000t" end="34492770000t" region="bottomCenter" style="s1" xml:id="subtitle625">有什么发现？</p>
+<p begin="34566210000t" end="34585890000t" region="bottomCenter" style="s1" xml:id="subtitle626">有办法打败雅特米西亚吗？</p>
+<p begin="34602920000t" end="34625900000t" region="bottomCenter" style="s1" xml:id="subtitle627">我们下次和她短兵相见时</p>
+<p begin="34628280000t" end="34654560000t" region="bottomCenter" style="s1" xml:id="subtitle628">她会打开地狱大门</p>
+<p begin="35193840000t" end="35218180000t" region="bottomCenter" style="s1" xml:id="subtitle629">抓紧船身，谨守位置</p>
+<p begin="35333650000t" end="35354240000t" region="bottomCenter" style="s1" xml:id="subtitle630">释出我的私人侍卫</p>
+<p begin="35623600000t" end="35633840000t" region="bottomCenter" style="s1" xml:id="subtitle631">退后</p>
+<p begin="35635950000t" end="35646870000t" region="bottomCenter" style="s1" xml:id="subtitle632">撤退</p>
+<p begin="35649300000t" end="35660560000t" region="bottomCenter" style="s1" xml:id="subtitle633">﹣撤退<br />﹣撤退</p>
+<p begin="35663310000t" end="35678210000t" region="bottomCenter" style="s1" xml:id="subtitle634">﹣撤退<br />﹣撤退</p>
+<p begin="35685330000t" end="35702280000t" region="bottomCenter" style="s1" xml:id="subtitle635">帝米斯托克力</p>
+<p begin="35704680000t" end="35719580000t" region="bottomCenter" style="s1" xml:id="subtitle636">在水中</p>
+<p begin="35755400000t" end="35777010000t" region="bottomCenter" style="s1" xml:id="subtitle637">弓箭手，快上甲板</p>
+<p begin="35779430000t" end="35796040000t" region="bottomCenter" style="s1" xml:id="subtitle638">弓箭手立刻上甲板来</p>
+<p begin="35803450000t" end="35813690000t" region="bottomCenter" style="s1" xml:id="subtitle639">右舷</p>
+<p begin="35815790000t" end="35827390000t" region="bottomCenter" style="s1" xml:id="subtitle640">全力放箭</p>
+<p begin="36594240000t" end="36607890000t" region="bottomCenter" style="s1" xml:id="subtitle641">继续奋战，孩子</p>
+<p begin="36622270000t" end="36636940000t" region="bottomCenter" style="s1" xml:id="subtitle642">继续奋战</p>
+<p begin="36835150000t" end="36852100000t" region="bottomCenter" style="s1" xml:id="subtitle643">瞄准上面的人</p>
+<p begin="36854830000t" end="36866770000t" region="bottomCenter" style="s1" xml:id="subtitle644">最上面</p>
+<p begin="37572220000t" end="37600550000t" region="bottomCenter" style="s1" xml:id="subtitle645">弃船，弃船</p>
+<p begin="37602910000t" end="37622590000t" region="bottomCenter" style="s1" xml:id="subtitle646">弃船</p>
+<p begin="38680320000t" end="38703640000t" region="bottomCenter" style="s1" xml:id="subtitle647">已死之人无须面对愧疚</p>
+<p begin="38709020000t" end="38731320000t" region="bottomCenter" style="s1" xml:id="subtitle648">无须担负责任</p>
+<p begin="38743390000t" end="38765000000t" region="bottomCenter" style="s1" xml:id="subtitle649">帝米斯托克力看着弟兄</p>
+<p begin="38767410000t" end="38795740000t" region="bottomCenter" style="s1" xml:id="subtitle650">将爱琴海染成一片血红</p>
+<p begin="38806450000t" end="38824420000t" region="bottomCenter" style="s1" xml:id="subtitle651">他们是否因他的自大而丧命？</p>
+<p begin="38841820000t" end="38881750000t" region="bottomCenter" style="s1" xml:id="subtitle652">或是为了平反他多年前<br />在马拉松犯下的错误？</p>
+<p begin="38911890000t" end="38928840000t" region="bottomCenter" style="s1" xml:id="subtitle653">若他多年前杀了王子</p>
+<p begin="38931570000t" end="38960920000t" region="bottomCenter" style="s1" xml:id="subtitle654">多少弟兄能免于一死？</p>
+<p begin="38988630000t" end="39015930000t" region="bottomCenter" style="s1" xml:id="subtitle655">就算他的灵魂也无法回答</p>
+<p begin="39030670000t" end="39046940000t" region="bottomCenter" style="s1" xml:id="subtitle656">我的朋友</p>
+<p begin="39056030000t" end="39075710000t" region="bottomCenter" style="s1" xml:id="subtitle657">我们以小搏大</p>
+<p begin="39089060000t" end="39104640000t" region="bottomCenter" style="s1" xml:id="subtitle658">同心协力</p>
+<p begin="39124770000t" end="39135010000t" region="bottomCenter" style="s1" xml:id="subtitle659">听我说</p>
+<p begin="39137450000t" end="39156100000t" region="bottomCenter" style="s1" xml:id="subtitle660">帝米斯托克力</p>
+<p begin="39192170000t" end="39213780000t" region="bottomCenter" style="s1" xml:id="subtitle661">明天早上</p>
+<p begin="39216190000t" end="39244170000t" region="bottomCenter" style="s1" xml:id="subtitle662">你要加倍猛攻</p>
+<p begin="39252900000t" end="39272810000t" region="bottomCenter" style="s1" xml:id="subtitle663">我们一起并肩作战</p>
+<p begin="39275580000t" end="39289230000t" region="bottomCenter" style="s1" xml:id="subtitle664">不，儿子</p>
+<p begin="39303950000t" end="39331250000t" region="bottomCenter" style="s1" xml:id="subtitle665">你要替我俩保家卫国</p>
+<p begin="39924570000t" end="39938560000t" region="bottomCenter" style="s1" xml:id="subtitle666">他说了什么？</p>
+<p begin="39963940000t" end="39986580000t" region="bottomCenter" style="s1" xml:id="subtitle667">将来我再告诉你，孩子</p>
+<p begin="40008980000t" end="40022630000t" region="bottomCenter" style="s1" xml:id="subtitle668">先默哀吧</p>
+<p begin="40035680000t" end="40060020000t" region="bottomCenter" style="s1" xml:id="subtitle669">守候你父亲的灵魂</p>
+<p begin="40151790000t" end="40179090000t" region="bottomCenter" style="s1" xml:id="subtitle670">我们还要面对多少次这种悲剧？</p>
+<p begin="40194840000t" end="40206440000t" region="bottomCenter" style="s1" xml:id="subtitle671">该面对就面对</p>
+<p begin="40217190000t" end="40235500000t" region="bottomCenter" style="s1" xml:id="subtitle672">我们将年轻人变成明日黄花</p>
+<p begin="40271910000t" end="40290910000t" region="bottomCenter" style="s1" xml:id="subtitle673">你以为我喜欢这样？</p>
+<p begin="40306610000t" end="40326520000t" region="bottomCenter" style="s1" xml:id="subtitle674">看着我的朋友咽气？</p>
+<p begin="40365670000t" end="40388990000t" region="bottomCenter" style="s1" xml:id="subtitle675">每个因我决定而丧夫的寡妇</p>
+<p begin="40410050000t" end="40437010000t" region="bottomCenter" style="s1" xml:id="subtitle676">每个因丧父独立成长的孩子</p>
+<p begin="40455100000t" end="40472390000t" region="bottomCenter" style="s1" xml:id="subtitle677">这些都是我做的选择</p>
+<p begin="40482460000t" end="40518750000t" region="bottomCenter" style="s1" xml:id="subtitle678">这就是领袖的重担</p>
+<p begin="40757730000t" end="40774000000t" region="bottomCenter" style="s1" xml:id="subtitle679">最精锐和坚毅的兵团</p>
+<p begin="40776420000t" end="40808730000t" region="bottomCenter" style="s1" xml:id="subtitle680">也不过如此</p>
+<p begin="40811120000t" end="40842750000t" region="bottomCenter" style="s1" xml:id="subtitle681">让我大军见识伟大的斯巴达战士</p>
+<p begin="40875520000t" end="40907150000t" region="bottomCenter" style="s1" xml:id="subtitle682">沿着这些尸首行军</p>
+<p begin="40909550000t" end="40941180000t" region="bottomCenter" style="s1" xml:id="subtitle683">让他们知道忤逆神王的下场</p>
+<p begin="40978950000t" end="40994190000t" region="bottomCenter" style="s1" xml:id="subtitle684">雷奥尼达国王</p>
+<p begin="40996630000t" end="41036570000t" region="bottomCenter" style="s1" xml:id="subtitle685">和他的三百壮士<br />是希腊所能动员的最精英攻势</p>
+<p begin="41039680000t" end="41052290000t" region="bottomCenter" style="s1" xml:id="subtitle686">不会再有</p>
+<p begin="41054700000t" end="41079040000t" region="bottomCenter" style="s1" xml:id="subtitle687">人能抗衡</p>
+<p begin="41085060000t" end="41113040000t" region="bottomCenter" style="s1" xml:id="subtitle688">无人能阻止我帝国的迈进</p>
+<p begin="41138770000t" end="41150040000t" region="bottomCenter" style="s1" xml:id="subtitle689">大王</p>
+<p begin="41178810000t" end="41198160000t" region="bottomCenter" style="s1" xml:id="subtitle690">你，把死去国王的剑</p>
+<p begin="41200840000t" end="41213810000t" region="bottomCenter" style="s1" xml:id="subtitle691">送去雅典</p>
+<p begin="41216180000t" end="41245200000t" region="bottomCenter" style="s1" xml:id="subtitle692">让他们知道我大军已压境</p>
+<p begin="41256890000t" end="41272820000t" region="bottomCenter" style="s1" xml:id="subtitle693">让他们知道</p>
+<p begin="41275240000t" end="41290150000t" region="bottomCenter" style="s1" xml:id="subtitle694">雅典</p>
+<p begin="41297600000t" end="41326270000t" region="bottomCenter" style="s1" xml:id="subtitle695">他们最珍视的城市</p>
+<p begin="41334300000t" end="41358310000t" region="bottomCenter" style="s1" xml:id="subtitle696">会消失在历史中</p>
+<p begin="41395040000t" end="41409370000t" region="bottomCenter" style="s1" xml:id="subtitle697">帝米斯托克力</p>
+<p begin="41440080000t" end="41450320000t" region="bottomCenter" style="s1" xml:id="subtitle698">我带来</p>
+<p begin="41452760000t" end="41479040000t" region="bottomCenter" style="s1" xml:id="subtitle699">温泉关噩耗<br />雷奥尼达被鸵子出卖了</p>
+<p begin="41481450000t" end="41498050000t" region="bottomCenter" style="s1" xml:id="subtitle700">斯巴达壮士惨遭屠杀</p>
+<p begin="41500460000t" end="41512740000t" region="bottomCenter" style="s1" xml:id="subtitle701">温泉关失守了</p>
+<p begin="41542850000t" end="41563100000t" region="bottomCenter" style="s1" xml:id="subtitle702">如此惨重的牺牲</p>
+<p begin="41604570000t" end="41626180000t" region="bottomCenter" style="s1" xml:id="subtitle703">现在希腊有从容赴义的烈士了</p>
+<p begin="41638610000t" end="41660220000t" region="bottomCenter" style="s1" xml:id="subtitle704">戴索斯</p>
+<p begin="41662960000t" end="41678210000t" region="bottomCenter" style="s1" xml:id="subtitle705">将温泉关失守的消息</p>
+<p begin="41680640000t" end="41704300000t" region="bottomCenter" style="s1" xml:id="subtitle706">带往每个城镇及乡村</p>
+<p begin="41706670000t" end="41732280000t" region="bottomCenter" style="s1" xml:id="subtitle707">让每个希腊人都知道</p>
+<p begin="41735040000t" end="41753010000t" region="bottomCenter" style="s1" xml:id="subtitle708">但他们死了，全死光了</p>
+<p begin="41755400000t" end="41783370000t" region="bottomCenter" style="s1" xml:id="subtitle709">斯巴达的牺牲会促进我们团结</p>
+<p begin="41789430000t" end="41803080000t" region="bottomCenter" style="s1" xml:id="subtitle710">去吧</p>
+<p begin="41823450000t" end="41850760000t" region="bottomCenter" style="s1" xml:id="subtitle711">将船舰和弟兄移师萨拉米斯</p>
+<p begin="41853490000t" end="41867140000t" region="bottomCenter" style="s1" xml:id="subtitle712">那你呢？</p>
+<p begin="41875510000t" end="41898160000t" region="bottomCenter" style="s1" xml:id="subtitle713">我会将戴索斯的信息带回雅典</p>
+<p begin="41910870000t" end="41942160000t" region="bottomCenter" style="s1" xml:id="subtitle714">我听说温泉关因为一个鸵子失守</p>
+<p begin="41956930000t" end="41987530000t" region="bottomCenter" style="s1" xml:id="subtitle715">他出卖国家</p>
+<p begin="41990300000t" end="42022270000t" region="bottomCenter" style="s1" xml:id="subtitle716">背弃身上的红披风<br />只为了波斯赏金</p>
+<p begin="42050020000t" end="42067650000t" region="bottomCenter" style="s1" xml:id="subtitle717">你叫什么名字，叛徒？</p>
+<p begin="42078720000t" end="42110000000t" region="bottomCenter" style="s1" xml:id="subtitle718">特拉基斯的厄菲阿尔特</p>
+<p begin="42229200000t" end="42269130000t" region="bottomCenter" style="s1" xml:id="subtitle719">我应该用你血洗这把尊贵的剑</p>
+<p begin="42286930000t" end="42305240000t" region="bottomCenter" style="s1" xml:id="subtitle720">你有权如此</p>
+<p begin="42313620000t" end="42340240000t" region="bottomCenter" style="s1" xml:id="subtitle721">我的确自惭形秽</p>
+<p begin="42342650000t" end="42382580000t" region="bottomCenter" style="s1" xml:id="subtitle722">我的所作所为令人发指</p>
+<p begin="42431070000t" end="42447680000t" region="bottomCenter" style="s1" xml:id="subtitle723">有话快说</p>
+<p begin="42454430000t" end="42472740000t" region="bottomCenter" style="s1" xml:id="subtitle724">我求求你</p>
+<p begin="42478780000t" end="42493680000t" region="bottomCenter" style="s1" xml:id="subtitle725">还有全体雅典市民</p>
+<p begin="42496140000t" end="42531410000t" region="bottomCenter" style="s1" xml:id="subtitle726">神王会放火焚城</p>
+<p begin="42534170000t" end="42544410000t" region="bottomCenter" style="s1" xml:id="subtitle727">他是什么意思？</p>
+<p begin="42550190000t" end="42566460000t" region="bottomCenter" style="s1" xml:id="subtitle728">安静</p>
+<p begin="42576220000t" end="42616150000t" region="bottomCenter" style="s1" xml:id="subtitle729">雷奥尼达和斯巴达的壮烈牺牲<br />不代表失败</p>
+<p begin="42647620000t" end="42668210000t" region="bottomCenter" style="s1" xml:id="subtitle730">而是美丽的荣耀</p>
+<p begin="42701340000t" end="42726020000t" region="bottomCenter" style="s1" xml:id="subtitle731">这个象征英勇的义行</p>
+<p begin="42729030000t" end="42753370000t" region="bottomCenter" style="s1" xml:id="subtitle732">会鼓舞希腊各城邦</p>
+<p begin="42756060000t" end="42775970000t" region="bottomCenter" style="s1" xml:id="subtitle733">并促使团结</p>
+<p begin="42784760000t" end="42804670000t" region="bottomCenter" style="s1" xml:id="subtitle734">只为一个目的</p>
+<p begin="42808110000t" end="42819710000t" region="bottomCenter" style="s1" xml:id="subtitle735">对抗同一外侮</p>
+<p begin="42834140000t" end="42844380000t" region="bottomCenter" style="s1" xml:id="subtitle736">而你</p>
+<p begin="42846820000t" end="42879470000t" region="bottomCenter" style="s1" xml:id="subtitle737">把这信息带给你的神王</p>
+<p begin="42881850000t" end="42907450000t" region="bottomCenter" style="s1" xml:id="subtitle738">我们会集合剩余船舰</p>
+<p begin="42912880000t" end="42937560000t" region="bottomCenter" style="s1" xml:id="subtitle739">在萨拉米斯湾决一死战</p>
+<p begin="42946250000t" end="42971850000t" region="bottomCenter" style="s1" xml:id="subtitle740">但这样会死伤惨重</p>
+<p begin="42974610000t" end="43012610000t" region="bottomCenter" style="s1" xml:id="subtitle741">没错，的确如此</p>
+<p begin="43080050000t" end="43094380000t" region="bottomCenter" style="s1" xml:id="subtitle742">帝米斯托克力</p>
+<p begin="43117760000t" end="43139370000t" region="bottomCenter" style="s1" xml:id="subtitle743">我来此求见女王</p>
+<p begin="43146790000t" end="43161690000t" region="bottomCenter" style="s1" xml:id="subtitle744">我先警告你，雅典人</p>
+<p begin="43164470000t" end="43191770000t" region="bottomCenter" style="s1" xml:id="subtitle745">你不会受到热烈欢迎</p>
+<p begin="43459760000t" end="43484100000t" region="bottomCenter" style="s1" xml:id="subtitle746">请容我致上最深哀悼</p>
+<p begin="43501810000t" end="43530140000t" region="bottomCenter" style="s1" xml:id="subtitle747">我无法改变雷奥尼达的事</p>
+<p begin="43532500000t" end="43561170000t" region="bottomCenter" style="s1" xml:id="subtitle748">但他的牺牲不会被遗忘</p>
+<p begin="43570540000t" end="43605120000t" region="bottomCenter" style="s1" xml:id="subtitle749">别跟我谈牺牲<br />有话快说，雅典人</p>
+<p begin="43633940000t" end="43666590000t" region="bottomCenter" style="s1" xml:id="subtitle750">我想借斯巴达海军一用</p>
+<p begin="43673980000t" end="43689900000t" region="bottomCenter" style="s1" xml:id="subtitle751">请提供你</p>
+<p begin="43692330000t" end="43715650000t" region="bottomCenter" style="s1" xml:id="subtitle752">﹣所有的人力和船舰<br />﹣为你一统希腊的美梦</p>
+<p begin="43718360000t" end="43736330000t" region="bottomCenter" style="s1" xml:id="subtitle753">我牺牲还不够吗？</p>
+<p begin="43738710000t" end="43772380000t" region="bottomCenter" style="s1" xml:id="subtitle754">难道要让儿子持剑？<br />送孩子上战场？</p>
+<p begin="43775080000t" end="43787020000t" region="bottomCenter" style="s1" xml:id="subtitle755">那样你才满意吗？</p>
+<p begin="43801770000t" end="43836690000t" region="bottomCenter" style="s1" xml:id="subtitle756">我为你的野心牺牲得还不够吗？<br />帝米斯托克力</p>
+<p begin="43839140000t" end="43854380000t" region="bottomCenter" style="s1" xml:id="subtitle757">一个国王</p>
+<p begin="43861830000t" end="43885490000t" region="bottomCenter" style="s1" xml:id="subtitle758">丈夫、父亲、兄弟</p>
+<p begin="43887860000t" end="43912540000t" region="bottomCenter" style="s1" xml:id="subtitle759">斯巴达不再任你予取予求</p>
+<p begin="44069370000t" end="44088020000t" region="bottomCenter" style="s1" xml:id="subtitle760">这属于你</p>
+<p begin="44187490000t" end="44202160000t" region="bottomCenter" style="s1" xml:id="subtitle761">替他复仇</p>
+<p begin="44382020000t" end="44409320000t" region="bottomCenter" style="s1" xml:id="subtitle762">先知早就发出警告</p>
+<p begin="44417050000t" end="44438320000t" region="bottomCenter" style="s1" xml:id="subtitle763">〝希腊会全军覆没〞</p>
+<p begin="44442410000t" end="44477680000t" region="bottomCenter" style="s1" xml:id="subtitle764">波斯烈焰会将雅典城烧成灰烬</p>
+<p begin="44489790000t" end="44513110000t" region="bottomCenter" style="s1" xml:id="subtitle765">毕竟雅典只是由木石</p>
+<p begin="44515820000t" end="44541420000t" region="bottomCenter" style="s1" xml:id="subtitle766">及尘土搭建</p>
+<p begin="44550850000t" end="44578490000t" region="bottomCenter" style="s1" xml:id="subtitle767">而尘土终将灰飞烟灭</p>
+<p begin="44595230000t" end="44623210000t" region="bottomCenter" style="s1" xml:id="subtitle768">最终留下的只有雅典人民</p>
+<p begin="44635270000t" end="44671220000t" region="bottomCenter" style="s1" xml:id="subtitle769">世界的命运<br />悬在雅典议会的最终决议</p>
+<p begin="44679980000t" end="44703640000t" region="bottomCenter" style="s1" xml:id="subtitle770">最终留下的只有雅典人</p>
+<p begin="44707680000t" end="44737370000t" region="bottomCenter" style="s1" xml:id="subtitle771">唯有强健的舰队才能拯救他们</p>
+<p begin="44743710000t" end="44759630000t" region="bottomCenter" style="s1" xml:id="subtitle772">木制的军舰</p>
+<p begin="44767740000t" end="44796070000t" region="bottomCenter" style="s1" xml:id="subtitle773">还有英雄热血卷起的惊涛骇浪</p>
+<p begin="44866840000t" end="44897780000t" region="bottomCenter" style="s1" xml:id="subtitle774">希腊人选择抵抗真是愚蠢</p>
+<p begin="44900200000t" end="44916470000t" region="bottomCenter" style="s1" xml:id="subtitle775">雷奥尼达和他的傲气</p>
+<p begin="44918890000t" end="44944830000t" region="bottomCenter" style="s1" xml:id="subtitle776">也无法与神王的意志相抗衡</p>
+<p begin="44967940000t" end="45006960000t" region="bottomCenter" style="s1" xml:id="subtitle777">帝米斯托克力是个无用的懦夫</p>
+<p begin="45009650000t" end="45024550000t" region="bottomCenter" style="s1" xml:id="subtitle778">而现在</p>
+<p begin="45030000000t" end="45066970000t" region="bottomCenter" style="s1" xml:id="subtitle779">这支可悲海军几乎不值得注意</p>
+<p begin="45069710000t" end="45092690000t" region="bottomCenter" style="s1" xml:id="subtitle780">要是那个〝无用的懦夫〞<br />愿意臣服我麾下</p>
+<p begin="45095060000t" end="45110640000t" region="bottomCenter" style="s1" xml:id="subtitle781">我们可以为你</p>
+<p begin="45113420000t" end="45128320000t" region="bottomCenter" style="s1" xml:id="subtitle782">拿下全世界</p>
+<p begin="45133440000t" end="45144700000t" region="bottomCenter" style="s1" xml:id="subtitle783">吾王</p>
+<p begin="45156790000t" end="45191710000t" region="bottomCenter" style="s1" xml:id="subtitle784">您忠诚的仆人给您送口信来了</p>
+<p begin="45205170000t" end="45228830000t" region="bottomCenter" style="s1" xml:id="subtitle785">希腊舰队聚集在萨拉米斯湾</p>
+<p begin="45231530000t" end="45257130000t" region="bottomCenter" style="s1" xml:id="subtitle786">残破不堪一击</p>
+<p begin="45259900000t" end="45284240000t" region="bottomCenter" style="s1" xml:id="subtitle787">您不费吹灰之力便可解决</p>
+<p begin="45293600000t" end="45310210000t" region="bottomCenter" style="s1" xml:id="subtitle788">统帅是谁？</p>
+<p begin="45345310000t" end="45370220000t" region="bottomCenter" style="s1" xml:id="subtitle789">雅典城的帝米斯托克力</p>
+<p begin="45373010000t" end="45390980000t" region="bottomCenter" style="s1" xml:id="subtitle790">帝米斯托克力死了</p>
+<p begin="45393700000t" end="45428280000t" region="bottomCenter" style="s1" xml:id="subtitle791">他还活着，我才亲眼见过</p>
+<p begin="45571210000t" end="45589180000t" region="bottomCenter" style="s1" xml:id="subtitle792">备好军队和盔甲</p>
+<p begin="45591890000t" end="45604510000t" region="bottomCenter" style="s1" xml:id="subtitle793">我们一举出击</p>
+<p begin="45607240000t" end="45617480000t" region="bottomCenter" style="s1" xml:id="subtitle794">明智之举是…</p>
+<p begin="45631930000t" end="45642170000t" region="bottomCenter" style="s1" xml:id="subtitle795">先派人</p>
+<p begin="45644280000t" end="45670900000t" region="bottomCenter" style="s1" xml:id="subtitle796">探虚实，确保不是陷阱</p>
+<p begin="45682650000t" end="45705290000t" region="bottomCenter" style="s1" xml:id="subtitle797">凭你也配指点我战术？</p>
+<p begin="45721360000t" end="45740700000t" region="bottomCenter" style="s1" xml:id="subtitle798">我是神王</p>
+<p begin="45743380000t" end="45770340000t" region="bottomCenter" style="s1" xml:id="subtitle799">是我大举战胜雷奥尼达</p>
+<p begin="45772740000t" end="45793330000t" region="bottomCenter" style="s1" xml:id="subtitle800">是我将繁华的雅典</p>
+<p begin="45795760000t" end="45813730000t" region="bottomCenter" style="s1" xml:id="subtitle801">夷为平地</p>
+<p begin="45816120000t" end="45847750000t" region="bottomCenter" style="s1" xml:id="subtitle802">﹣我是你的王<br />﹣杀死雷奥尼达和他手下</p>
+<p begin="45850490000t" end="45872100000t" region="bottomCenter" style="s1" xml:id="subtitle803">只让他们成为烈士</p>
+<p begin="45880850000t" end="45900760000t" region="bottomCenter" style="s1" xml:id="subtitle804">当你摧毁雅典</p>
+<p begin="45907210000t" end="45923820000t" region="bottomCenter" style="s1" xml:id="subtitle805">也把这国家唯一的价值</p>
+<p begin="45926230000t" end="45946140000t" region="bottomCenter" style="s1" xml:id="subtitle806">付之一炬了</p>
+<p begin="46065700000t" end="46089700000t" region="bottomCenter" style="s1" xml:id="subtitle807">我会结集所有海军</p>
+<p begin="46101400000t" end="46127340000t" region="bottomCenter" style="s1" xml:id="subtitle808">攻击希腊</p>
+<p begin="46139440000t" end="46150700000t" region="bottomCenter" style="s1" xml:id="subtitle809">雅特米西亚</p>
+<p begin="46153120000t" end="46166430000t" region="bottomCenter" style="s1" xml:id="subtitle810">够了</p>
+<p begin="46181480000t" end="46215150000t" region="bottomCenter" style="s1" xml:id="subtitle811">别忘了是谁让你这小子戴稳王冠</p>
+<p begin="46221190000t" end="46237460000t" region="bottomCenter" style="s1" xml:id="subtitle812">吾王</p>
+<p begin="46248220000t" end="46263120000t" region="bottomCenter" style="s1" xml:id="subtitle813">你就乖乖坐在金殿上</p>
+<p begin="46265900000t" end="46292520000t" region="bottomCenter" style="s1" xml:id="subtitle814">看我出征维护你安全吧</p>
+<p begin="46355320000t" end="46371930000t" region="bottomCenter" style="s1" xml:id="subtitle815">我们在远处</p>
+<p begin="46384350000t" end="46411650000t" region="bottomCenter" style="s1" xml:id="subtitle816">见证雅典城毁人亡</p>
+<p begin="46447080000t" end="46487010000t" region="bottomCenter" style="s1" xml:id="subtitle817">我们要独自面对侵略家园的巨兽</p>
+<p begin="46518150000t" end="46554440000t" region="bottomCenter" style="s1" xml:id="subtitle818">我祈祷斯巴达今早会出兵相救</p>
+<p begin="46584890000t" end="46604230000t" region="bottomCenter" style="s1" xml:id="subtitle819">或许他们觉得已牺牲够了</p>
+<p begin="46606570000t" end="46620560000t" region="bottomCenter" style="s1" xml:id="subtitle820">你辜负了大家</p>
+<p begin="46623260000t" end="46636910000t" region="bottomCenter" style="s1" xml:id="subtitle821">都是你的错，帝米斯托克力</p>
+<p begin="46639610000t" end="46655190000t" region="bottomCenter" style="s1" xml:id="subtitle822">少了斯巴达，我们只是群农夫</p>
+<p begin="46657960000t" end="46678210000t" region="bottomCenter" style="s1" xml:id="subtitle823">趁还有机会时</p>
+<p begin="46680650000t" end="46692930000t" region="bottomCenter" style="s1" xml:id="subtitle824">我们应该一早与波斯议和</p>
+<p begin="46727360000t" end="46744650000t" region="bottomCenter" style="s1" xml:id="subtitle825">你们说得都对</p>
+<p begin="46763060000t" end="46800370000t" region="bottomCenter" style="s1" xml:id="subtitle826">是的，我们只剩几艘船</p>
+<p begin="46811450000t" end="46845810000t" region="bottomCenter" style="s1" xml:id="subtitle827">是的，我们只是一群农夫</p>
+<p begin="46853150000t" end="46870440000t" region="bottomCenter" style="s1" xml:id="subtitle828">一群贩夫走卒</p>
+<p begin="46881850000t" end="46892430000t" region="bottomCenter" style="s1" xml:id="subtitle829">一群男孩</p>
+<p begin="46899530000t" end="46936500000t" region="bottomCenter" style="s1" xml:id="subtitle830">被战争的牺牲和残酷锻炼成人</p>
+<p begin="46960930000t" end="46983570000t" region="bottomCenter" style="s1" xml:id="subtitle831">我走了一步险棋</p>
+<p begin="46986950000t" end="47002530000t" region="bottomCenter" style="s1" xml:id="subtitle832">结果输了</p>
+<p begin="47051690000t" end="47085020000t" region="bottomCenter" style="s1" xml:id="subtitle833">如果你们选择背弃我</p>
+<p begin="47089720000t" end="47103370000t" region="bottomCenter" style="s1" xml:id="subtitle834">背弃国家</p>
+<p begin="47136100000t" end="47155440000t" region="bottomCenter" style="s1" xml:id="subtitle835">我也没有异议</p>
+<p begin="47172140000t" end="47192390000t" region="bottomCenter" style="s1" xml:id="subtitle836">你们有离开的自由</p>
+<p begin="47203500000t" end="47224090000t" region="bottomCenter" style="s1" xml:id="subtitle837">你们目前还是自由之人</p>
+<p begin="47455760000t" end="47467360000t" region="bottomCenter" style="s1" xml:id="subtitle838">很好</p>
+<p begin="47486450000t" end="47496690000t" region="bottomCenter" style="s1" xml:id="subtitle839">那就让我们</p>
+<p begin="47499130000t" end="47538720000t" region="bottomCenter" style="s1" xml:id="subtitle840">并肩协力<br />摧毁在希腊怀中作乱的敌舰</p>
+<p begin="47562200000t" end="47588820000t" region="bottomCenter" style="s1" xml:id="subtitle841">我们今日有幸在此</p>
+<p begin="47602240000t" end="47637850000t" region="bottomCenter" style="s1" xml:id="subtitle842">写下一个将被传颂千世的故事</p>
+<p begin="47649620000t" end="47669530000t" region="bottomCenter" style="s1" xml:id="subtitle843">让我们的最后一役</p>
+<p begin="47672310000t" end="47692560000t" region="bottomCenter" style="s1" xml:id="subtitle844">被记入青史中</p>
+<p begin="47697330000t" end="47715300000t" region="bottomCenter" style="s1" xml:id="subtitle845">让大家知道</p>
+<p begin="47721020000t" end="47746620000t" region="bottomCenter" style="s1" xml:id="subtitle846">我们宁愿挺身受死</p>
+<p begin="47749380000t" end="47772700000t" region="bottomCenter" style="s1" xml:id="subtitle847">也不愿屈膝苟活</p>
+<p begin="48254550000t" end="48277870000t" region="bottomCenter" style="s1" xml:id="subtitle848">你今天只需知道一件事</p>
+<p begin="48280250000t" end="48295150000t" region="bottomCenter" style="s1" xml:id="subtitle849">不要阵亡</p>
+<p begin="48297930000t" end="48337860000t" region="bottomCenter" style="s1" xml:id="subtitle850">不，你父亲的遗言</p>
+<p begin="48378680000t" end="48408940000t" region="bottomCenter" style="s1" xml:id="subtitle851">他说你已赢得<br />和大家平起平坐的权利</p>
+<p begin="48581880000t" end="48621810000t" region="bottomCenter" style="s1" xml:id="subtitle852">兄弟，我已千机用尽</p>
+<p begin="48639940000t" end="48663600000t" region="bottomCenter" style="s1" xml:id="subtitle853">这将是最后一次一起奋战</p>
+<p begin="48666300000t" end="48702250000t" region="bottomCenter" style="s1" xml:id="subtitle854">从有记忆以来<br />我们就一直并肩奋战</p>
+<p begin="48710680000t" end="48744350000t" region="bottomCenter" style="s1" xml:id="subtitle855">我最大的愿望就是卸甲封刀</p>
+<p begin="48756390000t" end="48792000000t" region="bottomCenter" style="s1" xml:id="subtitle856">﹣我要你准备的东西？<br />﹣在甲板底下</p>
+<p begin="48802770000t" end="48822110000t" region="bottomCenter" style="s1" xml:id="subtitle857">﹣很好<br />﹣你确定…</p>
+<p begin="48824460000t" end="48842430000t" region="bottomCenter" style="s1" xml:id="subtitle858">要如此孤注一掷？</p>
+<p begin="48849480000t" end="48860400000t" region="bottomCenter" style="s1" xml:id="subtitle859">是的</p>
+<p begin="48878840000t" end="48907510000t" region="bottomCenter" style="s1" xml:id="subtitle860">没有雅特米西亚发号施令<br />波斯海军不足畏惧</p>
+<p begin="48925220000t" end="48946490000t" region="bottomCenter" style="s1" xml:id="subtitle861">我们永远无法接近她</p>
+<p begin="48948910000t" end="48964150000t" region="bottomCenter" style="s1" xml:id="subtitle862">我会独自前往</p>
+<p begin="48972270000t" end="48991610000t" region="bottomCenter" style="s1" xml:id="subtitle863">了结这件事</p>
+<p begin="49000630000t" end="49027930000t" region="bottomCenter" style="s1" xml:id="subtitle864">你将置身险境，没有退路</p>
+<p begin="49039000000t" end="49052990000t" region="bottomCenter" style="s1" xml:id="subtitle865">我知道</p>
+<p begin="49077040000t" end="49111050000t" region="bottomCenter" style="s1" xml:id="subtitle866">今日我们要彻底终结希腊舰队</p>
+<p begin="49113750000t" end="49134340000t" region="bottomCenter" style="s1" xml:id="subtitle867">务必斩尽杀绝</p>
+<p begin="49137100000t" end="49162010000t" region="bottomCenter" style="s1" xml:id="subtitle868">不留任何活路</p>
+<p begin="49164460000t" end="49196770000t" region="bottomCenter" style="s1" xml:id="subtitle869">今日我们将在希腊尸首上欢庆</p>
+<p begin="49203840000t" end="49231140000t" region="bottomCenter" style="s1" xml:id="subtitle870">今日我们要迫使他们屈膝称臣</p>
+<p begin="49239870000t" end="49260460000t" region="bottomCenter" style="s1" xml:id="subtitle871">今日我要将帝米斯托克力的脖子</p>
+<p begin="49263230000t" end="49282910000t" region="bottomCenter" style="s1" xml:id="subtitle872">踩在脚下</p>
+<p begin="49591220000t" end="49615900000t" region="bottomCenter" style="s1" xml:id="subtitle873">弟兄们，抓紧船身</p>
+<p begin="50157120000t" end="50173040000t" region="bottomCenter" style="s1" xml:id="subtitle874">准备近身搏击</p>
+<p begin="50175470000t" end="50190370000t" region="bottomCenter" style="s1" xml:id="subtitle875">攻击</p>
+<p begin="50251880000t" end="50263140000t" region="bottomCenter" style="s1" xml:id="subtitle876">你父亲与你同在</p>
+<p begin="50276910000t" end="50298520000t" region="bottomCenter" style="s1" xml:id="subtitle877">全力以赴</p>
+<p begin="50300930000t" end="50314240000t" region="bottomCenter" style="s1" xml:id="subtitle878">争取荣耀</p>
+<p begin="50598230000t" end="50623480000t" region="bottomCenter" style="s1" xml:id="subtitle879">我不是来这里观战的</p>
+<p begin="51241200000t" end="51251440000t" region="bottomCenter" style="s1" xml:id="subtitle880">现在</p>
+<p begin="51259220000t" end="51291530000t" region="bottomCenter" style="s1" xml:id="subtitle881">让我们在地狱同归于尽</p>
+<p begin="51676640000t" end="51686880000t" region="bottomCenter" style="s1" xml:id="subtitle882">快点</p>
+<p begin="52353980000t" end="52369220000t" region="bottomCenter" style="s1" xml:id="subtitle883">你愿提供我不计后果</p>
+<p begin="52372000000t" end="52401350000t" region="bottomCenter" style="s1" xml:id="subtitle884">﹣没有责任义务的自由？<br />﹣你接受我的邀约吗？</p>
+<p begin="52404030000t" end="52418700000t" region="bottomCenter" style="s1" xml:id="subtitle885">我的答案仍然不变</p>
+<p begin="52704670000t" end="52728330000t" region="bottomCenter" style="s1" xml:id="subtitle886">你作战可比做爱卖力多了</p>
+<p begin="53163790000t" end="53190750000t" region="bottomCenter" style="s1" xml:id="subtitle887">向我称臣，或是受死</p>
+<p begin="53193150000t" end="53204410000t" region="bottomCenter" style="s1" xml:id="subtitle888">少了我…</p>
+<p begin="53206840000t" end="53219460000t" region="bottomCenter" style="s1" xml:id="subtitle889">谁能与你匹敌？</p>
+<p begin="53225850000t" end="53247800000t" region="bottomCenter" style="s1" xml:id="subtitle890">没人是你的敌手</p>
+<p begin="53250210000t" end="53279900000t" region="bottomCenter" style="s1" xml:id="subtitle891">我宁愿自由死去也不愿沦为奴隶</p>
+<p begin="53291250000t" end="53315930000t" region="bottomCenter" style="s1" xml:id="subtitle892">即使主子是你</p>
+<p begin="53407040000t" end="53431720000t" region="bottomCenter" style="s1" xml:id="subtitle893">开始时只是传闻</p>
+<p begin="53439730000t" end="53456000000t" region="bottomCenter" style="s1" xml:id="subtitle894">一个承诺</p>
+<p begin="53466430000t" end="53479740000t" region="bottomCenter" style="s1" xml:id="subtitle895">一股清风</p>
+<p begin="53482110000t" end="53497010000t" region="bottomCenter" style="s1" xml:id="subtitle896">轻拂船缆</p>
+<p begin="53499790000t" end="53528120000t" region="bottomCenter" style="s1" xml:id="subtitle897">掠过万名壮士的死前怒号</p>
+<p begin="53541840000t" end="53577450000t" region="bottomCenter" style="s1" xml:id="subtitle898">就像爱人的手，轻柔穿越发梢</p>
+<p begin="53581540000t" end="53591780000t" region="bottomCenter" style="s1" xml:id="subtitle899">那股清风</p>
+<p begin="53604230000t" end="53642570000t" region="bottomCenter" style="s1" xml:id="subtitle900">那个承诺<br />幻化成风潮</p>
+<p begin="53645270000t" end="53669950000t" region="bottomCenter" style="s1" xml:id="subtitle901">这股风潮席卷全希腊</p>
+<p begin="53672300000t" end="53701990000t" region="bottomCenter" style="s1" xml:id="subtitle902">传递自由女神反覆传颂的理念</p>
+<p begin="53704330000t" end="53741990000t" region="bottomCenter" style="s1" xml:id="subtitle903">以及她让雷奥尼达<br />壮烈牺牲的智慧</p>
+<p begin="53758720000t" end="53787390000t" region="bottomCenter" style="s1" xml:id="subtitle904">我的弟兄们，那是牺牲的风潮</p>
+<p begin="53806430000t" end="53825430000t" region="bottomCenter" style="s1" xml:id="subtitle905">自由的风潮</p>
+<p begin="53847480000t" end="53869090000t" region="bottomCenter" style="s1" xml:id="subtitle906">正义的风潮</p>
+<p begin="53945910000t" end="53966500000t" region="bottomCenter" style="s1" xml:id="subtitle907">复仇的风潮</p>
+<p begin="54411040000t" end="54423320000t" region="bottomCenter" style="s1" xml:id="subtitle908">你被包围了</p>
+<p begin="54428390000t" end="54457740000t" region="bottomCenter" style="s1" xml:id="subtitle909">希腊上下已联合起来对抗你</p>
+<p begin="54464090000t" end="54493100000t" region="bottomCenter" style="s1" xml:id="subtitle910">德尔菲、底比斯<br />奥林匹亚</p>
+<p begin="54495790000t" end="54523430000t" region="bottomCenter" style="s1" xml:id="subtitle911">阿卡迪亚、还有斯巴达</p>
+<p begin="54667290000t" end="54692540000t" region="bottomCenter" style="s1" xml:id="subtitle912">若今日是我死期，我已准备上路</p>
+<p begin="54705330000t" end="54725240000t" region="bottomCenter" style="s1" xml:id="subtitle913">我也可以放下剑</p>
+<p begin="54728020000t" end="54754640000t" region="bottomCenter" style="s1" xml:id="subtitle914">你还有时间乘船逃走</p>
+<p begin="54797760000t" end="54833370000t" region="bottomCenter" style="s1" xml:id="subtitle915">别逼我非杀你不可</p>
+<p begin="54839800000t" end="54876770000t" region="bottomCenter" style="s1" xml:id="subtitle916">命令你的舰队停战并向我投降</p>
+<p begin="54901190000t" end="54917800000t" region="bottomCenter" style="s1" xml:id="subtitle917">投降？</p>
+</div>
+</body>
+</tt>

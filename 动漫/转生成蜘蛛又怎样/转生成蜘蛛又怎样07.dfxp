@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="10000000t" end="35000000t" region="bottomCenter" style="s1" xml:id="subtitle0">(忍耐的支配者)</p>
+<p begin="55000000t" end="73300000t" region="bottomCenter" style="s1" xml:id="subtitle1">忍耐的支配者</p>
+<p begin="73300000t" end="94600000t" region="bottomCenter" style="s1" xml:id="subtitle2">取得技能外道失效</p>
+<p begin="94600000t" end="132100000t" region="bottomCenter" style="s1" xml:id="subtitle3">判罪…取得條件 獲得忍耐</p>
+<p begin="132100000t" end="167500000t" region="bottomCenter" style="s1" xml:id="subtitle4">效果 防禦 抵抗的各項能力提升</p>
+<p begin="167500000t" end="190000000t" region="bottomCenter" style="s1" xml:id="subtitle5">邪眼系技能解禁</p>
+<p begin="190000000t" end="219200000t" region="bottomCenter" style="s1" xml:id="subtitle6">這個忍耐的支配者的稱號</p>
+<p begin="219200000t" end="250900000t" region="bottomCenter" style="s1" xml:id="subtitle7">聽起來真是驚人</p>
+<p begin="250900000t" end="284600000t" region="bottomCenter" style="s1" xml:id="subtitle8">人類很辛苦…之類的</p>
+<p begin="284600000t" end="326300000t" region="bottomCenter" style="s1" xml:id="subtitle9">可是這個更驚人</p>
+<p begin="326300000t" end="349200000t" region="bottomCenter" style="s1" xml:id="subtitle10">(邪眼系技能解禁)</p>
+<p begin="365800000t" end="389100000t" region="bottomCenter" style="s1" xml:id="subtitle11">要是取得邪眼的話…</p>
+<p begin="407900000t" end="437100000t" region="bottomCenter" style="s1" xml:id="subtitle12">右眼好痛…之類的</p>
+<p begin="437100000t" end="473800000t" region="bottomCenter" style="s1" xml:id="subtitle13">還沒輪到你出場…之類的</p>
+<p begin="522900000t" end="549600000t" region="bottomCenter" style="s1" xml:id="subtitle14">這就是所謂的殺生</p>
+<p begin="549600000t" end="567100000t" region="bottomCenter" style="s1" xml:id="subtitle15">(妄想)</p>
+<p begin="567100000t" end="587100000t" region="bottomCenter" style="s1" xml:id="subtitle16">說不定能說出這些話</p>
+<p begin="587100000t" end="631700000t" region="bottomCenter" style="s1" xml:id="subtitle17">真是的 我的妄想停不下來啊</p>
+<p begin="631700000t" end="642500000t" region="bottomCenter" style="s1" xml:id="subtitle18">(詛咒的邪眼 100點)</p>
+<p begin="649200000t" end="658800000t" region="bottomCenter" style="s1" xml:id="subtitle19">(滅絕的邪眼 100點)</p>
+<p begin="666300000t" end="675100000t" region="bottomCenter" style="s1" xml:id="subtitle20">(麻痺的邪眼 100點)</p>
+<p begin="675100000t" end="684600000t" region="bottomCenter" style="s1" xml:id="subtitle21">(石化的邪眼 100點)</p>
+<p begin="698800000t" end="704200000t" region="bottomCenter" style="s1" xml:id="subtitle22">(不快的邪眼100點)</p>
+<p begin="704200000t" end="710900000t" region="bottomCenter" style="s1" xml:id="subtitle23">(幻痛的邪眼 100點)</p>
+<p begin="710900000t" end="718300000t" region="bottomCenter" style="s1" xml:id="subtitle24">(瘋狂的邪眼 100點)</p>
+<p begin="718300000t" end="726200000t" region="bottomCenter" style="s1" xml:id="subtitle25">(魅惑的邪眼 100點)</p>
+<p begin="726300000t" end="735900000t" region="bottomCenter" style="s1" xml:id="subtitle26">(催眠的邪眼 100點)</p>
+<p begin="735900000t" end="767900000t" region="bottomCenter" style="s1" xml:id="subtitle27">(恐懼的邪眼 100點)</p>
+<p begin="773800000t" end="791700000t" region="bottomCenter" style="s1" xml:id="subtitle28">情報負責人</p>
+<p begin="791700000t" end="816700000t" region="bottomCenter" style="s1" xml:id="subtitle29">什麼事 身體負責人</p>
+<p begin="816700000t" end="837500000t" region="bottomCenter" style="s1" xml:id="subtitle30">乾脆多選幾個吧</p>
+<p begin="837500000t" end="850000000t" region="bottomCenter" style="s1" xml:id="subtitle31">什麼意思</p>
+<p begin="858300000t" end="884600000t" region="bottomCenter" style="s1" xml:id="subtitle32">我有八隻眼睛喔</p>
+<p begin="884600000t" end="928400000t" region="bottomCenter" style="s1" xml:id="subtitle33">代表我最多可以同時讓八隻眼睛</p>
+<p begin="945400000t" end="967900000t" region="bottomCenter" style="s1" xml:id="subtitle34">妳是天才嗎</p>
+<p begin="967900000t" end="1005000000t" region="bottomCenter" style="s1" xml:id="subtitle35">同時啟動八隻邪眼很厲害吧</p>
+<p begin="1005000000t" end="1030000000t" region="bottomCenter" style="s1" xml:id="subtitle36">很厲害 夢想更遠大了</p>
+<p begin="1030000000t" end="1051300000t" region="bottomCenter" style="s1" xml:id="subtitle37">總之現在先選一個吧</p>
+<p begin="1051300000t" end="1074200000t" region="bottomCenter" style="s1" xml:id="subtitle38">剩下的再照順序獲得可以嗎</p>
+<p begin="1074200000t" end="1091300000t" region="bottomCenter" style="s1" xml:id="subtitle39">可以…</p>
+<p begin="1091300000t" end="1112600000t" region="bottomCenter" style="s1" xml:id="subtitle40">身體負責人想選什麼邪眼</p>
+<p begin="1112600000t" end="1127100000t" region="bottomCenter" style="s1" xml:id="subtitle41">這裡當然要選詛咒啊</p>
+<p begin="1127100000t" end="1146300000t" region="bottomCenter" style="s1" xml:id="subtitle42">說到邪眼就會想到詛咒吧</p>
+<p begin="1146300000t" end="1175100000t" region="bottomCenter" style="s1" xml:id="subtitle43">不愧是我的分身 真了解我</p>
+<p begin="1175100000t" end="1201700000t" region="bottomCenter" style="s1" xml:id="subtitle44">我要詛咒的邪眼</p>
+<p begin="1201700000t" end="1230000000t" region="bottomCenter" style="s1" xml:id="subtitle45">(獲得技能詛咒的邪眼一級)</p>
+<p begin="1230000000t" end="1253300000t" region="bottomCenter" style="s1" xml:id="subtitle46">好耶…</p>
+<p begin="1253300000t" end="1285390000t" region="bottomCenter" style="s1" xml:id="subtitle47">得到了就想趕快試試看啊 邪眼</p>
+<p begin="1285390000t" end="1308300000t" region="bottomCenter" style="s1" xml:id="subtitle48">希望有魔物當實驗的對象</p>
+<p begin="1308300000t" end="1328300000t" region="bottomCenter" style="s1" xml:id="subtitle49">好吧 偵查啟動</p>
+<p begin="1328300000t" end="1347500000t" region="bottomCenter" style="s1" xml:id="subtitle50">發現進化後的青蛙</p>
+<p begin="1347500000t" end="1363800000t" region="bottomCenter" style="s1" xml:id="subtitle51">(艾爾羅蛙怪 等級四)</p>
+<p begin="1363800000t" end="1409600000t" region="bottomCenter" style="s1" xml:id="subtitle52">能夠成為我邪眼的頭號獵物</p>
+<p begin="1409600000t" end="1428800000t" region="bottomCenter" style="s1" xml:id="subtitle53">右眼有點痛</p>
+<p begin="1428800000t" end="1455900000t" region="bottomCenter" style="s1" xml:id="subtitle54">等等 我本來想說那句話的</p>
+<p begin="1455900000t" end="1482500000t" region="bottomCenter" style="s1" xml:id="subtitle55">別計較那些 要上囉</p>
+<p begin="1482500000t" end="1507100000t" region="bottomCenter" style="s1" xml:id="subtitle56">擺脫令人忌諱的宿命</p>
+<p begin="1507100000t" end="1529200000t" region="bottomCenter" style="s1" xml:id="subtitle57">啟動吧…邪眼</p>
+<p begin="1586700000t" end="1622500000t" region="bottomCenter" style="s1" xml:id="subtitle58">等級一的侵襲程度也很緩慢</p>
+<p begin="1719600000t" end="1732100000t" region="bottomCenter" style="s1" xml:id="subtitle59">死了嗎</p>
+<p begin="1751300000t" end="1775500000t" region="bottomCenter" style="s1" xml:id="subtitle60">熟練度達到一定的目標</p>
+<p begin="1775500000t" end="1817100000t" region="bottomCenter" style="s1" xml:id="subtitle61">技能鑑定提升至十級</p>
+<p begin="1817100000t" end="1832500000t" region="bottomCenter" style="s1" xml:id="subtitle62">太好了…總算</p>
+<p begin="1832500000t" end="1850800000t" region="bottomCenter" style="s1" xml:id="subtitle63">鑑定大人提升到最高等了</p>
+<p begin="1850800000t" end="1870000000t" region="bottomCenter" style="s1" xml:id="subtitle64">天啊 超開心的</p>
+<p begin="1913300000t" end="1924100000t" region="bottomCenter" style="s1" xml:id="subtitle65">什麼</p>
+<p begin="1924200000t" end="1939600000t" region="bottomCenter" style="s1" xml:id="subtitle66">這個沙沙聲是什麼</p>
+<p begin="1939600000t" end="1956700000t" region="bottomCenter" style="s1" xml:id="subtitle67">情報負責人</p>
+<p begin="1966300000t" end="1990900000t" region="bottomCenter" style="s1" xml:id="subtitle68">什麼…</p>
+<p begin="2025400000t" end="2037100000t" region="bottomCenter" style="s1" xml:id="subtitle69">算了</p>
+<p begin="2037100000t" end="2051700000t" region="bottomCenter" style="s1" xml:id="subtitle70">這樣好嗎</p>
+<p begin="2051700000t" end="2092100000t" region="bottomCenter" style="s1" xml:id="subtitle71">(第七集 王子們謳歌青春)</p>
+<p begin="2254200000t" end="2291300000t" region="bottomCenter" style="s1" xml:id="subtitle72">在糾纏的業障盡頭眺望</p>
+<p begin="2291300000t" end="2315100000t" region="bottomCenter" style="s1" xml:id="subtitle73">就連身後也充滿了敵人</p>
+<p begin="2315100000t" end="2328800000t" region="bottomCenter" style="s1" xml:id="subtitle74">驕傲自大且蠢蠢欲動的</p>
+<p begin="2328800000t" end="2344600000t" region="bottomCenter" style="s1" xml:id="subtitle75">數以千計的生物們</p>
+<p begin="2344600000t" end="2355400000t" region="bottomCenter" style="s1" xml:id="subtitle76">dive for alive</p>
+<p begin="2355400000t" end="2366700000t" region="bottomCenter" style="s1" xml:id="subtitle77">climb for life</p>
+<p begin="2366700000t" end="2392100000t" region="bottomCenter" style="s1" xml:id="subtitle78">無人生還的混沌狀態</p>
+<p begin="2392100000t" end="2435000000t" region="bottomCenter" style="s1" xml:id="subtitle79">那就當成我的舞臺吧</p>
+<p begin="2435000000t" end="2449200000t" region="bottomCenter" style="s1" xml:id="subtitle80">結束了嗎</p>
+<p begin="2449200000t" end="2470000000t" region="bottomCenter" style="s1" xml:id="subtitle81">可是我還沒有完</p>
+<p begin="2470000000t" end="2498800000t" region="bottomCenter" style="s1" xml:id="subtitle82">就算你沒看到致命的絲</p>
+<p begin="2498800000t" end="2550100000t" region="bottomCenter" style="s1" xml:id="subtitle83">只要落網就會被我吃掉</p>
+<p begin="2550100000t" end="2575790000t" region="bottomCenter" style="s1" xml:id="subtitle84">deeper…inside</p>
+<p begin="2595000000t" end="2617500000t" region="bottomCenter" style="s1" xml:id="subtitle85">spider pride 又在這個胸膛裡</p>
+<p begin="2617500000t" end="2641700000t" region="bottomCenter" style="s1" xml:id="subtitle86">刻下殘酷的一痕</p>
+<p begin="2641700000t" end="2663400000t" region="bottomCenter" style="s1" xml:id="subtitle87">找到最佳解法依然不夠</p>
+<p begin="2663400000t" end="2687500000t" region="bottomCenter" style="s1" xml:id="subtitle88">必須拼湊被撕裂的生命</p>
+<p begin="2687500000t" end="2711700000t" region="bottomCenter" style="s1" xml:id="subtitle89">拚死拚活地思考</p>
+<p begin="2711700000t" end="2734200000t" region="bottomCenter" style="s1" xml:id="subtitle90">你死我活地戰鬥</p>
+<p begin="2734200000t" end="2757100000t" region="bottomCenter" style="s1" xml:id="subtitle91">所謂的真實 feel a bit cold</p>
+<p begin="2757100000t" end="2784600000t" region="bottomCenter" style="s1" xml:id="subtitle92">那就活下去 spider way</p>
+<p begin="2849200000t" end="2875900000t" region="bottomCenter" style="s1" xml:id="subtitle93">那就活下去 spider way</p>
+<p begin="2887900000t" end="2897900000t" region="bottomCenter" style="s1" xml:id="subtitle94">走著瞧吧</p>
+<p begin="2897900000t" end="2952900000t" region="bottomCenter" style="s1" xml:id="subtitle95">(轉生成蜘蛛又怎樣！)</p>
+<p begin="2967100000t" end="3009200000t" region="bottomCenter" style="s1" xml:id="subtitle96">老師 除了我們以外</p>
+<p begin="3020000000t" end="3037100000t" region="bottomCenter" style="s1" xml:id="subtitle97">那當然啦</p>
+<p begin="3037100000t" end="3088400000t" region="bottomCenter" style="s1" xml:id="subtitle98">我按照11個人的意願</p>
+<p begin="3088400000t" end="3125800000t" region="bottomCenter" style="s1" xml:id="subtitle99">教室裡包含老師在內共有26人</p>
+<p begin="3125800000t" end="3169100000t" region="bottomCenter" style="s1" xml:id="subtitle100">我和葉多 漆原同學</p>
+<p begin="3169200000t" end="3192100000t" region="bottomCenter" style="s1" xml:id="subtitle101">現在是由古的夏目和老師</p>
+<p begin="3192100000t" end="3222500000t" region="bottomCenter" style="s1" xml:id="subtitle102">加上在艾爾羅村落的11人</p>
+<p begin="3222500000t" end="3238300000t" region="bottomCenter" style="s1" xml:id="subtitle103">總共是17人</p>
+<p begin="3238300000t" end="3287500000t" region="bottomCenter" style="s1" xml:id="subtitle104">還有兩名知道在哪裡的孩子</p>
+<p begin="3301300000t" end="3338000000t" region="bottomCenter" style="s1" xml:id="subtitle105">意思是還有7人下落不明囉</p>
+<p begin="3368800000t" end="3422100000t" region="bottomCenter" style="s1" xml:id="subtitle106">雖然不想告訴你們</p>
+<p begin="3435800000t" end="3485400000t" region="bottomCenter" style="s1" xml:id="subtitle107">其他三人雖然還活著</p>
+<p begin="3485400000t" end="3514600000t" region="bottomCenter" style="s1" xml:id="subtitle108">無法幫助的狀態是什麼狀態啊</p>
+<p begin="3514600000t" end="3532100000t" region="bottomCenter" style="s1" xml:id="subtitle109">是秘密</p>
+<p begin="3549600000t" end="3575400000t" region="bottomCenter" style="s1" xml:id="subtitle110">我們是很認真在問妳</p>
+<p begin="3587100000t" end="3623400000t" region="bottomCenter" style="s1" xml:id="subtitle111">我也是非常認真在保守秘密喔</p>
+<p begin="3623400000t" end="3635000000t" region="bottomCenter" style="s1" xml:id="subtitle112">搞不懂妳的意思</p>
+<p begin="3635000000t" end="3653800000t" region="bottomCenter" style="s1" xml:id="subtitle113">葉多…卡迪雅</p>
+<p begin="3653800000t" end="3669200000t" region="bottomCenter" style="s1" xml:id="subtitle114">要從這麼廣闊的世界裡</p>
+<p begin="3669200000t" end="3708000000t" region="bottomCenter" style="s1" xml:id="subtitle115">找出數量這麼多的學生</p>
+<p begin="3719600000t" end="3764200000t" region="bottomCenter" style="s1" xml:id="subtitle116">老師居然為了我們做到這個份上</p>
+<p begin="3774200000t" end="3798400000t" region="bottomCenter" style="s1" xml:id="subtitle117">這是老師的職責</p>
+<p begin="3798400000t" end="3825400000t" region="bottomCenter" style="s1" xml:id="subtitle118">再說大部分的學生</p>
+<p begin="3825400000t" end="3852100000t" region="bottomCenter" style="s1" xml:id="subtitle119">以人族的身分被找到的</p>
+<p begin="3852100000t" end="3880900000t" region="bottomCenter" style="s1" xml:id="subtitle120">並沒有你說的那麼辛苦</p>
+<p begin="3880900000t" end="3917900000t" region="bottomCenter" style="s1" xml:id="subtitle121">像我這樣子的例外看來很少啊</p>
+<p begin="3922500000t" end="3958300000t" region="bottomCenter" style="s1" xml:id="subtitle122">難不成妳無法幫助的那3個人…</p>
+<p begin="3958300000t" end="3978700000t" region="bottomCenter" style="s1" xml:id="subtitle123">是秘密</p>
+<p begin="4022500000t" end="4071700000t" region="bottomCenter" style="s1" xml:id="subtitle124">總有一天你們也許會知道</p>
+<p begin="4071700000t" end="4084600000t" region="bottomCenter" style="s1" xml:id="subtitle125">我明白了</p>
+<p begin="4084600000t" end="4101300000t" region="bottomCenter" style="s1" xml:id="subtitle126">順便給你們一個忠告</p>
+<p begin="4101300000t" end="4114600000t" region="bottomCenter" style="s1" xml:id="subtitle127">忠告</p>
+<p begin="4114600000t" end="4138800000t" region="bottomCenter" style="s1" xml:id="subtitle128">儘量不要修練技能</p>
+<p begin="4138800000t" end="4153400000t" region="bottomCenter" style="s1" xml:id="subtitle129">為什麼</p>
+<p begin="4153400000t" end="4166600000t" region="bottomCenter" style="s1" xml:id="subtitle130">我不能說</p>
+<p begin="4166700000t" end="4197100000t" region="bottomCenter" style="s1" xml:id="subtitle131">我們之前被地龍襲擊過</p>
+<p begin="4197100000t" end="4230900000t" region="bottomCenter" style="s1" xml:id="subtitle132">在這個世界</p>
+<p begin="4230900000t" end="4255400000t" region="bottomCenter" style="s1" xml:id="subtitle133">技能是很危險的</p>
+<p begin="4255400000t" end="4287500000t" region="bottomCenter" style="s1" xml:id="subtitle134">只能請你們相信老師說的話</p>
+<p begin="4287500000t" end="4323800000t" region="bottomCenter" style="s1" xml:id="subtitle135">可是悠莉叫我們要不停修練技能</p>
+<p begin="4323800000t" end="4354200000t" region="bottomCenter" style="s1" xml:id="subtitle136">-那是危險的思維</p>
+<p begin="4354200000t" end="4373800000t" region="bottomCenter" style="s1" xml:id="subtitle137">不過是去露營吧</p>
+<p begin="4373800000t" end="4399200000t" region="bottomCenter" style="s1" xml:id="subtitle138">不愧是由古同學</p>
+<p begin="4399200000t" end="4424600000t" region="bottomCenter" style="s1" xml:id="subtitle139">好了 去戶外活動也要開開心心的</p>
+<p begin="4424600000t" end="4437100000t" region="bottomCenter" style="s1" xml:id="subtitle140">是</p>
+<p begin="4456300000t" end="4492100000t" region="bottomCenter" style="s1" xml:id="subtitle141">必須和朋友打好關係才行</p>
+<p begin="4500400000t" end="4519200000t" region="bottomCenter" style="s1" xml:id="subtitle142">妳去跟夏目說吧</p>
+<p begin="4519200000t" end="4532500000t" region="bottomCenter" style="s1" xml:id="subtitle143">皇兄</p>
+<p begin="4532500000t" end="4550000000t" region="bottomCenter" style="s1" xml:id="subtitle144">要去學生餐廳就說一聲啊</p>
+<p begin="4550000000t" end="4578800000t" region="bottomCenter" style="s1" xml:id="subtitle145">為什麼都不告訴我呢</p>
+<p begin="4578800000t" end="4599200000t" region="bottomCenter" style="s1" xml:id="subtitle146">抱歉 怎麼了</p>
+<p begin="4599200000t" end="4635500000t" region="bottomCenter" style="s1" xml:id="subtitle147">參加校外教學的人好像該集合了</p>
+<p begin="4635500000t" end="4681700000t" region="bottomCenter" style="s1" xml:id="subtitle148">決定參加校外教學的是這12個人</p>
+<p begin="4681700000t" end="4733000000t" region="bottomCenter" style="s1" xml:id="subtitle149">稍後你們要各自分組進入山裡行動</p>
+<p begin="4733000000t" end="4787100000t" region="bottomCenter" style="s1" xml:id="subtitle150">體驗魔物棲息的環境</p>
+<p begin="4800000000t" end="4848300000t" region="bottomCenter" style="s1" xml:id="subtitle151">這座山裡只棲息了最低等級的魔物</p>
+<p begin="4848300000t" end="4867100000t" region="bottomCenter" style="s1" xml:id="subtitle152">請大家放心</p>
+<p begin="4883800000t" end="4935500000t" region="bottomCenter" style="s1" xml:id="subtitle153">還有一個是採集藥草</p>
+<p begin="4935500000t" end="4956200000t" region="bottomCenter" style="s1" xml:id="subtitle154">分組由抽籤決定</p>
+<p begin="4986300000t" end="5010900000t" region="bottomCenter" style="s1" xml:id="subtitle155">皇兄是哪一組的</p>
+<p begin="5033300000t" end="5058300000t" region="bottomCenter" style="s1" xml:id="subtitle156">不 別這樣 蘇</p>
+<p begin="5058300000t" end="5093300000t" region="bottomCenter" style="s1" xml:id="subtitle157">小蘇和我同一組 請多指教</p>
+<p begin="5093300000t" end="5119600000t" region="bottomCenter" style="s1" xml:id="subtitle158">我也和妳們同組</p>
+<p begin="5119600000t" end="5135000000t" region="bottomCenter" style="s1" xml:id="subtitle159">修是哪一組的</p>
+<p begin="5135000000t" end="5160800000t" region="bottomCenter" style="s1" xml:id="subtitle160">我是歐利薩老師那組</p>
+<p begin="5160800000t" end="5179600000t" region="bottomCenter" style="s1" xml:id="subtitle161">和由古同組嗎</p>
+<p begin="5218800000t" end="5235900000t" region="bottomCenter" style="s1" xml:id="subtitle162">請多指教</p>
+<p begin="5235900000t" end="5259100000t" region="bottomCenter" style="s1" xml:id="subtitle163">修雷因大人 我很榮幸</p>
+<p begin="5259200000t" end="5273800000t" region="bottomCenter" style="s1" xml:id="subtitle164">請多指教</p>
+<p begin="5316300000t" end="5377600000t" region="bottomCenter" style="s1" xml:id="subtitle165">那麼大家各自過來拿自己的物品</p>
+<p begin="5397500000t" end="5426700000t" region="bottomCenter" style="s1" xml:id="subtitle166">皇兄 我們暫時別過吧</p>
+<p begin="5426700000t" end="5448800000t" region="bottomCenter" style="s1" xml:id="subtitle167">只分開一天而已 妳太誇張了</p>
+<p begin="5448800000t" end="5470900000t" region="bottomCenter" style="s1" xml:id="subtitle168">即使只有一天也是大事</p>
+<p begin="5470900000t" end="5504100000t" region="bottomCenter" style="s1" xml:id="subtitle169">只要一想到在我看不到地方</p>
+<p begin="5504200000t" end="5519200000t" region="bottomCenter" style="s1" xml:id="subtitle170">晚上連覺都睡不著</p>
+<p begin="5519200000t" end="5533400000t" region="bottomCenter" style="s1" xml:id="subtitle171">不會有事的</p>
+<p begin="5533400000t" end="5585000000t" region="bottomCenter" style="s1" xml:id="subtitle172">小蘇 今晚和我盡情聊天吧</p>
+<p begin="5585000000t" end="5598300000t" region="bottomCenter" style="s1" xml:id="subtitle173">阿修</p>
+<p begin="5598300000t" end="5629100000t" region="bottomCenter" style="s1" xml:id="subtitle174">今晚要對同組的人進行鑑定</p>
+<p begin="5629200000t" end="5669200000t" region="bottomCenter" style="s1" xml:id="subtitle175">如果發現擁有禁忌技能的人</p>
+<p begin="5669200000t" end="5693400000t" region="bottomCenter" style="s1" xml:id="subtitle176">好…我會記得的</p>
+<p begin="5707900000t" end="5738700000t" region="bottomCenter" style="s1" xml:id="subtitle177">我還是不要使用鑑定比較好</p>
+<p begin="5749600000t" end="5793800000t" region="bottomCenter" style="s1" xml:id="subtitle178">你要趁著這次機會</p>
+<p begin="5793800000t" end="5823400000t" region="bottomCenter" style="s1" xml:id="subtitle179">大家都是轉生者</p>
+<p begin="5823400000t" end="5837500000t" region="bottomCenter" style="s1" xml:id="subtitle180">是啊</p>
+<p begin="5870000000t" end="5898800000t" region="bottomCenter" style="s1" xml:id="subtitle181">小菲 她生氣了啊</p>
+<p begin="5898800000t" end="5938400000t" region="bottomCenter" style="s1" xml:id="subtitle182">校外教學禁止使魔同行</p>
+<p begin="5938400000t" end="5953300000t" region="bottomCenter" style="s1" xml:id="subtitle183">好像是這樣</p>
+<p begin="5953300000t" end="6006600000t" region="bottomCenter" style="s1" xml:id="subtitle184">畢竟這次的校外教學</p>
+<p begin="6006700000t" end="6024200000t" region="bottomCenter" style="s1" xml:id="subtitle185">不過我覺得很意外</p>
+<p begin="6024200000t" end="6039600000t" region="bottomCenter" style="s1" xml:id="subtitle186">意外什麼</p>
+<p begin="6039600000t" end="6062100000t" region="bottomCenter" style="s1" xml:id="subtitle187">老師竟然會乖乖參加</p>
+<p begin="6062100000t" end="6116700000t" region="bottomCenter" style="s1" xml:id="subtitle188">我的確是經常缺席的問題學生</p>
+<p begin="6116700000t" end="6146700000t" region="bottomCenter" style="s1" xml:id="subtitle189">妳老是請假不來究竟在忙什麼…</p>
+<p begin="6146700000t" end="6180500000t" region="bottomCenter" style="s1" xml:id="subtitle190">就算我這麼問妳</p>
+<p begin="6180500000t" end="6200400000t" region="bottomCenter" style="s1" xml:id="subtitle191">你說的沒錯</p>
+<p begin="6200400000t" end="6219600000t" region="bottomCenter" style="s1" xml:id="subtitle192">這裡就是野營的地點嗎</p>
+<p begin="6219600000t" end="6243400000t" region="bottomCenter" style="s1" xml:id="subtitle193">似乎比預定時間還早到</p>
+<p begin="6243400000t" end="6262100000t" region="bottomCenter" style="s1" xml:id="subtitle194">那就開始準備吧</p>
+<p begin="6262100000t" end="6279200000t" region="bottomCenter" style="s1" xml:id="subtitle195">好</p>
+<p begin="6279200000t" end="6310000000t" region="bottomCenter" style="s1" xml:id="subtitle196">男孩子的體力還真好</p>
+<p begin="6310000000t" end="6347500000t" region="bottomCenter" style="s1" xml:id="subtitle197">身為女孩子的老師光是跟上你們</p>
+<p begin="6347500000t" end="6378300000t" region="bottomCenter" style="s1" xml:id="subtitle198">小岡的能力值應該很高吧</p>
+<p begin="6378300000t" end="6410800000t" region="bottomCenter" style="s1" xml:id="subtitle199">不可能這點程度就叫苦吧</p>
+<p begin="6410800000t" end="6455800000t" region="bottomCenter" style="s1" xml:id="subtitle200">即使知道這一點也要裝作不知道</p>
+<p begin="6455800000t" end="6488700000t" region="bottomCenter" style="s1" xml:id="subtitle201">體貼問候我一下</p>
+<p begin="6488800000t" end="6533800000t" region="bottomCenter" style="s1" xml:id="subtitle202">我不想當老是看女人臉色的男人</p>
+<p begin="6575800000t" end="6612500000t" region="bottomCenter" style="s1" xml:id="subtitle203">修雷因大人</p>
+<p begin="6663300000t" end="6691200000t" region="bottomCenter" style="s1" xml:id="subtitle204">好了 完成</p>
+<p begin="6691300000t" end="6701300000t" region="bottomCenter" style="s1" xml:id="subtitle205">謝謝</p>
+<p begin="6701300000t" end="6738000000t" region="bottomCenter" style="s1" xml:id="subtitle206">哪裡 還勞煩修雷因大人幫忙</p>
+<p begin="6738000000t" end="6750400000t" region="bottomCenter" style="s1" xml:id="subtitle207">真是對不起</p>
+<p begin="6750400000t" end="6788700000t" region="bottomCenter" style="s1" xml:id="subtitle208">帕爾頓 在學校裡不分身分地位</p>
+<p begin="6788800000t" end="6812600000t" region="bottomCenter" style="s1" xml:id="subtitle209">用不著對我這麼客氣吧</p>
+<p begin="6812600000t" end="6845000000t" region="bottomCenter" style="s1" xml:id="subtitle210">是我個人很尊敬修雷因大人</p>
+<p begin="6845000000t" end="6859200000t" region="bottomCenter" style="s1" xml:id="subtitle211">你個人</p>
+<p begin="6859200000t" end="6891700000t" region="bottomCenter" style="s1" xml:id="subtitle212">你擊退地龍的模樣太出色了</p>
+<p begin="6898300000t" end="6937100000t" region="bottomCenter" style="s1" xml:id="subtitle213">所以我是心甘情願這麼做</p>
+<p begin="6961700000t" end="6990500000t" region="bottomCenter" style="s1" xml:id="subtitle214">我們比預定時間更早完成紮營</p>
+<p begin="6990500000t" end="7019600000t" region="bottomCenter" style="s1" xml:id="subtitle215">所以你們各自去探險吧</p>
+<p begin="7033800000t" end="7068000000t" region="bottomCenter" style="s1" xml:id="subtitle216">不過別離開營地太遠</p>
+<p begin="7068000000t" end="7092900000t" region="bottomCenter" style="s1" xml:id="subtitle217">一小時後要回到這裡</p>
+<p begin="7092900000t" end="7104200000t" region="bottomCenter" style="s1" xml:id="subtitle218">是</p>
+<p begin="7150800000t" end="7160400000t" region="bottomCenter" style="s1" xml:id="subtitle219">(愛奴普斯)</p>
+<p begin="7160400000t" end="7174600000t" region="bottomCenter" style="s1" xml:id="subtitle220">(達斯特魯提亞大陸的茂盛植物)</p>
+<p begin="7181700000t" end="7207500000t" region="bottomCenter" style="s1" xml:id="subtitle221">可以治療鼻塞的藥草啊</p>
+<p begin="7274600000t" end="7288400000t" region="bottomCenter" style="s1" xml:id="subtitle222">帕爾頓</p>
+<p begin="7304200000t" end="7327100000t" region="bottomCenter" style="s1" xml:id="subtitle223">難道是在劍上動了特殊的手腳</p>
+<p begin="7327100000t" end="7344600000t" region="bottomCenter" style="s1" xml:id="subtitle224">還是使用消音的技能…</p>
+<p begin="7360400000t" end="7371700000t" region="bottomCenter" style="s1" xml:id="subtitle225">帕爾頓</p>
+<p begin="7455000000t" end="7466700000t" region="bottomCenter" style="s1" xml:id="subtitle226">唷</p>
+<p begin="7466700000t" end="7497500000t" region="bottomCenter" style="s1" xml:id="subtitle227">(轉生成蜘蛛又怎樣！)</p>
+<p begin="7503300000t" end="7519600000t" region="bottomCenter" style="s1" xml:id="subtitle228">你把帕爾頓怎麼了</p>
+<p begin="7519600000t" end="7557500000t" region="bottomCenter" style="s1" xml:id="subtitle229">那種小角色怎樣都無所謂吧</p>
+<p begin="7557500000t" end="7576700000t" region="bottomCenter" style="s1" xml:id="subtitle230">竟然說他是小角色</p>
+<p begin="7619600000t" end="7632500000t" region="bottomCenter" style="s1" xml:id="subtitle231">真討厭</p>
+<p begin="7632500000t" end="7672500000t" region="bottomCenter" style="s1" xml:id="subtitle232">我本來想在這附近讓你退場的</p>
+<p begin="7672500000t" end="7705400000t" region="bottomCenter" style="s1" xml:id="subtitle233">你實在太礙眼了</p>
+<p begin="7705400000t" end="7743300000t" region="bottomCenter" style="s1" xml:id="subtitle234">這個世界是為了讓我統治才存在</p>
+<p begin="7743300000t" end="7759100000t" region="bottomCenter" style="s1" xml:id="subtitle235">可是卻有和我同等</p>
+<p begin="7759200000t" end="7789200000t" region="bottomCenter" style="s1" xml:id="subtitle236">甚至超越我的人在</p>
+<p begin="7789200000t" end="7820500000t" region="bottomCenter" style="s1" xml:id="subtitle237">你在說什麼啊 是認真的嗎</p>
+<p begin="7820500000t" end="7842500000t" region="bottomCenter" style="s1" xml:id="subtitle238">當然是認真的</p>
+<p begin="7842500000t" end="7891700000t" region="bottomCenter" style="s1" xml:id="subtitle239">這裡是只要有技能</p>
+<p begin="7891700000t" end="7937100000t" region="bottomCenter" style="s1" xml:id="subtitle240">根本就是為了我而存在的世界</p>
+<p begin="7937100000t" end="7984600000t" region="bottomCenter" style="s1" xml:id="subtitle241">可是我不需要像你這樣的傢伙</p>
+<p begin="7990000000t" end="8019600000t" region="bottomCenter" style="s1" xml:id="subtitle242">所以去死吧</p>
+<p begin="8055400000t" end="8085000000t" region="bottomCenter" style="s1" xml:id="subtitle243">(由古・邦恩・連克山杜 等級31)</p>
+<p begin="8085000000t" end="8119200000t" region="bottomCenter" style="s1" xml:id="subtitle244">怎麼了 你在發抖嗎</p>
+<p begin="8185000000t" end="8203300000t" region="bottomCenter" style="s1" xml:id="subtitle245">好強</p>
+<p begin="8203300000t" end="8234100000t" region="bottomCenter" style="s1" xml:id="subtitle246">而且他很積極在取得技能</p>
+<p begin="8242100000t" end="8262100000t" region="bottomCenter" style="s1" xml:id="subtitle247">其中最棘手的…</p>
+<p begin="8262100000t" end="8280000000t" region="bottomCenter" style="s1" xml:id="subtitle248">是帝王的技能</p>
+<p begin="8291300000t" end="8325100000t" region="bottomCenter" style="s1" xml:id="subtitle249">我可以抵抗權威壓力下的恐懼</p>
+<p begin="8325100000t" end="8353300000t" region="bottomCenter" style="s1" xml:id="subtitle250">但是能提升技能效果這點</p>
+<p begin="8353300000t" end="8364100000t" region="bottomCenter" style="s1" xml:id="subtitle251">看招</p>
+<p begin="8383800000t" end="8398000000t" region="bottomCenter" style="s1" xml:id="subtitle252">我知道</p>
+<p begin="8398000000t" end="8433700000t" region="bottomCenter" style="s1" xml:id="subtitle253">你幾乎沒有在用技能點數對吧</p>
+<p begin="8440400000t" end="8460400000t" region="bottomCenter" style="s1" xml:id="subtitle254">也沒有在提升等級</p>
+<p begin="8460400000t" end="8497900000t" region="bottomCenter" style="s1" xml:id="subtitle255">點數應該是拿來用的東西</p>
+<p begin="8497900000t" end="8514600000t" region="bottomCenter" style="s1" xml:id="subtitle256">像這樣</p>
+<p begin="8525400000t" end="8543700000t" region="bottomCenter" style="s1" xml:id="subtitle257">快給我投降吧</p>
+<p begin="8553800000t" end="8589600000t" region="bottomCenter" style="s1" xml:id="subtitle258">做出這種事 你以為能平安脫身嗎</p>
+<p begin="8589600000t" end="8632100000t" region="bottomCenter" style="s1" xml:id="subtitle259">我不是說過嗎 我可是未來的國王</p>
+<p begin="8632100000t" end="8664200000t" region="bottomCenter" style="s1" xml:id="subtitle260">我想做什麼當然都可以</p>
+<p begin="8686300000t" end="8705500000t" region="bottomCenter" style="s1" xml:id="subtitle261">國王</p>
+<p begin="8720800000t" end="8748700000t" region="bottomCenter" style="s1" xml:id="subtitle262">我已經事先策劃好了</p>
+<p begin="8748800000t" end="8785900000t" region="bottomCenter" style="s1" xml:id="subtitle263">我的手下現在應該正在收拾其他人</p>
+<p begin="8785900000t" end="8802900000t" region="bottomCenter" style="s1" xml:id="subtitle264">把你解決掉後</p>
+<p begin="8802900000t" end="8827500000t" region="bottomCenter" style="s1" xml:id="subtitle265">我會放出帶來的魔物</p>
+<p begin="8827500000t" end="8840800000t" region="bottomCenter" style="s1" xml:id="subtitle266">魔物</p>
+<p begin="8840800000t" end="8878300000t" region="bottomCenter" style="s1" xml:id="subtitle267">是這裡不會出現的強大魔物</p>
+<p begin="8878300000t" end="8907100000t" region="bottomCenter" style="s1" xml:id="subtitle268">可憐的修王子殿下和歐利薩老師</p>
+<p begin="8907100000t" end="8963800000t" region="bottomCenter" style="s1" xml:id="subtitle269">還有其他的學生們</p>
+<p begin="8963800000t" end="8983400000t" region="bottomCenter" style="s1" xml:id="subtitle270">接下來的劇情是我打倒魔物</p>
+<p begin="8983400000t" end="9025000000t" region="bottomCenter" style="s1" xml:id="subtitle271">替同伴們討回公道並活著回去</p>
+<p begin="9025000000t" end="9061300000t" region="bottomCenter" style="s1" xml:id="subtitle272">這麼鬆散的計劃馬上就會被告發</p>
+<p begin="9061300000t" end="9086700000t" region="bottomCenter" style="s1" xml:id="subtitle273">向誰告發誰呢</p>
+<p begin="9086700000t" end="9110000000t" region="bottomCenter" style="s1" xml:id="subtitle274">這裡可不是日本喔</p>
+<p begin="9110000000t" end="9143300000t" region="bottomCenter" style="s1" xml:id="subtitle275">就算事有蹊蹺 又有誰敢提出</p>
+<p begin="9152500000t" end="9206700000t" region="bottomCenter" style="s1" xml:id="subtitle276">你別以為犯了罪</p>
+<p begin="9206700000t" end="9237100000t" region="bottomCenter" style="s1" xml:id="subtitle277">你不正常</p>
+<p begin="9237100000t" end="9307500000t" region="bottomCenter" style="s1" xml:id="subtitle278">到了這裡還遵守原本世界常識的你</p>
+<p begin="9327900000t" end="9362500000t" region="bottomCenter" style="s1" xml:id="subtitle279">好弱的劍啊 好弱…</p>
+<p begin="9362500000t" end="9383800000t" region="bottomCenter" style="s1" xml:id="subtitle280">簡直弱到不像話</p>
+<p begin="9409200000t" end="9443400000t" region="bottomCenter" style="s1" xml:id="subtitle281">你打倒地龍時</p>
+<p begin="9443400000t" end="9461200000t" region="bottomCenter" style="s1" xml:id="subtitle282">王子殿下</p>
+<p begin="9495800000t" end="9528700000t" region="bottomCenter" style="s1" xml:id="subtitle283">果然還是我比較強吧</p>
+<p begin="9528800000t" end="9573800000t" region="bottomCenter" style="s1" xml:id="subtitle284">你打倒地龍那件事</p>
+<p begin="9606300000t" end="9619600000t" region="bottomCenter" style="s1" xml:id="subtitle285">永別了</p>
+<p begin="9619600000t" end="9667900000t" region="bottomCenter" style="s1" xml:id="subtitle286">我會記得關於你的事</p>
+<p begin="9722500000t" end="9760000000t" region="bottomCenter" style="s1" xml:id="subtitle287">夏目同學 你做得太過分了</p>
+<p begin="9760000000t" end="9785000000t" region="bottomCenter" style="s1" xml:id="subtitle288">是妳…小岡…</p>
+<p begin="9797900000t" end="9831700000t" region="bottomCenter" style="s1" xml:id="subtitle289">你的手下已經全部被抓起來了</p>
+<p begin="9831700000t" end="9860500000t" region="bottomCenter" style="s1" xml:id="subtitle290">你帶來的魔物也已經被消滅了</p>
+<p begin="9860500000t" end="9878700000t" region="bottomCenter" style="s1" xml:id="subtitle291">什…什麼</p>
+<p begin="9878800000t" end="9922600000t" region="bottomCenter" style="s1" xml:id="subtitle292">我不能再縱容你繼續失控下去</p>
+<p begin="10012900000t" end="10036700000t" region="bottomCenter" style="s1" xml:id="subtitle293">是風之魔法嗎</p>
+<p begin="10047100000t" end="10060000000t" region="bottomCenter" style="s1" xml:id="subtitle294">放開我</p>
+<p begin="10060000000t" end="10079200000t" region="bottomCenter" style="s1" xml:id="subtitle295">啟動支配者權限</p>
+<p begin="10079200000t" end="10097100000t" region="bottomCenter" style="s1" xml:id="subtitle296">按照支配者的要求</p>
+<p begin="10097100000t" end="10120900000t" region="bottomCenter" style="s1" xml:id="subtitle297">啟動支配者專用技能</p>
+<p begin="10120900000t" end="10139100000t" region="bottomCenter" style="s1" xml:id="subtitle298">是否同意啟動</p>
+<p begin="10161300000t" end="10178400000t" region="bottomCenter" style="s1" xml:id="subtitle299">我同意</p>
+<p begin="10190800000t" end="10228700000t" region="bottomCenter" style="s1" xml:id="subtitle300">能力值…在下降…</p>
+<p begin="10228800000t" end="10243000000t" region="bottomCenter" style="s1" xml:id="subtitle301">連技能也…</p>
+<p begin="10243000000t" end="10270400000t" region="bottomCenter" style="s1" xml:id="subtitle302">妳對我做了什麼</p>
+<p begin="10270400000t" end="10305400000t" region="bottomCenter" style="s1" xml:id="subtitle303">我降低了你的能力值</p>
+<p begin="10305400000t" end="10310790000t" region="bottomCenter" style="s1" xml:id="subtitle304">什麼</p>
+<p begin="10310790000t" end="10332100000t" region="bottomCenter" style="s1" xml:id="subtitle305">阿修 鑑定結果如何</p>
+<p begin="10332100000t" end="10353390000t" region="bottomCenter" style="s1" xml:id="subtitle306">能力值全都是30</p>
+<p begin="10353390000t" end="10376600000t" region="bottomCenter" style="s1" xml:id="subtitle307">(n%I=W)</p>
+<p begin="10400000000t" end="10428290000t" region="bottomCenter" style="s1" xml:id="subtitle308">這個世界並不是屬於你的東西</p>
+<p begin="10428290000t" end="10441190000t" region="bottomCenter" style="s1" xml:id="subtitle309">好好反省</p>
+<p begin="10441300000t" end="10482100000t" region="bottomCenter" style="s1" xml:id="subtitle310">另外我建議你趁這個機會</p>
+<p begin="10482100000t" end="10519600000t" region="bottomCenter" style="s1" xml:id="subtitle311">我的…</p>
+<p begin="10519600000t" end="10532100000t" region="bottomCenter" style="s1" xml:id="subtitle312">阿修</p>
+<p begin="10532100000t" end="10566700000t" region="bottomCenter" style="s1" xml:id="subtitle313">你去另一邊幫歐利薩老師</p>
+<p begin="10566700000t" end="10579200000t" region="bottomCenter" style="s1" xml:id="subtitle314">對喔 他們兩人…</p>
+<p begin="10579200000t" end="10608800000t" region="bottomCenter" style="s1" xml:id="subtitle315">不要緊 只受了輕傷</p>
+<p begin="10608800000t" end="10649200000t" region="bottomCenter" style="s1" xml:id="subtitle316">治療完畢後</p>
+<p begin="10649200000t" end="10673800000t" region="bottomCenter" style="s1" xml:id="subtitle317">校外教學中止了</p>
+<p begin="10687900000t" end="10727900000t" region="bottomCenter" style="s1" xml:id="subtitle318">妳真的奪走了由古的技能嗎</p>
+<p begin="10727900000t" end="10742900000t" region="bottomCenter" style="s1" xml:id="subtitle319">我不是說過了嗎</p>
+<p begin="10742900000t" end="10766200000t" region="bottomCenter" style="s1" xml:id="subtitle320">技能是很危險的</p>
+<p begin="10921700000t" end="10944600000t" region="bottomCenter" style="s1" xml:id="subtitle321">熟練度達到一定的目標</p>
+<p begin="10944600000t" end="10982500000t" region="bottomCenter" style="s1" xml:id="subtitle322">技能視覺強化提升至十級</p>
+<p begin="10982500000t" end="11001300000t" region="bottomCenter" style="s1" xml:id="subtitle323">已經滿足條件</p>
+<p begin="11001300000t" end="11033400000t" region="bottomCenter" style="s1" xml:id="subtitle324">由技能視覺強化十級</p>
+<p begin="11033400000t" end="11039600000t" region="bottomCenter" style="s1" xml:id="subtitle325">好耶</p>
+<p begin="11039600000t" end="11064200000t" region="bottomCenter" style="s1" xml:id="subtitle326">-衍生出技能望遠等級一</p>
+<p begin="11064200000t" end="11102100000t" region="bottomCenter" style="s1" xml:id="subtitle327">而且還因為練到最高等</p>
+<p begin="11102100000t" end="11136700000t" region="bottomCenter" style="s1" xml:id="subtitle328">(望遠 可以放大看遠方的景物)</p>
+<p begin="11136700000t" end="11170500000t" region="bottomCenter" style="s1" xml:id="subtitle329">老實說有點曖昧 又有點不起眼</p>
+<p begin="11170500000t" end="11192100000t" region="bottomCenter" style="s1" xml:id="subtitle330">總之先啟動看看吧</p>
+<p begin="11192100000t" end="11208400000t" region="bottomCenter" style="s1" xml:id="subtitle331">來吧 啟動</p>
+<p begin="11247500000t" end="11260000000t" region="bottomCenter" style="s1" xml:id="subtitle332">這個超厲害的</p>
+<p begin="11260000000t" end="11278800000t" region="bottomCenter" style="s1" xml:id="subtitle333">說你不起眼真是抱歉</p>
+<p begin="11278800000t" end="11308800000t" region="bottomCenter" style="s1" xml:id="subtitle334">居然同時出現兩個視野</p>
+<p begin="11308800000t" end="11323800000t" region="bottomCenter" style="s1" xml:id="subtitle335">我錯亂了</p>
+<p begin="11323800000t" end="11335500000t" region="bottomCenter" style="s1" xml:id="subtitle336">開玩笑的啦</p>
+<p begin="11335500000t" end="11365000000t" region="bottomCenter" style="s1" xml:id="subtitle337">現在的我有兩個分身</p>
+<p begin="11365000000t" end="11395400000t" region="bottomCenter" style="s1" xml:id="subtitle338">可以分成兩邊使用</p>
+<p begin="11395400000t" end="11435000000t" region="bottomCenter" style="s1" xml:id="subtitle339">死神之鐮由等級二提升至等級三</p>
+<p begin="11435000000t" end="11478300000t" region="bottomCenter" style="s1" xml:id="subtitle340">技能視覺領域擴張提升至三級</p>
+<p begin="11478300000t" end="11517500000t" region="bottomCenter" style="s1" xml:id="subtitle341">技能生命提升至十級</p>
+<p begin="11517500000t" end="11537100000t" region="bottomCenter" style="s1" xml:id="subtitle342">已經滿足條件</p>
+<p begin="11537100000t" end="11592100000t" region="bottomCenter" style="s1" xml:id="subtitle343">技能生命等級十進化成身命等級一</p>
+<p begin="11592100000t" end="11615900000t" region="bottomCenter" style="s1" xml:id="subtitle344">身體負責人…</p>
+<p begin="11615900000t" end="11641200000t" region="bottomCenter" style="s1" xml:id="subtitle345">什麼事 情報負責人</p>
+<p begin="11641300000t" end="11671700000t" region="bottomCenter" style="s1" xml:id="subtitle346">能不能在望遠上加上邪眼呢</p>
+<p begin="11682500000t" end="11710800000t" region="bottomCenter" style="s1" xml:id="subtitle347">妳是天才嗎</p>
+<p begin="11710800000t" end="11740800000t" region="bottomCenter" style="s1" xml:id="subtitle348">天才做什麼應該都可以吧</p>
+<p begin="11740800000t" end="11780800000t" region="bottomCenter" style="s1" xml:id="subtitle349">用望遠在遠距離施展邪眼的話</p>
+<p begin="11780800000t" end="11807100000t" region="bottomCenter" style="s1" xml:id="subtitle350">太棒了 夢想更遠大了</p>
+<p begin="11807100000t" end="11845400000t" region="bottomCenter" style="s1" xml:id="subtitle351">如果決定要這麼做的話</p>
+<p begin="11845400000t" end="11860400000t" region="bottomCenter" style="s1" xml:id="subtitle352">偵查</p>
+<p begin="11860400000t" end="11884200000t" region="bottomCenter" style="s1" xml:id="subtitle353">熟練度達到一定的目標</p>
+<p begin="11884200000t" end="11908000000t" region="bottomCenter" style="s1" xml:id="subtitle354">技能偵查提升至十級</p>
+<p begin="11908000000t" end="11916200000t" region="bottomCenter" style="s1" xml:id="subtitle355">什麼</p>
+<p begin="11916300000t" end="11937600000t" region="bottomCenter" style="s1" xml:id="subtitle356">終於連偵查都提升到最高等了</p>
+<p begin="11937600000t" end="11965800000t" region="bottomCenter" style="s1" xml:id="subtitle357">這下子我踏上通往最強的道路了</p>
+<p begin="11965800000t" end="12020800000t" region="bottomCenter" style="s1" xml:id="subtitle358">不過偵查達到最高等後</p>
+<p begin="12020800000t" end="12079100000t" region="bottomCenter" style="s1" xml:id="subtitle359">這麼說來鑑定大人達到最高等後</p>
+<p begin="12089200000t" end="12112100000t" region="bottomCenter" style="s1" xml:id="subtitle360">不 沒關係</p>
+<p begin="12112100000t" end="12141700000t" region="bottomCenter" style="s1" xml:id="subtitle361">能練到最高等就已經夠厲害了</p>
+<p begin="12141700000t" end="12219200000t" region="bottomCenter" style="s1" xml:id="subtitle362">本來以為會出現掌管睿智的人</p>
+<p begin="12219200000t" end="12253400000t" region="bottomCenter" style="s1" xml:id="subtitle363">結果卻沒有令人大失所望</p>
+<p begin="12285800000t" end="12317500000t" region="bottomCenter" style="s1" xml:id="subtitle364">什麼 又來了 又是那陣沙沙聲</p>
+<p begin="12325000000t" end="12350800000t" region="bottomCenter" style="s1" xml:id="subtitle365">喂…那是什麼啊</p>
+<p begin="12369200000t" end="12382500000t" region="bottomCenter" style="s1" xml:id="subtitle366">什麼</p>
+<p begin="12382500000t" end="12402100000t" region="bottomCenter" style="s1" xml:id="subtitle367">我好像聽到清脆的聲音</p>
+<p begin="12402100000t" end="12425900000t" region="bottomCenter" style="s1" xml:id="subtitle368">很明顯不是沙沙的聲音</p>
+<p begin="12425900000t" end="12461600000t" region="bottomCenter" style="s1" xml:id="subtitle369">妳的要求被管理員D接受了</p>
+<p begin="12461700000t" end="12474200000t" region="bottomCenter" style="s1" xml:id="subtitle370">D是誰啊</p>
+<p begin="12474200000t" end="12500000000t" region="bottomCenter" style="s1" xml:id="subtitle371">技能睿智正在創造中</p>
+<p begin="12500000000t" end="12521700000t" region="bottomCenter" style="s1" xml:id="subtitle372">創造完畢</p>
+<p begin="12521700000t" end="12539600000t" region="bottomCenter" style="s1" xml:id="subtitle373">已經滿足條件</p>
+<p begin="12539600000t" end="12567500000t" region="bottomCenter" style="s1" xml:id="subtitle374">獲得技能睿智</p>
+<p begin="12567500000t" end="12578800000t" region="bottomCenter" style="s1" xml:id="subtitle375">-已將鑑定十級與睿智結合</p>
+<p begin="12578800000t" end="12593000000t" region="bottomCenter" style="s1" xml:id="subtitle376">-已將偵查十級與睿智結合</p>
+<p begin="12593000000t" end="12612500000t" region="bottomCenter" style="s1" xml:id="subtitle377">-熟練度達到一定的目標</p>
+<p begin="12612500000t" end="12621300000t" region="bottomCenter" style="s1" xml:id="subtitle378">-技能禁忌由七級提升至八級</p>
+<p begin="12621300000t" end="12632600000t" region="bottomCenter" style="s1" xml:id="subtitle379">-技能禁忌由七級提升至八級</p>
+<p begin="12632600000t" end="12642900000t" region="bottomCenter" style="s1" xml:id="subtitle380">-已經滿足條件</p>
+<p begin="12642900000t" end="12675000000t" region="bottomCenter" style="s1" xml:id="subtitle381">-獲得稱號睿智的支配者</p>
+<p begin="12744200000t" end="12778400000t" region="bottomCenter" style="s1" xml:id="subtitle382">這個很明顯是異常的情況</p>
+<p begin="12778400000t" end="12793700000t" region="bottomCenter" style="s1" xml:id="subtitle383">異常…</p>
+<p begin="12793800000t" end="12815900000t" region="bottomCenter" style="s1" xml:id="subtitle384">沒錯 異常</p>
+<p begin="12815900000t" end="12862900000t" region="bottomCenter" style="s1" xml:id="subtitle385">一直以來我都按照我所認為的</p>
+<p begin="12862900000t" end="12886200000t" region="bottomCenter" style="s1" xml:id="subtitle386">一直隨波逐流</p>
+<p begin="12886300000t" end="12920100000t" region="bottomCenter" style="s1" xml:id="subtitle387">宛如在遊戲裡生活般</p>
+<p begin="12920100000t" end="12941700000t" region="bottomCenter" style="s1" xml:id="subtitle388">因為技能和能力值這些東西</p>
+<p begin="12941700000t" end="12980500000t" region="bottomCenter" style="s1" xml:id="subtitle389">出現在不是遊戲的現實生活中</p>
+<p begin="12980500000t" end="13025400000t" region="bottomCenter" style="s1" xml:id="subtitle390">妳的要求被管理員D接受了</p>
+<p begin="13025400000t" end="13073300000t" region="bottomCenter" style="s1" xml:id="subtitle391">這句話就像有人在監視我</p>
+<p begin="13073300000t" end="13112500000t" region="bottomCenter" style="s1" xml:id="subtitle392">配合我的抱怨創造出技能的樣子</p>
+<p begin="13112500000t" end="13130800000t" region="bottomCenter" style="s1" xml:id="subtitle393">如果真是這樣</p>
+<p begin="13130800000t" end="13155800000t" region="bottomCenter" style="s1" xml:id="subtitle394">那就有管理技能的人存在</p>
+<p begin="13155800000t" end="13191600000t" region="bottomCenter" style="s1" xml:id="subtitle395">如果有人在觀察這個世界的發展</p>
+<p begin="13191700000t" end="13225900000t" region="bottomCenter" style="s1" xml:id="subtitle396">那不就像神一樣嗎</p>
+<p begin="13225900000t" end="13258300000t" region="bottomCenter" style="s1" xml:id="subtitle397">那這個世界就不是像遊戲的世界</p>
+<p begin="13258300000t" end="13305800000t" region="bottomCenter" style="s1" xml:id="subtitle398">而是真的有管理員在負責管理的</p>
+<p begin="13328300000t" end="13376600000t" region="bottomCenter" style="s1" xml:id="subtitle399">這麼說我只是其中一名登場人物</p>
+<p begin="13386300000t" end="13427600000t" region="bottomCenter" style="s1" xml:id="subtitle400">意思是我這樣也算活著嗎</p>
+<p begin="13427600000t" end="13444600000t" region="bottomCenter" style="s1" xml:id="subtitle401">好可怕</p>
+<p begin="13458300000t" end="13496600000t" region="bottomCenter" style="s1" xml:id="subtitle402">我…今後該怎麼辦呢</p>
+<p begin="13496700000t" end="13516300000t" region="bottomCenter" style="s1" xml:id="subtitle403">該怎麼辦呢</p>
+<p begin="13560800000t" end="13579100000t" region="bottomCenter" style="s1" xml:id="subtitle404">開什麼玩笑</p>
+<p begin="13579200000t" end="13605000000t" region="bottomCenter" style="s1" xml:id="subtitle405">什麼叫我做得太過分了</p>
+<p begin="13605000000t" end="13657500000t" region="bottomCenter" style="s1" xml:id="subtitle406">我一定要向那個可惡的精靈報仇</p>
+<p begin="13657500000t" end="13711300000t" region="bottomCenter" style="s1" xml:id="subtitle407">我要摧毀妳珍惜的所有事物</p>
+<p begin="13711300000t" end="13744600000t" region="bottomCenter" style="s1" xml:id="subtitle408">這個世界是屬於我的東西</p>
+<p begin="13772900000t" end="13796200000t" region="bottomCenter" style="s1" xml:id="subtitle409">我助你一臂之力吧</p>
+<p begin="13835800000t" end="13859600000t" region="bottomCenter" style="s1" xml:id="subtitle410">是…是誰</p>
+<p begin="13859600000t" end="13887100000t" region="bottomCenter" style="s1" xml:id="subtitle411">看在你是轉生者的份上</p>
+<p begin="13887100000t" end="13917900000t" region="bottomCenter" style="s1" xml:id="subtitle412">我願意幫你喔</p>
+<p begin="13917900000t" end="13951700000t" region="bottomCenter" style="s1" xml:id="subtitle413">妳說什麼 轉生者</p>
+<p begin="14008300000t" end="14027100000t" region="bottomCenter" style="s1" xml:id="subtitle414">算了</p>
+<p begin="14027100000t" end="14065400000t" region="bottomCenter" style="s1" xml:id="subtitle415">妳是什麼人都沒關係</p>
+<p begin="14065400000t" end="14092100000t" region="bottomCenter" style="s1" xml:id="subtitle416">只要能向那些傢伙報仇</p>
+<p begin="14092100000t" end="14128400000t" region="bottomCenter" style="s1" xml:id="subtitle417">不管是惡魔或任何人都可以</p>
+<p begin="14128400000t" end="14173300000t" region="bottomCenter" style="s1" xml:id="subtitle418">好啊 那我就接受妳的好意</p>
+<p begin="14173300000t" end="14200000000t" region="bottomCenter" style="s1" xml:id="subtitle419">(轉生成蜘蛛又怎樣！)</p>
+<p begin="14200000000t" end="14224600000t" region="bottomCenter" style="s1" xml:id="subtitle420">(敬請期待)</p>
+</div>
+</body>
+</tt>

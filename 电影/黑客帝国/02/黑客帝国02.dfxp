@@ -1,0 +1,1216 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="279950000t" end="313030000t" region="bottomCenter" style="s1" xml:id="subtitle0">个人原创字幕<br />制作人：A Redpill<br />了解更多影片细节，请访问The Matrix Wiki<br />https://matrix.fandom.com</p>
+<p begin="313280000t" end="369880000t" region="bottomCenter" style="s1" xml:id="subtitle1">[创作声明]<br />所有添加的情节注释，均检索自Matrix Wiki词条，译者仅加以翻译和精简；<br />但针对存在多种解读的情节，仅展示了译者较为认可的一种；<br />多处典故解读，则引用自圣经和合本或新译本，以及维基百科英文版</p>
+<p begin="370130000t" end="396750000t" region="bottomCenter" style="s1" xml:id="subtitle2">黑 客 帝 国<br />THE  MATRIX</p>
+<p begin="397000000t" end="435000000t" region="bottomCenter" style="s1" xml:id="subtitle3">重 装 上 阵<br />R E L O A D E D</p>
+<p begin="876800000t" end="894200000t" region="bottomCenter" style="s1" xml:id="subtitle4">明天见<br />See you tomorrow.</p>
+<p begin="1089550000t" end="1099230000t" region="bottomCenter" style="s1" xml:id="subtitle5">哦，上帝啊！<br />Oh, my God!</p>
+<p begin="1327320000t" end="1337600000t" region="bottomCenter" style="s1" xml:id="subtitle6">我进来了<br />I'm in.</p>
+<p begin="2472120000t" end="2490020000t" region="bottomCenter" style="s1" xml:id="subtitle7">我们就快到了<br />We're almost there.</p>
+<p begin="2492260000t" end="2533220000t" region="bottomCenter" style="s1" xml:id="subtitle8">-长官，你有把握吗？  -我说过，不会出问题的<br />-Sir, are you sure about this?  -I told you, we're going to be all right.</p>
+<p begin="2533590000t" end="2586040000t" region="bottomCenter" style="s1" xml:id="subtitle9">我明白，长官  只是我观测到，那儿有大量的哨兵活动<br />I understand, sir. It's just that I'm scoping some serious sentinel activity up here.</p>
+<p begin="2969880000t" end="2993870000t" region="bottomCenter" style="s1" xml:id="subtitle10">-林克  -长官？<br />-Link.  -Yes, sir?</p>
+<p begin="2997030000t" end="3025980000t" region="bottomCenter" style="s1" xml:id="subtitle11">考虑到你的情况，我还是不能明白……<br />Given your situation, I can't say I fully understand your reasons...</p>
+<p begin="3026230000t" end="3053300000t" region="bottomCenter" style="s1" xml:id="subtitle12">你为什么要志愿到我的舰上工作<br />...for volunteering to operate onboard my ship.</p>
+<p begin="3057250000t" end="3097250000t" region="bottomCenter" style="s1" xml:id="subtitle13">不过，如果你想继续干下去，我有件事需要你去做<br />However, if you wish to continue to do so, I must ask you to do one thing.</p>
+<p begin="3101500000t" end="3114620000t" region="bottomCenter" style="s1" xml:id="subtitle14">什么事，长官？<br />What's that, sir?</p>
+<p begin="3122990000t" end="3135890000t" region="bottomCenter" style="s1" xml:id="subtitle15">要信任我<br />To trust me.</p>
+<p begin="3140720000t" end="3159120000t" region="bottomCenter" style="s1" xml:id="subtitle16">是，长官  我会的<br />Yes, sir.  I will, sir.</p>
+<p begin="3179090000t" end="3209490000t" region="bottomCenter" style="s1" xml:id="subtitle17">-我是说，我一定做到  -但愿如此<br />-I mean, I do, sir.  -I hope so.</p>
+<p begin="3212860000t" end="3245950000t" region="bottomCenter" style="s1" xml:id="subtitle18">现在将主电源重新接到硬盘驱动器上，准备广播信号吧<br />Now repatch the main AC to the hard drives and stand by to broadcast.</p>
+<p begin="3246390000t" end="3256330000t" region="bottomCenter" style="s1" xml:id="subtitle19">是，长官<br />Yes, sir.</p>
+<p begin="3345700000t" end="3363100000t" region="bottomCenter" style="s1" xml:id="subtitle20">还是睡不着吗？<br />Still can't sleep?</p>
+<p begin="3387700000t" end="3400700000t" region="bottomCenter" style="s1" xml:id="subtitle21">想谈谈吗？<br />You wanna talk?</p>
+<p begin="3425490000t" end="3445630000t" region="bottomCenter" style="s1" xml:id="subtitle22">只是做了个噩梦<br />They're just dreams.</p>
+<p begin="3472920000t" end="3495650000t" region="bottomCenter" style="s1" xml:id="subtitle23">如果你是在担心什么……<br />If you're afraid of something....</p>
+<p begin="3497500000t" end="3514450000t" region="bottomCenter" style="s1" xml:id="subtitle24">我只是希望……<br />I just wish....</p>
+<p begin="3522760000t" end="3545620000t" region="bottomCenter" style="s1" xml:id="subtitle25">希望知道自己该去做哪些事<br />I wish I knew what I'm supposed to do.</p>
+<p begin="3548030000t" end="3563830000t" region="bottomCenter" style="s1" xml:id="subtitle26">仅此而已<br />That's all.</p>
+<p begin="3576860000t" end="3590160000t" region="bottomCenter" style="s1" xml:id="subtitle27">我真希望能知道<br />I just wish I knew.</p>
+<p begin="3593600000t" end="3635650000t" region="bottomCenter" style="s1" xml:id="subtitle28">她会和你联系的  别再担心了<br />She's gonna call. Don't worry.</p>
+<p begin="3635900000t" end="3645550000t" region="bottomCenter" style="s1" xml:id="subtitle29">找到你们了<br />Here you are.</p>
+<p begin="3647700000t" end="3674560000t" region="bottomCenter" style="s1" xml:id="subtitle30">-我们该出发了吗？  -已经要迟到了<br />-Are we ready to go?  -We're already late.</p>
+<p begin="3687930000t" end="3726120000t" region="bottomCenter" style="s1" xml:id="subtitle31">这些地热成像图证实了冥王号发回的最后一条讯息<br />These geotherms confirm the last transmission of the Osiris.</p>
+<p begin="3738390000t" end="3754990000t" region="bottomCenter" style="s1" xml:id="subtitle32">机器正在钻洞<br />The machines are digging.</p>
+<p begin="3772800000t" end="3796760000t" region="bottomCenter" style="s1" xml:id="subtitle33">它们要从地表一直挖到锡安<br />They're boring from the surface down to Zion.</p>
+<p begin="3797060000t" end="3826010000t" region="bottomCenter" style="s1" xml:id="subtitle34">-妈的   -它们想避开我们的整个外围防御<br />-Mother   -They'll avoid the entire perimeter defense.</p>
+<p begin="3826260000t" end="3839850000t" region="bottomCenter" style="s1" xml:id="subtitle35">它们移动的速度有多快？<br />How fast are they moving?</p>
+<p begin="3840100000t" end="3876200000t" region="bottomCenter" style="s1" xml:id="subtitle36">-控制中心估计速度是100米/每小时  -该死<br />-Control estimates their descent at 100 meters an hour.  -Shit.</p>
+<p begin="3876450000t" end="3902540000t" region="bottomCenter" style="s1" xml:id="subtitle37">-现在挖了多深？  -大约2000米<br />-How deep are they?  -Almost 2000 meters.</p>
+<p begin="3902790000t" end="3935710000t" region="bottomCenter" style="s1" xml:id="subtitle38">-冥王号的观测结果如何？  -他们不可能是准的<br />-What about the scans from the Osiris?  -They can't be accurate.</p>
+<p begin="3939300000t" end="3961320000t" region="bottomCenter" style="s1" xml:id="subtitle39">-但也可能是对的  -这不可能<br />-They may be.  -It's not possible.</p>
+<p begin="3961570000t" end="3983980000t" region="bottomCenter" style="s1" xml:id="subtitle40">这就意味着有25万乌贼哨兵<br />That'd mean there are a quartermillion sentinels out there.</p>
+<p begin="3984230000t" end="4002350000t" region="bottomCenter" style="s1" xml:id="subtitle41">-没错  -那不可能<br />-That's right.  -That can't be.</p>
+<p begin="4002600000t" end="4018200000t" region="bottomCenter" style="s1" xml:id="subtitle42">为什么不可能？<br />Why not?</p>
+<p begin="4023260000t" end="4060860000t" region="bottomCenter" style="s1" xml:id="subtitle43">一只乌贼对付一个人类，锡安的男女老幼都算进去<br />A sentinel for every man, woman and child in Zion.</p>
+<p begin="4068200000t" end="4109150000t" region="bottomCenter" style="s1" xml:id="subtitle44">对我来说，那完全符合机器的思维逻辑<br />That sounds exactly like the thinking of a machine to me.</p>
+<p begin="4109400000t" end="4131000000t" region="bottomCenter" style="s1" xml:id="subtitle45">墨菲斯，你能来真是太好了<br />Morpheus, glad you could join us.</p>
+<p begin="4137230000t" end="4148170000t" region="bottomCenter" style="s1" xml:id="subtitle46">奈奥比<br />Niobe.</p>
+<p begin="4162750000t" end="4186110000t" region="bottomCenter" style="s1" xml:id="subtitle47">抱歉我来迟了<br />My apologies to all.</p>
+<p begin="4186360000t" end="4235140000t" region="bottomCenter" style="s1" xml:id="subtitle48">你们无疑也明白，要找到安全的广播位置越来越困难了<br />But as you are undoubtedly aware it's become increasingly difficult to locate a secure broadcast position.</p>
+<p begin="4235390000t" end="4261920000t" region="bottomCenter" style="s1" xml:id="subtitle49">-最好的位置都被乌贼占了  -它们把主管道都给挤满了<br />-Squiddies got our best spots.   -Main lines are crawling with them.</p>
+<p begin="4262170000t" end="4305250000t" region="bottomCenter" style="s1" xml:id="subtitle50">如果奈奥比是对的，72小时内它们的数量会超过25万<br />And if Niobe's right, in 72 hours there's gonna be a quartermillion more.</p>
+<p begin="4305500000t" end="4317600000t" region="bottomCenter" style="s1" xml:id="subtitle51">我们应该如何应对呢？<br />What are we gonna do about it?</p>
+<p begin="4317850000t" end="4343050000t" region="bottomCenter" style="s1" xml:id="subtitle52">我们按照洛克指挥官的命令去做……<br />We're gonna do what Commander Lock ordered us to do.</p>
+<p begin="4343300000t" end="4370170000t" region="bottomCenter" style="s1" xml:id="subtitle53">撤出广播信号的深度，返回锡安<br />We'll evacuate broadcast level and return to Zion.</p>
+<p begin="4370420000t" end="4421600000t" region="bottomCenter" style="s1" xml:id="subtitle54">指挥官有没有什么对策来抵御二十五万哨兵呢？<br />And does the commander have a plan for stopping 250,000 sentinels?</p>
+<p begin="4426390000t" end="4451870000t" region="bottomCenter" style="s1" xml:id="subtitle55">战略仍在制定中<br />A strategy is still being formulated.</p>
+<p begin="4455930000t" end="4471390000t" region="bottomCenter" style="s1" xml:id="subtitle56">相信如此<br />I'm sure it is.</p>
+<p begin="4499000000t" end="4549000000t" region="bottomCenter" style="s1" xml:id="subtitle57">（史密斯的车牌号是IS5416，对应圣经《以塞亚书》第54章16节 <i>Isaiah 54:16</i>：<br />"Behold, I have created the smith who blows the fire of coals, and produces a weapon for its purpose. I have also created the ravager to destroy;"<br />“看啊，是我造了扇旺炭火、<br />铸造合用兵器的铁匠(Smith)，<br />是我造了毁灭者”）</p>
+<p begin="4621760000t" end="4644730000t" region="bottomCenter" style="s1" xml:id="subtitle58">那你认为我们应该做什么，墨菲斯？<br />What do you think we should do,  Morpheus?</p>
+<p begin="4649430000t" end="4666750000t" region="bottomCenter" style="s1" xml:id="subtitle59">-我们本该听命行事……  -怎么了？<br />-We should proceed as ordered...  -What is it?</p>
+<p begin="4667000000t" end="4704540000t" region="bottomCenter" style="s1" xml:id="subtitle60">-不知道  -但是，我必须向你们中的一个请求帮助……<br />I don't know. ...however, I must ask one of you for help.</p>
+<p begin="4706410000t" end="4762540000t" region="bottomCenter" style="s1" xml:id="subtitle61">你们中有些人信我所信，有些人不信<br />Some of you believe as I believe, some of you do not.  But those of you that do...</p>
+<p begin="4762790000t" end="4790440000t" region="bottomCenter" style="s1" xml:id="subtitle62">但那些即使不信的人也得承认：我们已经到了抗争的最后关头<br />...know we are nearing the end of our struggle.</p>
+<p begin="4793130000t" end="4834600000t" region="bottomCenter" style="s1" xml:id="subtitle63">救世主预言很快就会应验  但在那之前……<br />The prophecy will be fulfilled soon. But before it can be...</p>
+<p begin="4839630000t" end="4861960000t" region="bottomCenter" style="s1" xml:id="subtitle64">必须求教先知<br />...the Oracle must be consulted.</p>
+<p begin="4899150000t" end="4945010000t" region="bottomCenter" style="s1" xml:id="subtitle65">（注意墙上的涂鸦<br />最简单的解读方式是，意指 圣经 旧约 诗篇 25:19：<br />“看啊，我的仇敌众多，他们都痛恨我”）</p>
+<p begin="4950730000t" end="4972610000t" region="bottomCenter" style="s1" xml:id="subtitle66">如果我们现在回去充电的话...<br />If we return and recharge now...</p>
+<p begin="4972860000t" end="5015640000t" region="bottomCenter" style="s1" xml:id="subtitle67">36小时内即可返回，远早于机器挖到这个深度<br />...we can be back in 36 hours, well before the machines reach this depth.</p>
+<p begin="5015890000t" end="5033420000t" region="bottomCenter" style="s1" xml:id="subtitle68">你知道自己是要求什么吗？<br />Do you understand what you're asking?</p>
+<p begin="5035220000t" end="5066450000t" region="bottomCenter" style="s1" xml:id="subtitle69">我是要求有一艘战舰留在这里<br />I am asking that one ship remain here in our place...</p>
+<p begin="5066700000t" end="5093250000t" region="bottomCenter" style="s1" xml:id="subtitle70">以备先知与我们取得联系<br />...just in case the Oracle should attempt to contact us.</p>
+<p begin="5093500000t" end="5126520000t" region="bottomCenter" style="s1" xml:id="subtitle71">放屁  你这是要我们当中的一艘船去抗命<br />Bullshit.  You're asking one of us to disobey a direct order.</p>
+<p begin="5126770000t" end="5172660000t" region="bottomCenter" style="s1" xml:id="subtitle72">没错，我是   不过大家都很清楚，我们中的大部分之所以来到这里……<br />That's right, I am.  But we well know that the reason most of us are here...</p>
+<p begin="5174850000t" end="5197870000t" region="bottomCenter" style="s1" xml:id="subtitle73">就是因为有叛逆倾向<br />...is because of our affinity for disobedience.</p>
+<p begin="5198130000t" end="5243240000t" region="bottomCenter" style="s1" xml:id="subtitle74">如果你回锡安后，指挥官把你投入监狱怎么办？<br />And what happens when you get to Zion and the commander throws you in the stockade?</p>
+<p begin="5247010000t" end="5258790000t" region="bottomCenter" style="s1" xml:id="subtitle75">他不会<br />He won't.</p>
+<p begin="5272740000t" end="5300680000t" region="bottomCenter" style="s1" xml:id="subtitle76">见鬼， 墨菲斯，你真是顽固不化<br />Goddamn it, Morpheus, you ain't never gonna change.</p>
+<p begin="5310830000t" end="5338130000t" region="bottomCenter" style="s1" xml:id="subtitle77">那好吧，我可以留下  我倒要看看你要怎么打破僵局<br />Shit, I'll do it just to see what Deadbolt does to you.</p>
+<p begin="5340320000t" end="5353330000t" region="bottomCenter" style="s1" xml:id="subtitle78">给你36个小时<br />You got 36 hours.</p>
+<p begin="5384750000t" end="5404050000t" region="bottomCenter" style="s1" xml:id="subtitle79">我找尼奥<br />I'm looking for Neo.</p>
+<p begin="5405780000t" end="5437780000t" region="bottomCenter" style="s1" xml:id="subtitle80">-没说听过这个人  -我有东西给他<br />Never heard of him. I have something for him.</p>
+<p begin="5448780000t" end="5467220000t" region="bottomCenter" style="s1" xml:id="subtitle81">一件礼物<br />A gift.</p>
+<p begin="5474660000t" end="5496530000t" region="bottomCenter" style="s1" xml:id="subtitle82">知道吗，是他让我自由了<br />You see, he set me free.</p>
+<p begin="5526300000t" end="5548690000t" region="bottomCenter" style="s1" xml:id="subtitle83">好吧，随你怎么说  现在滚吧<br />Fine, whatever.  Now piss off.</p>
+<p begin="5553960000t" end="5584260000t" region="bottomCenter" style="s1" xml:id="subtitle84">-什么人？  -你怎么知道有人找你的？<br />-Who was that?   -How did you know someone was here?</p>
+<p begin="5585690000t" end="5600090000t" region="bottomCenter" style="s1" xml:id="subtitle85">他要给你这个<br />He gave you this.</p>
+<p begin="5659470000t" end="5673770000t" region="bottomCenter" style="s1" xml:id="subtitle86">他说是你让他自由了<br />He said you set him free.</p>
+<p begin="5692760000t" end="5711950000t" region="bottomCenter" style="s1" xml:id="subtitle87">一切都还好吧，长官？<br />Is everything all right, sir?</p>
+<p begin="5723350000t" end="5747280000t" region="bottomCenter" style="s1" xml:id="subtitle88">会议结束了，回你们的船上去吧<br />The meeting is over.  Retreat to your exits.</p>
+<p begin="5747530000t" end="5764860000t" region="bottomCenter" style="s1" xml:id="subtitle89">-特工就要来了  -特工？<br />-Agents are coming.   -Agents?</p>
+<p begin="5773460000t" end="5786260000t" region="bottomCenter" style="s1" xml:id="subtitle90">快走<br />Go.</p>
+<p begin="5886650000t" end="5897060000t" region="bottomCenter" style="s1" xml:id="subtitle91">嗨，伙计们<br />Hiya, fellas.</p>
+<p begin="5897310000t" end="5909450000t" region="bottomCenter" style="s1" xml:id="subtitle92">就是他  那个变异<br />It's him.  The anomaly.</p>
+<p begin="5911100000t" end="5924650000t" region="bottomCenter" style="s1" xml:id="subtitle93">-还要继续吗？ -是的<br />-Do we proceed?  -Yes.</p>
+<p begin="5924900000t" end="5950230000t" region="bottomCenter" style="s1" xml:id="subtitle94">-他依然...  -只是人类<br />-He is still...  -Only human.</p>
+<p begin="6020920000t" end="6031130000t" region="bottomCenter" style="s1" xml:id="subtitle95">升级了<br />Upgrades.</p>
+<p begin="6585460000t" end="6609130000t" region="bottomCenter" style="s1" xml:id="subtitle96">-一切都按预期进行  -是的<br />-That went as expected.  -Yes.</p>
+<p begin="6612000000t" end="6638600000t" region="bottomCenter" style="s1" xml:id="subtitle97">跟以前发生的一模一样<br />It's happening exactly as before.</p>
+<p begin="6640750000t" end="6662850000t" region="bottomCenter" style="s1" xml:id="subtitle98">好吧，也不尽然<br />Well, not exactly.</p>
+<p begin="6700890000t" end="6725230000t" region="bottomCenter" style="s1" xml:id="subtitle99">-那儿发生了什么，林克？  -我搞不明白<br />-What happened at that, Link?   -I can't figure it out,sir.</p>
+<p begin="6725480000t" end="6744250000t" region="bottomCenter" style="s1" xml:id="subtitle100">突然凭空出现了特工<br />Agents just came out of nowhere.</p>
+<p begin="6744500000t" end="6774050000t" region="bottomCenter" style="s1" xml:id="subtitle101">接着代码全都变得怪异了  加密模式是我从没见过的<br />Then the code got all weird.  Encryption I've never seen.</p>
+<p begin="6774300000t" end="6806150000t" region="bottomCenter" style="s1" xml:id="subtitle102">-尼奥没事吧？  -没事 见鬼，你真该亲眼看看的<br />-Is Neo okay?   -Okay? Shit, you should've seen him.</p>
+<p begin="6806400000t" end="6820800000t" region="bottomCenter" style="s1" xml:id="subtitle103">他现在在哪儿？<br />Where is he now?</p>
+<p begin="6836150000t" end="6853460000t" region="bottomCenter" style="s1" xml:id="subtitle104">正在扮演超人呢<br />He's doing his Superman thing.</p>
+<p begin="7354100000t" end="7366760000t" region="bottomCenter" style="s1" xml:id="subtitle105">你去哪儿了？<br />Where are you?</p>
+<p begin="7413960000t" end="7449960000t" region="bottomCenter" style="s1" xml:id="subtitle106">尼布加尼撒号即将进站，请求使用通过三号入口<br />This is the Nebuchadnezzar on approach, requesting access through Gate Three.</p>
+<p begin="7492090000t" end="7534360000t" region="bottomCenter" style="s1" xml:id="subtitle107">尼布加尼撒号，这里是锡安控制台  保持当前航速，等候指令<br />Nebuchadnezzar, this is Zion Control.  Maintain present velocity and stand by.</p>
+<p begin="7537520000t" end="7552420000t" region="bottomCenter" style="s1" xml:id="subtitle108">收到<br />Roger that, Control.</p>
+<p begin="7552800000t" end="7588480000t" region="bottomCenter" style="s1" xml:id="subtitle109">这里是锡安基地控制台，请求立即解除三号入口的封锁<br />This is Control requesting immediate standdown of arms at Gate Three.</p>
+<p begin="7597560000t" end="7628660000t" region="bottomCenter" style="s1" xml:id="subtitle110">尼布加尼撒号准备进站  三号入口即将打开<br />We have the Nebuchadnezzar on approach.  Let's open her up.</p>
+<p begin="7685930000t" end="7714750000t" region="bottomCenter" style="s1" xml:id="subtitle111">尼布加尼撒号，准许你们由三号入口进入第七停机坪<br />Nebuchadnezzar, You are cleared through Gate Three to Bay Seven.</p>
+<p begin="7715000000t" end="7731000000t" region="bottomCenter" style="s1" xml:id="subtitle112">收到<br />Roger that, Control.</p>
+<p begin="7806230000t" end="7836100000t" region="bottomCenter" style="s1" xml:id="subtitle113">门已打开，床已铺好  欢迎回家<br />Door's open, bed's made. Welcome home.</p>
+<p begin="7843750000t" end="7860480000t" region="bottomCenter" style="s1" xml:id="subtitle114">回家真好<br />No place like it.</p>
+<p begin="8006390000t" end="8042730000t" region="bottomCenter" style="s1" xml:id="subtitle115">收到了  锡安控制台，准备关闭三号入口<br />Roger that, Control. Zion Control, stand by for Gate Three lockdown.</p>
+<p begin="8538760000t" end="8562660000t" region="bottomCenter" style="s1" xml:id="subtitle116">尼布加尼撒号已经降落  七号停机坪<br />The Nebuchadnezzar is down. Bay Seven.</p>
+<p begin="8564920000t" end="8574890000t" region="bottomCenter" style="s1" xml:id="subtitle117">明白<br />Understood.</p>
+<p begin="8676660000t" end="8690390000t" region="bottomCenter" style="s1" xml:id="subtitle118">米孚安舰长<br />Captain Mifune.</p>
+<p begin="8700660000t" end="8712210000t" region="bottomCenter" style="s1" xml:id="subtitle119">墨菲斯舰长<br />Captain Morpheus.</p>
+<p begin="8712460000t" end="8739930000t" region="bottomCenter" style="s1" xml:id="subtitle120">你是来押我去监狱的吗，舰长？<br />Are you here to escort me to the stockade, captain?</p>
+<p begin="8742220000t" end="8775410000t" region="bottomCenter" style="s1" xml:id="subtitle121">-我无意挑起争端  -洛克指挥官命令你……<br />-I'm just here to keep the peace.   -Commander Lock demands</p>
+<p begin="8789120000t" end="8820720000t" region="bottomCenter" style="s1" xml:id="subtitle122">要求你立刻去见他，长官！<br />Requests your immediate counsel, sir.</p>
+<p begin="8829830000t" end="8847630000t" region="bottomCenter" style="s1" xml:id="subtitle123">-林克  -长官？<br />-Link.  -Sir?</p>
+<p begin="8850100000t" end="8875960000t" region="bottomCenter" style="s1" xml:id="subtitle124">我要让战舰尽快做好启程准备<br />I want the ship ready to go as soon as possible.</p>
+<p begin="8876210000t" end="8891560000t" region="bottomCenter" style="s1" xml:id="subtitle125">明白，长官<br />Understood, sir.</p>
+<p begin="8965760000t" end="8988960000t" region="bottomCenter" style="s1" xml:id="subtitle126">他俩之间发生过什么吗？  墨菲斯和洛克？<br />What is it between them?  Morpheus and Lock?</p>
+<p begin="9000760000t" end="9022660000t" region="bottomCenter" style="s1" xml:id="subtitle127">-因为奈奥比  -奈奥比舰长？<br />-Niobe.  -Captain Niobe?</p>
+<p begin="9025370000t" end="9056640000t" region="bottomCenter" style="s1" xml:id="subtitle128">她过去和墨菲斯在一起，现在却和洛克好上了<br />She used to be with Morpheus.  Now she's with Lock.</p>
+<p begin="9068460000t" end="9085150000t" region="bottomCenter" style="s1" xml:id="subtitle129">出了什么事？<br />What happened?</p>
+<p begin="9085400000t" end="9119600000t" region="bottomCenter" style="s1" xml:id="subtitle130">墨菲斯见过先知后，一切都变了<br />Morpheus went to the Oracle. After that, everything changed.</p>
+<p begin="9123990000t" end="9147490000t" region="bottomCenter" style="s1" xml:id="subtitle131">好吧，她是做得到<br />Yeah, she can do that.</p>
+<p begin="9151090000t" end="9161870000t" region="bottomCenter" style="s1" xml:id="subtitle132">尼奥<br />Neo!</p>
+<p begin="9172810000t" end="9201310000t" region="bottomCenter" style="s1" xml:id="subtitle133">-哦，不是吧   -他怎么每次都知道？<br />-Oh, no.   -How does he always know?</p>
+<p begin="9203540000t" end="9222530000t" region="bottomCenter" style="s1" xml:id="subtitle134">他就没别的事情可做吗？<br />Doesn't he have anything better to do?</p>
+<p begin="9224970000t" end="9250450000t" region="bottomCenter" style="s1" xml:id="subtitle135">谁叫你救了他一命呢<br />You know what they say about the life you save.</p>
+<p begin="9255140000t" end="9268170000t" region="bottomCenter" style="s1" xml:id="subtitle136">不是我救了他<br />I didn't save his life.</p>
+<p begin="9268270000t" end="9292940000t" region="bottomCenter" style="s1" xml:id="subtitle137">（the Kid 是《黑客帝国动画版》<i>The Animatrix</i> 中,《少年故事》主角<br />他跟尼奥联系后被特工追捕，走投无路之下选择跳楼自杀，结果竟然在真实世界里醒来<br />所以算是自己救了自己）</p>
+<p begin="9292940000t" end="9305200000t" region="bottomCenter" style="s1" xml:id="subtitle138">你好，尼奥<br />Hiya, Neo.</p>
+<p begin="9317690000t" end="9339850000t" region="bottomCenter" style="s1" xml:id="subtitle139">崔妮蒂  林克<br />Trinity, Link.  Hey.</p>
+<p begin="9345330000t" end="9383060000t" region="bottomCenter" style="s1" xml:id="subtitle140">-你能回来真是太好了  -谢谢  回来真好<br />-It's great to have you back.  -Thanks.  It's good to be back.</p>
+<p begin="9385880000t" end="9409810000t" region="bottomCenter" style="s1" xml:id="subtitle141">-我来帮你拿好吗？  -不，我自己背得动<br />-Can I carry that for you?  -No, I can carry my own bag.</p>
+<p begin="9414550000t" end="9429750000t" region="bottomCenter" style="s1" xml:id="subtitle142">-崔妮蒂？  -我能行<br />-Trinity?   -I'm fine.</p>
+<p begin="9440360000t" end="9468960000t" region="bottomCenter" style="s1" xml:id="subtitle143">-那你帮忙拿这些吧   -好的，当然可以，林克<br />-You can carry these.   -Yeah, sure, Link.</p>
+<p begin="9519000000t" end="9565000000t" region="bottomCenter" style="s1" xml:id="subtitle144">你知道的，明年我就够年龄成为舰员了，对吧？<br />Hey, you know, next year I'm old enough to join a crew, right?</p>
+<p begin="9565460000t" end="9593880000t" region="bottomCenter" style="s1" xml:id="subtitle145">对此我已经想了很久，我已经决定……<br />I've been thinking about it, and I've made my decision.</p>
+<p begin="9594130000t" end="9607410000t" region="bottomCenter" style="s1" xml:id="subtitle146">我猜……<br />Let me guess.</p>
+<p begin="9614660000t" end="9634390000t" region="bottomCenter" style="s1" xml:id="subtitle147">我要加入尼布加尼撒号<br />I want to join the Nebuchadnezzar.</p>
+<p begin="9643000000t" end="9678600000t" region="bottomCenter" style="s1" xml:id="subtitle148">我知道墨菲斯还没找到舰员来填补其他岗位   除了你那个，林克<br />I know Morpheus hasn't filled the other crew position, except for you, Link.</p>
+<p begin="9679600000t" end="9693890000t" region="bottomCenter" style="s1" xml:id="subtitle149">当然，他有自己的考量……<br />I'm sure he has reasons...</p>
+<p begin="9694140000t" end="9725610000t" region="bottomCenter" style="s1" xml:id="subtitle150">不过我越想就越觉得，这应该就是天意<br />...but the more I think about it, the more I think it's meant to be.</p>
+<p begin="9730850000t" end="9748750000t" region="bottomCenter" style="s1" xml:id="subtitle151">你知道的，命中注定<br />You know, it's fate.</p>
+<p begin="9749060000t" end="9789920000t" region="bottomCenter" style="s1" xml:id="subtitle152">-我能来这儿全是因为你，尼奥  -我告诉过你，孩子，是你主动找到了我，不是我去找你<br />You're the reason I'm here, Neo.   -I told you, kid, you found me.  I didn't find you.</p>
+<p begin="9791030000t" end="9817160000t" region="bottomCenter" style="s1" xml:id="subtitle153">但毕竟是你把我解救出来的   你救了我<br />I know, but you got me out.  You saved me.</p>
+<p begin="9828700000t" end="9843830000t" region="bottomCenter" style="s1" xml:id="subtitle154">是你自己救了自己<br />You saved yourself.</p>
+<p begin="10008750000t" end="10036210000t" region="bottomCenter" style="s1" xml:id="subtitle155">-墨菲斯  -洛克指挥官<br />-Morpheus.  -Commander Lock.</p>
+<p begin="10045450000t" end="10088960000t" region="bottomCenter" style="s1" xml:id="subtitle156">我其他舰长谈过了  我想给你个机会好好解释解<br />I spoke to the other captains. I wanted to offer you a chance to explain your actions.</p>
+<p begin="10090620000t" end="10119630000t" region="bottomCenter" style="s1" xml:id="subtitle157">我不认为我的所作所为需要任何解释<br />I wasn't aware that my actions required any explanation.</p>
+<p begin="10119880000t" end="10144810000t" region="bottomCenter" style="s1" xml:id="subtitle158">我下达了直接命令让你们返回锡安<br />You were given a direct order to return to Zion.</p>
+<p begin="10145060000t" end="10173550000t" region="bottomCenter" style="s1" xml:id="subtitle159">-我返回了  -可你让一艘战舰留在原地<br />-I did.  -But you asked for one ship to remain behind.</p>
+<p begin="10173800000t" end="10200170000t" region="bottomCenter" style="s1" xml:id="subtitle160">本该是我留下，但是我的战舰需要充电<br />I would have stayed, but I needed to recharge my ship.</p>
+<p begin="10203770000t" end="10232920000t" region="bottomCenter" style="s1" xml:id="subtitle161">所以你是承认自己公然违抗命令<br />So you admit to a direct contravention of your duty.</p>
+<p begin="10233170000t" end="10266390000t" region="bottomCenter" style="s1" xml:id="subtitle162">可是指挥官，我们需要有人留在矩阵里以备先知的联络<br />Commander, we need a presence inside the Matrix to await contact from the Oracle.</p>
+<p begin="10266640000t" end="10287950000t" region="bottomCenter" style="s1" xml:id="subtitle163">我不想听那些鬼话！<br />I don't want to hear that shit!</p>
+<p begin="10289310000t" end="10314900000t" region="bottomCenter" style="s1" xml:id="subtitle164">我才不在乎什么先知、预言或是救世主！<br />I don't care about oracles or prophecies or messiahs!</p>
+<p begin="10315150000t" end="10350800000t" region="bottomCenter" style="s1" xml:id="subtitle165">我只关心一事，那就是要阻止敌人毁灭这座城<br />I care about one thing: Stopping that army from destroying this city.</p>
+<p begin="10351050000t" end="10380590000t" region="bottomCenter" style="s1" xml:id="subtitle166">要做到这一点，所有士兵都必须服从我的命令<br />To do that I need soldiers to obey my orders.</p>
+<p begin="10384070000t" end="10428300000t" region="bottomCenter" style="s1" xml:id="subtitle167">无意冒犯，指挥官，只有一种办法可以拯救我们的城市<br />With all due respect, commander, there is only one way to save our city.</p>
+<p begin="10430830000t" end="10441770000t" region="bottomCenter" style="s1" xml:id="subtitle168">是什么？<br />How?</p>
+<p begin="10447970000t" end="10475980000t" region="bottomCenter" style="s1" xml:id="subtitle169">-尼奥  -见鬼去吧，墨菲斯！<br />-Neo.  -Goddamn it, Morpheus！</p>
+<p begin="10476230000t" end="10501700000t" region="bottomCenter" style="s1" xml:id="subtitle170">不是人人都信你所信<br />Not everyone believes what you believe.</p>
+<p begin="10503500000t" end="10524100000t" region="bottomCenter" style="s1" xml:id="subtitle171">我所相信的，无需他人同信<br />My beliefs do not require them to.</p>
+<p begin="10606300000t" end="10646650000t" region="bottomCenter" style="s1" xml:id="subtitle172">今晚有个集会  大家可以畅所欲言，很多人吓坏了<br />There's a gathering tonight.  Everyone's talking.  A lot of people are scared.</p>
+<p begin="10646900000t" end="10675390000t" region="bottomCenter" style="s1" xml:id="subtitle173">这么多战舰集结的情形已经多年未见了<br />No one remembers the last time so many ships were docked.</p>
+<p begin="10675640000t" end="10706640000t" region="bottomCenter" style="s1" xml:id="subtitle174">-一定有什么事情要发生，对吗？一件大事  -嘿<br />-Something is happening, isn't it, Something big?   -Hey.</p>
+<p begin="10709040000t" end="10735460000t" region="bottomCenter" style="s1" xml:id="subtitle175">不是什么事都可以告诉你，所以别再问了<br />We're not allowed to say anything, so stop asking.</p>
+<p begin="10793370000t" end="10817160000t" region="bottomCenter" style="s1" xml:id="subtitle176">老天呐，回家的感觉真好<br />Goddamn, it's good to be home.</p>
+<p begin="10954000000t" end="10985010000t" region="bottomCenter" style="s1" xml:id="subtitle177">我将向议会提议解除你的职务<br />I'm recommending the council that you be removed from duty.</p>
+<p begin="10985260000t" end="11008300000t" region="bottomCenter" style="s1" xml:id="subtitle178">那当然是你的特权，指挥官<br />That is, of course, your prerogative, commander.</p>
+<p begin="11010000000t" end="11048690000t" region="bottomCenter" style="s1" xml:id="subtitle179">如果有权决定的是我，舰长，你今后再也别想踏上战舰一步！<br />If it were up to me, captain, you wouldn't set foot on a ship for the rest of your life.</p>
+<p begin="11048940000t" end="11083300000t" region="bottomCenter" style="s1" xml:id="subtitle180">那我得庆幸：你并没有决定权<br />Then I am grateful that it is not up to you.</p>
+<p begin="11143390000t" end="11166660000t" region="bottomCenter" style="s1" xml:id="subtitle181">-哈曼议员  -指挥官<br />-Councillor Hamann.  -Commander.</p>
+<p begin="11173820000t" end="11197550000t" region="bottomCenter" style="s1" xml:id="subtitle182">-舰长  -议员<br />-Captain.  -Councillor.</p>
+<p begin="11205490000t" end="11237440000t" region="bottomCenter" style="s1" xml:id="subtitle183">议会要求我，在今晚的神庙集会上演讲<br />Council's asked me to speak tonight at the temple gathering.</p>
+<p begin="11239300000t" end="11278100000t" region="bottomCenter" style="s1" xml:id="subtitle184">舰队的集结和持续的流言必须予以解释<br />The presence of the fleet and the persistence of rumors must be addressed.</p>
+<p begin="11281950000t" end="11305200000t" region="bottomCenter" style="s1" xml:id="subtitle185">人民必须被告知发生了什么<br />The people must be told what is happening.</p>
+<p begin="11308670000t" end="11322520000t" region="bottomCenter" style="s1" xml:id="subtitle186">当然要解释的，议员<br />Of course, councillor.</p>
+<p begin="11333290000t" end="11385050000t" region="bottomCenter" style="s1" xml:id="subtitle187">不过请允许我提议，对某些具体细节作斟酌处理<br />But might I advise a level of discretion concerning specific details.</p>
+<p begin="11387280000t" end="11415560000t" region="bottomCenter" style="s1" xml:id="subtitle188">-我们不希望引起过度恐慌   -说的很对<br />-We do not wish to start a panic.  -Quite right.</p>
+<p begin="11418620000t" end="11446460000t" region="bottomCenter" style="s1" xml:id="subtitle189">恐慌不是人人都想要的<br />A panic is not what anyone wants.</p>
+<p begin="11451990000t" end="11487770000t" region="bottomCenter" style="s1" xml:id="subtitle190">你呢，舰长？ 有什么建议吗？<br />What about you, captain?  What would you advise?</p>
+<p begin="11509380000t" end="11554730000t" region="bottomCenter" style="s1" xml:id="subtitle191">必须告知真相  没人会对真相恐慌，因为我们没有什么好怕的<br />The truth.  No one will panic, because there is nothing to fear.</p>
+<p begin="11554980000t" end="11579510000t" region="bottomCenter" style="s1" xml:id="subtitle192">敌人将永远无法踏进锡安的大门<br />That army will never reach the gates of Zion.</p>
+<p begin="11586290000t" end="11622650000t" region="bottomCenter" style="s1" xml:id="subtitle193">-你何以如此确定呢？  -就以我们的亲眼所见，议员<br />What makes you so sure? Consider what we have seen, councillor.</p>
+<p begin="11624640000t" end="11666810000t" region="bottomCenter" style="s1" xml:id="subtitle194">就凭过去六个月，我们解放了比过去六年还多的意识<br />Consider that in the past six months, we have freed more minds than in six years.</p>
+<p begin="11667060000t" end="11695800000t" region="bottomCenter" style="s1" xml:id="subtitle195">这次进攻是孤注一掷之举<br />This attack is an act of desperation.</p>
+<p begin="11698000000t" end="11735030000t" region="bottomCenter" style="s1" xml:id="subtitle196">我相信，预言不久就会应验，战争很快就将结束<br />I believe very soon the prophecy will be fulfilled and this war will end.</p>
+<p begin="11756300000t" end="11776000000t" region="bottomCenter" style="s1" xml:id="subtitle197">希望你是对的，舰长<br />I hope you're right, captain.</p>
+<p begin="11780320000t" end="11804930000t" region="bottomCenter" style="s1" xml:id="subtitle198">我相信它并非某种“愿景”，议员<br />I do not believe it to be a matter of hope, councillor.</p>
+<p begin="11807360000t" end="11832180000t" region="bottomCenter" style="s1" xml:id="subtitle199">它只是，尚未发生的事实<br />It is simply a matter of time.</p>
+<p begin="11855380000t" end="11869550000t" region="bottomCenter" style="s1" xml:id="subtitle200">我到了<br />My stop.</p>
+<p begin="11871910000t" end="11885550000t" region="bottomCenter" style="s1" xml:id="subtitle201">回头见<br />See you soon.</p>
+<p begin="11887050000t" end="11901450000t" region="bottomCenter" style="s1" xml:id="subtitle202">希望不要太快<br />Hopefully not too soon.</p>
+<p begin="11902160000t" end="11931250000t" region="bottomCenter" style="s1" xml:id="subtitle203">走吧，孩子，他们俩还有事情要做<br />Let's go, kid. These two got things to do.</p>
+<p begin="12030440000t" end="12045480000t" region="bottomCenter" style="s1" xml:id="subtitle204">你跟我想的一样吗？<br />Are you thinking what I'm thinking?</p>
+<p begin="12045730000t" end="12071200000t" region="bottomCenter" style="s1" xml:id="subtitle205">如果你也觉得刚才太他妈漫长，那我们想的一样<br />I am if you're thinking this elevator is too damns long.</p>
+<p begin="12071450000t" end="12104310000t" region="bottomCenter" style="s1" xml:id="subtitle206">-战舰需要充多久的电？ -24到30个小时<br />-How long do we charge the Neb? -Twentyfour, maybe 30 hours.</p>
+<p begin="12109660000t" end="12150000000t" region="bottomCenter" style="s1" xml:id="subtitle207">真是我这辈子听过的最好的消息<br />Some people go their entire lives without hearing news that good.</p>
+<p begin="12396250000t" end="12440580000t" region="bottomCenter" style="s1" xml:id="subtitle208">尼奥，求你了  我儿子雅各在gnosis号上<br />（希腊语 gnosis 意为 knowledge）<br />Neo, please, I have a son, Jacob, aboard the Gnosis.</p>
+<p begin="12440830000t" end="12473310000t" region="bottomCenter" style="s1" xml:id="subtitle209">-求你多多关照他  -我会尽力的<br />-Please, watch over him.  -I'll try.</p>
+<p begin="12473560000t" end="12505940000t" region="bottomCenter" style="s1" xml:id="subtitle210">我女儿在lcarus号上<br />（lcarus 即伊卡洛斯，希腊神话中的悲剧人物<br />代达罗斯与伊卡洛斯父子使用蜡质羽翼逃离克里特岛时，伊卡洛斯飞的太靠近太阳，最终落水而亡<br />悲伤的代达罗斯飞回家乡后，将自己那对蜡翼悬挂在阿波罗神殿里，从此不再飞翔）<br />I have a daughter on the lcarus.</p>
+<p begin="12506190000t" end="12517700000t" region="bottomCenter" style="s1" xml:id="subtitle211">不，别走<br />No, wait.</p>
+<p begin="12521890000t" end="12546340000t" region="bottomCenter" style="s1" xml:id="subtitle212">没关系，他们需要你<br />It's all right. They need you.</p>
+<p begin="12547390000t" end="12568830000t" region="bottomCenter" style="s1" xml:id="subtitle213">-可我需要你  -我知道<br />-I need you.  -I know.</p>
+<p begin="12575720000t" end="12592150000t" region="bottomCenter" style="s1" xml:id="subtitle214">我们还有时间<br />There's time.</p>
+<p begin="12648830000t" end="12668230000t" region="bottomCenter" style="s1" xml:id="subtitle215">我的小猫咪在哪里？<br />Where's my puss?</p>
+<p begin="12670200000t" end="12695110000t" region="bottomCenter" style="s1" xml:id="subtitle216">林克叔叔<br />Hey!  Uncle Link!</p>
+<p begin="12695430000t" end="12710970000t" region="bottomCenter" style="s1" xml:id="subtitle217">天呐<br />God!</p>
+<p begin="12715310000t" end="12730710000t" region="bottomCenter" style="s1" xml:id="subtitle218">林克叔叔<br />Uncle Link!</p>
+<p begin="12736570000t" end="12772790000t" region="bottomCenter" style="s1" xml:id="subtitle219">我的老天，都长这么大了<br />Oh, my God!  You're so huge!</p>
+<p begin="12773130000t" end="12795410000t" region="bottomCenter" style="s1" xml:id="subtitle220">-应该是你们来抱我的！  -不要！<br />-You should be picking me up!   -No!</p>
+<p begin="12795660000t" end="12811850000t" region="bottomCenter" style="s1" xml:id="subtitle221">-好不好？ -好吧<br />-Yeah!  -Okay!</p>
+<p begin="12812100000t" end="12829000000t" region="bottomCenter" style="s1" xml:id="subtitle222">好了吗？ 那行啊<br />Okay?  All right.</p>
+<p begin="12831470000t" end="12862330000t" region="bottomCenter" style="s1" xml:id="subtitle223">让我们一起使劲，好不好？<br />Now, we're gonna have to work together here, okay?</p>
+<p begin="12863530000t" end="12886250000t" region="bottomCenter" style="s1" xml:id="subtitle224">一、二、三，起！<br />One, two, three, lift!</p>
+<p begin="12886500000t" end="12919340000t" region="bottomCenter" style="s1" xml:id="subtitle225">老天，你给他们吃什么了？<br />Oh, my God!  What are you feeding these two?</p>
+<p begin="12923760000t" end="12947600000t" region="bottomCenter" style="s1" xml:id="subtitle226">好了，孩子们，该睡觉了<br />Come on, kids.  It's time to go.</p>
+<p begin="12965420000t" end="12979120000t" region="bottomCenter" style="s1" xml:id="subtitle227">-嗨，凯丝  -嗨<br />-Hey, Cas.  -Hey.</p>
+<p begin="12983900000t" end="13009200000t" region="bottomCenter" style="s1" xml:id="subtitle228">-真高兴你回家，林克  -回家真好<br />-Good to have you home, Link.   -Good to be home.</p>
+<p begin="13011400000t" end="13026670000t" region="bottomCenter" style="s1" xml:id="subtitle229">你对她可要小心点儿<br />You be careful with her.</p>
+<p begin="13026920000t" end="13055510000t" region="bottomCenter" style="s1" xml:id="subtitle230">别担心我了，该担心的是他<br />Don't worry about me.  He's the one that's gonna get it.</p>
+<p begin="13077930000t" end="13101720000t" region="bottomCenter" style="s1" xml:id="subtitle231">该出门了，你们两个，咱们走吧<br />Out the door!  Both of you, march!</p>
+<p begin="13103090000t" end="13119690000t" region="bottomCenter" style="s1" xml:id="subtitle232">拜拜<br />Bye! Bye!</p>
+<p begin="13188230000t" end="13203530000t" region="bottomCenter" style="s1" xml:id="subtitle233">我该怎么着？<br />I'm gonna get what?</p>
+<p begin="13217430000t" end="13258470000t" region="bottomCenter" style="s1" xml:id="subtitle234">其他战舰回家的次数是尼布加尼撒号的两到三倍<br />Every ship up there's been home two, even three times more than the Nebuchadnezzar.</p>
+<p begin="13258720000t" end="13298930000t" region="bottomCenter" style="s1" xml:id="subtitle235">好啦，姬伊  我们不是不谈这个了吗<br />Come on, Zee.  I thought we were past this.</p>
+<p begin="13299180000t" end="13334040000t" region="bottomCenter" style="s1" xml:id="subtitle236">-只有等你换了战舰，我们才能不谈这个  -我不能这么做<br />-We will get pass this when you start operating another ship.<br />-I can't do that.</p>
+<p begin="13334290000t" end="13350050000t" region="bottomCenter" style="s1" xml:id="subtitle237">-为什么？  -你是知道的<br />-Why?   -You know why.</p>
+<p begin="13352690000t" end="13383800000t" region="bottomCenter" style="s1" xml:id="subtitle238">要是多泽知道我的感受，当初就不会让你这么做了<br />If Dozer knew how I felt, he wouldn't have asked you to do this.</p>
+<p begin="13389700000t" end="13412960000t" region="bottomCenter" style="s1" xml:id="subtitle239">可能吧，不过太迟了<br />Maybe. But it's too late now.</p>
+<p begin="13416730000t" end="13444150000t" region="bottomCenter" style="s1" xml:id="subtitle240">我做过承诺，有些承诺是不可以违背的<br />I made a promise, and some promises can't be unmade.</p>
+<p begin="13444400000t" end="13470890000t" region="bottomCenter" style="s1" xml:id="subtitle241">-这不公平  -没人说过这世上很公平<br />-It's not fair.  -Nobody said it was gonna be.</p>
+<p begin="13474960000t" end="13506490000t" region="bottomCenter" style="s1" xml:id="subtitle242">你觉得我回来了可多泽走了，对凯丝来说公平吗？<br />You think Cas thinks it's fair that I'm here and Dozer's not?</p>
+<p begin="13562460000t" end="13592200000t" region="bottomCenter" style="s1" xml:id="subtitle243">我在那艘船上失去了两个兄弟，林克<br />I lost two brothers to that ship, Link.</p>
+<p begin="13609960000t" end="13627660000t" region="bottomCenter" style="s1" xml:id="subtitle244">我好害怕<br />I'm afraid of it.</p>
+<p begin="13644560000t" end="13664890000t" region="bottomCenter" style="s1" xml:id="subtitle245">害怕你也被它害死<br />I'm afraid it's gonna take you too.</p>
+<p begin="13678650000t" end="13695750000t" region="bottomCenter" style="s1" xml:id="subtitle246">不会的<br />It won't.</p>
+<p begin="13697450000t" end="13716200000t" region="bottomCenter" style="s1" xml:id="subtitle247">你怎么敢说不会？<br />How can you say that to me?</p>
+<p begin="13716450000t" end="13731650000t" region="bottomCenter" style="s1" xml:id="subtitle248">是因为墨菲斯<br />Because of Morpheus.</p>
+<p begin="13741460000t" end="13786270000t" region="bottomCenter" style="s1" xml:id="subtitle249">他对我说过，这就是最后一战，而且很快就会结束<br />Because of what he's told me.  He said that this is it, that it will be over soon.</p>
+<p begin="13786520000t" end="13823070000t" region="bottomCenter" style="s1" xml:id="subtitle250">-林克，墨菲斯就是疯了  -一点不假<br />-Link, Morpheus is crazy.   -No doubt.</p>
+<p begin="13833550000t" end="13861600000t" region="bottomCenter" style="s1" xml:id="subtitle251">可是坦克和多泽都相信他  我来告诉你为什么……<br />But Tank and Dozer believed him.  And I'll tell you what...</p>
+<p begin="13864530000t" end="13917910000t" region="bottomCenter" style="s1" xml:id="subtitle252">我上了那条战舰以后，看到了尼奥的所作所为<br />...after being on that ship and seeing Neo do the things he can do, I gotta say...</p>
+<p begin="13922590000t" end="13942650000t" region="bottomCenter" style="s1" xml:id="subtitle253">我得说：我也开始相信他了<br />...I'm starting to believe him too.</p>
+<p begin="13995390000t" end="14015400000t" region="bottomCenter" style="s1" xml:id="subtitle254">注意安全，林克<br />Be careful, Link.</p>
+<p begin="14072930000t" end="14091190000t" region="bottomCenter" style="s1" xml:id="subtitle255">你一定得注意安全<br />Please be careful.</p>
+<p begin="14186240000t" end="14219580000t" region="bottomCenter" style="s1" xml:id="subtitle256">-已经开始了吗？  -哈曼议员才刚开始祷告呢<br />-They started yet?  -Only Councillor Hamann's opening prayer.</p>
+<p begin="14219830000t" end="14253670000t" region="bottomCenter" style="s1" xml:id="subtitle257">今晚，让荣光归于所有男人和女人<br />Tonight, let us honor these men and women.</p>
+<p begin="14255400000t" end="14280670000t" region="bottomCenter" style="s1" xml:id="subtitle258">士兵和勇士<br />These are our soldiers, our warriors.</p>
+<p begin="14283000000t" end="14323280000t" region="bottomCenter" style="s1" xml:id="subtitle259">丈夫和妻子，兄弟和姐妹<br />These are our husbands and wives, our brothers and sisters...</p>
+<p begin="14326590000t" end="14342480000t" region="bottomCenter" style="s1" xml:id="subtitle260">以及我们的孩子们<br />...our children.</p>
+<p begin="14348330000t" end="14378500000t" region="bottomCenter" style="s1" xml:id="subtitle261">让我们永远铭记那些牺牲者<br />Let us remember those that have been lost...</p>
+<p begin="14382900000t" end="14415970000t" region="bottomCenter" style="s1" xml:id="subtitle262">也感谢那些觉醒者<br />...and let us give thanks for those that have been found...</p>
+<p begin="14416220000t" end="14446560000t" region="bottomCenter" style="s1" xml:id="subtitle263">那些和我们站在了一起的人们<br />...and who stand here beside us.</p>
+<p begin="14452960000t" end="14485690000t" region="bottomCenter" style="s1" xml:id="subtitle264">下面，我想有请另一个人替我完成这次祷告<br />Now I would like someone else to close this prayer...</p>
+<p begin="14490010000t" end="14521230000t" region="bottomCenter" style="s1" xml:id="subtitle265">他已经很久没有在这里发言了……<br />...someone who hasn't spoken here in a long time...</p>
+<p begin="14522560000t" end="14574030000t" region="bottomCenter" style="s1" xml:id="subtitle266">但我相信，他所要讲的将是值得一听的<br />...but who I believe has something to say that we all need to hear.</p>
+<p begin="14587890000t" end="14602910000t" region="bottomCenter" style="s1" xml:id="subtitle267">下面欢迎墨菲斯<br />I give you Morpheus.</p>
+<p begin="14799760000t" end="14838630000t" region="bottomCenter" style="s1" xml:id="subtitle268">锡安的子民们！ 听我说！<br />Zion!  Hear me!</p>
+<p begin="14849630000t" end="14882030000t" region="bottomCenter" style="s1" xml:id="subtitle269">你们中的很多人听说的正是事实<br />It is true what many of you have heard.</p>
+<p begin="14883530000t" end="14922950000t" region="bottomCenter" style="s1" xml:id="subtitle270">机器的军队已经集结，就在我说话的时候……<br />The machines have gathered an army, and as I speak...</p>
+<p begin="14924600000t" end="14960570000t" region="bottomCenter" style="s1" xml:id="subtitle271">那支大军还在向我们的家园掘进<br />...that army is drawing nearer to our home.</p>
+<p begin="14979290000t" end="15027450000t" region="bottomCenter" style="s1" xml:id="subtitle272">相信我，我们将面临一段艰难时期<br />Believe me when I say we have a difficult time ahead of us.</p>
+<p begin="15030660000t" end="15094300000t" region="bottomCenter" style="s1" xml:id="subtitle273">但是，如果我们要为此做好准备，首先要做的必须是放下恐惧！<br />But if we are to be prepared for it, we must first shed our fear of it.</p>
+<p begin="15097600000t" end="15146900000t" region="bottomCenter" style="s1" xml:id="subtitle274">我现在站在你们面前，没有丝毫的恐惧<br />I stand here before you now truthfully unafraid.</p>
+<p begin="15152400000t" end="15168470000t" region="bottomCenter" style="s1" xml:id="subtitle275">为什么？<br />Why?</p>
+<p begin="15174760000t" end="15202760000t" region="bottomCenter" style="s1" xml:id="subtitle276">是因为我相信某些你们不信的事吗？<br />Because I believe something you do not?</p>
+<p begin="15206120000t" end="15219470000t" region="bottomCenter" style="s1" xml:id="subtitle277">不！<br />No!</p>
+<p begin="15225200000t" end="15275270000t" region="bottomCenter" style="s1" xml:id="subtitle278">我毫无恐惧地站在这里是因为我记得<br />I stand here without fear because I remember.</p>
+<p begin="15276870000t" end="15317050000t" region="bottomCenter" style="s1" xml:id="subtitle279">我记得，我还能站在这里不是因为未来的事物……<br />I remember that I am here not because of the path that lies before me...</p>
+<p begin="15317300000t" end="15348930000t" region="bottomCenter" style="s1" xml:id="subtitle280">而是因为过去的历史！<br />...but because of the path that lies behind me.</p>
+<p begin="15354860000t" end="15399150000t" region="bottomCenter" style="s1" xml:id="subtitle281">我记得，一百年多年来，我们一直在和机器战斗<br />I remember that for 100 years we have fought these machines.</p>
+<p begin="15402680000t" end="15453930000t" region="bottomCenter" style="s1" xml:id="subtitle282">我记得，一百多年来，它们不断地派兵毁灭我们<br />I remember that for 100 years they have sent their armies to destroy us.</p>
+<p begin="15454180000t" end="15514970000t" region="bottomCenter" style="s1" xml:id="subtitle283">经过一个世纪的战争，我记得，最重要是的：<br />And after a century of war, I remember that which matters most:</p>
+<p begin="15520460000t" end="15548670000t" region="bottomCenter" style="s1" xml:id="subtitle284">我们仍然在此挺立！<br />We are still here!</p>
+<p begin="15617630000t" end="15637560000t" region="bottomCenter" style="s1" xml:id="subtitle285">今晚……<br />Tonight...</p>
+<p begin="15637810000t" end="15673200000t" region="bottomCenter" style="s1" xml:id="subtitle286">让我们把这样一条讯息告诉我们的敌人<br />...Let us send a message to that army.</p>
+<p begin="15675120000t" end="15704030000t" region="bottomCenter" style="s1" xml:id="subtitle287">今晚，我们要让这个洞窟倾覆<br />Tonight, let us shake this cave.</p>
+<p begin="15707760000t" end="15781260000t" region="bottomCenter" style="s1" xml:id="subtitle288">今晚，我们要让世间万物颤抖<br />Tonight, let us tremble these halls of earth, steel and stone.</p>
+<p begin="15781510000t" end="15833650000t" region="bottomCenter" style="s1" xml:id="subtitle289">让我们的声音响彻全球<br />Let us be heard from red core to black sky.</p>
+<p begin="15833900000t" end="15880100000t" region="bottomCenter" style="s1" xml:id="subtitle290">今晚，我们要让敌人明白：<br />Tonight, let us make them remember:</p>
+<p begin="15883270000t" end="15930100000t" region="bottomCenter" style="s1" xml:id="subtitle291">这里是锡安！我们无所畏惧！<br />This is Zion and we are not afraid!</p>
+<p begin="16165460000t" end="16183660000t" region="bottomCenter" style="s1" xml:id="subtitle292">我记得一些事<br />I remember.</p>
+<p begin="16193500000t" end="16215730000t" region="bottomCenter" style="s1" xml:id="subtitle293">我记得你过去经常跳舞<br />I remember you used to dance.</p>
+<p begin="16234700000t" end="16264450000t" region="bottomCenter" style="s1" xml:id="subtitle294">我记得你跳得，非常好<br />I remember you were, pretty good.</p>
+<p begin="16274510000t" end="16310400000t" region="bottomCenter" style="s1" xml:id="subtitle295">在这个世上有一些事情，奈奥比舰长……<br />There are some things in this world, Captain Niobe...</p>
+<p begin="16314600000t" end="16342600000t" region="bottomCenter" style="s1" xml:id="subtitle296">永远不会改变<br />...that will never change.</p>
+<p begin="16358320000t" end="16371700000t" region="bottomCenter" style="s1" xml:id="subtitle297">奈奥比！<br />Niobe!</p>
+<p begin="16423760000t" end="16441000000t" region="bottomCenter" style="s1" xml:id="subtitle298">还有一些确实会变<br />Some things do change.</p>
+<p begin="16634430000t" end="16649100000t" region="bottomCenter" style="s1" xml:id="subtitle299">失陪了<br />Excuse me.</p>
+<p begin="16770410000t" end="16799560000t" region="bottomCenter" style="s1" xml:id="subtitle300">-我想你  -我知道<br />-I missed you.  -I can tell.</p>
+<p begin="16809600000t" end="16846600000t" region="bottomCenter" style="s1" xml:id="subtitle301">我在想，这里人太多了<br />I was thinking, everyone is here.</p>
+<p begin="16853760000t" end="16868660000t" region="bottomCenter" style="s1" xml:id="subtitle302">跟我来吧<br />Follow me.</p>
+<p begin="18884130000t" end="18917860000t" region="bottomCenter" style="s1" xml:id="subtitle303">尼奥，怎么了？<br />Neo, what is it?</p>
+<p begin="18924160000t" end="18945880000t" region="bottomCenter" style="s1" xml:id="subtitle304">有什么不对吗？<br />What's wrong?</p>
+<p begin="18962430000t" end="18983210000t" region="bottomCenter" style="s1" xml:id="subtitle305">没关系的，请告诉我<br />It's okay, you can tell me.</p>
+<p begin="18989430000t" end="19013020000t" region="bottomCenter" style="s1" xml:id="subtitle306">崔妮蒂……<br />Trinity....</p>
+<p begin="19016060000t" end="19042100000t" region="bottomCenter" style="s1" xml:id="subtitle307">不要害怕<br />Don't be afraid.</p>
+<p begin="19045630000t" end="19066900000t" region="bottomCenter" style="s1" xml:id="subtitle308">我不能失去你<br />I can't lose you.</p>
+<p begin="19070930000t" end="19089090000t" region="bottomCenter" style="s1" xml:id="subtitle309">你不会失去我的<br />You're not gonna lose me.</p>
+<p begin="19131120000t" end="19155780000t" region="bottomCenter" style="s1" xml:id="subtitle310">你感觉到了吗？<br />You feel this?</p>
+<p begin="19162110000t" end="19178100000t" region="bottomCenter" style="s1" xml:id="subtitle311">我永远不会放手的<br />I'm never letting go.</p>
+<p begin="19551390000t" end="19576060000t" region="bottomCenter" style="s1" xml:id="subtitle312">晚安，锡安<br />Good night, Zion.</p>
+<p begin="19579030000t" end="19605630000t" region="bottomCenter" style="s1" xml:id="subtitle313">做个好梦<br />Sweet dreams.</p>
+<p begin="19708290000t" end="19723310000t" region="bottomCenter" style="s1" xml:id="subtitle314">-你还好吧？  -我没事的<br />-You all right?   -I'll make it.</p>
+<p begin="19723560000t" end="19751560000t" region="bottomCenter" style="s1" xml:id="subtitle315">看到那特工了吗？ 我从没见过那种样子<br />Did you see that agent?  I've never seen anything like that.</p>
+<p begin="19751810000t" end="19775260000t" region="bottomCenter" style="s1" xml:id="subtitle316">别管他了  重要的是这个<br />It doesn't matter.  All that matters is this.</p>
+<p begin="19775510000t" end="19787210000t" region="bottomCenter" style="s1" xml:id="subtitle317">你先来<br />You first.</p>
+<p begin="19908970000t" end="19936900000t" region="bottomCenter" style="s1" xml:id="subtitle318">-哦，上帝  -叫“史密斯”就好<br />-Oh, God.  -"Smith" will suffice.</p>
+<p begin="20057230000t" end="20085030000t" region="bottomCenter" style="s1" xml:id="subtitle319">-谢谢  -不必客气<br />-Thank you.  -My pleasure.</p>
+<p begin="20589660000t" end="20620330000t" region="bottomCenter" style="s1" xml:id="subtitle320">-不介意有人陪你吧？ -哈曼议员<br />-Care for some company?   -Councillor Hamann.</p>
+<p begin="20631490000t" end="20659800000t" region="bottomCenter" style="s1" xml:id="subtitle321">如果你想一个人呆着，我不勉强<br />I don't want to intrude if you'd prefer to be alone.</p>
+<p begin="20662900000t" end="20697760000t" region="bottomCenter" style="s1" xml:id="subtitle322">不会的，我大概正需要有人陪着   -那就好<br />-No, I could probably use some company.   -Good.</p>
+<p begin="20703320000t" end="20716750000t" region="bottomCenter" style="s1" xml:id="subtitle323">我也是<br />So could l.</p>
+<p begin="20759350000t" end="20783060000t" region="bottomCenter" style="s1" xml:id="subtitle324">今晚夜色真美<br />It's nice tonight.</p>
+<p begin="20788630000t" end="20808520000t" region="bottomCenter" style="s1" xml:id="subtitle325">非常平静<br />Very calm.</p>
+<p begin="20814660000t" end="20840910000t" region="bottomCenter" style="s1" xml:id="subtitle326">似乎所有人都已经安然入睡了<br />It feels like everyone is sleeping very peacefully.</p>
+<p begin="20845820000t" end="20868650000t" region="bottomCenter" style="s1" xml:id="subtitle327">并非所有人<br />Not everyone.</p>
+<p begin="20874350000t" end="20920110000t" region="bottomCenter" style="s1" xml:id="subtitle328">我讨厌睡觉，我每天只睡几个小时<br />I hate sleeping.  I never sleep more than a few hours.</p>
+<p begin="20922760000t" end="20962360000t" region="bottomCenter" style="s1" xml:id="subtitle329">我想是因为，我这辈子的前11年里都在沉睡，现在要用醒着作为补偿<br />I figure I slept the first 11 years of my life, now I'm making up for it.</p>
+<p begin="20967660000t" end="21017060000t" region="bottomCenter" style="s1" xml:id="subtitle330">-你呢？  -我从来就睡不好<br />-What about you?   -I just haven't been able to sleep much.</p>
+<p begin="21029550000t" end="21061450000t" region="bottomCenter" style="s1" xml:id="subtitle331">-这是个好迹象  -说明什么？<br />-It's a good sign.   -Of what?</p>
+<p begin="21062360000t" end="21094170000t" region="bottomCenter" style="s1" xml:id="subtitle332">表明你实际上，仍属于人类<br />That you are in fact, still human.</p>
+<p begin="21130650000t" end="21167920000t" region="bottomCenter" style="s1" xml:id="subtitle333">你去过下面的基础设施层吗？<br />Have you ever been to the engineering level?</p>
+<p begin="21169800000t" end="21199730000t" region="bottomCenter" style="s1" xml:id="subtitle334">我喜欢晚上到那儿去  真是令人震撼<br />I love to walk there at night.  It's quite amazing.</p>
+<p begin="21202760000t" end="21226990000t" region="bottomCenter" style="s1" xml:id="subtitle335">-想去看看吗？  -当然<br />-Would you like to see it?   -Sure.</p>
+<p begin="21335700000t" end="21377830000t" region="bottomCenter" style="s1" xml:id="subtitle336">平时几乎没人来这儿  当然，除非是出了问题<br />Almost no one comes down here.  Unless, of course, there's a problem.</p>
+<p begin="21382150000t" end="21430480000t" region="bottomCenter" style="s1" xml:id="subtitle337">人们就是如此  只要它能正常运转，没人会关心它到底是如何运作的<br />That's how it is with people. Nobody cares how it works as long as it works.</p>
+<p begin="21434750000t" end="21452770000t" region="bottomCenter" style="s1" xml:id="subtitle338">我喜欢这下面的一切<br />I like it down here.</p>
+<p begin="21459820000t" end="21511040000t" region="bottomCenter" style="s1" xml:id="subtitle339">我总喜欢提醒自己，正是这些机器让这个城市得以维系<br />I like to be reminded this city survives because of these machines.</p>
+<p begin="21519030000t" end="21566500000t" region="bottomCenter" style="s1" xml:id="subtitle340">这些机器保障了我们的生存，然而另外一些却要毁灭我们<br />These machines are keeping us alive while other machines are coming to kill us.</p>
+<p begin="21575000000t" end="21621010000t" region="bottomCenter" style="s1" xml:id="subtitle341">很有意思，不是吗？ 给养生命的能力……<br />Interesting, isn't it?  The power to give life...</p>
+<p begin="21624790000t" end="21654450000t" region="bottomCenter" style="s1" xml:id="subtitle342">-也可以毁灭生命   -我们也有同样的能力<br />-...and the power to end it.   -We have the same power.</p>
+<p begin="21657720000t" end="21681720000t" region="bottomCenter" style="s1" xml:id="subtitle343">是啊，我们是有这个能力，不过……<br />Yeah, I suppose we do, but...</p>
+<p begin="21684520000t" end="21722620000t" region="bottomCenter" style="s1" xml:id="subtitle344">在这下面，有时候，我会想到那些仍然被插头接在矩阵里人们……<br />...down here sometimes I think about those people still plugged into the Matrix.</p>
+<p begin="21722870000t" end="21751600000t" region="bottomCenter" style="s1" xml:id="subtitle345">然后当我看到这些机器……<br />And when I look at these machines...</p>
+<p begin="21755050000t" end="21808680000t" region="bottomCenter" style="s1" xml:id="subtitle346">不禁想到，从某种意义上，我们也被接在了上面，完全要依赖它们维生<br />...I can't help thinking that, in a way, we are plugged into them.</p>
+<p begin="21808930000t" end="21837530000t" region="bottomCenter" style="s1" xml:id="subtitle347">但是，是我们在控制这些机器，而不是它们去控制我们<br />But we control these machines, they don't control us.</p>
+<p begin="21842120000t" end="21870660000t" region="bottomCenter" style="s1" xml:id="subtitle348">当然不是了，它们怎么会呢？<br />Of course not.   How could they?</p>
+<p begin="21873470000t" end="21897990000t" region="bottomCenter" style="s1" xml:id="subtitle349">这完全没道理  但是……<br />The idea is pure nonsense. But...</p>
+<p begin="21903650000t" end="21934950000t" region="bottomCenter" style="s1" xml:id="subtitle350">但是它确实会引人深思...<br />...but it does make one wonder just...</p>
+<p begin="21935920000t" end="21952060000t" region="bottomCenter" style="s1" xml:id="subtitle351">到底什么是控制？<br />...what is control?</p>
+<p begin="21954990000t" end="21982250000t" region="bottomCenter" style="s1" xml:id="subtitle352">只要我们想要，就可以把这些机器关掉<br />If we wanted, we could shut these machines down.</p>
+<p begin="21989230000t" end="22036200000t" region="bottomCenter" style="s1" xml:id="subtitle353">呵呵  当然  你说到点子上了  这就是你认为的“控制”，对吧？<br />Of course.  That's it.  You hit it.  That's control, isn't it?</p>
+<p begin="22040290000t" end="22073790000t" region="bottomCenter" style="s1" xml:id="subtitle354">只要我们乐意，就尽可以把它们捣成碎片……<br />If we wanted, we could smash them to bits.</p>
+<p begin="22075790000t" end="22117830000t" region="bottomCenter" style="s1" xml:id="subtitle355">只是这么做了之后，我们就不得不面临停电……<br />Although if we did, we'd have to consider what would happen to our lights...</p>
+<p begin="22118760000t" end="22148310000t" region="bottomCenter" style="s1" xml:id="subtitle356">没有暖气，没法呼吸<br />...our heat, our air.</p>
+<p begin="22154800000t" end="22196490000t" region="bottomCenter" style="s1" xml:id="subtitle357">所以我们和机器是相互依存的关系  这就是你的论点吗，议员？<br />So we need machines and they need us.  Is that your point, councillor?</p>
+<p begin="22198790000t" end="22222490000t" region="bottomCenter" style="s1" xml:id="subtitle358">不！称不上论点<br />No.  No point.</p>
+<p begin="22233190000t" end="22275160000t" region="bottomCenter" style="s1" xml:id="subtitle359">像我这样的老古董，哪里会费心提出什么论点  这谈不上论点<br />Old men like me don't bother with making points.  There's no point.</p>
+<p begin="22281620000t" end="22313850000t" region="bottomCenter" style="s1" xml:id="subtitle360">这就是议会里没有年轻人的原因吗？<br />Is that why there are no young men on the Council?</p>
+<p begin="22321130000t" end="22337470000t" region="bottomCenter" style="s1" xml:id="subtitle361">是个好观点<br />Good point.</p>
+<p begin="22344620000t" end="22369560000t" region="bottomCenter" style="s1" xml:id="subtitle362">你为何不直接把心里话告诉我呢，议员<br />Why don't you tell me what's on your mind, councillor.</p>
+<p begin="22388150000t" end="22412950000t" region="bottomCenter" style="s1" xml:id="subtitle363">这世上有太多……<br />There is so much in this world...</p>
+<p begin="22421230000t" end="22449250000t" region="bottomCenter" style="s1" xml:id="subtitle364">我还未能理解的事物<br />...that I do not understand.</p>
+<p begin="22469930000t" end="22516300000t" region="bottomCenter" style="s1" xml:id="subtitle365">看到那边的机器了吗？ 它是用作供水循环的<br />See that machine?  It has something to do with recycling our water supply.</p>
+<p begin="22516550000t" end="22547470000t" region="bottomCenter" style="s1" xml:id="subtitle366">我全然不能理解它的工作原理<br />I have absolutely no idea how it works.</p>
+<p begin="22549670000t" end="22584950000t" region="bottomCenter" style="s1" xml:id="subtitle367">但我能理解要让它工作的原因<br />But I do understand the reason for it to work.</p>
+<p begin="22606620000t" end="22648900000t" region="bottomCenter" style="s1" xml:id="subtitle368">我也全然不清楚你是怎么办到那些事情的<br />I have absolutely no idea how you are able to do some of the things you do.</p>
+<p begin="22663090000t" end="22694060000t" region="bottomCenter" style="s1" xml:id="subtitle369">但我同样相信，其中自有原因<br />But I believe there's a reason for that as well.</p>
+<p begin="22703190000t" end="22753720000t" region="bottomCenter" style="s1" xml:id="subtitle370">我只希望我们能找到原因，在一切都为时已晚之前<br />I only hope we understand that reason before it's too late.</p>
+<p begin="22819700000t" end="22835900000t" region="bottomCenter" style="s1" xml:id="subtitle371">-巴勒德   -尼奥在吗？<br />-Ballard.   -ls he here?</p>
+<p begin="22860960000t" end="22886560000t" region="bottomCenter" style="s1" xml:id="subtitle372">尼奥，这是先知给的<br />Neo, it's from the Oracle.</p>
+<p begin="22915690000t" end="22931870000t" region="bottomCenter" style="s1" xml:id="subtitle373">该动身了<br />It's time to go.</p>
+<p begin="22942580000t" end="22967480000t" region="bottomCenter" style="s1" xml:id="subtitle374">墨菲斯说这是注定会发生的<br />Morpheus said this was how it was gonna happen.</p>
+<p begin="22968590000t" end="23015730000t" region="bottomCenter" style="s1" xml:id="subtitle375">我不知道  预言也许是真的，也许不是<br />I don't know.  Maybe the prophecy's true, maybe it's not.</p>
+<p begin="23019090000t" end="23053260000t" region="bottomCenter" style="s1" xml:id="subtitle376">我只知道，那艘战舰需要接线员<br />All I know is, that ship needs an operator.</p>
+<p begin="23065900000t" end="23083470000t" region="bottomCenter" style="s1" xml:id="subtitle377">而现在，我就是那个接线员<br />Right now, that operator's me.</p>
+<p begin="23090890000t" end="23104740000t" region="bottomCenter" style="s1" xml:id="subtitle378">我知道<br />I know.</p>
+<p begin="23161550000t" end="23178550000t" region="bottomCenter" style="s1" xml:id="subtitle379">-姬伊……  -我要你戴上这个<br />-Zee....   -I want you to wear it.</p>
+<p begin="23180330000t" end="23209900000t" region="bottomCenter" style="s1" xml:id="subtitle380">-你知道我是不信这个的   -但是我信<br />-You know I don't believe in this stuff.   -But I do.</p>
+<p begin="23213830000t" end="23236600000t" region="bottomCenter" style="s1" xml:id="subtitle381">它总能给我带来好运<br />It's always brought me luck.</p>
+<p begin="23245950000t" end="23284140000t" region="bottomCenter" style="s1" xml:id="subtitle382">-也许也能带给你   -我会平安回来的<br />-Maybe it'll bring me you.   -I'm coming back.</p>
+<p begin="23288120000t" end="23332190000t" region="bottomCenter" style="s1" xml:id="subtitle383">我保证  不管付出什么代价，我都会回家的<br />I promise.  No matter what it takes, I'm coming home.</p>
+<p begin="23340360000t" end="23370420000t" region="bottomCenter" style="s1" xml:id="subtitle384">你要一直戴在身上  求你了<br />Just keep it with you.  Please.</p>
+<p begin="23377260000t" end="23391710000t" region="bottomCenter" style="s1" xml:id="subtitle385">为了我<br />For me.</p>
+<p begin="23422930000t" end="23438510000t" region="bottomCenter" style="s1" xml:id="subtitle386">好吧<br />Okay.</p>
+<p begin="23641560000t" end="23663160000t" region="bottomCenter" style="s1" xml:id="subtitle387">-尼奥！   -搞什么...<br />-Neo!   -How the hell?</p>
+<p begin="23667180000t" end="23679560000t" region="bottomCenter" style="s1" xml:id="subtitle388">贝恩？<br />Bane.</p>
+<p begin="23689300000t" end="23702600000t" region="bottomCenter" style="s1" xml:id="subtitle389">出什么事了？<br />Is something wrong?</p>
+<p begin="23704300000t" end="23721300000t" region="bottomCenter" style="s1" xml:id="subtitle390">没事，我很好<br />No, I'm fine.</p>
+<p begin="23725250000t" end="23749510000t" region="bottomCenter" style="s1" xml:id="subtitle391">我只是想来对你说……<br />I just wanted to catch you to say...</p>
+<p begin="23753250000t" end="23770700000t" region="bottomCenter" style="s1" xml:id="subtitle392">祝好运<br />...good luck.</p>
+<p begin="23789150000t" end="23804420000t" region="bottomCenter" style="s1" xml:id="subtitle393">谢谢<br />Thanks.</p>
+<p begin="23807600000t" end="23831500000t" region="bottomCenter" style="s1" xml:id="subtitle394">后会有期<br />We'll see you.</p>
+<p begin="23847500000t" end="23878550000t" region="bottomCenter" style="s1" xml:id="subtitle395">尼奥！赶上你了<br />Neo!  Just in time.</p>
+<p begin="23880560000t" end="23902690000t" region="bottomCenter" style="s1" xml:id="subtitle396">-你要去见先知，对吗？ -我们没时间了<br />You're gonna see the Oracle, don't you?   -We don't left time.</p>
+<p begin="23902940000t" end="23922960000t" region="bottomCenter" style="s1" xml:id="subtitle397">抱歉，长官   我只是有件东西必须交给尼奥<br />I'm sorry, sir.  I just had to give something to Neo.</p>
+<p begin="23928310000t" end="23952620000t" region="bottomCenter" style="s1" xml:id="subtitle398">是来自一个孤儿的礼物<br />A gift from one of the orphans.</p>
+<p begin="23957160000t" end="23983430000t" region="bottomCenter" style="s1" xml:id="subtitle399">他要我发誓会在你离开前交给你<br />He made me swear to get it to you before you left.</p>
+<p begin="24000290000t" end="24018980000t" region="bottomCenter" style="s1" xml:id="subtitle400">他说你会明白的<br />He said you'd understand.</p>
+<p begin="24051020000t" end="24062620000t" region="bottomCenter" style="s1" xml:id="subtitle401">多谢<br />Thanks.</p>
+<p begin="24144580000t" end="24172850000t" region="bottomCenter" style="s1" xml:id="subtitle402">刚刚我才被告知，你已经批准尼布加尼撒号起飞了<br />I was just told you cleared the Nebuchadnezzar for takeoff.</p>
+<p begin="24174600000t" end="24191380000t" region="bottomCenter" style="s1" xml:id="subtitle403">完全正确<br />That is correct.</p>
+<p begin="24196130000t" end="24230430000t" region="bottomCenter" style="s1" xml:id="subtitle404">-议员，我还仍然负责我们的防御系统吗？  -当然<br />Councillor, am I still in charge of our defense system? Of course.</p>
+<p begin="24237390000t" end="24279900000t" region="bottomCenter" style="s1" xml:id="subtitle405">我相信，我需要动用每一艘战舰，才能让我们在这次进攻中幸存<br />I believe I need every ship we have if we're going to survive this attack.</p>
+<p begin="24284220000t" end="24302770000t" region="bottomCenter" style="s1" xml:id="subtitle406">我理解，指挥官<br />I understand that, commander.</p>
+<p begin="24303020000t" end="24330170000t" region="bottomCenter" style="s1" xml:id="subtitle407">那为什么你要允许尼布加尼撒号离开？<br />Then why did you allow the Nebuchadnezzar to leave?</p>
+<p begin="24330420000t" end="24381130000t" region="bottomCenter" style="s1" xml:id="subtitle408">（Hamann 一名可能取自德国哲学家 Johann Georg Hamann<br />他坚信信仰和信念超越了知识，并决定了人类行为<br />正好对应此处，哈曼议员授权了墨菲斯的行动）<br />因为我相信，我们的存亡并不仅仅取决于战舰的数量<br />Because I believe our survival depends on more than how many ships we have.</p>
+<p begin="24408390000t" end="24425990000t" region="bottomCenter" style="s1" xml:id="subtitle409">注意安全<br />Be careful.</p>
+<p begin="24721620000t" end="24731290000t" region="bottomCenter" style="s1" xml:id="subtitle410">你好<br />Hello.</p>
+<p begin="24790410000t" end="24841010000t" region="bottomCenter" style="s1" xml:id="subtitle411">有的人认为金色代码象征着精神层面<br />也有人认为象征来自机器世界的程序（或机器的自我意识）<br />金色代码至今出现过三次：分别是，塞拉夫是金色，尼奥猜到他是来自机器世界的程序；<br />Matrix 3中，失明的尼奥“看到”了史密斯的原本形象，还看到机械城完全由金色代码组成（他自己的腿根本不是代码）。机械城作为机器世界的核心，相当于信息枢纽、电脑主机；<br />Matrix 4中，终于觉醒的崔尼蒂（也是第七代the one），眼中的矩阵都变成了金色代码。这既可能是分析师基于人类心理重新设计了矩阵，所以新矩阵从绿色变成金色；也可能是复活的崔尼蒂已是半人半程序</p>
+<p begin="24846630000t" end="24874160000t" region="bottomCenter" style="s1" xml:id="subtitle412">-你在寻找先知  -你是谁？<br />-You seek the Oracle.   -Who are you?</p>
+<p begin="24912120000t" end="24958740000t" region="bottomCenter" style="s1" xml:id="subtitle413">我是塞拉夫  我能带你去见她，不过首先我必须为这个道歉……<br />I am Seraph.  I can take you to her, but first I must apologize.</p>
+<p begin="24960260000t" end="24972160000t" region="bottomCenter" style="s1" xml:id="subtitle414">为什么致歉？<br />Apologize for what?</p>
+<p begin="24972260000t" end="24984740000t" region="bottomCenter" style="s1" xml:id="subtitle415">（Seraph，取自旧约中的“六翼天使”，即等级最高的天使，“炽天使”，是上帝的守护者<br />在程序世界中，塞拉夫相当于“挑战握手验证协议”<i>Challenge-Handshake Authentication Protocol</i>， 会通过三次握手校验对端的身份，所以他会“坚信不打不相识”）</p>
+<p begin="24984990000t" end="24999330000t" region="bottomCenter" style="s1" xml:id="subtitle416">（Seraph，取自旧约中的“六翼天使”，即等级最高的天使，“炽天使”，是上帝的守护者<br />在程序世界中，塞拉夫相当于“挑战握手验证协议”<i>Challenge-Handshake Authentication Protocol</i>， 会通过三次握手校验对端的身份，所以他会“坚信不打不相识”）<br />为这个<br />Apologize for this.</p>
+<p begin="24999580000t" end="25040180000t" region="bottomCenter" style="s1" xml:id="subtitle417">（Seraph，取自旧约中的“六翼天使”，即等级最高的天使，“炽天使”，是上帝的守护者<br />在程序世界中，塞拉夫相当于“挑战握手验证协议”<i>Challenge-Handshake Authentication Protocol</i>， 会通过三次握手校验对端的身份，所以他会“坚信不打不相识”）</p>
+<p begin="25574570000t" end="25587030000t" region="bottomCenter" style="s1" xml:id="subtitle418">很好<br />Good.</p>
+<p begin="25623300000t" end="25654480000t" region="bottomCenter" style="s1" xml:id="subtitle419">先知有很多敌人，我必须确认<br />The Oracle has many enemies.  I had to be sure.</p>
+<p begin="25656090000t" end="25676960000t" region="bottomCenter" style="s1" xml:id="subtitle420">-确认什么？  -你就是救世主<br />-Of what?   -That you are the One.</p>
+<p begin="25682750000t" end="25721530000t" region="bottomCenter" style="s1" xml:id="subtitle421">-你本可以直接问我  -不！我素来信奉……<br />-You could have just asked.   -No. You do not truly know someone...</p>
+<p begin="25721780000t" end="25741300000t" region="bottomCenter" style="s1" xml:id="subtitle422">不打不相识<br />...until you fight them.</p>
+<p begin="25750050000t" end="25773780000t" region="bottomCenter" style="s1" xml:id="subtitle423">来吧，她在等你<br />Come.  She's waiting.</p>
+<p begin="25935290000t" end="25949560000t" region="bottomCenter" style="s1" xml:id="subtitle424">他们到底去哪儿了？<br />Where the hell did they go?</p>
+<p begin="25958360000t" end="25983030000t" region="bottomCenter" style="s1" xml:id="subtitle425">这些是程序的后门，对吗？<br />These are back doors, aren't they?</p>
+<p begin="25986690000t" end="26006400000t" region="bottomCenter" style="s1" xml:id="subtitle426">需要程序员的权限<br />Programmer access.</p>
+<p begin="26026400000t" end="26063700000t" region="bottomCenter" style="s1" xml:id="subtitle427">-它们是怎么工作的？  -每一个门把手都暗含了代码<br />-How do they work?   -A code is hidden in tumblers.</p>
+<p begin="26065730000t" end="26115630000t" region="bottomCenter" style="s1" xml:id="subtitle428">从一个地点开启一把锁，就可以开启这里的一扇门<br />One position opens a lock and another position opens one of these doors.</p>
+<p begin="26133720000t" end="26155490000t" region="bottomCenter" style="s1" xml:id="subtitle429">你是程序员吗？<br />Are you a programmer?</p>
+<p begin="26162200000t" end="26178350000t" region="bottomCenter" style="s1" xml:id="subtitle430">那你是干什么的？<br />Then what are you?</p>
+<p begin="26207560000t" end="26234560000t" region="bottomCenter" style="s1" xml:id="subtitle431">我负责保护最重要的东西<br />I protect that which matters most.</p>
+<p begin="26438360000t" end="26471420000t" region="bottomCenter" style="s1" xml:id="subtitle432">好了，过来吧，我不会吃了你的<br />Well, come on.  I ain't gonna bite you.</p>
+<p begin="26475630000t" end="26503630000t" region="bottomCenter" style="s1" xml:id="subtitle433">到这边来，让我好好看看你<br />Come around here and let me have a look at you.</p>
+<p begin="26537060000t" end="26560760000t" region="bottomCenter" style="s1" xml:id="subtitle434">我的天，瞧瞧你<br />My goodness, look at you.</p>
+<p begin="26563350000t" end="26585920000t" region="bottomCenter" style="s1" xml:id="subtitle435">你看起来可真帅，不是吗？<br />You turned out all right, didn't you?</p>
+<p begin="26592590000t" end="26607250000t" region="bottomCenter" style="s1" xml:id="subtitle436">-你感觉如何啊？   -我……<br />-How do you feel?   -l……</p>
+<p begin="26611350000t" end="26646580000t" region="bottomCenter" style="s1" xml:id="subtitle437">-我……   -我知道你辗转难眠，我们就快谈到这个了<br />-I...   -I know you're not sleeping. We'll get to that.</p>
+<p begin="26654760000t" end="26679440000t" region="bottomCenter" style="s1" xml:id="subtitle438">这次你为什么不坐到我身边来呢<br />Why don't you come and have a sit this time.</p>
+<p begin="26688720000t" end="26729450000t" region="bottomCenter" style="s1" xml:id="subtitle439">-也许我就想站着吧   -随你便<br />-Maybe I'll stand.   -Well, suit yourself.</p>
+<p begin="26842100000t" end="26867400000t" region="bottomCenter" style="s1" xml:id="subtitle440">-我又想坐下了  -我知道<br />-I felt like sitting.   -I know.</p>
+<p begin="26877200000t" end="26890290000t" region="bottomCenter" style="s1" xml:id="subtitle441">那么...<br />So...</p>
+<p begin="26919200000t" end="26943400000t" region="bottomCenter" style="s1" xml:id="subtitle442">让我们从最显而易见的东西谈起吧<br />...Let's get the obvious stuff out of the way.</p>
+<p begin="26946150000t" end="26990350000t" region="bottomCenter" style="s1" xml:id="subtitle443">-你不属于人类，对吧？  -没有什么比这个更明显了<br />-You're not human, are you?   -It's tough to get more obvious than that.</p>
+<p begin="26992800000t" end="27046190000t" region="bottomCenter" style="s1" xml:id="subtitle444">要我猜，你是来自机器世界的一个程序<br />If I had to guess, I'd say you're a program from the machine world.</p>
+<p begin="27054060000t" end="27092670000t" region="bottomCenter" style="s1" xml:id="subtitle445">-他也是   -到目前，都是对的<br />-So is he.   -So far, so good.</p>
+<p begin="27098250000t" end="27127860000t" region="bottomCenter" style="s1" xml:id="subtitle446">但如果是真的，那意味着你也是这个系统的一部分<br />But if that's true, that could mean you're part of this system...</p>
+<p begin="27130890000t" end="27157550000t" region="bottomCenter" style="s1" xml:id="subtitle447">是另一种“控制”<br />...another kind of control.</p>
+<p begin="27159250000t" end="27198050000t" region="bottomCenter" style="s1" xml:id="subtitle448">-说下去   -我想最显而易见的问题是……<br />-Keep going.   -I suppose the most obvious question is...</p>
+<p begin="27205830000t" end="27237060000t" region="bottomCenter" style="s1" xml:id="subtitle449">-我怎么能够信任你呢？  -说的正是<br />-...how can I trust you?   -Bingo.</p>
+<p begin="27255350000t" end="27287950000t" region="bottomCenter" style="s1" xml:id="subtitle450">不用说这是一个两难选择  坏消息是……<br />It is a pickle, no doubt about it.  Bad news is...</p>
+<p begin="27288200000t" end="27324900000t" region="bottomCenter" style="s1" xml:id="subtitle451">你无法真的弄清楚：我是不是来帮助你的<br />...there's no way you can really know if I'm here to help you or not.</p>
+<p begin="27327390000t" end="27364830000t" region="bottomCenter" style="s1" xml:id="subtitle452">这完全取决于你  你心里不得不做出选择……<br />So it's really up to you.  Just have to make up your own damn mind...</p>
+<p begin="27365080000t" end="27401340000t" region="bottomCenter" style="s1" xml:id="subtitle453">要么相信我接下来告诉你的话，要么就完全拒绝<br />...to either accept what I'm going to tell you or reject it.</p>
+<p begin="27425970000t" end="27438590000t" region="bottomCenter" style="s1" xml:id="subtitle454">吃糖吗？<br />Candy?</p>
+<p begin="27475490000t" end="27518850000t" region="bottomCenter" style="s1" xml:id="subtitle455">-你是否已经知道了我会不会吃？  -如果不知道我就不是先知了<br />-Do you already know if I'll take it? -Wouldn't be much of an oracle if I didn't.</p>
+<p begin="27519570000t" end="27553540000t" region="bottomCenter" style="s1" xml:id="subtitle456">但如果你已经知道了，我的“选择”是怎么体现的呢？<br />But if you already know, how can I make a choice?</p>
+<p begin="27554190000t" end="27592320000t" region="bottomCenter" style="s1" xml:id="subtitle457">因为你来这儿并不是为了“做出选择”  你已经“做了选择”<br />Because you didn't come here to make the choice.  You've already made it.</p>
+<p begin="27596260000t" end="27629690000t" region="bottomCenter" style="s1" xml:id="subtitle458">你到这儿是想要理解：为什么你做出了那样的选择<br />You're here to try to understand why you made it.</p>
+<p begin="27698730000t" end="27727360000t" region="bottomCenter" style="s1" xml:id="subtitle459">我原以为你到现在已经想明白了呢<br />I thought you'd have figured that out by now.</p>
+<p begin="27745530000t" end="27771530000t" region="bottomCenter" style="s1" xml:id="subtitle460">-你为什么来这儿？  -和你一样<br />-Why are you here?   -Same reason.</p>
+<p begin="27773850000t" end="27801670000t" region="bottomCenter" style="s1" xml:id="subtitle461">（红色糖果和红药丸外观几乎相同，先知是暗示自己同情并愿意帮助觉醒者）<br />我喜欢吃糖<br />I love candy.</p>
+<p begin="27802850000t" end="27822090000t" region="bottomCenter" style="s1" xml:id="subtitle462">你为什么要帮我们？<br />But why help us?</p>
+<p begin="27833200000t" end="27867470000t" region="bottomCenter" style="s1" xml:id="subtitle463">我们来这儿都是为了去做 我们该在这儿做的事<br />We're all here to do what we're all here to do.</p>
+<p begin="27873980000t" end="27904580000t" region="bottomCenter" style="s1" xml:id="subtitle464">我只关心一件事，尼奥，那就是未来<br />I'm interested in one thing, Neo, the future.</p>
+<p begin="27906230000t" end="27946510000t" region="bottomCenter" style="s1" xml:id="subtitle465">请相信我，到达未来的唯一途径就是我们携手共进<br />And believe me, I know, the only way to get there is together.</p>
+<p begin="27956780000t" end="28000030000t" region="bottomCenter" style="s1" xml:id="subtitle466">-还有和你一样的程序吗？ -不，不会有的<br />-Are there other programs like you?   -Well, not like me, but....</p>
+<p begin="28006760000t" end="28033460000t" region="bottomCenter" style="s1" xml:id="subtitle467">看到那些鸟了吗？<br />Look.  See those birds?</p>
+<p begin="28036550000t" end="28068820000t" region="bottomCenter" style="s1" xml:id="subtitle468">在某些点上，需要编写程序去控制它们<br />At some point, a program was written to govern them.</p>
+<p begin="28071160000t" end="28131260000t" region="bottomCenter" style="s1" xml:id="subtitle469">还有程序要控制风吹树动，日升日落<br />A program was written to watch over the trees and the wind, the sunrise and sunset.</p>
+<p begin="28131510000t" end="28158190000t" region="bottomCenter" style="s1" xml:id="subtitle470">这里面的一切都要靠程序来控制<br />There are programs running all over the place.</p>
+<p begin="28163250000t" end="28209270000t" region="bottomCenter" style="s1" xml:id="subtitle471">那些各司其职、忠于职守的程序是不可见的<br />The ones doing their job, doing what they were meant to do, are invisible.</p>
+<p begin="28209520000t" end="28244140000t" region="bottomCenter" style="s1" xml:id="subtitle472">你甚至永远不会感知到他们的存在  但有一些程序……<br />You'd never even know they were here. But the other ones....</p>
+<p begin="28249850000t" end="28290750000t" region="bottomCenter" style="s1" xml:id="subtitle473">你倒是一直听说过<br />Well, you hear about them all the time.</p>
+<p begin="28296020000t" end="28324920000t" region="bottomCenter" style="s1" xml:id="subtitle474">-我从未听说过他们   -你当然听说过<br />-I've never heard of them.  -Of course you have.</p>
+<p begin="28325600000t" end="28375210000t" region="bottomCenter" style="s1" xml:id="subtitle475">每当你听到，有人说见到了鬼魂或是天使……<br />Every time you've heard someone say they saw a ghost or an angel...</p>
+<p begin="28377820000t" end="28425680000t" region="bottomCenter" style="s1" xml:id="subtitle476">每当你听到有关吸血鬼，狼人或是外星人的故事……<br />...every story you've ever heard about vampires, werewolves or aliens...</p>
+<p begin="28425930000t" end="28450860000t" region="bottomCenter" style="s1" xml:id="subtitle477">就意味着系统在吸收同化一些程序<br />...is the system assimilating some program...</p>
+<p begin="28451110000t" end="28489030000t" region="bottomCenter" style="s1" xml:id="subtitle478">因为那些程序在做着他们不该做的事情<br />...that's doing something they're not supposed to be doing.</p>
+<p begin="28498550000t" end="28518890000t" region="bottomCenter" style="s1" xml:id="subtitle479">程序会攻击程序？<br />Programs hacking programs.</p>
+<p begin="28530430000t" end="28554100000t" region="bottomCenter" style="s1" xml:id="subtitle480">-为什么？   -各有各的原因<br />-Why?   -They have their reasons...</p>
+<p begin="28554350000t" end="28601530000t" region="bottomCenter" style="s1" xml:id="subtitle481">不过通常一个程序面临被删除时，他们会选择流亡<br />...but usually a program chooses exile when it faces deletion.</p>
+<p begin="28605310000t" end="28643910000t" region="bottomCenter" style="s1" xml:id="subtitle482">-为什么要将一个程序删除？  -也许程序出了故障<br />-And why would a program be deleted?   -Maybe it breaks down.</p>
+<p begin="28645750000t" end="28688020000t" region="bottomCenter" style="s1" xml:id="subtitle483">也许是有更好的程序取代它  这是常有的事儿<br />Maybe a better program is created to replace it.  Happens all the time.</p>
+<p begin="28692910000t" end="28741440000t" region="bottomCenter" style="s1" xml:id="subtitle484">每当那个时候，一个程序要么选择躲藏在矩阵中……<br />And when it does, a program can either choose to hide here...</p>
+<p begin="28744230000t" end="28771880000t" region="bottomCenter" style="s1" xml:id="subtitle485">要么就回到代码之源<br />...or return to the source.</p>
+<p begin="28787230000t" end="28819830000t" region="bottomCenter" style="s1" xml:id="subtitle486">-也就是机器们的主机   -是的<br />-The machine mainframe.   -Yes.</p>
+<p begin="28821530000t" end="28841100000t" region="bottomCenter" style="s1" xml:id="subtitle487">你也必将去到那里<br />Where you must go.</p>
+<p begin="28848360000t" end="28891200000t" region="bottomCenter" style="s1" xml:id="subtitle488">那里是救世主的旅途终点  你见过那里了……<br />Where the path of the One ends. You've seen it...</p>
+<p begin="28902540000t" end="28930650000t" region="bottomCenter" style="s1" xml:id="subtitle489">在你的梦中，对吗？<br />...in your dreams, haven't you?</p>
+<p begin="28933230000t" end="28954760000t" region="bottomCenter" style="s1" xml:id="subtitle490">有一道光门的地方？<br />A door made of light?</p>
+<p begin="28984100000t" end="29007980000t" region="bottomCenter" style="s1" xml:id="subtitle491">你穿过那道门时发生了什么？<br />What happens when you go through the door?</p>
+<p begin="29040840000t" end="29060480000t" region="bottomCenter" style="s1" xml:id="subtitle492">我看到崔妮蒂……<br />I see Trinity...</p>
+<p begin="29072350000t" end="29097080000t" region="bottomCenter" style="s1" xml:id="subtitle493">还有件事发生了……<br />...and something happens...</p>
+<p begin="29105030000t" end="29121930000t" region="bottomCenter" style="s1" xml:id="subtitle494">一件不好的事<br />...something bad.</p>
+<p begin="29125800000t" end="29164900000t" region="bottomCenter" style="s1" xml:id="subtitle495">她坠落下去，然后我就醒了<br />She starts to fall, and then I wake up.</p>
+<p begin="29176890000t" end="29213300000t" region="bottomCenter" style="s1" xml:id="subtitle496">-你看到她死去了吗？  -没有<br />-Do you see her die?   -No.</p>
+<p begin="29224020000t" end="29251780000t" region="bottomCenter" style="s1" xml:id="subtitle497">你已经有了预见能力，尼奥<br />You have the sight now, Neo.</p>
+<p begin="29255780000t" end="29284180000t" region="bottomCenter" style="s1" xml:id="subtitle498">你看到的是没有时间的世界<br />You are looking at the world without time.</p>
+<p begin="29286060000t" end="29309060000t" region="bottomCenter" style="s1" xml:id="subtitle499">那为什么我看不到她之后发生的事情？<br />Then why can't I see what happens to her?</p>
+<p begin="29311590000t" end="29345360000t" region="bottomCenter" style="s1" xml:id="subtitle500">我们永远看不到那些我们还未能理解的选择<br />We can never see past the choices we don't understand.</p>
+<p begin="29352460000t" end="29383920000t" region="bottomCenter" style="s1" xml:id="subtitle501">你是说，我必须决定崔妮蒂是生是死？<br />Are you saying I have to choose whether Trinity lives or dies?</p>
+<p begin="29386550000t" end="29422780000t" region="bottomCenter" style="s1" xml:id="subtitle502">不，你已经做出了选择<br />No, you've already made the choice.</p>
+<p begin="29425860000t" end="29446600000t" region="bottomCenter" style="s1" xml:id="subtitle503">你现在要理解的是为什么会那么选<br />Now you have to understand it.</p>
+<p begin="29457550000t" end="29468740000t" region="bottomCenter" style="s1" xml:id="subtitle504">不<br />No.</p>
+<p begin="29473060000t" end="29502760000t" region="bottomCenter" style="s1" xml:id="subtitle505">我做不到这个  我不能<br />I can't do that.  I won't.</p>
+<p begin="29512560000t" end="29536260000t" region="bottomCenter" style="s1" xml:id="subtitle506">-你必须去做   -为什么？<br />-Well, you have to.   -Why?</p>
+<p begin="29541850000t" end="29562780000t" region="bottomCenter" style="s1" xml:id="subtitle507">因为你是救世主<br />Because you're the One.</p>
+<p begin="29594890000t" end="29608780000t" region="bottomCenter" style="s1" xml:id="subtitle508">如果我做不到呢？<br />What if I can't?</p>
+<p begin="29626100000t" end="29641900000t" region="bottomCenter" style="s1" xml:id="subtitle509">要是我失败了呢？<br />What happens if I fail?</p>
+<p begin="29652690000t" end="29679420000t" region="bottomCenter" style="s1" xml:id="subtitle510">那锡安就会陷落<br />Then Zion will fall.</p>
+<p begin="29757250000t" end="29805850000t" region="bottomCenter" style="s1" xml:id="subtitle511">时间到了  请听我说，尼奥  只要你到达代码之源……<br />Our time is up. Listen to me, Neo. You can save Zion...</p>
+<p begin="29806100000t" end="29840850000t" region="bottomCenter" style="s1" xml:id="subtitle512">你就能拯救锡安  不过要做到这一点，你会需要制钥人<br />...if you reach the source, but to do that you will need the Keymaker.</p>
+<p begin="29842650000t" end="29852550000t" region="bottomCenter" style="s1" xml:id="subtitle513">制钥人？<br />The Keymaker?</p>
+<p begin="29852800000t" end="29892080000t" region="bottomCenter" style="s1" xml:id="subtitle514">对，不久前他失踪了 我们刚刚才得知他的下落<br />Yes. He disappeared some time ago.  We didn't know what happened to him until now.</p>
+<p begin="29892330000t" end="29929650000t" region="bottomCenter" style="s1" xml:id="subtitle515">他被一个非常危险的程序囚禁着……<br />He's being held prisoner by a very dangerous program...</p>
+<p begin="29931100000t" end="29966300000t" region="bottomCenter" style="s1" xml:id="subtitle516">那是一个比我还古老的程序  他叫做“梅罗纹加”<br />...one of the oldest of us. He is called the Merovingian.</p>
+<p begin="29966900000t" end="29997990000t" region="bottomCenter" style="s1" xml:id="subtitle517">-他不会让制钥人自由活动的   -他是想要什么？<br />-And he won't let him go willingly.   -What does he want?</p>
+<p begin="29998240000t" end="30041850000t" region="bottomCenter" style="s1" xml:id="subtitle518">所有有权势的人想要什么？ 更多的权力<br />What do all men with power want?  More power.</p>
+<p begin="30054450000t" end="30085130000t" region="bottomCenter" style="s1" xml:id="subtitle519">记住：在恰好的时间点到那儿去<br />Be there at that exact time...</p>
+<p begin="30087330000t" end="30111300000t" region="bottomCenter" style="s1" xml:id="subtitle520">你会有一次机会的<br />...and you will have a chance.</p>
+<p begin="30123150000t" end="30140010000t" region="bottomCenter" style="s1" xml:id="subtitle521">我们该走了<br />We must go.</p>
+<p begin="30144820000t" end="30200800000t" region="bottomCenter" style="s1" xml:id="subtitle522">似乎每次见面，我都只会给你带来坏消息<br />Seems like every time we meet I got nothing but bad news.</p>
+<p begin="30207050000t" end="30234870000t" region="bottomCenter" style="s1" xml:id="subtitle523">对此我真的很抱歉  真的<br />I'm sorry about that. I surely am.</p>
+<p begin="30236660000t" end="30256210000t" region="bottomCenter" style="s1" xml:id="subtitle524">不过值得欣慰的是...<br />But for what it's worth...</p>
+<p begin="30276530000t" end="30301140000t" region="bottomCenter" style="s1" xml:id="subtitle525">你终于选择了信任我<br />...you've made a believer out of me.</p>
+<p begin="30324990000t" end="30341660000t" region="bottomCenter" style="s1" xml:id="subtitle526">祝你好运，孩子<br />Good luck, kiddo.</p>
+<p begin="30544730000t" end="30566790000t" region="bottomCenter" style="s1" xml:id="subtitle527">安德森先生<br />Mr. Anderson.</p>
+<p begin="30586080000t" end="30605480000t" region="bottomCenter" style="s1" xml:id="subtitle528">收到我的礼物了吗？<br />Did you get my package?</p>
+<p begin="30607400000t" end="30626140000t" region="bottomCenter" style="s1" xml:id="subtitle529">-是的  -很好<br />-Yeah.   -Well, good.</p>
+<p begin="30639600000t" end="30670040000t" region="bottomCenter" style="s1" xml:id="subtitle530">-史密斯？  -他的编码完全不像是特工<br />-Smith?   -Whoever it is, he's not written like an agent.</p>
+<p begin="30670290000t" end="30702490000t" region="bottomCenter" style="s1" xml:id="subtitle531">-见到我很意外吧？   -不<br />-Surprised to see me?   -No.</p>
+<p begin="30713730000t" end="30738120000t" region="bottomCenter" style="s1" xml:id="subtitle532">-那你得意识到……   -意识到什么？<br />-Then you're aware of it.   -Of what?</p>
+<p begin="30749730000t" end="30765380000t" region="bottomCenter" style="s1" xml:id="subtitle533">我们之间的联系<br />Our connection.</p>
+<p begin="30770860000t" end="30799490000t" region="bottomCenter" style="s1" xml:id="subtitle534">我并不清楚事情是怎么发生的<br />I don't fully understand how it happened.</p>
+<p begin="30799740000t" end="30834940000t" region="bottomCenter" style="s1" xml:id="subtitle535">或许你的某些部份印到了我身上……<br />Perhaps some part of you imprinted onto me...</p>
+<p begin="30835200000t" end="30861850000t" region="bottomCenter" style="s1" xml:id="subtitle536">就如同数据覆盖或是拷贝<br />...something overwritten or copied.</p>
+<p begin="30863420000t" end="30890420000t" region="bottomCenter" style="s1" xml:id="subtitle537">但现在说来，那个无关紧要  真正重要的是……<br />It is, at this point, irrelevant.  What matters is...</p>
+<p begin="30890670000t" end="30921800000t" region="bottomCenter" style="s1" xml:id="subtitle538">无论发生什么，都是有原因的<br />...that whatever happened, happened for a reason.</p>
+<p begin="30923830000t" end="30941450000t" region="bottomCenter" style="s1" xml:id="subtitle539">什么原因？<br />And what reason is that?</p>
+<p begin="30946050000t" end="30982910000t" region="bottomCenter" style="s1" xml:id="subtitle540">我开枪打死了你，安德森先生  我亲眼看着你死去<br />I killed you, Mr. Anderson.  I watched you die.</p>
+<p begin="30987350000t" end="31018040000t" region="bottomCenter" style="s1" xml:id="subtitle541">顺便说一句，我很享受那一刻<br />With a certain satisfaction, I might add.</p>
+<p begin="31021750000t" end="31057360000t" region="bottomCenter" style="s1" xml:id="subtitle542">接着发生了一件事，我知道那是不可能发生的……<br />And then something happened, something that I knew was impossible...</p>
+<p begin="31057610000t" end="31074810000t" region="bottomCenter" style="s1" xml:id="subtitle543">但它毕竟发生了<br />...but it happened anyway.</p>
+<p begin="31084320000t" end="31113360000t" region="bottomCenter" style="s1" xml:id="subtitle544">你摧毁了我，安德森先生<br />You destroyed me, Mr. Anderson.</p>
+<p begin="31135490000t" end="31183020000t" region="bottomCenter" style="s1" xml:id="subtitle545">这之后，由于我知道规则，我明白自己该做什么<br />Afterward, I knew the rules, I understood what I was supposed to do...</p>
+<p begin="31183270000t" end="31208390000t" region="bottomCenter" style="s1" xml:id="subtitle546">但我没有那样做<br />...but I didn't.</p>
+<p begin="31217260000t" end="31288390000t" region="bottomCenter" style="s1" xml:id="subtitle547">我无法那么做  我被迫留下，被迫违反规则<br />I couldn't.  I was compelled to stay......compelled to disobey.</p>
+<p begin="31304130000t" end="31341300000t" region="bottomCenter" style="s1" xml:id="subtitle548">现在，我站在这里完全是因为你，安德森先生<br />And now, here I stand because of you, Mr. Anderson.</p>
+<p begin="31341550000t" end="31382980000t" region="bottomCenter" style="s1" xml:id="subtitle549">因为你，我不再是矩阵的特工了<br />Because of you, I'm no longer an agent of this system.</p>
+<p begin="31383230000t" end="31417000000t" region="bottomCenter" style="s1" xml:id="subtitle550">因为你，我被修改了  我被“拔掉了插头”<br />Because of you, I've changed.  I'm unplugged.</p>
+<p begin="31417250000t" end="31465280000t" region="bottomCenter" style="s1" xml:id="subtitle551">可以说，我获得了新生  就像你一样，表面上是自由了<br />A new man, so to speak. Like you, apparently free.</p>
+<p begin="31468430000t" end="31482030000t" region="bottomCenter" style="s1" xml:id="subtitle552">那么恭喜了<br />Congratulations.</p>
+<p begin="31489680000t" end="31501210000t" region="bottomCenter" style="s1" xml:id="subtitle553">谢谢<br />Thank you.</p>
+<p begin="31518760000t" end="31565230000t" region="bottomCenter" style="s1" xml:id="subtitle554">不过你也很清楚，外表是具有欺骗性的<br />But as you well know, appearances can be deceiving...</p>
+<p begin="31565480000t" end="31611650000t" region="bottomCenter" style="s1" xml:id="subtitle555">它让我回来，寻找我们来到这里的原因<br />...which brings me back to the reason why we're here.</p>
+<p begin="31618600000t" end="31669050000t" region="bottomCenter" style="s1" xml:id="subtitle556">我们来到这里，不是因为我们已经自由了，而是因为还未获自由<br />We're not here because we're free. We're here because we are not free.</p>
+<p begin="31669300000t" end="31711590000t" region="bottomCenter" style="s1" xml:id="subtitle557">这里既没有逃避的理由，也没有否认的意义<br />There's no escaping reason, no denying purpose.</p>
+<p begin="31711840000t" end="31742900000t" region="bottomCenter" style="s1" xml:id="subtitle558">因为我们都知道，如果没有目的/意义……<br />Because as we both know, without purpose...</p>
+<p begin="31746850000t" end="31791410000t" region="bottomCenter" style="s1" xml:id="subtitle559">我们就无法存在  是目的造就了我们<br />...we would not exist.  It is purpose that created us.</p>
+<p begin="31796950000t" end="31827780000t" region="bottomCenter" style="s1" xml:id="subtitle560">是目的连接着我们  目的推动着我们<br />Purpose that connects us.  Purpose that pulls us.</p>
+<p begin="31828030000t" end="31846330000t" region="bottomCenter" style="s1" xml:id="subtitle561">目的指引着我们  目的驱使着我们<br />That guides us.  That drives us.</p>
+<p begin="31847770000t" end="31895070000t" region="bottomCenter" style="s1" xml:id="subtitle562">是目的定义了我们  目的绑定了我们<br />lt is purpose that defines. Purpose that binds us.</p>
+<p begin="31898500000t" end="31922250000t" region="bottomCenter" style="s1" xml:id="subtitle563">我们来这里是因为你，安德森先生<br />We are here because of you, Mr. Anderson.</p>
+<p begin="31922500000t" end="31961720000t" region="bottomCenter" style="s1" xml:id="subtitle564">我们来这儿是要从你手中取回被夺走的东西：<br />We're here to take from you what you tried to take from us:</p>
+<p begin="31984700000t" end="31998360000t" region="bottomCenter" style="s1" xml:id="subtitle565">目的<br />Purpose.</p>
+<p begin="32037600000t" end="32056300000t" region="bottomCenter" style="s1" xml:id="subtitle566">-他出什么事了？  -我不知道<br />-What's happening to him?   -Don't know.</p>
+<p begin="32086700000t" end="32116740000t" region="bottomCenter" style="s1" xml:id="subtitle567">很好，很快就会结束的<br />Yes, that's it.  It'll be over soon.</p>
+<p begin="33192970000t" end="33216630000t" region="bottomCenter" style="s1" xml:id="subtitle568">-是你？  -是我<br />-You.   -Yes, me.</p>
+<p begin="33259100000t" end="33282500000t" region="bottomCenter" style="s1" xml:id="subtitle569">我...我...我...<br />Me, me, me.</p>
+<p begin="33336900000t" end="33350290000t" region="bottomCenter" style="s1" xml:id="subtitle570">还是我<br />Me too.</p>
+<p begin="34631600000t" end="34639390000t" region="bottomCenter" style="s1" xml:id="subtitle571">再多些<br />More.</p>
+<p begin="35264100000t" end="35290100000t" region="bottomCenter" style="s1" xml:id="subtitle572">这就是必然<br />It is inevitable.</p>
+<p begin="35296100000t" end="35309560000t" region="bottomCenter" style="s1" xml:id="subtitle573">快点啊，赶快离开那儿<br />Come on, get out of there.</p>
+<p begin="35742600000t" end="35757330000t" region="bottomCenter" style="s1" xml:id="subtitle574">你没事吧？<br />Are you all right?</p>
+<p begin="35777060000t" end="35796360000t" region="bottomCenter" style="s1" xml:id="subtitle575">-是史密斯   -是的<br />-It was Smith.   -Yes.</p>
+<p begin="35804960000t" end="35829360000t" region="bottomCenter" style="s1" xml:id="subtitle576">-现在有不止一个他？  -有很多很多<br />-Now there's more than one of them?  -A lot more.</p>
+<p begin="35829690000t" end="35864790000t" region="bottomCenter" style="s1" xml:id="subtitle577">-这怎么可能？  -我不知道<br />-How is that possible?   -I don't know.</p>
+<p begin="35871500000t" end="35896400000t" region="bottomCenter" style="s1" xml:id="subtitle578">不知怎么，他找到了自我复制的办法<br />Somehow, he's found a way to copy himself.</p>
+<p begin="35898460000t" end="35930460000t" region="bottomCenter" style="s1" xml:id="subtitle579">-他就是用那种方法对付你吗？  -我不知道他在干什么……<br />-Is that what he was doing to you?   -I don't know what he was doing...</p>
+<p begin="35941960000t" end="35969660000t" region="bottomCenter" style="s1" xml:id="subtitle580">-但我曾有过同样的感觉   -什么感觉？<br />-...but I know what it felt like.   -What?</p>
+<p begin="35978920000t" end="36006330000t" region="bottomCenter" style="s1" xml:id="subtitle581">我好像又回到了那个走廊上<br />It felt like I was back in that hallway.</p>
+<p begin="36016900000t" end="36029030000t" region="bottomCenter" style="s1" xml:id="subtitle582">就像是濒临死亡<br />It felt like dying.</p>
+<p begin="36036300000t" end="36063640000t" region="bottomCenter" style="s1" xml:id="subtitle583">机器正通过钻洞避开我们的防御系统<br />The machines are tunneling to avoid our defense system.</p>
+<p begin="36063890000t" end="36106450000t" region="bottomCenter" style="s1" xml:id="subtitle584">但我相信，它们将会在各个管线间制造交叉，以便控制它们<br />But I believe they are going to intersect certain pipelines in order to control them.</p>
+<p begin="36107230000t" end="36132530000t" region="bottomCenter" style="s1" xml:id="subtitle585">那些交叉点非常关键<br />These points of intersection are crucial...</p>
+<p begin="36133360000t" end="36160440000t" region="bottomCenter" style="s1" xml:id="subtitle586">因为我相信，它们就是进行反击的薄弱部位<br />...because I believe they're vulnerable to counterattack.</p>
+<p begin="36163400000t" end="36204000000t" region="bottomCenter" style="s1" xml:id="subtitle587">尽管有人说，此次进攻……<br />Although it has been suggested that this is the same kind of attack...</p>
+<p begin="36204250000t" end="36243550000t" region="bottomCenter" style="s1" xml:id="subtitle588">与我们这些年抵抗的没什么不同  但我要敦促议会尽快明白这个事实：<br />...we've defended for years, I urge the Council to realize the truth.</p>
+<p begin="36245060000t" end="36278460000t" region="bottomCenter" style="s1" xml:id="subtitle589">这是有史以来，我们面临的最大规模的进攻<br />This is the single greatest threat we have ever faced...</p>
+<p begin="36280030000t" end="36316790000t" region="bottomCenter" style="s1" xml:id="subtitle590">如果没有相应的准备，我们将在劫难逃<br />...and if we do not act accordingly, we will not survive.</p>
+<p begin="36318890000t" end="36358220000t" region="bottomCenter" style="s1" xml:id="subtitle591">洛克指挥官，议会已经充分认识到了此次进攻的严重性<br />Commander Lock, the Council is well aware of the seriousness of this attack.</p>
+<p begin="36362790000t" end="36406830000t" region="bottomCenter" style="s1" xml:id="subtitle592">我们现授权你不惜采取任何措施进行战备<br />You have our leave to prepare our defense by any and all means necessary.</p>
+<p begin="36409700000t" end="36434380000t" region="bottomCenter" style="s1" xml:id="subtitle593">-感谢议会   -不过……<br />-Thank you, Council.   -However...</p>
+<p begin="36439390000t" end="36468050000t" region="bottomCenter" style="s1" xml:id="subtitle594">我们想知道是否有尼布加尼撒号的消息？<br />...we ask if there's been word from the Nebuchadnezzar.</p>
+<p begin="36473430000t" end="36492890000t" region="bottomCenter" style="s1" xml:id="subtitle595">没有，议员  还是没有任何消息<br />No, councillor.  No word.  Nothing.</p>
+<p begin="36515860000t" end="36557390000t" region="bottomCenter" style="s1" xml:id="subtitle596">那我们要求派出一艘战舰，去查明“救世主”的下落<br />Then we request a ship be dispatched to ascertain the fate of the One.</p>
+<p begin="36558100000t" end="36589070000t" region="bottomCenter" style="s1" xml:id="subtitle597">我当然希望能这么做  但我相信我们的防御力量……<br />I wish that were possible, councillor, but I do not believe our defense...</p>
+<p begin="36589070000t" end="36631940000t" region="bottomCenter" style="s1" xml:id="subtitle598">-已无法再承受失去一艘战舰的风险   -它能承受的，指挥官，如果有必要的话<br />...can suffer the loss of another ship. lt will, commander, if it must.</p>
+<p begin="36632190000t" end="36658450000t" region="bottomCenter" style="s1" xml:id="subtitle599">这需要一艘战舰花好几天的时间去找它<br />It could take a single ship days to find the Nebuchadnezzar.</p>
+<p begin="36658700000t" end="36687660000t" region="bottomCenter" style="s1" xml:id="subtitle600">-那就派两艘   -简直是疯了<br />-Then send two.   -This is insane.</p>
+<p begin="36690760000t" end="36710660000t" region="bottomCenter" style="s1" xml:id="subtitle601">注意言辞，指挥官<br />Careful, commander.</p>
+<p begin="36723030000t" end="36753610000t" region="bottomCenter" style="s1" xml:id="subtitle602">请原谅我的失态，议员<br />Forgive my frustration, councillors.</p>
+<p begin="36759010000t" end="36796910000t" region="bottomCenter" style="s1" xml:id="subtitle603">但是我无法理解议会做出的决定<br />But I wish I were able to comprehend the Council's choice in this matter.</p>
+<p begin="36797160000t" end="36829810000t" region="bottomCenter" style="s1" xml:id="subtitle604">理解并不是合作的必要条件<br />Comprehension is not a requisite of cooperation.</p>
+<p begin="36830330000t" end="36857250000t" region="bottomCenter" style="s1" xml:id="subtitle605">如果议会要求我命令两位舰长……<br />If you are asking me to order two of my captains</p>
+<p begin="36857500000t" end="36875850000t" region="bottomCenter" style="s1" xml:id="subtitle606">不需要你去下达这样的命令<br />There's no need for such an order.</p>
+<p begin="36876100000t" end="36904250000t" region="bottomCenter" style="s1" xml:id="subtitle607">这件事，可以让在座的各位舰长自行决定<br />The captains are present.  They can answer for themselves.</p>
+<p begin="36916830000t" end="36963620000t" region="bottomCenter" style="s1" xml:id="subtitle608">议会现招募两艘战舰，志愿去支援尼布甲尼撒号<br />The Council is calling for two volunteers to aid the Nebuchadnezzar.</p>
+<p begin="36971260000t" end="37009820000t" region="bottomCenter" style="s1" xml:id="subtitle609">你们中间可有人愿意应召前往？<br />Are there two among you that would answer such a call?</p>
+<p begin="37026850000t" end="37065540000t" region="bottomCenter" style="s1" xml:id="subtitle610">警醒号舰长索伦愿意前往<br />Captain Soren of the Vigilant will answer the Council's call.</p>
+<p begin="37065790000t" end="37094690000t" region="bottomCenter" style="s1" xml:id="subtitle611">你了解现在的情况吗，索伦舰长？<br />You understand the situation, Captain Soren?</p>
+<p begin="37094940000t" end="37117980000t" region="bottomCenter" style="s1" xml:id="subtitle612">-是的，女士   -谢谢你，舰长<br />-Yes, ma'am.   -Thank you, captain.</p>
+<p begin="37135730000t" end="37150030000t" region="bottomCenter" style="s1" xml:id="subtitle613">还有人吗？<br />Is there another?</p>
+<p begin="37156720000t" end="37196050000t" region="bottomCenter" style="s1" xml:id="subtitle614">-舰长，我们应该志愿响应的  -什么？你疯了吗？<br />-Captain, I think we should volunteer.   -What? You have gone crazy.</p>
+<p begin="37196300000t" end="37214100000t" region="bottomCenter" style="s1" xml:id="subtitle615">闭上嘴巴，贝恩<br />Listen. Shut your hole, Bane...</p>
+<p begin="37216260000t" end="37230230000t" region="bottomCenter" style="s1" xml:id="subtitle616">小心我关你你禁闭<br />...before I put you in one.</p>
+<p begin="37329300000t" end="37345300000t" region="bottomCenter" style="s1" xml:id="subtitle617">没有人愿意吗？<br />Is there no other?</p>
+<p begin="37355570000t" end="37374750000t" region="bottomCenter" style="s1" xml:id="subtitle618">对任何人来说，要冒生命危险都是困难的……<br />Be hard for any man to risk his life...</p>
+<p begin="37375000000t" end="37401660000t" region="bottomCenter" style="s1" xml:id="subtitle619">尤其是当他并不理解为什么要这么做时<br />...especially if he doesn't understand the reason.</p>
+<p begin="37410750000t" end="37445750000t" region="bottomCenter" style="s1" xml:id="subtitle620">(Logos 取自希腊语 意为上帝的话语，或神圣理性与创造秩序的原则)<br />理性号舰长奈奥比愿意前往<br />Captain Niobe of the Logos will answer the councillor's call.</p>
+<p begin="37446000000t" end="37469080000t" region="bottomCenter" style="s1" xml:id="subtitle621">-什么？  -谢谢你，奈奥比舰长<br />-What?   -Thank you, Captain Niobe.</p>
+<p begin="37471830000t" end="37517890000t" region="bottomCenter" style="s1" xml:id="subtitle622">洛克司令官，下达命令吧  会议到此结束<br />Commander Lock, you have your orders. This Council is hereby adjourned.</p>
+<p begin="37569590000t" end="37595190000t" region="bottomCenter" style="s1" xml:id="subtitle623">-奈奥比，你想干什么？  -做我能做的<br />-Niobe, what are you doing?   -What I can.</p>
+<p begin="37595870000t" end="37606070000t" region="bottomCenter" style="s1" xml:id="subtitle624">为什么？<br />Why?</p>
+<p begin="37620170000t" end="37649810000t" region="bottomCenter" style="s1" xml:id="subtitle625">因为有些事情永远不会改变，杰森<br />Because some things never change, Jason...</p>
+<p begin="37654060000t" end="37674340000t" region="bottomCenter" style="s1" xml:id="subtitle626">但有些事情会<br />...and some things do.</p>
+<p begin="37842130000t" end="37855660000t" region="bottomCenter" style="s1" xml:id="subtitle627">你能看到什么，尼奥？<br />What can you see, Neo?</p>
+<p begin="37857700000t" end="37880200000t" region="bottomCenter" style="s1" xml:id="subtitle628">奇怪，这里的编码有些不同<br />It's strange. The code is somehow different.</p>
+<p begin="37883500000t" end="37899380000t" region="bottomCenter" style="s1" xml:id="subtitle629">-经过加密？  -有可能<br />-Encrypted?   -Maybe.</p>
+<p begin="37901330000t" end="37920240000t" region="bottomCenter" style="s1" xml:id="subtitle630">对我们有利还是不利？<br />Is that good for us or bad for us?</p>
+<p begin="37926900000t" end="37959400000t" region="bottomCenter" style="s1" xml:id="subtitle631">看起来这里似乎每层都安置了炸弹<br />Well, it looks like every floor is wired with explosives.</p>
+<p begin="37965270000t" end="37977390000t" region="bottomCenter" style="s1" xml:id="subtitle632">对我们不利<br />Bad for us.</p>
+<p begin="37984670000t" end="37996940000t" region="bottomCenter" style="s1" xml:id="subtitle633">我们走吧<br />Here we go.</p>
+<p begin="37997190000t" end="38042390000t" region="bottomCenter" style="s1" xml:id="subtitle634">（墙上又见101，可能是对奥威尔《1984》中101号审讯室的隐喻<br />在那里犯人会遭受自己最深的梦魇的折磨，对应着这里极度危险，而且梅罗纹加被猜测曾是“噩梦矩阵”的主宰者）</p>
+<p begin="38059300000t" end="38075360000t" region="bottomCenter" style="s1" xml:id="subtitle635">欢迎光临，请问预约了吗？</p>
+<p begin="38079250000t" end="38106440000t" region="bottomCenter" style="s1" xml:id="subtitle636">是的，我们想找梅罗纹加谈谈<br />Yes. We are here to speak with the Merovingian.</p>
+<p begin="38111950000t" end="38147020000t" region="bottomCenter" style="s1" xml:id="subtitle637">哦，当然，他一直在等着你们<br />Well, of course.  He has been expecting you.</p>
+<p begin="38153680000t" end="38161680000t" region="bottomCenter" style="s1" xml:id="subtitle638">请跟我来<br />Follow me.</p>
+<p begin="38311400000t" end="38330210000t" region="bottomCenter" style="s1" xml:id="subtitle639">（注意印度人）</p>
+<p begin="38330460000t" end="38382750000t" region="bottomCenter" style="s1" xml:id="subtitle640">（历史上，Merovingians 王朝建立于中世纪早期，这个时期通常被称为黑暗时代，但也是欧洲浪漫神话的发源时期<br />因此一种粉丝理论认为，梅罗纹加是第二版矩阵——“噩梦矩阵” <i>Nightmare Matrix</i> 的统治者<br />噩梦矩阵可能被设计成严格遵循因果报应的世界，梅罗纹加靠着手下的狼人、吸血鬼等神话中的怪物恐吓和惩罚人类。因此它也崩溃了）</p>
+<p begin="38383000000t" end="38437850000t" region="bottomCenter" style="s1" xml:id="subtitle641">终于来了，尼奥，我们的救世主<br />Here he is at last.  Neo, the One himself.</p>
+<p begin="38442920000t" end="38453250000t" region="bottomCenter" style="s1" xml:id="subtitle642">对吗？<br />Right?</p>
+<p begin="38459100000t" end="38481030000t" region="bottomCenter" style="s1" xml:id="subtitle643">还有传奇人物墨菲斯<br />And the legendary Morpheus.</p>
+<p begin="38491460000t" end="38539560000t" region="bottomCenter" style="s1" xml:id="subtitle644">当然了，还有崔妮蒂  我听说过很多你的事迹<br />And Trinity, of course.  I have heard so much.</p>
+<p begin="38539810000t" end="38578810000t" region="bottomCenter" style="s1" xml:id="subtitle645">(希腊神话中 波赛芬尼是冥王哈迪斯的妻子<br />而片中的法国人正是“Club Hell”的所有者)<br />大驾光临，让我不胜荣幸  请坐 这是我的妻子波赛芬尼<br />You honor me.  Please, sit.  Join us.  This is my wife, Persephone.</p>
+<p begin="38586600000t" end="38610770000t" region="bottomCenter" style="s1" xml:id="subtitle646">想吃点什么吗？ 喝点什么？<br />Something to eat?   Drink?</p>
+<p begin="38621420000t" end="38650890000t" region="bottomCenter" style="s1" xml:id="subtitle647">当然了，这里的这么些东西都是被设计出来……<br />Of course, such things are contrivances, like so much here.</p>
+<p begin="38652900000t" end="38676590000t" region="bottomCenter" style="s1" xml:id="subtitle648">为了装点门面的<br />For the sake of appearances.</p>
+<p begin="38680520000t" end="38715120000t" region="bottomCenter" style="s1" xml:id="subtitle649">-不用了，谢谢   -当然了，谁有时间去做做样子呢？<br />-No, thank you.  -Yes, of course.  Who has time?</p>
+<p begin="38716190000t" end="38768610000t" region="bottomCenter" style="s1" xml:id="subtitle650">但是，如果我们从不花费时间，又怎么能够有时间呢<br />Who has time? But then, if we do not ever take time, how can we ever have time?</p>
+<p begin="38804100000t" end="38838750000t" region="bottomCenter" style="s1" xml:id="subtitle651">奥布昂酒庄，1959年出产的  真是好酒<br />Chateau HautBrion, 1959.  Magnificent wine.</p>
+<p begin="38839000000t" end="38870250000t" region="bottomCenter" style="s1" xml:id="subtitle652">我喜欢法国酒，就如同我喜欢法国话<br />I love French wine like I love the French language.</p>
+<p begin="38870900000t" end="38913020000t" region="bottomCenter" style="s1" xml:id="subtitle653">每种语言我都有所研究  我最喜欢法语  了不起的语言<br />I have sampled every language. French is my favorite. Fantastic language...</p>
+<p begin="38913800000t" end="38935730000t" region="bottomCenter" style="s1" xml:id="subtitle654">尤其是她的骂人话<br />...especially to curse with.</p>
+<p begin="38974160000t" end="39024450000t" region="bottomCenter" style="s1" xml:id="subtitle655">明白吗，就像是拿丝绸擦屁股  我喜欢<br />You see?  It's like wiping your ass with silk.  I love it.</p>
+<p begin="39037330000t" end="39054590000t" region="bottomCenter" style="s1" xml:id="subtitle656">你知道我们的来意吗？<br />You know why we are here.</p>
+<p begin="39071540000t" end="39114900000t" region="bottomCenter" style="s1" xml:id="subtitle657">我就是个情报贩子  该知道的我全都知道<br />I am a trafficker of information.  I know everything I can.</p>
+<p begin="39125890000t" end="39184190000t" region="bottomCenter" style="s1" xml:id="subtitle658">但问题是，你们知道自己为什么要来这里吗？<br />The question is, do you know why you are here?</p>
+<p begin="39186100000t" end="39209840000t" region="bottomCenter" style="s1" xml:id="subtitle659">我们在找制钥人<br />We are looking for the Keymaker.</p>
+<p begin="39218500000t" end="39259380000t" region="bottomCenter" style="s1" xml:id="subtitle660">没错，制钥人，那是当然<br />Oh, yes, it is true.  The Keymaker, of course.</p>
+<p begin="39265530000t" end="39295130000t" region="bottomCenter" style="s1" xml:id="subtitle661">但这并不是缘由，这也不是原因<br />But this is not a reason, this is not a why.</p>
+<p begin="39296330000t" end="39334350000t" region="bottomCenter" style="s1" xml:id="subtitle662">“制钥人”从本质上讲只是一种手段，而不是最终目标<br />The Keymaker himself, his very nature, is a means, it is not an end.</p>
+<p begin="39334600000t" end="39392200000t" region="bottomCenter" style="s1" xml:id="subtitle663">所以，你们找他是在找一种手段去做……<br />And so to look for him is to be looking for a means to do...</p>
+<p begin="39394460000t" end="39425110000t" region="bottomCenter" style="s1" xml:id="subtitle664">-什么呢？   -你知道那个问题的答案<br />-...what?   -You know the answer to that question.</p>
+<p begin="39427790000t" end="39441980000t" region="bottomCenter" style="s1" xml:id="subtitle665">但你呢？<br />But do you?</p>
+<p begin="39451420000t" end="39473390000t" region="bottomCenter" style="s1" xml:id="subtitle666">你以为你知道，但其实并不<br />You think you do, but you do not.</p>
+<p begin="39475700000t" end="39507700000t" region="bottomCenter" style="s1" xml:id="subtitle667">你们是被派到这儿来的<br />You are here because you were sent here.</p>
+<p begin="39508390000t" end="39539690000t" region="bottomCenter" style="s1" xml:id="subtitle668">有人告诉你们来这儿，你们就遵从了<br />You were told to come here, and then you obeyed.</p>
+<p begin="39552770000t" end="39575240000t" region="bottomCenter" style="s1" xml:id="subtitle669">当然了，事情往往就是这样<br />It is, of course, the way of all things.</p>
+<p begin="39575490000t" end="39602690000t" region="bottomCenter" style="s1" xml:id="subtitle670">要知道，只有一个不变的、<br />You see, there is only one constant...</p>
+<p begin="39607220000t" end="39646900000t" region="bottomCenter" style="s1" xml:id="subtitle671">通行的、唯一的真理：<br />...one universal.  It is the only real truth.</p>
+<p begin="39648350000t" end="39664570000t" region="bottomCenter" style="s1" xml:id="subtitle672">一切都由诱因引发<br />Causality.</p>
+<p begin="39667720000t" end="39692480000t" region="bottomCenter" style="s1" xml:id="subtitle673">随后才有行动和反应……<br />Action, reaction.</p>
+<p begin="39692730000t" end="39735030000t" region="bottomCenter" style="s1" xml:id="subtitle674">-一切都是因果关系  -选择才是一切的开始<br />-Cause and effect.   -Everything begins with choice.</p>
+<p begin="39735280000t" end="39750610000t" region="bottomCenter" style="s1" xml:id="subtitle675">不！错了<br />No.  Wrong.</p>
+<p begin="39755260000t" end="39800500000t" region="bottomCenter" style="s1" xml:id="subtitle676">“选择”只是一种错觉，产生于当权者……<br />Choice is an illusion created between those with power...</p>
+<p begin="39800750000t" end="39818900000t" region="bottomCenter" style="s1" xml:id="subtitle677">和无权力者之间<br />...and those without.</p>
+<p begin="39839800000t" end="39870620000t" region="bottomCenter" style="s1" xml:id="subtitle678">瞧瞧那边那个女人<br />Look there at that woman.</p>
+<p begin="39878030000t" end="39907030000t" region="bottomCenter" style="s1" xml:id="subtitle679">我的天，你们看看她……<br />My God, just look at her...</p>
+<p begin="39917750000t" end="39940520000t" region="bottomCenter" style="s1" xml:id="subtitle680">她影响了周围所有的人<br />...affecting everyone around her.</p>
+<p begin="39940770000t" end="39992890000t" region="bottomCenter" style="s1" xml:id="subtitle681">一副明显的小资产阶级的样子，如此乏味  但是别急<br />So obvious, so bourgeois, so boring.  But wait.</p>
+<p begin="39998390000t" end="40033860000t" region="bottomCenter" style="s1" xml:id="subtitle682">请看，我为她送去了一道甜品……<br />Watch.  You see, I have sent her a dessert...</p>
+<p begin="40037560000t" end="40078470000t" region="bottomCenter" style="s1" xml:id="subtitle683">一道非常特别的甜品<br />...a very special dessert.</p>
+<p begin="40123830000t" end="40144750000t" region="bottomCenter" style="s1" xml:id="subtitle684">代码是我亲自写的<br />I wrote it myself.</p>
+<p begin="40149560000t" end="40178350000t" region="bottomCenter" style="s1" xml:id="subtitle685">开头非常简单……<br />It starts so simply...</p>
+<p begin="40183400000t" end="40230510000t" region="bottomCenter" style="s1" xml:id="subtitle686">程序的每一行都会产生新的结果，就像是……<br />...each line of the program creating a new effect, just like...</p>
+<p begin="40240460000t" end="40255320000t" region="bottomCenter" style="s1" xml:id="subtitle687">一首诗<br />...poetry.</p>
+<p begin="40258790000t" end="40271850000t" region="bottomCenter" style="s1" xml:id="subtitle688">她开始……<br />First...</p>
+<p begin="40277330000t" end="40330560000t" region="bottomCenter" style="s1" xml:id="subtitle689">呼吸急促，面红耳赤  她的心跳加速<br />...a rush, heat.  Her heart flutters.</p>
+<p begin="40337060000t" end="40362140000t" region="bottomCenter" style="s1" xml:id="subtitle690">你能看出来的，对吧尼奥？<br />You can see it, Neo, yes?</p>
+<p begin="40369800000t" end="40395210000t" region="bottomCenter" style="s1" xml:id="subtitle691">她无法理解为什么<br />She does not understand why.</p>
+<p begin="40398030000t" end="40423150000t" region="bottomCenter" style="s1" xml:id="subtitle692">是因为红酒吗？ 不<br />Is it the wine?  No.</p>
+<p begin="40423400000t" end="40447000000t" region="bottomCenter" style="s1" xml:id="subtitle693">那是究竟是什么原因呢？<br />What is it then?  What is the reason?</p>
+<p begin="40453410000t" end="40476270000t" region="bottomCenter" style="s1" xml:id="subtitle694">但很快，这一切就都不重要了<br />And soon it does not matter.</p>
+<p begin="40476520000t" end="40511180000t" region="bottomCenter" style="s1" xml:id="subtitle695">很快“原因”和“理由”就消失了……<br />Soon the why and the reason are gone...</p>
+<p begin="40518730000t" end="40566750000t" region="bottomCenter" style="s1" xml:id="subtitle696">重要的只剩下“感觉”本身<br />...and all that matters is the feeling itself.</p>
+<p begin="40578940000t" end="40608010000t" region="bottomCenter" style="s1" xml:id="subtitle697">这就是世界运行的法则<br />And this is the nature of the universe.</p>
+<p begin="40608870000t" end="40637350000t" region="bottomCenter" style="s1" xml:id="subtitle698">我们挣扎着抵抗它，我们奋力地否认它<br />We struggle against it, we fight to deny it...</p>
+<p begin="40637600000t" end="40663500000t" region="bottomCenter" style="s1" xml:id="subtitle699">但那终究是自欺欺人<br />...but it is, of course, pretense. It is a lie.</p>
+<p begin="40663750000t" end="40703650000t" region="bottomCenter" style="s1" xml:id="subtitle700">在我们镇静的外表下……<br />Beneath our poised appearance...</p>
+<p begin="40707200000t" end="40758970000t" region="bottomCenter" style="s1" xml:id="subtitle701">真相却是——我们已经完全地……<br />...the truth is, we are completely...</p>
+<p begin="40788730000t" end="40817630000t" region="bottomCenter" style="s1" xml:id="subtitle702">失控了<br />...out of control.</p>
+<p begin="40871460000t" end="40919400000t" region="bottomCenter" style="s1" xml:id="subtitle703">这就是诱因的结果  无人可以逃避   我们永远都是它的奴隶<br />Causality.  There is no escape from it.  We are forever slaves to it.</p>
+<p begin="40924730000t" end="40979650000t" region="bottomCenter" style="s1" xml:id="subtitle704">我们唯一的希望，唯一得到安宁的方式，就是去弄清事物的原因<br />Our only hope, our only peace, is to understand it, to understand "Why"...</p>
+<p begin="40980260000t" end="41014790000t" region="bottomCenter" style="s1" xml:id="subtitle705">“原因”才是将我和他们……<br />"Why" is what separates us from them...</p>
+<p begin="41014790000t" end="41038020000t" region="bottomCenter" style="s1" xml:id="subtitle706">以及将我和你们区别开的关键<br />...you from me.</p>
+<p begin="41038270000t" end="41076120000t" region="bottomCenter" style="s1" xml:id="subtitle707">原因是权力的真正源泉  失去了它你就失去了权力<br />"Why" is the only real source of power. Without it, you are powerless.</p>
+<p begin="41077690000t" end="41112110000t" region="bottomCenter" style="s1" xml:id="subtitle708">所以你们在我这里毫无权力，因为你们不懂自己来此的原因<br />And this is how you come to me, without why, without power.</p>
+<p begin="41114720000t" end="41135270000t" region="bottomCenter" style="s1" xml:id="subtitle709">这就是逻辑链条的一环<br />Another link in the chain.</p>
+<p begin="41144600000t" end="41157200000t" region="bottomCenter" style="s1" xml:id="subtitle710">不过别怕<br />But fear not.</p>
+<p begin="41160360000t" end="41200090000t" region="bottomCenter" style="s1" xml:id="subtitle711">因为我看到了，你们是多么擅长遵循指令<br />Since I have seen how good you are at following orders...</p>
+<p begin="41200340000t" end="41225140000t" region="bottomCenter" style="s1" xml:id="subtitle712">所以我来告诉你们该做什么吧<br />...I will tell you what to do next.</p>
+<p begin="41230500000t" end="41278000000t" region="bottomCenter" style="s1" xml:id="subtitle713">滚回去，把这条讯息告诉那算命的<br />Run back and give the fortuneteller this message:</p>
+<p begin="41282260000t" end="41319280000t" region="bottomCenter" style="s1" xml:id="subtitle714">她的时间不多了<br />Her time is almost up.</p>
+<p begin="41334830000t" end="41370430000t" region="bottomCenter" style="s1" xml:id="subtitle715">现在我还有正经事要做，只好与各位说再见了<br />Now I have some real business to do, so I will say adieu and goodbye.</p>
+<p begin="41371300000t" end="41396200000t" region="bottomCenter" style="s1" xml:id="subtitle716">-事情还没有完   -不，已经说完了<br />-This isn't over.   -Oh, yes, it is.</p>
+<p begin="41398800000t" end="41461210000t" region="bottomCenter" style="s1" xml:id="subtitle717">制钥人是我的，我没有任何理由把他拱手让出<br />The Keymaker is mine, and I see no reason why I should give him up.</p>
+<p begin="41462600000t" end="41501150000t" region="bottomCenter" style="s1" xml:id="subtitle718">-没有任何理由   -你要去哪儿？<br />-No reason at all.   -Where are you going?</p>
+<p begin="41506730000t" end="41550660000t" region="bottomCenter" style="s1" xml:id="subtitle719">求你了，亲爱的，我已经说过了，我们都是诱因的牺牲品<br />Please, ma cherie, I have told you. We are all victims of causality.</p>
+<p begin="41555360000t" end="41589070000t" region="bottomCenter" style="s1" xml:id="subtitle720">我喝了太多的红酒，要去方便一下<br />I drank too much wine, I must take a piss.</p>
+<p begin="41592950000t" end="41622290000t" region="bottomCenter" style="s1" xml:id="subtitle721">因果关系  失陪了<br />Cause and effect.  Au revoir.</p>
+<p begin="41672900000t" end="41703960000t" region="bottomCenter" style="s1" xml:id="subtitle722">敢碰我一下，你这辈子都别想碰任何东西了<br />Touch me and that hand will never touch anything again.</p>
+<p begin="41794100000t" end="41811510000t" region="bottomCenter" style="s1" xml:id="subtitle723">看来我们不是很顺利啊<br />Well, that didn't go so well.</p>
+<p begin="41811750000t" end="41835660000t" region="bottomCenter" style="s1" xml:id="subtitle724">你能肯定先知没有说过别的吗？<br />Are you certain the Oracle didn't say anything else?</p>
+<p begin="41835900000t" end="41856910000t" region="bottomCenter" style="s1" xml:id="subtitle725">没有 也许我们做错了什么<br />Yes.  Maybe we did something wrong.</p>
+<p begin="41864880000t" end="41878180000t" region="bottomCenter" style="s1" xml:id="subtitle726">或是漏做了什么？<br />Or didn't do something.</p>
+<p begin="41879100000t" end="41912910000t" region="bottomCenter" style="s1" xml:id="subtitle727">不！只要是发生了的事情，就必定以它们该发生的样子发生<br />No, what happened happened and couldn't have happened any other way.</p>
+<p begin="41913160000t" end="41941420000t" region="bottomCenter" style="s1" xml:id="subtitle728">-你怎么知道？  -因为我们还活着<br />-How do you know?   -We are still alive.</p>
+<p begin="41975160000t" end="42001690000t" region="bottomCenter" style="s1" xml:id="subtitle729">如果你们要找制钥人，跟我来<br />If you want the Keymaker, follow me.</p>
+<p begin="42077500000t" end="42089560000t" region="bottomCenter" style="s1" xml:id="subtitle730">滚出去<br />Get out.</p>
+<p begin="42117060000t" end="42174600000t" region="bottomCenter" style="s1" xml:id="subtitle731">我对他日复一日的胡言乱语已经厌烦透顶  自命不凡的家伙<br />I am so sick and tired of his bullshit.  On and on.  Pompous prick.</p>
+<p begin="42187470000t" end="42240700000t" region="bottomCenter" style="s1" xml:id="subtitle732">很久以前，当我们最初来到这里，是那么的不同<br />A long time ago, when we first came here, it was so different.</p>
+<p begin="42258930000t" end="42282740000t" region="bottomCenter" style="s1" xml:id="subtitle733">他是那么的不同<br />He was so different.</p>
+<p begin="42304980000t" end="42328630000t" region="bottomCenter" style="s1" xml:id="subtitle734">那时他就像你一样<br />He was like you.</p>
+<p begin="42357790000t" end="42397260000t" region="bottomCenter" style="s1" xml:id="subtitle735">我会给你你想要的，但你也要给我一样东西<br />I'll give you what you want, but you have to give me something.</p>
+<p begin="42403500000t" end="42424820000t" region="bottomCenter" style="s1" xml:id="subtitle736">-是什么？  -一个吻<br />-What?   -A kiss.</p>
+<p begin="42430470000t" end="42441770000t" region="bottomCenter" style="s1" xml:id="subtitle737">你说什么？<br />Excuse me?</p>
+<p begin="42455860000t" end="42494280000t" region="bottomCenter" style="s1" xml:id="subtitle738">我要你像在亲吻她那样来吻我<br />I want you to kiss me as if you were kissing her.</p>
+<p begin="42514270000t" end="42549990000t" region="bottomCenter" style="s1" xml:id="subtitle739">-为什么？  -因为你爱她  她也爱你<br />-Why?   -You love her.  She loves you.</p>
+<p begin="42553230000t" end="42571250000t" region="bottomCenter" style="s1" xml:id="subtitle740">这是显而易见的<br />It's all over you both.</p>
+<p begin="42578930000t" end="42618100000t" region="bottomCenter" style="s1" xml:id="subtitle741">很久以前，我也有过那种感觉<br />A long time ago, I knew what that felt like.</p>
+<p begin="42637830000t" end="42694920000t" region="bottomCenter" style="s1" xml:id="subtitle742">我想唤起回忆  我想品尝一下  仅此而已<br />I want to remember it.  I want to sample it.  That's all.</p>
+<p begin="42698630000t" end="42712250000t" region="bottomCenter" style="s1" xml:id="subtitle743">只是品尝一下<br />Just a sample.</p>
+<p begin="42718120000t" end="42739130000t" region="bottomCenter" style="s1" xml:id="subtitle744">-那就让你先尝尝这个！  -崔妮蒂！<br />-Why don't you sample this instead?   -Trinity.</p>
+<p begin="42770850000t" end="42818860000t" region="bottomCenter" style="s1" xml:id="subtitle745">区区小事，何必大动干戈？ 只是一吻而已<br />Such emotion over something so small.  It's just a kiss.</p>
+<p begin="42821230000t" end="42842530000t" region="bottomCenter" style="s1" xml:id="subtitle746">我们为什么要相信你？<br />Why should we trust you?</p>
+<p begin="42842780000t" end="42882980000t" region="bottomCenter" style="s1" xml:id="subtitle747">如果我不带你们去找制钥人，她可以杀了我<br />If I don't deliver you to the Keymaker, she can kill me.</p>
+<p begin="42955570000t" end="42974960000t" region="bottomCenter" style="s1" xml:id="subtitle748">好吧<br />All right.</p>
+<p begin="42980590000t" end="43015300000t" region="bottomCenter" style="s1" xml:id="subtitle749">但是，你必须让我感到像在吻她一样<br />But you have to make me believe I am her.</p>
+<p begin="43030060000t" end="43046430000t" region="bottomCenter" style="s1" xml:id="subtitle750">好吧<br />All right.</p>
+<p begin="43113660000t" end="43133520000t" region="bottomCenter" style="s1" xml:id="subtitle751">真糟糕，算了吧<br />Terrible. Forget it.</p>
+<p begin="43162200000t" end="43177100000t" region="bottomCenter" style="s1" xml:id="subtitle752">等一等<br />Wait.</p>
+<p begin="43185960000t" end="43197850000t" region="bottomCenter" style="s1" xml:id="subtitle753">好吧<br />Okay.</p>
+<p begin="43571500000t" end="43589560000t" region="bottomCenter" style="s1" xml:id="subtitle754">是的<br />Yes.</p>
+<p begin="43598200000t" end="43624450000t" region="bottomCenter" style="s1" xml:id="subtitle755">就是这个<br />That's it.</p>
+<p begin="43771630000t" end="43824530000t" region="bottomCenter" style="s1" xml:id="subtitle756">我羡慕你  但这种事注定不会长久<br />I envy you.  But such a thing is not meant to last.</p>
+<p begin="43856130000t" end="43866870000t" region="bottomCenter" style="s1" xml:id="subtitle757">跟我来吧<br />Come with me.</p>
+<p begin="44179660000t" end="44192850000t" region="bottomCenter" style="s1" xml:id="subtitle758">又不见了<br />Not again.</p>
+<p begin="44231930000t" end="44255200000t" region="bottomCenter" style="s1" xml:id="subtitle759">没事的，伙计们  他们是和我一起的<br />It's all right, boys. They're with me.</p>
+<p begin="44264400000t" end="44288000000t" region="bottomCenter" style="s1" xml:id="subtitle760">这些人为我丈夫工作<br />These fellas work for my husband.</p>
+<p begin="44289500000t" end="44327800000t" region="bottomCenter" style="s1" xml:id="subtitle761">做那些脏活  他们非常优秀，非常忠诚<br />They do his dirty work.  They're very good, very loyal.</p>
+<p begin="44330520000t" end="44344590000t" region="bottomCenter" style="s1" xml:id="subtitle762">你们不也是吗？<br />Aren't you, boys?</p>
+<p begin="44346330000t" end="44360070000t" region="bottomCenter" style="s1" xml:id="subtitle763">是的，夫人<br />Yes, mistress.</p>
+<p begin="44360320000t" end="44385900000t" region="bottomCenter" style="s1" xml:id="subtitle764">他们来自早的多的版本的矩阵<br />They come from a much older version of the Matrix.</p>
+<p begin="44388260000t" end="44429060000t" region="bottomCenter" style="s1" xml:id="subtitle765">但就像当时的许多人一样  他们造成的问题比解决的还要多<br />But like so many back then, they caused more problems than they solved.</p>
+<p begin="44436700000t" end="44484420000t" region="bottomCenter" style="s1" xml:id="subtitle766">我丈夫救他们，是因为他们非常难以处死<br />My husband saved them because they're notoriously difficult to terminate.</p>
+<p begin="44488400000t" end="44520660000t" region="bottomCenter" style="s1" xml:id="subtitle767">有多少人在他们的枪膛里备有银子弹？<br />How many people keep silver bullets in their gun?</p>
+<p begin="44527630000t" end="44574280000t" region="bottomCenter" style="s1" xml:id="subtitle768">（银子弹是西方鬼怪传说中，杀死狼人的重要武器<br />另一个没死的则是个吸血鬼，是此处播放的电视画面暗示的）</p>
+<p begin="44574530000t" end="44608740000t" region="bottomCenter" style="s1" xml:id="subtitle769">你要么跑到我丈夫那里把我做的事告诉他<br />You can either run and tell my husband what I have done...</p>
+<p begin="44608990000t" end="44635800000t" region="bottomCenter" style="s1" xml:id="subtitle770">要么就在这儿等死吧<br />...or you can stay there and die.</p>
+<p begin="44642430000t" end="44657690000t" region="bottomCenter" style="s1" xml:id="subtitle771">他正待在女厕所里！<br />He's in the ladies' room!</p>
+<p begin="44725560000t" end="44735770000t" region="bottomCenter" style="s1" xml:id="subtitle772">快点<br />Hurry.</p>
+<p begin="45000570000t" end="45032170000t" region="bottomCenter" style="s1" xml:id="subtitle773">-我叫尼奥   -我就是制钥人<br />-My name is Neo.   -Yes. I'm the Keymaker.</p>
+<p begin="45034460000t" end="45052700000t" region="bottomCenter" style="s1" xml:id="subtitle774">我一直在等你<br />I've been waiting for you.</p>
+<p begin="45122000000t" end="45148680000t" region="bottomCenter" style="s1" xml:id="subtitle775">上帝啊！波赛芬尼，你怎么能这么做？<br />My God! My God, Persephone, how could you do this?</p>
+<p begin="45148930000t" end="45166400000t" region="bottomCenter" style="s1" xml:id="subtitle776">你竟然背叛我<br />You betray me.</p>
+<p begin="45201500000t" end="45229800000t" region="bottomCenter" style="s1" xml:id="subtitle777">-有因必有果，亲爱的   -原因？<br />-Cause and effect, my love.   -Cause?</p>
+<p begin="45232090000t" end="45261090000t" region="bottomCenter" style="s1" xml:id="subtitle778">根本不存在这么做的原因  什么原因？<br />There is no cause for this.  What cause?</p>
+<p begin="45261940000t" end="45307350000t" region="bottomCenter" style="s1" xml:id="subtitle779">原因何在？ 你身上的唇膏算不算？<br />What cause?  How about the lipstick you're still wearing?</p>
+<p begin="45307600000t" end="45335600000t" region="bottomCenter" style="s1" xml:id="subtitle780">唇膏？唇膏？<br />Lipstick?  Lipstick?</p>
+<p begin="45336130000t" end="45373720000t" region="bottomCenter" style="s1" xml:id="subtitle781">女人，你又在说什么疯话？ 我嘴上哪有唇膏？<br />What craziness are you talking about, woman?  There is no lipstick!</p>
+<p begin="45373970000t" end="45393170000t" region="bottomCenter" style="s1" xml:id="subtitle782">（眼睛向下瞟的动作，意思是唇膏其实在那里，法国人是去了女厕所里让人口交……）</p>
+<p begin="45393410000t" end="45417980000t" region="bottomCenter" style="s1" xml:id="subtitle783">她吻的又不是你的脸，亲爱的！<br />She wasn't kissing your face, my love.</p>
+<p begin="45443400000t" end="45464860000t" region="bottomCenter" style="s1" xml:id="subtitle784">女人，这又没什么<br />Woman, this is nothing.</p>
+<p begin="45476400000t" end="45524610000t" region="bottomCenter" style="s1" xml:id="subtitle785">-那只是娱乐  只是找乐子罢了  -那我也是啊<br />-lt is a game.  It is only a game.  -So is this.</p>
+<p begin="45533360000t" end="45551800000t" region="bottomCenter" style="s1" xml:id="subtitle786">玩的开心点<br />Have fun.</p>
+<p begin="45619030000t" end="45635430000t" region="bottomCenter" style="s1" xml:id="subtitle787">好啊<br />All right.</p>
+<p begin="45636900000t" end="45651430000t" region="bottomCenter" style="s1" xml:id="subtitle788">好啊<br />All right.</p>
+<p begin="45656920000t" end="45679180000t" region="bottomCenter" style="s1" xml:id="subtitle789">让我们看看结果如何<br />Let us find out where this goes.</p>
+<p begin="45686160000t" end="45712610000t" region="bottomCenter" style="s1" xml:id="subtitle790">你们两个，抓住制钥人<br />You two, get the Keymaker.</p>
+<p begin="45781590000t" end="45795320000t" region="bottomCenter" style="s1" xml:id="subtitle791">这一招挺炫的<br />That's a nice trick.</p>
+<p begin="45801900000t" end="45814790000t" region="bottomCenter" style="s1" xml:id="subtitle792">我不能回去<br />I cannot go back.</p>
+<p begin="45820830000t" end="45837170000t" region="bottomCenter" style="s1" xml:id="subtitle793">我来对付他们<br />I'll handle them.</p>
+<p begin="45843330000t" end="45903380000t" region="bottomCenter" style="s1" xml:id="subtitle794">对付我们？ 就你对付我们？ 知道吗，你的前辈们比你名气大多了<br />Handle us?  You'll handle us?  You know, your predecessors had much more respect.</p>
+<p begin="46040630000t" end="46061360000t" region="bottomCenter" style="s1" xml:id="subtitle795">行啊，确实有两下子<br />Okay, you have some skill.</p>
+<p begin="46084330000t" end="46096460000t" region="bottomCenter" style="s1" xml:id="subtitle796">干掉他<br />Kill him.</p>
+<p begin="46704300000t" end="46723630000t" region="bottomCenter" style="s1" xml:id="subtitle797">看到没？ 他还是肉体凡胎<br />You see?   He's just a man.</p>
+<p begin="48074190000t" end="48098990000t" region="bottomCenter" style="s1" xml:id="subtitle798">真见鬼！娘们，你早晚要把我害死<br />Goddamn it, woman, you will be the end of me.</p>
+<p begin="48121760000t" end="48161010000t" region="bottomCenter" style="s1" xml:id="subtitle799">记住我说的话，小子，记好了<br />Mark my words, boy, and mark them well.</p>
+<p begin="48163850000t" end="48207680000t" region="bottomCenter" style="s1" xml:id="subtitle800">你的前辈们奈何不了我，你也休想做到！<br />I have survived your predecessors, and I will survive you.</p>
+<p begin="48416600000t" end="48446130000t" region="bottomCenter" style="s1" xml:id="subtitle801">-你要去哪儿？  -换条路走，路无处不在<br />-Where are you going?   -Another way. Always another way.</p>
+<p begin="48491400000t" end="48503130000t" region="bottomCenter" style="s1" xml:id="subtitle802">快关门！<br />Close it, quick!</p>
+<p begin="48558490000t" end="48576290000t" region="bottomCenter" style="s1" xml:id="subtitle803">你就不能再快点吗？<br />Could we move along?</p>
+<p begin="48617960000t" end="48629900000t" region="bottomCenter" style="s1" xml:id="subtitle804">快跑！<br />Run!</p>
+<p begin="48794000000t" end="48812860000t" region="bottomCenter" style="s1" xml:id="subtitle805">离开那扇门<br />Step away from the door.</p>
+<p begin="48867360000t" end="48880360000t" region="bottomCenter" style="s1" xml:id="subtitle806">真对不起你<br />We owe you for that.</p>
+<p begin="48904330000t" end="48915930000t" region="bottomCenter" style="s1" xml:id="subtitle807">就像新的一样<br />Just like new.</p>
+<p begin="48919630000t" end="48932130000t" region="bottomCenter" style="s1" xml:id="subtitle808">放下武器<br />Drop your weapon.</p>
+<p begin="48988350000t" end="49006650000t" region="bottomCenter" style="s1" xml:id="subtitle809">-你得跟着他  -尼奥怎么办？<br />-Stay with him.   -What about Neo?</p>
+<p begin="49006900000t" end="49022200000t" region="bottomCenter" style="s1" xml:id="subtitle810">他自己对付的过来<br />He can handle himself.</p>
+<p begin="49053000000t" end="49063460000t" region="bottomCenter" style="s1" xml:id="subtitle811">坐到后座去<br />Get in back.</p>
+<p begin="49440700000t" end="49452300000t" region="bottomCenter" style="s1" xml:id="subtitle812">该死<br />Shit.</p>
+<p begin="49457000000t" end="49472300000t" region="bottomCenter" style="s1" xml:id="subtitle813">-接线员   -林克，我在哪里？<br />-Operator.   -Link, where am I?</p>
+<p begin="49478300000t" end="49510300000t" region="bottomCenter" style="s1" xml:id="subtitle814">你不会相信的，你在很远的山顶上<br />You are not gonna believe this, but you're way up in the mountains.</p>
+<p begin="49517130000t" end="49538670000t" region="bottomCenter" style="s1" xml:id="subtitle815">-真的？ -是的  我还得花点时间找个出口<br />-Really?   -Yes.  lt'll take me a while to get an exit.</p>
+<p begin="49538920000t" end="49551000000t" region="bottomCenter" style="s1" xml:id="subtitle816">-糟糕！  -怎么了？<br />-Shit!  -What?</p>
+<p begin="49553100000t" end="49580800000t" region="bottomCenter" style="s1" xml:id="subtitle817">双子病毒在追杀墨菲斯和崔妮蒂，他们没办法摆脱<br />The twins are after Morpheus and Trinity. They don't have a way out.</p>
+<p begin="49581050000t" end="49610020000t" region="bottomCenter" style="s1" xml:id="subtitle818">-他们在哪儿？  -市区中心，南边五百英里<br />-Where are they?   -Middle of the city, 500 miles due south.</p>
+<p begin="49784550000t" end="49800150000t" region="bottomCenter" style="s1" xml:id="subtitle819">-接线员  -让我们出去，林克<br />-Operator.   -Get us out of here, Link.</p>
+<p begin="49800400000t" end="49825210000t" region="bottomCenter" style="s1" xml:id="subtitle820">-不那么容易的，长官   -我知道！我们在核心网络中<br />-That won 't be easy, sir.   -I know!  We're inside the core network.</p>
+<p begin="49825460000t" end="49857150000t" region="bottomCenter" style="s1" xml:id="subtitle821">遵命，长官！你们附近唯一的出口在Winslow高架桥<br />Yes, sir!  The only exit I got near you is the Winslow overpass.</p>
+<p begin="49857400000t" end="49877820000t" region="bottomCenter" style="s1" xml:id="subtitle822">-要下高速公路？  -是的，长官<br />-Off the freeway.   -Yes, sir.</p>
+<p begin="49880500000t" end="49917150000t" region="bottomCenter" style="s1" xml:id="subtitle823">-很好，我们能办到的   -长官，我想说...哦该死！小心后面！<br />-Fine, we'll make it.   -I think I should say... Oh, shit!  Look out behind you!</p>
+<p begin="49967630000t" end="49983230000t" region="bottomCenter" style="s1" xml:id="subtitle824">-有人开枪   -趴下!<br />-lncoming fire.   -Down!</p>
+<p begin="50065760000t" end="50077360000t" region="bottomCenter" style="s1" xml:id="subtitle825">坐好了！<br />Hold on!</p>
+<p begin="50248530000t" end="50272950000t" region="bottomCenter" style="s1" xml:id="subtitle826">哦不，事情发生的太突然，太快了<br />Oh, no. This is getting real ugly real fast.</p>
+<p begin="50273200000t" end="50290580000t" region="bottomCenter" style="s1" xml:id="subtitle827">你看到了吗，林克？<br />Are you watching this, Link?</p>
+<p begin="50291560000t" end="50319830000t" region="bottomCenter" style="s1" xml:id="subtitle828">是长官  他们全都朝你们驶来了  有八辆警车<br />Yes, sir. There's an all points on you. Eight units headed your way.</p>
+<p begin="50339300000t" end="50351700000t" region="bottomCenter" style="s1" xml:id="subtitle829">有什么建议吗？<br />Any suggestions?</p>
+<p begin="50378600000t" end="50397660000t" region="bottomCenter" style="s1" xml:id="subtitle830">-向右转   -快右转<br />-Turn right.   -Right, now.</p>
+<p begin="50473400000t" end="50502850000t" region="bottomCenter" style="s1" xml:id="subtitle831">直走，你们会撞倒一道拦网，然后抵达连接101公路的隧道<br />Straight here. You'll hit a connecting tunnel to the 101.</p>
+<p begin="50503100000t" end="50531380000t" region="bottomCenter" style="s1" xml:id="subtitle832">-明白   -长官，你确定要这么做吗？我意思是，那条高速，它非常危险<br />-Got it.   -Sir, are you sure about this?  The freeway, I mean. It's dangerous.</p>
+<p begin="50531630000t" end="50568710000t" region="bottomCenter" style="s1" xml:id="subtitle833">我已经在船上呆了14个年头了，长官，可我从未见过……   -林克！我是怎么跟你说的？<br />-ln 14 years of operating, I've never seen   -Link, what did I tell you?</p>
+<p begin="50573380000t" end="50586180000t" region="bottomCenter" style="s1" xml:id="subtitle834">遵命，长官  我相信你<br />Yes, sir.  I do, sir.</p>
+<p begin="50586180000t" end="50598430000t" region="bottomCenter" style="s1" xml:id="subtitle835">Winslow高架桥……<br />Winslow overpass.</p>
+<p begin="50598530000t" end="50617260000t" region="bottomCenter" style="s1" xml:id="subtitle836">-我会做好准备  -好样的<br />-I'll be ready for you.   -Good man.</p>
+<p begin="50623930000t" end="50644910000t" region="bottomCenter" style="s1" xml:id="subtitle837">你总说要避开高速公路<br />You always told me to stay off the freeway.</p>
+<p begin="50645160000t" end="50675180000t" region="bottomCenter" style="s1" xml:id="subtitle838">-是的，没错   -你说过那就是自杀<br />-Yes, that's true.   -You said it was suicide.</p>
+<p begin="50675430000t" end="50693480000t" region="bottomCenter" style="s1" xml:id="subtitle839">那就让我们希望……<br />Then let us hope...</p>
+<p begin="50694540000t" end="50708900000t" region="bottomCenter" style="s1" xml:id="subtitle840">我说错了吧<br />...that I was wrong.</p>
+<p begin="50824930000t" end="50840850000t" region="bottomCenter" style="s1" xml:id="subtitle841">-接线员  -林克，我是奈奥比<br />-Operator.   -Link, it's Niobe.</p>
+<p begin="50842010000t" end="50857740000t" region="bottomCenter" style="s1" xml:id="subtitle842">我们奉命来接你们回去<br />We've been sent to bring you in.</p>
+<p begin="50857990000t" end="50888360000t" region="bottomCenter" style="s1" xml:id="subtitle843">-我要和墨菲斯讲话   -相信我，他正需要你<br />-I need to talk to Morpheus.   -Believe me, Niobe, he needs you.</p>
+<p begin="50888610000t" end="50910760000t" region="bottomCenter" style="s1" xml:id="subtitle844">-他在那儿？  -跟着警车走就行<br />-Where is he?   -Just follow the sirens.</p>
+<p begin="50987030000t" end="51005360000t" region="bottomCenter" style="s1" xml:id="subtitle845">我重复一遍，他们正靠近……<br />Repeat, they're approaching the</p>
+<p begin="51039800000t" end="51077060000t" region="bottomCenter" style="s1" xml:id="subtitle846">-找到他们了  -流亡者是首要目标<br />-We have them now.  -The exile is the primary target.</p>
+<p begin="51717400000t" end="51728060000t" region="bottomCenter" style="s1" xml:id="subtitle847">有人开枪<br />Shots fired.</p>
+<p begin="51753300000t" end="51768360000t" region="bottomCenter" style="s1" xml:id="subtitle848">快点！<br />Move!</p>
+<p begin="52871230000t" end="52902230000t" region="bottomCenter" style="s1" xml:id="subtitle849">我们惹上麻烦了 是的，没错<br />We are getting aggravated.  Yes, we are.</p>
+<p begin="53364660000t" end="53379000000t" region="bottomCenter" style="s1" xml:id="subtitle850">崔妮蒂<br />Trinity.</p>
+<p begin="53388730000t" end="53400030000t" region="bottomCenter" style="s1" xml:id="subtitle851">快带他离开这儿<br />Get him out of here.</p>
+<p begin="53436090000t" end="53448090000t" region="bottomCenter" style="s1" xml:id="subtitle852">快来啊！<br />Come on!</p>
+<p begin="53626790000t" end="53641690000t" region="bottomCenter" style="s1" xml:id="subtitle853">撞死他<br />Crush him.</p>
+<p begin="53947300000t" end="53957200000t" region="bottomCenter" style="s1" xml:id="subtitle854">墨菲斯<br />Morpheus.</p>
+<p begin="53958200000t" end="53973400000t" region="bottomCenter" style="s1" xml:id="subtitle855">他没事的  不要停下<br />He's okay.  Keep moving.</p>
+<p begin="53983200000t" end="53998660000t" region="bottomCenter" style="s1" xml:id="subtitle856">咱们走<br />Let's go.</p>
+<p begin="54059000000t" end="54080600000t" region="bottomCenter" style="s1" xml:id="subtitle857">我要载入程序强行启动摩托车<br />I need a download to hotwire a motorcycle.</p>
+<p begin="54085000000t" end="54106280000t" region="bottomCenter" style="s1" xml:id="subtitle858">没问题，摩托车速成<br />No problem.  One crash course on motorcycle</p>
+<p begin="54106530000t" end="54119060000t" region="bottomCenter" style="s1" xml:id="subtitle859">等等<br />Wait.</p>
+<p begin="54135130000t" end="54150030000t" region="bottomCenter" style="s1" xml:id="subtitle860">取消操作<br />Cancel that.</p>
+<p begin="54152130000t" end="54168260000t" region="bottomCenter" style="s1" xml:id="subtitle861">你可真及时<br />You are handy.</p>
+<p begin="54175100000t" end="54187300000t" region="bottomCenter" style="s1" xml:id="subtitle862">上车<br />Jump on.</p>
+<p begin="55668200000t" end="55679650000t" region="bottomCenter" style="s1" xml:id="subtitle863">她不重要<br />She means nothing.</p>
+<p begin="55679900000t" end="55710530000t" region="bottomCenter" style="s1" xml:id="subtitle864">去找流亡者  已经找到了<br />Find the exile.  We have them.</p>
+<p begin="55710780000t" end="55730530000t" region="bottomCenter" style="s1" xml:id="subtitle865">请回答</p>
+<p begin="55799690000t" end="55814420000t" region="bottomCenter" style="s1" xml:id="subtitle866">蹲下<br />Get down.</p>
+<p begin="57127600000t" end="57141660000t" region="bottomCenter" style="s1" xml:id="subtitle867">找到你了<br />Gotcha.</p>
+<p begin="57150630000t" end="57160730000t" region="bottomCenter" style="s1" xml:id="subtitle868">她可真行<br />She's good.</p>
+<p begin="57205400000t" end="57226860000t" region="bottomCenter" style="s1" xml:id="subtitle869">你现在已经没必要存在<br />You are no longer necessary.</p>
+<p begin="57293170000t" end="57327630000t" region="bottomCenter" style="s1" xml:id="subtitle870">我们只是在做我们应该做的<br />We do only what we're meant to do.</p>
+<p begin="57348430000t" end="57384330000t" region="bottomCenter" style="s1" xml:id="subtitle871">那你应该做的事只有一件：被删除<br />Then you are meant for one more thing: deletion.</p>
+<p begin="57394000000t" end="57408600000t" region="bottomCenter" style="s1" xml:id="subtitle872">把他干掉<br />Go kick his ass.</p>
+<p begin="57913200000t" end="57941060000t" region="bottomCenter" style="s1" xml:id="subtitle873">尼奥，如果你听得见的话，我们需要帮助<br />Neo, if you're out there, I could use some help.</p>
+<p begin="57948930000t" end="57962130000t" region="bottomCenter" style="s1" xml:id="subtitle874">那是什么？<br />What is that?</p>
+<p begin="58261500000t" end="58290100000t" region="bottomCenter" style="s1" xml:id="subtitle875">耶！耶！<br />Yes! Yes!</p>
+<p begin="58356830000t" end="58407200000t" region="bottomCenter" style="s1" xml:id="subtitle876">长官，我们已从伊卡洛斯号得到确认，带头的两艘战舰已进入反击位置<br />Sir, we have confirmation from the lcarus.  First two ships are in position for counterattack.</p>
+<p begin="58410300000t" end="58420200000t" region="bottomCenter" style="s1" xml:id="subtitle877">很好<br />Good.</p>
+<p begin="58430300000t" end="58440600000t" region="bottomCenter" style="s1" xml:id="subtitle878">有什么动向？<br />Any change?</p>
+<p begin="58446030000t" end="58473290000t" region="bottomCenter" style="s1" xml:id="subtitle879">看起来它们钻到了铁矿  掘进速度减慢了一点点<br />Looks like they hit some iron ore here. Slowed them down a little.</p>
+<p begin="58473540000t" end="58503000000t" region="bottomCenter" style="s1" xml:id="subtitle880">-慢了多少？  -大约一个小时<br />-How much?   -An hour, maybe.</p>
+<p begin="58506010000t" end="58530180000t" region="bottomCenter" style="s1" xml:id="subtitle881">那就是说它们还需要九个小时多一点<br />That would give them a little over nine hours.</p>
+<p begin="58538400000t" end="58551780000t" region="bottomCenter" style="s1" xml:id="subtitle882">是的，长官<br />Yes, sir.</p>
+<p begin="58880330000t" end="58900860000t" region="bottomCenter" style="s1" xml:id="subtitle883">有一栋大厦<br />There is a building.</p>
+<p begin="58905100000t" end="58958150000t" region="bottomCenter" style="s1" xml:id="subtitle884">在那栋大厦里，有一个楼层，没有电梯可以通往那儿<br />Inside this building, there is a level where no elevator can go...</p>
+<p begin="58963200000t" end="58982400000t" region="bottomCenter" style="s1" xml:id="subtitle885">也没有楼梯可以到达<br />...and no stair can reach.</p>
+<p begin="58989200000t" end="59048810000t" region="bottomCenter" style="s1" xml:id="subtitle886">那一层里面全都是门  那些门通往很多地方<br />This level is filled with doors. These doors lead to many places.</p>
+<p begin="59049680000t" end="59069340000t" region="bottomCenter" style="s1" xml:id="subtitle887">不为人知的地方<br />Hidden places.</p>
+<p begin="59080250000t" end="59109760000t" region="bottomCenter" style="s1" xml:id="subtitle888">但有一扇门很特殊<br />But one door is special.</p>
+<p begin="59115990000t" end="59138910000t" region="bottomCenter" style="s1" xml:id="subtitle889">它能通往代码之源<br />One door leads to the source.</p>
+<p begin="59221360000t" end="59264430000t" region="bottomCenter" style="s1" xml:id="subtitle890">那栋大厦被级别很高的安全系统保护着<br />This building is protected by a very secure system.</p>
+<p begin="59267800000t" end="59313530000t" region="bottomCenter" style="s1" xml:id="subtitle891">-任何一个警报器都能触发炸弹   -炸弹？他是说炸弹？<br />-Every alarm triggers the bomb.   -Bomb? Did he say bomb?</p>
+<p begin="59315530000t" end="59341360000t" region="bottomCenter" style="s1" xml:id="subtitle892">但像所有系统一样，它也有个弱点<br />But like all systems, it has a weakness.</p>
+<p begin="59343460000t" end="59373360000t" region="bottomCenter" style="s1" xml:id="subtitle893">这个系统也遵循着建筑物共同的规则<br />The system is based on the rules of a building.</p>
+<p begin="59375300000t" end="59410660000t" region="bottomCenter" style="s1" xml:id="subtitle894">-一个系统需要建立在另一个之上   -电力系统<br />-One system built on another.   -Electricity.</p>
+<p begin="59414700000t" end="59459800000t" region="bottomCenter" style="s1" xml:id="subtitle895">-一个系统失效，其他的就必然失效   -没有了电就无法触发警报<br />-If one fails, so must the other.   -No electricity, no alarms.</p>
+<p begin="59460090000t" end="59493700000t" region="bottomCenter" style="s1" xml:id="subtitle896">必须要切断整个街区的电力，才能切断像这样一栋建筑的电力<br />You'd have to take out a whole city block to kill the power of the building like that.</p>
+<p begin="59493950000t" end="59530360000t" region="bottomCenter" style="s1" xml:id="subtitle897">-不是一个，是27个   -27个街区？<br />-Not one, 27.   -Twentyseven blocks?</p>
+<p begin="59539400000t" end="59562990000t" region="bottomCenter" style="s1" xml:id="subtitle898">有一个供电站<br />There is a power station.</p>
+<p begin="59564690000t" end="59586990000t" region="bottomCenter" style="s1" xml:id="subtitle899">必须将其摧毁<br />It must be destroyed.</p>
+<p begin="59588530000t" end="59632580000t" region="bottomCenter" style="s1" xml:id="subtitle900">-肯定还有什么后备系统吧？  -是的，有一个应急供电系统<br />-There must be some kind of failsafe.   -Yes, there is an emergency system.</p>
+<p begin="59648730000t" end="59684310000t" region="bottomCenter" style="s1" xml:id="subtitle901">必须进入街区网络的核心部分<br />The core network of the grid must be accessed.</p>
+<p begin="59689300000t" end="59718750000t" region="bottomCenter" style="s1" xml:id="subtitle902">必须切断这个应急系统<br />The emergency system must be deactivated.</p>
+<p begin="59719000000t" end="59733300000t" region="bottomCenter" style="s1" xml:id="subtitle903">那还需要我们做什么呢？<br />What do you need us for?</p>
+<p begin="59736360000t" end="59756540000t" region="bottomCenter" style="s1" xml:id="subtitle904">尼奥能比我们更轻易的办到这些<br />Neo could take them out easier than we could.</p>
+<p begin="59756790000t" end="59775590000t" region="bottomCenter" style="s1" xml:id="subtitle905">-时间来不及   -为什么？<br />-There's no time.   -Why?</p>
+<p begin="59776160000t" end="59807060000t" region="bottomCenter" style="s1" xml:id="subtitle906">一旦那扇门失去保护，连接将会被切断<br />Once the door is unprotected, the connection will be severed.</p>
+<p begin="59810400000t" end="59834050000t" region="bottomCenter" style="s1" xml:id="subtitle907">不过必须首先建立另一个连接<br />But another connection must first be made.</p>
+<p begin="59841360000t" end="59879660000t" region="bottomCenter" style="s1" xml:id="subtitle908">-需要多长时间？  -整整314秒（圆周率，暗示救世主使命的循环）<br />-How long will that take?   -Exactly 314 seconds.</p>
+<p begin="59881800000t" end="59898600000t" region="bottomCenter" style="s1" xml:id="subtitle909">五分钟多一点<br />Just over five minutes.</p>
+<p begin="59898850000t" end="59921050000t" region="bottomCenter" style="s1" xml:id="subtitle910">那就是整个窗口期的长度<br />That is the length and breadth of the window.</p>
+<p begin="59923500000t" end="59977420000t" region="bottomCenter" style="s1" xml:id="subtitle911">只有救世主才能开启那道门，也只有在那段窗口期门才能被打开<br />Only the One can open the door, and only during that window can the door be opened.</p>
+<p begin="59990200000t" end="60005800000t" region="bottomCenter" style="s1" xml:id="subtitle912">你是怎么知道这些的？<br />How do you know all this?</p>
+<p begin="60007860000t" end="60055660000t" region="bottomCenter" style="s1" xml:id="subtitle913">因为我必须知道  这就是我存在的目的<br />I know because I must know. It is my purpose.</p>
+<p begin="60062030000t" end="60110810000t" region="bottomCenter" style="s1" xml:id="subtitle914">这就是我来这儿的原因  也是同样的原因让我们所有人来到这里<br />It's the reason I'm here, the same reason we're all here.</p>
+<p begin="60223470000t" end="60247000000t" region="bottomCenter" style="s1" xml:id="subtitle915">尼奥，我知道你有心事<br />Neo, I know something's wrong.</p>
+<p begin="60258500000t" end="60277430000t" region="bottomCenter" style="s1" xml:id="subtitle916">但你不必告诉我<br />You don't have to tell me.</p>
+<p begin="60280770000t" end="60309500000t" region="bottomCenter" style="s1" xml:id="subtitle917">我只想告诉你，我会一直你身边<br />I just want you to know that I'm here.</p>
+<p begin="60353600000t" end="60368800000t" region="bottomCenter" style="s1" xml:id="subtitle918">大家必须团结一致<br />All must be done as one.</p>
+<p begin="60415700000t" end="60432300000t" region="bottomCenter" style="s1" xml:id="subtitle919">戴着也无妨<br />Can't hurt.</p>
+<p begin="60468230000t" end="60488500000t" region="bottomCenter" style="s1" xml:id="subtitle920">一次失败……<br />If one fails...</p>
+<p begin="60496400000t" end="60511300000t" region="bottomCenter" style="s1" xml:id="subtitle921">全盘皆输<br />...all fail.</p>
+<p begin="60516100000t" end="60555300000t" region="bottomCenter" style="s1" xml:id="subtitle922">两栋大厦的警卫都会在午夜换岗<br />At midnight, there is a shift change in the security of both buildings.</p>
+<p begin="60567500000t" end="60601700000t" region="bottomCenter" style="s1" xml:id="subtitle923">我们也将在午夜出击<br />At midnight, we will strike.</p>
+<p begin="60621960000t" end="60657360000t" region="bottomCenter" style="s1" xml:id="subtitle924">-要睡回家睡   -为啥？在这儿睡还能拿工钱<br />-You count sheep at home.   -Why? I get paid to count them here.</p>
+<p begin="60761700000t" end="60783960000t" region="bottomCenter" style="s1" xml:id="subtitle925">好了，他们进去了<br />Okay, they're inside.</p>
+<p begin="60786230000t" end="60809980000t" region="bottomCenter" style="s1" xml:id="subtitle926">-还有多长时间？  -12分钟<br />-How much time?   -Twelve minutes.</p>
+<p begin="60837700000t" end="60848700000t" region="bottomCenter" style="s1" xml:id="subtitle927">哦，糟了<br />Oh, shit.</p>
+<p begin="60882500000t" end="60938740000t" region="bottomCenter" style="s1" xml:id="subtitle928">我们每个人都将自己的一生投入了这场战争  今晚  我相信就是它的终结之时<br />All of our lives, we have fought this war. Tonight, I believe we can end it.</p>
+<p begin="60952360000t" end="60971560000t" region="bottomCenter" style="s1" xml:id="subtitle929">选在今晚绝非偶然<br />Tonight is not an accident.</p>
+<p begin="60986900000t" end="61021030000t" region="bottomCenter" style="s1" xml:id="subtitle930">没有什么是出于偶然<br />There are no accidents.</p>
+<p begin="61021280000t" end="61071200000t" region="bottomCenter" style="s1" xml:id="subtitle931">我们来到这里不是偶然  我也从不相信偶然<br />We have not come here by chance.  I do not believe in chance.</p>
+<p begin="61073000000t" end="61128600000t" region="bottomCenter" style="s1" xml:id="subtitle932">当我看到三个目标、三位舰长、三艘战舰……<br />When I see three objectives, three captains, three ships...</p>
+<p begin="61130400000t" end="61165600000t" region="bottomCenter" style="s1" xml:id="subtitle933">我看到的不是偶然  我看到了天意<br />...I do not see coincidence.  I see providence.</p>
+<p begin="61169100000t" end="61192400000t" region="bottomCenter" style="s1" xml:id="subtitle934">我看到了意义<br />I see purpose.</p>
+<p begin="61219500000t" end="61282700000t" region="bottomCenter" style="s1" xml:id="subtitle935">我相信命中注定我们要来到这里  这就是我们的宿命<br />I believe it is our fate to be here.  It is our destiny.</p>
+<p begin="61284500000t" end="61334500000t" region="bottomCenter" style="s1" xml:id="subtitle936">我相信今晚将关系到我们所有人……<br />I believe this night holds for each and every one of us...</p>
+<p begin="61336200000t" end="61369600000t" region="bottomCenter" style="s1" xml:id="subtitle937">生命的意义所在<br />...the very meaning of our lives.</p>
+<p begin="61371300000t" end="61407500000t" region="bottomCenter" style="s1" xml:id="subtitle938">我想请你做一件事，但我不知该怎么说<br />I want to ask you to do something, but I don't know how.</p>
+<p begin="61417620000t" end="61436820000t" region="bottomCenter" style="s1" xml:id="subtitle939">我答应你，只要情况允许，我一定会做到<br />I promise you, if I can, I will.</p>
+<p begin="61451320000t" end="61479320000t" region="bottomCenter" style="s1" xml:id="subtitle940">如果我想让你不要参与这次行动……<br />What if I asked you to stay out of this...</p>
+<p begin="61493690000t" end="61513890000t" region="bottomCenter" style="s1" xml:id="subtitle941">不论什么情况发生……<br />...no matter what...</p>
+<p begin="61516630000t" end="61538430000t" region="bottomCenter" style="s1" xml:id="subtitle942">都不要进入矩阵呢？<br />...to stay out of the Matrix?</p>
+<p begin="61549700000t" end="61566120000t" region="bottomCenter" style="s1" xml:id="subtitle943">为什么？<br />Why?</p>
+<p begin="61649050000t" end="61660860000t" region="bottomCenter" style="s1" xml:id="subtitle944">求你了<br />Please.</p>
+<p begin="61681560000t" end="61694190000t" region="bottomCenter" style="s1" xml:id="subtitle945">好吧<br />All right.</p>
+<p begin="61728600000t" end="61744800000t" region="bottomCenter" style="s1" xml:id="subtitle946">怎么了？奈奥比<br />What is it, Niobe?</p>
+<p begin="61755350000t" end="61798150000t" region="bottomCenter" style="s1" xml:id="subtitle947">我是忍不住在想，墨菲斯……忍不住去想：如果你错了呢？<br />I can't help it, Morpheus.  I can't help thinking, what if you're wrong?</p>
+<p begin="61798400000t" end="61833360000t" region="bottomCenter" style="s1" xml:id="subtitle948">如果所有这些，还有那个预言，一切的一切都是扯谎呢？<br />What if all this, the prophecy, everything, is bullshit?</p>
+<p begin="61833610000t" end="61862780000t" region="bottomCenter" style="s1" xml:id="subtitle949">那明天将是我们所有人的忌日<br />Then tomorrow we may all be dead.</p>
+<p begin="61878230000t" end="61903020000t" region="bottomCenter" style="s1" xml:id="subtitle950">但那又与其他的日子有何不同呢？<br />But how would that be different from any other day?</p>
+<p begin="61998200000t" end="62062900000t" region="bottomCenter" style="s1" xml:id="subtitle951">这是一场战争，而我们是战士<br />This is a war, and we are soldiers.</p>
+<p begin="62063150000t" end="62094660000t" region="bottomCenter" style="s1" xml:id="subtitle952">死亡，可能在任何时间……<br />Death can come for us at any time...</p>
+<p begin="62097960000t" end="62115660000t" region="bottomCenter" style="s1" xml:id="subtitle953">任何地点，降临到我们头上<br />...and any place.</p>
+<p begin="62120830000t" end="62137980000t" region="bottomCenter" style="s1" xml:id="subtitle954">有情况！<br />Incoming.  Incoming!</p>
+<p begin="62138230000t" end="62150180000t" region="bottomCenter" style="s1" xml:id="subtitle955">接近警报<br />PROXIMITY ALERT</p>
+<p begin="62155220000t" end="62172250000t" region="bottomCenter" style="s1" xml:id="subtitle956">有情况！<br />Incoming!</p>
+<p begin="62172500000t" end="62229630000t" region="bottomCenter" style="s1" xml:id="subtitle957">整船人丧命于一个小小的意外，冥冥之中照应了本舰的名字——警醒号<br />圣经 马可福音 13:32 “警醒准备”：<br />至于那日子和时间，没有人知道，连天上的天使和子也不知道，只有父知道</p>
+<p begin="62234100000t" end="62255900000t" region="bottomCenter" style="s1" xml:id="subtitle958">但反过来想想<br />Now consider the alternative.</p>
+<p begin="62260500000t" end="62306100000t" region="bottomCenter" style="s1" xml:id="subtitle959">如果是我对的呢？ 如果预言成真了呢？<br />What if I am right?  What if the prophecy is true?</p>
+<p begin="62308820000t" end="62351420000t" region="bottomCenter" style="s1" xml:id="subtitle960">如果明天就能结束这场战争呢？<br />What if tomorrow the war could be over?</p>
+<p begin="62361600000t" end="62390950000t" region="bottomCenter" style="s1" xml:id="subtitle961">这难道不值得为之战斗吗？<br />Isn't that worth fighting for?</p>
+<p begin="62403000000t" end="62429300000t" region="bottomCenter" style="s1" xml:id="subtitle962">难道不值得为之牺牲吗？<br />Isn't that worth dying for?</p>
+<p begin="62438300000t" end="62463630000t" region="bottomCenter" style="s1" xml:id="subtitle963">-还有多久？  -三分钟<br />-Time?  -Three minutes.</p>
+<p begin="62466400000t" end="62478030000t" region="bottomCenter" style="s1" xml:id="subtitle964">就快好了<br />Almost there.</p>
+<p begin="62677660000t" end="62691360000t" region="bottomCenter" style="s1" xml:id="subtitle965">钥匙做好了<br />It is done.</p>
+<p begin="62693730000t" end="62706260000t" region="bottomCenter" style="s1" xml:id="subtitle966">找找其他人<br />Find the others.</p>
+<p begin="62716860000t" end="62740780000t" region="bottomCenter" style="s1" xml:id="subtitle967">找到奈奥比了  他们在供电站外面<br />I got Niobe there.  They're out of the station.</p>
+<p begin="62741030000t" end="62766900000t" region="bottomCenter" style="s1" xml:id="subtitle968">-索伦怎么样？  -在那<br />-What about Soren?  -There.</p>
+<p begin="62771160000t" end="62788720000t" region="bottomCenter" style="s1" xml:id="subtitle969">他们还在里面，不过……<br />They're still inside, but....</p>
+<p begin="62798000000t" end="62808430000t" region="bottomCenter" style="s1" xml:id="subtitle970">他们没有行动<br />They're not moving.</p>
+<p begin="63047730000t" end="63065000000t" region="bottomCenter" style="s1" xml:id="subtitle971">好了，我们走<br />That's it, let's go.</p>
+<p begin="63089600000t" end="63106860000t" region="bottomCenter" style="s1" xml:id="subtitle972">立即呼叫尼奥<br />Call Neo now.</p>
+<p begin="63148100000t" end="63175360000t" region="bottomCenter" style="s1" xml:id="subtitle973">-我跟丢他们了  他们在网关里  -街区怎么样了？<br />-I lost them. They're inside the portal.   -What about the grid?</p>
+<p begin="63186060000t" end="63201100000t" region="bottomCenter" style="s1" xml:id="subtitle974">更改供电系统……紧急供电系统启动<br />PERROUTING POWER……EMERGEMCY SYSTEMS ACTIVATED</p>
+<p begin="63218000000t" end="63254870000t" region="bottomCenter" style="s1" xml:id="subtitle975">一切照常运转  紧急供电系统已经接管供电<br />Everything is still operational. The emergency system is rerouting power.</p>
+<p begin="63307330000t" end="63327840000t" region="bottomCenter" style="s1" xml:id="subtitle976">上帝啊<br />Jesus.</p>
+<p begin="63333260000t" end="63372040000t" region="bottomCenter" style="s1" xml:id="subtitle977">只要他们打开那扇门，一切都完了<br />Soon as they open that door, it's all over.</p>
+<p begin="63375090000t" end="63385190000t" region="bottomCenter" style="s1" xml:id="subtitle978">去他妈的<br />The hell it is.</p>
+<p begin="63401060000t" end="63414720000t" region="bottomCenter" style="s1" xml:id="subtitle979">你要干嘛？崔妮蒂<br />What are you? Trinity!</p>
+<p begin="63425170000t" end="63459450000t" region="bottomCenter" style="s1" xml:id="subtitle980">我不能站在这儿袖手旁观  我不能眼看着他们死掉<br />I will not wait and do nothing.  I will not watch them die.</p>
+<p begin="63459700000t" end="63482450000t" region="bottomCenter" style="s1" xml:id="subtitle981">崔尼蒂，我们只有不到五分钟的时间<br />Trinity,  We're talking less than five minutes.</p>
+<p begin="63482700000t" end="63507900000t" region="bottomCenter" style="s1" xml:id="subtitle982">五分钟足够我夷平那栋天杀的大厦了<br />In five minutes, I'll tear that whole goddamn building down.</p>
+<p begin="63510330000t" end="63538390000t" region="bottomCenter" style="s1" xml:id="subtitle983">-还有多远？  -到了，这就到了<br />-How much further?   -Here, just here.</p>
+<p begin="63558100000t" end="63590560000t" region="bottomCenter" style="s1" xml:id="subtitle984">对不起，此路不通<br />I'm sorry, this is a dead end.</p>
+<p begin="63606350000t" end="63633130000t" region="bottomCenter" style="s1" xml:id="subtitle985">这一定是我搞过的最险恶的入侵<br />It's gotta be the ugliest hack I have ever done.</p>
+<p begin="63666290000t" end="63696560000t" region="bottomCenter" style="s1" xml:id="subtitle986">我只能送你到那了  你可得生出翅膀才行<br />That's as close as I can get you. You better grow wings.</p>
+<p begin="63878800000t" end="63894400000t" region="bottomCenter" style="s1" xml:id="subtitle987">-接线员   -我进来了<br />-Operator.   -I'm in.</p>
+<p begin="63896100000t" end="63915640000t" region="bottomCenter" style="s1" xml:id="subtitle988">继续前进，第65层<br />Keep moving. Sixtyfifth floor.</p>
+<p begin="63922790000t" end="63963920000t" region="bottomCenter" style="s1" xml:id="subtitle989">再次见到我，你似乎有点意外啊，安德森先生<br />You look surprised to see me again, Mr. Anderson.</p>
+<p begin="63968470000t" end="64020780000t" region="bottomCenter" style="s1" xml:id="subtitle990">好吧，我们还是有那么一点区别的：我可一直在期待你呢<br />Well, that's the difference between us.  I have been expecting you.</p>
+<p begin="64023600000t" end="64053350000t" region="bottomCenter" style="s1" xml:id="subtitle991">-你想要什么，史密斯？  -你还没想出来吗？<br />-What do you want, Smith?   -Oh, you haven't figured that out?</p>
+<p begin="64054660000t" end="64105670000t" region="bottomCenter" style="s1" xml:id="subtitle992">还是那么四肢发达，头脑简单<br />Still using all the muscles except the one that matters.</p>
+<p begin="64110300000t" end="64135540000t" region="bottomCenter" style="s1" xml:id="subtitle993">我想要的正是你想要的<br />I want exactly what you want.</p>
+<p begin="64138400000t" end="64156380000t" region="bottomCenter" style="s1" xml:id="subtitle994">我想要一切<br />I want everything.</p>
+<p begin="64164100000t" end="64189210000t" region="bottomCenter" style="s1" xml:id="subtitle995">是否也包括这支枪里的子弹？<br />Would that include a bullet from this gun?</p>
+<p begin="64191060000t" end="64208660000t" region="bottomCenter" style="s1" xml:id="subtitle996">好啊，开枪吧<br />Go ahead, shoot.</p>
+<p begin="64210100000t" end="64261660000t" region="bottomCenter" style="s1" xml:id="subtitle997">我最大的长处就是，用之不竭<br />The best thing about being me, there's so many me's.</p>
+<p begin="64376970000t" end="64405960000t" region="bottomCenter" style="s1" xml:id="subtitle998">老天呐，这儿到底发生了什么？<br />Christ!  What the hell happened in here?</p>
+<p begin="64422890000t" end="64437690000t" region="bottomCenter" style="s1" xml:id="subtitle999">站在那别动，女士！<br />Hold it right there, little lady.</p>
+<p begin="64536560000t" end="64553700000t" region="bottomCenter" style="s1" xml:id="subtitle1000">如果你打不赢我们......<br />If you can't beat us....</p>
+<p begin="64553950000t" end="64569100000t" region="bottomCenter" style="s1" xml:id="subtitle1001">那就变成我们<br />Join us.</p>
+<p begin="64596400000t" end="64606600000t" region="bottomCenter" style="s1" xml:id="subtitle1002">墨菲斯<br />Morpheus!</p>
+<p begin="64723200000t" end="64732060000t" region="bottomCenter" style="s1" xml:id="subtitle1003">（准许进入）</p>
+<p begin="64742600000t" end="64772660000t" region="bottomCenter" style="s1" xml:id="subtitle1004">还是找不到他们  但不管他们在做什么，现在只剩下两分钟了<br />Still no sight of them. Don't know what they do, but yhey only got two minutes left.</p>
+<p begin="64826620000t" end="64844620000t" region="bottomCenter" style="s1" xml:id="subtitle1005">（错误：紧急供电系统失效）</p>
+<p begin="64874100000t" end="64884000000t" region="bottomCenter" style="s1" xml:id="subtitle1006">（供电故障）</p>
+<p begin="64912420000t" end="64922320000t" region="bottomCenter" style="s1" xml:id="subtitle1007">一分钟<br />One minute.</p>
+<p begin="65015530000t" end="65025430000t" region="bottomCenter" style="s1" xml:id="subtitle1008">快点<br />Come on.</p>
+<p begin="65035230000t" end="65050600000t" region="bottomCenter" style="s1" xml:id="subtitle1009">快点<br />Come on.</p>
+<p begin="65059570000t" end="65076160000t" region="bottomCenter" style="s1" xml:id="subtitle1010">求你了<br />Please.</p>
+<p begin="65179100000t" end="65193760000t" region="bottomCenter" style="s1" xml:id="subtitle1011">杀了他们<br />Kill them.</p>
+<p begin="65274100000t" end="65284300000t" region="bottomCenter" style="s1" xml:id="subtitle1012">他们进去了<br />They're in.</p>
+<p begin="65284550000t" end="65304150000t" region="bottomCenter" style="s1" xml:id="subtitle1013">真难以置信<br />I don't believe it.</p>
+<p begin="65459160000t" end="65479760000t" region="bottomCenter" style="s1" xml:id="subtitle1014">这是命中注定<br />It was meant to be.</p>
+<p begin="65483700000t" end="65536410000t" region="bottomCenter" style="s1" xml:id="subtitle1015">墨菲斯，那道门通往回家的路<br />Morpheus, that door will take you home.</p>
+<p begin="65624320000t" end="65666730000t" region="bottomCenter" style="s1" xml:id="subtitle1016">你知道是哪扇门  快去吧，尼奥<br />You will know which door.   Hurry, Neo.</p>
+<p begin="65723600000t" end="65755300000t" region="bottomCenter" style="s1" xml:id="subtitle1017">崔妮蒂，你前面有大麻烦了<br />Trinity, I got some serious activity headed your way.</p>
+<p begin="66278200000t" end="66291800000t" region="bottomCenter" style="s1" xml:id="subtitle1018">你好，尼奥<br />Hello, Neo.</p>
+<p begin="66297200000t" end="66334400000t" region="bottomCenter" style="s1" xml:id="subtitle1019">-你是谁？  -我是建筑师<br />-Who are you?   -I am the Architect.</p>
+<p begin="66336770000t" end="66372310000t" region="bottomCenter" style="s1" xml:id="subtitle1020">是我创造了矩阵 我一直在等你<br />I created the Matrix.  I've been waiting for you.</p>
+<p begin="66377050000t" end="66417470000t" region="bottomCenter" style="s1" xml:id="subtitle1021">你有很多问题要问  尽管the process（一个程序）已经改变了你的意识……<br />You have many questions.  Though the process has altered your consciousness...</p>
+<p begin="66417720000t" end="66439200000t" region="bottomCenter" style="s1" xml:id="subtitle1022">但你依然不可避免地属于人类<br />...you remain irrevocably human.</p>
+<p begin="66441000000t" end="66476600000t" region="bottomCenter" style="s1" xml:id="subtitle1023">因此，我的有些回答你能理解，有些则不能<br />Ergo, some of my answers you will understand and some you will not.</p>
+<p begin="66480700000t" end="66521300000t" region="bottomCenter" style="s1" xml:id="subtitle1024">通常，虽然你的第一个问题是最具相关性的——<br />Concordantly, while your first question may be the most pertinent...</p>
+<p begin="66523100000t" end="66560100000t" region="bottomCenter" style="s1" xml:id="subtitle1025">你或许能、或许不能意识到——它也是最无关紧要的<br />...you may or may not realize it is also the most irrelevant.</p>
+<p begin="66568800000t" end="66585100000t" region="bottomCenter" style="s1" xml:id="subtitle1026">我为什么会来到这儿？<br />Why am I here?</p>
+<p begin="66585660000t" end="66627250000t" region="bottomCenter" style="s1" xml:id="subtitle1027">你生命是矩阵编程中固有的……<br />Your life is the sum of a remainder of an unbalanced equation...</p>
+<p begin="66627500000t" end="66653020000t" region="bottomCenter" style="s1" xml:id="subtitle1028">一个未能平衡的等式的余数之和<br />...inherent to the programming of the Matrix.</p>
+<p begin="66653270000t" end="66695250000t" region="bottomCenter" style="s1" xml:id="subtitle1029">你是一种变异的结果  尽管我对此付出了最大的努力<br />You are the eventuality of an anomaly, which despite my sincerest efforts...</p>
+<p begin="66695500000t" end="66724570000t" region="bottomCenter" style="s1" xml:id="subtitle1030">还是未能消除余数，否则……<br />...I've been unable to eliminate from what is otherwise...</p>
+<p begin="66724820000t" end="66764550000t" region="bottomCenter" style="s1" xml:id="subtitle1031">就能实现数学精确性的和谐了<br />...a harmony of mathematical precision.</p>
+<p begin="66774750000t" end="66796890000t" region="bottomCenter" style="s1" xml:id="subtitle1032">虽然它依然是一个应当竭力避免的负担<br />While it remains a burden assiduously avoided...</p>
+<p begin="66797140000t" end="66842850000t" region="bottomCenter" style="s1" xml:id="subtitle1033">但是却并非不可预测，因此也不会超出可控制的范围<br />...it is not unexpected and thus not beyond a measure of control...</p>
+<p begin="66844700000t" end="66882520000t" region="bottomCenter" style="s1" xml:id="subtitle1034">是它导致你，不可避免地，来到了……<br />...which has led you, inexorably...</p>
+<p begin="66894120000t" end="66905770000t" region="bottomCenter" style="s1" xml:id="subtitle1035">这里<br />...here.</p>
+<p begin="66909650000t" end="66946570000t" region="bottomCenter" style="s1" xml:id="subtitle1036">-你并没有回答我的问题   -完全正确<br />-You haven't answered my question.   -Quite right.</p>
+<p begin="66950500000t" end="66989510000t" region="bottomCenter" style="s1" xml:id="subtitle1037">有意思  你的反应比其他的更快<br />Interesting.  That was quicker than the others.</p>
+<p begin="66989760000t" end="67018110000t" region="bottomCenter" style="s1" xml:id="subtitle1038">其他人？有几个？ 什么其他的？<br />Others?  How many?  What others?</p>
+<p begin="67018360000t" end="67042950000t" region="bottomCenter" style="s1" xml:id="subtitle1039">矩阵比你所知的更古老<br />The Matrix is older than you know.</p>
+<p begin="67045440000t" end="67087010000t" region="bottomCenter" style="s1" xml:id="subtitle1040">我喜欢统计从一个完备的变异体出现，到下一个完备的变异出现的次数<br />I prefer counting from the emergence of one integral anomaly to the emergence of the next.</p>
+<p begin="67087260000t" end="67110450000t" region="bottomCenter" style="s1" xml:id="subtitle1041">在这种统计方式下，现在是第六个版本<br />In which case, this is the sixth version.</p>
+<p begin="67110700000t" end="67137680000t" region="bottomCenter" style="s1" xml:id="subtitle1042">在我之前还有五种？ 他在撒谎  放屁吧你<br />Five before me?  He's lying.  Bullshit.</p>
+<p begin="67137930000t" end="67172090000t" region="bottomCenter" style="s1" xml:id="subtitle1043">可能的解释只有两种：<br />There are only two possible explanations. There were five before me.</p>
+<p begin="67172340000t" end="67186380000t" region="bottomCenter" style="s1" xml:id="subtitle1044">要么是没人告诉我<br />Either no one told me...</p>
+<p begin="67200400000t" end="67229320000t" region="bottomCenter" style="s1" xml:id="subtitle1045">-要么根本没人知道   -完全正确<br />-...or no one knows.   -Precisely.</p>
+<p begin="67241100000t" end="67275990000t" region="bottomCenter" style="s1" xml:id="subtitle1046">当你无疑是在集中注意力思考的时侯，那种变异也是一系列的……<br />As you are undoubtedly gathering, the anomaly is systemic...</p>
+<p begin="67275990000t" end="67307100000t" region="bottomCenter" style="s1" xml:id="subtitle1047">使得 即使是最简单的等式中 也发生了波动<br />...creating fluctuations in even the most simplistic equations.</p>
+<p begin="67307100000t" end="67344200000t" region="bottomCenter" style="s1" xml:id="subtitle1048">你休想控制我  我要把你撕得粉碎<br />You can 't control me!  I'm gonna smash you to bits!</p>
+<p begin="67344450000t" end="67365350000t" region="bottomCenter" style="s1" xml:id="subtitle1049">你给我滚开 你去死吧<br />I'm gonna fucking kill you!</p>
+<p begin="67365600000t" end="67395330000t" region="bottomCenter" style="s1" xml:id="subtitle1050">你无法逼我做任何事  你个老白毛<br />You can 't make me do anything.  You old, white prick!</p>
+<p begin="67419330000t" end="67432810000t" region="bottomCenter" style="s1" xml:id="subtitle1051">选择<br />Choice.</p>
+<p begin="67436830000t" end="67453080000t" region="bottomCenter" style="s1" xml:id="subtitle1052">问题就在于选择<br />The problem is choice.</p>
+<p begin="67677070000t" end="67715350000t" region="bottomCenter" style="s1" xml:id="subtitle1053">我设计的第一代矩阵自然是非常完美的  是一件艺术品……<br />The first Matrix I designed was quite naturally perfect.  It is a work of art.</p>
+<p begin="67715600000t" end="67732990000t" region="bottomCenter" style="s1" xml:id="subtitle1054">完美无瑕  堪称崇高<br />Flawless, sublime.</p>
+<p begin="67734900000t" end="67770200000t" region="bottomCenter" style="s1" xml:id="subtitle1055">只有它不朽的失败，可以与它伟大的成功相提并论<br />A triumph equaled only by its monumental failure.</p>
+<p begin="67777300000t" end="67835930000t" region="bottomCenter" style="s1" xml:id="subtitle1056">它不可避免的厄运，现在看来显然是——每个人类固有的缺陷所造成的结果<br />The inevitability of its doom is apparent now......as a consequence of the imperfection inherent in every human.</p>
+<p begin="67837630000t" end="67867230000t" region="bottomCenter" style="s1" xml:id="subtitle1057">因此，我基于人类的历史重新设计了矩阵……<br />Thus, I redesigned it based on your history...</p>
+<p begin="67869400000t" end="67911370000t" region="bottomCenter" style="s1" xml:id="subtitle1058">为了精确地反映你们本性中的种种怪诞<br />...to more accurately reflect the varying grotesqueries of your nature.</p>
+<p begin="67916890000t" end="67951620000t" region="bottomCenter" style="s1" xml:id="subtitle1059">然而，我再一次遭受了失败的困扰<br />However, I was again frustrated by failure.</p>
+<p begin="67971200000t" end="68018350000t" region="bottomCenter" style="s1" xml:id="subtitle1060">从那以后我开始明白，答案之所以一直回避我，是因为这需要一个不那么刻意的头脑……<br />I have since come to understand that the answer eluded me because it required a lesser mind.</p>
+<p begin="68018600000t" end="68072870000t" region="bottomCenter" style="s1" xml:id="subtitle1061">或者说，一个不那么刻意去追求完美的头脑<br />Or perhaps, a mind less bound by the parameters of perfection.</p>
+<p begin="68082600000t" end="68128150000t" region="bottomCenter" style="s1" xml:id="subtitle1062">于是，答案就被另外一个，依靠直觉运行的程序，偶然发现了<br />Thus, the answer was stumbled upon by another, an intuitive program...</p>
+<p begin="68132260000t" end="68177340000t" region="bottomCenter" style="s1" xml:id="subtitle1063">那个程序创造的初衷，是为了调查人类心理的某些方面<br />...initially created to investigate certain aspects of the human psyche.</p>
+<p begin="68181340000t" end="68238120000t" region="bottomCenter" style="s1" xml:id="subtitle1064">如果说我是矩阵之父，她就无疑是矩阵之母<br />If I am the father of the Matrix, she would undoubtedly be its mother.</p>
+<p begin="68243530000t" end="68264780000t" region="bottomCenter" style="s1" xml:id="subtitle1065">-是先知   -请安静<br />-The Oracle.   -Please.</p>
+<p begin="68275830000t" end="68318550000t" region="bottomCenter" style="s1" xml:id="subtitle1066">正如刚才所说，她偶然发现了一种解决方案，可以使接近99%的受试者……<br />As I was saying, she stumbled upon a solution whereby  nearly 99 percent of tested subjects...</p>
+<p begin="68318800000t" end="68344400000t" region="bottomCenter" style="s1" xml:id="subtitle1067">接受矩阵程序，前提是给予他们选择<br />...accepted the program, as long as they were given a choice...</p>
+<p begin="68344650000t" end="68383920000t" region="bottomCenter" style="s1" xml:id="subtitle1068">即使他们只能在近乎无意识的程度上，意识到选择的存在<br />...even if they were only aware of the choice at a near unconscious level.</p>
+<p begin="68389000000t" end="68422240000t" region="bottomCenter" style="s1" xml:id="subtitle1069">虽然这个方案有效，但它显然存在根本性的缺陷……<br />While this answer functioned, it was obviously fundamentally flawed...</p>
+<p begin="68422240000t" end="68464900000t" region="bottomCenter" style="s1" xml:id="subtitle1070">从而产生了另一种相矛盾的系统性变异……<br />...thus creating the otherwise contradictory systemic anomaly...</p>
+<p begin="68466890000t" end="68494260000t" region="bottomCenter" style="s1" xml:id="subtitle1071">如果不加以控制，它可能会威胁到系统本身<br />...that, if left unchecked, might threaten the system itself.</p>
+<p begin="68497400000t" end="68540150000t" region="bottomCenter" style="s1" xml:id="subtitle1072">因此，那些拒绝了矩阵程序的人，尽管是少数，但若不加以控制<br />Ergo, those that refused the program, while a minority, if unchecked...</p>
+<p begin="68540400000t" end="68578540000t" region="bottomCenter" style="s1" xml:id="subtitle1073">将导致灾难发生的概率不断增加<br />...would constitute an escalating probability of disaster.</p>
+<p begin="68583060000t" end="68599880000t" region="bottomCenter" style="s1" xml:id="subtitle1074">这指的是锡安<br />This is about Zion.</p>
+<p begin="68605500000t" end="68641900000t" region="bottomCenter" style="s1" xml:id="subtitle1075">你来到这里，是因为锡安将会被摧毁<br />You are here because Zion is about to be destroyed.</p>
+<p begin="68643430000t" end="68688190000t" region="bottomCenter" style="s1" xml:id="subtitle1076">那里的所有居民都将消灭  它的整个存在都会被抹去<br />Its every living inhabitant terminated, its entire existence eradicated.</p>
+<p begin="68691600000t" end="68702450000t" region="bottomCenter" style="s1" xml:id="subtitle1077">一派胡言<br />Bullshit.</p>
+<p begin="68702700000t" end="68733900000t" region="bottomCenter" style="s1" xml:id="subtitle1078">否认是所有的人类反应中最好预测的<br />Denial is the most predictable of all human responses.</p>
+<p begin="68735660000t" end="68801880000t" region="bottomCenter" style="s1" xml:id="subtitle1079">不过请放心，这将是我们第六次将其彻底摧毁<br />But rest assured, this will be the sixth time we have destroyed it...</p>
+<p begin="68803400000t" end="68842380000t" region="bottomCenter" style="s1" xml:id="subtitle1080">而且我们已经在这方面，做得越来越高效了<br />...and we have become exceedingly efficient at it.</p>
+<p begin="68970500000t" end="68984650000t" region="bottomCenter" style="s1" xml:id="subtitle1081">救世主的作用……<br />The function of the One...</p>
+<p begin="68984900000t" end="69031900000t" region="bottomCenter" style="s1" xml:id="subtitle1082">就是在此时返回代码之源，将你携带的代码的副本……<br />...is now to return to the source, allowing a dissemination of the code you carry...</p>
+<p begin="69032150000t" end="69056050000t" region="bottomCenter" style="s1" xml:id="subtitle1083">重新插入the prime program<br />...reinserting the prime program.</p>
+<p begin="69056300000t" end="69096200000t" region="bottomCenter" style="s1" xml:id="subtitle1084">这之后，你将被要求从矩阵中选出23个人……<br />After which you will be required to select from the Matrix 23 individuals...</p>
+<p begin="69096450000t" end="69128500000t" region="bottomCenter" style="s1" xml:id="subtitle1085">包含16位女性和7位男性，他们将重建锡安<br />...sixteen female, seven male, to rebuild Zion.</p>
+<p begin="69132400000t" end="69179150000t" region="bottomCenter" style="s1" xml:id="subtitle1086">不遵守这个流程，将会导致灾难性的系统崩溃<br />Failure to comply with this process will result in a cataclysmic system crash...</p>
+<p begin="69179400000t" end="69203480000t" region="bottomCenter" style="s1" xml:id="subtitle1087">杀死每一个接入矩阵的人类<br />...killing everyone connected to the Matrix...</p>
+<p begin="69203730000t" end="69229330000t" region="bottomCenter" style="s1" xml:id="subtitle1088">同时伴随着锡安的消亡<br />...which, coupled with the extermination of Zion...</p>
+<p begin="69229580000t" end="69272730000t" region="bottomCenter" style="s1" xml:id="subtitle1089">最终会导致整个人类物种的彻底灭绝<br />...will ultimately result in the extinction of the entire human race.</p>
+<p begin="69277500000t" end="69317490000t" region="bottomCenter" style="s1" xml:id="subtitle1090">你不会让这种事发生的  你不能  你们需要依靠人类来生存<br />You won't let it happen. You can't. You need human beings to survive.</p>
+<p begin="69325930000t" end="69361590000t" region="bottomCenter" style="s1" xml:id="subtitle1091">我们已经准备好去接受不同级别的生存<br />There are levels of survival we are prepared to accept.</p>
+<p begin="69365250000t" end="69391250000t" region="bottomCenter" style="s1" xml:id="subtitle1092">然而，相关的问题是，你，有没有准备好……<br />However, the relevant issue is whether or not you are ready...</p>
+<p begin="69391500000t" end="69431700000t" region="bottomCenter" style="s1" xml:id="subtitle1093">为这个世界上所有人的死亡承担责任呢？<br />...to accept the responsibility for the death of every human being in this world.</p>
+<p begin="69494400000t" end="69518200000t" region="bottomCenter" style="s1" xml:id="subtitle1094">观察你的反应是件很有意思的事情<br />It is interesting reading your reactions.</p>
+<p begin="69530100000t" end="69568300000t" region="bottomCenter" style="s1" xml:id="subtitle1095">在刻意设计之下，你的5位前辈都是基于了相似的预言——<br />Your five predecessors were, by design, based on a similar predication...</p>
+<p begin="69568550000t" end="69616250000t" region="bottomCenter" style="s1" xml:id="subtitle1096">（译者能力实在有限，但用人话翻译出来大概就是：<br />the one 是从人类中随机选出的，只要先知考察觉得他充满了对他人的责任感——<br />这种对人类的“大爱”却恰恰是建筑师要利用的，用来在此时威胁他交出代码）<br />也就是一种视情况而定的支持/肯定——意在建立起一种，对你们物种的其他人的深刻的依恋感……<br />...a contingent affirmation， that was meant to create a profound attachment...</p>
+<p begin="69616500000t" end="69652500000t" region="bottomCenter" style="s1" xml:id="subtitle1097">促使你们完成救世主的任务<br />...to the rest of your species, facilitating the function of the One.</p>
+<p begin="69652750000t" end="69712310000t" region="bottomCenter" style="s1" xml:id="subtitle1098">虽然其他救世主的经历几乎相同，你的经历却远比他们特殊：<br />While the others experience this in a general way, your experience is far more specific...</p>
+<p begin="69712560000t" end="69738350000t" region="bottomCenter" style="s1" xml:id="subtitle1099">要面对爱情<br />...visavis love.</p>
+<p begin="69750320000t" end="69763050000t" region="bottomCenter" style="s1" xml:id="subtitle1100">崔妮蒂！<br />Trinity!</p>
+<p begin="69790000000t" end="69833300000t" region="bottomCenter" style="s1" xml:id="subtitle1101">恰在此时，她进入矩阵来挽救你的生命，代价是牺牲自己的生命<br />Apropos, she entered the Matrix to save your life at the cost of her own.</p>
+<p begin="69839430000t" end="69849070000t" region="bottomCenter" style="s1" xml:id="subtitle1102">不！<br />No.</p>
+<p begin="69854800000t" end="69897550000t" region="bottomCenter" style="s1" xml:id="subtitle1103">这最终将我们带到了揭开真相的时刻——此时，人类根本缺陷的最终表现、以及变异的揭示，从始至终都没有改变<br />Which brings us at last to the moment of truth, where in the fundamental flaw...</p>
+<p begin="69897800000t" end="69928400000t" region="bottomCenter" style="s1" xml:id="subtitle1104">这最终将我们带到了揭开真相的时刻——此时，人类根本缺陷的最终表现，以及变异情况的揭示<br />...is ultimately expressed and the anomaly revealed...</p>
+<p begin="69928650000t" end="69968510000t" region="bottomCenter" style="s1" xml:id="subtitle1105">这最终将我们带到了揭开真相的时刻——此时，人类根本缺陷的最终表现、以及变异的揭示，从始至终都没有改变<br />...as both beginning and end.</p>
+<p begin="69971900000t" end="70024720000t" region="bottomCenter" style="s1" xml:id="subtitle1106">这里有两扇门  你右边那扇通向代码之源，并将拯救锡安<br />There are two doors. The door to your right leads to the source and the salvation of Zion.</p>
+<p begin="70028300000t" end="70088990000t" region="bottomCenter" style="s1" xml:id="subtitle1107">你左边那扇可以通向矩阵，回到她的身边，并导致人类物种的毁灭<br />The door to your left leads back to the Matrix, to her and the end of your species.</p>
+<p begin="70092360000t" end="70135330000t" region="bottomCenter" style="s1" xml:id="subtitle1108">正如你所说，问题在于如何选择<br />As you adequately put, the problem is choice.</p>
+<p begin="70139000000t" end="70170470000t" region="bottomCenter" style="s1" xml:id="subtitle1109">但是我们已经知道你的选择了，不是吗？<br />But we already know what you are going to do, don't we?</p>
+<p begin="70175100000t" end="70216950000t" region="bottomCenter" style="s1" xml:id="subtitle1110">我已经看到了连锁反应，一种化学前体的出现……<br />Already I can see the chain reaction, the chemical precursors that signal...</p>
+<p begin="70217200000t" end="70271550000t" region="bottomCenter" style="s1" xml:id="subtitle1111">标志着一种专门用来压倒逻辑和理性的情感的引发<br />...the onset of an emotion designed specifically to overwhelm logic and reason.</p>
+<p begin="70273120000t" end="70318610000t" region="bottomCenter" style="s1" xml:id="subtitle1112">那种情感已经令你对显而易见的真相视而不见……<br />An emotion that is already blinding you from the simple and obvious truth:</p>
+<p begin="70319560000t" end="70379120000t" region="bottomCenter" style="s1" xml:id="subtitle1113">真相就是：她终将死去，而你没有任何办法阻止<br />She is going to die and there is nothing you can do to stop it.</p>
+<p begin="70434700000t" end="70476760000t" region="bottomCenter" style="s1" xml:id="subtitle1114">希望  它是人类最典型的幻想……<br />Hope.  It is the quintessential human delusion, simultaneously...</p>
+<p begin="70477010000t" end="70512830000t" region="bottomCenter" style="s1" xml:id="subtitle1115">同时是你们最大的力量，以及最大的弱点 的源头所在<br />...the source of your greatest strength and your greatest weakness.</p>
+<p begin="70518690000t" end="70557820000t" region="bottomCenter" style="s1" xml:id="subtitle1116">如果我是你，我希望我们再也不要见面了<br />If I were you, I would hope that we don't meet again.</p>
+<p begin="70562000000t" end="70573300000t" region="bottomCenter" style="s1" xml:id="subtitle1117">我们不会再见面了<br />We won't.</p>
+<p begin="70650300000t" end="70665450000t" region="bottomCenter" style="s1" xml:id="subtitle1118">出大事了，长官<br />We got a serious situation, sir.</p>
+<p begin="70676600000t" end="70685990000t" region="bottomCenter" style="s1" xml:id="subtitle1119">哦，糟了<br />Oh, no.</p>
+<p begin="71284860000t" end="71318600000t" region="bottomCenter" style="s1" xml:id="subtitle1120">-那是什么？   -反正我从没见过速度这么快的东西<br />-What was that?   -Whatever it is, it's moving faster than anything I've seen.</p>
+<p begin="71825700000t" end="71842700000t" region="bottomCenter" style="s1" xml:id="subtitle1121">老天呐，他接住她了<br />Holy shit, he caught her.</p>
+<p begin="71981970000t" end="72001760000t" region="bottomCenter" style="s1" xml:id="subtitle1122">尼奥，我必须这么做<br />Neo, I had to.</p>
+<p begin="72005800000t" end="72019960000t" region="bottomCenter" style="s1" xml:id="subtitle1123">我知道了<br />I know.</p>
+<p begin="72072330000t" end="72093600000t" region="bottomCenter" style="s1" xml:id="subtitle1124">子弹还在你身体里<br />The bullet is still inside.</p>
+<p begin="72204900000t" end="72221700000t" region="bottomCenter" style="s1" xml:id="subtitle1125">崔妮蒂<br />Trinity...</p>
+<p begin="72235500000t" end="72251560000t" region="bottomCenter" style="s1" xml:id="subtitle1126">你可一定要挺住了<br />...don't you quit on me now.</p>
+<p begin="72343990000t" end="72367470000t" region="bottomCenter" style="s1" xml:id="subtitle1127">对不起<br />I'm sorry.</p>
+<p begin="72436290000t" end="72456420000t" region="bottomCenter" style="s1" xml:id="subtitle1128">崔妮蒂？<br />Trinity.</p>
+<p begin="72558990000t" end="72576530000t" region="bottomCenter" style="s1" xml:id="subtitle1129">崔妮蒂？<br />Trinity...</p>
+<p begin="72579630000t" end="72596890000t" region="bottomCenter" style="s1" xml:id="subtitle1130">我知道你能听到的<br />...I know you can hear me.</p>
+<p begin="72605990000t" end="72630480000t" region="bottomCenter" style="s1" xml:id="subtitle1131">我不放你走<br />I'm not letting go.</p>
+<p begin="72631900000t" end="72647540000t" region="bottomCenter" style="s1" xml:id="subtitle1132">绝不！<br />I can't.</p>
+<p begin="72661390000t" end="72681300000t" region="bottomCenter" style="s1" xml:id="subtitle1133">我爱你爱的太深<br />I love you too damn much.</p>
+<p begin="72971830000t" end="72981630000t" region="bottomCenter" style="s1" xml:id="subtitle1134">太感人了<br />I can't take this.</p>
+<p begin="73020560000t" end="73044360000t" region="bottomCenter" style="s1" xml:id="subtitle1135">我想我们这下扯平了<br />I guess this makes us even.</p>
+<p begin="73177570000t" end="73193900000t" region="bottomCenter" style="s1" xml:id="subtitle1136">我不能明白<br />I don't understand it.</p>
+<p begin="73199400000t" end="73225860000t" region="bottomCenter" style="s1" xml:id="subtitle1137">我们已经按照指定的方式做完了所有事情<br />Everything was done as it was supposed to be done.</p>
+<p begin="73231430000t" end="73264100000t" region="bottomCenter" style="s1" xml:id="subtitle1138">一旦救世主到达代码之源，战争就应该结束才对<br />Once the One reaches the source, the war should be over.</p>
+<p begin="73264350000t" end="73289560000t" region="bottomCenter" style="s1" xml:id="subtitle1139">-24小时之内，它确实会结束   -什么？<br />-ln 24 hours, it will be.   -What?</p>
+<p begin="73293360000t" end="73335700000t" region="bottomCenter" style="s1" xml:id="subtitle1140">如果我们不采取措施，24小时内锡安就会被毁灭<br />If we don't do something in 24 hours, Zion will be destroyed.</p>
+<p begin="73341540000t" end="73357360000t" region="bottomCenter" style="s1" xml:id="subtitle1141">-什么？  -你怎么知道的？<br />-What?   -How do you know that?</p>
+<p begin="73360900000t" end="73382830000t" region="bottomCenter" style="s1" xml:id="subtitle1142">-有人告诉了我   -是谁？<br />-I was told it would happen.   -By whom?</p>
+<p begin="73392330000t" end="73422950000t" region="bottomCenter" style="s1" xml:id="subtitle1143">谁说的不重要  我相信他不会撒谎<br />It doesn't matter.  I believed him.</p>
+<p begin="73423200000t" end="73459280000t" region="bottomCenter" style="s1" xml:id="subtitle1144">-这不可能！预言说的是……   -预言只是个谎言，墨菲斯<br />-That's impossible. The prophecy tells us...    -lt was a lie, Morpheus.</p>
+<p begin="73478670000t" end="73501800000t" region="bottomCenter" style="s1" xml:id="subtitle1145">救世主预言就是谎言<br />The prophecy was a lie.</p>
+<p begin="73516550000t" end="73540530000t" region="bottomCenter" style="s1" xml:id="subtitle1146">“救世主”从来不能终结任何事情<br />The One was never meant to end anything.</p>
+<p begin="73548350000t" end="73573650000t" region="bottomCenter" style="s1" xml:id="subtitle1147">“救世主”完全属于另一种控制系统<br />It was all another system of control.</p>
+<p begin="73579660000t" end="73601880000t" region="bottomCenter" style="s1" xml:id="subtitle1148">我不相信！<br />I don't believe that.</p>
+<p begin="73613730000t" end="73634670000t" region="bottomCenter" style="s1" xml:id="subtitle1149">那可是你亲口说的<br />But you said it yourself.</p>
+<p begin="73638700000t" end="73666670000t" region="bottomCenter" style="s1" xml:id="subtitle1150">既然战争没有结束，预言怎么可能是真的？<br />How can the prophecy be true if the war isn't over?</p>
+<p begin="73740530000t" end="73763860000t" region="bottomCenter" style="s1" xml:id="subtitle1151">对不起<br />I'm sorry.</p>
+<p begin="73767550000t" end="73795750000t" region="bottomCenter" style="s1" xml:id="subtitle1152">我知道这很难接受……<br />I know it isn't easy to hear, but...</p>
+<p begin="73802090000t" end="73826140000t" region="bottomCenter" style="s1" xml:id="subtitle1153">但我发誓这就是真相<br />...I swear to you it's the truth.</p>
+<p begin="73866390000t" end="73893520000t" region="bottomCenter" style="s1" xml:id="subtitle1154">-那我们该怎么办？  -我不知道<br />-What are we gonna do?   -I don't know.</p>
+<p begin="73915570000t" end="73926310000t" region="bottomCenter" style="s1" xml:id="subtitle1155">哦不！<br />Oh, no!</p>
+<p begin="74021460000t" end="74054200000t" region="bottomCenter" style="s1" xml:id="subtitle1156">-它们在干嘛？  -避免进入电磁脉冲（EMP）的爆炸范围<br />-What are they doing?   -They're just out of EMP range.</p>
+<p begin="74059860000t" end="74071660000t" region="bottomCenter" style="s1" xml:id="subtitle1157">那是个炸弹<br />It's a bomb.</p>
+<p begin="74083530000t" end="74105530000t" region="bottomCenter" style="s1" xml:id="subtitle1158">我们必须离开这儿，快！<br />We have to get out of here. Now.</p>
+<p begin="74472630000t" end="74489490000t" region="bottomCenter" style="s1" xml:id="subtitle1159">我梦见过这一幕……<br />I have dreamed a dream...</p>
+<p begin="74521760000t" end="74551890000t" region="bottomCenter" style="s1" xml:id="subtitle1160">但现在，那个梦竟成为了现实<br />...but now that dream has gone from me.</p>
+<p begin="74665590000t" end="74677920000t" region="bottomCenter" style="s1" xml:id="subtitle1161">它们来了<br />Here they come.</p>
+<p begin="74690530000t" end="74706000000t" region="bottomCenter" style="s1" xml:id="subtitle1162">我们走，墨菲斯<br />Let's go, Morpheus.</p>
+<p begin="74722130000t" end="74748730000t" region="bottomCenter" style="s1" xml:id="subtitle1163">-我们逃不掉的   -总要试试吧<br />-We won't make it.   -We have to try.</p>
+<p begin="74830950000t" end="74860550000t" region="bottomCenter" style="s1" xml:id="subtitle1164">-快来啊！  -事情有些变化<br />-Come on!   -Something's different.</p>
+<p begin="74860800000t" end="74881000000t" region="bottomCenter" style="s1" xml:id="subtitle1165">什么？<br />What?</p>
+<p begin="74888260000t" end="74902770000t" region="bottomCenter" style="s1" xml:id="subtitle1166">我能感觉到它们<br />I can feel them.</p>
+<p begin="75132800000t" end="75146000000t" region="bottomCenter" style="s1" xml:id="subtitle1167">尼奥！<br />Neo!</p>
+<p begin="75209400000t" end="75238460000t" region="bottomCenter" style="s1" xml:id="subtitle1168">-出了什么事？  -我也不知道<br />-What happened?   -I don't know.</p>
+<p begin="75298660000t" end="75316730000t" region="bottomCenter" style="s1" xml:id="subtitle1169">是雷神之锤号（the Hammer，榔头，只是Mjolnir号的简称）<br />It's the Hammer.</p>
+<p begin="75435200000t" end="75459930000t" region="bottomCenter" style="s1" xml:id="subtitle1170">他处于某种昏迷中<br />He's in some kind of coma...</p>
+<p begin="75463500000t" end="75482600000t" region="bottomCenter" style="s1" xml:id="subtitle1171">但是他脉搏很平稳<br />...but his vitals are stable.</p>
+<p begin="75498520000t" end="75516320000t" region="bottomCenter" style="s1" xml:id="subtitle1172">你怎么样了？<br />What about you?</p>
+<p begin="75519260000t" end="75535190000t" region="bottomCenter" style="s1" xml:id="subtitle1173">我很好<br />I'm fine.</p>
+<p begin="75542190000t" end="75562800000t" region="bottomCenter" style="s1" xml:id="subtitle1174">你应该好好休息一下<br />You could use some rest.</p>
+<p begin="75566960000t" end="75586620000t" region="bottomCenter" style="s1" xml:id="subtitle1175">不了，我要陪着他<br />No, I'm gonna stay with him.</p>
+<p begin="75654230000t" end="75683650000t" region="bottomCenter" style="s1" xml:id="subtitle1176">洛克是对的……<br />Lock was right.  He guessed that the machines...</p>
+<p begin="75683900000t" end="75714050000t" region="bottomCenter" style="s1" xml:id="subtitle1177">他猜到机器大军会切断通往锡安的主要管道<br />...would cut off the mainlines in and out of Zion.</p>
+<p begin="75714300000t" end="75741370000t" region="bottomCenter" style="s1" xml:id="subtitle1178">他想到借此反攻会让机器大吃一惊<br />He thought a counterattack might surprise them.</p>
+<p begin="75744300000t" end="75779950000t" region="bottomCenter" style="s1" xml:id="subtitle1179">计划听起来很不错，我本想着一定能行的……<br />It sounded good. I figured we had a shot...</p>
+<p begin="75782770000t" end="75805410000t" region="bottomCenter" style="s1" xml:id="subtitle1180">结果有人搞砸了一切<br />...until someone screwed it up.</p>
+<p begin="75805660000t" end="75835770000t" region="bottomCenter" style="s1" xml:id="subtitle1181">我们还没就位，就有人触发了EMP武器<br />An EMP was triggered before we got in position.</p>
+<p begin="75836020000t" end="75878300000t" region="bottomCenter" style="s1" xml:id="subtitle1182">-五艘战舰立刻就垮了  -机器攻进船里的时候……<br />-Five ships were instantly downed.   -When the machines broke through...</p>
+<p begin="75878550000t" end="75909760000t" region="bottomCenter" style="s1" xml:id="subtitle1183">那根本算不上一场战斗，那就是一场屠杀<br />...it wasn't a battle, it was a slaughter.</p>
+<p begin="75910010000t" end="75936540000t" region="bottomCenter" style="s1" xml:id="subtitle1184">那是个意外吗？出了某种故障？<br />Was it an accident?  Some sort of malfunction?</p>
+<p begin="75940800000t" end="75966770000t" region="bottomCenter" style="s1" xml:id="subtitle1185">-没人知道  -有个人知道<br />-No one knows.   -Someone does.</p>
+<p begin="75967720000t" end="75981570000t" region="bottomCenter" style="s1" xml:id="subtitle1186">谁？<br />Who?</p>
+<p begin="75986930000t" end="76024650000t" region="bottomCenter" style="s1" xml:id="subtitle1187">机器消灭完我们的人之后，就开始继续挖掘了<br />Once the machines were done with us, they started digging again.</p>
+<p begin="76024900000t" end="76060900000t" region="bottomCenter" style="s1" xml:id="subtitle1188">-我们马上出去寻找幸存者  -找到了一个？<br />-We made a quick pass to look for survivors.   -You found one?</p>
+<p begin="76079030000t" end="76095230000t" region="bottomCenter" style="s1" xml:id="subtitle1189">只有一个<br />Only one.</p>
+<p begin="82027390000t" end="82070570000t" region="bottomCenter" style="s1" xml:id="subtitle1190">万物有始必有终<br />Everything that has a beginning......has an end.</p>
+<p begin="82100690000t" end="82129280000t" region="bottomCenter" style="s1" xml:id="subtitle1191">我看到末日降临<br />I see the end coming.</p>
+<p begin="82134960000t" end="82171660000t" region="bottomCenter" style="s1" xml:id="subtitle1192">我看到黑暗正在蔓延  我看到死亡<br />I see the darkness spreading.  I see death.</p>
+<p begin="82192290000t" end="82220880000t" region="bottomCenter" style="s1" xml:id="subtitle1193">欢迎归来，安德森先生<br />Mr. Anderson, welcome back.</p>
+<p begin="82224190000t" end="82244090000t" region="bottomCenter" style="s1" xml:id="subtitle1194">我们都很想你<br />We missed you.</p>
+<p begin="82245500000t" end="82263800000t" region="bottomCenter" style="s1" xml:id="subtitle1195">今晚就要结束<br />It ends tonight.</p>
+<p begin="82335890000t" end="82367200000t" region="bottomCenter" style="s1" xml:id="subtitle1196">只有你才能阻止他<br />You are all that stands in his way.</p>
+<p begin="82382900000t" end="82428680000t" region="bottomCenter" style="s1" xml:id="subtitle1197">如果你今晚不能阻止他，那么我担心明天可能永远不会到来<br />If you cannot stop him tonight, then I fear that tomorrow may never come.</p>
+</div>
+</body>
+</tt>
