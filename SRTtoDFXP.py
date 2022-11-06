@@ -6,9 +6,9 @@ import glob
 import time
 from datetime import datetime
 
-offset=-800
+# offset=-800
 # offset=800
-# offset=0
+offset=0
 
 def str_data_to_num(str_data):
     rtnValue=0
