@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="978000000t" end="995000000t" region="bottomCenter" style="s1" xml:id="subtitle0">唉唉 又没吃啊</p>
+<p begin="998000000t" end="1025000000t" region="bottomCenter" style="s1" xml:id="subtitle1">你可是重要的人柱候补</p>
+<p begin="1045000000t" end="1074000000t" region="bottomCenter" style="s1" xml:id="subtitle2">不保持健康可不行啊</p>
+<p begin="1079000000t" end="1099000000t" region="bottomCenter" style="s1" xml:id="subtitle3">对吧 马尔科医生</p>
+<p begin="1108000000t" end="1137000000t" region="bottomCenter" style="s1" xml:id="subtitle4">我一直在想</p>
+<p begin="1149000000t" end="1170000000t" region="bottomCenter" style="s1" xml:id="subtitle5">人柱到底是什么</p>
+<p begin="1182000000t" end="1224000000t" region="bottomCenter" style="s1" xml:id="subtitle6">你们到底想要我做什么</p>
+<p begin="1256000000t" end="1277000000t" region="bottomCenter" style="s1" xml:id="subtitle7">你们现在做的事情</p>
+<p begin="1279000000t" end="1324000000t" region="bottomCenter" style="s1" xml:id="subtitle8">是利用这个国家和所有国民做一个巨大的炼成阵</p>
+<p begin="1332000000t" end="1370000000t" region="bottomCenter" style="s1" xml:id="subtitle9">而这个炼成阵就是用来制造贤者之石的</p>
+<p begin="1372000000t" end="1379000000t" region="bottomCenter" style="s1" xml:id="subtitle10">不对吗</p>
+<p begin="1389000000t" end="1420000000t" region="bottomCenter" style="s1" xml:id="subtitle11">可惜 不过思路很接近了</p>
+<p begin="1435000000t" end="1443000000t" region="bottomCenter" style="s1" xml:id="subtitle12">接近？</p>
+<p begin="1448000000t" end="1462000000t" region="bottomCenter" style="s1" xml:id="subtitle13">那 你怎么办</p>
+<p begin="1466000000t" end="1499000000t" region="bottomCenter" style="s1" xml:id="subtitle14">要是不合作 我们就抹消那个村子哦</p>
+<p begin="1524000000t" end="1540000000t" region="bottomCenter" style="s1" xml:id="subtitle15">我听拉丝特说了</p>
+<p begin="1547000000t" end="1594000000t" region="bottomCenter" style="s1" xml:id="subtitle16">只要不对那村子出手 你就会跟我们合作</p>
+<p begin="1615000000t" end="1624000000t" region="bottomCenter" style="s1" xml:id="subtitle17">怎么办</p>
+<p begin="1631000000t" end="1656000000t" region="bottomCenter" style="s1" xml:id="subtitle18">跟我们合作消灭所有国民？</p>
+<p begin="1662000000t" end="1702000000t" region="bottomCenter" style="s1" xml:id="subtitle19">还是不合作 抹消那村子里的所有人？</p>
+<p begin="1737000000t" end="1750000000t" region="bottomCenter" style="s1" xml:id="subtitle20">真是蠢啊</p>
+<p begin="1754000000t" end="1777000000t" region="bottomCenter" style="s1" xml:id="subtitle21">舍小就能取大</p>
+<p begin="1784000000t" end="1813000000t" region="bottomCenter" style="s1" xml:id="subtitle22">衡量一下就清楚了</p>
+<p begin="1819000000t" end="1858000000t" region="bottomCenter" style="s1" xml:id="subtitle23">不过 你们人类就是这样</p>
+<p begin="1862000000t" end="1882000000t" region="bottomCenter" style="s1" xml:id="subtitle24">理智总战胜不了感情</p>
+<p begin="1887000000t" end="1906000000t" region="bottomCenter" style="s1" xml:id="subtitle25">之前我杀死的那个男人也是一样</p>
+<p begin="1914000000t" end="1943000000t" region="bottomCenter" style="s1" xml:id="subtitle26">我变成他老婆 他就下不了手了</p>
+<p begin="1944000000t" end="1961000000t" region="bottomCenter" style="s1" xml:id="subtitle27">结果错失了逆转形势的最后王牌</p>
+<p begin="1972000000t" end="2006000000t" region="bottomCenter" style="s1" xml:id="subtitle28">这么容易露出破绽可真省事啊 人类</p>
+<p begin="2126000000t" end="2178000000t" region="bottomCenter" style="s1" xml:id="subtitle29">你竟然被人类难倒了啊 拉斯</p>
+<p begin="2196000000t" end="2237000000t" region="bottomCenter" style="s1" xml:id="subtitle30">放走了伤疤男 连格拉托尼都被掳走了</p>
+<p begin="2241000000t" end="2255000000t" region="bottomCenter" style="s1" xml:id="subtitle31">你这是怎么做事的啊</p>
+<p begin="2265000000t" end="2286000000t" region="bottomCenter" style="s1" xml:id="subtitle32">嗯 是啊</p>
+<p begin="2306000000t" end="2321000000t" region="bottomCenter" style="s1" xml:id="subtitle33">你好像很高兴呢</p>
+<p begin="2324000000t" end="2339000000t" region="bottomCenter" style="s1" xml:id="subtitle34">我不否认</p>
+<p begin="2343000000t" end="2365000000t" region="bottomCenter" style="s1" xml:id="subtitle35">是有点 开心</p>
+<p begin="2382000000t" end="2436000000t" region="bottomCenter" style="s1" xml:id="subtitle36">活了60年 如今也站上了这个国家的顶点</p>
+<p begin="2442000000t" end="2470000000t" region="bottomCenter" style="s1" xml:id="subtitle37">一切都依父亲大人的计划行事</p>
+<p begin="2481000000t" end="2491000000t" region="bottomCenter" style="s1" xml:id="subtitle38">然而…</p>
+<p begin="2508000000t" end="2540000000t" region="bottomCenter" style="s1" xml:id="subtitle39">玛斯坦上校 艾尔利克兄弟</p>
+<p begin="2540400000t" end="2572000000t" region="bottomCenter" style="s1" xml:id="subtitle40">以及国外来的人们</p>
+<p begin="2588000000t" end="2626000000t" region="bottomCenter" style="s1" xml:id="subtitle41">竟能将我们这些老谋深算的人耍得团团转</p>
+<p begin="2644000000t" end="2691000000t" region="bottomCenter" style="s1" xml:id="subtitle42">属于年轻人的时代或许已近在眼前了</p>
+<p begin="2699000000t" end="2709000000t" region="bottomCenter" style="s1" xml:id="subtitle43">普莱德（Pride）</p>
+<p begin="2719000000t" end="2757000000t" region="bottomCenter" style="s1" xml:id="subtitle44">拉斯 你和人类接触太久了</p>
+<p begin="2766000000t" end="2781000000t" region="bottomCenter" style="s1" xml:id="subtitle45">或许是吧</p>
+<p begin="2788000000t" end="2829000000t" region="bottomCenter" style="s1" xml:id="subtitle46">希望你不要忘记我们是何种存在</p>
+<p begin="2846000000t" end="2870000000t" region="bottomCenter" style="s1" xml:id="subtitle47">刚才那些可以算是反叛的话</p>
+<p begin="2874000000t" end="2898000000t" region="bottomCenter" style="s1" xml:id="subtitle48">我就不向父亲大人报告了</p>
+<p begin="2905000000t" end="2923000000t" region="bottomCenter" style="s1" xml:id="subtitle49">问题是格拉托尼怎么处理</p>
+<p begin="2930000000t" end="2946000000t" region="bottomCenter" style="s1" xml:id="subtitle50">别担心</p>
+<p begin="2954000000t" end="2992000000t" region="bottomCenter" style="s1" xml:id="subtitle51">根据宪兵队的情报 大致位置已经掌握了</p>
+<p begin="3043000000t" end="3053000000t" region="bottomCenter" style="s1" xml:id="subtitle52">这是什么</p>
+<p begin="3064000000t" end="3078000000t" region="bottomCenter" style="s1" xml:id="subtitle53">上校 您在哪里</p>
+<p begin="3079000000t" end="3088000000t" region="bottomCenter" style="s1" xml:id="subtitle54">别过来 中尉</p>
+<p begin="3249000000t" end="3256000000t" region="bottomCenter" style="s1" xml:id="subtitle55">上校</p>
+<p begin="3275000000t" end="3280000000t" region="bottomCenter" style="s1" xml:id="subtitle56">中尉…</p>
+<p begin="3301000000t" end="3329000000t" region="bottomCenter" style="s1" xml:id="subtitle57">别挑拨他 他的目标是我</p>
+<p begin="3330000000t" end="3353000000t" region="bottomCenter" style="s1" xml:id="subtitle58">玛斯坦！</p>
+<p begin="3371000000t" end="3389000000t" region="bottomCenter" style="s1" xml:id="subtitle59">兰芳 快离开这里</p>
+<p begin="3392000000t" end="3411000000t" region="bottomCenter" style="s1" xml:id="subtitle60">发生…什么事了</p>
+<p begin="3417000000t" end="3452000000t" region="bottomCenter" style="s1" xml:id="subtitle61">那怪物 肚子里还养着怪物</p>
+<p begin="3459000000t" end="3478000000t" region="bottomCenter" style="s1" xml:id="subtitle62">把周围的东西都吞进去了</p>
+<p begin="3497000000t" end="3535000000t" region="bottomCenter" style="s1" xml:id="subtitle63">连这种怪物都能造出来吗…炼金术</p>
+<p begin="3544000000t" end="3567000000t" region="bottomCenter" style="s1" xml:id="subtitle64">没办法 只好打倒它了</p>
+<p begin="3569000000t" end="3594000000t" region="bottomCenter" style="s1" xml:id="subtitle65">等…好不容易才抓来的人造人啊</p>
+<p begin="3600000000t" end="3616000000t" region="bottomCenter" style="s1" xml:id="subtitle66">首先得保住自己性命才行吧</p>
+<p begin="3620000000t" end="3648000000t" region="bottomCenter" style="s1" xml:id="subtitle67">而且他记住了我们的长相和名字</p>
+<p begin="3656000000t" end="3675000000t" region="bottomCenter" style="s1" xml:id="subtitle68">没理由放他活着回去</p>
+<p begin="3830000000t" end="3841000000t" region="bottomCenter" style="s1" xml:id="subtitle69">把火焰…</p>
+<p begin="3845000000t" end="3852000000t" region="bottomCenter" style="s1" xml:id="subtitle70">吞了？</p>
+<p begin="3880000000t" end="3894000000t" region="bottomCenter" style="s1" xml:id="subtitle71">你真没用啊</p>
+<p begin="3895000000t" end="3915000000t" region="bottomCenter" style="s1" xml:id="subtitle72">那你想办法啊</p>
+<p begin="3918000000t" end="3955000000t" region="bottomCenter" style="s1" xml:id="subtitle73">上校你别跟来啦 它的目标是你啊</p>
+<p begin="3967000000t" end="3989000000t" region="bottomCenter" style="s1" xml:id="subtitle74">逃进那里 散开</p>
+<p begin="4162000000t" end="4180000000t" region="bottomCenter" style="s1" xml:id="subtitle75">可恶 关键时刻…</p>
+<p begin="4184000000t" end="4200000000t" region="bottomCenter" style="s1" xml:id="subtitle76">快点 小子</p>
+<p begin="4286000000t" end="4313000000t" region="bottomCenter" style="s1" xml:id="subtitle77">动作快 此地不宜久留</p>
+<p begin="4317000000t" end="4326000000t" region="bottomCenter" style="s1" xml:id="subtitle78">爱德他们还没…</p>
+<p begin="4327000000t" end="4335000000t" region="bottomCenter" style="s1" xml:id="subtitle79">管他呢</p>
+<p begin="4338000000t" end="4354000000t" region="bottomCenter" style="s1" xml:id="subtitle80">我只是个普通人</p>
+<p begin="4357000000t" end="4395000000t" region="bottomCenter" style="s1" xml:id="subtitle81">谁要死在这种乱七八糟的战斗中啊</p>
+<p begin="4454000000t" end="4463000000t" region="bottomCenter" style="s1" xml:id="subtitle82">混账</p>
+<p begin="4468000000t" end="4488000000t" region="bottomCenter" style="s1" xml:id="subtitle83">那些家伙到底在磨蹭什么啊</p>
+<p begin="4541000000t" end="4567000000t" region="bottomCenter" style="s1" xml:id="subtitle84">罗伊·玛斯坦！</p>
+<p begin="4629000000t" end="4669000000t" region="bottomCenter" style="s1" xml:id="subtitle85">可恶啊！</p>
+<p begin="4677000000t" end="4692000000t" region="bottomCenter" style="s1" xml:id="subtitle86">被诱饵骗到了吧</p>
+<p begin="4694000000t" end="4716000000t" region="bottomCenter" style="s1" xml:id="subtitle87">看来相当抓狂呢</p>
+<p begin="4722000000t" end="4753000000t" region="bottomCenter" style="s1" xml:id="subtitle88">行了快滚回去 没用的家伙</p>
+<p begin="4767000000t" end="4790000000t" region="bottomCenter" style="s1" xml:id="subtitle89">中尉坐这边 兰芳就拜托您了</p>
+<p begin="4801000000t" end="4828000000t" region="bottomCenter" style="s1" xml:id="subtitle90">这种情况下我怎能厚着脸皮回去</p>
+<p begin="4831000000t" end="4848000000t" region="bottomCenter" style="s1" xml:id="subtitle91">我说你太碍事了啦</p>
+<p begin="4850000000t" end="4859000000t" region="bottomCenter" style="s1" xml:id="subtitle92">快回去</p>
+<p begin="4863000000t" end="4888000000t" region="bottomCenter" style="s1" xml:id="subtitle93">您待在这儿真的没用 上校</p>
+<p begin="4904000000t" end="4927000000t" region="bottomCenter" style="s1" xml:id="subtitle94">真是的 这个笨上校</p>
+<p begin="4931000000t" end="4950000000t" region="bottomCenter" style="s1" xml:id="subtitle95">好了 赶快去尽自己的本分</p>
+<p begin="4956000000t" end="4976000000t" region="bottomCenter" style="s1" xml:id="subtitle96">军方领导竟然是人造人</p>
+<p begin="4979000000t" end="4997000000t" region="bottomCenter" style="s1" xml:id="subtitle97">总不能置之不理吧</p>
+<p begin="5011000000t" end="5049000000t" region="bottomCenter" style="s1" xml:id="subtitle98">军方领导…难道是布拉德雷总统</p>
+<p begin="5052000000t" end="5065000000t" region="bottomCenter" style="s1" xml:id="subtitle99">这事稍后再说</p>
+<p begin="5071000000t" end="5077000000t" region="bottomCenter" style="s1" xml:id="subtitle100">上车</p>
+<p begin="5097000000t" end="5118000000t" region="bottomCenter" style="s1" xml:id="subtitle101">客满了不是 你们走吧</p>
+<p begin="5127990000t" end="5140000000t" region="bottomCenter" style="s1" xml:id="subtitle102">笨蛋</p>
+<p begin="5142000000t" end="5172000000t" region="bottomCenter" style="s1" xml:id="subtitle103">怎能把小孩子丢在战场上只顾自己逃走啊</p>
+<p begin="5177000000t" end="5207990000t" region="bottomCenter" style="s1" xml:id="subtitle104">你们的对手是军方高层吧</p>
+<p begin="5212990000t" end="5257000000t" region="bottomCenter" style="s1" xml:id="subtitle105">我们还得从格拉托尼身上获取更多情报呢</p>
+<p begin="5259000000t" end="5282000000t" region="bottomCenter" style="s1" xml:id="subtitle106">我们留在这里对付他</p>
+<p begin="5287000000t" end="5312000000t" region="bottomCenter" style="s1" xml:id="subtitle107">这跟是不是小孩根本没关系</p>
+<p begin="5321000000t" end="5347000000t" region="bottomCenter" style="s1" xml:id="subtitle108">这次作战可是我们提议的</p>
+<p begin="5351000000t" end="5376000000t" region="bottomCenter" style="s1" xml:id="subtitle109">谢谢你们帮了这么多忙</p>
+<p begin="5389000000t" end="5399000000t" region="bottomCenter" style="s1" xml:id="subtitle110">爱德华君</p>
+<p begin="5413000000t" end="5443000000t" region="bottomCenter" style="s1" xml:id="subtitle111">带上这个吧 知道怎么用吧</p>
+<p begin="5466000000t" end="5497000000t" region="bottomCenter" style="s1" xml:id="subtitle112">这是…杀人的工具</p>
+<p begin="5506000000t" end="5530000000t" region="bottomCenter" style="s1" xml:id="subtitle113">是保护你们性命的工具</p>
+<p begin="5581000000t" end="5616000000t" region="bottomCenter" style="s1" xml:id="subtitle114">你的手不是用来杀人的手</p>
+<p begin="5639000000t" end="5652800000t" region="bottomCenter" style="s1" xml:id="subtitle115">不要死哦</p>
+<p begin="5692000000t" end="5700000000t" region="bottomCenter" style="s1" xml:id="subtitle116">暂借一用吧</p>
+<p begin="5753000000t" end="5763000000t" region="bottomCenter" style="s1" xml:id="subtitle117">兰芳就拜托了</p>
+<p begin="5777000000t" end="5794000000t" region="bottomCenter" style="s1" xml:id="subtitle118">少主…少主！</p>
+<p begin="5865000000t" end="5890000000t" region="bottomCenter" style="s1" xml:id="subtitle119">走吧 我说开车</p>
+<p begin="5896000000t" end="5913000000t" region="bottomCenter" style="s1" xml:id="subtitle120">可恶 一群死小鬼</p>
+<p begin="5915000000t" end="5938000000t" region="bottomCenter" style="s1" xml:id="subtitle121">那种人就是会早死啦</p>
+<p begin="6031000000t" end="6043000000t" region="bottomCenter" style="s1" xml:id="subtitle122">玛斯坦…</p>
+<p begin="6054000000t" end="6075000000t" region="bottomCenter" style="s1" xml:id="subtitle123">罗伊·玛斯坦在哪里！</p>
+<p begin="6083000000t" end="6096000000t" region="bottomCenter" style="s1" xml:id="subtitle124">竟敢把拉丝特…</p>
+<p begin="6101000000t" end="6134000000t" region="bottomCenter" style="s1" xml:id="subtitle125">不可饶恕！</p>
+<p begin="6136000000t" end="6152000000t" region="bottomCenter" style="s1" xml:id="subtitle126">说是要对付他</p>
+<p begin="6154000000t" end="6168000000t" region="bottomCenter" style="s1" xml:id="subtitle127">但说实话真的好可怕</p>
+<p begin="6173000000t" end="6190000000t" region="bottomCenter" style="s1" xml:id="subtitle128">而且性格都变了</p>
+<p begin="6192000000t" end="6208000000t" region="bottomCenter" style="s1" xml:id="subtitle129">要怎么抓啊</p>
+<p begin="6232000000t" end="6239000000t" region="bottomCenter" style="s1" xml:id="subtitle130">怎么了</p>
+<p begin="6274000000t" end="6280000000t" region="bottomCenter" style="s1" xml:id="subtitle131">狗？</p>
+<p begin="6299000000t" end="6315000000t" region="bottomCenter" style="s1" xml:id="subtitle132">住手 格拉托尼</p>
+<p begin="6329000000t" end="6345000000t" region="bottomCenter" style="s1" xml:id="subtitle133">说…说话了？</p>
+<p begin="6351000000t" end="6372000000t" region="bottomCenter" style="s1" xml:id="subtitle134">哟 好久不见了</p>
+<p begin="6458000000t" end="6477000000t" region="bottomCenter" style="s1" xml:id="subtitle135">小不点钢仔</p>
+<p begin="6543400000t" end="6580400000t" region="bottomCenter" style="s1" xml:id="subtitle136">谁是 跳蚤 草履虫 小不点啊</p>
+<p begin="6601400000t" end="6614400000t" region="bottomCenter" style="s1" xml:id="subtitle137">冷静啊</p>
+<p begin="6617400000t" end="6639400000t" region="bottomCenter" style="s1" xml:id="subtitle138">我只是来回收格拉特尼的</p>
+<p begin="6641400000t" end="6654400000t" region="bottomCenter" style="s1" xml:id="subtitle139">我可不打算跟小不点你干架</p>
+<p begin="6655400000t" end="6667400000t" region="bottomCenter" style="s1" xml:id="subtitle140">第七次了！</p>
+<p begin="6669400000t" end="6681400000t" region="bottomCenter" style="s1" xml:id="subtitle141">你说什么啊</p>
+<p begin="6683400000t" end="6694400000t" region="bottomCenter" style="s1" xml:id="subtitle142">刚才两次</p>
+<p begin="6696400000t" end="6716400000t" region="bottomCenter" style="s1" xml:id="subtitle143">然后在第五研究所地下有五次</p>
+<p begin="6719400000t" end="6740400000t" region="bottomCenter" style="s1" xml:id="subtitle144">你一直叫我小不点</p>
+<p begin="6745400000t" end="6767400000t" region="bottomCenter" style="s1" xml:id="subtitle145">可别说你忘了</p>
+<p begin="6771400000t" end="6791400000t" region="bottomCenter" style="s1" xml:id="subtitle146">你那什么针对性的记忆力啊</p>
+<p begin="6797400000t" end="6803400000t" region="bottomCenter" style="s1" xml:id="subtitle147">站住</p>
+<p begin="6812400000t" end="6827400000t" region="bottomCenter" style="s1" xml:id="subtitle148">少给我添麻烦</p>
+<p begin="6835400000t" end="6847400000t" region="bottomCenter" style="s1" xml:id="subtitle149">刚才看到马斯坦了</p>
+<p begin="6850400000t" end="6863400000t" region="bottomCenter" style="s1" xml:id="subtitle150">拉丝特的仇敌</p>
+<p begin="6867400000t" end="6894400000t" region="bottomCenter" style="s1" xml:id="subtitle151">吞掉 吞掉 我要吞掉他</p>
+<p begin="6895400000t" end="6904400000t" region="bottomCenter" style="s1" xml:id="subtitle152">上校不能吞</p>
+<p begin="6913400000t" end="6927400000t" region="bottomCenter" style="s1" xml:id="subtitle153">还有艾尔利克兄弟也是</p>
+<p begin="6929400000t" end="6942400000t" region="bottomCenter" style="s1" xml:id="subtitle154">怎么这样</p>
+<p begin="6946400000t" end="6971400000t" region="bottomCenter" style="s1" xml:id="subtitle155">刚才就感觉到了你的气息</p>
+<p begin="6973400000t" end="7003400000t" region="bottomCenter" style="s1" xml:id="subtitle156">你身体里有多少人？人造人</p>
+<p begin="7028400000t" end="7065400000t" region="bottomCenter" style="s1" xml:id="subtitle157">和拉斯交手的就是你小子吧</p>
+<p begin="7066400000t" end="7109400000t" region="bottomCenter" style="s1" xml:id="subtitle158">不要乱叫 我是新国皇帝的第12皇子</p>
+<p begin="7112400000t" end="7119400000t" region="bottomCenter" style="s1" xml:id="subtitle159">我叫…</p>
+<p begin="7122400000t" end="7129400000t" region="bottomCenter" style="s1" xml:id="subtitle160">这个可以吞</p>
+<p begin="7131400000t" end="7160400000t" region="bottomCenter" style="s1" xml:id="subtitle161">哇 慢着慢着慢着…</p>
+<p begin="7186400000t" end="7200400000t" region="bottomCenter" style="s1" xml:id="subtitle162">原来如此</p>
+<p begin="7203400000t" end="7229400000t" region="bottomCenter" style="s1" xml:id="subtitle163">他们不会对我们兄弟出手</p>
+<p begin="7240400000t" end="7250400000t" region="bottomCenter" style="s1" xml:id="subtitle164">既然如此</p>
+<p begin="7276400000t" end="7293400000t" region="bottomCenter" style="s1" xml:id="subtitle165">麟 那边交给你了</p>
+<p begin="7306400000t" end="7324400000t" region="bottomCenter" style="s1" xml:id="subtitle166">哼 好呀</p>
+<p begin="7328400000t" end="7341400000t" region="bottomCenter" style="s1" xml:id="subtitle167">就让我见识一下吧</p>
+<p begin="7348400000t" end="7374400000t" region="bottomCenter" style="s1" xml:id="subtitle168">能跟拉斯过招的人到底有几斤几两</p>
+<p begin="7387400000t" end="7404400000t" region="bottomCenter" style="s1" xml:id="subtitle169">哦 赛利姆吗</p>
+<p begin="7410400000t" end="7432400000t" region="bottomCenter" style="s1" xml:id="subtitle170">在班上拿了第一名哦</p>
+<p begin="7439400000t" end="7460400000t" region="bottomCenter" style="s1" xml:id="subtitle171">在作文里写了你哦</p>
+<p begin="7466400000t" end="7488400000t" region="bottomCenter" style="s1" xml:id="subtitle172">那…我可以读出来么</p>
+<p begin="7490400000t" end="7509400000t" region="bottomCenter" style="s1" xml:id="subtitle173">吃饭时间不礼貌哦</p>
+<p begin="7512400000t" end="7530400000t" region="bottomCenter" style="s1" xml:id="subtitle174">没关系的啦</p>
+<p begin="7540400000t" end="7556400000t" region="bottomCenter" style="s1" xml:id="subtitle175">读来我听听吧</p>
+<p begin="7560400000t" end="7565400000t" region="bottomCenter" style="s1" xml:id="subtitle176">好</p>
+<p begin="7576400000t" end="7613400000t" region="bottomCenter" style="s1" xml:id="subtitle177">我的爸爸 是亚美斯特利斯国的总统</p>
+<p begin="7623400000t" end="7661400000t" region="bottomCenter" style="s1" xml:id="subtitle178">为了国家 爸爸拼命工作</p>
+<p begin="7669400000t" end="7715400000t" region="bottomCenter" style="s1" xml:id="subtitle179">爸爸的心里总是装着国民大众</p>
+<p begin="7721400000t" end="7744400000t" region="bottomCenter" style="s1" xml:id="subtitle180">为了让大家过上幸福的生活</p>
+<p begin="7748400000t" end="7775400000t" region="bottomCenter" style="s1" xml:id="subtitle181">每天都要解决很多问题</p>
+<p begin="7786400000t" end="7811400000t" region="bottomCenter" style="s1" xml:id="subtitle182">不过 不管有多忙</p>
+<p begin="7815400000t" end="7843400000t" region="bottomCenter" style="s1" xml:id="subtitle183">爸爸也不会忘了家人</p>
+<p begin="7850400000t" end="7878400000t" region="bottomCenter" style="s1" xml:id="subtitle184">他深爱着我和妈妈</p>
+<p begin="7885400000t" end="7925400000t" region="bottomCenter" style="s1" xml:id="subtitle185">无论我说什么 爸爸都会耐心地倾听</p>
+<p begin="7934400000t" end="7963400000t" region="bottomCenter" style="s1" xml:id="subtitle186">我有什么愿望 爸爸都会想办法实现</p>
+<p begin="7970400000t" end="7998400000t" region="bottomCenter" style="s1" xml:id="subtitle187">我最爱我的爸爸了</p>
+<p begin="8018400000t" end="8037400000t" region="bottomCenter" style="s1" xml:id="subtitle188">谢谢你 赛利姆</p>
+<p begin="8052400000t" end="8067400000t" region="bottomCenter" style="s1" xml:id="subtitle189">有两下子啊</p>
+<p begin="8074400000t" end="8096400000t" region="bottomCenter" style="s1" xml:id="subtitle190">感谢夸奖</p>
+<p begin="8106400000t" end="8116400000t" region="bottomCenter" style="s1" xml:id="subtitle191">上当了</p>
+<p begin="8134400000t" end="8144400000t" region="bottomCenter" style="s1" xml:id="subtitle192">怎么样</p>
+<p begin="8146400000t" end="8170400000t" region="bottomCenter" style="s1" xml:id="subtitle193">你们人类不会玩这招吧</p>
+<p begin="8177400000t" end="8198400000t" region="bottomCenter" style="s1" xml:id="subtitle194">那么你是想被勒死</p>
+<p begin="8202400000t" end="8214400000t" region="bottomCenter" style="s1" xml:id="subtitle195">还是想被咬死呢</p>
+<p begin="8218400000t" end="8239400000t" region="bottomCenter" style="s1" xml:id="subtitle196">或者想被切死</p>
+<p begin="8250400000t" end="8262400000t" region="bottomCenter" style="s1" xml:id="subtitle197">那么就…</p>
+<p begin="8417400000t" end="8458400000t" region="bottomCenter" style="s1" xml:id="subtitle198">竟然用迷人眼睛这种把戏</p>
+<p begin="8466400000t" end="8503400000t" region="bottomCenter" style="s1" xml:id="subtitle199">因为我从小就得随时提防暗杀的威胁</p>
+<p begin="8510400000t" end="8535400000t" region="bottomCenter" style="s1" xml:id="subtitle200">不得不学点阴招</p>
+<p begin="8544400000t" end="8549400000t" region="bottomCenter" style="s1" xml:id="subtitle201">怎么样</p>
+<p begin="8556400000t" end="8574400000t" region="bottomCenter" style="s1" xml:id="subtitle202">束手就擒吧</p>
+<p begin="8587400000t" end="8614400000t" region="bottomCenter" style="s1" xml:id="subtitle203">我只是想要一些长生不老的情报而已</p>
+<p begin="8621400000t" end="8633400000t" region="bottomCenter" style="s1" xml:id="subtitle204">你也不想受苦吧</p>
+<p begin="8638400000t" end="8647400000t" region="bottomCenter" style="s1" xml:id="subtitle205">混账</p>
+<p begin="8651400000t" end="8679400000t" region="bottomCenter" style="s1" xml:id="subtitle206">区区人类别小看我</p>
+<p begin="8680400000t" end="8711400000t" region="bottomCenter" style="s1" xml:id="subtitle207">你不要小看人类才对 人造人</p>
+<p begin="8729400000t" end="8739400000t" region="bottomCenter" style="s1" xml:id="subtitle208">好 抓住了</p>
+<p begin="8774400000t" end="8794400000t" region="bottomCenter" style="s1" xml:id="subtitle209">好险哦</p>
+<p begin="8796400000t" end="8810400000t" region="bottomCenter" style="s1" xml:id="subtitle210">可恶 这家伙</p>
+<p begin="8812400000t" end="8832400000t" region="bottomCenter" style="s1" xml:id="subtitle211">不能吃掉你们啦</p>
+<p begin="8834400000t" end="8860400000t" region="bottomCenter" style="s1" xml:id="subtitle212">人家想吃刚才那眯缝眼的</p>
+<p begin="8862400000t" end="8871400000t" region="bottomCenter" style="s1" xml:id="subtitle213">抓住了</p>
+<p begin="8920400000t" end="8945400000t" region="bottomCenter" style="s1" xml:id="subtitle214">喂 不要来这边碍事</p>
+<p begin="9009400000t" end="9022400000t" region="bottomCenter" style="s1" xml:id="subtitle215">果然人类就是人类</p>
+<p begin="9029400000t" end="9039400000t" region="bottomCenter" style="s1" xml:id="subtitle216">趁现在 格拉特尼</p>
+<p begin="9054700000t" end="9060600000t" region="bottomCenter" style="s1" xml:id="subtitle217">麟</p>
+<p begin="9060700000t" end="9068200000t" region="bottomCenter" style="s1" xml:id="subtitle218">什么</p>
+<p begin="9077400000t" end="9103400000t" region="bottomCenter" style="s1" xml:id="subtitle219">可恶 不能让人柱被吞掉</p>
+<p begin="9110400000t" end="9118400000t" region="bottomCenter" style="s1" xml:id="subtitle220">哥哥</p>
+<p begin="9373400000t" end="9386400000t" region="bottomCenter" style="s1" xml:id="subtitle221">吞掉了</p>
+<p begin="9403400000t" end="9423400000t" region="bottomCenter" style="s1" xml:id="subtitle222">哥哥 麟</p>
+<p begin="9425400000t" end="9438400000t" region="bottomCenter" style="s1" xml:id="subtitle223">喂 你给我吐出来</p>
+<p begin="9441400000t" end="9453400000t" region="bottomCenter" style="s1" xml:id="subtitle224">把哥哥吐出来</p>
+<p begin="9455400000t" end="9475400000t" region="bottomCenter" style="s1" xml:id="subtitle225">没戏 已经吞了</p>
+<p begin="9512400000t" end="9535400000t" region="bottomCenter" style="s1" xml:id="subtitle226">骗人 这不是真的</p>
+<p begin="9544400000t" end="9551400000t" region="bottomCenter" style="s1" xml:id="subtitle227">哥哥</p>
+<p begin="9629400000t" end="9660400000t" region="bottomCenter" style="s1" xml:id="subtitle228">虽然有我老婆孩子之前用的房间</p>
+<p begin="9666400000t" end="9697400000t" region="bottomCenter" style="s1" xml:id="subtitle229">但点灯太多邻居会起疑</p>
+<p begin="9701400000t" end="9719400000t" region="bottomCenter" style="s1" xml:id="subtitle230">所以你就凑合用我的床吧</p>
+<p begin="9721400000t" end="9741400000t" region="bottomCenter" style="s1" xml:id="subtitle231">少主 我要回少主身边</p>
+<p begin="9743400000t" end="9753400000t" region="bottomCenter" style="s1" xml:id="subtitle232">你傻啊</p>
+<p begin="9761400000t" end="9777400000t" region="bottomCenter" style="s1" xml:id="subtitle233">你这身体能干什么</p>
+<p begin="9952400000t" end="9967400000t" region="bottomCenter" style="s1" xml:id="subtitle234">还没回来？</p>
+<p begin="9971400000t" end="9997400000t" region="bottomCenter" style="s1" xml:id="subtitle235">明白了 我直接去司令部</p>
+<p begin="10005400000t" end="10023400000t" region="bottomCenter" style="s1" xml:id="subtitle236">是 先挂了</p>
+<p begin="10042500000t" end="10048300000t" region="bottomCenter" style="s1" xml:id="subtitle237">我们走</p>
+<p begin="10048700000t" end="10055900000t" region="bottomCenter" style="s1" xml:id="subtitle238">是</p>
+<p begin="10068400000t" end="10078400000t" region="bottomCenter" style="s1" xml:id="subtitle239">你要去哪里</p>
+<p begin="10089400000t" end="10122400000t" region="bottomCenter" style="s1" xml:id="subtitle240">我想趁此机会彻底区分一下敌我</p>
+<p begin="10133400000t" end="10154400000t" region="bottomCenter" style="s1" xml:id="subtitle241">真是的 一个个都这样</p>
+<p begin="10159400000t" end="10200400000t" region="bottomCenter" style="s1" xml:id="subtitle242">你的伤都没痊愈 还想继续折腾是吧</p>
+<p begin="10215600000t" end="10242300000t" region="bottomCenter" style="s1" xml:id="subtitle243">总统可能是人造人啊</p>
+<p begin="10247300000t" end="10263190000t" region="bottomCenter" style="s1" xml:id="subtitle244">这事可不能拖</p>
+<p begin="10270600000t" end="10278800000t" region="bottomCenter" style="s1" xml:id="subtitle245">而且</p>
+<p begin="10293390000t" end="10316400000t" region="bottomCenter" style="s1" xml:id="subtitle246">我把孩子们留在了战场上</p>
+<p begin="10325400000t" end="10340400000t" region="bottomCenter" style="s1" xml:id="subtitle247">如果我现在还不行动</p>
+<p begin="10345400000t" end="10362400000t" region="bottomCenter" style="s1" xml:id="subtitle248">那还算什么成人</p>
+<p begin="10401400000t" end="10411400000t" region="bottomCenter" style="s1" xml:id="subtitle249">有什么问题</p>
+<p begin="10416090000t" end="10423690000t" region="bottomCenter" style="s1" xml:id="subtitle250">没</p>
+<p begin="10425890000t" end="10445600000t" region="bottomCenter" style="s1" xml:id="subtitle251">只是觉得上校把爱德华君当小孩</p>
+<p begin="10449500000t" end="10478290000t" region="bottomCenter" style="s1" xml:id="subtitle252">他若是知道了会生气吧</p>
+<p begin="10482400000t" end="10504400000t" region="bottomCenter" style="s1" xml:id="subtitle253">那是借用你的说辞而已</p>
+<p begin="10516400000t" end="10533400000t" region="bottomCenter" style="s1" xml:id="subtitle254">不过我还是挺意外的</p>
+<p begin="10537400000t" end="10565400000t" region="bottomCenter" style="s1" xml:id="subtitle255">上校竟然采取这么大胆的行动</p>
+<p begin="10573400000t" end="10586400000t" region="bottomCenter" style="s1" xml:id="subtitle256">这算大胆么</p>
+<p begin="10589400000t" end="10608400000t" region="bottomCenter" style="s1" xml:id="subtitle257">我只是想从外围渗透而已</p>
+<p begin="10615400000t" end="10621400000t" region="bottomCenter" style="s1" xml:id="subtitle258">而且</p>
+<p begin="10639400000t" end="10677400000t" region="bottomCenter" style="s1" xml:id="subtitle259">能够理解支持你的人多一个是一个</p>
+<p begin="10695400000t" end="10706400000t" region="bottomCenter" style="s1" xml:id="subtitle260">虽说有点晚了</p>
+<p begin="10710400000t" end="10737400000t" region="bottomCenter" style="s1" xml:id="subtitle261">但我还是想按他的忠告试试看</p>
+<p begin="10869400000t" end="10899400000t" region="bottomCenter" style="s1" xml:id="subtitle262">这是荣耀之门还是魔窟入口呢</p>
+<p begin="10907400000t" end="10920400000t" region="bottomCenter" style="s1" xml:id="subtitle263">中尉你在这里等</p>
+<p begin="10928400000t" end="10956400000t" region="bottomCenter" style="s1" xml:id="subtitle264">万一我出什么事 你就一个人逃吧</p>
+<p begin="10960400000t" end="10966400000t" region="bottomCenter" style="s1" xml:id="subtitle265">不要</p>
+<p begin="10975400000t" end="10984400000t" region="bottomCenter" style="s1" xml:id="subtitle266">这是命令</p>
+<p begin="10988400000t" end="11000400000t" region="bottomCenter" style="s1" xml:id="subtitle267">恕难从命</p>
+<p begin="11013400000t" end="11027400000t" region="bottomCenter" style="s1" xml:id="subtitle268">你真是倔脾气</p>
+<p begin="11029400000t" end="11044400000t" region="bottomCenter" style="s1" xml:id="subtitle269">我以为您早知道了</p>
+<p begin="11070400000t" end="11078400000t" region="bottomCenter" style="s1" xml:id="subtitle270">明白了</p>
+<p begin="11083400000t" end="11102400000t" region="bottomCenter" style="s1" xml:id="subtitle271">我一定会回来的 你等着吧</p>
+<p begin="11105400000t" end="11123400000t" region="bottomCenter" style="s1" xml:id="subtitle272">是 祝好运</p>
+<p begin="11141400000t" end="11166400000t" region="bottomCenter" style="s1" xml:id="subtitle273">你就是罗伊·玛斯坦啊</p>
+<p begin="11169400000t" end="11189400000t" region="bottomCenter" style="s1" xml:id="subtitle274">刚才内人打电话跟我说了</p>
+<p begin="11195400000t" end="11207400000t" region="bottomCenter" style="s1" xml:id="subtitle275">雷文中将阁下</p>
+<p begin="11211400000t" end="11219400000t" region="bottomCenter" style="s1" xml:id="subtitle276">自我就任以来</p>
+<p begin="11221400000t" end="11241400000t" region="bottomCenter" style="s1" xml:id="subtitle277">因公事繁忙未能登门拜访</p>
+<p begin="11244400000t" end="11267400000t" region="bottomCenter" style="s1" xml:id="subtitle278">且今日深夜到访实在抱歉</p>
+<p begin="11272400000t" end="11283400000t" region="bottomCenter" style="s1" xml:id="subtitle279">没关系的</p>
+<p begin="11292400000t" end="11324400000t" region="bottomCenter" style="s1" xml:id="subtitle280">说来格拉曼那老狸猫还好么</p>
+<p begin="11337400000t" end="11350400000t" region="bottomCenter" style="s1" xml:id="subtitle281">他还是老样子</p>
+<p begin="11356400000t" end="11365400000t" region="bottomCenter" style="s1" xml:id="subtitle282">将军</p>
+<p begin="11372400000t" end="11390400000t" region="bottomCenter" style="s1" xml:id="subtitle283">啊 又败了</p>
+<p begin="11391400000t" end="11406400000t" region="bottomCenter" style="s1" xml:id="subtitle284">这已经是11连败了</p>
+<p begin="11409400000t" end="11421400000t" region="bottomCenter" style="s1" xml:id="subtitle285">是12哦</p>
+<p begin="11424400000t" end="11453400000t" region="bottomCenter" style="s1" xml:id="subtitle286">不过这次你算是够努力的了</p>
+<p begin="11461400000t" end="11490400000t" region="bottomCenter" style="s1" xml:id="subtitle287">只是意识到胜利之后下得太糟</p>
+<p begin="11497400000t" end="11512400000t" region="bottomCenter" style="s1" xml:id="subtitle288">您是说我最后掉以轻心了吗</p>
+<p begin="11518400000t" end="11539400000t" region="bottomCenter" style="s1" xml:id="subtitle289">对 就是无法冷血到底</p>
+<p begin="11542400000t" end="11558400000t" region="bottomCenter" style="s1" xml:id="subtitle290">跟雷文一样呢</p>
+<p begin="11561400000t" end="11587400000t" region="bottomCenter" style="s1" xml:id="subtitle291">中央市的雷文将军么</p>
+<p begin="11591400000t" end="11614400000t" region="bottomCenter" style="s1" xml:id="subtitle292">他很优秀 就是心太软</p>
+<p begin="11623400000t" end="11651400000t" region="bottomCenter" style="s1" xml:id="subtitle293">曾经亲自去救负伤的部下</p>
+<p begin="11654400000t" end="11680400000t" region="bottomCenter" style="s1" xml:id="subtitle294">结果打乱了我方阵型</p>
+<p begin="11683400000t" end="11711400000t" region="bottomCenter" style="s1" xml:id="subtitle295">照他那样有多少棋子都不够哦</p>
+<p begin="11713400000t" end="11732400000t" region="bottomCenter" style="s1" xml:id="subtitle296">这…这简直是侮辱</p>
+<p begin="11733400000t" end="11760400000t" region="bottomCenter" style="s1" xml:id="subtitle297">我就是因为关心部下而广受好评</p>
+<p begin="11761400000t" end="11776400000t" region="bottomCenter" style="s1" xml:id="subtitle298">才调到中央来的</p>
+<p begin="11779400000t" end="11808400000t" region="bottomCenter" style="s1" xml:id="subtitle299">边境的老头子怎么可以乱说</p>
+<p begin="11827400000t" end="11840400000t" region="bottomCenter" style="s1" xml:id="subtitle300">啊 失礼了</p>
+<p begin="11844400000t" end="11855400000t" region="bottomCenter" style="s1" xml:id="subtitle301">您别在意</p>
+<p begin="11862400000t" end="11893400000t" region="bottomCenter" style="s1" xml:id="subtitle302">顺带一提 如果会因此生气</p>
+<p begin="11895400000t" end="11917400000t" region="bottomCenter" style="s1" xml:id="subtitle303">说明您现在还是正义之人</p>
+<p begin="11923400000t" end="11945400000t" region="bottomCenter" style="s1" xml:id="subtitle304">什么事都可以找您商量</p>
+<p begin="11950400000t" end="11963400000t" region="bottomCenter" style="s1" xml:id="subtitle305">格拉曼中将是这样说的</p>
+<p begin="11972400000t" end="12018400000t" region="bottomCenter" style="s1" xml:id="subtitle306">啊 又被那老狸猫摆了一道啊</p>
+<p begin="12070400000t" end="12086400000t" region="bottomCenter" style="s1" xml:id="subtitle307">哦 该去开会了</p>
+<p begin="12088400000t" end="12100400000t" region="bottomCenter" style="s1" xml:id="subtitle308">一起过去吧</p>
+<p begin="12133400000t" end="12153400000t" region="bottomCenter" style="s1" xml:id="subtitle309">你在中央市还过得惯吧</p>
+<p begin="12157400000t" end="12201400000t" region="bottomCenter" style="s1" xml:id="subtitle310">不…我倒是有注意听取民众的流言</p>
+<p begin="12207400000t" end="12234400000t" region="bottomCenter" style="s1" xml:id="subtitle311">市井的传言确实不容小觑哦</p>
+<p begin="12235400000t" end="12270400000t" region="bottomCenter" style="s1" xml:id="subtitle312">可是大多是一些无聊的话题</p>
+<p begin="12276400000t" end="12298400000t" region="bottomCenter" style="s1" xml:id="subtitle313">伤疤男喂小猫啦</p>
+<p begin="12299400000t" end="12323400000t" region="bottomCenter" style="s1" xml:id="subtitle314">出现了不死之人啦</p>
+<p begin="12336400000t" end="12375400000t" region="bottomCenter" style="s1" xml:id="subtitle315">总统是人造人…什么的</p>
+<p begin="12422400000t" end="12445400000t" region="bottomCenter" style="s1" xml:id="subtitle316">你真是没什么幽默感啊</p>
+<p begin="12447400000t" end="12467400000t" region="bottomCenter" style="s1" xml:id="subtitle317">真是格拉曼的部下么</p>
+<p begin="12471400000t" end="12496400000t" region="bottomCenter" style="s1" xml:id="subtitle318">这方面确实未得真传</p>
+<p begin="12505400000t" end="12542400000t" region="bottomCenter" style="s1" xml:id="subtitle319">不过这些小道消息倒也能作茶余谈资啦</p>
+<p begin="12545400000t" end="12569400000t" region="bottomCenter" style="s1" xml:id="subtitle320">啊 属下怎够资格参加这样的会议</p>
+<p begin="12693400000t" end="12719400000t" region="bottomCenter" style="s1" xml:id="subtitle321">那么 刚才的笑话</p>
+<p begin="12735400000t" end="12764400000t" region="bottomCenter" style="s1" xml:id="subtitle322">总统是人造人什么的</p>
+<p begin="12775400000t" end="12786400000t" region="bottomCenter" style="s1" xml:id="subtitle323">你继续讲下去吧</p>
+<p begin="12808400000t" end="12835400000t" region="bottomCenter" style="s1" xml:id="subtitle324">怎么了 玛斯坦上校</p>
+<p begin="12841400000t" end="12882400000t" region="bottomCenter" style="s1" xml:id="subtitle325">你说我是人造人的话又怎么样呢</p>
+<p begin="12892400000t" end="12916400000t" region="bottomCenter" style="s1" xml:id="subtitle326">有什么问题？</p>
+<p begin="12978400000t" end="12994400000t" region="bottomCenter" style="s1" xml:id="subtitle327">原来如此啊 修兹</p>
+<p begin="13004400000t" end="13018400000t" region="bottomCenter" style="s1" xml:id="subtitle328">军部很糟</p>
+<p begin="13026400000t" end="13054400000t" region="bottomCenter" style="s1" xml:id="subtitle329">并不是说军部面临危机</p>
+<p begin="13062400000t" end="13086400000t" region="bottomCenter" style="s1" xml:id="subtitle330">而是军部本身有问题啊</p>
+<p begin="13110400000t" end="13147400000t" region="bottomCenter" style="s1" xml:id="subtitle331">钢仔 看来这里是地狱的深渊啊</p>
+<p begin="13212400000t" end="13222400000t" region="bottomCenter" style="s1" xml:id="subtitle332">这里是</p>
+<p begin="13261400000t" end="13267400000t" region="bottomCenter" style="s1" xml:id="subtitle333">血？</p>
+<p begin="13279400000t" end="13306400000t" region="bottomCenter" style="s1" xml:id="subtitle334">这里是怎么回事</p>
+<p begin="13312400000t" end="13320000000t" region="bottomCenter" style="s1" xml:id="subtitle335">阿尔</p>
+<p begin="13322900000t" end="13347700000t" region="bottomCenter" style="s1" xml:id="subtitle336">喂 有人吗</p>
+<p begin="13425400000t" end="13463400000t" region="bottomCenter" style="s1" xml:id="subtitle337">这里到底是哪儿啊！</p>
+<p begin="14399600000t" end="14420600000t" region="bottomCenter" style="s1" xml:id="subtitle338">寻找消失的人</p>
+<p begin="14422600000t" end="14447600000t" region="bottomCenter" style="s1" xml:id="subtitle339">是因为惧怕孤独吗</p>
+<p begin="14456600000t" end="14490600000t" region="bottomCenter" style="s1" xml:id="subtitle340">但即便不见身姿也不会放弃</p>
+<p begin="14492600000t" end="14507600000t" region="bottomCenter" style="s1" xml:id="subtitle341">因为相信</p>
+<p begin="14520600000t" end="14546600000t" region="bottomCenter" style="s1" xml:id="subtitle342">下集 钢之炼金术师</p>
+<p begin="14548600000t" end="14564600000t" region="bottomCenter" style="s1" xml:id="subtitle343">Fullmetal Alchemist</p>
+<p begin="14567600000t" end="14580600000t" region="bottomCenter" style="s1" xml:id="subtitle344">第25话</p>
+<p begin="14584600000t" end="14597600000t" region="bottomCenter" style="s1" xml:id="subtitle345">暗之门</p>
+<p begin="14612600000t" end="14651600000t" region="bottomCenter" style="s1" xml:id="subtitle346">不要看我 不要看这丑态</p>
+</div>
+</body>
+</tt>
