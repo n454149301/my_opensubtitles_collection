@@ -16,7 +16,7 @@ def str_data_to_num(str_data):
     rtnValue=int(rtnValue+offset)*10000
     return str(rtnValue)+"t"
 
-path = "./伪物语11.srt"
+path = "."
 # path = "./02Eternal.srt"
 if not os.path.exists(path):
     print("No such path exists.\n")
