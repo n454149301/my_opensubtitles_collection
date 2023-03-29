@@ -1,0 +1,847 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="99100000t" end="117400000t" region="bottomCenter" style="s1" xml:id="subtitle0">真厉害啊 六花小姐</p>
+<p begin="121600000t" end="149100000t" region="bottomCenter" style="s1" xml:id="subtitle1">独自提出异议 独自死去</p>
+<p begin="150400000t" end="182100000t" region="bottomCenter" style="s1" xml:id="subtitle2">死而复生 从而掌控留言走向</p>
+<p begin="196200000t" end="217500000t" region="bottomCenter" style="s1" xml:id="subtitle3">但我们不是独自一人</p>
+<p begin="226300000t" end="263800000t" region="bottomCenter" style="s1" xml:id="subtitle4">九郎前辈和我不会让你肆意妄为的</p>
+<p begin="278400000t" end="310100000t" region="bottomCenter" style="s1" xml:id="subtitle5">是啊 即使第三个解释不被接纳</p>
+<p begin="313400000t" end="336000000t" region="bottomCenter" style="s1" xml:id="subtitle6">也不是所有人都顺应了趋势</p>
+<p begin="343500000t" end="393500000t" region="bottomCenter" style="s1" xml:id="subtitle7">应该有部分人转而不相信钢人七濑的亡灵了</p>
+<p begin="398100000t" end="436900000t" region="bottomCenter" style="s1" xml:id="subtitle8">我可不指望只占百分之几的那些墙头草</p>
+<p begin="448600000t" end="483000000t" region="bottomCenter" style="s1" xml:id="subtitle9">可能会有人满足于之前那些解释吧</p>
+<p begin="484000000t" end="499000000t" region="bottomCenter" style="s1" xml:id="subtitle10">但是我并没有把他们算进去</p>
+<p begin="509500000t" end="537000000t" region="bottomCenter" style="s1" xml:id="subtitle11">六花小姐和你思考着同样的事情</p>
+<p begin="539500000t" end="570400000t" region="bottomCenter" style="s1" xml:id="subtitle12">肯定选择了墙头草更少的未来吧</p>
+<p begin="581600000t" end="620400000t" region="bottomCenter" style="s1" xml:id="subtitle13">她以为我打算阶段性地削弱她的势力</p>
+<p begin="642500000t" end="666700000t" region="bottomCenter" style="s1" xml:id="subtitle14">而我的陷阱就是从这里开始的</p>
+<p begin="677600000t" end="723000000t" region="bottomCenter" style="s1" xml:id="subtitle15">目前为止我的解释都是层层递进的</p>
+<p begin="735900000t" end="768900000t" region="bottomCenter" style="s1" xml:id="subtitle16">寺田警官独自调查钢人七濑</p>
+<p begin="777700000t" end="816000000t" region="bottomCenter" style="s1" xml:id="subtitle17">七濑花凛的父亲怀着恶意写下的笔记</p>
+<p begin="823500000t" end="845400000t" region="bottomCenter" style="s1" xml:id="subtitle18">即使这些解释都不被接纳</p>
+<p begin="847700000t" end="867700000t" region="bottomCenter" style="s1" xml:id="subtitle19">但事件的要素本身并没有遭到排斥</p>
+<p begin="876900000t" end="899000000t" region="bottomCenter" style="s1" xml:id="subtitle20">现在被驳回的第三个解释也是</p>
+<p begin="901100000t" end="919500000t" region="bottomCenter" style="s1" xml:id="subtitle21">虽然犯人的肖像被驳回了</p>
+<p begin="925300000t" end="979100000t" region="bottomCenter" style="s1" xml:id="subtitle22">但却没人对姐姐把笔记透露给媒体提出质疑</p>
+<p begin="988700000t" end="1002000000t" region="bottomCenter" style="s1" xml:id="subtitle23">因为在六花小姐看来</p>
+<p begin="1004100000t" end="1035700000t" region="bottomCenter" style="s1" xml:id="subtitle24">只要「钢人七濑的亡灵并不存在」这个结论</p>
+<p begin="1037500000t" end="1062900000t" region="bottomCenter" style="s1" xml:id="subtitle25">不被众人所接纳就行了</p>
+<p begin="1068800000t" end="1102600000t" region="bottomCenter" style="s1" xml:id="subtitle26">没必要从根本上推翻我的解释</p>
+<p begin="1112200000t" end="1145500000t" region="bottomCenter" style="s1" xml:id="subtitle27">只要推翻最终结论 她就能达成目的</p>
+<p begin="1156000000t" end="1184400000t" region="bottomCenter" style="s1" xml:id="subtitle28">如果她还想推翻所有细枝末节</p>
+<p begin="1186000000t" end="1199700000t" region="bottomCenter" style="s1" xml:id="subtitle29">反而会显得可疑</p>
+<p begin="1203100000t" end="1231000000t" region="bottomCenter" style="s1" xml:id="subtitle30">所以六花小姐只能选择更单纯的路线</p>
+<p begin="1245200000t" end="1258100000t" region="bottomCenter" style="s1" xml:id="subtitle31">如...如果是这样</p>
+<p begin="1279000000t" end="1308700000t" region="bottomCenter" style="s1" xml:id="subtitle32">六花小姐所采取的行动 所决定的未来</p>
+<p begin="1312400000t" end="1330200000t" region="bottomCenter" style="s1" xml:id="subtitle33">难道全都在她的掌控之中吗</p>
+<p begin="1343200000t" end="1360700000t" region="bottomCenter" style="s1" xml:id="subtitle34">准备完成了</p>
+<p begin="1366600000t" end="1391200000t" region="bottomCenter" style="s1" xml:id="subtitle35">接下来只要放出这最后一击就行了</p>
+<p begin="1496700000t" end="1519200000t" region="bottomCenter" style="s1" xml:id="subtitle36">虚构生于虚构</p>
+<p begin="1525100000t" end="1540900000t" region="bottomCenter" style="s1" xml:id="subtitle37">凌驾于真实之上</p>
+<p begin="1564300000t" end="1583900000t" region="bottomCenter" style="s1" xml:id="subtitle38">钢人七濑将会消失</p>
+<p begin="1647300000t" end="1672600000t" region="bottomCenter" style="s1" xml:id="subtitle39">第四个解释 开始</p>
+<p begin="1902500000t" end="1931300000t" region="bottomCenter" style="s1" xml:id="subtitle40">七</p>
+<p begin="1902500000t" end="1930900000t" region="bottomCenter" style="s1" xml:id="subtitle41">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1902500000t" end="1931300000t" region="bottomCenter" style="s1" xml:id="subtitle42">転</p>
+<p begin="1902500000t" end="1930900000t" region="bottomCenter" style="s1" xml:id="subtitle43">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1902500000t" end="1931300000t" region="bottomCenter" style="s1" xml:id="subtitle44">八</p>
+<p begin="1902500000t" end="1930900000t" region="bottomCenter" style="s1" xml:id="subtitle45">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1902500000t" end="1931300000t" region="bottomCenter" style="s1" xml:id="subtitle46">倒</p>
+<p begin="1902500000t" end="1930900000t" region="bottomCenter" style="s1" xml:id="subtitle47">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1902500000t" end="1931300000t" region="bottomCenter" style="s1" xml:id="subtitle48">で</p>
+<p begin="1902500000t" end="1930900000t" region="bottomCenter" style="s1" xml:id="subtitle49">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1902500000t" end="1931300000t" region="bottomCenter" style="s1" xml:id="subtitle50">到</p>
+<p begin="1902500000t" end="1930900000t" region="bottomCenter" style="s1" xml:id="subtitle51">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1902500000t" end="1931300000t" region="bottomCenter" style="s1" xml:id="subtitle52">着</p>
+<p begin="1902500000t" end="1930900000t" region="bottomCenter" style="s1" xml:id="subtitle53">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1902500000t" end="1931300000t" region="bottomCenter" style="s1" xml:id="subtitle54">跌</p>
+<p begin="1902500000t" end="1930900000t" region="bottomCenter" style="s1" xml:id="subtitle55">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1902500000t" end="1931300000t" region="bottomCenter" style="s1" xml:id="subtitle56">跌</p>
+<p begin="1902500000t" end="1930900000t" region="bottomCenter" style="s1" xml:id="subtitle57">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1902500000t" end="1931300000t" region="bottomCenter" style="s1" xml:id="subtitle58">撞</p>
+<p begin="1902500000t" end="1930900000t" region="bottomCenter" style="s1" xml:id="subtitle59">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1902500000t" end="1931300000t" region="bottomCenter" style="s1" xml:id="subtitle60">撞</p>
+<p begin="1902500000t" end="1930900000t" region="bottomCenter" style="s1" xml:id="subtitle61">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1902500000t" end="1931300000t" region="bottomCenter" style="s1" xml:id="subtitle62">来</p>
+<p begin="1902500000t" end="1930900000t" region="bottomCenter" style="s1" xml:id="subtitle63">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1902500000t" end="1931300000t" region="bottomCenter" style="s1" xml:id="subtitle64">到</p>
+<p begin="1902500000t" end="1930900000t" region="bottomCenter" style="s1" xml:id="subtitle65">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1902500000t" end="1931300000t" region="bottomCenter" style="s1" xml:id="subtitle66">了</p>
+<p begin="1902500000t" end="1930900000t" region="bottomCenter" style="s1" xml:id="subtitle67">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1902500000t" end="1931300000t" region="bottomCenter" style="s1" xml:id="subtitle68">这</p>
+<p begin="1902500000t" end="1930900000t" region="bottomCenter" style="s1" xml:id="subtitle69">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1902500000t" end="1931300000t" region="bottomCenter" style="s1" xml:id="subtitle70">里</p>
+<p begin="1902500000t" end="1930900000t" region="bottomCenter" style="s1" xml:id="subtitle71">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1928800000t" end="1933000000t" region="bottomCenter" style="s1" xml:id="subtitle72">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1928800000t" end="1933000000t" region="bottomCenter" style="s1" xml:id="subtitle73">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1928800000t" end="1933000000t" region="bottomCenter" style="s1" xml:id="subtitle74">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1928800000t" end="1933000000t" region="bottomCenter" style="s1" xml:id="subtitle75">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1928800000t" end="1933000000t" region="bottomCenter" style="s1" xml:id="subtitle76">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1928800000t" end="1933000000t" region="bottomCenter" style="s1" xml:id="subtitle77">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1928800000t" end="1933000000t" region="bottomCenter" style="s1" xml:id="subtitle78">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1928800000t" end="1933000000t" region="bottomCenter" style="s1" xml:id="subtitle79">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1928800000t" end="1933000000t" region="bottomCenter" style="s1" xml:id="subtitle80">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1928800000t" end="1933000000t" region="bottomCenter" style="s1" xml:id="subtitle81">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1928800000t" end="1933000000t" region="bottomCenter" style="s1" xml:id="subtitle82">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1928800000t" end="1933000000t" region="bottomCenter" style="s1" xml:id="subtitle83">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1928800000t" end="1933000000t" region="bottomCenter" style="s1" xml:id="subtitle84">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1928800000t" end="1933000000t" region="bottomCenter" style="s1" xml:id="subtitle85">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1928800000t" end="1933000000t" region="bottomCenter" style="s1" xml:id="subtitle86">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1928800000t" end="1933000000t" region="bottomCenter" style="s1" xml:id="subtitle87">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1928800000t" end="1933000000t" region="bottomCenter" style="s1" xml:id="subtitle88">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1928800000t" end="1933000000t" region="bottomCenter" style="s1" xml:id="subtitle89">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1930500000t" end="1962200000t" region="bottomCenter" style="s1" xml:id="subtitle90">既</p>
+<p begin="1930500000t" end="1962200000t" region="bottomCenter" style="s1" xml:id="subtitle91">存</p>
+<p begin="1930500000t" end="1962200000t" region="bottomCenter" style="s1" xml:id="subtitle92">理</p>
+<p begin="1930500000t" end="1962200000t" region="bottomCenter" style="s1" xml:id="subtitle93">論</p>
+<p begin="1930500000t" end="1962200000t" region="bottomCenter" style="s1" xml:id="subtitle94">で</p>
+<p begin="1930500000t" end="1962200000t" region="bottomCenter" style="s1" xml:id="subtitle95">用</p>
+<p begin="1930500000t" end="1962200000t" region="bottomCenter" style="s1" xml:id="subtitle96">既</p>
+<p begin="1930500000t" end="1962200000t" region="bottomCenter" style="s1" xml:id="subtitle97">存</p>
+<p begin="1930500000t" end="1962200000t" region="bottomCenter" style="s1" xml:id="subtitle98">理</p>
+<p begin="1930500000t" end="1962200000t" region="bottomCenter" style="s1" xml:id="subtitle99">论</p>
+<p begin="1930900000t" end="1962200000t" region="bottomCenter" style="s1" xml:id="subtitle100">カ</p>
+<p begin="1930900000t" end="1962200000t" region="bottomCenter" style="s1" xml:id="subtitle101">ク</p>
+<p begin="1930900000t" end="1962200000t" region="bottomCenter" style="s1" xml:id="subtitle102">メ</p>
+<p begin="1930900000t" end="1962200000t" region="bottomCenter" style="s1" xml:id="subtitle103">イ</p>
+<p begin="1930900000t" end="1962200000t" region="bottomCenter" style="s1" xml:id="subtitle104">掀</p>
+<p begin="1930900000t" end="1962200000t" region="bottomCenter" style="s1" xml:id="subtitle105">起</p>
+<p begin="1930900000t" end="1962200000t" region="bottomCenter" style="s1" xml:id="subtitle106">革</p>
+<p begin="1930900000t" end="1962200000t" region="bottomCenter" style="s1" xml:id="subtitle107">命</p>
+<p begin="1960100000t" end="1963800000t" region="bottomCenter" style="s1" xml:id="subtitle108">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1960100000t" end="1963800000t" region="bottomCenter" style="s1" xml:id="subtitle109">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1960100000t" end="1963800000t" region="bottomCenter" style="s1" xml:id="subtitle110">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1960100000t" end="1963800000t" region="bottomCenter" style="s1" xml:id="subtitle111">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1960100000t" end="1963800000t" region="bottomCenter" style="s1" xml:id="subtitle112">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1960100000t" end="1963800000t" region="bottomCenter" style="s1" xml:id="subtitle113">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1960100000t" end="1963800000t" region="bottomCenter" style="s1" xml:id="subtitle114">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1960100000t" end="1963800000t" region="bottomCenter" style="s1" xml:id="subtitle115">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1960100000t" end="1963800000t" region="bottomCenter" style="s1" xml:id="subtitle116">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1960100000t" end="1963800000t" region="bottomCenter" style="s1" xml:id="subtitle117">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1960100000t" end="1963800000t" region="bottomCenter" style="s1" xml:id="subtitle118">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1960100000t" end="1963800000t" region="bottomCenter" style="s1" xml:id="subtitle119">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1960100000t" end="1963800000t" region="bottomCenter" style="s1" xml:id="subtitle120">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1960100000t" end="1963800000t" region="bottomCenter" style="s1" xml:id="subtitle121">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1960100000t" end="1963800000t" region="bottomCenter" style="s1" xml:id="subtitle122">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1960100000t" end="1963800000t" region="bottomCenter" style="s1" xml:id="subtitle123">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1960100000t" end="1963800000t" region="bottomCenter" style="s1" xml:id="subtitle124">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1960100000t" end="1963800000t" region="bottomCenter" style="s1" xml:id="subtitle125">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1960100000t" end="1963800000t" region="bottomCenter" style="s1" xml:id="subtitle126">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="1961300000t" end="1998900000t" region="bottomCenter" style="s1" xml:id="subtitle127">誰</p>
+<p begin="1961300000t" end="1998900000t" region="bottomCenter" style="s1" xml:id="subtitle128">も</p>
+<p begin="1961300000t" end="1998900000t" region="bottomCenter" style="s1" xml:id="subtitle129">が</p>
+<p begin="1961300000t" end="1998900000t" region="bottomCenter" style="s1" xml:id="subtitle130">予</p>
+<p begin="1961300000t" end="1998900000t" region="bottomCenter" style="s1" xml:id="subtitle131">測</p>
+<p begin="1961300000t" end="1998900000t" region="bottomCenter" style="s1" xml:id="subtitle132">亦</p>
+<p begin="1961300000t" end="1998900000t" region="bottomCenter" style="s1" xml:id="subtitle133">如</p>
+<p begin="1961300000t" end="1998900000t" region="bottomCenter" style="s1" xml:id="subtitle134">无</p>
+<p begin="1961300000t" end="1998900000t" region="bottomCenter" style="s1" xml:id="subtitle135">法</p>
+<p begin="1961300000t" end="1998900000t" region="bottomCenter" style="s1" xml:id="subtitle136">预</p>
+<p begin="1961800000t" end="1998900000t" region="bottomCenter" style="s1" xml:id="subtitle137">不</p>
+<p begin="1961800000t" end="1998900000t" region="bottomCenter" style="s1" xml:id="subtitle138">能</p>
+<p begin="1961800000t" end="1998900000t" region="bottomCenter" style="s1" xml:id="subtitle139">の</p>
+<p begin="1961800000t" end="1998900000t" region="bottomCenter" style="s1" xml:id="subtitle140">連</p>
+<p begin="1961800000t" end="1998900000t" region="bottomCenter" style="s1" xml:id="subtitle141">测</p>
+<p begin="1961800000t" end="1998900000t" region="bottomCenter" style="s1" xml:id="subtitle142">的</p>
+<p begin="1961800000t" end="1998900000t" region="bottomCenter" style="s1" xml:id="subtitle143">连</p>
+<p begin="1961800000t" end="1998900000t" region="bottomCenter" style="s1" xml:id="subtitle144">锁</p>
+<p begin="1962200000t" end="1998900000t" region="bottomCenter" style="s1" xml:id="subtitle145">鎖</p>
+<p begin="1999700000t" end="2029700000t" region="bottomCenter" style="s1" xml:id="subtitle146">虚</p>
+<p begin="1999700000t" end="2029700000t" region="bottomCenter" style="s1" xml:id="subtitle147">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1999700000t" end="2029700000t" region="bottomCenter" style="s1" xml:id="subtitle148">ろ</p>
+<p begin="1999700000t" end="2029700000t" region="bottomCenter" style="s1" xml:id="subtitle149">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1999700000t" end="2029700000t" region="bottomCenter" style="s1" xml:id="subtitle150">う</p>
+<p begin="1999700000t" end="2029700000t" region="bottomCenter" style="s1" xml:id="subtitle151">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1999700000t" end="2029700000t" region="bottomCenter" style="s1" xml:id="subtitle152">瞳</p>
+<p begin="1999700000t" end="2029700000t" region="bottomCenter" style="s1" xml:id="subtitle153">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1999700000t" end="2029700000t" region="bottomCenter" style="s1" xml:id="subtitle154">に</p>
+<p begin="1999700000t" end="2029700000t" region="bottomCenter" style="s1" xml:id="subtitle155">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1999700000t" end="2029700000t" region="bottomCenter" style="s1" xml:id="subtitle156">映</p>
+<p begin="1999700000t" end="2029700000t" region="bottomCenter" style="s1" xml:id="subtitle157">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1999700000t" end="2029700000t" region="bottomCenter" style="s1" xml:id="subtitle158">る</p>
+<p begin="1999700000t" end="2029700000t" region="bottomCenter" style="s1" xml:id="subtitle159">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1999700000t" end="2029700000t" region="bottomCenter" style="s1" xml:id="subtitle160">空</p>
+<p begin="1999700000t" end="2029700000t" region="bottomCenter" style="s1" xml:id="subtitle161">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1999700000t" end="2029700000t" region="bottomCenter" style="s1" xml:id="subtitle162">虚</p>
+<p begin="1999700000t" end="2029700000t" region="bottomCenter" style="s1" xml:id="subtitle163">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1999700000t" end="2029700000t" region="bottomCenter" style="s1" xml:id="subtitle164">的</p>
+<p begin="1999700000t" end="2029700000t" region="bottomCenter" style="s1" xml:id="subtitle165">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1999700000t" end="2029700000t" region="bottomCenter" style="s1" xml:id="subtitle166">眼</p>
+<p begin="1999700000t" end="2029700000t" region="bottomCenter" style="s1" xml:id="subtitle167">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1999700000t" end="2029700000t" region="bottomCenter" style="s1" xml:id="subtitle168">眸</p>
+<p begin="1999700000t" end="2029700000t" region="bottomCenter" style="s1" xml:id="subtitle169">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="1999700000t" end="2029700000t" region="bottomCenter" style="s1" xml:id="subtitle170">里</p>
+<p begin="1999700000t" end="2029700000t" region="bottomCenter" style="s1" xml:id="subtitle171">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2027700000t" end="2031800000t" region="bottomCenter" style="s1" xml:id="subtitle172">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2027700000t" end="2031800000t" region="bottomCenter" style="s1" xml:id="subtitle173">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2027700000t" end="2031800000t" region="bottomCenter" style="s1" xml:id="subtitle174">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2027700000t" end="2031800000t" region="bottomCenter" style="s1" xml:id="subtitle175">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2027700000t" end="2031800000t" region="bottomCenter" style="s1" xml:id="subtitle176">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2027700000t" end="2031800000t" region="bottomCenter" style="s1" xml:id="subtitle177">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2027700000t" end="2031800000t" region="bottomCenter" style="s1" xml:id="subtitle178">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2027700000t" end="2031800000t" region="bottomCenter" style="s1" xml:id="subtitle179">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2027700000t" end="2031800000t" region="bottomCenter" style="s1" xml:id="subtitle180">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2027700000t" end="2031800000t" region="bottomCenter" style="s1" xml:id="subtitle181">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2027700000t" end="2031800000t" region="bottomCenter" style="s1" xml:id="subtitle182">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2027700000t" end="2031800000t" region="bottomCenter" style="s1" xml:id="subtitle183">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2027700000t" end="2031800000t" region="bottomCenter" style="s1" xml:id="subtitle184">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2027700000t" end="2031800000t" region="bottomCenter" style="s1" xml:id="subtitle185">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2027700000t" end="2031800000t" region="bottomCenter" style="s1" xml:id="subtitle186">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2027700000t" end="2031800000t" region="bottomCenter" style="s1" xml:id="subtitle187">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2028900000t" end="2060600000t" region="bottomCenter" style="s1" xml:id="subtitle188">有</p>
+<p begin="2028900000t" end="2060600000t" region="bottomCenter" style="s1" xml:id="subtitle189">象</p>
+<p begin="2028900000t" end="2060600000t" region="bottomCenter" style="s1" xml:id="subtitle190">無</p>
+<p begin="2028900000t" end="2060600000t" region="bottomCenter" style="s1" xml:id="subtitle191">容</p>
+<p begin="2028900000t" end="2060600000t" region="bottomCenter" style="s1" xml:id="subtitle192">不</p>
+<p begin="2028900000t" end="2060600000t" region="bottomCenter" style="s1" xml:id="subtitle193">下</p>
+<p begin="2029300000t" end="2060600000t" region="bottomCenter" style="s1" xml:id="subtitle194">象</p>
+<p begin="2029300000t" end="2060600000t" region="bottomCenter" style="s1" xml:id="subtitle195">は</p>
+<p begin="2029300000t" end="2060600000t" region="bottomCenter" style="s1" xml:id="subtitle196">御</p>
+<p begin="2029300000t" end="2060600000t" region="bottomCenter" style="s1" xml:id="subtitle197">免</p>
+<p begin="2029300000t" end="2060600000t" region="bottomCenter" style="s1" xml:id="subtitle198">这</p>
+<p begin="2029300000t" end="2060600000t" region="bottomCenter" style="s1" xml:id="subtitle199">群</p>
+<p begin="2029300000t" end="2060600000t" region="bottomCenter" style="s1" xml:id="subtitle200">乌</p>
+<p begin="2029300000t" end="2060600000t" region="bottomCenter" style="s1" xml:id="subtitle201">合</p>
+<p begin="2029700000t" end="2060600000t" region="bottomCenter" style="s1" xml:id="subtitle202">之</p>
+<p begin="2029700000t" end="2060600000t" region="bottomCenter" style="s1" xml:id="subtitle203">众</p>
+<p begin="2058500000t" end="2062700000t" region="bottomCenter" style="s1" xml:id="subtitle204">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2058500000t" end="2062700000t" region="bottomCenter" style="s1" xml:id="subtitle205">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2058500000t" end="2062700000t" region="bottomCenter" style="s1" xml:id="subtitle206">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2058500000t" end="2062700000t" region="bottomCenter" style="s1" xml:id="subtitle207">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2058500000t" end="2062700000t" region="bottomCenter" style="s1" xml:id="subtitle208">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2058500000t" end="2062700000t" region="bottomCenter" style="s1" xml:id="subtitle209">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2058500000t" end="2062700000t" region="bottomCenter" style="s1" xml:id="subtitle210">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2058500000t" end="2062700000t" region="bottomCenter" style="s1" xml:id="subtitle211">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2058500000t" end="2062700000t" region="bottomCenter" style="s1" xml:id="subtitle212">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2058500000t" end="2062700000t" region="bottomCenter" style="s1" xml:id="subtitle213">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2058500000t" end="2062700000t" region="bottomCenter" style="s1" xml:id="subtitle214">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2058500000t" end="2062700000t" region="bottomCenter" style="s1" xml:id="subtitle215">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2058500000t" end="2062700000t" region="bottomCenter" style="s1" xml:id="subtitle216">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2058500000t" end="2062700000t" region="bottomCenter" style="s1" xml:id="subtitle217">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2058500000t" end="2062700000t" region="bottomCenter" style="s1" xml:id="subtitle218">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2058500000t" end="2062700000t" region="bottomCenter" style="s1" xml:id="subtitle219">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2058500000t" end="2062700000t" region="bottomCenter" style="s1" xml:id="subtitle220">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2058500000t" end="2062700000t" region="bottomCenter" style="s1" xml:id="subtitle221">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2058500000t" end="2062700000t" region="bottomCenter" style="s1" xml:id="subtitle222">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2058500000t" end="2062700000t" region="bottomCenter" style="s1" xml:id="subtitle223">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2058500000t" end="2062700000t" region="bottomCenter" style="s1" xml:id="subtitle224">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2059800000t" end="2096500000t" region="bottomCenter" style="s1" xml:id="subtitle225">こ</p>
+<p begin="2059800000t" end="2096500000t" region="bottomCenter" style="s1" xml:id="subtitle226">の</p>
+<p begin="2059800000t" end="2096500000t" region="bottomCenter" style="s1" xml:id="subtitle227">世</p>
+<p begin="2059800000t" end="2096500000t" region="bottomCenter" style="s1" xml:id="subtitle228">只</p>
+<p begin="2059800000t" end="2096500000t" region="bottomCenter" style="s1" xml:id="subtitle229">能</p>
+<p begin="2059800000t" end="2096500000t" region="bottomCenter" style="s1" xml:id="subtitle230">把</p>
+<p begin="2060200000t" end="2096500000t" region="bottomCenter" style="s1" xml:id="subtitle231">の</p>
+<p begin="2060200000t" end="2096500000t" region="bottomCenter" style="s1" xml:id="subtitle232">理</p>
+<p begin="2060200000t" end="2096500000t" region="bottomCenter" style="s1" xml:id="subtitle233">、</p>
+<p begin="2060200000t" end="2096500000t" region="bottomCenter" style="s1" xml:id="subtitle234">手</p>
+<p begin="2060200000t" end="2096500000t" region="bottomCenter" style="s1" xml:id="subtitle235">世</p>
+<p begin="2060200000t" end="2096500000t" region="bottomCenter" style="s1" xml:id="subtitle236">界</p>
+<p begin="2060200000t" end="2096500000t" region="bottomCenter" style="s1" xml:id="subtitle237">之</p>
+<p begin="2060200000t" end="2096500000t" region="bottomCenter" style="s1" xml:id="subtitle238">理</p>
+<p begin="2060600000t" end="2096500000t" region="bottomCenter" style="s1" xml:id="subtitle239">繰</p>
+<p begin="2060600000t" end="2096500000t" region="bottomCenter" style="s1" xml:id="subtitle240">っ</p>
+<p begin="2060600000t" end="2096500000t" region="bottomCenter" style="s1" xml:id="subtitle241">て</p>
+<p begin="2060600000t" end="2096500000t" region="bottomCenter" style="s1" xml:id="subtitle242">尽</p>
+<p begin="2060600000t" end="2096500000t" region="bottomCenter" style="s1" xml:id="subtitle243">收</p>
+<p begin="2060600000t" end="2096500000t" region="bottomCenter" style="s1" xml:id="subtitle244">于</p>
+<p begin="2061000000t" end="2096500000t" region="bottomCenter" style="s1" xml:id="subtitle245">心</p>
+<p begin="2098600000t" end="2122800000t" region="bottomCenter" style="s1" xml:id="subtitle246">心中</p>
+<p begin="2098600000t" end="2122800000t" region="bottomCenter" style="s1" xml:id="subtitle247">殉情</p>
+<p begin="2103600000t" end="2122800000t" region="bottomCenter" style="s1" xml:id="subtitle248">警戒</p>
+<p begin="2103600000t" end="2122800000t" region="bottomCenter" style="s1" xml:id="subtitle249">警戒</p>
+<p begin="2106900000t" end="2122800000t" region="bottomCenter" style="s1" xml:id="subtitle250">絶後</p>
+<p begin="2106900000t" end="2122800000t" region="bottomCenter" style="s1" xml:id="subtitle251">绝后</p>
+<p begin="2110700000t" end="2122800000t" region="bottomCenter" style="s1" xml:id="subtitle252">消失</p>
+<p begin="2110700000t" end="2122800000t" region="bottomCenter" style="s1" xml:id="subtitle253">消失</p>
+<p begin="2116100000t" end="2122800000t" region="bottomCenter" style="s1" xml:id="subtitle254">如来像</p>
+<p begin="2116100000t" end="2122800000t" region="bottomCenter" style="s1" xml:id="subtitle255">如来像</p>
+<p begin="2123600000t" end="2144900000t" region="bottomCenter" style="s1" xml:id="subtitle256">虚構</p>
+<p begin="2123600000t" end="2144900000t" region="bottomCenter" style="s1" xml:id="subtitle257">虚构</p>
+<p begin="2128200000t" end="2144900000t" region="bottomCenter" style="s1" xml:id="subtitle258">徹頭</p>
+<p begin="2128200000t" end="2144900000t" region="bottomCenter" style="s1" xml:id="subtitle259">彻头</p>
+<p begin="2131500000t" end="2144900000t" region="bottomCenter" style="s1" xml:id="subtitle260">徹尾</p>
+<p begin="2131500000t" end="2144900000t" region="bottomCenter" style="s1" xml:id="subtitle261">彻尾</p>
+<p begin="2135700000t" end="2144900000t" region="bottomCenter" style="s1" xml:id="subtitle262">真実</p>
+<p begin="2135700000t" end="2144900000t" region="bottomCenter" style="s1" xml:id="subtitle263">真实</p>
+<p begin="2140700000t" end="2144900000t" region="bottomCenter" style="s1" xml:id="subtitle264">風来</p>
+<p begin="2140700000t" end="2144900000t" region="bottomCenter" style="s1" xml:id="subtitle265">风来</p>
+<p begin="2146500000t" end="2167000000t" region="bottomCenter" style="s1" xml:id="subtitle266">モ</p>
+<p begin="2146500000t" end="2166500000t" region="bottomCenter" style="s1" xml:id="subtitle267">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2146500000t" end="2167000000t" region="bottomCenter" style="s1" xml:id="subtitle268">ノ</p>
+<p begin="2146500000t" end="2166500000t" region="bottomCenter" style="s1" xml:id="subtitle269">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2146500000t" end="2167000000t" region="bottomCenter" style="s1" xml:id="subtitle270">ノ</p>
+<p begin="2146500000t" end="2166500000t" region="bottomCenter" style="s1" xml:id="subtitle271">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2146500000t" end="2167000000t" region="bottomCenter" style="s1" xml:id="subtitle272">ケ</p>
+<p begin="2146500000t" end="2166500000t" region="bottomCenter" style="s1" xml:id="subtitle273">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2146500000t" end="2167000000t" region="bottomCenter" style="s1" xml:id="subtitle274">と</p>
+<p begin="2146500000t" end="2166500000t" region="bottomCenter" style="s1" xml:id="subtitle275">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2146500000t" end="2167000000t" region="bottomCenter" style="s1" xml:id="subtitle276">ケ</p>
+<p begin="2146500000t" end="2166500000t" region="bottomCenter" style="s1" xml:id="subtitle277">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2146500000t" end="2167000000t" region="bottomCenter" style="s1" xml:id="subtitle278">モ</p>
+<p begin="2146500000t" end="2166500000t" region="bottomCenter" style="s1" xml:id="subtitle279">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2146500000t" end="2167000000t" region="bottomCenter" style="s1" xml:id="subtitle280">ノ</p>
+<p begin="2146500000t" end="2166500000t" region="bottomCenter" style="s1" xml:id="subtitle281">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2146500000t" end="2167000000t" region="bottomCenter" style="s1" xml:id="subtitle282">不</p>
+<p begin="2146500000t" end="2166500000t" region="bottomCenter" style="s1" xml:id="subtitle283">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2146500000t" end="2167000000t" region="bottomCenter" style="s1" xml:id="subtitle284">论</p>
+<p begin="2146500000t" end="2166500000t" region="bottomCenter" style="s1" xml:id="subtitle285">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2146500000t" end="2167000000t" region="bottomCenter" style="s1" xml:id="subtitle286">妖</p>
+<p begin="2146500000t" end="2166500000t" region="bottomCenter" style="s1" xml:id="subtitle287">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2146500000t" end="2167000000t" region="bottomCenter" style="s1" xml:id="subtitle288">怪</p>
+<p begin="2146500000t" end="2166500000t" region="bottomCenter" style="s1" xml:id="subtitle289">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2146500000t" end="2167000000t" region="bottomCenter" style="s1" xml:id="subtitle290">还</p>
+<p begin="2146500000t" end="2166500000t" region="bottomCenter" style="s1" xml:id="subtitle291">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2146500000t" end="2167000000t" region="bottomCenter" style="s1" xml:id="subtitle292">是</p>
+<p begin="2146500000t" end="2166500000t" region="bottomCenter" style="s1" xml:id="subtitle293">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2146500000t" end="2167000000t" region="bottomCenter" style="s1" xml:id="subtitle294">野</p>
+<p begin="2146500000t" end="2166500000t" region="bottomCenter" style="s1" xml:id="subtitle295">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2146500000t" end="2167000000t" region="bottomCenter" style="s1" xml:id="subtitle296">兽</p>
+<p begin="2146500000t" end="2166500000t" region="bottomCenter" style="s1" xml:id="subtitle297">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2164500000t" end="2168600000t" region="bottomCenter" style="s1" xml:id="subtitle298">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2164500000t" end="2168600000t" region="bottomCenter" style="s1" xml:id="subtitle299">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2164500000t" end="2168600000t" region="bottomCenter" style="s1" xml:id="subtitle300">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2164500000t" end="2168600000t" region="bottomCenter" style="s1" xml:id="subtitle301">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2164500000t" end="2168600000t" region="bottomCenter" style="s1" xml:id="subtitle302">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2164500000t" end="2168600000t" region="bottomCenter" style="s1" xml:id="subtitle303">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2164500000t" end="2168600000t" region="bottomCenter" style="s1" xml:id="subtitle304">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2164500000t" end="2168600000t" region="bottomCenter" style="s1" xml:id="subtitle305">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2164500000t" end="2168600000t" region="bottomCenter" style="s1" xml:id="subtitle306">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2164500000t" end="2168600000t" region="bottomCenter" style="s1" xml:id="subtitle307">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2164500000t" end="2168600000t" region="bottomCenter" style="s1" xml:id="subtitle308">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2164500000t" end="2168600000t" region="bottomCenter" style="s1" xml:id="subtitle309">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2164500000t" end="2168600000t" region="bottomCenter" style="s1" xml:id="subtitle310">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2164500000t" end="2168600000t" region="bottomCenter" style="s1" xml:id="subtitle311">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2164500000t" end="2168600000t" region="bottomCenter" style="s1" xml:id="subtitle312">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2164500000t" end="2168600000t" region="bottomCenter" style="s1" xml:id="subtitle313">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2165700000t" end="2189100000t" region="bottomCenter" style="s1" xml:id="subtitle314">ヒ</p>
+<p begin="2165700000t" end="2189100000t" region="bottomCenter" style="s1" xml:id="subtitle315">ト</p>
+<p begin="2165700000t" end="2189100000t" region="bottomCenter" style="s1" xml:id="subtitle316">都</p>
+<p begin="2165700000t" end="2189100000t" region="bottomCenter" style="s1" xml:id="subtitle317">与</p>
+<p begin="2166100000t" end="2189100000t" region="bottomCenter" style="s1" xml:id="subtitle318">も</p>
+<p begin="2166100000t" end="2189100000t" region="bottomCenter" style="s1" xml:id="subtitle319">、</p>
+<p begin="2166100000t" end="2189100000t" region="bottomCenter" style="s1" xml:id="subtitle320">割</p>
+<p begin="2166100000t" end="2189100000t" region="bottomCenter" style="s1" xml:id="subtitle321">と</p>
+<p begin="2166100000t" end="2189100000t" region="bottomCenter" style="s1" xml:id="subtitle322">人</p>
+<p begin="2166100000t" end="2189100000t" region="bottomCenter" style="s1" xml:id="subtitle323">类</p>
+<p begin="2166100000t" end="2189100000t" region="bottomCenter" style="s1" xml:id="subtitle324">大</p>
+<p begin="2166100000t" end="2189100000t" region="bottomCenter" style="s1" xml:id="subtitle325">同</p>
+<p begin="2166500000t" end="2189100000t" region="bottomCenter" style="s1" xml:id="subtitle326">同</p>
+<p begin="2166500000t" end="2189100000t" region="bottomCenter" style="s1" xml:id="subtitle327">じ</p>
+<p begin="2166500000t" end="2189100000t" region="bottomCenter" style="s1" xml:id="subtitle328">小</p>
+<p begin="2166500000t" end="2189100000t" region="bottomCenter" style="s1" xml:id="subtitle329">异</p>
+<p begin="2189500000t" end="2240800000t" region="bottomCenter" style="s1" xml:id="subtitle330">今</p>
+<p begin="2189500000t" end="2240400000t" region="bottomCenter" style="s1" xml:id="subtitle331">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2189500000t" end="2240800000t" region="bottomCenter" style="s1" xml:id="subtitle332">、</p>
+<p begin="2189500000t" end="2240400000t" region="bottomCenter" style="s1" xml:id="subtitle333">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2189500000t" end="2240800000t" region="bottomCenter" style="s1" xml:id="subtitle334">走</p>
+<p begin="2189500000t" end="2240400000t" region="bottomCenter" style="s1" xml:id="subtitle335">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2189500000t" end="2240800000t" region="bottomCenter" style="s1" xml:id="subtitle336">る</p>
+<p begin="2189500000t" end="2240400000t" region="bottomCenter" style="s1" xml:id="subtitle337">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2189500000t" end="2240800000t" region="bottomCenter" style="s1" xml:id="subtitle338">言</p>
+<p begin="2189500000t" end="2240400000t" region="bottomCenter" style="s1" xml:id="subtitle339">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2189500000t" end="2240800000t" region="bottomCenter" style="s1" xml:id="subtitle340">葉</p>
+<p begin="2189500000t" end="2240400000t" region="bottomCenter" style="s1" xml:id="subtitle341">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2189500000t" end="2240800000t" region="bottomCenter" style="s1" xml:id="subtitle342">が</p>
+<p begin="2189500000t" end="2240400000t" region="bottomCenter" style="s1" xml:id="subtitle343">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2189500000t" end="2240800000t" region="bottomCenter" style="s1" xml:id="subtitle344">つ</p>
+<p begin="2189500000t" end="2240400000t" region="bottomCenter" style="s1" xml:id="subtitle345">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2189500000t" end="2240800000t" region="bottomCenter" style="s1" xml:id="subtitle346">ま</p>
+<p begin="2189500000t" end="2240400000t" region="bottomCenter" style="s1" xml:id="subtitle347">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2189500000t" end="2240800000t" region="bottomCenter" style="s1" xml:id="subtitle348">づ</p>
+<p begin="2189500000t" end="2240400000t" region="bottomCenter" style="s1" xml:id="subtitle349">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2189500000t" end="2240800000t" region="bottomCenter" style="s1" xml:id="subtitle350">い</p>
+<p begin="2189500000t" end="2240400000t" region="bottomCenter" style="s1" xml:id="subtitle351">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2189500000t" end="2240800000t" region="bottomCenter" style="s1" xml:id="subtitle352">て</p>
+<p begin="2189500000t" end="2240400000t" region="bottomCenter" style="s1" xml:id="subtitle353">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2189500000t" end="2240800000t" region="bottomCenter" style="s1" xml:id="subtitle354">も</p>
+<p begin="2189500000t" end="2240400000t" region="bottomCenter" style="s1" xml:id="subtitle355">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2189500000t" end="2240800000t" region="bottomCenter" style="s1" xml:id="subtitle356">就</p>
+<p begin="2189500000t" end="2240400000t" region="bottomCenter" style="s1" xml:id="subtitle357">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2189500000t" end="2240800000t" region="bottomCenter" style="s1" xml:id="subtitle358">算</p>
+<p begin="2189500000t" end="2240400000t" region="bottomCenter" style="s1" xml:id="subtitle359">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2189500000t" end="2240800000t" region="bottomCenter" style="s1" xml:id="subtitle360">现</p>
+<p begin="2189500000t" end="2240400000t" region="bottomCenter" style="s1" xml:id="subtitle361">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2189500000t" end="2240800000t" region="bottomCenter" style="s1" xml:id="subtitle362">在</p>
+<p begin="2189500000t" end="2240400000t" region="bottomCenter" style="s1" xml:id="subtitle363">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2189500000t" end="2240800000t" region="bottomCenter" style="s1" xml:id="subtitle364">的</p>
+<p begin="2189500000t" end="2240400000t" region="bottomCenter" style="s1" xml:id="subtitle365">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2189500000t" end="2240800000t" region="bottomCenter" style="s1" xml:id="subtitle366">我</p>
+<p begin="2189500000t" end="2240400000t" region="bottomCenter" style="s1" xml:id="subtitle367">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2189500000t" end="2240800000t" region="bottomCenter" style="s1" xml:id="subtitle368">心</p>
+<p begin="2189500000t" end="2240400000t" region="bottomCenter" style="s1" xml:id="subtitle369">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2189500000t" end="2240800000t" region="bottomCenter" style="s1" xml:id="subtitle370">口</p>
+<p begin="2189500000t" end="2240400000t" region="bottomCenter" style="s1" xml:id="subtitle371">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2189500000t" end="2240800000t" region="bottomCenter" style="s1" xml:id="subtitle372">不</p>
+<p begin="2189500000t" end="2240400000t" region="bottomCenter" style="s1" xml:id="subtitle373">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2189500000t" end="2240800000t" region="bottomCenter" style="s1" xml:id="subtitle374">一</p>
+<p begin="2189500000t" end="2240400000t" region="bottomCenter" style="s1" xml:id="subtitle375">m -100 -1 l -100 1 l 100 1 l 100  -1</p>
+<p begin="2238300000t" end="2242500000t" region="bottomCenter" style="s1" xml:id="subtitle376">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2238300000t" end="2242500000t" region="bottomCenter" style="s1" xml:id="subtitle377">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2238300000t" end="2242500000t" region="bottomCenter" style="s1" xml:id="subtitle378">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2238300000t" end="2242500000t" region="bottomCenter" style="s1" xml:id="subtitle379">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2238300000t" end="2242500000t" region="bottomCenter" style="s1" xml:id="subtitle380">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2238300000t" end="2242500000t" region="bottomCenter" style="s1" xml:id="subtitle381">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2238300000t" end="2242500000t" region="bottomCenter" style="s1" xml:id="subtitle382">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2238300000t" end="2242500000t" region="bottomCenter" style="s1" xml:id="subtitle383">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2238300000t" end="2242500000t" region="bottomCenter" style="s1" xml:id="subtitle384">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2238300000t" end="2242500000t" region="bottomCenter" style="s1" xml:id="subtitle385">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2238300000t" end="2242500000t" region="bottomCenter" style="s1" xml:id="subtitle386">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2238300000t" end="2242500000t" region="bottomCenter" style="s1" xml:id="subtitle387">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2238300000t" end="2242500000t" region="bottomCenter" style="s1" xml:id="subtitle388">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2238300000t" end="2242500000t" region="bottomCenter" style="s1" xml:id="subtitle389">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2238300000t" end="2242500000t" region="bottomCenter" style="s1" xml:id="subtitle390">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2238300000t" end="2242500000t" region="bottomCenter" style="s1" xml:id="subtitle391">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2238300000t" end="2242500000t" region="bottomCenter" style="s1" xml:id="subtitle392">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2238300000t" end="2242500000t" region="bottomCenter" style="s1" xml:id="subtitle393">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2238300000t" end="2242500000t" region="bottomCenter" style="s1" xml:id="subtitle394">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2238300000t" end="2242500000t" region="bottomCenter" style="s1" xml:id="subtitle395">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2238300000t" end="2242500000t" region="bottomCenter" style="s1" xml:id="subtitle396">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2238300000t" end="2242500000t" region="bottomCenter" style="s1" xml:id="subtitle397">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2238300000t" end="2242500000t" region="bottomCenter" style="s1" xml:id="subtitle398">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2238300000t" end="2242500000t" region="bottomCenter" style="s1" xml:id="subtitle399">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2238300000t" end="2242500000t" region="bottomCenter" style="s1" xml:id="subtitle400">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2238300000t" end="2242500000t" region="bottomCenter" style="s1" xml:id="subtitle401">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2239500000t" end="2295800000t" region="bottomCenter" style="s1" xml:id="subtitle402">く</p>
+<p begin="2239500000t" end="2295800000t" region="bottomCenter" style="s1" xml:id="subtitle403">だ</p>
+<p begin="2239500000t" end="2295800000t" region="bottomCenter" style="s1" xml:id="subtitle404">打</p>
+<p begin="2239500000t" end="2295800000t" region="bottomCenter" style="s1" xml:id="subtitle405">岔</p>
+<p begin="2240000000t" end="2295800000t" region="bottomCenter" style="s1" xml:id="subtitle406">ら</p>
+<p begin="2240000000t" end="2295800000t" region="bottomCenter" style="s1" xml:id="subtitle407">な</p>
+<p begin="2240000000t" end="2295800000t" region="bottomCenter" style="s1" xml:id="subtitle408">い</p>
+<p begin="2240000000t" end="2295800000t" region="bottomCenter" style="s1" xml:id="subtitle409">話</p>
+<p begin="2240000000t" end="2295800000t" region="bottomCenter" style="s1" xml:id="subtitle410">闲</p>
+<p begin="2240000000t" end="2295800000t" region="bottomCenter" style="s1" xml:id="subtitle411">谈</p>
+<p begin="2240000000t" end="2295800000t" region="bottomCenter" style="s1" xml:id="subtitle412">也</p>
+<p begin="2240000000t" end="2295800000t" region="bottomCenter" style="s1" xml:id="subtitle413">请</p>
+<p begin="2240400000t" end="2295800000t" region="bottomCenter" style="s1" xml:id="subtitle414">で</p>
+<p begin="2240400000t" end="2295800000t" region="bottomCenter" style="s1" xml:id="subtitle415">も</p>
+<p begin="2240400000t" end="2295800000t" region="bottomCenter" style="s1" xml:id="subtitle416">ち</p>
+<p begin="2240400000t" end="2295800000t" region="bottomCenter" style="s1" xml:id="subtitle417">ゃ</p>
+<p begin="2240400000t" end="2295800000t" region="bottomCenter" style="s1" xml:id="subtitle418">认</p>
+<p begin="2240400000t" end="2295800000t" region="bottomCenter" style="s1" xml:id="subtitle419">真</p>
+<p begin="2240400000t" end="2295800000t" region="bottomCenter" style="s1" xml:id="subtitle420">倾</p>
+<p begin="2240400000t" end="2295800000t" region="bottomCenter" style="s1" xml:id="subtitle421">听</p>
+<p begin="2240800000t" end="2295800000t" region="bottomCenter" style="s1" xml:id="subtitle422">ん</p>
+<p begin="2240800000t" end="2295800000t" region="bottomCenter" style="s1" xml:id="subtitle423">と</p>
+<p begin="2240800000t" end="2295800000t" region="bottomCenter" style="s1" xml:id="subtitle424">聞</p>
+<p begin="2240800000t" end="2295800000t" region="bottomCenter" style="s1" xml:id="subtitle425">い</p>
+<p begin="2241200000t" end="2295800000t" region="bottomCenter" style="s1" xml:id="subtitle426">て</p>
+<p begin="2241200000t" end="2295800000t" region="bottomCenter" style="s1" xml:id="subtitle427">よ</p>
+<p begin="2293800000t" end="2297900000t" region="bottomCenter" style="s1" xml:id="subtitle428">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2293800000t" end="2297900000t" region="bottomCenter" style="s1" xml:id="subtitle429">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2293800000t" end="2297900000t" region="bottomCenter" style="s1" xml:id="subtitle430">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2293800000t" end="2297900000t" region="bottomCenter" style="s1" xml:id="subtitle431">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2293800000t" end="2297900000t" region="bottomCenter" style="s1" xml:id="subtitle432">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2293800000t" end="2297900000t" region="bottomCenter" style="s1" xml:id="subtitle433">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2293800000t" end="2297900000t" region="bottomCenter" style="s1" xml:id="subtitle434">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2293800000t" end="2297900000t" region="bottomCenter" style="s1" xml:id="subtitle435">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2293800000t" end="2297900000t" region="bottomCenter" style="s1" xml:id="subtitle436">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2293800000t" end="2297900000t" region="bottomCenter" style="s1" xml:id="subtitle437">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2293800000t" end="2297900000t" region="bottomCenter" style="s1" xml:id="subtitle438">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2293800000t" end="2297900000t" region="bottomCenter" style="s1" xml:id="subtitle439">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2293800000t" end="2297900000t" region="bottomCenter" style="s1" xml:id="subtitle440">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2293800000t" end="2297900000t" region="bottomCenter" style="s1" xml:id="subtitle441">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2293800000t" end="2297900000t" region="bottomCenter" style="s1" xml:id="subtitle442">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2293800000t" end="2297900000t" region="bottomCenter" style="s1" xml:id="subtitle443">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2293800000t" end="2297900000t" region="bottomCenter" style="s1" xml:id="subtitle444">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2293800000t" end="2297900000t" region="bottomCenter" style="s1" xml:id="subtitle445">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2293800000t" end="2297900000t" region="bottomCenter" style="s1" xml:id="subtitle446">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2293800000t" end="2297900000t" region="bottomCenter" style="s1" xml:id="subtitle447">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2293800000t" end="2297900000t" region="bottomCenter" style="s1" xml:id="subtitle448">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2293800000t" end="2297900000t" region="bottomCenter" style="s1" xml:id="subtitle449">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2295000000t" end="2343800000t" region="bottomCenter" style="s1" xml:id="subtitle450">例</p>
+<p begin="2295000000t" end="2343800000t" region="bottomCenter" style="s1" xml:id="subtitle451">え</p>
+<p begin="2295000000t" end="2343800000t" region="bottomCenter" style="s1" xml:id="subtitle452">細</p>
+<p begin="2295000000t" end="2343800000t" region="bottomCenter" style="s1" xml:id="subtitle453">即</p>
+<p begin="2295000000t" end="2343800000t" region="bottomCenter" style="s1" xml:id="subtitle454">使</p>
+<p begin="2295000000t" end="2343800000t" region="bottomCenter" style="s1" xml:id="subtitle455">未</p>
+<p begin="2295400000t" end="2343800000t" region="bottomCenter" style="s1" xml:id="subtitle456">く</p>
+<p begin="2295400000t" end="2343800000t" region="bottomCenter" style="s1" xml:id="subtitle457">て</p>
+<p begin="2295400000t" end="2343800000t" region="bottomCenter" style="s1" xml:id="subtitle458">も</p>
+<p begin="2295400000t" end="2343800000t" region="bottomCenter" style="s1" xml:id="subtitle459">来</p>
+<p begin="2295400000t" end="2343800000t" region="bottomCenter" style="s1" xml:id="subtitle460">错</p>
+<p begin="2295400000t" end="2343800000t" region="bottomCenter" style="s1" xml:id="subtitle461">综</p>
+<p begin="2295400000t" end="2343800000t" region="bottomCenter" style="s1" xml:id="subtitle462">复</p>
+<p begin="2295800000t" end="2343800000t" region="bottomCenter" style="s1" xml:id="subtitle463">ほ</p>
+<p begin="2295800000t" end="2343800000t" region="bottomCenter" style="s1" xml:id="subtitle464">ど</p>
+<p begin="2295800000t" end="2343800000t" region="bottomCenter" style="s1" xml:id="subtitle465">け</p>
+<p begin="2295800000t" end="2343800000t" region="bottomCenter" style="s1" xml:id="subtitle466">な</p>
+<p begin="2295800000t" end="2343800000t" region="bottomCenter" style="s1" xml:id="subtitle467">杂</p>
+<p begin="2296300000t" end="2343800000t" region="bottomCenter" style="s1" xml:id="subtitle468">い</p>
+<p begin="2296300000t" end="2343800000t" region="bottomCenter" style="s1" xml:id="subtitle469">よ</p>
+<p begin="2296300000t" end="2343800000t" region="bottomCenter" style="s1" xml:id="subtitle470">う</p>
+<p begin="2296300000t" end="2343800000t" region="bottomCenter" style="s1" xml:id="subtitle471">に</p>
+<p begin="2341300000t" end="2345500000t" region="bottomCenter" style="s1" xml:id="subtitle472">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2341300000t" end="2345500000t" region="bottomCenter" style="s1" xml:id="subtitle473">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2341300000t" end="2345500000t" region="bottomCenter" style="s1" xml:id="subtitle474">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2341300000t" end="2345500000t" region="bottomCenter" style="s1" xml:id="subtitle475">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2341300000t" end="2345500000t" region="bottomCenter" style="s1" xml:id="subtitle476">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2341300000t" end="2345500000t" region="bottomCenter" style="s1" xml:id="subtitle477">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2341300000t" end="2345500000t" region="bottomCenter" style="s1" xml:id="subtitle478">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2341300000t" end="2345500000t" region="bottomCenter" style="s1" xml:id="subtitle479">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2341300000t" end="2345500000t" region="bottomCenter" style="s1" xml:id="subtitle480">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2341300000t" end="2345500000t" region="bottomCenter" style="s1" xml:id="subtitle481">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2341300000t" end="2345500000t" region="bottomCenter" style="s1" xml:id="subtitle482">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2341300000t" end="2345500000t" region="bottomCenter" style="s1" xml:id="subtitle483">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2341300000t" end="2345500000t" region="bottomCenter" style="s1" xml:id="subtitle484">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2341300000t" end="2345500000t" region="bottomCenter" style="s1" xml:id="subtitle485">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2343000000t" end="2380100000t" region="bottomCenter" style="s1" xml:id="subtitle486">不</p>
+<p begin="2343000000t" end="2380100000t" region="bottomCenter" style="s1" xml:id="subtitle487">確</p>
+<p begin="2343000000t" end="2380100000t" region="bottomCenter" style="s1" xml:id="subtitle488">か</p>
+<p begin="2343000000t" end="2380100000t" region="bottomCenter" style="s1" xml:id="subtitle489">な</p>
+<p begin="2343000000t" end="2380100000t" region="bottomCenter" style="s1" xml:id="subtitle490">未</p>
+<p begin="2343000000t" end="2380500000t" region="bottomCenter" style="s1" xml:id="subtitle491">也</p>
+<p begin="2343000000t" end="2380500000t" region="bottomCenter" style="s1" xml:id="subtitle492">要</p>
+<p begin="2343000000t" end="2380500000t" region="bottomCenter" style="s1" xml:id="subtitle493">披</p>
+<p begin="2343000000t" end="2380500000t" region="bottomCenter" style="s1" xml:id="subtitle494">荆</p>
+<p begin="2343000000t" end="2380500000t" region="bottomCenter" style="s1" xml:id="subtitle495">斩</p>
+<p begin="2343400000t" end="2380100000t" region="bottomCenter" style="s1" xml:id="subtitle496">来</p>
+<p begin="2343400000t" end="2380100000t" region="bottomCenter" style="s1" xml:id="subtitle497">で</p>
+<p begin="2343400000t" end="2380100000t" region="bottomCenter" style="s1" xml:id="subtitle498">も</p>
+<p begin="2343400000t" end="2380500000t" region="bottomCenter" style="s1" xml:id="subtitle499">棘</p>
+<p begin="2378000000t" end="2382200000t" region="bottomCenter" style="s1" xml:id="subtitle500">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2378000000t" end="2382200000t" region="bottomCenter" style="s1" xml:id="subtitle501">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2378000000t" end="2382200000t" region="bottomCenter" style="s1" xml:id="subtitle502">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2378000000t" end="2382200000t" region="bottomCenter" style="s1" xml:id="subtitle503">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2378000000t" end="2382200000t" region="bottomCenter" style="s1" xml:id="subtitle504">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2378000000t" end="2382200000t" region="bottomCenter" style="s1" xml:id="subtitle505">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2378000000t" end="2382200000t" region="bottomCenter" style="s1" xml:id="subtitle506">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2378000000t" end="2382200000t" region="bottomCenter" style="s1" xml:id="subtitle507">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2378000000t" end="2382200000t" region="bottomCenter" style="s1" xml:id="subtitle508">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2378000000t" end="2382200000t" region="bottomCenter" style="s1" xml:id="subtitle509">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2378000000t" end="2382200000t" region="bottomCenter" style="s1" xml:id="subtitle510">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2378000000t" end="2382200000t" region="bottomCenter" style="s1" xml:id="subtitle511">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2378000000t" end="2382200000t" region="bottomCenter" style="s1" xml:id="subtitle512">m -200 -1 l -200 1 l 0 1 l 0 -1</p>
+<p begin="2379300000t" end="2400900000t" region="bottomCenter" style="s1" xml:id="subtitle513">掴</p>
+<p begin="2379300000t" end="2400900000t" region="bottomCenter" style="s1" xml:id="subtitle514">ん</p>
+<p begin="2379300000t" end="2400900000t" region="bottomCenter" style="s1" xml:id="subtitle515">打</p>
+<p begin="2379300000t" end="2400900000t" region="bottomCenter" style="s1" xml:id="subtitle516">破</p>
+<p begin="2379700000t" end="2400900000t" region="bottomCenter" style="s1" xml:id="subtitle517">で</p>
+<p begin="2379700000t" end="2400900000t" region="bottomCenter" style="s1" xml:id="subtitle518">打</p>
+<p begin="2379700000t" end="2400900000t" region="bottomCenter" style="s1" xml:id="subtitle519">ち</p>
+<p begin="2379700000t" end="2400900000t" region="bottomCenter" style="s1" xml:id="subtitle520">砕</p>
+<p begin="2379700000t" end="2400900000t" region="bottomCenter" style="s1" xml:id="subtitle521">未</p>
+<p begin="2379700000t" end="2400900000t" region="bottomCenter" style="s1" xml:id="subtitle522">知</p>
+<p begin="2379700000t" end="2400900000t" region="bottomCenter" style="s1" xml:id="subtitle523">明</p>
+<p begin="2379700000t" end="2400900000t" region="bottomCenter" style="s1" xml:id="subtitle524">天</p>
+<p begin="2380100000t" end="2400900000t" region="bottomCenter" style="s1" xml:id="subtitle525">け</p>
+<p begin="2710000000t" end="2737900000t" region="bottomCenter" style="s1" xml:id="subtitle526">即便如此 钢人七濑也是虚构的</p>
+<p begin="2747100000t" end="2765100000t" region="bottomCenter" style="s1" xml:id="subtitle527">之前的三个解释</p>
+<p begin="2767100000t" end="2791800000t" region="bottomCenter" style="s1" xml:id="subtitle528">只不过是为了揭露真相而铺下的垫脚石</p>
+<p begin="2795900000t" end="2807600000t" region="bottomCenter" style="s1" xml:id="subtitle529">犯人是存在的</p>
+<p begin="2810100000t" end="2831400000t" region="bottomCenter" style="s1" xml:id="subtitle530">创造名为钢人七濑的亡灵</p>
+<p begin="2834300000t" end="2857200000t" region="bottomCenter" style="s1" xml:id="subtitle531">杀害寺田警官的真凶是存在的</p>
+<p begin="2859700000t" end="2870600000t" region="bottomCenter" style="s1" xml:id="subtitle532">等你很久啦</p>
+<p begin="2872700000t" end="2884400000t" region="bottomCenter" style="s1" xml:id="subtitle533">算了吧</p>
+<p begin="2885100000t" end="2897300000t" region="bottomCenter" style="s1" xml:id="subtitle534">真烦人啊</p>
+<p begin="2903100000t" end="2952700000t" region="bottomCenter" style="s1" xml:id="subtitle535">犯人不是别人 就是七濑花凛 本名七濑春子</p>
+<p begin="2959800000t" end="2972700000t" region="bottomCenter" style="s1" xml:id="subtitle536">她并没有死</p>
+<p begin="2978200000t" end="3027000000t" region="bottomCenter" style="s1" xml:id="subtitle537">死在公寓建设现场的 是被伪装成花凛的其他人</p>
+<p begin="3034900000t" end="3073600000t" region="bottomCenter" style="s1" xml:id="subtitle538">既然是无脸尸 那就必定是调包</p>
+<p begin="3083700000t" end="3114200000t" region="bottomCenter" style="s1" xml:id="subtitle539">真正的七濑花凛现在也还活着</p>
+<p begin="3120400000t" end="3140400000t" region="bottomCenter" style="s1" xml:id="subtitle540">刚刚这观点不是被否定了吗</p>
+<p begin="3143800000t" end="3178000000t" region="bottomCenter" style="s1" xml:id="subtitle541">再怎么说也不可能出现这种像电视剧一样的事吧</p>
+<p begin="3181700000t" end="3216800000t" region="bottomCenter" style="s1" xml:id="subtitle542">如果七濑花凛还活着 那就不会出现钢人七濑吧</p>
+<p begin="3223400000t" end="3265100000t" region="bottomCenter" style="s1" xml:id="subtitle543">七濑花凛失去了家人 孤独地潜伏着</p>
+<p begin="3278900000t" end="3301800000t" region="bottomCenter" style="s1" xml:id="subtitle544">过一段时间谣言也会逐渐沉寂</p>
+<p begin="3305600000t" end="3329000000t" region="bottomCenter" style="s1" xml:id="subtitle545">虽然已经不能再做偶像了</p>
+<p begin="3336000000t" end="3372800000t" region="bottomCenter" style="s1" xml:id="subtitle546">但是我还年轻 从头开始打拼就行了</p>
+<p begin="3433200000t" end="3440700000t" region="bottomCenter" style="s1" xml:id="subtitle547">那个...</p>
+<p begin="3454100000t" end="3471200000t" region="bottomCenter" style="s1" xml:id="subtitle548">突然找你搭话不好意思</p>
+<p begin="3475400000t" end="3487000000t" region="bottomCenter" style="s1" xml:id="subtitle549">怎么说呢</p>
+<p begin="3491600000t" end="3522100000t" region="bottomCenter" style="s1" xml:id="subtitle550">我觉得你和我很像</p>
+<p begin="3533700000t" end="3550800000t" region="bottomCenter" style="s1" xml:id="subtitle551">七濑花凛遇上了她</p>
+<p begin="3556700000t" end="3570400000t" region="bottomCenter" style="s1" xml:id="subtitle552">虽然容貌不一样</p>
+<p begin="3572500000t" end="3612300000t" region="bottomCenter" style="s1" xml:id="subtitle553">但是头发长度和体型也相似 年龄也相仿</p>
+<p begin="3619700000t" end="3645700000t" region="bottomCenter" style="s1" xml:id="subtitle554">在这里假设她是A小姐吧</p>
+<p begin="3656400000t" end="3683100000t" region="bottomCenter" style="s1" xml:id="subtitle555">我们不清楚A小姐有什么隐情</p>
+<p begin="3689700000t" end="3728500000t" region="bottomCenter" style="s1" xml:id="subtitle556">可能没有亲人眷属 或者患有心理疾病</p>
+<p begin="3741000000t" end="3782700000t" region="bottomCenter" style="s1" xml:id="subtitle557">她很不幸地出现在了七濑花凛面前</p>
+<p begin="3794400000t" end="3830100000t" region="bottomCenter" style="s1" xml:id="subtitle558">舍弃「七濑花凛」这名字 成为别人重新来过就好</p>
+<p begin="3839500000t" end="3867800000t" region="bottomCenter" style="s1" xml:id="subtitle559">这份诱惑让她走向了犯罪</p>
+<p begin="3872400000t" end="3878500000t" region="bottomCenter" style="s1" xml:id="subtitle560">那个</p>
+<p begin="3890400000t" end="3904100000t" region="bottomCenter" style="s1" xml:id="subtitle561">我有一个请求</p>
+<p begin="3915000000t" end="3953700000t" region="bottomCenter" style="s1" xml:id="subtitle562">七濑花凛把A小姐骗进酒店房间</p>
+<p begin="3958800000t" end="3981300000t" region="bottomCenter" style="s1" xml:id="subtitle563">让她在自己的私人物品上留下指纹</p>
+<p begin="4004200000t" end="4032200000t" region="bottomCenter" style="s1" xml:id="subtitle564">擦掉自己之前在房间里留下的指纹</p>
+<p begin="4034200000t" end="4059300000t" region="bottomCenter" style="s1" xml:id="subtitle565">这样就只有A小姐的指纹了</p>
+<p begin="4070100000t" end="4110600000t" region="bottomCenter" style="s1" xml:id="subtitle566">或许A小姐也有想帮助七濑花凛的原因吧</p>
+<p begin="4126800000t" end="4163100000t" region="bottomCenter" style="s1" xml:id="subtitle567">或许是精神崩溃想要自杀的时候被她制止了</p>
+<p begin="4166900000t" end="4186900000t" region="bottomCenter" style="s1" xml:id="subtitle568">对她产生了依赖感</p>
+<p begin="4207800000t" end="4246100000t" region="bottomCenter" style="s1" xml:id="subtitle569">也可能是金钱方面受她帮助从而顺从于她</p>
+<p begin="4254900000t" end="4294100000t" region="bottomCenter" style="s1" xml:id="subtitle570">我作为花凛的替身 吸引媒体的注意力</p>
+<p begin="4306200000t" end="4324100000t" region="bottomCenter" style="s1" xml:id="subtitle571">真的行得通吗</p>
+<p begin="4339500000t" end="4374200000t" region="bottomCenter" style="s1" xml:id="subtitle572">可能很快就会暴露 欺骗不了媒体</p>
+<p begin="4382900000t" end="4394200000t" region="bottomCenter" style="s1" xml:id="subtitle573">放心吧</p>
+<p begin="4410000000t" end="4434200000t" region="bottomCenter" style="s1" xml:id="subtitle574">你看 很完美哦 不用担心</p>
+<p begin="4446300000t" end="4466300000t" region="bottomCenter" style="s1" xml:id="subtitle575">看那个工地</p>
+<p begin="4468000000t" end="4509300000t" region="bottomCenter" style="s1" xml:id="subtitle576">媒体也不会去那边 很适合作为见面地点</p>
+<p begin="4523100000t" end="4533900000t" region="bottomCenter" style="s1" xml:id="subtitle577">我们晚上再见吧</p>
+<p begin="4571000000t" end="4588100000t" region="bottomCenter" style="s1" xml:id="subtitle578">如果没和A小姐相遇</p>
+<p begin="4590600000t" end="4639300000t" region="bottomCenter" style="s1" xml:id="subtitle579">七濑花凛就能摆脱谣言 过上普通的幸福生活了吧</p>
+<p begin="4649400000t" end="4672400000t" region="bottomCenter" style="s1" xml:id="subtitle580">但是她在那绝望的深渊中</p>
+<p begin="4676100000t" end="4711200000t" region="bottomCenter" style="s1" xml:id="subtitle581">戏剧性地遇到了能让人生重新开始的机会</p>
+<p begin="4980200000t" end="5002700000t" region="bottomCenter" style="s1" xml:id="subtitle582">面部被钢筋砸了个稀烂</p>
+<p begin="5007300000t" end="5034000000t" region="bottomCenter" style="s1" xml:id="subtitle583">也就不可能根据面部来确认身份了</p>
+<p begin="5041900000t" end="5074900000t" region="bottomCenter" style="s1" xml:id="subtitle584">这样一来也就能解释那个谜团了</p>
+<p begin="5083200000t" end="5134500000t" region="bottomCenter" style="s1" xml:id="subtitle585">为何七濑花凛在被钢筋正面砸中时没做任何挣扎</p>
+<p begin="5162890000t" end="5187100000t" region="bottomCenter" style="s1" xml:id="subtitle586">因为死者并不是她本人</p>
+<p begin="5192500000t" end="5240900000t" region="bottomCenter" style="s1" xml:id="subtitle587">而是在昏迷后被钢筋掩埋的旁人</p>
+<p begin="5271300000t" end="5314700000t" region="bottomCenter" style="s1" xml:id="subtitle588">把现场伪装好之后 七濑花凛快速离开了那里</p>
+<p begin="5346400000t" end="5369300000t" region="bottomCenter" style="s1" xml:id="subtitle589">之后她使用A小姐的身份</p>
+<p begin="5372700000t" end="5404800000t" region="bottomCenter" style="s1" xml:id="subtitle590">抛弃过去 开始了新的人生</p>
+<p begin="5411000000t" end="5444400000t" region="bottomCenter" style="s1" xml:id="subtitle591">谢谢 这是您的驾照</p>
+<p begin="5475300000t" end="5502800000t" region="bottomCenter" style="s1" xml:id="subtitle592">虽然改变装束还是有必要的</p>
+<p begin="5505700000t" end="5528200000t" region="bottomCenter" style="s1" xml:id="subtitle593">但做到不让人察觉还是挺简单的</p>
+<p begin="5537000000t" end="5564100000t" region="bottomCenter" style="s1" xml:id="subtitle594">有她那份胆量肯定能做到吧</p>
+<p begin="5574100000t" end="5591200000t" region="bottomCenter" style="s1" xml:id="subtitle595">今年1月30日</p>
+<p begin="5595000000t" end="5640000000t" region="bottomCenter" style="s1" xml:id="subtitle596">真仓坂市建设工地发现的尸体并非七濑花凛</p>
+<p begin="5647100000t" end="5668800000t" region="bottomCenter" style="s1" xml:id="subtitle597">不过是耍了无脸尸的魔术</p>
+<p begin="5671300000t" end="5686300000t" region="bottomCenter" style="s1" xml:id="subtitle598">而七濑花凛还活在这世上</p>
+<p begin="5694200000t" end="5728000000t" region="bottomCenter" style="s1" xml:id="subtitle599">不可能出现钢人七濑的亡灵</p>
+<p begin="5750500000t" end="5772200000t" region="bottomCenter" style="s1" xml:id="subtitle600">那钢人七濑又是怎么一回事</p>
+<p begin="5774300000t" end="5798500000t" region="bottomCenter" style="s1" xml:id="subtitle601">肯定是七濑花凛虚构出来的吧</p>
+<p begin="5802300000t" end="5814800000t" region="bottomCenter" style="s1" xml:id="subtitle602">为了什么啊</p>
+<p begin="5820200000t" end="5835200000t" region="bottomCenter" style="s1" xml:id="subtitle603">如果七濑花凛还活着的话</p>
+<p begin="5838500000t" end="5855600000t" region="bottomCenter" style="s1" xml:id="subtitle604">那钢人七濑究竟又为何物</p>
+<p begin="5863200000t" end="5905300000t" region="bottomCenter" style="s1" xml:id="subtitle605">出现亡灵也就意味着七濑花凛的确已经死了</p>
+<p begin="5908200000t" end="5942000000t" region="bottomCenter" style="s1" xml:id="subtitle606">也就是说为了让自己的死更有说服力吗</p>
+<p begin="6003300000t" end="6020200000t" region="bottomCenter" style="s1" xml:id="subtitle607">若是为了让人往这方面想</p>
+<p begin="6020200000t" end="6044200000t" region="bottomCenter" style="s1" xml:id="subtitle608">钢人七濑登场的时机是不是有点晚</p>
+<p begin="6047900000t" end="6073800000t" region="bottomCenter" style="s1" xml:id="subtitle609">七濑的亡灵是什么时候传出来的</p>
+<p begin="6075500000t" end="6089600000t" region="bottomCenter" style="s1" xml:id="subtitle610">是今年6月份</p>
+<p begin="6092600000t" end="6130900000t" region="bottomCenter" style="s1" xml:id="subtitle611">七濑花凛的事件在2月还沸沸扬扬的呢</p>
+<p begin="6153000000t" end="6171600000t" region="bottomCenter" style="s1" xml:id="subtitle612">若是不小心引起了亡灵骚动</p>
+<p begin="6172400000t" end="6186800000t" region="bottomCenter" style="s1" xml:id="subtitle613">不就是自找麻烦吗</p>
+<p begin="6191800000t" end="6225600000t" region="bottomCenter" style="s1" xml:id="subtitle614">七濑花凛没理由去散播钢人七濑的谣言啊</p>
+<p begin="6227300000t" end="6251900000t" region="bottomCenter" style="s1" xml:id="subtitle615">暴露自己还活着的风险反而更高了</p>
+<p begin="6272300000t" end="6309500000t" region="bottomCenter" style="s1" xml:id="subtitle616">网站的读者们都在积极地解密</p>
+<p begin="6562600000t" end="6572600000t" region="bottomCenter" style="s1" xml:id="subtitle617">等等</p>
+<p begin="6572600000t" end="6603000000t" region="bottomCenter" style="s1" xml:id="subtitle618">假设七濑花凛到5月份还安全地生活着</p>
+<p begin="6605100000t" end="6645000000t" region="bottomCenter" style="s1" xml:id="subtitle619">那附近不会传出她长得像七濑花凛的传闻吗</p>
+<p begin="6653100000t" end="6665600000t" region="bottomCenter" style="s1" xml:id="subtitle620">还真有可能</p>
+<p begin="6667300000t" end="6697800000t" region="bottomCenter" style="s1" xml:id="subtitle621">整容又费钱又费时间 而且总会有个限度</p>
+<p begin="6708200000t" end="6742100000t" region="bottomCenter" style="s1" xml:id="subtitle622">这样啊 所以七濑花凛从那里搬走了</p>
+<p begin="6746100000t" end="6785300000t" region="bottomCenter" style="s1" xml:id="subtitle623">但是又担心今后可能还会发生同样的事</p>
+<p begin="6789100000t" end="6816600000t" region="bottomCenter" style="s1" xml:id="subtitle624">于是为了让七濑花凛彻底地死亡</p>
+<p begin="6819500000t" end="6843700000t" region="bottomCenter" style="s1" xml:id="subtitle625">虚构出了钢人七濑</p>
+<p begin="6855800000t" end="6876700000t" region="bottomCenter" style="s1" xml:id="subtitle626">谜团被一点一点解答</p>
+<p begin="6883800000t" end="6915300000t" region="bottomCenter" style="s1" xml:id="subtitle627">从目前为止提出的三种解释出发</p>
+<p begin="6917500000t" end="6956700000t" region="bottomCenter" style="s1" xml:id="subtitle628">变换形式 变换人物 开始众说纷纭</p>
+<p begin="6980500000t" end="7029700000t" region="bottomCenter" style="s1" xml:id="subtitle629">那么 难道是她本人扮成钢人七濑去袭击路人的吗</p>
+<p begin="7032200000t" end="7046600000t" region="bottomCenter" style="s1" xml:id="subtitle630">两三次肯定是有的吧</p>
+<p begin="7050200000t" end="7065600000t" region="bottomCenter" style="s1" xml:id="subtitle631">为了让谣言更好地扩散</p>
+<p begin="7065600000t" end="7096900000t" region="bottomCenter" style="s1" xml:id="subtitle632">才会有钢筋 礼服和蝴蝶结吧 还有乳摇哦</p>
+<p begin="7101900000t" end="7121100000t" region="bottomCenter" style="s1" xml:id="subtitle633">为了不让人误以为是活着的灵魂</p>
+<p begin="7123200000t" end="7149600000t" region="bottomCenter" style="s1" xml:id="subtitle634">才会创造出手持钢筋面部被砸烂</p>
+<p begin="7149600000t" end="7171500000t" region="bottomCenter" style="s1" xml:id="subtitle635">名为钢人七濑的这一角色吧</p>
+<p begin="7179900000t" end="7199500000t" region="bottomCenter" style="s1" xml:id="subtitle636">为什么会需要钢人七濑</p>
+<p begin="7202400000t" end="7221600000t" region="bottomCenter" style="s1" xml:id="subtitle637">这与第三种解释中的动机相同</p>
+<p begin="7227000000t" end="7255400000t" region="bottomCenter" style="s1" xml:id="subtitle638">从那个解释中找出对应的部分就能得到答案</p>
+<p begin="7262900000t" end="7310900000t" region="bottomCenter" style="s1" xml:id="subtitle639">她将合理解释都市传说的乐趣传达给了人们</p>
+<p begin="7324600000t" end="7358500000t" region="bottomCenter" style="s1" xml:id="subtitle640">这才是提出多种解释的真正目的</p>
+<p begin="7371700000t" end="7377200000t" region="bottomCenter" style="s1" xml:id="subtitle641">在这之前</p>
+<p begin="7380500000t" end="7408400000t" region="bottomCenter" style="s1" xml:id="subtitle642">这个整合网站集合了数十万人的想象力</p>
+<p begin="7411800000t" end="7444600000t" region="bottomCenter" style="s1" xml:id="subtitle643">为钢人七濑提供了生命力及其保障</p>
+<p begin="7456000000t" end="7468500000t" region="bottomCenter" style="s1" xml:id="subtitle644">但现在不同了</p>
+<p begin="7475200000t" end="7517300000t" region="bottomCenter" style="s1" xml:id="subtitle645">网站的读者们以不存在钢人七濑为前提</p>
+<p begin="7521500000t" end="7541500000t" region="bottomCenter" style="s1" xml:id="subtitle646">积极地开动脑子</p>
+<p begin="7605300000t" end="7649900000t" region="bottomCenter" style="s1" xml:id="subtitle647">最后的虚构</p>
+<p begin="7929400000t" end="7939400000t" region="bottomCenter" style="s1" xml:id="subtitle648">赢了呢</p>
+<p begin="7944800000t" end="7952700000t" region="bottomCenter" style="s1" xml:id="subtitle649">还没有</p>
+<p begin="7967300000t" end="8003200000t" region="bottomCenter" style="s1" xml:id="subtitle650">我还没使出最后一招</p>
+<p begin="8008200000t" end="8015700000t" region="bottomCenter" style="s1" xml:id="subtitle651">六花小姐</p>
+<p begin="8019100000t" end="8043200000t" region="bottomCenter" style="s1" xml:id="subtitle652">我不会让你掌控你所期望的未来</p>
+<p begin="8102500000t" end="8147400000t" region="bottomCenter" style="s1" xml:id="subtitle653">因为这世界有着任谁也不可侵犯的秩序</p>
+<p begin="8168800000t" end="8179700000t" region="bottomCenter" style="s1" xml:id="subtitle654">正如你所说</p>
+<p begin="8185500000t" end="8221300000t" region="bottomCenter" style="s1" xml:id="subtitle655">七濑花凛为了将自己从这世间完全抹除</p>
+<p begin="8223800000t" end="8241400000t" region="bottomCenter" style="s1" xml:id="subtitle656">虚构了钢人七濑</p>
+<p begin="8243000000t" end="8287200000t" region="bottomCenter" style="s1" xml:id="subtitle657">使人们能够立刻联想到亡灵的这一设定</p>
+<p begin="8296400000t" end="8312300000t" region="bottomCenter" style="s1" xml:id="subtitle658">之所以会计划这种事情</p>
+<p begin="8314800000t" end="8354400000t" region="bottomCenter" style="s1" xml:id="subtitle659">可能是因为有人指出 她长得像七濑花凛</p>
+<p begin="8361500000t" end="8398200000t" region="bottomCenter" style="s1" xml:id="subtitle660">她害怕尸体的调包以及无脸尸体的伎俩被发现</p>
+<p begin="8401500000t" end="8428200000t" region="bottomCenter" style="s1" xml:id="subtitle661">为了避免今后有这样的风险</p>
+<p begin="8431600000t" end="8454500000t" region="bottomCenter" style="s1" xml:id="subtitle662">她采取了果断的行动</p>
+<p begin="8469500000t" end="8497900000t" region="bottomCenter" style="s1" xml:id="subtitle663">七濑花凛每晚在真仓坂市出没</p>
+<p begin="8499500000t" end="8514600000t" region="bottomCenter" style="s1" xml:id="subtitle664">扮演着钢人七濑</p>
+<p begin="8520800000t" end="8547500000t" region="bottomCenter" style="s1" xml:id="subtitle665">毕竟是自己在扮演自己的亡灵</p>
+<p begin="8549200000t" end="8564600000t" region="bottomCenter" style="s1" xml:id="subtitle666">说服力还是很高的吧</p>
+<p begin="8569200000t" end="8582100000t" region="bottomCenter" style="s1" xml:id="subtitle667">谣言逐渐散布开来</p>
+<p begin="8583800000t" end="8605100000t" region="bottomCenter" style="s1" xml:id="subtitle668">其名字也在网上成为了话题</p>
+<p begin="8609600000t" end="8648200000t" region="bottomCenter" style="s1" xml:id="subtitle669">而七濑花凛为了让谣言更有效率地散播开来</p>
+<p begin="8649700000t" end="8658400000t" region="bottomCenter" style="s1" xml:id="subtitle670">做了某件事情</p>
+<p begin="8693900000t" end="8698500000t" region="bottomCenter" style="s1" xml:id="subtitle671">没错</p>
+<p begin="8706000000t" end="8737300000t" region="bottomCenter" style="s1" xml:id="subtitle672">她开设了这个钢人七濑整合网站</p>
+<p begin="8782700000t" end="8791900000t" region="bottomCenter" style="s1" xml:id="subtitle673">七濑花凛</p>
+<p begin="8806500000t" end="8842600000t" region="bottomCenter" style="s1" xml:id="subtitle674">我知道是你开设并管理着这个网站</p>
+<p begin="8859500000t" end="8867400000t" region="bottomCenter" style="s1" xml:id="subtitle675">不会吧</p>
+<p begin="8875300000t" end="8902900000t" region="bottomCenter" style="s1" xml:id="subtitle676">现在你也正看着我的留言吧</p>
+<p begin="8917500000t" end="8952900000t" region="bottomCenter" style="s1" xml:id="subtitle677">我可是一直在努力揭发你</p>
+<p begin="8974200000t" end="9007600000t" region="bottomCenter" style="s1" xml:id="subtitle678">这个网站散播夸大钢人七濑的谣言</p>
+<p begin="9009200000t" end="9021000000t" region="bottomCenter" style="s1" xml:id="subtitle679">实在是太不自然了</p>
+<p begin="9028000000t" end="9055500000t" region="bottomCenter" style="s1" xml:id="subtitle680">情报毫不费力地被收集到这里</p>
+<p begin="9060900000t" end="9071400000t" region="bottomCenter" style="s1" xml:id="subtitle681">这也是理所当然</p>
+<p begin="9073000000t" end="9098900000t" region="bottomCenter" style="s1" xml:id="subtitle682">毕竟是身为犯人的你在管理 整合</p>
+<p begin="9103100000t" end="9123900000t" region="bottomCenter" style="s1" xml:id="subtitle683">虚构着钢人七濑的存在</p>
+<p begin="9130200000t" end="9172300000t" region="bottomCenter" style="s1" xml:id="subtitle684">我所提出的解释都被你一一驳回了</p>
+<p begin="9179000000t" end="9214000000t" region="bottomCenter" style="s1" xml:id="subtitle685">因为我所提出的解释全都足以消灭钢人七濑</p>
+<p begin="9221100000t" end="9242800000t" region="bottomCenter" style="s1" xml:id="subtitle686">如果亡灵被推论为是假的</p>
+<p begin="9244000000t" end="9264100000t" region="bottomCenter" style="s1" xml:id="subtitle687">则与你的目的相左 令你困扰</p>
+<p begin="9269500000t" end="9291400000t" region="bottomCenter" style="s1" xml:id="subtitle688">因为你还想让谣言继续扩散</p>
+<p begin="9294100000t" end="9307000000t" region="bottomCenter" style="s1" xml:id="subtitle689">如果她升天了也会让你困扰</p>
+<p begin="9321600000t" end="9339100000t" region="bottomCenter" style="s1" xml:id="subtitle690">所以你才会执拗地反驳我</p>
+<p begin="9342900000t" end="9368700000t" region="bottomCenter" style="s1" xml:id="subtitle691">甚至还想限制我的留言</p>
+<p begin="9371700000t" end="9383800000t" region="bottomCenter" style="s1" xml:id="subtitle692">这也太扯了吧</p>
+<p begin="9390000000t" end="9415900000t" region="bottomCenter" style="s1" xml:id="subtitle693">开设网站的人 管理网站的人</p>
+<p begin="9415900000t" end="9426700000t" region="bottomCenter" style="s1" xml:id="subtitle694">都是六花小姐吧</p>
+<p begin="9447600000t" end="9480000000t" region="bottomCenter" style="s1" xml:id="subtitle695">一开始我就说过我要说谎了</p>
+<p begin="9485500000t" end="9521800000t" region="bottomCenter" style="s1" xml:id="subtitle696">是为了散播钢人七濑的谣言才开设这个网站吗</p>
+<p begin="9490900000t" end="9518500000t" region="bottomCenter" style="s1" xml:id="subtitle697">花凛酱 你看得到我的留言吗</p>
+<p begin="9498500000t" end="9537200000t" region="bottomCenter" style="s1" xml:id="subtitle698">虽说只是来调查都市传说的 还真是意想不到的展开呢</p>
+<p begin="9518500000t" end="9535600000t" region="bottomCenter" style="s1" xml:id="subtitle699">七濑花凛的话说不定就会这么做呢</p>
+<p begin="9546000000t" end="9566400000t" region="bottomCenter" style="s1" xml:id="subtitle700">这个会场不会有人关心真相</p>
+<p begin="9574400000t" end="9593500000t" region="bottomCenter" style="s1" xml:id="subtitle701">对于相信这个谎言的人来说</p>
+<p begin="9596500000t" end="9612300000t" region="bottomCenter" style="s1" xml:id="subtitle702">现在所看到的这个网站</p>
+<p begin="9616100000t" end="9636900000t" region="bottomCenter" style="s1" xml:id="subtitle703">正是钢人七濑事件的最前线</p>
+<p begin="9654900000t" end="9690300000t" region="bottomCenter" style="s1" xml:id="subtitle704">接下来就解释为什么你要杀害寺田警官吧</p>
+<p begin="9692800000t" end="9701800000t" region="bottomCenter" style="s1" xml:id="subtitle705">好耶</p>
+<p begin="9703200000t" end="9718300000t" region="bottomCenter" style="s1" xml:id="subtitle706">全都揭穿吧</p>
+<p begin="9718300000t" end="9729500000t" region="bottomCenter" style="s1" xml:id="subtitle707">真的还活着吗</p>
+<p begin="9718300000t" end="9744500000t" region="bottomCenter" style="s1" xml:id="subtitle708">七濑花凛会被抓起来吗</p>
+<p begin="9729500000t" end="9741200000t" region="bottomCenter" style="s1" xml:id="subtitle709">我不相信她会杀人</p>
+<p begin="9741200000t" end="9752000000t" region="bottomCenter" style="s1" xml:id="subtitle710">到底是怎样啊</p>
+<p begin="9757000000t" end="9781700000t" region="bottomCenter" style="s1" xml:id="subtitle711">你昨晚就在真仓坂市</p>
+<p begin="9791700000t" end="9816700000t" region="bottomCenter" style="s1" xml:id="subtitle712">你为了让钢人七濑的谣言散布得更广</p>
+<p begin="9820000000t" end="9847100000t" region="bottomCenter" style="s1" xml:id="subtitle713">出去找引发下一次骚动的地点了</p>
+<p begin="9875100000t" end="9913500000t" region="bottomCenter" style="s1" xml:id="subtitle714">怀疑钢人七濑是由人类扮演的警官</p>
+<p begin="9915500000t" end="9931000000t" region="bottomCenter" style="s1" xml:id="subtitle715">觉得你很可疑</p>
+<p begin="9946800000t" end="9971000000t" region="bottomCenter" style="s1" xml:id="subtitle716">你当时应该穿着很平常的衣服</p>
+<p begin="9973500000t" end="9991000000t" region="bottomCenter" style="s1" xml:id="subtitle717">但警官还是注意到了你</p>
+<p begin="10000200000t" end="10019800000t" region="bottomCenter" style="s1" xml:id="subtitle718">因为你胸太大了</p>
+<p begin="10028600000t" end="10059400000t" region="bottomCenter" style="s1" xml:id="subtitle719">他注意到了你那和钢人七濑不相上下的胸部</p>
+<p begin="10060700000t" end="10078200000t" region="bottomCenter" style="s1" xml:id="subtitle720">警官敏锐的直觉发动了</p>
+<p begin="10109500000t" end="10139900000t" region="bottomCenter" style="s1" xml:id="subtitle721">寺田警官好像对巨乳没什么兴趣啊</p>
+<p begin="10144500000t" end="10183300000t" region="bottomCenter" style="s1" xml:id="subtitle722">九郎前辈也是 更喜欢我的娇小体型</p>
+<p begin="10188700000t" end="10228500000t" region="bottomCenter" style="s1" xml:id="subtitle723">九郎不会用胸部或者体型来评判女性</p>
+<p begin="10405200000t" end="10419100000t" region="bottomCenter" style="s1" xml:id="subtitle724">你赶紧继续</p>
+<p begin="10422700000t" end="10462300000t" region="bottomCenter" style="s1" xml:id="subtitle725">最近真仓坂市有很多关于怪人的目击情报</p>
+<p begin="10468190000t" end="10482400000t" region="bottomCenter" style="s1" xml:id="subtitle726">请你协助调查</p>
+<p begin="10497000000t" end="10515300000t" region="bottomCenter" style="s1" xml:id="subtitle727">你在这里做什么呢</p>
+<p begin="10520300000t" end="10557800000t" region="bottomCenter" style="s1" xml:id="subtitle728">那个…我在去便利店的路上</p>
+<p begin="10559500000t" end="10574500000t" region="bottomCenter" style="s1" xml:id="subtitle729">肚子有点饿了</p>
+<p begin="10582000000t" end="10605400000t" region="bottomCenter" style="s1" xml:id="subtitle730">你没想到会遇上这种情况</p>
+<p begin="10612500000t" end="10626800000t" region="bottomCenter" style="s1" xml:id="subtitle731">是不是在哪见过她一次</p>
+<p begin="10633800000t" end="10669200000t" region="bottomCenter" style="s1" xml:id="subtitle732">不 应该见过很多次 这张脸</p>
+<p begin="10710100000t" end="10717200000t" region="bottomCenter" style="s1" xml:id="subtitle733">七濑…</p>
+<p begin="10730900000t" end="10740500000t" region="bottomCenter" style="s1" xml:id="subtitle734">七濑花凛？</p>
+<p begin="10845600000t" end="10869400000t" region="bottomCenter" style="s1" xml:id="subtitle735">由于本应死亡的人站在眼前</p>
+<p begin="10874000000t" end="10903600000t" region="bottomCenter" style="s1" xml:id="subtitle736">强壮的警官有些慌乱 来不及防卫</p>
+<p begin="10908200000t" end="10929100000t" region="bottomCenter" style="s1" xml:id="subtitle737">你没有放过那个机会</p>
+<p begin="11050000000t" end="11071500000t" region="bottomCenter" style="s1" xml:id="subtitle738">你把寺田警官打晕后</p>
+<p begin="11074200000t" end="11109100000t" region="bottomCenter" style="s1" xml:id="subtitle739">打算将这件事伪装成钢人七濑所为</p>
+<p begin="11125100000t" end="11167600000t" region="bottomCenter" style="s1" xml:id="subtitle740">只要强壮的刑警毫无反抗地被砸毁了脸</p>
+<p begin="11173000000t" end="11201000000t" region="bottomCenter" style="s1" xml:id="subtitle741">身为女性的你就很难遭到怀疑</p>
+<p begin="11390800000t" end="11441200000t" region="bottomCenter" style="s1" xml:id="subtitle742">然后你清理掉自己的痕迹 逃离了现场</p>
+<p begin="11504200000t" end="11532600000t" region="bottomCenter" style="s1" xml:id="subtitle743">这就是你犯罪的真相</p>
+<p begin="11561800000t" end="11588500000t" region="bottomCenter" style="s1" xml:id="subtitle744">如果你还想继续否认的话也无所谓</p>
+<p begin="11595500000t" end="11642300000t" region="bottomCenter" style="s1" xml:id="subtitle745">不过 我更希望你能证明你不是七濑花凛</p>
+<p begin="11711500000t" end="11723300000t" region="bottomCenter" style="s1" xml:id="subtitle746">我再说一遍</p>
+<p begin="11730700000t" end="11759500000t" region="bottomCenter" style="s1" xml:id="subtitle747">七濑花凛 你就是犯人</p>
+<p begin="11836200000t" end="11866000000t" region="bottomCenter" style="s1" xml:id="subtitle748">这可真是 弥天大谎</p>
+<p begin="11869600000t" end="11893800000t" region="bottomCenter" style="s1" xml:id="subtitle749">再说一遍</p>
+<p begin="11869600000t" end="11890400000t" region="bottomCenter" style="s1" xml:id="subtitle750">这投稿的是什么人啊</p>
+<p begin="11883800000t" end="11903400000t" region="bottomCenter" style="s1" xml:id="subtitle751">七濑花凛还活着？</p>
+<p begin="11893800000t" end="11908800000t" region="bottomCenter" style="s1" xml:id="subtitle752">七濑花凛还活着!?</p>
+<p begin="11895400000t" end="11912500000t" region="bottomCenter" style="s1" xml:id="subtitle753">七濑花凛还活着！？</p>
+<p begin="11925900000t" end="11940900000t" region="bottomCenter" style="s1" xml:id="subtitle754">这个网站的管理者是谁</p>
+<p begin="11934200000t" end="11957200000t" region="bottomCenter" style="s1" xml:id="subtitle755">喂 管理员 你在看的话就出来啊</p>
+<p begin="11954200000t" end="11967600000t" region="bottomCenter" style="s1" xml:id="subtitle756">果然还是难以置信</p>
+<p begin="11968800000t" end="11983900000t" region="bottomCenter" style="s1" xml:id="subtitle757">果然还是难以置信</p>
+<p begin="11969700000t" end="11995100000t" region="bottomCenter" style="s1" xml:id="subtitle758">怎么可能会发生调包这种事啊</p>
+<p begin="11983900000t" end="11995100000t" region="bottomCenter" style="s1" xml:id="subtitle759">是真的吗？还是骗人的？</p>
+<p begin="11984700000t" end="12017600000t" region="bottomCenter" style="s1" xml:id="subtitle760">如果是真的 那我们就见证历史了吧？</p>
+<p begin="11995100000t" end="12005100000t" region="bottomCenter" style="s1" xml:id="subtitle761">我们目睹了事件真相公之于众吗？</p>
+<p begin="12005100000t" end="12012600000t" region="bottomCenter" style="s1" xml:id="subtitle762">搞不懂 这谁能想到啊</p>
+<p begin="12012600000t" end="12017600000t" region="bottomCenter" style="s1" xml:id="subtitle763">如果是真的 那我们就见证历史了吧？</p>
+<p begin="12030600000t" end="12041800000t" region="bottomCenter" style="s1" xml:id="subtitle764">都卷进来了</p>
+<p begin="12047200000t" end="12075100000t" region="bottomCenter" style="s1" xml:id="subtitle765">开设网站是犯人的阴谋</p>
+<p begin="12080600000t" end="12112300000t" region="bottomCenter" style="s1" xml:id="subtitle766">三个解释被驳回也是犯人所为</p>
+<p begin="12124400000t" end="12150300000t" region="bottomCenter" style="s1" xml:id="subtitle767">用七濑花凛还活着的事实</p>
+<p begin="12153200000t" end="12178600000t" region="bottomCenter" style="s1" xml:id="subtitle768">简单明了地消灭钢人七濑</p>
+<p begin="12187800000t" end="12207000000t" region="bottomCenter" style="s1" xml:id="subtitle769">居然能做到这一步啊</p>
+<p begin="12223700000t" end="12253300000t" region="bottomCenter" style="s1" xml:id="subtitle770">但如果网站的真正管理者六花小姐</p>
+<p begin="12257900000t" end="12287900000t" region="bottomCenter" style="s1" xml:id="subtitle771">留言说自己不是七濑花凛的话</p>
+<p begin="12292900000t" end="12310400000t" region="bottomCenter" style="s1" xml:id="subtitle772">谁会信呢</p>
+<p begin="12315900000t" end="12346700000t" region="bottomCenter" style="s1" xml:id="subtitle773">留言已经偏向于七濑花凛是网站管理者</p>
+<p begin="12348800000t" end="12373000000t" region="bottomCenter" style="s1" xml:id="subtitle774">大家正兴高采烈地讨论这个话题</p>
+<p begin="12379700000t" end="12413900000t" region="bottomCenter" style="s1" xml:id="subtitle775">无论认不认同 趋势是不会变的</p>
+<p begin="12430500000t" end="12465100000t" region="bottomCenter" style="s1" xml:id="subtitle776">岩永为了让最后的解释受人信任</p>
+<p begin="12468900000t" end="12497300000t" region="bottomCenter" style="s1" xml:id="subtitle777">把基本设定藏在了前三个解释里</p>
+<p begin="12511500000t" end="12538600000t" region="bottomCenter" style="s1" xml:id="subtitle778">如果不能多次决定未来是做不到的吧</p>
+<p begin="12561900000t" end="12577400000t" region="bottomCenter" style="s1" xml:id="subtitle779">在不断重复的死亡过程中</p>
+<p begin="12582400000t" end="12613600000t" region="bottomCenter" style="s1" xml:id="subtitle780">无数次 选择了摧毁怪物的未来</p>
+<p begin="12662400000t" end="12687100000t" region="bottomCenter" style="s1" xml:id="subtitle781">九郎前辈决定了未来</p>
+<p begin="12717900000t" end="12743400000t" region="bottomCenter" style="s1" xml:id="subtitle782">这个改变未来的选项</p>
+<p begin="12747900000t" end="12762500000t" region="bottomCenter" style="s1" xml:id="subtitle783">六花小姐将无法触及</p>
+<p begin="12773800000t" end="12815600000t" region="bottomCenter" style="s1" xml:id="subtitle784">她再也无法利用这个网站控制钢人七濑了</p>
+<p begin="12864300000t" end="12896000000t" region="bottomCenter" style="s1" xml:id="subtitle785">那么 出席本议会的各位</p>
+<p begin="12904400000t" end="12921700000t" region="bottomCenter" style="s1" xml:id="subtitle786">到投票的时候了</p>
+<p begin="12928500000t" end="12963800000t" region="bottomCenter" style="s1" xml:id="subtitle787">亡灵钢人七濑究竟存在 还是不存在</p>
+<p begin="12981100000t" end="12998100000t" region="bottomCenter" style="s1" xml:id="subtitle788">不需要做什么特别的事</p>
+<p begin="13005700000t" end="13038500000t" region="bottomCenter" style="s1" xml:id="subtitle789">不论选择了哪一方 都会被自动裁定</p>
+<p begin="13047000000t" end="13069900000t" region="bottomCenter" style="s1" xml:id="subtitle790">只要大家遵循本心</p>
+<p begin="13072700000t" end="13113700000t" region="bottomCenter" style="s1" xml:id="subtitle791">发挥想象自由祈愿即可</p>
+<p begin="13132500000t" end="13148300000t" region="bottomCenter" style="s1" xml:id="subtitle792">世上确有真妖</p>
+<p begin="13154600000t" end="13173400000t" region="bottomCenter" style="s1" xml:id="subtitle793">虚构亦无处不在</p>
+<p begin="13181700000t" end="13199200000t" region="bottomCenter" style="s1" xml:id="subtitle794">虚构宜归于虚构</p>
+<p begin="13223400000t" end="13243000000t" region="bottomCenter" style="s1" xml:id="subtitle795">从谎言中诞生的怪物</p>
+<p begin="13246800000t" end="13262600000t" region="bottomCenter" style="s1" xml:id="subtitle796">终将消散于谎言之中</p>
+<p begin="13329800000t" end="13369000000t" region="bottomCenter" style="s1" xml:id="subtitle797">本字幕由喵萌奶茶屋制作  仅供交流试看之用  请勿用于商业用途</p>
+<p begin="13384800000t" end="13411100000t" region="bottomCenter" style="s1" xml:id="subtitle798">Let’s dance with me on a moonlit night</p>
+<p begin="13384800000t" end="13411100000t" region="bottomCenter" style="s1" xml:id="subtitle799">请与我月下共舞</p>
+<p begin="13416100000t" end="13436600000t" region="bottomCenter" style="s1" xml:id="subtitle800">Now I gotta go, as I want to</p>
+<p begin="13416100000t" end="13436600000t" region="bottomCenter" style="s1" xml:id="subtitle801">现在我必须离开  如我所愿</p>
+<p begin="13439100000t" end="13462400000t" region="bottomCenter" style="s1" xml:id="subtitle802">But I’ll save the last dance for you</p>
+<p begin="13439100000t" end="13462400000t" region="bottomCenter" style="s1" xml:id="subtitle803">但我会为你保留最后一支舞</p>
+<p begin="13463200000t" end="13471600000t" region="bottomCenter" style="s1" xml:id="subtitle804">Come on</p>
+<p begin="13463200000t" end="13471600000t" region="bottomCenter" style="s1" xml:id="subtitle805">Come on</p>
+<p begin="13559600000t" end="13648400000t" region="bottomCenter" style="s1" xml:id="subtitle806">どこへ行こうか　夢から覚めたら</p>
+<p begin="13559600000t" end="13648400000t" region="bottomCenter" style="s1" xml:id="subtitle807">从睡梦中清醒  我该去向何处</p>
+<p begin="13655100000t" end="13728900000t" region="bottomCenter" style="s1" xml:id="subtitle808">サファイアの夜　なまぬるい風　潜めて</p>
+<p begin="13655100000t" end="13728900000t" region="bottomCenter" style="s1" xml:id="subtitle809">湛蓝的夜色  温柔的清风  悄然随行</p>
+<p begin="13731400000t" end="13823600000t" region="bottomCenter" style="s1" xml:id="subtitle810">真っ暗なほどに　きれいな瞳が瞬く</p>
+<p begin="13731400000t" end="13823600000t" region="bottomCenter" style="s1" xml:id="subtitle811">你迷人的眼眸  如同深邃夜空中闪亮的星</p>
+<p begin="13823600000t" end="13903700000t" region="bottomCenter" style="s1" xml:id="subtitle812">そっと抱き寄せて　優しい獣の声で</p>
+<p begin="13823600000t" end="13903700000t" region="bottomCenter" style="s1" xml:id="subtitle813">将你轻轻拥入怀中  用温柔的野兽之音</p>
+<p begin="13903700000t" end="13922900000t" region="bottomCenter" style="s1" xml:id="subtitle814">You can do, we can do, try</p>
+<p begin="13903700000t" end="13922900000t" region="bottomCenter" style="s1" xml:id="subtitle815">你能做到  我们能做到  来吧</p>
+<p begin="13930400000t" end="13973800000t" region="bottomCenter" style="s1" xml:id="subtitle816">お遊びのまま　いじらしいまま</p>
+<p begin="13930400000t" end="13973800000t" region="bottomCenter" style="s1" xml:id="subtitle817">当作一场游戏  带着你的可爱</p>
+<p begin="13976700000t" end="14010500000t" region="bottomCenter" style="s1" xml:id="subtitle818">君らしく暴れて</p>
+<p begin="13976700000t" end="14010500000t" region="bottomCenter" style="s1" xml:id="subtitle819">胡闹一番吧</p>
+<p begin="14021300000t" end="14053800000t" region="bottomCenter" style="s1" xml:id="subtitle820">ふざけないなんて　つまらない</p>
+<p begin="14021300000t" end="14053800000t" region="bottomCenter" style="s1" xml:id="subtitle821">少了胡搅蛮缠  就太无趣了</p>
+<p begin="14053800000t" end="14093900000t" region="bottomCenter" style="s1" xml:id="subtitle822">僕ららしく踊らせて</p>
+<p begin="14053800000t" end="14093900000t" region="bottomCenter" style="s1" xml:id="subtitle823">随心所欲地起舞吧</p>
+<p begin="14105600000t" end="14157700000t" region="bottomCenter" style="s1" xml:id="subtitle824">I’ll save the last dance for you</p>
+<p begin="14105600000t" end="14157700000t" region="bottomCenter" style="s1" xml:id="subtitle825">我会为你保留最后一支舞</p>
+<p begin="14285700000t" end="14341600000t" region="bottomCenter" style="s1" xml:id="subtitle826">妖怪 鬼魅 魔灵 邪魔 怪物 幽灵</p>
+<p begin="14346600000t" end="14362900000t" region="bottomCenter" style="s1" xml:id="subtitle827">各有其秩序</p>
+<p begin="14372100000t" end="14396500000t" region="bottomCenter" style="s1" xml:id="subtitle828">下集 秩序守护者</p>
+</div>
+</body>
+</tt>
