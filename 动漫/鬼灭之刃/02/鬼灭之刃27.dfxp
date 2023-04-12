@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="600000t" end="50600000t" region="bottomCenter" style="s1" xml:id="subtitle0"></p>
+<p begin="122400000t" end="202400000t" region="bottomCenter" style="s1" xml:id="subtitle1">本字幕由豌豆风之圣殿字幕组联合制作</p>
+<p begin="486200000t" end="529100000t" region="bottomCenter" style="s1" xml:id="subtitle2">炎柱 炼狱杏寿郎</p>
+<p begin="529100000t" end="565700000t" region="bottomCenter" style="s1" xml:id="subtitle3">寻人启事</p>
+<p begin="630800000t" end="680800000t" region="bottomCenter" style="s1" xml:id="subtitle4">荞麦面</p>
+<p begin="743800000t" end="750100000t" region="bottomCenter" style="s1" xml:id="subtitle5">好吃</p>
+<p begin="793500000t" end="800500000t" region="bottomCenter" style="s1" xml:id="subtitle6">好吃</p>
+<p begin="831400000t" end="838900000t" region="bottomCenter" style="s1" xml:id="subtitle7">好吃</p>
+<p begin="847300000t" end="872700000t" region="bottomCenter" style="s1" xml:id="subtitle8">炎柱 抱歉打扰您用餐了</p>
+<p begin="876900000t" end="897700000t" region="bottomCenter" style="s1" xml:id="subtitle9">没事 你坐吧</p>
+<p begin="904800000t" end="931100000t" region="bottomCenter" style="s1" xml:id="subtitle10">老板 给这小伙子也来碗一样的</p>
+<p begin="956500000t" end="969900000t" region="bottomCenter" style="s1" xml:id="subtitle11">真的可以吗</p>
+<p begin="970700000t" end="978600000t" region="bottomCenter" style="s1" xml:id="subtitle12">当然</p>
+<p begin="982000000t" end="994900000t" region="bottomCenter" style="s1" xml:id="subtitle13">我也再来一碗</p>
+<p begin="1035400000t" end="1067100000t" region="bottomCenter" style="s1" xml:id="subtitle14">你吃面的样子很豪爽</p>
+<p begin="1072900000t" end="1081200000t" region="bottomCenter" style="s1" xml:id="subtitle15">稍等</p>
+<p begin="1095000000t" end="1131300000t" region="bottomCenter" style="s1" xml:id="subtitle16">炎柱 您昨晚真厉害</p>
+<p begin="1139600000t" end="1169700000t" region="bottomCenter" style="s1" xml:id="subtitle17">没什么 毕竟那时鬼已经逃走了</p>
+<p begin="1175100000t" end="1192600000t" region="bottomCenter" style="s1" xml:id="subtitle18">受伤的那位女性怎么样了</p>
+<p begin="1201400000t" end="1239300000t" region="bottomCenter" style="s1" xml:id="subtitle19">医生说不会留下伤疤</p>
+<p begin="1247700000t" end="1273900000t" region="bottomCenter" style="s1" xml:id="subtitle20">是吗 幸亏处置及时</p>
+<p begin="1282700000t" end="1308100000t" region="bottomCenter" style="s1" xml:id="subtitle21">是的 都是多亏了您</p>
+<p begin="1400300000t" end="1409900000t" region="bottomCenter" style="s1" xml:id="subtitle22">我开动了</p>
+<p begin="1458300000t" end="1463700000t" region="bottomCenter" style="s1" xml:id="subtitle23">这是？</p>
+<p begin="1467900000t" end="1483700000t" region="bottomCenter" style="s1" xml:id="subtitle24">送你的</p>
+<p begin="1492900000t" end="1500800000t" region="bottomCenter" style="s1" xml:id="subtitle25">谢谢</p>
+<p begin="1530400000t" end="1537500000t" region="bottomCenter" style="s1" xml:id="subtitle26">好吃</p>
+<p begin="1541300000t" end="1576700000t" region="bottomCenter" style="s1" xml:id="subtitle27">老板 你去上野开店一定会很火爆的</p>
+<p begin="1583400000t" end="1600900000t" region="bottomCenter" style="s1" xml:id="subtitle28">用不着你多管闲事</p>
+<p begin="1608400000t" end="1631400000t" region="bottomCenter" style="s1" xml:id="subtitle29">老板 最近生意怎样</p>
+<p begin="1643500000t" end="1657700000t" region="bottomCenter" style="s1" xml:id="subtitle30">你觉得呢</p>
+<p begin="1660200000t" end="1667700000t" region="bottomCenter" style="s1" xml:id="subtitle31">不怎么好</p>
+<p begin="1678100000t" end="1716500000t" region="bottomCenter" style="s1" xml:id="subtitle32">最近这铁路沿线有杀人魔出没</p>
+<p begin="1717700000t" end="1740700000t" region="bottomCenter" style="s1" xml:id="subtitle33">现在都没几个人了</p>
+<p begin="1749400000t" end="1777800000t" region="bottomCenter" style="s1" xml:id="subtitle34">我雇的帮手都闲着没事了</p>
+<p begin="1790300000t" end="1823200000t" region="bottomCenter" style="s1" xml:id="subtitle35">听说前阵子 火车上的列车员被杀了</p>
+<p begin="1837000000t" end="1887500000t" region="bottomCenter" style="s1" xml:id="subtitle36">而且 无限列车不是停运了吗</p>
+<p begin="1891200000t" end="1960900000t" region="bottomCenter" style="s1" xml:id="subtitle37">我听说 有40多个乘客神隐了</p>
+<p begin="1969200000t" end="1987100000t" region="bottomCenter" style="s1" xml:id="subtitle38">是吗 真不太平</p>
+<p begin="1998400000t" end="2017600000t" region="bottomCenter" style="s1" xml:id="subtitle39">炎柱 我们说正事吧</p>
+<p begin="2020900000t" end="2047200000t" region="bottomCenter" style="s1" xml:id="subtitle40">我们查到无限列车的所在地了</p>
+<p begin="2054700000t" end="2095600000t" region="bottomCenter" style="s1" xml:id="subtitle41">情报中说 列车被悄悄运进了某个机械库</p>
+<p begin="2116400000t" end="2123500000t" region="bottomCenter" style="s1" xml:id="subtitle42">是吗</p>
+<p begin="2146900000t" end="2154800000t" region="bottomCenter" style="s1" xml:id="subtitle43">好吃</p>
+<p begin="2163600000t" end="2177800000t" region="bottomCenter" style="s1" xml:id="subtitle44">要去无限列车那里吗</p>
+<p begin="2186100000t" end="2191500000t" region="bottomCenter" style="s1" xml:id="subtitle45">对</p>
+<p begin="2196500000t" end="2241200000t" region="bottomCenter" style="s1" xml:id="subtitle46">不过 先去看看发现列车员遗体的车站吧</p>
+<p begin="2347500000t" end="2390900000t" region="bottomCenter" style="s1" xml:id="subtitle47">小福 别叹气了 吃红豆包吧</p>
+<p begin="2397600000t" end="2402600000t" region="bottomCenter" style="s1" xml:id="subtitle48">嗯</p>
+<p begin="2422600000t" end="2450500000t" region="bottomCenter" style="s1" xml:id="subtitle49">今天也没几个客人啊</p>
+<p begin="2465100000t" end="2486800000t" region="bottomCenter" style="s1" xml:id="subtitle50">我每天都在说</p>
+<p begin="2489700000t" end="2546000000t" region="bottomCenter" style="s1" xml:id="subtitle51">天黑之后很危险 明天你就中午再来帮忙吧</p>
+<p begin="2551000000t" end="2570190000t" region="bottomCenter" style="s1" xml:id="subtitle52">晚上会有鬼出没</p>
+<p begin="2587690000t" end="2598990000t" region="bottomCenter" style="s1" xml:id="subtitle53">没有异常</p>
+<p begin="2602300000t" end="2633200000t" region="bottomCenter" style="s1" xml:id="subtitle54">我看了一圈 没有什么异常</p>
+<p begin="2637400000t" end="2642400000t" region="bottomCenter" style="s1" xml:id="subtitle55">好</p>
+<p begin="2644900000t" end="2659100000t" region="bottomCenter" style="s1" xml:id="subtitle56">鬼根本就不存在</p>
+<p begin="2672400000t" end="2687400000t" region="bottomCenter" style="s1" xml:id="subtitle57">你又说鬼的事情</p>
+<p begin="2690800000t" end="2725400000t" region="bottomCenter" style="s1" xml:id="subtitle58">我不要中午来 我要努力卖便当才行</p>
+<p begin="2729600000t" end="2784200000t" region="bottomCenter" style="s1" xml:id="subtitle59">妈妈怀孕了 爸爸经营的餐馆也生意不好</p>
+<p begin="2794300000t" end="2809300000t" region="bottomCenter" style="s1" xml:id="subtitle60">家庭西餐烹饪指南</p>
+<p begin="2815100000t" end="2846300000t" region="bottomCenter" style="s1" xml:id="subtitle61">这种事让大人去操心就好</p>
+<p begin="2851300000t" end="2888500000t" region="bottomCenter" style="s1" xml:id="subtitle62">早上和晚上我一个人干就好</p>
+<p begin="2894700000t" end="2926000000t" region="bottomCenter" style="s1" xml:id="subtitle63">要是你被杀人魔袭击了该怎么办啊</p>
+<p begin="2933900000t" end="2961000000t" region="bottomCenter" style="s1" xml:id="subtitle64">只要你没事 我怎么样都好</p>
+<p begin="2964400000t" end="2976500000t" region="bottomCenter" style="s1" xml:id="subtitle65">婆婆</p>
+<p begin="3002300000t" end="3011500000t" region="bottomCenter" style="s1" xml:id="subtitle66">晚上好</p>
+<p begin="3016900000t" end="3032400000t" region="bottomCenter" style="s1" xml:id="subtitle67">今晚月色真美</p>
+<p begin="3045300000t" end="3080700000t" region="bottomCenter" style="s1" xml:id="subtitle68">我正在寻找鬼 你们有没有看到鬼呢</p>
+<p begin="3092800000t" end="3103700000t" region="bottomCenter" style="s1" xml:id="subtitle69">一上来就问这个吗</p>
+<p begin="3103700000t" end="3141200000t" region="bottomCenter" style="s1" xml:id="subtitle70">杏寿郎大人 太直白了</p>
+<p begin="3166200000t" end="3185800000t" region="bottomCenter" style="s1" xml:id="subtitle71">老妇人 您知道些什么吗</p>
+<p begin="3209600000t" end="3251300000t" region="bottomCenter" style="s1" xml:id="subtitle72">鬼？你 你在说什么莫名其妙的啊</p>
+<p begin="3253000000t" end="3265100000t" region="bottomCenter" style="s1" xml:id="subtitle73">不要过来</p>
+<p begin="3274300000t" end="3280900000t" region="bottomCenter" style="s1" xml:id="subtitle74">危险</p>
+<p begin="3291000000t" end="3331400000t" region="bottomCenter" style="s1" xml:id="subtitle75">你抖得这么厉害 会把宝贵的红豆包弄掉的</p>
+<p begin="3334700000t" end="3352300000t" region="bottomCenter" style="s1" xml:id="subtitle76">别过来</p>
+<p begin="3427300000t" end="3434800000t" region="bottomCenter" style="s1" xml:id="subtitle77">好吃</p>
+<p begin="3455700000t" end="3489900000t" region="bottomCenter" style="s1" xml:id="subtitle78">我才不知道鬼 那种东西怎么可能存在</p>
+<p begin="3496200000t" end="3512400000t" region="bottomCenter" style="s1" xml:id="subtitle79">小福 别这样</p>
+<p begin="3524500000t" end="3557500000t" region="bottomCenter" style="s1" xml:id="subtitle80">这个人一定不是坏人</p>
+<p begin="3599600000t" end="3608400000t" region="bottomCenter" style="s1" xml:id="subtitle81">对不起</p>
+<p begin="3615000000t" end="3653000000t" region="bottomCenter" style="s1" xml:id="subtitle82">因为杀人魔的事 我最近都神经紧绷</p>
+<p begin="3666700000t" end="3686800000t" region="bottomCenter" style="s1" xml:id="subtitle83">我刚才听到了你们的对话</p>
+<p begin="3692200000t" end="3746800000t" region="bottomCenter" style="s1" xml:id="subtitle84">为了卖便当给我们 你们天还没亮就开始准备了吧</p>
+<p begin="3751800000t" end="3761000000t" region="bottomCenter" style="s1" xml:id="subtitle85">太感谢了</p>
+<p begin="3771800000t" end="3810600000t" region="bottomCenter" style="s1" xml:id="subtitle86">我决不会容许你们这样善良的人受伤</p>
+<p begin="3819400000t" end="3852800000t" region="bottomCenter" style="s1" xml:id="subtitle87">放心吧 我会收拾掉杀人魔</p>
+<p begin="3867800000t" end="3887000000t" region="bottomCenter" style="s1" xml:id="subtitle88">你到底是…</p>
+<p begin="3892400000t" end="3897000000t" region="bottomCenter" style="s1" xml:id="subtitle89">告辞</p>
+<p begin="3909500000t" end="3917400000t" region="bottomCenter" style="s1" xml:id="subtitle90">等等</p>
+<p begin="3938300000t" end="3992100000t" region="bottomCenter" style="s1" xml:id="subtitle91">请问…你能不能买一份便当呢</p>
+<p begin="3999200000t" end="4016700000t" region="bottomCenter" style="s1" xml:id="subtitle92">也好</p>
+<p begin="4024600000t" end="4034600000t" region="bottomCenter" style="s1" xml:id="subtitle93">那我全部买下了</p>
+<p begin="4092600000t" end="4110900000t" region="bottomCenter" style="s1" xml:id="subtitle94">那个 炎柱…</p>
+<p begin="4115900000t" end="4136000000t" region="bottomCenter" style="s1" xml:id="subtitle95">买到了不错的纪念品 可以送给队里其他人</p>
+<p begin="4143100000t" end="4158500000t" region="bottomCenter" style="s1" xml:id="subtitle96">接下来我一个人行动</p>
+<p begin="4161800000t" end="4171000000t" region="bottomCenter" style="s1" xml:id="subtitle97">你辛苦了</p>
+<p begin="4186400000t" end="4192300000t" region="bottomCenter" style="s1" xml:id="subtitle98">告辞</p>
+<p begin="4240200000t" end="4257800000t" region="bottomCenter" style="s1" xml:id="subtitle99">那个人是怎么回事啊</p>
+<p begin="4261900000t" end="4285700000t" region="bottomCenter" style="s1" xml:id="subtitle100">他买了便当我是很高兴啦</p>
+<p begin="4295300000t" end="4314900000t" region="bottomCenter" style="s1" xml:id="subtitle101">快回家吧 小福</p>
+<p begin="4319100000t" end="4345800000t" region="bottomCenter" style="s1" xml:id="subtitle102">我有种不好的预感</p>
+<p begin="4348700000t" end="4371200000t" region="bottomCenter" style="s1" xml:id="subtitle103">背脊直发凉</p>
+<p begin="4385800000t" end="4395400000t" region="bottomCenter" style="s1" xml:id="subtitle104">婆婆？</p>
+<p begin="4694900000t" end="4712800000t" region="bottomCenter" style="s1" xml:id="subtitle105">你 你是什么人</p>
+<p begin="4742000000t" end="4813300000t" region="bottomCenter" style="s1" xml:id="subtitle106">高级牛锅便当</p>
+<p begin="4747000000t" end="4768300000t" region="bottomCenter" style="s1" xml:id="subtitle107">如你所见 我是卖便当的</p>
+<p begin="4775800000t" end="4792000000t" region="bottomCenter" style="s1" xml:id="subtitle108">并不是可疑人员</p>
+<p begin="4817500000t" end="4857900000t" region="bottomCenter" style="s1" xml:id="subtitle109">可是 这辆列车要开入车库了</p>
+<p begin="4862500000t" end="4880900000t" region="bottomCenter" style="s1" xml:id="subtitle110">嗯 我知道</p>
+<p begin="4885500000t" end="4921400000t" region="bottomCenter" style="s1" xml:id="subtitle111">我在找无限列车 听说它就在车库里</p>
+<p begin="4932200000t" end="4944700000t" region="bottomCenter" style="s1" xml:id="subtitle112">无限列车…</p>
+<p begin="4949300000t" end="4971800000t" region="bottomCenter" style="s1" xml:id="subtitle113">它已经不在车库里了</p>
+<p begin="4976800000t" end="4985600000t" region="bottomCenter" style="s1" xml:id="subtitle114">是吗</p>
+<p begin="4990600000t" end="5036000000t" region="bottomCenter" style="s1" xml:id="subtitle115">今早被运到设备齐全的修理厂去了</p>
+<p begin="5045600000t" end="5055600000t" region="bottomCenter" style="s1" xml:id="subtitle116">就在那里</p>
+<p begin="5099000000t" end="5117800000t" region="bottomCenter" style="s1" xml:id="subtitle117">那我就在这里下车</p>
+<p begin="5135700000t" end="5144900000t" region="bottomCenter" style="s1" xml:id="subtitle118">下车？</p>
+<p begin="5534400000t" end="5545700000t" region="bottomCenter" style="s1" xml:id="subtitle119">无限列车…</p>
+<p begin="5558200000t" end="5565700000t" region="bottomCenter" style="s1" xml:id="subtitle120">原来如此</p>
+<p begin="5574100000t" end="5597000000t" region="bottomCenter" style="s1" xml:id="subtitle121">确实留有微弱的鬼的气息</p>
+<p begin="5628700000t" end="5642500000t" region="bottomCenter" style="s1" xml:id="subtitle122">喂 那边那人</p>
+<p begin="5650400000t" end="5672500000t" region="bottomCenter" style="s1" xml:id="subtitle123">这里禁止入内</p>
+<p begin="5679600000t" end="5684200000t" region="bottomCenter" style="s1" xml:id="subtitle124">你们好</p>
+<p begin="5690800000t" end="5732600000t" region="bottomCenter" style="s1" xml:id="subtitle125">我受到铁道管理局委托 来给各位送便当了</p>
+<p begin="5759300000t" end="5785900000t" region="bottomCenter" style="s1" xml:id="subtitle126">喂 便当来了</p>
+<p begin="5825600000t" end="5868100000t" region="bottomCenter" style="s1" xml:id="subtitle127">来 把这个给在休息室休息的阿辰送去</p>
+<p begin="5871900000t" end="5884400000t" region="bottomCenter" style="s1" xml:id="subtitle128">好 工头</p>
+<p begin="5893600000t" end="5921500000t" region="bottomCenter" style="s1" xml:id="subtitle129">无限列车为什么会被转移到这里</p>
+<p begin="5939800000t" end="5965300000t" region="bottomCenter" style="s1" xml:id="subtitle130">明明车体本身没有问题</p>
+<p begin="5967400000t" end="6002400000t" region="bottomCenter" style="s1" xml:id="subtitle131">坊间却都说它是食人列车</p>
+<p begin="6005300000t" end="6028300000t" region="bottomCenter" style="s1" xml:id="subtitle132">我们都很不甘心</p>
+<p begin="6035800000t" end="6060800000t" region="bottomCenter" style="s1" xml:id="subtitle133">而现在列车即将恢复营运</p>
+<p begin="6062900000t" end="6103300000t" region="bottomCenter" style="s1" xml:id="subtitle134">所以我们想把它好好维护一番再送出去</p>
+<p begin="6109600000t" end="6120400000t" region="bottomCenter" style="s1" xml:id="subtitle135">恢复营运？</p>
+<p begin="6127100000t" end="6149600000t" region="bottomCenter" style="s1" xml:id="subtitle136">对 就在明晚</p>
+<p begin="6152100000t" end="6164700000t" region="bottomCenter" style="s1" xml:id="subtitle137">所以大家才连夜…</p>
+<p begin="6208500000t" end="6237200000t" region="bottomCenter" style="s1" xml:id="subtitle138">鬼 鬼出现了</p>
+<p begin="6323600000t" end="6333200000t" region="bottomCenter" style="s1" xml:id="subtitle139">别过来</p>
+<p begin="6359900000t" end="6369900000t" region="bottomCenter" style="s1" xml:id="subtitle140">阿辰</p>
+<p begin="6372400000t" end="6381500000t" region="bottomCenter" style="s1" xml:id="subtitle141">你们退后</p>
+<p begin="6387000000t" end="6399500000t" region="bottomCenter" style="s1" xml:id="subtitle142">工头</p>
+<p begin="6401600000t" end="6412000000t" region="bottomCenter" style="s1" xml:id="subtitle143">混蛋</p>
+<p begin="6412000000t" end="6425300000t" region="bottomCenter" style="s1" xml:id="subtitle144">放开那少年</p>
+<p begin="6431600000t" end="6460000000t" region="bottomCenter" style="s1" xml:id="subtitle145">猎鬼人吗 别瞧不起人</p>
+<p begin="6477500000t" end="6497100000t" region="bottomCenter" style="s1" xml:id="subtitle146">这什么气味</p>
+<p begin="6532500000t" end="6587600000t" region="bottomCenter" style="s1" xml:id="subtitle147">变成鬼之后 闻到人类食物的气味就犯恶心</p>
+<p begin="6593000000t" end="6627200000t" region="bottomCenter" style="s1" xml:id="subtitle148">那是我认识的人饱含真心制作的便当</p>
+<p begin="6630500000t" end="6643900000t" region="bottomCenter" style="s1" xml:id="subtitle149">你这话我可不能当没听见</p>
+<p begin="6650100000t" end="6674300000t" region="bottomCenter" style="s1" xml:id="subtitle150">我说难吃就是难吃</p>
+<p begin="6679300000t" end="6714800000t" region="bottomCenter" style="s1" xml:id="subtitle151">你的血闻起来也很难吃的样子 小鬼</p>
+<p begin="6746900000t" end="6774000000t" region="bottomCenter" style="s1" xml:id="subtitle152">好吃的人类我会吃掉</p>
+<p begin="6775300000t" end="6811600000t" region="bottomCenter" style="s1" xml:id="subtitle153">而难吃的人类 我会折磨一整晚来取乐</p>
+<p begin="6816600000t" end="6836600000t" region="bottomCenter" style="s1" xml:id="subtitle154">是吗 杀人魔</p>
+<p begin="6847400000t" end="6861200000t" region="bottomCenter" style="s1" xml:id="subtitle155">你让我很不爽</p>
+<p begin="6868300000t" end="6888300000t" region="bottomCenter" style="s1" xml:id="subtitle156">不爽的话</p>
+<p begin="6908700000t" end="6922500000t" region="bottomCenter" style="s1" xml:id="subtitle157">就来砍我啊</p>
+<p begin="6940800000t" end="6952100000t" region="bottomCenter" style="s1" xml:id="subtitle158">那是什么啊</p>
+<p begin="6973400000t" end="6998800000t" region="bottomCenter" style="s1" xml:id="subtitle159">没有人能拦住我</p>
+<p begin="7003800000t" end="7032200000t" region="bottomCenter" style="s1" xml:id="subtitle160">因为 我最快</p>
+<p begin="7052200000t" end="7097300000t" region="bottomCenter" style="s1" xml:id="subtitle161">抱歉啊 我抱着这小鬼你不好下刀是吧</p>
+<p begin="7099300000t" end="7127300000t" region="bottomCenter" style="s1" xml:id="subtitle162">要不要我大发慈悲把他干掉呢</p>
+<p begin="7134800000t" end="7153100000t" region="bottomCenter" style="s1" xml:id="subtitle163">救 救命</p>
+<p begin="7159400000t" end="7191900000t" region="bottomCenter" style="s1" xml:id="subtitle164">别担心 我一定会救你</p>
+<p begin="7198600000t" end="7214000000t" region="bottomCenter" style="s1" xml:id="subtitle165">你就吹吧</p>
+<p begin="7215300000t" end="7227800000t" region="bottomCenter" style="s1" xml:id="subtitle166">昨天也是</p>
+<p begin="7269100000t" end="7305400000t" region="bottomCenter" style="s1" xml:id="subtitle167">我把另一个女人折磨了个痛快</p>
+<p begin="7327900000t" end="7355400000t" region="bottomCenter" style="s1" xml:id="subtitle168">原来如此 我知道你很快了</p>
+<p begin="7364600000t" end="7381700000t" region="bottomCenter" style="s1" xml:id="subtitle169">但是 你不要太自负</p>
+<p begin="7393800000t" end="7423400000t" region="bottomCenter" style="s1" xml:id="subtitle170">我还以为昨晚你是察觉到我们才逃走的</p>
+<p begin="7429700000t" end="7461000000t" region="bottomCenter" style="s1" xml:id="subtitle171">看来你根本就没有察觉到</p>
+<p begin="7486000000t" end="7514800000t" region="bottomCenter" style="s1" xml:id="subtitle172">唯独逃跑的速度挺快</p>
+<p begin="7519300000t" end="7529800000t" region="bottomCenter" style="s1" xml:id="subtitle173">什么？</p>
+<p begin="7535200000t" end="7572300000t" region="bottomCenter" style="s1" xml:id="subtitle174">昨晚的受害者得到了我们的及时救助</p>
+<p begin="7600700000t" end="7620700000t" region="bottomCenter" style="s1" xml:id="subtitle175">一定会彻底痊愈 连伤疤都不留</p>
+<p begin="7649500000t" end="7711200000t" region="bottomCenter" style="s1" xml:id="subtitle176">就算活了下来 她也会被恐惧折磨一辈子</p>
+<p begin="7715400000t" end="7727900000t" region="bottomCenter" style="s1" xml:id="subtitle177">不会的</p>
+<p begin="7733300000t" end="7786300000t" region="bottomCenter" style="s1" xml:id="subtitle178">即便是难以痊愈的心灵创伤 我们也会耐心地去治愈</p>
+<p begin="7807100000t" end="7841300000t" region="bottomCenter" style="s1" xml:id="subtitle179">一副大义凛然的嘴脸 我要给你点颜色瞧瞧</p>
+<p begin="7842200000t" end="7874300000t" region="bottomCenter" style="s1" xml:id="subtitle180">我要再去杀一次那女人</p>
+<p begin="7878500000t" end="7921800000t" region="bottomCenter" style="s1" xml:id="subtitle181">我们把她藏起来了 你找不到的</p>
+<p begin="7971900000t" end="7994000000t" region="bottomCenter" style="s1" xml:id="subtitle182">那就去杀卖便当的</p>
+<p begin="7999000000t" end="8017800000t" region="bottomCenter" style="s1" xml:id="subtitle183">她们和我无关</p>
+<p begin="8021500000t" end="8039000000t" region="bottomCenter" style="s1" xml:id="subtitle184">不是你认识的人吗</p>
+<p begin="8040300000t" end="8072000000t" region="bottomCenter" style="s1" xml:id="subtitle185">这是车站里卖的便当吧 我知道是哪个车站</p>
+<p begin="8079500000t" end="8090300000t" region="bottomCenter" style="s1" xml:id="subtitle186">别动</p>
+<p begin="8097800000t" end="8117000000t" region="bottomCenter" style="s1" xml:id="subtitle187">我果然看你不爽</p>
+<p begin="8122900000t" end="8142500000t" region="bottomCenter" style="s1" xml:id="subtitle188">我可是舒爽极了</p>
+<p begin="8146200000t" end="8182900000t" region="bottomCenter" style="s1" xml:id="subtitle189">想救那些人 就在我之前去车站吧</p>
+<p begin="8187900000t" end="8234400000t" region="bottomCenter" style="s1" xml:id="subtitle190">出发之前 我先来杀了这个人</p>
+<p begin="8424000000t" end="8436500000t" region="bottomCenter" style="s1" xml:id="subtitle191">我先走了</p>
+<p begin="8486100000t" end="8507800000t" region="bottomCenter" style="s1" xml:id="subtitle192">拜托了 救救他</p>
+<p begin="8516600000t" end="8536600000t" region="bottomCenter" style="s1" xml:id="subtitle193">没事的 交给我吧</p>
+<p begin="8544100000t" end="8566200000t" region="bottomCenter" style="s1" xml:id="subtitle194">我的同伴也很快会赶来</p>
+<p begin="8578700000t" end="8610000000t" region="bottomCenter" style="s1" xml:id="subtitle195">这边 这边 这边</p>
+<p begin="8624200000t" end="8633800000t" region="bottomCenter" style="s1" xml:id="subtitle196">炼狱大人</p>
+<p begin="8641300000t" end="8648800000t" region="bottomCenter" style="s1" xml:id="subtitle197">医疗队呢</p>
+<p begin="8653800000t" end="8663800000t" region="bottomCenter" style="s1" xml:id="subtitle198">在路上</p>
+<p begin="8667600000t" end="8680900000t" region="bottomCenter" style="s1" xml:id="subtitle199">应急处置做完了</p>
+<p begin="8684700000t" end="8693000000t" region="bottomCenter" style="s1" xml:id="subtitle200">之后交给你们了</p>
+<p begin="8817700000t" end="8835300000t" region="bottomCenter" style="s1" xml:id="subtitle201">全集中的呼吸</p>
+<p begin="9015000000t" end="9047100000t" region="bottomCenter" style="s1" xml:id="subtitle202">小福你也太顽固了</p>
+<p begin="9053000000t" end="9078800000t" region="bottomCenter" style="s1" xml:id="subtitle203">我说要帮就是要帮</p>
+<p begin="9107200000t" end="9119700000t" region="bottomCenter" style="s1" xml:id="subtitle204">早上好</p>
+<p begin="9131400000t" end="9156800000t" region="bottomCenter" style="s1" xml:id="subtitle205">哟 你们今天也这么早啊</p>
+<p begin="9242300000t" end="9254400000t" region="bottomCenter" style="s1" xml:id="subtitle206">闻到了</p>
+<p begin="9312400000t" end="9319100000t" region="bottomCenter" style="s1" xml:id="subtitle207">好了</p>
+<p begin="9373700000t" end="9386600000t" region="bottomCenter" style="s1" xml:id="subtitle208">站务员？</p>
+<p begin="9399100000t" end="9422100000t" region="bottomCenter" style="s1" xml:id="subtitle209">闻到了 闻到了</p>
+<p begin="9432500000t" end="9480500000t" region="bottomCenter" style="s1" xml:id="subtitle210">就是你吧 你浑身散发着臭便当的气味</p>
+<p begin="9495100000t" end="9513000000t" region="bottomCenter" style="s1" xml:id="subtitle211">我和你无仇无怨</p>
+<p begin="9518400000t" end="9543900000t" region="bottomCenter" style="s1" xml:id="subtitle212">全都要怪那个猎鬼人</p>
+<p begin="9591000000t" end="9610200000t" region="bottomCenter" style="s1" xml:id="subtitle213">快逃 小福</p>
+<p begin="9640200000t" end="9660600000t" region="bottomCenter" style="s1" xml:id="subtitle214">你搞什么 老太婆</p>
+<p begin="9962600000t" end="9982200000t" region="bottomCenter" style="s1" xml:id="subtitle215">你 你是…</p>
+<p begin="9994700000t" end="10004700000t" region="bottomCenter" style="s1" xml:id="subtitle216">没事吧</p>
+<p begin="10022700000t" end="10031900000t" region="bottomCenter" style="s1" xml:id="subtitle217">婆婆</p>
+<p begin="10066500000t" end="10075600000t" region="bottomCenter" style="s1" xml:id="subtitle218">可恶</p>
+<p begin="10129500000t" end="10159500000t" region="bottomCenter" style="s1" xml:id="subtitle219">喂 老太婆 你刚才竟敢扔我</p>
+<p begin="10266300000t" end="10305890000t" region="bottomCenter" style="s1" xml:id="subtitle220">你究竟是怎么追上的</p>
+<p begin="10342600000t" end="10361300000t" region="bottomCenter" style="s1" xml:id="subtitle221">我说过了 不要太自负</p>
+<p begin="10420200000t" end="10439800000t" region="bottomCenter" style="s1" xml:id="subtitle222">那就比比看啊</p>
+<p begin="10443900000t" end="10475200000t" region="bottomCenter" style="s1" xml:id="subtitle223">是我先切开这个老太婆的喉咙</p>
+<p begin="10477300000t" end="10506100000t" region="bottomCenter" style="s1" xml:id="subtitle224">还是你先砍断我的脖子</p>
+<p begin="10517300000t" end="10531900000t" region="bottomCenter" style="s1" xml:id="subtitle225">没有比的必要</p>
+<p begin="10542800000t" end="10552000000t" region="bottomCenter" style="s1" xml:id="subtitle226">因为…</p>
+<p begin="10578200000t" end="10587000000t" region="bottomCenter" style="s1" xml:id="subtitle227">你很慢</p>
+<p begin="10607000000t" end="10643300000t" region="bottomCenter" style="s1" xml:id="subtitle228">炎之呼吸 壹之型 不知火</p>
+<p begin="11095000000t" end="11156300000t" region="bottomCenter" style="s1" xml:id="subtitle229">你救了我两次</p>
+<p begin="11188000000t" end="11196300000t" region="bottomCenter" style="s1" xml:id="subtitle230">婆婆</p>
+<p begin="11202200000t" end="11219300000t" region="bottomCenter" style="s1" xml:id="subtitle231">我不会忘记的</p>
+<p begin="11221000000t" end="11247200000t" region="bottomCenter" style="s1" xml:id="subtitle232">你的容貌 羽织</p>
+<p begin="11251000000t" end="11265600000t" region="bottomCenter" style="s1" xml:id="subtitle233">我…</p>
+<p begin="11288900000t" end="11307300000t" region="bottomCenter" style="s1" xml:id="subtitle234">还有小福的母亲</p>
+<p begin="11314000000t" end="11356100000t" region="bottomCenter" style="s1" xml:id="subtitle235">20年前 被你救下了性命</p>
+<p begin="11368600000t" end="11392000000t" region="bottomCenter" style="s1" xml:id="subtitle236">婆婆 你在说什么啊</p>
+<p begin="11429100000t" end="11454900000t" region="bottomCenter" style="s1" xml:id="subtitle237">那人一定是我的父亲</p>
+<p begin="11481200000t" end="11512900000t" region="bottomCenter" style="s1" xml:id="subtitle238">我接替了父亲的猎鬼人工作</p>
+<p begin="11529200000t" end="11569600000t" region="bottomCenter" style="s1" xml:id="subtitle239">和父亲一样保护了您 是我的荣幸</p>
+<p begin="11613900000t" end="11629700000t" region="bottomCenter" style="s1" xml:id="subtitle240">我还是难以置信</p>
+<p begin="11637600000t" end="11677700000t" region="bottomCenter" style="s1" xml:id="subtitle241">对不起 婆婆 我之前还说鬼不可能存在</p>
+<p begin="11721900000t" end="11739400000t" region="bottomCenter" style="s1" xml:id="subtitle242">不 这样就好</p>
+<p begin="11745600000t" end="11793600000t" region="bottomCenter" style="s1" xml:id="subtitle243">不知鬼的存在 不和鬼遭遇 平安地走完一生</p>
+<p begin="11796100000t" end="11808200000t" region="bottomCenter" style="s1" xml:id="subtitle244">这才是最好的</p>
+<p begin="11842400000t" end="11861200000t" region="bottomCenter" style="s1" xml:id="subtitle245">炎柱 您没事吧</p>
+<p begin="11874100000t" end="11895800000t" region="bottomCenter" style="s1" xml:id="subtitle246">没事 我刚解决掉</p>
+<p begin="11899600000t" end="11911200000t" region="bottomCenter" style="s1" xml:id="subtitle247">辛苦了</p>
+<p begin="11924200000t" end="11944200000t" region="bottomCenter" style="s1" xml:id="subtitle248">无限列车呢</p>
+<p begin="11951700000t" end="11996300000t" region="bottomCenter" style="s1" xml:id="subtitle249">今晚会修整完毕 明天恢复营运</p>
+<p begin="12003000000t" end="12017200000t" region="bottomCenter" style="s1" xml:id="subtitle250">太好了</p>
+<p begin="12019700000t" end="12037600000t" region="bottomCenter" style="s1" xml:id="subtitle251">这下就都解决了</p>
+<p begin="12047200000t" end="12065100000t" region="bottomCenter" style="s1" xml:id="subtitle252">说这种话还为时过早</p>
+<p begin="12072200000t" end="12111000000t" region="bottomCenter" style="s1" xml:id="subtitle253">吃了40多人的鬼 不可能只有这么点本事</p>
+<p begin="12126000000t" end="12159400000t" region="bottomCenter" style="s1" xml:id="subtitle254">这么说 这杀人魔只是为了混淆我们的视线吗</p>
+<p begin="12166500000t" end="12182300000t" region="bottomCenter" style="s1" xml:id="subtitle255">有可能</p>
+<p begin="12189400000t" end="12223200000t" region="bottomCenter" style="s1" xml:id="subtitle256">不论如何 无限列车的鬼另有所在</p>
+<p begin="12232400000t" end="12273300000t" region="bottomCenter" style="s1" xml:id="subtitle257">有更加强大 真身不明的鬼潜藏在别处</p>
+<p begin="12292400000t" end="12312900000t" region="bottomCenter" style="s1" xml:id="subtitle258">那就明天 乘上无限列车</p>
+<p begin="12320400000t" end="12334600000t" region="bottomCenter" style="s1" xml:id="subtitle259">那当然</p>
+<p begin="12348300000t" end="12366700000t" region="bottomCenter" style="s1" xml:id="subtitle260">不过 已经是今天了</p>
+<p begin="12425100000t" end="12444700000t" region="bottomCenter" style="s1" xml:id="subtitle261">喂 老板 你听说了没</p>
+<p begin="12459700000t" end="12482600000t" region="bottomCenter" style="s1" xml:id="subtitle262">无限列车要恢复营运了</p>
+<p begin="12486900000t" end="12511900000t" region="bottomCenter" style="s1" xml:id="subtitle263">食人「无限列车」恢复营运</p>
+<p begin="12516000000t" end="12548100000t" region="bottomCenter" style="s1" xml:id="subtitle264">希望不要再发生怪事吧</p>
+<p begin="12665700000t" end="12672000000t" region="bottomCenter" style="s1" xml:id="subtitle265">那个</p>
+<p begin="12684100000t" end="12699100000t" region="bottomCenter" style="s1" xml:id="subtitle266">你们好 便当售卖人</p>
+<p begin="12703300000t" end="12732900000t" region="bottomCenter" style="s1" xml:id="subtitle267">今早的事 不知该怎么感谢你才好</p>
+<p begin="12740800000t" end="12755000000t" region="bottomCenter" style="s1" xml:id="subtitle268">请收下这个</p>
+<p begin="12758700000t" end="12795000000t" region="bottomCenter" style="s1" xml:id="subtitle269">我们只拿得出这种东西</p>
+<p begin="12798500000t" end="12861000000t" region="bottomCenter" style="s1" xml:id="subtitle270">高级牛锅便当</p>
+<p begin="12812500000t" end="12833000000t" region="bottomCenter" style="s1" xml:id="subtitle271">刚好我昨晚没吃上饭</p>
+<p begin="12837200000t" end="12851300000t" region="bottomCenter" style="s1" xml:id="subtitle272">真是太感谢了</p>
+<p begin="12865500000t" end="12885500000t" region="bottomCenter" style="s1" xml:id="subtitle273">不过 钱我还是要付的</p>
+<p begin="12888900000t" end="12908900000t" region="bottomCenter" style="s1" xml:id="subtitle274">不用了 你的心意我们领了</p>
+<p begin="12911000000t" end="12918500000t" region="bottomCenter" style="s1" xml:id="subtitle275">是吗</p>
+<p begin="12920600000t" end="12935600000t" region="bottomCenter" style="s1" xml:id="subtitle276">那我就收下这个</p>
+<p begin="12940200000t" end="12964400000t" region="bottomCenter" style="s1" xml:id="subtitle277">然后把你手上这些全部买下来</p>
+<p begin="13014800000t" end="13028600000t" region="bottomCenter" style="s1" xml:id="subtitle278">请多加小心</p>
+<p begin="13029800000t" end="13054500000t" region="bottomCenter" style="s1" xml:id="subtitle279">你要是路过这附近 请再来光顾</p>
+<p begin="13062800000t" end="13093200000t" region="bottomCenter" style="s1" xml:id="subtitle280">我一定会将两位的事转告父亲</p>
+<p begin="13097800000t" end="13109900000t" region="bottomCenter" style="s1" xml:id="subtitle281">他一定会很欣慰</p>
+<p begin="13124100000t" end="13146200000t" region="bottomCenter" style="s1" xml:id="subtitle282">请多保重 有缘再见</p>
+<p begin="13370600000t" end="13399800000t" region="bottomCenter" style="s1" xml:id="subtitle283">这 这 这…</p>
+<p begin="13405200000t" end="13427300000t" region="bottomCenter" style="s1" xml:id="subtitle284">这是什么生物啊</p>
+<p begin="13436500000t" end="13470700000t" region="bottomCenter" style="s1" xml:id="subtitle285">请拿好 高级便当 36钱</p>
+<p begin="13472800000t" end="13499500000t" region="bottomCenter" style="s1" xml:id="subtitle286">要再来点茶或者酒吗</p>
+<p begin="13499500000t" end="13521200000t" region="bottomCenter" style="s1" xml:id="subtitle287">猪突猛进</p>
+<p begin="13531200000t" end="13547400000t" region="bottomCenter" style="s1" xml:id="subtitle288">快住手 丢死人了</p>
+<p begin="13557000000t" end="13569600000t" region="bottomCenter" style="s1" xml:id="subtitle289">他们在做什么啊</p>
+<p begin="13901100000t" end="13915700000t" region="bottomCenter" style="s1" xml:id="subtitle290">那我就心怀感激地开动了</p>
+<p begin="14032100000t" end="14040400000t" region="bottomCenter" style="s1" xml:id="subtitle291">好吃</p>
+<p begin="14224800000t" end="14244000000t" region="bottomCenter" style="s1" xml:id="subtitle292">我们乘上无限列车了</p>
+<p begin="14245200000t" end="14273200000t" region="bottomCenter" style="s1" xml:id="subtitle293">炭治郎 你不是有事情要问炎柱吗</p>
+<p begin="14275700000t" end="14287400000t" region="bottomCenter" style="s1" xml:id="subtitle294">要是能见到他就好了</p>
+<p begin="14288600000t" end="14294000000t" region="bottomCenter" style="s1" xml:id="subtitle295">嗯</p>
+<p begin="14296500000t" end="14324500000t" region="bottomCenter" style="s1" xml:id="subtitle296">居然是柱？和我一决胜负吧</p>
+<p begin="14326100000t" end="14345700000t" region="bottomCenter" style="s1" xml:id="subtitle297">吵死了 你闭嘴</p>
+<p begin="14352400000t" end="14362000000t" region="bottomCenter" style="s1" xml:id="subtitle298">你说什么？</p>
+<p begin="14362000000t" end="14373300000t" region="bottomCenter" style="s1" xml:id="subtitle299">你有意见？</p>
+<p begin="14377400000t" end="14405000000t" region="bottomCenter" style="s1" xml:id="subtitle300">好啦好啦 伊之助 你冷静</p>
+<p begin="14417500000t" end="14430400000t" region="bottomCenter" style="s1" xml:id="subtitle301">蠢野猪</p>
+<p begin="14436700000t" end="14465400000t" region="bottomCenter" style="s1" xml:id="subtitle302">话说回来 炎柱会是什么样的人啊</p>
+<p begin="14468400000t" end="14476700000t" region="bottomCenter" style="s1" xml:id="subtitle303">他是…</p>
+<p begin="14495900000t" end="14510100000t" region="bottomCenter" style="s1" xml:id="subtitle304">是鎹鸦</p>
+<p begin="14518400000t" end="14523000000t" region="bottomCenter" style="s1" xml:id="subtitle305">嗯</p>
+<p begin="14530500000t" end="14539300000t" region="bottomCenter" style="s1" xml:id="subtitle306">嗯嗯</p>
+<p begin="14543400000t" end="14579700000t" region="bottomCenter" style="s1" xml:id="subtitle307">鎹鸦好像帮我们调查了一下炼狱先生</p>
+<p begin="14585600000t" end="14592200000t" region="bottomCenter" style="s1" xml:id="subtitle308">真的吗</p>
+<p begin="14606400000t" end="14653100000t" region="bottomCenter" style="s1" xml:id="subtitle309">它调查了其他柱对炼狱先生的看法</p>
+<p begin="14653100000t" end="14666100000t" region="bottomCenter" style="s1" xml:id="subtitle310">想听想听</p>
+<p begin="14666900000t" end="14695300000t" region="bottomCenter" style="s1" xml:id="subtitle311">柱 全都和我一决胜负吧</p>
+<p begin="14700300000t" end="14725300000t" region="bottomCenter" style="s1" xml:id="subtitle312">好了好了 炭治郎 快说吧</p>
+<p begin="14727400000t" end="14732400000t" region="bottomCenter" style="s1" xml:id="subtitle313">嗯</p>
+<p begin="14735300000t" end="14748600000t" region="bottomCenter" style="s1" xml:id="subtitle314">那就从忍小姐开始</p>
+<p begin="14753300000t" end="14873500000t" region="bottomCenter" style="s1" xml:id="subtitle315">虫柱·蝴蝶忍</p>
+<p begin="14755300000t" end="14769900000t" region="bottomCenter" style="s1" xml:id="subtitle316">他是个好人</p>
+<p begin="14775800000t" end="14802500000t" region="bottomCenter" style="s1" xml:id="subtitle317">虽然有时会不明白他在说什么</p>
+<p begin="14804500000t" end="14838300000t" region="bottomCenter" style="s1" xml:id="subtitle318">忍小姐 我又想起你身上的香味了</p>
+<p begin="14840800000t" end="14853300000t" region="bottomCenter" style="s1" xml:id="subtitle319">其他柱呢</p>
+<p begin="14853800000t" end="14871700000t" region="bottomCenter" style="s1" xml:id="subtitle320">那就一口气放完吧</p>
+<p begin="14874300000t" end="14926000000t" region="bottomCenter" style="s1" xml:id="subtitle321">宇髓天元的看法</p>
+<p begin="14879200000t" end="14885900000t" region="bottomCenter" style="s1" xml:id="subtitle322">华丽</p>
+<p begin="14887100000t" end="14901300000t" region="bottomCenter" style="s1" xml:id="subtitle323">总是抢我的风头</p>
+<p begin="14905500000t" end="14923400000t" region="bottomCenter" style="s1" xml:id="subtitle324">但人超好</p>
+<p begin="14927300000t" end="14983600000t" region="bottomCenter" style="s1" xml:id="subtitle325">时透无一郎</p>
+<p begin="14930900000t" end="14945100000t" region="bottomCenter" style="s1" xml:id="subtitle326">像猫头鹰一样</p>
+<p begin="14952200000t" end="14980100000t" region="bottomCenter" style="s1" xml:id="subtitle327">声音很欢快 听着很舒适</p>
+<p begin="14984400000t" end="15051100000t" region="bottomCenter" style="s1" xml:id="subtitle328">甘露寺蜜璃的看法</p>
+<p begin="14988100000t" end="15005600000t" region="bottomCenter" style="s1" xml:id="subtitle329">帅气的大哥哥</p>
+<p begin="15007700000t" end="15028900000t" region="bottomCenter" style="s1" xml:id="subtitle330">和他一起修行很开心</p>
+<p begin="15031800000t" end="15049800000t" region="bottomCenter" style="s1" xml:id="subtitle331">他很宠我</p>
+<p begin="15052400000t" end="15096200000t" region="bottomCenter" style="s1" xml:id="subtitle332">伊黑小芭内</p>
+<p begin="15056000000t" end="15086900000t" region="bottomCenter" style="s1" xml:id="subtitle333">话很多 性格很好</p>
+<p begin="15088700000t" end="15096200000t" region="bottomCenter" style="s1" xml:id="subtitle334">喜欢</p>
+<p begin="15097400000t" end="15136200000t" region="bottomCenter" style="s1" xml:id="subtitle335">不死川实弥的看法</p>
+<p begin="15117800000t" end="15127800000t" region="bottomCenter" style="s1" xml:id="subtitle336">是个好人</p>
+<p begin="15127500000t" end="15136200000t" region="bottomCenter" style="s1" xml:id="subtitle337">喜欢</p>
+<p begin="15136200000t" end="15189200000t" region="bottomCenter" style="s1" xml:id="subtitle338">悲鸣屿行冥</p>
+<p begin="15140700000t" end="15170700000t" region="bottomCenter" style="s1" xml:id="subtitle339">很乐观 不会示弱</p>
+<p begin="15178700000t" end="15190800000t" region="bottomCenter" style="s1" xml:id="subtitle340">很诚实</p>
+<p begin="15200300000t" end="15220000000t" region="bottomCenter" style="s1" xml:id="subtitle341">好像是这样的</p>
+<p begin="15225800000t" end="15246600000t" region="bottomCenter" style="s1" xml:id="subtitle342">富冈先生呢</p>
+<p begin="15248300000t" end="15276300000t" region="bottomCenter" style="s1" xml:id="subtitle343">对了 鎹鸦 富冈先生的呢</p>
+<p begin="15298800000t" end="15316300000t" region="bottomCenter" style="s1" xml:id="subtitle344">嗯嗯 我知道了</p>
+<p begin="15322600000t" end="15343800000t" region="bottomCenter" style="s1" xml:id="subtitle345">富冈先生对炼狱先生的看法是…</p>
+<p begin="15347300000t" end="15389400000t" region="bottomCenter" style="s1" xml:id="subtitle346">富冈义勇</p>
+<p begin="15363000000t" end="15380100000t" region="bottomCenter" style="s1" xml:id="subtitle347">经常和我说话</p>
+<p begin="15380600000t" end="15389400000t" region="bottomCenter" style="s1" xml:id="subtitle348">喜欢</p>
+<p begin="15391800000t" end="15398500000t" region="bottomCenter" style="s1" xml:id="subtitle349">这样的</p>
+<p begin="15412600000t" end="15441400000t" region="bottomCenter" style="s1" xml:id="subtitle350">大家好像都很喜欢炎柱啊</p>
+<p begin="15443100000t" end="15467700000t" region="bottomCenter" style="s1" xml:id="subtitle351">嗯 能早点见到他就好了</p>
+<p begin="15489000000t" end="15510700000t" region="bottomCenter" style="s1" xml:id="subtitle352">炎柱 和我一决胜负</p>
+<p begin="15512300000t" end="15520700000t" region="bottomCenter" style="s1" xml:id="subtitle353">伊之助</p>
+<p begin="15552800000t" end="15564000000t" region="bottomCenter" style="s1" xml:id="subtitle354">炼狱先生</p>
+<p begin="15570700000t" end="15601600000t" region="bottomCenter" style="s1" xml:id="subtitle355">下集《鬼灭之刃 无限列车篇》第2集</p>
+<p begin="15602400000t" end="15612000000t" region="bottomCenter" style="s1" xml:id="subtitle356">「沉眠」</p>
+<p begin="15616200000t" end="15638300000t" region="bottomCenter" style="s1" xml:id="subtitle357">大家一起上车吧</p>
+<p begin="15639100000t" end="15655400000t" region="bottomCenter" style="s1" xml:id="subtitle358">大哥</p>
+<p begin="15656700000t" end="15678900000t" region="bottomCenter" style="s1" xml:id="subtitle359">待续</p>
+</div>
+</body>
+</tt>

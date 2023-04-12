@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" xml:id="s1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" xml:id="s1_1"/>
+</styling>
+<layout>
+<region tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="bottomCenter"/>
+<region tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" tts:textAlign="center" xml:id="topCenter"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="20000000t" end="70000000t" region="bottomCenter" style="s1" xml:id="subtitle0">本字幕由豌豆风之圣殿字幕组联合制作</p>
+<p begin="70000000t" end="120000000t" region="bottomCenter" style="s1" xml:id="subtitle1">翻译/校对/时间轴：海底  后期：小圣</p>
+<p begin="110000000t" end="130000000t" region="bottomCenter" style="s1" xml:id="subtitle2"></p>
+<p begin="289200000t" end="297100000t" region="bottomCenter" style="s1" xml:id="subtitle3">我们走</p>
+<p begin="350000000t" end="415500000t" region="bottomCenter" style="s1" xml:id="subtitle4">強くなれる理由を知った</p>
+<p begin="350000000t" end="415500000t" region="bottomCenter" style="s1" xml:id="subtitle5">知晓了为何能变强</p>
+<p begin="415500000t" end="497300000t" region="bottomCenter" style="s1" xml:id="subtitle6">僕を連れて　進め</p>
+<p begin="415500000t" end="497300000t" region="bottomCenter" style="s1" xml:id="subtitle7">与我携手 前进吧</p>
+<p begin="528400000t" end="578900000t" region="bottomCenter" style="s1" xml:id="subtitle8">泥だらけの走馬灯に酔う</p>
+<p begin="528400000t" end="578900000t" region="bottomCenter" style="s1" xml:id="subtitle9">沉醉于遍布泥土的走马灯</p>
+<p begin="583500000t" end="626000000t" region="bottomCenter" style="s1" xml:id="subtitle10">強張る心　震える手は</p>
+<p begin="583500000t" end="626000000t" region="bottomCenter" style="s1" xml:id="subtitle11">顽固的心 颤抖的手</p>
+<p begin="626000000t" end="649800000t" region="bottomCenter" style="s1" xml:id="subtitle12">掴みたいものがある</p>
+<p begin="626000000t" end="649800000t" region="bottomCenter" style="s1" xml:id="subtitle13">因为有想紧握之物</p>
+<p begin="649800000t" end="667700000t" region="bottomCenter" style="s1" xml:id="subtitle14">それだけさ</p>
+<p begin="649800000t" end="667700000t" region="bottomCenter" style="s1" xml:id="subtitle15">仅此而已</p>
+<p begin="667700000t" end="703600000t" region="bottomCenter" style="s1" xml:id="subtitle16">夜の匂いに(I’ll spend all thirty nights)</p>
+<p begin="667700000t" end="703600000t" region="bottomCenter" style="s1" xml:id="subtitle17">在夜的气息中(I’ll spend all thirty nights)</p>
+<p begin="703600000t" end="739000000t" region="bottomCenter" style="s1" xml:id="subtitle18">空睨んでも (Staring into the sky)</p>
+<p begin="703600000t" end="739000000t" region="bottomCenter" style="s1" xml:id="subtitle19">久久凝视天空(Staring into the sky)</p>
+<p begin="739000000t" end="790500000t" region="bottomCenter" style="s1" xml:id="subtitle20">変わっていけるのは　自分自身だけ</p>
+<p begin="739000000t" end="790500000t" region="bottomCenter" style="s1" xml:id="subtitle21">能够改变的 却只有自己</p>
+<p begin="790500000t" end="810800000t" region="bottomCenter" style="s1" xml:id="subtitle22">それだけさ</p>
+<p begin="790500000t" end="810800000t" region="bottomCenter" style="s1" xml:id="subtitle23">仅此而已</p>
+<p begin="810800000t" end="878400000t" region="bottomCenter" style="s1" xml:id="subtitle24">強くなれる理由を知った</p>
+<p begin="810800000t" end="878400000t" region="bottomCenter" style="s1" xml:id="subtitle25">知晓了为何能变强</p>
+<p begin="878400000t" end="941900000t" region="bottomCenter" style="s1" xml:id="subtitle26">僕を連れて　進め</p>
+<p begin="878400000t" end="941900000t" region="bottomCenter" style="s1" xml:id="subtitle27">与我携手 前进吧</p>
+<p begin="941900000t" end="990600000t" region="bottomCenter" style="s1" xml:id="subtitle28">どうしたって消せない夢も　止まれない今も</p>
+<p begin="941900000t" end="990600000t" region="bottomCenter" style="s1" xml:id="subtitle29">挥之不去的梦境 无法阻挡的现实</p>
+<p begin="990600000t" end="1033500000t" region="bottomCenter" style="s1" xml:id="subtitle30">誰かのために強くなれるなら</p>
+<p begin="990600000t" end="1033500000t" region="bottomCenter" style="s1" xml:id="subtitle31">只要能为那个人而变强</p>
+<p begin="1033500000t" end="1084000000t" region="bottomCenter" style="s1" xml:id="subtitle32">何度でも立ち上がれ</p>
+<p begin="1033500000t" end="1084000000t" region="bottomCenter" style="s1" xml:id="subtitle33">不论多少次 都要重新振作</p>
+<p begin="1084000000t" end="1130700000t" region="bottomCenter" style="s1" xml:id="subtitle34">世界に打ちのめされて　守る意味を知った</p>
+<p begin="1084000000t" end="1130700000t" region="bottomCenter" style="s1" xml:id="subtitle35">被世界摧毁 知晓了守护之意</p>
+<p begin="1130700000t" end="1175900000t" region="bottomCenter" style="s1" xml:id="subtitle36">紅蓮の華よ　咲き誇れ</p>
+<p begin="1130700000t" end="1175900000t" region="bottomCenter" style="s1" xml:id="subtitle37">红莲之花 骄傲绽放</p>
+<p begin="1175900000t" end="1229100000t" region="bottomCenter" style="s1" xml:id="subtitle38">運命を照らして</p>
+<p begin="1175900000t" end="1229100000t" region="bottomCenter" style="s1" xml:id="subtitle39">将命运照亮</p>
+<p begin="1176200000t" end="1229100000t" region="bottomCenter" style="s1" xml:id="subtitle40"></p>
+<p begin="1228700000t" end="1248700000t" region="bottomCenter" style="s1" xml:id="subtitle41"></p>
+<p begin="1250600000t" end="1260600000t" region="bottomCenter" style="s1" xml:id="subtitle42">鬼杀队</p>
+<p begin="1268100000t" end="1294790000t" region="bottomCenter" style="s1" xml:id="subtitle43">共有队员数百名</p>
+<p begin="1303100000t" end="1339800000t" region="bottomCenter" style="s1" xml:id="subtitle44">是未受政府承认的组织</p>
+<p begin="1347800000t" end="1394900000t" region="bottomCenter" style="s1" xml:id="subtitle45">但却从古至今 斩鬼不息</p>
+<p begin="1409500000t" end="1470400000t" region="bottomCenter" style="s1" xml:id="subtitle46">不过 鬼杀队的领导者身份成谜</p>
+<p begin="1482500000t" end="1490400000t" region="bottomCenter" style="s1" xml:id="subtitle47">鬼</p>
+<p begin="1500000000t" end="1517900000t" region="bottomCenter" style="s1" xml:id="subtitle48">主食人类</p>
+<p begin="1524200000t" end="1543400000t" region="bottomCenter" style="s1" xml:id="subtitle49">杀死人类然后食用</p>
+<p begin="1552100000t" end="1580900000t" region="bottomCenter" style="s1" xml:id="subtitle50">出现时间及起源不明</p>
+<p begin="1585900000t" end="1604700000t" region="bottomCenter" style="s1" xml:id="subtitle51">其身体素质极高</p>
+<p begin="1608000000t" end="1631800000t" region="bottomCenter" style="s1" xml:id="subtitle52">伤口也能瞬间痊愈</p>
+<p begin="1639700000t" end="1659300000t" region="bottomCenter" style="s1" xml:id="subtitle53">被砍下的骨肉能重新接上</p>
+<p begin="1663500000t" end="1690600000t" region="bottomCenter" style="s1" xml:id="subtitle54">手脚也能重新长出</p>
+<p begin="1696900000t" end="1732300000t" region="bottomCenter" style="s1" xml:id="subtitle55">也有拥有异能的鬼 比如能改变体貌</p>
+<p begin="1740200000t" end="1796100000t" region="bottomCenter" style="s1" xml:id="subtitle56">只有受到日光照射 或是被特制的刀砍下头颅才会死亡</p>
+<p begin="1808200000t" end="1845800000t" region="bottomCenter" style="s1" xml:id="subtitle57">鬼杀队用血肉之躯与鬼战斗</p>
+<p begin="1852800000t" end="1884500000t" region="bottomCenter" style="s1" xml:id="subtitle58">因为是人类 所以伤口痊愈很慢</p>
+<p begin="1886600000t" end="1913700000t" region="bottomCenter" style="s1" xml:id="subtitle59">失去的手脚也不会再长出来</p>
+<p begin="1920400000t" end="1941300000t" region="bottomCenter" style="s1" xml:id="subtitle60">即便如此 他们仍然与鬼战斗</p>
+<p begin="1950400000t" end="1970000000t" region="bottomCenter" style="s1" xml:id="subtitle61">为了保护人类</p>
+<p begin="2009300000t" end="2045500000t" region="bottomCenter" style="s1" xml:id="subtitle62">锖兔和真菰</p>
+<p begin="2110600000t" end="2126500000t" region="bottomCenter" style="s1" xml:id="subtitle63">我是培育师</p>
+<p begin="2136900000t" end="2159400000t" region="bottomCenter" style="s1" xml:id="subtitle64">即培育剑士之人</p>
+<p begin="2168200000t" end="2186100000t" region="bottomCenter" style="s1" xml:id="subtitle65">培育师有很多人</p>
+<p begin="2189900000t" end="2239500000t" region="bottomCenter" style="s1" xml:id="subtitle66">他们有自己的训练场地 用自己的方式培育剑士</p>
+<p begin="2246200000t" end="2264500000t" region="bottomCenter" style="s1" xml:id="subtitle67">要想加入鬼杀队</p>
+<p begin="2267400000t" end="2322100000t" region="bottomCenter" style="s1" xml:id="subtitle68">就必须去藤袭山参加最终选拔 并活到最后</p>
+<p begin="2329200000t" end="2366300000t" region="bottomCenter" style="s1" xml:id="subtitle69">是否有资格参加最终选拔 由我来决定</p>
+<p begin="2385900000t" end="2425100000t" region="bottomCenter" style="s1" xml:id="subtitle70">为了拯救祢豆子 我从今天开始写日记了</p>
+<p begin="2435500000t" end="2453400000t" region="bottomCenter" style="s1" xml:id="subtitle71">我今天也在下山</p>
+<p begin="2463000000t" end="2491800000t" region="bottomCenter" style="s1" xml:id="subtitle72">为了在最终选拔中活下来 拼命锻炼着</p>
+<p begin="2539400000t" end="2565190000t" region="bottomCenter" style="s1" xml:id="subtitle73">每天都重复着下山</p>
+<p begin="2571100000t" end="2598600000t" region="bottomCenter" style="s1" xml:id="subtitle74">我逐渐能够避开陷阱了</p>
+<p begin="2608200000t" end="2624900000t" region="bottomCenter" style="s1" xml:id="subtitle75">因为我的体力有所提高</p>
+<p begin="2632000000t" end="2677400000t" region="bottomCenter" style="s1" xml:id="subtitle76">鼻子也比以前更灵敏 能分辨出陷阱的气味了</p>
+<p begin="2699500000t" end="2707000000t" region="bottomCenter" style="s1" xml:id="subtitle77">但是…</p>
+<p begin="2732100000t" end="2752900000t" region="bottomCenter" style="s1" xml:id="subtitle78">陷阱的难度也不断提高</p>
+<p begin="2769600000t" end="2789600000t" region="bottomCenter" style="s1" xml:id="subtitle79">杀意满满</p>
+<p begin="2916800000t" end="2941900000t" region="bottomCenter" style="s1" xml:id="subtitle80">今天要拿着刀下山</p>
+<p begin="2950200000t" end="2967700000t" region="bottomCenter" style="s1" xml:id="subtitle81">这刀实在碍事</p>
+<p begin="3007300000t" end="3044000000t" region="bottomCenter" style="s1" xml:id="subtitle82">手上一旦有东西 就总是落入陷阱</p>
+<p begin="3065300000t" end="3172500000t" region="bottomCenter" style="s1" xml:id="subtitle83">991 992 993 994 995 996 997 998 999</p>
+<p begin="3080300000t" end="3097800000t" region="bottomCenter" style="s1" xml:id="subtitle84">今天练习挥刀</p>
+<p begin="3104500000t" end="3136200000t" region="bottomCenter" style="s1" xml:id="subtitle85">不光是今天 最近每天都在挥刀</p>
+<p begin="3143300000t" end="3178800000t" region="bottomCenter" style="s1" xml:id="subtitle86">下山之后就挥刀 挥得手都要断了</p>
+<p begin="3178800000t" end="3189600000t" region="bottomCenter" style="s1" xml:id="subtitle87">1000</p>
+<p begin="3197500000t" end="3216700000t" region="bottomCenter" style="s1" xml:id="subtitle88">再加500次</p>
+<p begin="3369400000t" end="3387300000t" region="bottomCenter" style="s1" xml:id="subtitle89">刀易断</p>
+<p begin="3397700000t" end="3416500000t" region="bottomCenter" style="s1" xml:id="subtitle90">这是师父最初的教导</p>
+<p begin="3429400000t" end="3469500000t" region="bottomCenter" style="s1" xml:id="subtitle91">刀的纵向强度很高 但禁不起横向冲击</p>
+<p begin="3491200000t" end="3524900000t" region="bottomCenter" style="s1" xml:id="subtitle92">挥刀时 要顺着刀刃发力</p>
+<p begin="3538300000t" end="3598800000t" region="bottomCenter" style="s1" xml:id="subtitle93">刀刃的朝向和挥刀的发力方向必须保持一致</p>
+<p begin="3607900000t" end="3627100000t" region="bottomCenter" style="s1" xml:id="subtitle94">另外 师父还威胁我说 要是刀出现破损</p>
+<p begin="3630500000t" end="3656300000t" region="bottomCenter" style="s1" xml:id="subtitle95">也就是说 要是刀折断了</p>
+<p begin="3663000000t" end="3700100000t" region="bottomCenter" style="s1" xml:id="subtitle96">就会把我的骨头也折断</p>
+<p begin="3739300000t" end="3776000000t" region="bottomCenter" style="s1" xml:id="subtitle97">祢豆子 哥哥会努力的</p>
+<p begin="3938700000t" end="3956200000t" region="bottomCenter" style="s1" xml:id="subtitle98">今天练习摔倒</p>
+<p begin="3968700000t" end="4013800000t" region="bottomCenter" style="s1" xml:id="subtitle99">不论以什么姿势摔倒 也要调整好体态 迅速起身</p>
+<p begin="4028800000t" end="4069600000t" region="bottomCenter" style="s1" xml:id="subtitle100">我拿着刀 以砍倒鳞泷师父的势头向他冲去</p>
+<p begin="4077200000t" end="4103400000t" region="bottomCenter" style="s1" xml:id="subtitle101">与此相对 鳞泷师父则空手</p>
+<p begin="4105500000t" end="4113400000t" region="bottomCenter" style="s1" xml:id="subtitle102">不使用武器</p>
+<p begin="4145100000t" end="4165600000t" region="bottomCenter" style="s1" xml:id="subtitle103">但他简直强得可怕</p>
+<p begin="4173100000t" end="4208100000t" region="bottomCenter" style="s1" xml:id="subtitle104">我每次都被他瞬间打飞 摔倒在地</p>
+<p begin="4260300000t" end="4275300000t" region="bottomCenter" style="s1" xml:id="subtitle105">我回来了 祢豆子</p>
+<p begin="4380800000t" end="4415000000t" region="bottomCenter" style="s1" xml:id="subtitle106">今天学习呼吸法和「型」</p>
+<p begin="4425400000t" end="4445900000t" region="bottomCenter" style="s1" xml:id="subtitle107">全集中的呼吸？</p>
+<p begin="4458000000t" end="4468000000t" region="bottomCenter" style="s1" xml:id="subtitle108">对</p>
+<p begin="4472500000t" end="4516800000t" region="bottomCenter" style="s1" xml:id="subtitle109">我会把十种「水之型」全部教给你</p>
+<p begin="4529700000t" end="4586000000t" region="bottomCenter" style="s1" xml:id="subtitle110">深呼吸 让氧气进入你身体的每一个细胞</p>
+<p begin="4591800000t" end="4613900000t" region="bottomCenter" style="s1" xml:id="subtitle111">这样一来 你身体的自然治愈力会提高</p>
+<p begin="4616400000t" end="4646500000t" region="bottomCenter" style="s1" xml:id="subtitle112">能让精神更平静 让思考更灵活</p>
+<p begin="4658200000t" end="4680700000t" region="bottomCenter" style="s1" xml:id="subtitle113">上半身放松</p>
+<p begin="4689000000t" end="4712000000t" region="bottomCenter" style="s1" xml:id="subtitle114">下半身站稳 摆好架势</p>
+<p begin="4719000000t" end="4734100000t" region="bottomCenter" style="s1" xml:id="subtitle115">好 呼吸</p>
+<p begin="4786600000t" end="4798700000t" region="bottomCenter" style="s1" xml:id="subtitle116">不对</p>
+<p begin="4820000000t" end="4833700000t" region="bottomCenter" style="s1" xml:id="subtitle117">下一个 型</p>
+<p begin="4842900000t" end="4859200000t" region="bottomCenter" style="s1" xml:id="subtitle118">明白 是这样吗</p>
+<p begin="4860400000t" end="4870400000t" region="bottomCenter" style="s1" xml:id="subtitle119">不对</p>
+<p begin="4871700000t" end="4882500000t" region="bottomCenter" style="s1" xml:id="subtitle120">这样呢</p>
+<p begin="4882500000t" end="4890900000t" region="bottomCenter" style="s1" xml:id="subtitle121">不对</p>
+<p begin="4890900000t" end="4897600000t" region="bottomCenter" style="s1" xml:id="subtitle122">这样</p>
+<p begin="4897600000t" end="4906300000t" region="bottomCenter" style="s1" xml:id="subtitle123">不对</p>
+<p begin="4906300000t" end="4914200000t" region="bottomCenter" style="s1" xml:id="subtitle124">这样</p>
+<p begin="4914200000t" end="4922200000t" region="bottomCenter" style="s1" xml:id="subtitle125">不对</p>
+<p begin="4925100000t" end="4952600000t" region="bottomCenter" style="s1" xml:id="subtitle126">师父说我腹部没用力</p>
+<p begin="4955500000t" end="4972200000t" region="bottomCenter" style="s1" xml:id="subtitle127">狠狠地打了我的肚子</p>
+<p begin="4985100000t" end="4994700000t" region="bottomCenter" style="s1" xml:id="subtitle128">接下来</p>
+<p begin="5000200000t" end="5024800000t" region="bottomCenter" style="s1" xml:id="subtitle129">师父要我与水合而为一</p>
+<p begin="5031400000t" end="5044800000t" region="bottomCenter" style="s1" xml:id="subtitle130">快下去</p>
+<p begin="5102800000t" end="5137800000t" region="bottomCenter" style="s1" xml:id="subtitle131">祢豆子</p>
+<p begin="5188700000t" end="5203700000t" region="bottomCenter" style="s1" xml:id="subtitle132">祢豆子</p>
+<p begin="5203700000t" end="5236590000t" region="bottomCenter" style="s1" xml:id="subtitle133">我是水</p>
+<p begin="5262500000t" end="5307600000t" region="bottomCenter" style="s1" xml:id="subtitle134">还有 祢豆子陷入沉睡 已经过去了半年</p>
+<p begin="5323000000t" end="5350500000t" region="bottomCenter" style="s1" xml:id="subtitle135">鳞泷师父立刻找来了医生诊断</p>
+<p begin="5358000000t" end="5368400000t" region="bottomCenter" style="s1" xml:id="subtitle136">也没发现异常</p>
+<p begin="5383500000t" end="5414300000t" region="bottomCenter" style="s1" xml:id="subtitle137">但她就是一直沉睡 很奇怪</p>
+<p begin="5466900000t" end="5475200000t" region="bottomCenter" style="s1" xml:id="subtitle138">我很害怕</p>
+<p begin="5490600000t" end="5535300000t" region="bottomCenter" style="s1" xml:id="subtitle139">要是早上起来发现她死了…</p>
+<p begin="5551100000t" end="5579100000t" region="bottomCenter" style="s1" xml:id="subtitle140">我每天都在担心着</p>
+<p begin="5670000000t" end="5713400000t" region="bottomCenter" style="s1" xml:id="subtitle141">下山的路线变成了更加陡峭 空气更稀薄的地方</p>
+<p begin="5785100000t" end="5814700000t" region="bottomCenter" style="s1" xml:id="subtitle142">我无数次以为自己要死了</p>
+<p begin="5989500000t" end="6016600000t" region="bottomCenter" style="s1" xml:id="subtitle143">我已经没有东西可以教你了</p>
+<p begin="6029500000t" end="6047000000t" region="bottomCenter" style="s1" xml:id="subtitle144">来到狭雾山一年后</p>
+<p begin="6054500000t" end="6065400000t" region="bottomCenter" style="s1" xml:id="subtitle145">师父突然对我这么说</p>
+<p begin="6087500000t" end="6105000000t" region="bottomCenter" style="s1" xml:id="subtitle146">之后就靠你自己了</p>
+<p begin="6110000000t" end="6145500000t" region="bottomCenter" style="s1" xml:id="subtitle147">看你能否把我教你的东西化为己用</p>
+<p begin="6193400000t" end="6200500000t" region="bottomCenter" style="s1" xml:id="subtitle148">跟我来</p>
+<p begin="6388200000t" end="6438700000t" region="bottomCenter" style="s1" xml:id="subtitle149">如果你能劈开这块岩石 我就允许你参加最终选拔</p>
+<p begin="6490800000t" end="6501200000t" region="bottomCenter" style="s1" xml:id="subtitle150">岩石…</p>
+<p begin="6513800000t" end="6524200000t" region="bottomCenter" style="s1" xml:id="subtitle151">是用来劈的吗</p>
+<p begin="6535400000t" end="6552500000t" region="bottomCenter" style="s1" xml:id="subtitle152">是能用刀劈开的吗</p>
+<p begin="6564600000t" end="6576700000t" region="bottomCenter" style="s1" xml:id="subtitle153">我不觉得能劈开它</p>
+<p begin="6585500000t" end="6597200000t" region="bottomCenter" style="s1" xml:id="subtitle154">刀会断的</p>
+<p begin="6657600000t" end="6666800000t" region="bottomCenter" style="s1" xml:id="subtitle155">鳞泷师父</p>
+<p begin="6670600000t" end="6696900000t" region="bottomCenter" style="s1" xml:id="subtitle156">请等一下 鳞泷师父</p>
+<p begin="6717300000t" end="6769400000t" region="bottomCenter" style="s1" xml:id="subtitle157">自那之后 鳞泷师父就再也没有教过我</p>
+<p begin="7036400000t" end="7077700000t" region="bottomCenter" style="s1" xml:id="subtitle158">我开始日以继夜地重复练习鳞泷师父教我的技能</p>
+<p begin="7154000000t" end="7183600000t" region="bottomCenter" style="s1" xml:id="subtitle159">包括练习憋气 柔韧度等基本功</p>
+<p begin="7186900000t" end="7207800000t" region="bottomCenter" style="s1" xml:id="subtitle160">还好把这些都写在了日记里</p>
+<p begin="7310400000t" end="7316200000t" region="bottomCenter" style="s1" xml:id="subtitle161">然而</p>
+<p begin="7325000000t" end="7355800000t" region="bottomCenter" style="s1" xml:id="subtitle162">半年过去了 还是没能劈开岩石</p>
+<p begin="7368400000t" end="7378000000t" region="bottomCenter" style="s1" xml:id="subtitle163">我很焦躁</p>
+<p begin="7384600000t" end="7412600000t" region="bottomCenter" style="s1" xml:id="subtitle164">不够 我的锻炼还不够</p>
+<p begin="7419700000t" end="7432200000t" region="bottomCenter" style="s1" xml:id="subtitle165">必须更努力</p>
+<p begin="7437200000t" end="7445100000t" region="bottomCenter" style="s1" xml:id="subtitle166">再努力一点</p>
+<p begin="7528500000t" end="7552300000t" region="bottomCenter" style="s1" xml:id="subtitle167">我是不是没天分啊</p>
+<p begin="7565600000t" end="7583600000t" region="bottomCenter" style="s1" xml:id="subtitle168">祢豆子会在沉睡中死去吗</p>
+<p begin="7609400000t" end="7630700000t" region="bottomCenter" style="s1" xml:id="subtitle169">快坚持不下去了 好想放弃</p>
+<p begin="7650300000t" end="7674100000t" region="bottomCenter" style="s1" xml:id="subtitle170">努力啊 我要努力</p>
+<p begin="7684900000t" end="7693700000t" region="bottomCenter" style="s1" xml:id="subtitle171">吵死了</p>
+<p begin="7755800000t" end="7770400000t" region="bottomCenter" style="s1" xml:id="subtitle172">堂堂男子汉 别哭天喊地的</p>
+<p begin="7773800000t" end="7782500000t" region="bottomCenter" style="s1" xml:id="subtitle173">真没出息</p>
+<p begin="7791300000t" end="7799600000t" region="bottomCenter" style="s1" xml:id="subtitle174">什么时候出现的</p>
+<p begin="7805500000t" end="7813800000t" region="bottomCenter" style="s1" xml:id="subtitle175">没有气味</p>
+<p begin="7819200000t" end="7828400000t" region="bottomCenter" style="s1" xml:id="subtitle176">狐狸面具？</p>
+<p begin="7840100000t" end="7865900000t" region="bottomCenter" style="s1" xml:id="subtitle177">不论多么痛苦 都给我忍着别出声</p>
+<p begin="7878000000t" end="7893900000t" region="bottomCenter" style="s1" xml:id="subtitle178">如果你生为男儿</p>
+<p begin="7914700000t" end="7931800000t" region="bottomCenter" style="s1" xml:id="subtitle179">如果你还是个男子汉</p>
+<p begin="8023200000t" end="8057000000t" region="bottomCenter" style="s1" xml:id="subtitle180">迟钝 弱小 幼稚</p>
+<p begin="8075700000t" end="8099100000t" region="bottomCenter" style="s1" xml:id="subtitle181">这算什么男子汉</p>
+<p begin="8220900000t" end="8235500000t" region="bottomCenter" style="s1" xml:id="subtitle182">你突然这是做什么啊</p>
+<p begin="8245100000t" end="8268800000t" region="bottomCenter" style="s1" xml:id="subtitle183">我才要问你 你在做什么</p>
+<p begin="8278000000t" end="8299700000t" region="bottomCenter" style="s1" xml:id="subtitle184">我在锻炼啊</p>
+<p begin="8306800000t" end="8332700000t" region="bottomCenter" style="s1" xml:id="subtitle185">你要在地上坐到什么时候</p>
+<p begin="8338900000t" end="8351400000t" region="bottomCenter" style="s1" xml:id="subtitle186">都不摆好架势</p>
+<p begin="8394400000t" end="8414800000t" region="bottomCenter" style="s1" xml:id="subtitle187">攻过来吧</p>
+<p begin="8424800000t" end="8459900000t" region="bottomCenter" style="s1" xml:id="subtitle188">可是 你拿的是木刀 而我拿着真刀</p>
+<p begin="8612900000t" end="8660500000t" region="bottomCenter" style="s1" xml:id="subtitle189">真是多谢你的关心</p>
+<p begin="8666300000t" end="8705900000t" region="bottomCenter" style="s1" xml:id="subtitle190">你居然以为能伤到我</p>
+<p begin="8732600000t" end="8754700000t" region="bottomCenter" style="s1" xml:id="subtitle191">你就把心放到肚子里吧</p>
+<p begin="8757700000t" end="8775600000t" region="bottomCenter" style="s1" xml:id="subtitle192">我比你强</p>
+<p begin="8779800000t" end="8798100000t" region="bottomCenter" style="s1" xml:id="subtitle193">因为我劈开了岩石</p>
+<p begin="8806500000t" end="8817700000t" region="bottomCenter" style="s1" xml:id="subtitle194">他劈开了岩石？</p>
+<p begin="8996200000t" end="9017100000t" region="bottomCenter" style="s1" xml:id="subtitle195">你什么都没学会</p>
+<p begin="9019600000t" end="9041300000t" region="bottomCenter" style="s1" xml:id="subtitle196">根本没把知识化为己用</p>
+<p begin="9054600000t" end="9087600000t" region="bottomCenter" style="s1" xml:id="subtitle197">特别是鳞泷师父教授的呼吸术</p>
+<p begin="9093000000t" end="9111800000t" region="bottomCenter" style="s1" xml:id="subtitle198">全集中的呼吸</p>
+<p begin="9127600000t" end="9141400000t" region="bottomCenter" style="s1" xml:id="subtitle199">他知道鳞泷师父？</p>
+<p begin="9152600000t" end="9159700000t" region="bottomCenter" style="s1" xml:id="subtitle200">连呼吸术也知道？</p>
+<p begin="9170200000t" end="9201000000t" region="bottomCenter" style="s1" xml:id="subtitle201">你只是把这些作为知识记在了脑子里</p>
+<p begin="9211900000t" end="9236500000t" region="bottomCenter" style="s1" xml:id="subtitle202">你的身体根本就没有学会</p>
+<p begin="9251500000t" end="9281900000t" region="bottomCenter" style="s1" xml:id="subtitle203">这一年半的时间里 你都做了些什么</p>
+<p begin="9309000000t" end="9334100000t" region="bottomCenter" style="s1" xml:id="subtitle204">让你的血肉记住它们</p>
+<p begin="9343200000t" end="9378000000t" region="bottomCenter" style="s1" xml:id="subtitle205">不够 不够 还不够</p>
+<p begin="9380000000t" end="9430000000t" region="bottomCenter" style="s1" xml:id="subtitle206">让你的身体永远铭记鳞泷师父教你的知识</p>
+<p begin="9435400000t" end="9460400000t" region="bottomCenter" style="s1" xml:id="subtitle207">将它们深深刻进你的骨髓</p>
+<p begin="9462500000t" end="9473400000t" region="bottomCenter" style="s1" xml:id="subtitle208">我在这么做</p>
+<p begin="9479600000t" end="9495900000t" region="bottomCenter" style="s1" xml:id="subtitle209">我每天都在这么做</p>
+<p begin="9497200000t" end="9506700000t" region="bottomCenter" style="s1" xml:id="subtitle210">拼命练习</p>
+<p begin="9513000000t" end="9535900000t" region="bottomCenter" style="s1" xml:id="subtitle211">但就是不行</p>
+<p begin="9542600000t" end="9572600000t" region="bottomCenter" style="s1" xml:id="subtitle212">我已经无法前进了</p>
+<p begin="9578500000t" end="9587700000t" region="bottomCenter" style="s1" xml:id="subtitle213">给我前进</p>
+<p begin="9590600000t" end="9622700000t" region="bottomCenter" style="s1" xml:id="subtitle214">如果你生为男儿 是条汉子</p>
+<p begin="9626400000t" end="9646900000t" region="bottomCenter" style="s1" xml:id="subtitle215">就只有前进</p>
+<p begin="9649400000t" end="9659800000t" region="bottomCenter" style="s1" xml:id="subtitle216">来吧</p>
+<p begin="9664800000t" end="9690400000t" region="bottomCenter" style="s1" xml:id="subtitle217">让我见识一下你的力量</p>
+<p begin="9865900000t" end="9879600000t" region="bottomCenter" style="s1" xml:id="subtitle218">接下来就交给你了</p>
+<p begin="10013100000t" end="10023500000t" region="bottomCenter" style="s1" xml:id="subtitle219">你还好吧</p>
+<p begin="10051900000t" end="10066100000t" region="bottomCenter" style="s1" xml:id="subtitle220">刚才你看到了吗</p>
+<p begin="10081500000t" end="10096900000t" region="bottomCenter" style="s1" xml:id="subtitle221">那一击真厉害</p>
+<p begin="10100300000t" end="10119000000t" region="bottomCenter" style="s1" xml:id="subtitle222">丝毫没有多余的动作</p>
+<p begin="10124400000t" end="10138600000t" region="bottomCenter" style="s1" xml:id="subtitle223">真的很干净利落</p>
+<p begin="10145700000t" end="10164100000t" region="bottomCenter" style="s1" xml:id="subtitle224">我也想变成那样</p>
+<p begin="10168200000t" end="10184900000t" region="bottomCenter" style="s1" xml:id="subtitle225">我能变成那样吗</p>
+<p begin="10214100000t" end="10225800000t" region="bottomCenter" style="s1" xml:id="subtitle226">一定能</p>
+<p begin="10231600000t" end="10248690000t" region="bottomCenter" style="s1" xml:id="subtitle227">我会指导你的</p>
+<p begin="10300000000t" end="10312600000t" region="bottomCenter" style="s1" xml:id="subtitle228">好可爱</p>
+<p begin="10326700000t" end="10342200000t" region="bottomCenter" style="s1" xml:id="subtitle229">你是谁</p>
+<p begin="10365100000t" end="10393000000t" region="bottomCenter" style="s1" xml:id="subtitle230">那个女孩名叫真菰</p>
+<p begin="10404300000t" end="10433490000t" region="bottomCenter" style="s1" xml:id="subtitle231">她告诉我 那个少年名叫锖兔</p>
+<p begin="10443490000t" end="10479400000t" region="bottomCenter" style="s1" xml:id="subtitle232">而且 真菰还帮我指出了缺点</p>
+<p begin="10492300000t" end="10532400000t" region="bottomCenter" style="s1" xml:id="subtitle233">她帮我纠正了多余的动作和坏习惯</p>
+<p begin="10548200000t" end="10585700000t" region="bottomCenter" style="s1" xml:id="subtitle234">我问过她为什么要帮我 也问过她从哪来</p>
+<p begin="10589100000t" end="10599900000t" region="bottomCenter" style="s1" xml:id="subtitle235">但她就是不告诉我</p>
+<p begin="10619900000t" end="10657900000t" region="bottomCenter" style="s1" xml:id="subtitle236">我们都很喜欢鳞泷师父</p>
+<p begin="10667100000t" end="10697100000t" region="bottomCenter" style="s1" xml:id="subtitle237">真菰一直把这句话挂在嘴边</p>
+<p begin="10710400000t" end="10723800000t" region="bottomCenter" style="s1" xml:id="subtitle238">他们二人并不是兄妹</p>
+<p begin="10731300000t" end="10761300000t" region="bottomCenter" style="s1" xml:id="subtitle239">他们是孤儿 被鳞泷师父收养了</p>
+<p begin="10774700000t" end="10803500000t" region="bottomCenter" style="s1" xml:id="subtitle240">还有很多孩子的</p>
+<p begin="10810500000t" end="10830200000t" region="bottomCenter" style="s1" xml:id="subtitle241">大家一直都在看着你</p>
+<p begin="10849300000t" end="10878900000t" region="bottomCenter" style="s1" xml:id="subtitle242">真菰这孩子有些奇怪</p>
+<p begin="10891000000t" end="10909000000t" region="bottomCenter" style="s1" xml:id="subtitle243">经常说些我不太懂的话</p>
+<p begin="10924400000t" end="10944000000t" region="bottomCenter" style="s1" xml:id="subtitle244">全集中的呼吸</p>
+<p begin="10949900000t" end="10992800000t" region="bottomCenter" style="s1" xml:id="subtitle245">可以加速全身的血液循环 加快心脏的跳动</p>
+<p begin="11001600000t" end="11029100000t" region="bottomCenter" style="s1" xml:id="subtitle246">这样一来 体温就会上升</p>
+<p begin="11036200000t" end="11063300000t" region="bottomCenter" style="s1" xml:id="subtitle247">能让普通人也变得像鬼一样强大</p>
+<p begin="11076200000t" end="11105400000t" region="bottomCenter" style="s1" xml:id="subtitle248">总而言之 就是要扩张肺部</p>
+<p begin="11115900000t" end="11148800000t" region="bottomCenter" style="s1" xml:id="subtitle249">让尽可能多的空气融入血液</p>
+<p begin="11153800000t" end="11169700000t" region="bottomCenter" style="s1" xml:id="subtitle250">在血液受到惊吓之时</p>
+<p begin="11176700000t" end="11202600000t" region="bottomCenter" style="s1" xml:id="subtitle251">骨头和肌肉就会因慌张而发热</p>
+<p begin="11205900000t" end="11213900000t" region="bottomCenter" style="s1" xml:id="subtitle252">就能变强</p>
+<p begin="11226800000t" end="11241800000t" region="bottomCenter" style="s1" xml:id="subtitle253">不懂</p>
+<p begin="11254700000t" end="11272700000t" region="bottomCenter" style="s1" xml:id="subtitle254">要怎样才能做到啊</p>
+<p begin="11309000000t" end="11323600000t" region="bottomCenter" style="s1" xml:id="subtitle255">拼死练习</p>
+<p begin="11329800000t" end="11365700000t" region="bottomCenter" style="s1" xml:id="subtitle256">说到底 只有通过练习才能变强</p>
+<p begin="11402400000t" end="11432000000t" region="bottomCenter" style="s1" xml:id="subtitle257">我拼死挥刀 直到手脚快要断掉</p>
+<p begin="11439900000t" end="11467900000t" region="bottomCenter" style="s1" xml:id="subtitle258">直到肺和心脏快要炸裂</p>
+<p begin="11475000000t" end="11485000000t" region="bottomCenter" style="s1" xml:id="subtitle259">一刻不停歇</p>
+<p begin="11496200000t" end="11503300000t" region="bottomCenter" style="s1" xml:id="subtitle260">即便如此</p>
+<p begin="11519200000t" end="11535400000t" region="bottomCenter" style="s1" xml:id="subtitle261">我也没能战胜锖兔</p>
+<p begin="11565900000t" end="11590900000t" region="bottomCenter" style="s1" xml:id="subtitle262">直到半年后</p>
+<p begin="11678500000t" end="11703900000t" region="bottomCenter" style="s1" xml:id="subtitle263">那一天 我去挑战他的时候</p>
+<p begin="11711000000t" end="11728100000t" region="bottomCenter" style="s1" xml:id="subtitle264">锖兔拿着真刀</p>
+<p begin="11738100000t" end="11750700000t" region="bottomCenter" style="s1" xml:id="subtitle265">过了半年</p>
+<p begin="11770700000t" end="11787800000t" region="bottomCenter" style="s1" xml:id="subtitle266">终于有点男子汉的样子了</p>
+<p begin="11872400000t" end="11885800000t" region="bottomCenter" style="s1" xml:id="subtitle267">今天一定要战胜你</p>
+<p begin="11963800000t" end="11986700000t" region="bottomCenter" style="s1" xml:id="subtitle268">正面对决很简单</p>
+<p begin="11996300000t" end="12026800000t" region="bottomCenter" style="s1" xml:id="subtitle269">更快更强者胜</p>
+<p begin="12159000000t" end="12176900000t" region="bottomCenter" style="s1" xml:id="subtitle270">胜负就在一瞬间</p>
+<p begin="12196100000t" end="12220300000t" region="bottomCenter" style="s1" xml:id="subtitle271">这一天 这个瞬间</p>
+<p begin="12226500000t" end="12254900000t" region="bottomCenter" style="s1" xml:id="subtitle272">我的刀刃第一次率先碰到锖兔</p>
+<p begin="12366300000t" end="12378400000t" region="bottomCenter" style="s1" xml:id="subtitle273">我获胜的时候</p>
+<p begin="12390000000t" end="12401700000t" region="bottomCenter" style="s1" xml:id="subtitle274">锖兔笑了</p>
+<p begin="12415900000t" end="12438400000t" region="bottomCenter" style="s1" xml:id="subtitle275">他像是快要哭泣 却又面带微笑</p>
+<p begin="12449700000t" end="12467200000t" region="bottomCenter" style="s1" xml:id="subtitle276">一脸欣慰和安心</p>
+<p begin="12489700000t" end="12497600000t" region="bottomCenter" style="s1" xml:id="subtitle277">炭治郎</p>
+<p begin="12514300000t" end="12546000000t" region="bottomCenter" style="s1" xml:id="subtitle278">你做得很好 不要忘记刚才的感觉</p>
+<p begin="12570600000t" end="12587700000t" region="bottomCenter" style="s1" xml:id="subtitle279">一定要赢啊 炭治郎</p>
+<p begin="12596100000t" end="12604400000t" region="bottomCenter" style="s1" xml:id="subtitle280">也要战胜那家伙</p>
+<p begin="12677400000t" end="12704100000t" region="bottomCenter" style="s1" xml:id="subtitle281">回过神来 锖兔已经消失不见</p>
+<p begin="12737100000t" end="12762900000t" region="bottomCenter" style="s1" xml:id="subtitle282">而我手中 那把本应劈开了锖兔面具的刀</p>
+<p begin="12843400000t" end="12870100000t" region="bottomCenter" style="s1" xml:id="subtitle283">劈开了岩石</p>
+<p begin="12939300000t" end="12995200000t" region="bottomCenter" style="s1" xml:id="subtitle284">悲しみに囚われたくはない</p>
+<p begin="12939300000t" end="12995200000t" region="bottomCenter" style="s1" xml:id="subtitle285">不愿在悲伤之中迷失</p>
+<p begin="12995200000t" end="13088200000t" region="bottomCenter" style="s1" xml:id="subtitle286">俯いた場所に涙を落として行きたくない</p>
+<p begin="12995200000t" end="13088200000t" region="bottomCenter" style="s1" xml:id="subtitle287">不愿在倒下之处落泪</p>
+<p begin="13088200000t" end="13121200000t" region="bottomCenter" style="s1" xml:id="subtitle288">運命を振りほどいて</p>
+<p begin="13088200000t" end="13121200000t" region="bottomCenter" style="s1" xml:id="subtitle289">无视命中注定</p>
+<p begin="13121200000t" end="13180800000t" region="bottomCenter" style="s1" xml:id="subtitle290">走り出せるはずなんだ　願いは叶うはずなんだ</p>
+<p begin="13121200000t" end="13180800000t" region="bottomCenter" style="s1" xml:id="subtitle291">定能勇往直前 定能实现梦想</p>
+<p begin="13180800000t" end="13214600000t" region="bottomCenter" style="s1" xml:id="subtitle292">叩き潰せ　昨日の葛藤</p>
+<p begin="13180800000t" end="13214600000t" region="bottomCenter" style="s1" xml:id="subtitle293">斩断昨日纠葛</p>
+<p begin="13214600000t" end="13267600000t" region="bottomCenter" style="s1" xml:id="subtitle294">cry for the future from the edge of darkness</p>
+<p begin="13214600000t" end="13267600000t" region="bottomCenter" style="s1" xml:id="subtitle295">cry for the future from the edge of darkness</p>
+<p begin="13267600000t" end="13332700000t" region="bottomCenter" style="s1" xml:id="subtitle296">向かい風を乗っ取って　嵐の先は見えなくたって</p>
+<p begin="13267600000t" end="13332700000t" region="bottomCenter" style="s1" xml:id="subtitle297">驭风而行 即便被风暴遮蔽前路</p>
+<p begin="13332700000t" end="13381900000t" region="bottomCenter" style="s1" xml:id="subtitle298">もう道は選べない　勝ち残れ</p>
+<p begin="13332700000t" end="13381900000t" region="bottomCenter" style="s1" xml:id="subtitle299">也只能前进 战胜强敌吧</p>
+<p begin="13381900000t" end="13460300000t" region="bottomCenter" style="s1" xml:id="subtitle300">迷いはいつも愛情と怒りを秤にかける</p>
+<p begin="13381900000t" end="13460300000t" region="bottomCenter" style="s1" xml:id="subtitle301">踌躇之时 总在爱恨间摇摆不定</p>
+<p begin="13460300000t" end="13530800000t" region="bottomCenter" style="s1" xml:id="subtitle302">さあ　立ち上がるんだ　もう一度</p>
+<p begin="13460300000t" end="13530800000t" region="bottomCenter" style="s1" xml:id="subtitle303">再一次站起来吧</p>
+<p begin="13535800000t" end="13670500000t" region="bottomCenter" style="s1" xml:id="subtitle304">今　君はその刃を　どこへ振り下ろす？</p>
+<p begin="13535800000t" end="13670500000t" region="bottomCenter" style="s1" xml:id="subtitle305">此刻 你会将那刀刃 挥向何方？</p>
+<p begin="13670500000t" end="13690900000t" region="bottomCenter" style="s1" xml:id="subtitle306"></p>
+<p begin="13851900000t" end="13865300000t" region="bottomCenter" style="s1" xml:id="subtitle307">我自己也吓了一跳</p>
+<p begin="13867400000t" end="13884500000t" region="bottomCenter" style="s1" xml:id="subtitle308">居然能劈开那么大的岩石</p>
+<p begin="13888600000t" end="13908600000t" region="bottomCenter" style="s1" xml:id="subtitle309">这也都是多亏了锖兔和真菰</p>
+<p begin="13910700000t" end="13925300000t" region="bottomCenter" style="s1" xml:id="subtitle310">得好好感谢他们才行</p>
+<p begin="13942400000t" end="13969500000t" region="bottomCenter" style="s1" xml:id="subtitle311">现在开始 大正秘密悄悄话</p>
+<p begin="13975800000t" end="13999600000t" region="bottomCenter" style="s1" xml:id="subtitle312">鳞泷师父为什么戴着面具呢</p>
+<p begin="14002900000t" end="14055900000t" region="bottomCenter" style="s1" xml:id="subtitle313">据说是因为他长相太温柔 被鬼嘲笑了</p>
+<p begin="14061700000t" end="14087200000t" region="bottomCenter" style="s1" xml:id="subtitle314">锖兔 真菰 鳞泷师父</p>
+<p begin="14093800000t" end="14127200000t" region="bottomCenter" style="s1" xml:id="subtitle315">为了把祢豆子变回人类 我会努力的</p>
+<p begin="14143500000t" end="14169700000t" region="bottomCenter" style="s1" xml:id="subtitle316">下集 第4集 最终选拔</p>
+<p begin="14170600000t" end="14199800000t" region="bottomCenter" style="s1" xml:id="subtitle317">待续</p>
+<p begin="14199300000t" end="14219400000t" region="bottomCenter" style="s1" xml:id="subtitle318"></p>
+</div>
+</body>
+</tt>
